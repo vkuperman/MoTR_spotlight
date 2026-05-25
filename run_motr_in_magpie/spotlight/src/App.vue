@@ -164,7 +164,16 @@
             <input type="hidden" class="trial_index" :value="i + 1">
             <input v-if="trial.onestop_file" type="hidden" class="onestop_file" :value="trial.onestop_file">
             <input v-if="trial.onestop_level" type="hidden" class="onestop_level" :value="trial.onestop_level">
+            <input v-if="trial.onestop_article_number" type="hidden" class="onestop_article_number" :value="trial.onestop_article_number">
+            <input v-if="trial.onestop_article_title" type="hidden" class="onestop_article_title" :value="trial.onestop_article_title">
+            <input v-if="trial.onestop_source_file" type="hidden" class="onestop_source_file" :value="trial.onestop_source_file">
+            <input v-if="trial.onestop_article_order != null" type="hidden" class="onestop_article_order" :value="trial.onestop_article_order">
+            <input v-if="trial.onestop_level_pair" type="hidden" class="onestop_level_pair" :value="trial.onestop_level_pair">
+            <input v-if="trial.onestop_level_assignment_index != null" type="hidden" class="onestop_level_assignment_index" :value="trial.onestop_level_assignment_index">
+            <input v-if="trial.onestop_cambridge_score != null" type="hidden" class="onestop_cambridge_score" :value="trial.onestop_cambridge_score">
+            <input v-if="trial.onestop_level_assignment_rule" type="hidden" class="onestop_level_assignment_rule" :value="trial.onestop_level_assignment_rule">
             <input v-if="trial.onestop_paragraph_index != null" type="hidden" class="onestop_paragraph_index" :value="trial.onestop_paragraph_index">
+            <input v-if="trial.onestop_paragraph_count != null" type="hidden" class="onestop_paragraph_count" :value="trial.onestop_paragraph_count">
             <input v-if="trial.onestop_question_slot != null" type="hidden" class="onestop_question_slot" :value="trial.onestop_question_slot">
           </form>
           <div class="oval-cursor"></div>
@@ -229,7 +238,7 @@
 // Practice trials (TSV); main trials from OneStop CSVs; comprehension from OneStop Stimuli .xlsx
 import spotlight_practice from '../trials/spotlight_items_practice.tsv';
 import _ from 'lodash';
-import { buildOneStopTrialLists, pickShuffledOneStopBlock } from './buildOneStopTrialLists';
+import { buildOneStopTrialLists, pickArticleLevelOneStopTrials } from './buildOneStopTrialLists';
 import { loadStimuliRowMap, mergeStimuliQuestionsIntoTrials } from './parseOneStopStimuli';
 import {
   prepareCambridgeQuestions,
@@ -275,6 +284,8 @@ export default {
       clickPositionInLine: null,
       interestAreasByIndex: {},
       lastItemId: null,
+      oneStopRowMap: new Map(),
+      oneStopLists: null,
       cambridgeQuestions: [],
       cambridgeScoring: [],
       cambridgeSelected: [],
@@ -288,16 +299,8 @@ export default {
       // eslint-disable-next-line no-console
       console.warn('Could not load OneStop Stimuli workbook; using fallback questions for passages.', e);
     }
-    const oneStopLists = buildOneStopTrialLists();
-    const shuffledItems = pickShuffledOneStopBlock(oneStopLists);
-    const merged = mergeStimuliQuestionsIntoTrials(_.concat(spotlight_practice, shuffledItems), rowMap);
-    const updatedTrials = merged.map((trial) => ({
-      ...trial,
-      response_options: _.shuffle(
-        `${trial.response_true}|${trial.response_distractors}`.replace(/ ?["]+/g, '').split('|')
-      ),
-    }));
-    this.trials = updatedTrials;
+    this.oneStopRowMap = rowMap;
+    this.oneStopLists = buildOneStopTrialLists();
     const camQ = prepareCambridgeQuestions(cambridgeTestCsv);
     this.cambridgeQuestions = camQ;
     this.cambridgeScoring = prepareCambridgeScoring(cambridgeScoringCsv);
@@ -763,13 +766,61 @@ export default {
       });
       this.$magpie.saveAndNextScreen();
     },
+    levelPairForCambridgeScore(score) {
+      if (score <= 14) {
+        return {
+          levelPair: ['elementary', 'intermediate'],
+          assignmentRule: 'cambridge_0_14_elementary_intermediate',
+        };
+      }
+      if (score >= 22) {
+        return {
+          levelPair: ['intermediate', 'advanced'],
+          assignmentRule: 'cambridge_22_25_intermediate_advanced',
+        };
+      }
+      const middlePairs = [
+        {
+          levelPair: ['elementary', 'intermediate'],
+          assignmentRule: 'cambridge_15_21_random_elementary_intermediate',
+        },
+        {
+          levelPair: ['intermediate', 'advanced'],
+          assignmentRule: 'cambridge_15_21_random_intermediate_advanced',
+        },
+      ];
+      return middlePairs[Math.floor(Math.random() * middlePairs.length)];
+    },
+    prepareReadingTrials(score) {
+      const { levelPair, assignmentRule } = this.levelPairForCambridgeScore(score);
+      const readingItems = pickArticleLevelOneStopTrials(this.oneStopLists, { levelPair })
+        .map((trial) => ({
+          ...trial,
+          onestop_cambridge_score: score,
+          onestop_level_assignment_rule: assignmentRule,
+        }));
+      const merged = mergeStimuliQuestionsIntoTrials(
+        _.concat(spotlight_practice, readingItems),
+        this.oneStopRowMap
+      );
+      this.trials = merged.map((trial) => ({
+        ...trial,
+        response_options: _.shuffle(
+          `${trial.response_true}|${trial.response_distractors}`.replace(/ ?["]+/g, '').split('|')
+        ),
+      }));
+      return { levelPair, assignmentRule };
+    },
     finishCambridgeBlock() {
       const score = this.cambridgeComputedScore;
+      const { levelPair, assignmentRule } = this.prepareReadingTrials(score);
       this.$magpie.addTrialData({
         source: 'cambridge_general_english_summary',
         cambridge_score: score,
         cambridge_max: this.cambridgeQuestions.length,
         cambridge_cefr: this.cambridgeCefrLabel,
+        onestop_level_pair: levelPair.join('|'),
+        onestop_level_assignment_rule: assignmentRule,
       });
       this.$magpie.saveAndNextScreen();
     },

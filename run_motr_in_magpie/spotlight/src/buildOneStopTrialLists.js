@@ -4,6 +4,7 @@ const DEFAULT_QUESTION =
   'Overall, how well could you follow the main ideas in this passage?';
 const RESPONSE_TRUE = 'Fairly well or very well';
 const RESPONSE_DISTRACTORS = 'Not at all|Only a little';
+const ARTICLES_PER_LEVEL = 15;
 
 /** Canonical order within each file. */
 const LEVEL_ORDER = ['elementary', 'intermediate', 'advanced'];
@@ -66,6 +67,13 @@ function normalizeLegacyEncoding(text) {
     .replace(/Ð/g, "'");
 }
 
+function firstPresent(row, keys) {
+  for (const key of keys) {
+    if (row[key] != null && String(row[key]).trim()) return row[key];
+  }
+  return '';
+}
+
 /**
  * One display passage per CSV data row and level (matches OneStop Stimuli `paragraph #`
  * = 1-based data row index). Multiple chunks from one cell are joined with a space.
@@ -112,6 +120,9 @@ export function buildOneStopTrialLists(options = {}) {
     for (let ri = 0; ri < rows.length; ri++) {
       const row = rows[ri];
       const paragraphIndex = ri + 1;
+      const articleNumber = firstPresent(row, ['Article Number', 'article_number', 'articleNumber']);
+      const articleTitle = firstPresent(row, ['Title', 'Article title', 'Article Title']);
+      const sourceFile = firstPresent(row, ['Source File', 'FileName', 'Filename']);
       let levelIndex = 0;
       for (const level of LEVEL_ORDER) {
         levelIndex += 1;
@@ -135,29 +146,93 @@ export function buildOneStopTrialLists(options = {}) {
           onestop_column: colKey,
           onestop_paragraph_index: paragraphIndex,
           onestop_paragraph_count: paragraphCount,
+          onestop_article_number: articleNumber,
+          onestop_article_title: articleTitle || base,
+          onestop_source_file: sourceFile,
         });
       }
     }
   }
 
-  const numbered = trials.map((t, i) => ({ ...t, item_id: i + 1 }));
-
-  const n = numbered.length;
-  if (n === 0) {
-    return { list1: [], list2: [], list3: [], all: [] };
-  }
-  const third = Math.ceil(n / 3);
-  const list1 = numbered.slice(0, third);
-  const list2 = numbered.slice(third, third * 2);
-  const list3 = numbered.slice(third * 2);
-
-  return { list1, list2, list3, all: numbered };
+  return { all: trials };
 }
 
-export function pickShuffledOneStopBlock(listsTuple) {
-  const { list1, list2, list3 } = listsTuple;
-  const lists = [list1, list2, list3].filter((l) => l.length > 0);
-  if (!lists.length) return [];
-  const chosen = lists[Math.floor(Math.random() * lists.length)];
-  return _.shuffle(chosen);
+function articleKey(trial) {
+  return String(trial.onestop_article_number || trial.onestop_file || '').trim();
+}
+
+function articleSortValue(trial) {
+  const n = parseInt(String(trial.onestop_article_number || '').trim(), 10);
+  return Number.isFinite(n) ? n : trial.onestop_file;
+}
+
+function groupTrialsByArticle(trials) {
+  const grouped = new Map();
+  for (const trial of trials) {
+    const key = articleKey(trial);
+    if (!key) continue;
+    if (!grouped.has(key)) {
+      grouped.set(key, {
+        key,
+        sortValue: articleSortValue(trial),
+        title: trial.onestop_article_title,
+        trials: [],
+      });
+    }
+    grouped.get(key).trials.push(trial);
+  }
+  return Array.from(grouped.values()).sort((a, b) => {
+    if (typeof a.sortValue === 'number' && typeof b.sortValue === 'number') {
+      return a.sortValue - b.sortValue;
+    }
+    return String(a.sortValue).localeCompare(String(b.sortValue), undefined, {
+      sensitivity: 'base',
+    });
+  });
+}
+
+function trialsForArticleLevel(article, level) {
+  return article.trials
+    .filter((trial) => trial.onestop_level === level)
+    .sort((a, b) => a.onestop_paragraph_index - b.onestop_paragraph_index);
+}
+
+/**
+ * Each participant sees all articles once: 15 articles in one randomly selected
+ * level and 15 in another. Article order is randomized, but paragraphs stay in
+ * their original order within each article.
+ */
+export function pickArticleLevelOneStopTrials(listsTuple, options = {}) {
+  const articlesPerLevel = options.articlesPerLevel || ARTICLES_PER_LEVEL;
+  const levelPair = options.levelPair || _.shuffle(options.levels || LEVEL_ORDER).slice(0, 2);
+  const articles = _.shuffle(groupTrialsByArticle(listsTuple.all || []));
+  const assignments = [];
+
+  for (let levelIndex = 0; levelIndex < levelPair.length; levelIndex++) {
+    const start = levelIndex * articlesPerLevel;
+    const end = start + articlesPerLevel;
+    for (const article of articles.slice(start, end)) {
+      assignments.push({
+        article,
+        level: levelPair[levelIndex],
+        levelAssignmentIndex: levelIndex + 1,
+      });
+    }
+  }
+
+  const selected = [];
+  _.shuffle(assignments).forEach((assignment, articleOrderIndex) => {
+    const articleTrials = trialsForArticleLevel(assignment.article, assignment.level);
+    for (const trial of articleTrials) {
+      selected.push({
+        ...trial,
+        item_id: selected.length + 1,
+        onestop_article_order: articleOrderIndex + 1,
+        onestop_level_pair: levelPair.join('|'),
+        onestop_level_assignment_index: assignment.levelAssignmentIndex,
+      });
+    }
+  });
+
+  return selected;
 }

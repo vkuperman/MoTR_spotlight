@@ -3,10 +3,21 @@ import * as XLSX from 'xlsx';
 /** Match Excel `.csv name` to Text folder filename (no extension). */
 export function normalizeCsvStem(name) {
   return String(name || '')
+    .replace(/\\/g, '/')
+    .split('/')
+    .pop()
+    .replace(/\.(csv|txt)$/i, '')
     .replace(/\.csv$/i, '')
     .toLowerCase()
     .trim()
     .replace(/\s+/g, ' ');
+}
+
+function firstPresent(row, keys) {
+  for (const key of keys) {
+    if (row[key] != null && String(row[key]).trim()) return row[key];
+  }
+  return '';
 }
 
 function normAnswer(s) {
@@ -23,9 +34,39 @@ function normAnswer(s) {
  */
 export function pickRandomQuestionFromStimuliRow(row) {
   const slots = [
-    { n: 1, q: row.Q1, opts: [row['1A'], row['1B'], row['1C'], row['1D']], c: row.CorrectAns1 },
-    { n: 2, q: row.Q2, opts: [row['2A'], row['2B'], row['2C'], row['2D']], c: row.CorrectAns2 },
-    { n: 3, q: row.Q3, opts: [row['3A'], row['3B'], row['3C'], row['3D']], c: row.CorrectAns3 },
+    {
+      n: 1,
+      q: firstPresent(row, ['Q:', 'Q1', 'Q']),
+      opts: [
+        firstPresent(row, ['Qa:', 'Qa', '1A']),
+        firstPresent(row, ['Qb:', 'Qb', '1B']),
+        firstPresent(row, ['Qc:', 'Qc', '1C']),
+        firstPresent(row, ['Qd:', 'Qd', '1D']),
+      ],
+      c: firstPresent(row, ['CorrectAns1', 'Qa:', 'Qa', '1A']),
+    },
+    {
+      n: 2,
+      q: firstPresent(row, ['Q1:', 'Q2']),
+      opts: [
+        firstPresent(row, ['Q1a:', 'Q1a', '2A']),
+        firstPresent(row, ['Q1b:', 'Q1b', '2B']),
+        firstPresent(row, ['Q1c:', 'Q1c', '2C']),
+        firstPresent(row, ['Q1d:', 'Q1d', '2D']),
+      ],
+      c: firstPresent(row, ['CorrectAns2', 'Q1a:', 'Q1a', '2A']),
+    },
+    {
+      n: 3,
+      q: firstPresent(row, ['Q2:', 'Q3']),
+      opts: [
+        firstPresent(row, ['Q2a:', 'Q2a', '3A']),
+        firstPresent(row, ['Q2b:', 'Q2b', '3B']),
+        firstPresent(row, ['Q2c:', 'Q2c', '3C']),
+        firstPresent(row, ['Q2d:', 'Q2d', '3D']),
+      ],
+      c: firstPresent(row, ['CorrectAns3', 'Q2a:', 'Q2a', '3A']),
+    },
   ];
 
   const valid = slots.filter(
@@ -122,10 +163,10 @@ export async function loadStimuliRowMap(xlsxUrl) {
 
   const map = new Map();
   for (const row of rows) {
-    const rawCsv = row['.csv name'] != null ? row['.csv name'] : row['csv name'];
+    const rawCsv = firstPresent(row, ['.csv name', 'csv name', 'FileName', 'Filename', 'Source File']);
     const stem = normalizeCsvStem(rawCsv);
     if (!stem) continue;
-    const p = parseInt(String(row['paragraph #'] != null ? row['paragraph #'] : row.paragraph || '').trim(), 10);
+    const p = parseInt(String(firstPresent(row, ['paragraph #', 'paragraph', 'Paragraph'])).trim(), 10);
     if (!Number.isFinite(p) || p < 1) continue;
     const key = `${stem}|${p}`;
     map.set(key, row);

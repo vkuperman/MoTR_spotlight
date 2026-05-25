@@ -4,7 +4,7 @@ Mouse-tracking for Reading — same Magpie + click-to-reveal flow as `provo`. **
 
 ## OneStop CSV format
 
-Each file should have a header row with three difficulty columns, for example **`Elementary`**, **`Intermediate`** (a trailing space in the header is fine), and **`Advanced`**.
+Each file should have a header row with three difficulty columns, for example **`Elementary`**, **`Intermediate`** (a trailing space in the header is fine), and **`Advanced`**. Rows may also include metadata columns such as **`Article Number`**, **`Title`**, **`Paragraph`**, and **`Source File`**; these are copied into hidden trial fields.
 
 Within each level, **each CSV data row** is at most **one** MoTR screen for that level (one `text` per trial when the cell is long enough). The same **`onestop_file`** (CSV base name) and **`onestop_level`** (`elementary` / `intermediate` / `advanced`) are stored on every trial.
 
@@ -21,7 +21,7 @@ Very short cells (under **20** characters after cleanup) do not create a trial f
 
 Place **`OneStop Stimuli .xlsx`** next to the `Texts` folder under **`run_motr_in_magpie/OneStop/`** (note the space before `.xlsx` in the current filename).
 
-The first worksheet is read. Each row should include **`.csv name`** (matching the text file **without** `.csv`, compared case-insensitively after normalizing spaces), **`paragraph #`** (integer, **same as the 1-based Text CSV data row index**), and three question blocks: **Q1** + **1A–1D** + **CorrectAns1**, **Q2** + **2A–2D** + **CorrectAns2**, **Q3** + **3A–3D** + **CorrectAns3**.
+The first worksheet is read. Each row should include either **`.csv name`** / **`csv name`** or **`FileName`** (matching the text file stem, compared case-insensitively after normalizing spaces), **`paragraph #`** or **`Paragraph`** (integer, **same as the 1-based Text CSV data row index**), and three question blocks. The older format is **Q1** + **1A–1D** + **CorrectAns1**, **Q2** + **2A–2D** + **CorrectAns2**, **Q3** + **3A–3D** + **CorrectAns3**. The master-list format is also supported: **Q:** + **Qa:–Qd:**, **Q1:** + **Q1a:–Q1d:**, and **Q2:** + **Q2a:–Q2d:**, where the `a` option is treated as the correct answer.
 
 For each paragraph trial, the app **draws one of Q1, Q2, or Q3 at random** (among those with a question, options, and a correct answer), shows **four** shuffled alternatives, and scores against the correct option. If no row matches or a slot is incomplete, the trial keeps the **fallback** wording from `buildOneStopTrialLists.js`. Practice trials from the TSV are unchanged.
 
@@ -48,4 +48,6 @@ Output is written to `dist/`.
 
 ## List assignment
 
-Trials are ordered by **filename**, then **row by row** (in CSV order), and within each row **elementary → intermediate → advanced**. That flat list is split into **three blocks** of roughly equal size, **one block is chosen at random** per participant, and trials in that block are **shuffled**. Total reading trials scale with **number of data rows × levels** (minus skipped short cells). Rebuild after changing CSVs or the workbook in `OneStop/`.
+After the Cambridge General English test, the reading levels are assigned from the participant's score. Scores **0-14** receive **elementary + intermediate**. Scores **22-25** receive **intermediate + advanced**. Scores **15-21** are randomly assigned to either **elementary + intermediate** or **intermediate + advanced**. Participants are never assigned **elementary + advanced** together.
+
+For each participant, the app assigns **15 articles** to each selected level. All 30 article assignments are then presented in random article order. Within an article, paragraphs are always presented in source order (`1`, `2`, `3`, etc.). Hidden fields record the Cambridge score, assignment rule, selected level pair, article order, article number, title, level, and paragraph index.
