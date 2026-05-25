@@ -99,6 +99,21 @@ def write_text_csvs(groups, texts_dir):
         "Elementary",
         "Intermediate",
         "Advanced",
+        "Q:",
+        "Qa:",
+        "Qb:",
+        "Qc:",
+        "Qd:",
+        "Q1:",
+        "Q1a:",
+        "Q1b:",
+        "Q1c:",
+        "Q1d:",
+        "Q2:",
+        "Q2a:",
+        "Q2b:",
+        "Q2c:",
+        "Q2d:",
     ]
     for stem, article_records in groups.items():
         out_path = texts_dir / f"{stem}.csv"
@@ -115,6 +130,21 @@ def write_text_csvs(groups, texts_dir):
                         "Elementary": record.get("Ele:", ""),
                         "Intermediate": record.get("Int:", ""),
                         "Advanced": record.get("Adv:", ""),
+                        "Q:": record.get("Q:", ""),
+                        "Qa:": record.get("Qa:", ""),
+                        "Qb:": record.get("Qb:", ""),
+                        "Qc:": record.get("Qc:", ""),
+                        "Qd:": record.get("Qd:", ""),
+                        "Q1:": record.get("Q1:", ""),
+                        "Q1a:": record.get("Q1a:", ""),
+                        "Q1b:": record.get("Q1b:", ""),
+                        "Q1c:": record.get("Q1c:", ""),
+                        "Q1d:": record.get("Q1d:", ""),
+                        "Q2:": record.get("Q2:", ""),
+                        "Q2a:": record.get("Q2a:", ""),
+                        "Q2b:": record.get("Q2b:", ""),
+                        "Q2c:": record.get("Q2c:", ""),
+                        "Q2d:": record.get("Q2d:", ""),
                     }
                 )
     return backup_dir

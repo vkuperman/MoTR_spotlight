@@ -1,6 +1,6 @@
 <!-- Window is fixed, 102px, pointer cursor, gradual blurry effect on surrounding words. -->
 <!--  Comprehension questions appear afterwards in the same slide -->
-<!-- Click-to-reveal: unblur only while mouse button is held; record position, duration, and position relative to word. -->
+<!-- Hover-to-reveal: unblur around the mouse and record hover duration and position relative to word. -->
 
 <template>
   <div class="motr-root">
@@ -33,16 +33,16 @@
           <b>Purpose of the Study:</b> The purpose of this study is to explore whether a new mouse-tracking paradigm can accurately measure text reading behaviours. You are invited to participate in this study, which investigates a new mouse-tracking paradigm during text reading. We hope to learn if mouse-tracking can be used as a quick and accurate substitute for other measures of reading behaviours.
         <br><br>
           <b>What is mouse-tracking?</b><br>
-          Mouse-tracking uses an online platform to register the position on the screen where you click the mouse, and the duration for which you hold that position. In a mouse-tracking paradigm, all text is blurred until you click on a word. Upon clicking, a small, clear window appears, allowing you to read that portion of the text. You must continue clicking around the screen to read the entirety of the text. Mouse-click information can inform researchers about which words are being viewed and for how long. This allows researchers to investigate the cognitive processes used to read and understand written texts.
+          Mouse-tracking uses an online platform to register the position of your mouse on the screen, and the duration for which it remains over parts of the text. In a mouse-tracking paradigm, all text is blurred until you move your mouse over a word. A small, clear window follows your mouse, allowing you to read that portion of the text. You must continue moving the mouse around the screen to read the entirety of the text. Mouse-position information can inform researchers about which words are being viewed and for how long. This allows researchers to investigate the cognitive processes used to read and understand written texts.
         <br><br>
           <b>What will happen during the study?</b><br>
-          This experiment will take place online. You will be asked to provide some demographic information as well as information about your reading and language background. You will then read a series of texts which are presented with the blurred mouse-tracking method. Your mouse clicks will be recorded while you read the texts. After reading each text, you will be asked to answer some comprehension questions. The session will take approximately 30 minutes.
+          This experiment will take place online. You will be asked to provide some demographic information as well as information about your reading and language background. You will then read a series of texts which are presented with the blurred mouse-tracking method. Your mouse positions will be recorded while you read the texts. After reading each text, you will be asked to answer some comprehension questions. The session will take approximately 30 minutes.
         <br><br>
           We will start by asking you to fill out a questionnaire consisting of personal information, such as age, gender, handedness, the presence of visual or reading problems, and such. Then you will proceed to a series of tests that will measure a selection of your reading habits, how you feel at the moment, and some general cognitive skills. These tests will be administered by the experimenter either orally or as questionnaires that you will need to fill in.
         <br><br>
           This experiment will take place online. Prior to beginning the experiment, you will be asked to give consent by reading this form and pressing a button. You will also be asked to fill out a demographic questionnaire asking about basic demographic information (e.g. age, gender, the presence of visual or reading problems) and language and reading background (e.g. languages spoken, age of acquisition of each language, number of hours spent reading per week in each language).
         <br><br>
-          For the experiment, you will use your computer mouse to click through and read the texts on the screen. You will then answer the comprehension questions by using the keyboard.
+          For the experiment, you will use your computer mouse to move through and read the texts on the screen. You will then answer the comprehension questions by using the keyboard.
         <br><br>
           <b>Potential Harms, Risks or Discomforts:</b><br>
           There are no known harms or risks associated with the usage of the mouse-tracking technology that we are employing. The present study does require you to sit still and remain focused for a considerable period of time. This study might require you to sit and look at a screen to read texts for up to 60 minutes, which may cause you to become fatigued. You may take a break at any time during the experiment. Also, you may feel upset or worried about your level of performance. We assure you that your best effort is always sufficient. Please note that in rare cases researchers who conduct the experiment may additionally have other academic or professional relationships with you. This may be a source of discomfort for you. It is your informed choice whether to volunteer for an experiment with a potential conflict of interest. If you choose to participate in this experiment and to sign the informed consent form below, you will have the right to withdraw without explanation or penalty, and with the full credit for the experiment (see explanation below).
@@ -85,7 +85,7 @@
         <p>Thank you for your help!</p>
         <br>
 
-          <p>Please enter your Prolific ID</p>
+          <p>Please enter your SONA ID</p>
           <p><input name="SonaID" type="text" class="obligatory" v-model="$magpie.measurements.SubjectID" placeholder="SONA ID"/></p>
           </div>
           <div v-if="
@@ -114,31 +114,34 @@
     </Screen>
 
     <Screen
-      v-for="(cq, cidx) in cambridgeQuestions"
-      :key="'cambridge-q-' + cidx"
-      :title="'Question ' + (cidx + 1) + ' / ' + cambridgeQuestions.length"
+      v-for="(page, pageIdx) in cambridgeQuestionPages"
+      :key="'cambridge-page-' + pageIdx"
+      :title="'Questions ' + page.startLabel + '-' + page.endLabel + ' / ' + cambridgeQuestions.length"
       class="instructions"
     >
       <div style="width: 40em; margin: auto; text-align: left;">
-        <p>{{ cq.question }}</p>
-        <template v-for="(opt, oi) in cq.options">
-          <label :key="'cambridge-opt-' + cidx + '-' + oi" style="display: block; margin: 0.35em 0;">
-            <input type="radio" :value="opt" v-model="cambridgeSelected[cidx]" />
-            {{ opt }}
-          </label>
+        <template v-for="item in page.items">
+          <div :key="'cambridge-item-' + item.index" style="margin-bottom: 1.5rem;">
+            <p><strong>{{ item.index + 1 }}.</strong> {{ item.question.question }}</p>
+            <template v-for="(opt, oi) in item.question.options">
+              <label :key="'cambridge-opt-' + item.index + '-' + oi" style="display: block; margin: 0.35em 0;">
+                <input type="radio" :value="opt" v-model="cambridgeSelected[item.index]" />
+                {{ opt }}
+              </label>
+            </template>
+          </div>
         </template>
         <p style="text-align: center; margin-top: 2rem;">
-          <button type="button" :disabled="!cambridgeSelected[cidx]" @click="submitCambridgeItem(cidx, cq)">
+          <button type="button" :disabled="!isCambridgePageComplete(page)" @click="submitCambridgePage(page)">
             Next
           </button>
         </p>
       </div>
     </Screen>
 
-    <Screen title="English test — results" class="instructions" key="cambridge-results">
+    <Screen title="English test complete" class="instructions" key="cambridge-results">
       <div style="width: 40em; margin: auto; text-align: left;">
-        <p>Number correct: {{ cambridgeComputedScore }} out of {{ cambridgeQuestions.length }}.</p>
-        <p>CEFR band (per scoring key): <strong>{{ cambridgeCefrLabel }}</strong></p>
+        <p>You have completed the English test. Please continue to the reading section.</p>
         <p style="text-align: center; margin-top: 2rem;">
           <button type="button" @click="finishCambridgeBlock">Continue to reading</button>
         </p>
@@ -151,7 +154,7 @@
         <a href="javascript:void(0)" @click="turnOnFullScreen">Fullscreen Mode</a>
       </p>
  -->
-      <p>In this study, you will read short texts and answer questions about them. However, unlike in normal reading, the texts will be blurred. <strong>Click and hold on the text to reveal it;</strong> the reveal stays fixed while you hold. Release to hide. Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question at the bottom and click "next" to move on.</p>
+      <p>In this study, you will read short texts and answer questions about them. However, unlike in normal reading, the texts will be blurred. <strong>Move your mouse over the text to reveal it with the spotlight;</strong> the revealed area follows your mouse. Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question at the bottom and click "next" to move on.</p>
     </InstructionScreen>
 
     <template v-for="(trial, i) of trials">
@@ -178,7 +181,7 @@
           </form>
           <div class="oval-cursor"></div>
           <template>
-            <div v-if="showFirstDiv" class="readingText" @mousemove="moveCursor" @mousedown="onRevealDown" @mouseup="onRevealUp" @mouseleave="changeBack">
+            <div v-if="showFirstDiv" class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
               <template v-for="(word, index) of trial.text.split(' ')">
                 <span :key="index" :data-index="index + 1" >
                   {{ word }}
@@ -189,7 +192,7 @@
               {{trial.text}}
             </div>
           </template>
-          <button v-if="showFirstDiv" style= "bottom:40%; transform: translate(-50%, -50%)" @click="toggleDivs" :disabled="!isCursorMoving">
+          <button v-if="showFirstDiv" class="reading-done-button" @click="toggleDivs" :disabled="!isCursorMoving">
           Done
           </button>
 
@@ -271,7 +274,7 @@ export default {
           x: 0,
           y: 0,
         },
-      // Click-start state for recording (only while click is held)
+      // Hover-start state for recording each spotlight dwell.
       clickStartTime: null,
       clickStartX: null,
       clickStartY: null,
@@ -321,12 +324,24 @@ export default {
     cambridgeCefrLabel() {
       return cefrBandForScore(this.cambridgeComputedScore, this.cambridgeScoring);
     },
-  },
-  mounted() {
-    document.addEventListener('mouseup', this.onRevealUp);
-  },
-  beforeDestroy() {
-    document.removeEventListener('mouseup', this.onRevealUp);
+    cambridgeQuestionPages() {
+      const pageSize = 5;
+      const pages = [];
+      for (let start = 0; start < this.cambridgeQuestions.length; start += pageSize) {
+        const items = this.cambridgeQuestions
+          .slice(start, start + pageSize)
+          .map((question, offset) => ({
+            question,
+            index: start + offset,
+          }));
+        pages.push({
+          items,
+          startLabel: start + 1,
+          endLabel: start + items.length,
+        });
+      }
+      return pages;
+    },
   },
   methods: {
     getCharSizePx() {
@@ -516,15 +531,11 @@ export default {
       this.currentIndex = null;
       this.isClickHeld = false;
     },
-    onRevealDown(e) {
-      if (this.isClickHeld) return;
+    onRevealHover(e) {
       this.isCursorMoving = true;
-      this.isClickHeld = true;
       const x = e.clientX;
       const y = e.clientY;
-      this.clickStartTime = performance.now();
-      this.clickStartX = x;
-      this.clickStartY = y;
+      const now = performance.now();
 
       const oval = this.$el.querySelector(".oval-cursor");
       if (oval) {
@@ -575,6 +586,16 @@ export default {
         const span = this.$el.querySelector(`.readingText span[data-index="${index}"]`);
         const wordText = span ? span.innerHTML : null;
 
+        if (!this.isClickHeld || this.clickWordIndex !== index) {
+          if (this.isClickHeld) {
+            this.finishClick(now);
+          }
+          this.isClickHeld = true;
+          this.clickStartTime = now;
+          this.clickStartX = x;
+          this.clickStartY = y;
+        }
+
         this.clickWordIndex = index;
         this.clickWord = wordText;
         this.clickWordRect = { top: ia.top, left: ia.left, bottom: ia.bottom, right: ia.right };
@@ -589,6 +610,10 @@ export default {
         this.clickPositionInLine = positionInLine;
         this.currentIndex = index;
       } else {
+        if (this.isClickHeld) {
+          this.finishClick(now);
+        }
+        this.isClickHeld = false;
         oval.classList.add('blank');
         this.clickWordIndex = -1;
         this.clickWord = null;
@@ -662,7 +687,9 @@ export default {
         Word: this.clickWord,
         mousePositionX: this.clickStartX,
         mousePositionY: this.clickStartY,
+        revealMode: 'hover',
         clickDurationMs: durationMs,
+        hoverDurationMs: durationMs,
         relativeXInWord: this.relativeXInWord,
         relativeYInWord: this.relativeYInWord,
         totalWordsInItem: totalWordsInItem,
@@ -712,8 +739,12 @@ export default {
       this.mousePosition.y = e.clientY;
     },
     toggleDivs() {
-    this.showFirstDiv = !this.showFirstDiv;
-    this.isCursorMoving = false;
+      if (this.showFirstDiv && this.isClickHeld) {
+        this.finishClick(performance.now());
+        this.isClickHeld = false;
+      }
+      this.showFirstDiv = !this.showFirstDiv;
+      this.isCursorMoving = false;
     },
     getScreenDimensions() {
       return {
@@ -753,16 +784,21 @@ export default {
         response_correct: responseCorrect
       });
     },
-    submitCambridgeItem(cidx, cq) {
-      const sel = this.cambridgeSelected[cidx];
-      if (!sel) return;
-      const ok = isCambridgeAnswerCorrect(sel, cq.correct);
-      this.$magpie.addTrialData({
-        source: 'cambridge_general_english',
-        cambridge_item: cidx + 1,
-        cambridge_selected: sel,
-        cambridge_correct_answer: cq.correct,
-        cambridge_item_correct: ok ? '1' : '0',
+    isCambridgePageComplete(page) {
+      return page.items.every((item) => this.cambridgeSelected[item.index]);
+    },
+    submitCambridgePage(page) {
+      if (!this.isCambridgePageComplete(page)) return;
+      page.items.forEach((item) => {
+        const sel = this.cambridgeSelected[item.index];
+        const ok = isCambridgeAnswerCorrect(sel, item.question.correct);
+        this.$magpie.addTrialData({
+          source: 'cambridge_general_english',
+          cambridge_item: item.index + 1,
+          cambridge_selected: sel,
+          cambridge_correct_answer: item.question.correct,
+          cambridge_item_correct: ok ? '1' : '0',
+        });
       });
       this.$magpie.saveAndNextScreen();
     },
@@ -809,11 +845,21 @@ export default {
           `${trial.response_true}|${trial.response_distractors}`.replace(/ ?["]+/g, '').split('|')
         ),
       }));
-      return { levelPair, assignmentRule };
+      return {
+        levelPair,
+        assignmentRule,
+        readingArticleCount: new Set(readingItems.map((trial) => trial.onestop_article_number)).size,
+        readingTrialCount: readingItems.length,
+      };
     },
     finishCambridgeBlock() {
       const score = this.cambridgeComputedScore;
-      const { levelPair, assignmentRule } = this.prepareReadingTrials(score);
+      const {
+        levelPair,
+        assignmentRule,
+        readingArticleCount,
+        readingTrialCount,
+      } = this.prepareReadingTrials(score);
       this.$magpie.addTrialData({
         source: 'cambridge_general_english_summary',
         cambridge_score: score,
@@ -821,8 +867,12 @@ export default {
         cambridge_cefr: this.cambridgeCefrLabel,
         onestop_level_pair: levelPair.join('|'),
         onestop_level_assignment_rule: assignmentRule,
+        onestop_reading_article_count: readingArticleCount,
+        onestop_reading_trial_count: readingTrialCount,
       });
-      this.$magpie.saveAndNextScreen();
+      this.$nextTick(() => {
+        this.$magpie.saveAndNextScreen();
+      });
     },
   },
 };
@@ -862,6 +912,10 @@ export default {
     position: absolute;
     bottom: 0;
     left: 50%;
+  }
+  .reading-done-button {
+    bottom: 1rem;
+    transform: translateX(-50%);
   }
   .oval-cursor {
     position: fixed;

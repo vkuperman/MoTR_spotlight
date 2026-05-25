@@ -74,6 +74,76 @@ function firstPresent(row, keys) {
   return '';
 }
 
+function normAnswer(s) {
+  return String(s || '')
+    .replace(/ ?["]+/g, '')
+    .trim()
+    .replace(/\s+/g, ' ')
+    .toLowerCase();
+}
+
+function pickRandomQuestionFromRow(row) {
+  const slots = [
+    {
+      n: 1,
+      q: firstPresent(row, ['Q:', 'Q']),
+      opts: [
+        firstPresent(row, ['Qa:', 'Qa']),
+        firstPresent(row, ['Qb:', 'Qb']),
+        firstPresent(row, ['Qc:', 'Qc']),
+        firstPresent(row, ['Qd:', 'Qd']),
+      ],
+      c: firstPresent(row, ['Qa:', 'Qa']),
+    },
+    {
+      n: 2,
+      q: firstPresent(row, ['Q1:']),
+      opts: [
+        firstPresent(row, ['Q1a:']),
+        firstPresent(row, ['Q1b:']),
+        firstPresent(row, ['Q1c:']),
+        firstPresent(row, ['Q1d:']),
+      ],
+      c: firstPresent(row, ['Q1a:']),
+    },
+    {
+      n: 3,
+      q: firstPresent(row, ['Q2:']),
+      opts: [
+        firstPresent(row, ['Q2a:']),
+        firstPresent(row, ['Q2b:']),
+        firstPresent(row, ['Q2c:']),
+        firstPresent(row, ['Q2d:']),
+      ],
+      c: firstPresent(row, ['Q2a:']),
+    },
+  ];
+
+  const valid = slots.filter(
+    (s) =>
+      String(s.q || '').trim() &&
+      String(s.c || '').trim() &&
+      s.opts.some((x) => String(x || '').trim())
+  );
+  if (!valid.length) return null;
+
+  const slot = valid[Math.floor(Math.random() * valid.length)];
+  const correctRaw = String(slot.c).replace(/ ?["]+/g, '').trim();
+  const opts = slot.opts
+    .map((x) => String(x || '').replace(/ ?["]+/g, '').trim())
+    .filter(Boolean);
+  const correct = opts.find((o) => normAnswer(o) === normAnswer(correctRaw)) || correctRaw;
+  const distractors = opts.filter((o) => normAnswer(o) !== normAnswer(correct));
+  if (!distractors.length) return null;
+
+  return {
+    question: String(slot.q).trim(),
+    response_true: correct,
+    response_distractors: distractors.join('|'),
+    onestop_question_slot: slot.n,
+  };
+}
+
 /**
  * One display passage per CSV data row and level (matches OneStop Stimuli `paragraph #`
  * = 1-based data row index). Multiple chunks from one cell are joined with a space.
@@ -130,6 +200,7 @@ export function buildOneStopTrialLists(options = {}) {
         if (!colKey) continue;
         const text = passageTextFromCell(row[colKey]);
         if (!text || text.length < MIN_PARAGRAPH_CHARS) continue;
+        const pickedQuestion = pickRandomQuestionFromRow(row);
 
         trials.push({
           experiment: 'spotlight',
@@ -138,9 +209,12 @@ export function buildOneStopTrialLists(options = {}) {
           condition_id: levelIndex,
           item_id: 0,
           text,
-          question,
-          response_true: RESPONSE_TRUE,
-          response_distractors: RESPONSE_DISTRACTORS,
+          question: pickedQuestion ? pickedQuestion.question : question,
+          response_true: pickedQuestion ? pickedQuestion.response_true : RESPONSE_TRUE,
+          response_distractors: pickedQuestion
+            ? pickedQuestion.response_distractors
+            : RESPONSE_DISTRACTORS,
+          onestop_question_slot: pickedQuestion ? pickedQuestion.onestop_question_slot : null,
           onestop_file: base,
           onestop_level: level,
           onestop_column: colKey,
@@ -158,7 +232,7 @@ export function buildOneStopTrialLists(options = {}) {
 }
 
 function articleKey(trial) {
-  return String(trial.onestop_article_number || trial.onestop_file || '').trim();
+  return String(trial.onestop_article_number || '').trim();
 }
 
 function articleSortValue(trial) {
