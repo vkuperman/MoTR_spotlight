@@ -1,4 +1,4 @@
-name: Build and Deploy Demo to GitHub Pages
+name: Build and Deploy Spotlight to GitHub Pages
 on:
   push:
     branches: [ main ]
@@ -14,19 +14,19 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install and Build Demo
+      - name: Install and Build Spotlight
         run: |
-          cd run_motr_in_magpie/demo
+          cd run_motr_in_magpie/spotlight
           npm install
           npm run build
 
       - name: Add .nojekyll for GitHub Pages
-        run: touch run_motr_in_magpie/demo/dist/.nojekyll
+        run: touch run_motr_in_magpie/spotlight/dist/.nojekyll
 
-      - name: Deploy Demo to GitHub Pages
+      - name: Deploy Spotlight to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: run_motr_in_magpie/demo/dist
-          destination_dir: demo
+          publish_dir: run_motr_in_magpie/spotlight/dist
+          destination_dir: spotlight
           keep_files: true
