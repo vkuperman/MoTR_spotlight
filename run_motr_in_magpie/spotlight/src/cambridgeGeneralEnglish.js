@@ -28,6 +28,14 @@ function normAnswer(s) {
     .toLowerCase();
 }
 
+function cleanQuestionText(s) {
+  return String(s || '')
+    .replace(/\u00a0/g, ' ')
+    .replace(/\u00c2/g, '')
+    .replace(/[ \t*]+$/g, '')
+    .trim();
+}
+
 /**
  * @param {Record<string, unknown>[]} rows - csv-loader rows (header row defines keys)
  */
@@ -36,7 +44,7 @@ export function prepareCambridgeQuestions(rows) {
   return rows
     .map((r) => {
       const n = normalizeRowKeys(r);
-      const question = String(n.questions != null ? n.questions : '').trim();
+      const question = cleanQuestionText(n.questions != null ? n.questions : '');
       const correct = String(n.correct != null ? n.correct : '').trim();
       const opts = ['a', 'b', 'c', 'd']
         .map((k) => (n[k] != null ? String(n[k]).trim() : ''))

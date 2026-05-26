@@ -2,7 +2,7 @@ export default {
   experimentId: 'spotlight-emily-1',
   serverUrl: 'https://cui-motr-new.herokuapp.com/',
   socketUrl: 'wss://cui-motr-new.herokuapp.com/socket',
-  completionUrl: 'https://app.prolific.com/submissions/complete?cc=C1FQEQTP',
+  completionUrl: '',
   contactEmail: 'cui.ding@uzh.ch',
   mode: 'debug',
   language: 'en',

@@ -33,16 +33,16 @@
           <b>Purpose of the Study:</b> The purpose of this study is to explore whether a new mouse-tracking paradigm can accurately measure text reading behaviours. You are invited to participate in this study, which investigates a new mouse-tracking paradigm during text reading. We hope to learn if mouse-tracking can be used as a quick and accurate substitute for other measures of reading behaviours.
         <br><br>
           <b>What is mouse-tracking?</b><br>
-          Mouse-tracking uses an online platform to register the position of your mouse on the screen, and the duration for which it remains over parts of the text. In a mouse-tracking paradigm, all text is blurred until you move your mouse over a word. A small, clear window follows your mouse, allowing you to read that portion of the text. You must continue moving the mouse around the screen to read the entirety of the text. Mouse-position information can inform researchers about which words are being viewed and for how long. This allows researchers to investigate the cognitive processes used to read and understand written texts.
+          Mouse-tracking uses an online platform to register the position on the screen where you hover the mouse, and the duration for which you hold that position. In a mouse-tracking paradigm, all text is blurred until you hover over a word. Upon hovering, a small, clear window appears, allowing you to read that portion of the text. You must continue moving the mouse around the screen to read the entirety of the text. Spotlight information can inform researchers about which words are being viewed and for how long. This allows researchers to investigate the cognitive processes used to read and understand written texts.
         <br><br>
           <b>What will happen during the study?</b><br>
-          This experiment will take place online. You will be asked to provide some demographic information as well as information about your reading and language background. You will then read a series of texts which are presented with the blurred mouse-tracking method. Your mouse positions will be recorded while you read the texts. After reading each text, you will be asked to answer some comprehension questions. The session will take approximately 30 minutes.
+          This experiment will take place online. You will be asked to provide some demographic information as well as information about your reading and language background. You will then read a series of texts which are presented with the blurred mouse-tracking method. Your mouse hovers will be recorded while you read the texts. After reading each text, you will be asked to answer a comprehension question. The session will take approximately 60 minutes.
         <br><br>
           We will start by asking you to fill out a questionnaire consisting of personal information, such as age, gender, handedness, the presence of visual or reading problems, and such. Then you will proceed to a series of tests that will measure a selection of your reading habits, how you feel at the moment, and some general cognitive skills. These tests will be administered by the experimenter either orally or as questionnaires that you will need to fill in.
         <br><br>
-          This experiment will take place online. Prior to beginning the experiment, you will be asked to give consent by reading this form and pressing a button. You will also be asked to fill out a demographic questionnaire asking about basic demographic information (e.g. age, gender, the presence of visual or reading problems) and language and reading background (e.g. languages spoken, age of acquisition of each language, number of hours spent reading per week in each language).
+          This experiment will take place online. Prior to beginning the experiment, you will be asked to give consent by reading this form and pressing a button.
         <br><br>
-          For the experiment, you will use your computer mouse to move through and read the texts on the screen. You will then answer the comprehension questions by using the keyboard.
+          For the experiment, you will use your computer mouse to hover over and read the texts on the screen. You will then answer the comprehension questions.
         <br><br>
           <b>Potential Harms, Risks or Discomforts:</b><br>
           There are no known harms or risks associated with the usage of the mouse-tracking technology that we are employing. The present study does require you to sit still and remain focused for a considerable period of time. This study might require you to sit and look at a screen to read texts for up to 60 minutes, which may cause you to become fatigued. You may take a break at any time during the experiment. Also, you may feel upset or worried about your level of performance. We assure you that your best effort is always sufficient. Please note that in rare cases researchers who conduct the experiment may additionally have other academic or professional relationships with you. This may be a source of discomfort for you. It is your informed choice whether to volunteer for an experiment with a potential conflict of interest. If you choose to participate in this experiment and to sign the informed consent form below, you will have the right to withdraw without explanation or penalty, and with the full credit for the experiment (see explanation below).
@@ -51,7 +51,7 @@
           The results of this research will not directly benefit you in any way. We hope to learn more about how words in English are processed.
         <br><br>
           <b>Incentive/Payment or Reimbursement:</b><br>
-          Participants will earn a prorated hourly rate of 10 GBP for their participation in this study.
+          Participants will receive 1 SONA credit per 60 minutes spent.
         <br><br>
           <b>Confidentiality:</b><br>
           All personal information we attain will remain highly confidential. Within this study, you will be identified as a participant number. Any personal information you provide will only be accessible to the principal investigators and co-investigators at McMaster, as well as research assistants. All information will be strictly secured in a locked cabinet or on a password-protected computer. No publication or discussion regarding this study will contain any personal and/or identifying information. As requested by the federal Tri-Council funding agencies and policies, we will retain your data for at least 5 years. Once out of active use, the electronic data will be archived on a secure server in the McMaster research lab.
@@ -83,6 +83,7 @@
         <div style="padding-left: 30px">• I agree to participate in the study.</div>
         <br>
         <p>Thank you for your help!</p>
+        <p>I consent to participate in this study.</p>
         <br>
 
           <p>Please enter your SONA ID</p>
@@ -171,7 +172,11 @@
             <input v-if="trial.onestop_article_title" type="hidden" class="onestop_article_title" :value="trial.onestop_article_title">
             <input v-if="trial.onestop_source_file" type="hidden" class="onestop_source_file" :value="trial.onestop_source_file">
             <input v-if="trial.onestop_article_order != null" type="hidden" class="onestop_article_order" :value="trial.onestop_article_order">
+            <input v-if="trial.onestop_article_order_within_block != null" type="hidden" class="onestop_article_order_within_block" :value="trial.onestop_article_order_within_block">
+            <input v-if="trial.onestop_block_order != null" type="hidden" class="onestop_block_order" :value="trial.onestop_block_order">
+            <input v-if="trial.onestop_block_level" type="hidden" class="onestop_block_level" :value="trial.onestop_block_level">
             <input v-if="trial.onestop_level_pair" type="hidden" class="onestop_level_pair" :value="trial.onestop_level_pair">
+            <input v-if="trial.onestop_level_block_order" type="hidden" class="onestop_level_block_order" :value="trial.onestop_level_block_order">
             <input v-if="trial.onestop_level_assignment_index != null" type="hidden" class="onestop_level_assignment_index" :value="trial.onestop_level_assignment_index">
             <input v-if="trial.onestop_cambridge_score != null" type="hidden" class="onestop_cambridge_score" :value="trial.onestop_cambridge_score">
             <input v-if="trial.onestop_level_assignment_rule" type="hidden" class="onestop_level_assignment_rule" :value="trial.onestop_level_assignment_rule">
@@ -228,7 +233,7 @@
         :response.sync= "$magpie.measurements.hand"
         orientation="horizontal"
         :options="['Left', 'Right', 'Both']" />
-  <button style= "bottom:30%; transform: translate(-50%, -50%)" @click="$magpie.saveAndNextScreen();">Submit</button>
+  <button style= "bottom:30%; transform: translate(-50%, -50%)" @click="recordExperimentEndAndProceed">Submit</button>
 </Screen>
 
     <ExportReportsScreen :skip-sona-input="true" />
@@ -258,6 +263,26 @@ const oneStopStimuliXlsx = require('../../OneStop/OneStop Stimuli .xlsx');
 const cambridgeTestCsv = require('../../OneStop/Cambridge/Cambridge General English Test(Sheet1).csv');
 // eslint-disable-next-line import/no-webpack-loader-syntax
 const cambridgeScoringCsv = require('../../OneStop/Cambridge/Cambridge scoring(Sheet1).csv');
+
+function padDatePart(n) {
+  return String(n).padStart(2, '0');
+}
+
+function localDateString(date) {
+  return [
+    date.getFullYear(),
+    padDatePart(date.getMonth() + 1),
+    padDatePart(date.getDate()),
+  ].join('-');
+}
+
+function localTimeString(date) {
+  return [
+    padDatePart(date.getHours()),
+    padDatePart(date.getMinutes()),
+    padDatePart(date.getSeconds()),
+  ].join(':');
+}
 
 export default {
   name: 'App',
@@ -755,21 +780,59 @@ export default {
     recordSonaAndProceed() {
       this.cambridgeSelected = this.cambridgeQuestions.map(() => null);
       const id = (this.$magpie && this.$magpie.measurements && this.$magpie.measurements.SubjectID) ? String(this.$magpie.measurements.SubjectID).trim() : '';
+      const start = new Date();
+      const experimentDate = localDateString(start);
+      const startClockTime = localTimeString(start);
       this.$magpie.addExpData({
         SubjectId: id,
         SubjectID: id,
         SonaId: id,
         SONAId: id,
-        experiment_start_time: new Date().toISOString()
+        experiment_date: experimentDate,
+        experiment_start_date: experimentDate,
+        experiment_start_time: start.toISOString(),
+        experiment_start_clock_time: startClockTime,
+        experiment_start_time_local: `${experimentDate} ${startClockTime}`
       });
       this.$magpie.addTrialData({
         SONAId: id,
         SubjectId: id,
         SubjectID: id,
         SonaId: id,
+        experiment_date: experimentDate,
+        experiment_start_date: experimentDate,
+        experiment_start_time: start.toISOString(),
+        experiment_start_clock_time: startClockTime,
+        experiment_start_time_local: `${experimentDate} ${startClockTime}`,
         source: 'welcome'
       });
       this.$magpie.nextScreen();
+    },
+    recordExperimentEndAndProceed() {
+      const end = new Date();
+      const endDate = localDateString(end);
+      const endClockTime = localTimeString(end);
+      const expData = this.$magpie && this.$magpie.getExpData ? this.$magpie.getExpData() : {};
+      const startIso = expData.experiment_start_time || '';
+      const durationMs = startIso ? end.getTime() - new Date(startIso).getTime() : '';
+      const timingFields = {
+        experiment_date: expData.experiment_date || expData.experiment_start_date || endDate,
+        experiment_start_date: expData.experiment_start_date || expData.experiment_date || '',
+        experiment_start_time: startIso,
+        experiment_start_clock_time: expData.experiment_start_clock_time || '',
+        experiment_start_time_local: expData.experiment_start_time_local || '',
+        experiment_end_date: endDate,
+        experiment_end_time: end.toISOString(),
+        experiment_end_clock_time: endClockTime,
+        experiment_end_time_local: `${endDate} ${endClockTime}`,
+        experiment_duration_ms: durationMs !== '' ? String(durationMs) : '',
+      };
+      this.$magpie.addExpData(timingFields);
+      this.$magpie.addTrialData({
+        ...timingFields,
+        source: 'experiment_end_summary'
+      });
+      this.$magpie.saveAndNextScreen();
     },
     recordResponse(trial) {
       const m = this.$magpie && this.$magpie.measurements ? this.$magpie.measurements : null;
@@ -850,6 +913,7 @@ export default {
         assignmentRule,
         readingArticleCount: new Set(readingItems.map((trial) => trial.onestop_article_number)).size,
         readingTrialCount: readingItems.length,
+        levelBlockOrder: readingItems.length ? readingItems[0].onestop_level_block_order : '',
       };
     },
     finishCambridgeBlock() {
@@ -859,6 +923,7 @@ export default {
         assignmentRule,
         readingArticleCount,
         readingTrialCount,
+        levelBlockOrder,
       } = this.prepareReadingTrials(score);
       this.$magpie.addTrialData({
         source: 'cambridge_general_english_summary',
@@ -866,6 +931,7 @@ export default {
         cambridge_max: this.cambridgeQuestions.length,
         cambridge_cefr: this.cambridgeCefrLabel,
         onestop_level_pair: levelPair.join('|'),
+        onestop_level_block_order: levelBlockOrder,
         onestop_level_assignment_rule: assignmentRule,
         onestop_reading_article_count: readingArticleCount,
         onestop_reading_trial_count: readingTrialCount,

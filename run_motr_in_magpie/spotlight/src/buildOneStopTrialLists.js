@@ -272,40 +272,45 @@ function trialsForArticleLevel(article, level) {
 }
 
 /**
- * Each participant sees all articles once: 15 articles in one randomly selected
- * level and 15 in another. Article order is randomized, but paragraphs stay in
- * their original order within each article.
+ * Each participant sees all articles once: 15 articles in one selected level and
+ * 15 in another. Articles are grouped by level block, block order is randomized,
+ * and paragraphs stay in their original order within each article.
  */
 export function pickArticleLevelOneStopTrials(listsTuple, options = {}) {
   const articlesPerLevel = options.articlesPerLevel || ARTICLES_PER_LEVEL;
   const levelPair = options.levelPair || _.shuffle(options.levels || LEVEL_ORDER).slice(0, 2);
   const articles = _.shuffle(groupTrialsByArticle(listsTuple.all || []));
-  const assignments = [];
+  const blocks = [];
 
   for (let levelIndex = 0; levelIndex < levelPair.length; levelIndex++) {
     const start = levelIndex * articlesPerLevel;
     const end = start + articlesPerLevel;
-    for (const article of articles.slice(start, end)) {
-      assignments.push({
-        article,
-        level: levelPair[levelIndex],
-        levelAssignmentIndex: levelIndex + 1,
-      });
-    }
+    blocks.push({
+      articles: articles.slice(start, end),
+      level: levelPair[levelIndex],
+      levelAssignmentIndex: levelIndex + 1,
+    });
   }
 
   const selected = [];
-  _.shuffle(assignments).forEach((assignment, articleOrderIndex) => {
-    const articleTrials = trialsForArticleLevel(assignment.article, assignment.level);
-    for (const trial of articleTrials) {
-      selected.push({
-        ...trial,
-        item_id: selected.length + 1,
-        onestop_article_order: articleOrderIndex + 1,
-        onestop_level_pair: levelPair.join('|'),
-        onestop_level_assignment_index: assignment.levelAssignmentIndex,
-      });
-    }
+  const blockOrder = _.shuffle(blocks);
+  blockOrder.forEach((block, blockOrderIndex) => {
+    block.articles.forEach((article, articleOrderIndexWithinBlock) => {
+      const articleTrials = trialsForArticleLevel(article, block.level);
+      for (const trial of articleTrials) {
+        selected.push({
+          ...trial,
+          item_id: selected.length + 1,
+          onestop_article_order: blockOrderIndex * articlesPerLevel + articleOrderIndexWithinBlock + 1,
+          onestop_article_order_within_block: articleOrderIndexWithinBlock + 1,
+          onestop_block_order: blockOrderIndex + 1,
+          onestop_block_level: block.level,
+          onestop_level_pair: levelPair.join('|'),
+          onestop_level_block_order: blockOrder.map((b) => b.level).join('|'),
+          onestop_level_assignment_index: block.levelAssignmentIndex,
+        });
+      }
+    });
   });
 
   return selected;

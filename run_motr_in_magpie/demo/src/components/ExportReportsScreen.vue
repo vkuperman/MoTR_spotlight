@@ -12,10 +12,7 @@
     </Slide>
     <Slide v-else>
       <p>
-        Thank you for participating in our study. Follow this URL to complete your submission and be redirected to Prolific:
-        <a href="https://app.prolific.com/submissions/complete?cc=C1FQEQTP" target="_blank" rel="noopener">
-          https://app.prolific.com/submissions/complete?cc=C1FQEQTP
-        </a>
+        Thank you for participating! You may now close this window
       </p>
     </Slide>
   </Screen>
@@ -66,6 +63,26 @@ function getResponseCorrectByItem(allRows) {
   return out;
 }
 
+function padDatePart(n) {
+  return String(n).padStart(2, '0');
+}
+
+function localDateString(date) {
+  return [
+    date.getFullYear(),
+    padDatePart(date.getMonth() + 1),
+    padDatePart(date.getDate())
+  ].join('-');
+}
+
+function localTimeString(date) {
+  return [
+    padDatePart(date.getHours()),
+    padDatePart(date.getMinutes()),
+    padDatePart(date.getSeconds())
+  ].join(':');
+}
+
 function getExpDataFields(expData, allRows, sessionTimes) {
   const fromRows = { device: '', hand: '' };
   let subjectFromRows = '';
@@ -104,6 +121,7 @@ function getExpDataFields(expData, allRows, sessionTimes) {
   const startTime = exp.experiment_start_time != null ? exp.experiment_start_time : (exp.experimentStartTime != null ? exp.experimentStartTime : (sessionTimes && sessionTimes.experiment_start_time_fallback != null ? sessionTimes.experiment_start_time_fallback : ''));
   const endTime = sessionTimes && sessionTimes.experiment_end_time != null ? sessionTimes.experiment_end_time : '';
   const duration = sessionTimes && sessionTimes.experiment_duration != null ? sessionTimes.experiment_duration : '';
+  const durationMs = exp.experiment_duration_ms != null ? exp.experiment_duration_ms : duration;
   const sonaIdValue =
     (exp.SONAId != null && exp.SONAId !== '')
       ? exp.SONAId
@@ -118,9 +136,17 @@ function getExpDataFields(expData, allRows, sessionTimes) {
     hand: exp.hand != null && exp.hand !== '' ? exp.hand : fromRows.hand,
     SONAId: sonaIdValue,
     experiment: exp.experiment != null ? exp.experiment : (exp.Experiment != null ? exp.Experiment : ''),
+    experiment_date: exp.experiment_date != null ? exp.experiment_date : (exp.experiment_start_date != null ? exp.experiment_start_date : ''),
+    experiment_start_date: exp.experiment_start_date != null ? exp.experiment_start_date : (exp.experiment_date != null ? exp.experiment_date : ''),
     experiment_start_time: startTime,
+    experiment_start_clock_time: exp.experiment_start_clock_time != null ? exp.experiment_start_clock_time : '',
+    experiment_start_time_local: exp.experiment_start_time_local != null ? exp.experiment_start_time_local : '',
+    experiment_end_date: sessionTimes && sessionTimes.experiment_end_date != null ? sessionTimes.experiment_end_date : (exp.experiment_end_date != null ? exp.experiment_end_date : ''),
     experiment_end_time: endTime,
-    experiment_duration: duration
+    experiment_end_clock_time: sessionTimes && sessionTimes.experiment_end_clock_time != null ? sessionTimes.experiment_end_clock_time : (exp.experiment_end_clock_time != null ? exp.experiment_end_clock_time : ''),
+    experiment_end_time_local: sessionTimes && sessionTimes.experiment_end_time_local != null ? sessionTimes.experiment_end_time_local : (exp.experiment_end_time_local != null ? exp.experiment_end_time_local : ''),
+    experiment_duration: duration,
+    experiment_duration_ms: durationMs
   };
 }
 
@@ -133,7 +159,10 @@ const FIXATION_CSV_COLUMNS = [
   'text_total_viewing_time_ms',
   'saccade_start_x', 'saccade_start_y', 'saccade_start_time',
   'saccade_end_x', 'saccade_end_y', 'saccade_end_time', 'saccade_length_px',
-  'device', 'hand', 'experiment_start_time', 'experiment_end_time', 'experiment_duration',
+  'device', 'hand', 'experiment_date', 'experiment_start_date', 'experiment_start_time',
+  'experiment_start_clock_time', 'experiment_start_time_local', 'experiment_end_date',
+  'experiment_end_time', 'experiment_end_clock_time', 'experiment_end_time_local',
+  'experiment_duration', 'experiment_duration_ms',
   'experiment'
 ];
 
@@ -149,7 +178,10 @@ const INTEREST_AREA_CSV_COLUMNS = [
   'x_distance_from_previous_click_px', 'x_distance_from_previous_click_chars',
   'first_click_x_from_word_left_chars', 'first_click_x_from_word_center_chars',
   'first_click_x_from_line_start_px', 'first_click_x_from_line_start_chars',
-  'device', 'hand', 'experiment_start_time', 'experiment_end_time', 'experiment_duration',
+  'device', 'hand', 'experiment_date', 'experiment_start_date', 'experiment_start_time',
+  'experiment_start_clock_time', 'experiment_start_time_local', 'experiment_end_date',
+  'experiment_end_time', 'experiment_end_clock_time', 'experiment_end_time_local',
+  'experiment_duration', 'experiment_duration_ms',
   'experiment'
 ];
 
@@ -260,9 +292,17 @@ function buildFixationReport(allRows, participantId, expData, sessionTimes) {
     out.saccade_length_px = val('saccade_length_px');
     out.device = val('device');
     out.hand = val('hand');
+    out.experiment_date = val('experiment_date');
+    out.experiment_start_date = val('experiment_start_date');
     out.experiment_start_time = val('experiment_start_time');
+    out.experiment_start_clock_time = val('experiment_start_clock_time');
+    out.experiment_start_time_local = val('experiment_start_time_local');
+    out.experiment_end_date = val('experiment_end_date');
     out.experiment_end_time = val('experiment_end_time');
+    out.experiment_end_clock_time = val('experiment_end_clock_time');
+    out.experiment_end_time_local = val('experiment_end_time_local');
     out.experiment_duration = val('experiment_duration');
+    out.experiment_duration_ms = val('experiment_duration_ms');
     out.experiment =
       val('experiment') ||
       (magpieConfig && (magpieConfig.experimentName || magpieConfig.experimentId || magpieConfig.name || 'MoTR_Click'));
@@ -502,10 +542,18 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
         response_correct: responseCorrect,
         device: expFields.device,
         hand: expFields.hand,
+        experiment_date: expFields.experiment_date,
+        experiment_start_date: expFields.experiment_start_date,
         experiment_start_time: expFields.experiment_start_time,
+        experiment_start_clock_time: expFields.experiment_start_clock_time,
+        experiment_start_time_local: expFields.experiment_start_time_local,
         SONAId: expFields.SONAId,
+        experiment_end_date: expFields.experiment_end_date,
         experiment_end_time: expFields.experiment_end_time,
+        experiment_end_clock_time: expFields.experiment_end_clock_time,
+        experiment_end_time_local: expFields.experiment_end_time_local,
         experiment_duration: expFields.experiment_duration,
+        experiment_duration_ms: expFields.experiment_duration_ms,
         experiment: expFields.experiment || (magpieConfig && (magpieConfig.experimentName || magpieConfig.experimentId || magpieConfig.name || 'MoTR_Click')),
         Experiment: experiment,
         Condition: condition,
@@ -580,9 +628,17 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
       first_click_x_from_line_start_chars: val('first_click_x_from_line_start_chars'),
       device: val('device'),
       hand: val('hand'),
+      experiment_date: val('experiment_date'),
+      experiment_start_date: val('experiment_start_date'),
       experiment_start_time: val('experiment_start_time'),
+      experiment_start_clock_time: val('experiment_start_clock_time'),
+      experiment_start_time_local: val('experiment_start_time_local'),
+      experiment_end_date: val('experiment_end_date'),
       experiment_end_time: val('experiment_end_time'),
+      experiment_end_clock_time: val('experiment_end_clock_time'),
+      experiment_end_time_local: val('experiment_end_time_local'),
       experiment_duration: val('experiment_duration'),
+      experiment_duration_ms: val('experiment_duration_ms'),
       experiment: val('experiment')
     };
   });
@@ -664,8 +720,13 @@ export default {
         if (minT !== Infinity && Number.isFinite(minT)) startTime = new Date(minT).toISOString();
       }
       const durationMs = startTime ? (endTime.getTime() - new Date(startTime).getTime()) : '';
+      const endDate = localDateString(endTime);
+      const endClockTime = localTimeString(endTime);
       const sessionTimes = {
+        experiment_end_date: endDate,
         experiment_end_time: endTime.toISOString(),
+        experiment_end_clock_time: endClockTime,
+        experiment_end_time_local: `${endDate} ${endClockTime}`,
         experiment_duration: durationMs !== '' ? String(durationMs) : '',
         experiment_start_time_fallback: startTime || ''
       };

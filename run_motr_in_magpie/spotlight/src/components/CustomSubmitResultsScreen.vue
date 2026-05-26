@@ -6,11 +6,7 @@
     </Slide>
     <Slide>
       <p v-if="!error">
-        Thank you for participating in our study. Follow this URL to complete your submission and be redirected to Prolific:
-        <a href="https://app.prolific.com/submissions/complete?cc=C1FQEQTP" target="_blank" rel="noopener">
-          https://app.prolific.com/submissions/complete?cc=C1FQEQTP
-        </a>
-        <Wait :time="3000" @done="redirectToCompletionUrl" />
+        Thank you for participating! You may now close this window
       </p>
       <div v-else>
         <p>{{ $t('screens.SubmitResultsScreen.error') }}</p>
@@ -27,10 +23,7 @@
   <Screen v-else title="Submitting">
     <Slide>
       <p>
-        Thank you for participating in our study. Follow this URL to complete your submission and be redirected to Prolific:
-        <a href="https://app.prolific.com/submissions/complete?cc=C1FQEQTP" target="_blank" rel="noopener">
-          https://app.prolific.com/submissions/complete?cc=C1FQEQTP
-        </a>
+        Thank you for participating! You may now close this window
       </p>
     </Slide>
   </Screen>
@@ -63,11 +56,6 @@ export default {
         }
         this.error = err.message;
         cb();
-      }
-    },
-    redirectToCompletionUrl() {
-      if (this.$magpie.completionUrl && this.$magpie.mode === 'prolific') {
-        window.location = this.$magpie.completionUrl;
       }
     }
   }
