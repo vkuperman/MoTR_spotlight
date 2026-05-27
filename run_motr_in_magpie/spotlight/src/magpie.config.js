@@ -6,5 +6,5 @@ export default {
   contactEmail: 'cui.ding@uzh.ch',
   mode: 'debug',
   language: 'en',
-  resultsUploadUrl: 'https://mo-tr-click.vercel.app/api/upload-results'
+  resultsUploadUrl: 'https://mo-tr-spotlight.vercel.app/api/upload-results'
 };
