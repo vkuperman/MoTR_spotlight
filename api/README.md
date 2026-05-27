@@ -2,36 +2,41 @@
 
 Serverless endpoint: **POST /api/upload-results**
 
-Accepts `{ participantId: string, zipBase64: string }` and can send the results zip by email and/or save it to GitHub. At least one of (email) or (GitHub) must be configured.
+Accepts `{ participantId: string, zipBase64: string, isTest?: boolean }` and saves the results zip to GitHub and/or sends it by email. At least one of (email) or (GitHub) must be configured.
+
+**Production URL (MoTR_spotlight):** `https://motr-spotlight.vercel.app/api/upload-results`
 
 ## Environment variables (e.g. Vercel)
 
 | Variable | Required | Description |
 |----------|----------|-------------|
+| `GITHUB_TOKEN` | For GitHub | Personal access token with **Contents: Read and write** on `MoTR_spotlight` |
+| `GITHUB_REPO` | Optional | Repo as `owner/repo`; default `vkuperman/MoTR_spotlight` |
+| `GITHUB_RESULTS_PATH` | Optional | Folder in repo; default `run_motr_in_magpie/Results` |
+| `GITHUB_BRANCH` | Optional | Branch to commit to; default `main` |
 | `RESEND_API_KEY` | For email | Resend API key |
-| `EMAIL_TO` | For email | Recipient email (Resend free tier: only account owner until domain verified) |
-| `GITHUB_TOKEN` | For GitHub | Personal access token with **Contents: Read and write** |
-| `GITHUB_REPO` | Optional | Repo as `owner/repo`; default `vkuperman/MoTR_Click` |
+| `EMAIL_TO` | For email | Recipient email |
 
-## Save reports on GitHub alongside email
+## Save reports on GitHub
 
-1. **Create a GitHub token:** GitHub → Settings → Developer settings → Personal access tokens. Create a token with **Contents: Read and write**. Copy the value.
+1. Create a GitHub token with **Contents: Read and write** for `MoTR_spotlight`.
+2. Add `GITHUB_TOKEN` in Vercel → Project → Settings → Environment Variables.
+3. Redeploy.
 
-2. **Add in Vercel:** Project → Settings → Environment Variables. Add `GITHUB_TOKEN` (Secret) with the token. Optionally add `GITHUB_REPO` (e.g. `owner/repo`) if not using the default.
+Zips are written to **main** under `run_motr_in_magpie/Results/` (or `.../Results/test/` when `isTest` is true), e.g.:
 
-3. **Redeploy** so the new env vars are used.
+`run_motr_in_magpie/Results/ABC12DEF_motr_results_2026-05-26T17-30-00.zip`
 
-Zips are written to the **main** branch under **Results/** with names like `Results/<participantId>_motr_results_<timestamp>.zip`. View them at `https://github.com/<owner>/<repo>/tree/main/Results`.
+View them at: https://github.com/vkuperman/MoTR_spotlight/tree/main/run_motr_in_magpie/Results
 
 ## Reports in the zip
 
-- **fixation_report.csv** – one row per click (fixation); **interest_area_report.csv** – one row per word (interest area) per text.
-- **ItemId** – identifier of the text/trial item (the sentence or passage) being read; one item per screen before the comprehension question.
-- **SonaId** – SONA ID from the Welcome page (or thank-you screen if entered there).
-- Fixation report includes **FixationIndex** (ordinal fixation in that text, reset per item), **position_in_text**, **line_number**, **position_in_line**.
+- **fixation_report.csv** – one row per click (fixation)
+- **interest_area_report.csv** – one row per word (interest area) per text
+- **raw_trial_data.csv** – full Magpie trial rows for the session
 
 ## Troubleshooting
 
-- Only email, no file in GitHub: ensure `GITHUB_TOKEN` is set and the deployment ran after adding it; token must have Contents write.
-- 401/403 from GitHub: token expired or missing scope; create a new token with Contents read/write.
-- 404 on PUT: `GITHUB_REPO` must be `owner/repo` (e.g. `vkuperman/MoTR_Click`).
+- **500 Server not configured:** set `GITHUB_TOKEN` (or Resend email vars) on Vercel and redeploy.
+- **401/403 from GitHub:** token expired or missing Contents write scope.
+- **404 on PUT:** check `GITHUB_REPO` is `owner/repo` and the results path exists on `main` (the `Results/README.md` placeholder is enough).

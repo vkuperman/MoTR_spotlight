@@ -10,6 +10,13 @@
         </button>
       </div>
     </Slide>
+    <Slide v-else-if="uploadError">
+      <p>We could not save your results automatically. Please try again.</p>
+      <p style="font-size: 0.9em; color: #666;">{{ uploadError }}</p>
+      <div style="margin-top: 1.5em;">
+        <button @click="retryUpload">Retry save</button>
+      </div>
+    </Slide>
     <Slide v-else>
       <p>
         Thank you for participating! You may now close this window
@@ -666,11 +673,51 @@ function getResultsFolderName(participantId) {
   return `motr_results_${id}_${datePart}`;
 }
 
-function buildResultsZipBlob(fixationCsv, interestAreaCsv, folderName) {
+function buildRawTrialDataCsv(allRows) {
+  if (!Array.isArray(allRows) || allRows.length === 0) return '';
+  const columns = [];
+  for (const row of allRows) {
+    if (!row || typeof row !== 'object') continue;
+    for (const key of Object.keys(row)) {
+      if (!columns.includes(key)) columns.push(key);
+    }
+  }
+  if (columns.length === 0) return '';
+  return stringify(allRows, { columns, header: true });
+}
+
+function buildResultsZipBlob(fixationCsv, interestAreaCsv, rawTrialCsv, folderName) {
   const zip = new JSZip();
   if (fixationCsv) zip.file(`${folderName}/fixation_report.csv`, fixationCsv);
   if (interestAreaCsv) zip.file(`${folderName}/interest_area_report.csv`, interestAreaCsv);
+  if (rawTrialCsv) zip.file(`${folderName}/raw_trial_data.csv`, rawTrialCsv);
   return zip.generateAsync({ type: 'blob' });
+}
+
+function getResultsUploadUrl(vm) {
+  const fromMagpie = vm.$magpie && vm.$magpie.resultsUploadUrl;
+  if (fromMagpie && typeof fromMagpie === 'string' && fromMagpie.trim() !== '') {
+    return fromMagpie.trim();
+  }
+  const fromConfig = magpieConfig.resultsUploadUrl;
+  if (fromConfig && typeof fromConfig === 'string' && fromConfig.trim() !== '') {
+    return fromConfig.trim();
+  }
+  return '';
+}
+
+async function uploadResultsZip(uploadUrl, participantId, blob, isTest) {
+  const zipBase64 = await blobToBase64(blob);
+  const res = await fetch(uploadUrl, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ participantId, zipBase64, isTest: !!isTest })
+  });
+  if (!res.ok) {
+    const errText = await res.text();
+    throw new Error(`${res.status} ${errText}`);
+  }
+  return res.json();
 }
 
 function blobToBase64(blob) {
@@ -695,7 +742,9 @@ export default {
   data() {
     return {
       sonaId: '',
-      submitted: false
+      submitted: false,
+      uploadError: '',
+      saving: false
     };
   },
   mounted() {
@@ -704,6 +753,10 @@ export default {
     }
   },
   methods: {
+    async retryUpload() {
+      this.uploadError = '';
+      await this.submitDirectAndNext();
+    },
     async exportAndNext() {
       const allRows = this.$magpie.getAllData();
       const expData = (this.$magpie.getExpData && this.$magpie.getExpData()) || {};
@@ -732,38 +785,49 @@ export default {
       };
       const fixationCsv = buildFixationReport(allRows, participantId, expData, sessionTimes);
       const interestAreaCsv = buildInterestAreaReport(allRows, participantId, expData, sessionTimes);
+      const rawTrialCsv = buildRawTrialDataCsv(allRows);
       const folderName = getResultsFolderName(participantId);
+      const uploadUrl = getResultsUploadUrl(this);
+      const isTest = !!(this.$magpie && this.$magpie.debug);
 
-      if (fixationCsv || interestAreaCsv) {
-        const blob = await buildResultsZipBlob(fixationCsv, interestAreaCsv, folderName);
-        const uploadUrl = magpieConfig.resultsUploadUrl;
-        if (uploadUrl && typeof uploadUrl === 'string' && uploadUrl.trim() !== '') {
-          try {
-            const zipBase64 = await blobToBase64(blob);
-            const res = await fetch(uploadUrl.trim(), {
-              method: 'POST',
-              headers: { 'Content-Type': 'application/json' },
-              body: JSON.stringify({ participantId, zipBase64 })
-            });
-            if (!res.ok) {
-              const errText = await res.text();
-              throw new Error(`${res.status} ${errText}`);
-            }
-          } catch (e) {
-            console.error('Results upload failed:', e.message || e);
-          }
-        }
+      if (!uploadUrl) {
+        throw new Error('Results upload is not configured (missing resultsUploadUrl).');
       }
 
-      this.$magpie.nextSlide();
+      if (!fixationCsv && !interestAreaCsv && !rawTrialCsv) {
+        throw new Error('No experiment data to save.');
+      }
+
+      this.saving = true;
+      try {
+        const blob = await buildResultsZipBlob(fixationCsv, interestAreaCsv, rawTrialCsv, folderName);
+        await uploadResultsZip(uploadUrl, participantId, blob, isTest);
+        this.uploadError = '';
+        this.$magpie.nextSlide();
+      } catch (e) {
+        const message = e && e.message ? e.message : String(e);
+        console.error('Results upload failed:', message);
+        this.uploadError = message;
+        throw e;
+      } finally {
+        this.saving = false;
+      }
     },
     async submitSonaAndNext() {
       this.submitted = true;
-      await this.exportAndNext();
+      try {
+        await this.exportAndNext();
+      } catch (_) {
+        this.submitted = false;
+      }
     },
     async submitDirectAndNext() {
       this.submitted = true;
-      await this.exportAndNext();
+      try {
+        await this.exportAndNext();
+      } catch (_) {
+        this.submitted = false;
+      }
     }
   }
 };

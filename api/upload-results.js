@@ -3,7 +3,9 @@
  * Body: { participantId: string, zipBase64: string }
  *
  * Optional env:
- * - GITHUB_TOKEN + GITHUB_REPO: push zip to GitHub Results/
+ * - GITHUB_TOKEN + GITHUB_REPO: push zip to GitHub (default run_motr_in_magpie/Results/)
+ * - GITHUB_RESULTS_PATH: folder path in repo (default run_motr_in_magpie/Results)
+ * - GITHUB_BRANCH: branch to commit to (default main)
  * - RESEND_API_KEY + EMAIL_TO: email zip to EMAIL_TO (Resend free tier: only to account owner until domain verified)
  * At least one of (GitHub) or (Resend + EMAIL_TO) must be set.
  */
@@ -50,7 +52,9 @@ export default async function handler(req, res) {
   }
 
   const githubToken = process.env.GITHUB_TOKEN;
-  const repo = process.env.GITHUB_REPO || 'vkuperman/MoTR_Click';
+  const repo = process.env.GITHUB_REPO || 'vkuperman/MoTR_spotlight';
+  const resultsPath = (process.env.GITHUB_RESULTS_PATH || 'run_motr_in_magpie/Results').replace(/\/+$/, '');
+  const githubBranch = process.env.GITHUB_BRANCH || 'main';
   const resendKey = process.env.RESEND_API_KEY;
   const emailTo = process.env.EMAIL_TO || 'vkuperman@yahoo.com';
 
@@ -76,7 +80,9 @@ export default async function handler(req, res) {
   }
 
   const timestamp = new Date().toISOString().replace(/[:.]/g, '-').slice(0, 19);
-  const filename = `Results/${participantId}_motr_results_${timestamp}.zip`;
+  const isTest = body.isTest === true || body.isTest === 'true';
+  const resultsSubdir = isTest ? `${resultsPath}/test` : resultsPath;
+  const filename = `${resultsSubdir}/${participantId}_motr_results_${timestamp}.zip`;
   const result = { ok: true };
 
   if (useEmail) {
@@ -106,7 +112,7 @@ export default async function handler(req, res) {
       body: JSON.stringify({
         message: `Add results: ${participantId}_motr_results_${timestamp}.zip`,
         content: zipBase64,
-        branch: 'main'
+        branch: githubBranch
       })
     });
     if (!response.ok) {
