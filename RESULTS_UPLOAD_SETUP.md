@@ -10,10 +10,12 @@ Test sessions (debug mode) are saved under:
 
 ## One-time server setup (Vercel)
 
-The browser cannot write directly to GitHub. A small API in this repo (`api/upload-results.js`) receives the ZIP and commits it to `main`.
+The browser cannot write directly to GitHub. The upload API (`api/upload-results.js`) receives the ZIP and commits it to `main`.
 
-1. Open [Vercel](https://vercel.com) and **Import** the `vkuperman/MoTR_spotlight` GitHub repository (if it is not already connected).
-2. In the Vercel project → **Settings** → **Environment Variables**, add:
+Spotlight uses the existing deployment: **https://mo-tr-click.vercel.app/api/upload-results**
+
+1. Open the **mo-tr-click** project on [Vercel](https://vercel.com) (linked to `vkuperman/MoTR_Click`).
+2. In **Settings** → **Environment Variables**, add or update:
 
    | Name | Value |
    |------|--------|
@@ -26,7 +28,9 @@ The browser cannot write directly to GitHub. A small API in this repo (`api/uplo
 
 4. Confirm the API responds (should not be `500 Server not configured`):
 
-   `https://motr-spotlight.vercel.app/api/upload-results`
+   `https://mo-tr-click.vercel.app/api/upload-results`
+
+(Optional) You can instead deploy this repo’s `api/` folder as its own Vercel project and set `resultsUploadUrl` in `magpie.config.js` to that URL.
 
 After this, each completed Spotlight session uploads a ZIP named like:
 
