@@ -1,6 +1,6 @@
-# Automatic results upload (Spotlight / GitHub Pages)
+# Automatic results upload (Spotlight)
 
-Participant result ZIPs from **https://vkuperman.github.io/MoTR_spotlight/spotlight/** are uploaded at the end of each session to this repository under:
+Participant result ZIPs from **https://vkuperman.github.io/MoTR_spotlight/spotlight/** are uploaded at the end of each session to **this repository** under:
 
 `run_motr_in_magpie/Results/`
 
@@ -8,34 +8,41 @@ Test sessions (debug mode) are saved under:
 
 `run_motr_in_magpie/Results/test/`
 
-## One-time server setup (Vercel)
+**MoTR_Click experiments** (demo, provo, etc.) use a **separate** Vercel project and save to **`MoTR_Click/Results/`** only. Do not point both projects at the same `GITHUB_REPO` unless you intend to.
 
-The browser cannot write directly to GitHub. The upload API (`api/upload-results.js`) receives the ZIP and commits it to `main`.
+## Spotlight Vercel project (`mo-tr-spotlight`)
 
-Spotlight uses the existing deployment: **https://mo-tr-click.vercel.app/api/upload-results**
+Spotlight `magpie.config.js` uses:
 
-1. Open the **mo-tr-click** project on [Vercel](https://vercel.com) (linked to `vkuperman/MoTR_Click`).
-2. In **Settings** → **Environment Variables**, add or update:
+`https://mo-tr-spotlight.vercel.app/api/upload-results`
 
-   | Name | Value |
-   |------|--------|
-   | `GITHUB_TOKEN` | Personal access token with **Contents: Read and write** on `MoTR_spotlight` |
-   | `GITHUB_REPO` | `vkuperman/MoTR_spotlight` (optional; this is the default) |
-   | `GITHUB_RESULTS_PATH` | `run_motr_in_magpie/Results` (optional; default) |
-   | `GITHUB_BRANCH` | `main` (optional; default) |
+In that Vercel project → **Settings** → **Environment Variables**:
 
-3. **Redeploy** the Vercel project (Deployments → … → Redeploy).
+| Name | Value |
+|------|--------|
+| `GITHUB_TOKEN` | PAT with **Contents: Read and write** on `MoTR_spotlight` |
+| `GITHUB_REPO` | `vkuperman/MoTR_spotlight` |
+| `GITHUB_RESULTS_PATH` | `run_motr_in_magpie/Results` |
+| `GITHUB_BRANCH` | `main` (optional) |
 
-4. Confirm the API responds (should not be `500 Server not configured`):
+Redeploy after changing env vars.
 
-   `https://mo-tr-click.vercel.app/api/upload-results`
+## MoTR_Click Vercel project (`mo-tr-click`)
 
-(Optional) You can instead deploy this repo’s `api/` folder as its own Vercel project and set `resultsUploadUrl` in `magpie.config.js` to that URL.
+Apps that use `https://mo-tr-click.vercel.app/api/upload-results` should use **this** env block instead:
 
-After this, each completed Spotlight session uploads a ZIP named like:
+| Name | Value |
+|------|--------|
+| `GITHUB_TOKEN` | PAT with **Contents: Read and write** on `MoTR_Click` |
+| `GITHUB_REPO` | `vkuperman/MoTR_Click` |
+| `GITHUB_RESULTS_PATH` | `Results` |
+| `GITHUB_BRANCH` | `main` (optional) |
 
-`run_motr_in_magpie/Results/<participantId>_motr_results_<timestamp>.zip`
+Redeploy the **mo-tr-click** project after changes.
 
-Each ZIP contains `fixation_report.csv`, `interest_area_report.csv`, and `raw_trial_data.csv`.
+## Verify
 
-See also `api/README.md` for optional email delivery via Resend.
+- Spotlight test upload should return a path under `run_motr_in_magpie/Results/`.
+- MoTR_Click upload should return a path under `Results/`.
+
+See `api/README.md` for optional email delivery via Resend.
