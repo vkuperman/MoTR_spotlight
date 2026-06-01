@@ -8,7 +8,7 @@ export default {
   experimentId: 'spotlight-sona',
   githubResultsPath: 'run_motr_in_magpie/Results/spotlight_SONA',
   resultsUploadUrl: 'https://mo-tr-spotlight-sona.vercel.app/api/upload-results',
-  /** Random (or manual) selection: articles per level block (2 blocks → 12 texts total). Prolific uses 15. */
+  /** Random (or manual) selection: articles per level block (2 blocks → 12 texts total). Prolific uses 3 per block (6 total). */
   articlesPerLevel: 6,
   manualArticleSelectionEnabled: false,
   manualArticleNumbers: [
