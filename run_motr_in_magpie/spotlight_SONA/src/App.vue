@@ -1,6 +1,6 @@
 <!-- Window is fixed, 102px, pointer cursor, gradual blurry effect on surrounding words. -->
 <!--  Comprehension questions appear afterwards in the same slide -->
-<!-- Click-to-reveal: unblur only while mouse button is held; record position, duration, and position relative to word. -->
+<!-- Hover-to-reveal: unblur around the mouse and record hover duration and position relative to word. -->
 
 <template>
   <div class="motr-root">
@@ -67,7 +67,7 @@
         <a href="javascript:void(0)" @click="turnOnFullScreen">Fullscreen Mode</a>
       </p>
  -->
-      <p>In this study, you will read short texts and answer questions about them. However, unlike in normal reading, the texts will be blurred. <strong>Click and hold on the text to reveal it;</strong> the reveal stays fixed while you hold. Release to hide. Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question at the bottom and click "next" to move on.</p>
+      <p>In this study, you will read short texts and answer questions about them. However, unlike in normal reading, the texts will be blurred. <strong>Move your mouse over the text to reveal it with the spotlight;</strong> the revealed area follows your mouse. Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question at the bottom and click "next" to move on.</p>
     </InstructionScreen>
 
     <template v-for="(trial, i) of trials">
@@ -92,7 +92,7 @@
           </form>
           <div class="oval-cursor"></div>
           <template>
-            <div v-if="showFirstDiv" class="readingText" @mousemove="moveCursor" @mousedown="onRevealDown" @mouseup="onRevealUp" @mouseleave="changeBack">
+            <div v-if="showFirstDiv" class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
               <template v-for="(word, index) of trial.text.split(' ')">
                 <span :key="index" :data-index="index + 1" >
                   {{ word }}
@@ -188,7 +188,7 @@ export default {
           x: 0,
           y: 0,
         },
-      // Click-start state for recording (only while click is held)
+      // Hover dwell state for recording (per word interest area)
       clickStartTime: null,
       clickStartX: null,
       clickStartY: null,
@@ -238,12 +238,6 @@ export default {
     cambridgeCefrLabel() {
       return cefrBandForScore(this.cambridgeComputedScore, this.cambridgeScoring);
     },
-  },
-  mounted() {
-    document.addEventListener('mouseup', this.onRevealUp);
-  },
-  beforeDestroy() {
-    document.removeEventListener('mouseup', this.onRevealUp);
   },
   methods: {
     getCharSizePx() {
@@ -433,15 +427,11 @@ export default {
       this.currentIndex = null;
       this.isClickHeld = false;
     },
-    onRevealDown(e) {
-      if (this.isClickHeld) return;
+    onRevealHover(e) {
       this.isCursorMoving = true;
-      this.isClickHeld = true;
       const x = e.clientX;
       const y = e.clientY;
-      this.clickStartTime = performance.now();
-      this.clickStartX = x;
-      this.clickStartY = y;
+      const now = performance.now();
 
       const oval = this.$el.querySelector(".oval-cursor");
       if (oval) {
@@ -492,6 +482,16 @@ export default {
         const span = this.$el.querySelector(`.readingText span[data-index="${index}"]`);
         const wordText = span ? span.innerHTML : null;
 
+        if (!this.isClickHeld || this.clickWordIndex !== index) {
+          if (this.isClickHeld) {
+            this.finishClick(now);
+          }
+          this.isClickHeld = true;
+          this.clickStartTime = now;
+          this.clickStartX = x;
+          this.clickStartY = y;
+        }
+
         this.clickWordIndex = index;
         this.clickWord = wordText;
         this.clickWordRect = { top: ia.top, left: ia.left, bottom: ia.bottom, right: ia.right };
@@ -506,6 +506,10 @@ export default {
         this.clickPositionInLine = positionInLine;
         this.currentIndex = index;
       } else {
+        if (this.isClickHeld) {
+          this.finishClick(now);
+        }
+        this.isClickHeld = false;
         oval.classList.add('blank');
         this.clickWordIndex = -1;
         this.clickWord = null;
@@ -544,19 +548,6 @@ export default {
       }
       return { lineNumber: null, positionInLine: null };
     },
-    onRevealUp() {
-      if (!this.isClickHeld) return;
-      this.finishClick(performance.now());
-      const oval = this.$el.querySelector(".oval-cursor");
-      if (oval) {
-        oval.classList.remove('grow');
-        oval.classList.remove('blank');
-        oval.style.width = '0px';
-        oval.style.height = '0px';
-      }
-      this.isClickHeld = false;
-      this.currentIndex = null;
-    },
     finishClick(endTime) {
       const expEl = this.$el.querySelector(".experiment_id");
       if (!expEl) return;
@@ -579,7 +570,9 @@ export default {
         Word: this.clickWord,
         mousePositionX: this.clickStartX,
         mousePositionY: this.clickStartY,
+        revealMode: 'hover',
         clickDurationMs: durationMs,
+        hoverDurationMs: durationMs,
         relativeXInWord: this.relativeXInWord,
         relativeYInWord: this.relativeYInWord,
         totalWordsInItem: totalWordsInItem,
@@ -607,26 +600,6 @@ export default {
       this.relativeYInWord = null;
       this.clickLineNumber = null;
       this.clickPositionInLine = null;
-    },
-    moveCursor(e) {
-      if (this.isClickHeld) return;
-      let x = e.clientX;
-      let y = e.clientY;
-      const elementAtCursor = document.elementFromPoint(x, y) && document.elementFromPoint(x, y).closest('span');
-      if (elementAtCursor) {
-        this.currentIndex = elementAtCursor.getAttribute('data-index');
-      } else {
-        const elementAboveCursor = document.elementFromPoint(x, y - 3) && document.elementFromPoint(x, y - 3).closest('span');
-        if (elementAboveCursor) {
-          this.currentIndex = elementAboveCursor.getAttribute('data-index');
-        } else {
-          this.currentIndex = -1;
-        }
-      }
-      this.$el.querySelector(".oval-cursor").style.left = `${x + 12}px`;
-      this.$el.querySelector(".oval-cursor").style.top = `${y - 6}px`;
-      this.mousePosition.x = e.clientX;
-      this.mousePosition.y = e.clientY;
     },
     toggleDivs() {
     this.showFirstDiv = !this.showFirstDiv;
