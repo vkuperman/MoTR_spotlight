@@ -1,7 +1,9 @@
-name: Build and Deploy Spotlight to GitHub Pages
+name: Build and Deploy Spotlight apps to GitHub Pages
+
 on:
   push:
-    branches: [ main ]
+    branches: [main]
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -14,19 +16,30 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install and Build Spotlight
+      - name: Install and build spotlight_SONA
         run: |
-          cd run_motr_in_magpie/spotlight
+          cd run_motr_in_magpie/spotlight_SONA
           npm install
           npm run build
+          touch dist/.nojekyll
 
-      - name: Add .nojekyll for GitHub Pages
-        run: touch run_motr_in_magpie/spotlight/dist/.nojekyll
+      - name: Install and build spotlight_PROLIFIC
+        run: |
+          cd run_motr_in_magpie/spotlight_PROLIFIC
+          npm install
+          npm run build
+          touch dist/.nojekyll
 
-      - name: Deploy Spotlight to GitHub Pages
+      - name: Stage gh-pages layout
+        run: |
+          mkdir -p gh-pages-deploy/spotlight_SONA gh-pages-deploy/spotlight_PROLIFIC
+          cp -r run_motr_in_magpie/spotlight_SONA/dist/* gh-pages-deploy/spotlight_SONA/
+          cp -r run_motr_in_magpie/spotlight_PROLIFIC/dist/* gh-pages-deploy/spotlight_PROLIFIC/
+          touch gh-pages-deploy/.nojekyll
+
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: run_motr_in_magpie/spotlight/dist
-          destination_dir: spotlight
+          publish_dir: gh-pages-deploy
           keep_files: true

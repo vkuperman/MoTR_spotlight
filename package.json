@@ -1,5 +1,6 @@
 {
-  "name": "motr-spotlight",
+  "name": "motr-spotlight-repo",
   "private": true,
-  "type": "module"
+  "type": "module",
+  "description": "MoTR Spotlight monorepo: api/ + spotlight_SONA + spotlight_PROLIFIC"
 }

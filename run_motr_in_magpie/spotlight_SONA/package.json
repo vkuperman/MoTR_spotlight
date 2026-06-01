@@ -1,0 +1,44 @@
+{
+  "name": "mt-for-reading-spotlight-sona",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "npx vue-cli-service serve",
+    "build": "npx vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "lint:style": "vue-cli-service lint:style"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "@samhammer/vue-cli-plugin-stylelint": "~2.1.0",
+    "@vue/cli-plugin-eslint": "^4.5.15",
+    "@vue/cli-service": "^4.5.15",
+    "csv-loader": "^3.0.5",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^6.12.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-vue": "^5.0.0",
+    "stylelint": "^13.7.2",
+    "stylelint-config-standard": "^20.0.0",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5",
+    "jszip": "^3.10.1",
+    "lodash": "^4.17.21",
+    "magpie-base": "https://github.com/cuierd/magpie-base-MoTR/archive/refs/heads/main.tar.gz",
+    "vue": "^2.6.14",
+    "vue-konva": "^2.1.3",
+    "v-blur": "^1.0.4"
+  },
+  "engines": {
+    "node": ">=16",
+    "npm": ">=7"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
+

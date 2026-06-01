@@ -1,5 +1,6 @@
 {
-  "github": {
-    "silent": true
-  }
+  "version": 2,
+  "buildCommand": "cd run_motr_in_magpie/spotlight_SONA && npm install && npm run build",
+  "outputDirectory": "run_motr_in_magpie/spotlight_SONA/dist",
+  "rewrites": [{ "source": "/api/(.*)", "destination": "/api/$1" }]
 }

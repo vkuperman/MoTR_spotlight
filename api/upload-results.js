@@ -1,6 +1,6 @@
 /**
  * Serverless function: POST /api/upload-results
- * Body: { participantId: string, zipBase64: string }
+ * Body: { participantId: string, zipBase64: string, isTest?: boolean, githubResultsPath?: string }
  *
  * Optional env:
  * - GITHUB_TOKEN + GITHUB_REPO: push zip to GitHub (default run_motr_in_magpie/Results/)
@@ -21,15 +21,15 @@ async function sendEmailWithZip(resendKey, emailTo, participantId, timestamp, zi
     method: 'POST',
     headers: {
       Authorization: `Bearer ${resendKey}`,
-      'Content-Type': 'application/json'
+      'Content-Type': 'application/json',
     },
     body: JSON.stringify({
       from: 'MoTR Results <onboarding@resend.dev>',
       to: [emailTo],
       subject: `MoTR results: ${participantId}`,
       text: `Results for participant ${participantId} (${timestamp}).`,
-      attachments: [{ filename: zipFilename, content: zipBase64 }]
-    })
+      attachments: [{ filename: zipFilename, content: zipBase64 }],
+    }),
   });
   if (!res.ok) {
     const err = await res.text();
@@ -53,7 +53,10 @@ export default async function handler(req, res) {
 
   const githubToken = process.env.GITHUB_TOKEN;
   const repo = process.env.GITHUB_REPO || 'vkuperman/MoTR_spotlight';
-  const resultsPath = (process.env.GITHUB_RESULTS_PATH || 'run_motr_in_magpie/Results').replace(/\/+$/, '');
+  const defaultResultsPath = (process.env.GITHUB_RESULTS_PATH || 'run_motr_in_magpie/Results').replace(
+    /\/+$/,
+    ''
+  );
   const githubBranch = process.env.GITHUB_BRANCH || 'main';
   const resendKey = process.env.RESEND_API_KEY;
   const emailTo = process.env.EMAIL_TO || 'vkuperman@yahoo.com';
@@ -62,7 +65,7 @@ export default async function handler(req, res) {
   const useEmail = !!(resendKey && emailTo);
   if (!useGitHub && !useEmail) {
     return res.status(500).json({
-      error: 'Server not configured: set GITHUB_TOKEN or RESEND_API_KEY and EMAIL_TO'
+      error: 'Server not configured: set GITHUB_TOKEN or RESEND_API_KEY and EMAIL_TO',
     });
   }
 
@@ -79,6 +82,7 @@ export default async function handler(req, res) {
     return res.status(400).json({ error: 'Missing zipBase64' });
   }
 
+  const resultsPath = String(body.githubResultsPath || defaultResultsPath).replace(/\/+$/, '');
   const timestamp = new Date().toISOString().replace(/[:.]/g, '-').slice(0, 19);
   const isTest = body.isTest === true || body.isTest === 'true';
   const resultsSubdir = isTest ? `${resultsPath}/test` : resultsPath;
@@ -107,13 +111,13 @@ export default async function handler(req, res) {
         Authorization: `Bearer ${githubToken}`,
         Accept: 'application/vnd.github+json',
         'X-GitHub-Api-Version': '2022-11-28',
-        'Content-Type': 'application/json'
+        'Content-Type': 'application/json',
       },
       body: JSON.stringify({
         message: `Add results: ${participantId}_motr_results_${timestamp}.zip`,
         content: zipBase64,
-        branch: githubBranch
-      })
+        branch: githubBranch,
+      }),
     });
     if (!response.ok) {
       const errText = await response.text();

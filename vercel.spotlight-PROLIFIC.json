@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "buildCommand": "cd run_motr_in_magpie/spotlight_PROLIFIC && npm install && npm run build",
+  "outputDirectory": "run_motr_in_magpie/spotlight_PROLIFIC/dist",
+  "rewrites": [{ "source": "/api/(.*)", "destination": "/api/$1" }]
+}
