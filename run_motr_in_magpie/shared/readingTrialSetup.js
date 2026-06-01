@@ -25,6 +25,7 @@ export function prepareParticipantReadingTrials({
 
   const readingItems = pickArticleLevelOneStopTrials(oneStopLists, {
     levelPair,
+    articlesPerLevel: studyConfig.articlesPerLevel,
     manualArticleSelection: manualEnabled,
     manualArticleNumbers: manualNumbers,
   }).map((trial) => ({
