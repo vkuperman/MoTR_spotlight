@@ -6,10 +6,12 @@
     </Slide>
     <Slide>
       <p v-if="!error">
-        Thank you for participating in our study. Follow this URL to complete your submission and be redirected to Prolific:
-        <a :href="completionUrl" target="_blank" rel="noopener">{{ completionUrl }}</a>
-        <Wait :time="3000" @done="redirectToCompletionUrl" />
+        Thank you for participating. Please click the link below to return to Prolific
       </p>
+      <p v-if="!error" style="margin-top: 1em;">
+        <a :href="completionUrl" target="_blank" rel="noopener">{{ completionUrl }}</a>
+      </p>
+      <Wait v-if="!error" :time="3000" @done="redirectToCompletionUrl" />
       <div v-else>
         <p>{{ $t('screens.SubmitResultsScreen.error') }}</p>
         <p>{{ $t('screens.SubmitResultsScreen.manual') }}</p>
@@ -39,7 +41,7 @@ export default {
   name: 'CustomSubmitResultsScreen',
   computed: {
     completionUrl() {
-      return this.$magpie.completionUrl || 'https://app.prolific.com/submissions/complete?cc=REPLACE_PROLIFIC';
+      return this.$magpie.completionUrl || 'https://app.prolific.com/submissions/complete?cc=C12L4S1L';
     },
   },
   data() {

@@ -17,6 +17,15 @@
         <button @click="retryUpload">Retry save</button>
       </div>
     </Slide>
+    <Slide v-else-if="prolificCompletionUrl && submitted && !uploadComplete && !uploadError">
+      <p>Saving your results…</p>
+    </Slide>
+    <Slide v-else-if="prolificCompletionUrl && uploadComplete">
+      <p>Thank you for participating. Please click the link below to return to Prolific</p>
+      <p style="margin-top: 1em;">
+        <a :href="prolificCompletionUrl" target="_blank" rel="noopener">{{ prolificCompletionUrl }}</a>
+      </p>
+    </Slide>
     <Slide v-else>
       <p>
         Thank you for participating! You may now close this window
@@ -122,6 +131,14 @@ function getExpDataFields(expData, allRows, sessionTimes) {
         subjectFromRows = r.SonaId;
         break;
       }
+      if (r.ProlificID != null && r.ProlificID !== '') {
+        subjectFromRows = r.ProlificID;
+        break;
+      }
+      if (r.ProlificId != null && r.ProlificId !== '') {
+        subjectFromRows = r.ProlificId;
+        break;
+      }
     }
   }
   const exp = expData && typeof expData === 'object' ? expData : {};
@@ -132,11 +149,15 @@ function getExpDataFields(expData, allRows, sessionTimes) {
   const sonaIdValue =
     (exp.SONAId != null && exp.SONAId !== '')
       ? exp.SONAId
-      : (exp.SubjectId != null && exp.SubjectId !== ''
-        ? exp.SubjectId
-        : (exp.SubjectID != null && exp.SubjectID !== ''
-          ? exp.SubjectID
-          : subjectFromRows));
+      : (exp.ProlificID != null && exp.ProlificID !== ''
+        ? exp.ProlificID
+        : (exp.ProlificId != null && exp.ProlificId !== ''
+          ? exp.ProlificId
+          : (exp.SubjectId != null && exp.SubjectId !== ''
+            ? exp.SubjectId
+            : (exp.SubjectID != null && exp.SubjectID !== ''
+              ? exp.SubjectID
+              : subjectFromRows))));
 
   return {
     device: exp.device != null && exp.device !== '' ? exp.device : fromRows.device,
@@ -741,12 +762,17 @@ export default {
   name: 'ExportReportsScreen',
   components: { Screen, Slide },
   props: {
-    skipSonaInput: { type: Boolean, default: false }
+    skipSonaInput: { type: Boolean, default: false },
+    /** Prolific completion URL; upload finishes before this link is shown. */
+    prolificCompletionUrl: { type: String, default: '' },
+    /** Override GitHub results folder (e.g. run_motr_in_magpie/Results/spotlight_PROLIFIC). */
+    githubResultsPath: { type: String, default: '' },
   },
   data() {
     return {
       sonaId: '',
       submitted: false,
+      uploadComplete: false,
       uploadError: '',
       saving: false
     };
@@ -759,12 +785,22 @@ export default {
   methods: {
     async retryUpload() {
       this.uploadError = '';
+      this.uploadComplete = false;
       await this.submitDirectAndNext();
     },
     async exportAndNext() {
       const allRows = this.$magpie.getAllData();
       const expData = (this.$magpie.getExpData && this.$magpie.getExpData()) || {};
-      let participantId = expData.ParticipantId || (this.$root && this.$root.participantId) || null;
+      let participantId =
+        expData.ParticipantId
+        || expData.ProlificID
+        || expData.ProlificId
+        || expData.SubjectID
+        || expData.SubjectId
+        || expData.SONAId
+        || expData.SonaId
+        || (this.$root && this.$root.participantId)
+        || null;
       if (!participantId || String(participantId).trim() === '') {
         participantId = generateUniqueAlphanumericId();
         if (this.$magpie.addExpData) this.$magpie.addExpData({ ParticipantId: participantId });
@@ -793,10 +829,10 @@ export default {
       const folderName = getResultsFolderName(participantId);
       const uploadUrl = getResultsUploadUrl(this);
       const isTest = !!(this.$magpie && this.$magpie.debug);
-      const githubResultsPath =
-        magpieConfig.githubResultsPath && typeof magpieConfig.githubResultsPath === 'string'
-          ? magpieConfig.githubResultsPath
-          : '';
+      const githubResultsPath = (this.githubResultsPath && String(this.githubResultsPath).trim())
+        || (magpieConfig.githubResultsPath && typeof magpieConfig.githubResultsPath === 'string'
+          ? magpieConfig.githubResultsPath.trim()
+          : '');
 
       if (!uploadUrl) {
         throw new Error('Results upload is not configured (missing resultsUploadUrl).');
@@ -811,7 +847,10 @@ export default {
         const blob = await buildResultsZipBlob(fixationCsv, interestAreaCsv, rawTrialCsv, folderName);
         await uploadResultsZip(uploadUrl, participantId, blob, isTest, githubResultsPath);
         this.uploadError = '';
-        this.$magpie.nextSlide();
+        this.uploadComplete = true;
+        if (!this.prolificCompletionUrl) {
+          this.$magpie.nextSlide();
+        }
       } catch (e) {
         const message = e && e.message ? e.message : String(e);
         console.error('Results upload failed:', message);

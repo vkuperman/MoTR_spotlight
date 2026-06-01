@@ -142,7 +142,11 @@
   <button style= "bottom:30%; transform: translate(-50%, -50%)" @click="$magpie.saveAndNextScreen();">Submit</button>
 </Screen>
 
-    <ExportReportsScreen :skip-sona-input="true" />
+    <ExportReportsScreen
+      :skip-sona-input="true"
+      :prolific-completion-url="prolificCompletionUrl"
+      :github-results-path="githubResultsPath"
+    />
     <CustomSubmitResultsScreen />
   </Experiment>
   </div>
@@ -178,6 +182,8 @@ export default {
   components: { ExportReportsScreen, CustomSubmitResultsScreen, ConsentPROLIFIC },
   data() {
     return {
+      prolificCompletionUrl: studyConfig.completionUrl,
+      githubResultsPath: studyConfig.githubResultsPath,
       stimuliReady: false,
       isCursorMoving: false,
       isClickHeld: false,
@@ -616,6 +622,7 @@ export default {
       this.cambridgeSelected = this.cambridgeQuestions.map(() => null);
       const id = (this.$magpie && this.$magpie.measurements && this.$magpie.measurements.SubjectID) ? String(this.$magpie.measurements.SubjectID).trim() : '';
       this.$magpie.addExpData({
+        ParticipantId: id,
         SubjectId: id,
         SubjectID: id,
         ProlificId: id,
