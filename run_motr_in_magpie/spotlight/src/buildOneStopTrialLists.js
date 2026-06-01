@@ -6,6 +6,18 @@ const RESPONSE_TRUE = 'Fairly well or very well';
 const RESPONSE_DISTRACTORS = 'Not at all|Only a little';
 const ARTICLES_PER_LEVEL = 15;
 
+/**
+ * Manual article pool (experimenter). When enabled, only these article numbers are
+ * eligible; presentation order is still randomized. Set to false for fully random selection.
+ */
+export const MANUAL_ARTICLE_SELECTION_ENABLED = false;
+
+/** OneStop article numbers (1–30). Used only when MANUAL_ARTICLE_SELECTION_ENABLED is true. */
+export const MANUAL_ARTICLE_NUMBERS = [
+  1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,
+  16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30,
+];
+
 /** Canonical order within each file. */
 const LEVEL_ORDER = ['elementary', 'intermediate', 'advanced'];
 
@@ -271,15 +283,56 @@ function trialsForArticleLevel(article, level) {
     .sort((a, b) => a.onestop_paragraph_index - b.onestop_paragraph_index);
 }
 
+function normalizeArticleNumberId(value) {
+  const n = parseInt(String(value).trim(), 10);
+  return Number.isFinite(n) ? String(n) : '';
+}
+
+function filterArticlesByManualNumbers(articles, manualNumbers) {
+  const allowed = new Set();
+  for (const entry of manualNumbers) {
+    const id = normalizeArticleNumberId(entry);
+    if (id) allowed.add(id);
+  }
+  return articles.filter((article) => {
+    const id = normalizeArticleNumberId(article.sortValue);
+    return allowed.has(id) || allowed.has(normalizeArticleNumberId(article.key));
+  });
+}
+
 /**
  * Each participant sees all articles once: 15 articles in one selected level and
  * 15 in another. Articles are grouped by level block, block order is randomized,
  * and paragraphs stay in their original order within each article.
+ *
+ * Options:
+ * - manualArticleSelection {boolean} — use manualArticleNumbers instead of all articles
+ * - manualArticleNumbers {number[]|string[]} — article numbers to include (need 30 for two blocks)
  */
 export function pickArticleLevelOneStopTrials(listsTuple, options = {}) {
   const articlesPerLevel = options.articlesPerLevel || ARTICLES_PER_LEVEL;
   const levelPair = options.levelPair || _.shuffle(options.levels || LEVEL_ORDER).slice(0, 2);
-  const articles = _.shuffle(groupTrialsByArticle(listsTuple.all || []));
+  const articlesNeeded = articlesPerLevel * levelPair.length;
+  const manualEnabled = options.manualArticleSelection === true;
+  const manualNumbers = options.manualArticleNumbers;
+
+  let articles = groupTrialsByArticle(listsTuple.all || []);
+  let selectionMode = 'random';
+  let manualArticleList = '';
+
+  if (manualEnabled && Array.isArray(manualNumbers) && manualNumbers.length) {
+    selectionMode = 'manual';
+    manualArticleList = manualNumbers.map((n) => normalizeArticleNumberId(n)).filter(Boolean).join('|');
+    articles = filterArticlesByManualNumbers(articles, manualNumbers);
+    if (articles.length < articlesNeeded) {
+      // eslint-disable-next-line no-console
+      console.warn(
+        `Manual article selection: matched ${articles.length} article(s) but ${articlesNeeded} are required.`
+      );
+    }
+  }
+
+  articles = _.shuffle(articles).slice(0, articlesNeeded);
   const blocks = [];
 
   for (let levelIndex = 0; levelIndex < levelPair.length; levelIndex++) {
@@ -308,6 +361,8 @@ export function pickArticleLevelOneStopTrials(listsTuple, options = {}) {
           onestop_level_pair: levelPair.join('|'),
           onestop_level_block_order: blockOrder.map((b) => b.level).join('|'),
           onestop_level_assignment_index: block.levelAssignmentIndex,
+          onestop_article_selection_mode: selectionMode,
+          onestop_manual_article_numbers: manualArticleList,
         });
       }
     });

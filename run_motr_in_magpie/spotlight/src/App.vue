@@ -183,6 +183,8 @@
             <input v-if="trial.onestop_paragraph_index != null" type="hidden" class="onestop_paragraph_index" :value="trial.onestop_paragraph_index">
             <input v-if="trial.onestop_paragraph_count != null" type="hidden" class="onestop_paragraph_count" :value="trial.onestop_paragraph_count">
             <input v-if="trial.onestop_question_slot != null" type="hidden" class="onestop_question_slot" :value="trial.onestop_question_slot">
+            <input v-if="trial.onestop_article_selection_mode" type="hidden" class="onestop_article_selection_mode" :value="trial.onestop_article_selection_mode">
+            <input v-if="trial.onestop_manual_article_numbers" type="hidden" class="onestop_manual_article_numbers" :value="trial.onestop_manual_article_numbers">
           </form>
           <div class="oval-cursor"></div>
           <template>
@@ -246,7 +248,12 @@
 // Practice trials (TSV); main trials from OneStop CSVs; comprehension from OneStop Stimuli .xlsx
 import spotlight_practice from '../trials/spotlight_items_practice.tsv';
 import _ from 'lodash';
-import { buildOneStopTrialLists, pickArticleLevelOneStopTrials } from './buildOneStopTrialLists';
+import {
+  buildOneStopTrialLists,
+  pickArticleLevelOneStopTrials,
+  MANUAL_ARTICLE_SELECTION_ENABLED,
+  MANUAL_ARTICLE_NUMBERS,
+} from './buildOneStopTrialLists';
 import { loadStimuliRowMap, mergeStimuliQuestionsIntoTrials } from './parseOneStopStimuli';
 import {
   prepareCambridgeQuestions,
@@ -892,8 +899,11 @@ export default {
     },
     prepareReadingTrials(score) {
       const { levelPair, assignmentRule } = this.levelPairForCambridgeScore(score);
-      const readingItems = pickArticleLevelOneStopTrials(this.oneStopLists, { levelPair })
-        .map((trial) => ({
+      const readingItems = pickArticleLevelOneStopTrials(this.oneStopLists, {
+        levelPair,
+        manualArticleSelection: MANUAL_ARTICLE_SELECTION_ENABLED,
+        manualArticleNumbers: MANUAL_ARTICLE_NUMBERS,
+      }).map((trial) => ({
           ...trial,
           onestop_cambridge_score: score,
           onestop_level_assignment_rule: assignmentRule,
@@ -914,6 +924,16 @@ export default {
         readingArticleCount: new Set(readingItems.map((trial) => trial.onestop_article_number)).size,
         readingTrialCount: readingItems.length,
         levelBlockOrder: readingItems.length ? readingItems[0].onestop_level_block_order : '',
+        articleSelectionMode: readingItems.length
+          ? readingItems[0].onestop_article_selection_mode
+          : MANUAL_ARTICLE_SELECTION_ENABLED
+            ? 'manual'
+            : 'random',
+        manualArticleNumbers: readingItems.length
+          ? readingItems[0].onestop_manual_article_numbers
+          : MANUAL_ARTICLE_SELECTION_ENABLED
+            ? MANUAL_ARTICLE_NUMBERS.join('|')
+            : '',
       };
     },
     finishCambridgeBlock() {
@@ -924,6 +944,8 @@ export default {
         readingArticleCount,
         readingTrialCount,
         levelBlockOrder,
+        articleSelectionMode,
+        manualArticleNumbers,
       } = this.prepareReadingTrials(score);
       this.$magpie.addTrialData({
         source: 'cambridge_general_english_summary',
@@ -935,6 +957,8 @@ export default {
         onestop_level_assignment_rule: assignmentRule,
         onestop_reading_article_count: readingArticleCount,
         onestop_reading_trial_count: readingTrialCount,
+        onestop_article_selection_mode: articleSelectionMode,
+        onestop_manual_article_numbers: manualArticleNumbers,
       });
       this.$nextTick(() => {
         this.$magpie.saveAndNextScreen();

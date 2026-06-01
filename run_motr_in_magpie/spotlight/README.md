@@ -51,3 +51,7 @@ Output is written to `dist/`.
 After the Cambridge General English test, the reading levels are assigned from the participant's score. Scores **0-14** receive **elementary + intermediate**. Scores **22-25** receive **intermediate + advanced**. Scores **15-21** are randomly assigned to either **elementary + intermediate** or **intermediate + advanced**. Participants are never assigned **elementary + advanced** together.
 
 For each participant, the app assigns **15 articles** to each selected level. The 15 articles in one level are presented as one contiguous block, followed by the 15 articles in the other level. The order of the two level blocks is randomized across participants. Within each block, article order is randomized; within an article, paragraphs are always presented in source order (`1`, `2`, `3`, etc.). Hidden fields record the Cambridge score, assignment rule, selected level pair, block order, article order, article number, title, level, and paragraph index.
+
+### Manual article selection (optional)
+
+In `src/buildOneStopTrialLists.js`, set **`MANUAL_ARTICLE_SELECTION_ENABLED`** to `true` to restrict the session to a fixed list of article numbers instead of drawing from all 30 articles at random. Edit **`MANUAL_ARTICLE_NUMBERS`** (integers **1–30** from the OneStop master list). You need **at least 30** numbers so the app can assign 15 per level block; presentation order is still shuffled. Leave **`MANUAL_ARTICLE_SELECTION_ENABLED`** as `false` (default) for fully random article selection.
