@@ -46,6 +46,18 @@ The script will:
 
 4. Redeploy both projects.
 
+## Wrong branch: `gh-pages` (common Prolific failure)
+
+If the build log says:
+
+`Cloning github.com/vkuperman/MoTR_spotlight (Branch: gh-pages, ...)`
+
+and then `cd: run_motr_in_magpie/spotlight_PROLIFIC: No such file or directory`, the project is deploying from **gh-pages**. That branch only has **built** HTML/JS (`spotlight_PROLIFIC/` at the repo root), not the Vue source under `run_motr_in_magpie/`.
+
+**Fix:** Vercel → project → **Settings** → **Git** → **Production Branch** → set to **`main`** (not `gh-pages`). Redeploy.
+
+Or re-run `scripts\setup-vercel-projects.cmd` (sets `productionBranch: main` via API).
+
 ## Manual setup (dashboard)
 
 For each project, connect **GitHub** → `vkuperman/MoTR_spotlight`, branch `main`:

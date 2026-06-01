@@ -120,11 +120,12 @@ function Ensure-Project {
     throw "Could not resolve project id for $Name"
   }
 
-  Write-Host "Updating build settings for $Name"
+  Write-Host "Updating build settings for $Name (production branch: main)"
   Invoke-Vercel -Method PATCH -Path "/v9/projects/$projectId" -Body @{
-    buildCommand    = $BuildCommand
-    outputDirectory = $OutputDirectory
-    rootDirectory   = $null
+    buildCommand      = $BuildCommand
+    outputDirectory   = $OutputDirectory
+    rootDirectory     = $null
+    productionBranch  = "main"
   } | Out-Null
 
   $envKeys = @(
