@@ -14,7 +14,7 @@
           minLength: $magpie.v.minLength(2)
         }
       }">
-        <ConsentPROLIFIC @proceed="recordSonaAndProceed" />
+        <ConsentPROLIFIC @proceed="recordProlificAndProceed" />
         </Screen>
 
     <Screen title="General English" class="instructions" key="cambridge-intro">
@@ -579,7 +579,8 @@ export default {
         allWords: allWords,
         SubjectId: subjectId,
         SubjectID: subjectId,
-        SonaId: subjectId
+        ProlificId: subjectId,
+        ProlificID: subjectId,
       };
       if (this.clickWordRect) {
         payload.wordPositionTop = this.clickWordRect.top;
@@ -611,22 +612,22 @@ export default {
         window_inner_height: window.innerHeight
       };
     },
-    recordSonaAndProceed() {
+    recordProlificAndProceed() {
       this.cambridgeSelected = this.cambridgeQuestions.map(() => null);
       const id = (this.$magpie && this.$magpie.measurements && this.$magpie.measurements.SubjectID) ? String(this.$magpie.measurements.SubjectID).trim() : '';
       this.$magpie.addExpData({
         SubjectId: id,
         SubjectID: id,
-        SonaId: id,
-        SONAId: id,
+        ProlificId: id,
+        ProlificID: id,
         study_key: studyConfig.studyKey,
         experiment_start_time: new Date().toISOString()
       });
       this.$magpie.addTrialData({
-        SONAId: id,
+        ProlificId: id,
+        ProlificID: id,
         SubjectId: id,
         SubjectID: id,
-        SonaId: id,
         study_key: studyConfig.studyKey,
         source: 'welcome'
       });
