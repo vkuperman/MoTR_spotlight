@@ -1,5 +1,4 @@
-const path = require('path');
-const { motrSharedAlias } = require('../shared/vueConfigAlias');
+const { motrSharedAlias } = require('../shared/vueConfigAlias.cjs');
 
 const sharedAlias = motrSharedAlias(__dirname);
 

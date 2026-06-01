@@ -1,6 +1,6 @@
 const path = require('path');
 
-/** Resolve @motr-shared and @magpie-config for vue.config.js (spotlight_SONA/ or spotlight_PROLIFIC/). */
+/** Resolve @motr-shared and @magpie-config for vue.config.cjs (spotlight_SONA/ or spotlight_PROLIFIC/). */
 function motrSharedAlias(appDir) {
   return {
     '@motr-shared': path.resolve(appDir, '../shared'),

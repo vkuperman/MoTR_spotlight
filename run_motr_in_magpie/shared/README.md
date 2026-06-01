@@ -18,4 +18,4 @@ Code used by **both** experiment apps (`spotlight_SONA/` and `spotlight_PROLIFIC
 
 ## Webpack alias
 
-Each app’s `vue.config.js` sets `@motr-shared` → this folder.
+Each app’s `vue.config.cjs` sets `@motr-shared` → this folder (`.cjs` because the repo root uses `"type": "module"` for the Vercel API).
