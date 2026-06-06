@@ -117,27 +117,45 @@
     <!-- Step 6: Native language proficiency -->
     <div v-else-if="step === 5">
       <p><strong>{{ nativeLanguageLabel }} proficiency</strong></p>
-      <p>On a scale from 1–10, please select your proficiency in {{ nativeLanguageLabel }} in the following areas.</p>
+      <p>On a scale from 1–10, please enter your proficiency in {{ nativeLanguageLabel }} in the following areas (1 = lowest, 10 = highest).</p>
       <p v-if="stepError" style="color: #c00;">{{ stepError }}</p>
-      <p><strong>23. Speaking</strong> <span style="color: #c00;">*</span></p>
-      <ScaleInputOneToTen v-model="form.nativeSpeaking" />
-      <p><strong>24. Understanding</strong> <span style="color: #c00;">*</span></p>
-      <ScaleInputOneToTen v-model="form.nativeUnderstanding" />
-      <p><strong>25. Reading</strong> <span style="color: #c00;">*</span></p>
-      <ScaleInputOneToTen v-model="form.nativeReading" />
+      <p>
+        <label><strong>23. Speaking</strong> <span style="color: #c00;">*</span><br>
+          <input v-model="form.nativeSpeaking" type="number" min="1" max="10" step="1" style="width: 6em;" />
+        </label>
+      </p>
+      <p>
+        <label><strong>24. Understanding</strong> <span style="color: #c00;">*</span><br>
+          <input v-model="form.nativeUnderstanding" type="number" min="1" max="10" step="1" style="width: 6em;" />
+        </label>
+      </p>
+      <p>
+        <label><strong>25. Reading</strong> <span style="color: #c00;">*</span><br>
+          <input v-model="form.nativeReading" type="number" min="1" max="10" step="1" style="width: 6em;" />
+        </label>
+      </p>
     </div>
 
     <!-- Step 7: English proficiency and acquisition (skipped if native language is English) -->
     <div v-else-if="step === 6">
       <p><strong>English</strong></p>
-      <p>On a scale from 1–10, please select your proficiency in English in the following areas.</p>
+      <p>On a scale from 1–10, please enter your proficiency in English in the following areas (1 = lowest, 10 = highest).</p>
       <p v-if="stepError" style="color: #c00;">{{ stepError }}</p>
-      <p><strong>26. Speaking</strong> <span style="color: #c00;">*</span></p>
-      <ScaleInputOneToTen v-model="form.englishSpeaking" />
-      <p><strong>27. Understanding</strong> <span style="color: #c00;">*</span></p>
-      <ScaleInputOneToTen v-model="form.englishUnderstanding" />
-      <p><strong>28. Reading</strong> <span style="color: #c00;">*</span></p>
-      <ScaleInputOneToTen v-model="form.englishReading" />
+      <p>
+        <label><strong>26. Speaking</strong> <span style="color: #c00;">*</span><br>
+          <input v-model="form.englishSpeaking" type="number" min="1" max="10" step="1" style="width: 6em;" />
+        </label>
+      </p>
+      <p>
+        <label><strong>27. Understanding</strong> <span style="color: #c00;">*</span><br>
+          <input v-model="form.englishUnderstanding" type="number" min="1" max="10" step="1" style="width: 6em;" />
+        </label>
+      </p>
+      <p>
+        <label><strong>28. Reading</strong> <span style="color: #c00;">*</span><br>
+          <input v-model="form.englishReading" type="number" min="1" max="10" step="1" style="width: 6em;" />
+        </label>
+      </p>
       <p>
         <label><strong>29. At what age did you begin acquiring English?</strong> <span style="color: #c00;">*</span><br>
           <input v-model="form.englishAcquireStartAge" type="number" min="0" max="120" style="width: 6em;" />
@@ -173,8 +191,6 @@
 </template>
 
 <script>
-import ScaleInputOneToTen from './ScaleInputOneToTen.vue';
-
 const EDUCATION_LEVELS = [
   'Less than high school',
   'High school',
@@ -269,7 +285,6 @@ function pctMapToExportString(obj, rows) {
 
 export default {
   name: 'DemographicsOneStopQuestionnaire',
-  components: { ScaleInputOneToTen },
   data() {
     return {
       step: 0,
@@ -393,7 +408,7 @@ export default {
 
       if (stepIndex === 5) {
         if (!isScale(f.nativeSpeaking) || !isScale(f.nativeUnderstanding) || !isScale(f.nativeReading)) {
-          if (setError) this.stepError = 'Please select a rating from 1 to 10 for each skill.';
+          if (setError) this.stepError = 'Please enter a whole number from 1 to 10 for each skill.';
           return false;
         }
         return true;
