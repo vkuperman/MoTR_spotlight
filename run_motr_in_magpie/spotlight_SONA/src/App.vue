@@ -17,6 +17,10 @@
         <ConsentSONA @proceed="recordSonaAndProceed" />
         </Screen>
 
+    <Screen title="Demographics" class="instructions" key="demographics-onestop">
+      <DemographicsOneStopQuestionnaire @complete="$magpie.saveAndNextScreen()" />
+    </Screen>
+
     <Screen title="General English" class="instructions" key="cambridge-intro">
       <div style="width: 40em; margin: auto; text-align: left;">
         <p>
@@ -163,6 +167,7 @@ import {
   isCambridgeAnswerCorrect,
 } from '@motr-shared/cambridgeGeneralEnglish';
 import ExportReportsScreen from '@motr-shared/components/ExportReportsScreen.vue';
+import DemographicsOneStopQuestionnaire from '@motr-shared/components/DemographicsOneStopQuestionnaire.vue';
 import ConsentSONA from './components/ConsentSONA.vue';
 import CustomSubmitResultsScreen from './components/CustomSubmitResultsScreen.vue';
 
@@ -175,7 +180,7 @@ const cambridgeScoringCsv = require('../../OneStop/Cambridge/Cambridge scoring(S
 
 export default {
   name: 'App',
-  components: { ExportReportsScreen, CustomSubmitResultsScreen, ConsentSONA },
+  components: { ExportReportsScreen, CustomSubmitResultsScreen, ConsentSONA, DemographicsOneStopQuestionnaire },
   data() {
     return {
       stimuliReady: false,
