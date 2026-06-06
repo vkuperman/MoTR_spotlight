@@ -368,7 +368,36 @@ export default {
       return this.pctLanguageRows.map((r) => r.key);
     },
     totalSteps() {
-      return this.nativeIsEnglish ? 6 : 7;
+      return this.nativeIsEnglish ? 7 : 8;
+    },
+    otherEnglishTestStepIndex() {
+      return this.totalSteps - 1;
+    },
+    selectedOtherEnglishTest() {
+      return findEnglishProficiencyTest(this.form.otherEnglishTest);
+    },
+    otherEnglishTestScoreHint() {
+      return englishProficiencyScoreHint(this.selectedOtherEnglishTest);
+    },
+    otherEnglishTestScoreInputType() {
+      const test = this.selectedOtherEnglishTest;
+      if (!test) return 'text';
+      if (test.type === 'free' || test.id === 'CEFR') return 'text';
+      return 'number';
+    },
+    otherEnglishTestScoreMin() {
+      const test = this.selectedOtherEnglishTest;
+      return test && test.type === 'range' ? test.min : undefined;
+    },
+    otherEnglishTestScoreMax() {
+      const test = this.selectedOtherEnglishTest;
+      return test && test.type === 'range' ? test.max : undefined;
+    },
+    otherEnglishTestScoreStep() {
+      const test = this.selectedOtherEnglishTest;
+      if (!test || test.type === 'range' || test.type === 'free') return undefined;
+      if (test.id === 'CEFR') return undefined;
+      return 0.5;
     },
     exposureSum() {
       return pctSumFromObject(this.form.pctExposure, this.pctRowKeys);

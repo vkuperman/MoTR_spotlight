@@ -32,6 +32,11 @@ export const ENGLISH_PROFICIENCY_ADDITIONAL_TESTS = [
     min: 10,
     max: 160,
   },
+  {
+    id: 'OTHER',
+    label: 'Other',
+    type: 'free',
+  },
 ];
 
 export function findEnglishProficiencyTest(testId) {
@@ -40,6 +45,9 @@ export function findEnglishProficiencyTest(testId) {
 
 export function englishProficiencyScoreHint(test) {
   if (!test) return '';
+  if (test.type === 'free') {
+    return 'Enter your test result.';
+  }
   if (test.type === 'range') {
     return `Enter a whole number from ${test.min} to ${test.max}.`;
   }
@@ -53,6 +61,8 @@ export function isValidEnglishProficiencyScore(test, rawScore) {
   if (!test) return false;
   const score = String(rawScore ?? '').trim();
   if (!score) return false;
+
+  if (test.type === 'free') return true;
 
   if (test.type === 'range') {
     const n = Number(score);
