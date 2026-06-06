@@ -137,7 +137,7 @@
     </div>
 
     <!-- Step 7: English proficiency and acquisition (skipped if native language is English) -->
-    <div v-else-if="step === 6">
+    <div v-else-if="step === 6 && !nativeIsEnglish">
       <p><strong>English</strong></p>
       <p>On a scale from 1–10, please enter your proficiency in English in the following areas (1 = lowest, 10 = highest).</p>
       <p v-if="stepError" style="color: #c00;">{{ stepError }}</p>
@@ -178,6 +178,40 @@
       </p>
     </div>
 
+    <!-- Step 8: Optional additional English proficiency test -->
+    <div v-else-if="step === otherEnglishTestStepIndex">
+      <p v-if="stepError" style="color: #c00;">{{ stepError }}</p>
+      <p>
+        <strong>33. If you know your level of English proficiency as measured by another test, please enter it here.</strong>
+      </p>
+      <p style="display: flex; flex-wrap: wrap; gap: 1em; align-items: flex-end;">
+        <label style="flex: 1 1 12em;">
+          Test<br>
+          <select v-model="form.otherEnglishTest" style="width: 100%; max-width: 16em;" @change="onOtherEnglishTestChange">
+            <option value="">— Select a test —</option>
+            <option v-for="test in englishProficiencyTests" :key="test.id" :value="test.id">
+              {{ test.label }}
+            </option>
+          </select>
+        </label>
+        <label style="flex: 1 1 12em;">
+          Score<br>
+          <input
+            v-model="form.otherEnglishTestScore"
+            :type="otherEnglishTestScoreInputType"
+            :min="otherEnglishTestScoreMin"
+            :max="otherEnglishTestScoreMax"
+            :step="otherEnglishTestScoreStep"
+            :disabled="!selectedOtherEnglishTest"
+            style="width: 100%; max-width: 16em;"
+          />
+        </label>
+      </p>
+      <p v-if="selectedOtherEnglishTest" style="font-size: 0.9em; color: #555;">
+        {{ otherEnglishTestScoreHint }}
+      </p>
+    </div>
+
     <p style="text-align: center; margin-top: 2rem;">
       <button v-if="step > 0" type="button" style="margin-right: 1em;" @click="prevStep">Back</button>
       <button type="button" :disabled="!canAdvance" @click="nextStep">
@@ -191,6 +225,13 @@
 </template>
 
 <script>
+import {
+  ENGLISH_PROFICIENCY_ADDITIONAL_TESTS,
+  findEnglishProficiencyTest,
+  englishProficiencyScoreHint,
+  isValidEnglishProficiencyScore,
+} from '../englishProficiencyAdditionalTests.js';
+
 const EDUCATION_LEVELS = [
   'Less than high school',
   'High school',
@@ -226,6 +267,8 @@ function emptyForm() {
     englishFluentAge: '',
     englishReadStartAge: '',
     englishReadFluentAge: '',
+    otherEnglishTest: '',
+    otherEnglishTestScore: '',
   };
 }
 
@@ -290,6 +333,7 @@ export default {
       step: 0,
       stepError: '',
       educationLevels: EDUCATION_LEVELS,
+      englishProficiencyTests: ENGLISH_PROFICIENCY_ADDITIONAL_TESTS,
       form: emptyForm(),
       syncedLanguageKeys: '',
     };
@@ -342,6 +386,9 @@ export default {
   methods: {
     pctQuestionNumber(base, index) {
       return base + index;
+    },
+    onOtherEnglishTestChange() {
+      this.form.otherEnglishTestScore = '';
     },
     syncPctFields() {
       const keys = this.pctRowKeys;
@@ -430,6 +477,25 @@ export default {
         return true;
       }
 
+      if (stepIndex === this.otherEnglishTestStepIndex) {
+        const hasTest = isFilledText(f.otherEnglishTest);
+        const hasScore = isFilledText(f.otherEnglishTestScore);
+        if (!hasTest && !hasScore) return true;
+        if (hasTest && !hasScore) {
+          if (setError) this.stepError = 'Please enter a score for the selected test, or clear the test selection.';
+          return false;
+        }
+        if (!hasTest && hasScore) {
+          if (setError) this.stepError = 'Please select a test for the score you entered.';
+          return false;
+        }
+        if (!isValidEnglishProficiencyScore(this.selectedOtherEnglishTest, f.otherEnglishTestScore)) {
+          if (setError) this.stepError = this.otherEnglishTestScoreHint || 'Please enter a valid score for the selected test.';
+          return false;
+        }
+        return true;
+      }
+
       return true;
     },
     prevStep() {
@@ -484,6 +550,12 @@ export default {
           demo_english_read_start_age: f.englishReadStartAge,
           demo_english_read_fluent_age: f.englishReadFluentAge,
         });
+      }
+
+      if (isFilledText(f.otherEnglishTest) && isFilledText(f.otherEnglishTestScore)) {
+        const test = findEnglishProficiencyTest(f.otherEnglishTest);
+        payload.demo_other_english_test = test ? test.label : f.otherEnglishTest;
+        payload.demo_other_english_test_score = String(f.otherEnglishTestScore).trim();
       }
 
       this.$magpie.addTrialData(payload);
