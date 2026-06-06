@@ -120,11 +120,11 @@
       <p>On a scale from 1–10, please select your proficiency in {{ nativeLanguageLabel }} in the following areas.</p>
       <p v-if="stepError" style="color: #c00;">{{ stepError }}</p>
       <p><strong>23. Speaking</strong> <span style="color: #c00;">*</span></p>
-      <ScaleInput v-model="form.nativeSpeaking" />
+      <ScaleInputOneToTen v-model="form.nativeSpeaking" />
       <p><strong>24. Understanding</strong> <span style="color: #c00;">*</span></p>
-      <ScaleInput v-model="form.nativeUnderstanding" />
+      <ScaleInputOneToTen v-model="form.nativeUnderstanding" />
       <p><strong>25. Reading</strong> <span style="color: #c00;">*</span></p>
-      <ScaleInput v-model="form.nativeReading" />
+      <ScaleInputOneToTen v-model="form.nativeReading" />
     </div>
 
     <!-- Step 7: English proficiency and acquisition (skipped if native language is English) -->
@@ -133,11 +133,11 @@
       <p>On a scale from 1–10, please select your proficiency in English in the following areas.</p>
       <p v-if="stepError" style="color: #c00;">{{ stepError }}</p>
       <p><strong>26. Speaking</strong> <span style="color: #c00;">*</span></p>
-      <ScaleInput v-model="form.englishSpeaking" />
+      <ScaleInputOneToTen v-model="form.englishSpeaking" />
       <p><strong>27. Understanding</strong> <span style="color: #c00;">*</span></p>
-      <ScaleInput v-model="form.englishUnderstanding" />
+      <ScaleInputOneToTen v-model="form.englishUnderstanding" />
       <p><strong>28. Reading</strong> <span style="color: #c00;">*</span></p>
-      <ScaleInput v-model="form.englishReading" />
+      <ScaleInputOneToTen v-model="form.englishReading" />
       <p>
         <label><strong>29. At what age did you begin acquiring English?</strong> <span style="color: #c00;">*</span><br>
           <input v-model="form.englishAcquireStartAge" type="number" min="0" max="120" style="width: 6em;" />
@@ -173,6 +173,8 @@
 </template>
 
 <script>
+import ScaleInputOneToTen from './ScaleInputOneToTen.vue';
+
 const EDUCATION_LEVELS = [
   'Less than high school',
   'High school',
@@ -265,26 +267,9 @@ function pctMapToExportString(obj, rows) {
   return rows.map((row) => `${row.label}:${obj[row.key] != null ? obj[row.key] : ''}`).join('|');
 }
 
-const ScaleInput = {
-  props: { value: { type: [String, Number], default: '' } },
-  template: `
-    <div class="demo-scale-row" role="group">
-      <button
-        v-for="n in 10"
-        :key="n"
-        type="button"
-        class="demo-scale-box"
-        :class="{ 'demo-scale-box--selected': Number(value) === n }"
-        :aria-pressed="Number(value) === n ? 'true' : 'false'"
-        @click="$emit('input', String(n))"
-      >{{ n }}</button>
-    </div>
-  `,
-};
-
 export default {
   name: 'DemographicsOneStopQuestionnaire',
-  components: { ScaleInput },
+  components: { ScaleInputOneToTen },
   data() {
     return {
       step: 0,
@@ -492,42 +477,3 @@ export default {
   },
 };
 </script>
-
-<style>
-.demo-scale-row {
-  display: flex;
-  flex-wrap: nowrap;
-  gap: 4px;
-  margin: 0.5em 0 1.5em;
-  max-width: 100%;
-}
-
-.demo-scale-box {
-  flex: 1 1 0;
-  min-width: 2rem;
-  padding: 0.55em 0;
-  border: 1px solid #888;
-  border-radius: 3px;
-  background: #fff;
-  color: #222;
-  font-size: 1rem;
-  line-height: 1;
-  cursor: pointer;
-  text-align: center;
-}
-
-.demo-scale-box:hover {
-  border-color: #444;
-  background: #f5f5f5;
-}
-
-.demo-scale-box--selected {
-  background: #333;
-  border-color: #333;
-  color: #fff;
-}
-
-.demo-scale-box--selected:hover {
-  background: #222;
-}
-</style>
