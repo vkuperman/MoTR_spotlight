@@ -4,12 +4,6 @@
 
     <!-- Step 1: Basic information -->
     <div v-if="step === 0">
-      <p>This form will record your name. Please fill in your name.</p>
-      <p>
-        <label><strong>Name</strong> <span style="color: #c00;">*</span><br>
-          <input v-model="form.name" type="text" class="obligatory" style="width: 100%;" />
-        </label>
-      </p>
       <p>
         <label><strong>1. What is your age?</strong> <span style="color: #c00;">*</span><br>
           <input v-model="form.age" type="number" min="1" max="120" class="obligatory" style="width: 6em;" />
@@ -194,7 +188,6 @@ const ENGLISH_KEY = '__english__';
 
 function emptyForm() {
   return {
-    name: '',
     age: '',
     country: '',
     nativeLanguage: '',
@@ -275,12 +268,17 @@ function pctMapToExportString(obj, rows) {
 const ScaleInput = {
   props: { value: { type: [String, Number], default: '' } },
   template: `
-    <span>
-      <label v-for="n in 10" :key="n" style="margin-right: 0.5em;">
-        <input type="radio" :value="String(n)" :checked="String(value) === String(n)" @change="$emit('input', String(n))" />
-        {{ n }}
-      </label>
-    </span>
+    <div class="demo-scale-row" role="group">
+      <button
+        v-for="n in 10"
+        :key="n"
+        type="button"
+        class="demo-scale-box"
+        :class="{ 'demo-scale-box--selected': Number(value) === n }"
+        :aria-pressed="Number(value) === n ? 'true' : 'false'"
+        @click="$emit('input', String(n))"
+      >{{ n }}</button>
+    </div>
   `,
 };
 
@@ -381,7 +379,7 @@ export default {
       const f = this.form;
 
       if (stepIndex === 0) {
-        if (!isFilledText(f.name) || !isFilledNumber(f.age) || !isFilledText(f.country) || !isFilledText(f.nativeLanguage) || !isFilledText(f.otherLanguages)) {
+        if (!isFilledNumber(f.age) || !isFilledText(f.country) || !isFilledText(f.nativeLanguage) || !isFilledText(f.otherLanguages)) {
           if (setError) this.stepError = 'Please complete all required fields.';
           return false;
         }
@@ -457,7 +455,6 @@ export default {
       const rows = this.pctLanguageRows;
       const payload = {
         source: 'demographics_onestop',
-        demo_name: f.name,
         demo_age: f.age,
         demo_country: f.country,
         demo_native_language: f.nativeLanguage,
@@ -495,3 +492,42 @@ export default {
   },
 };
 </script>
+
+<style>
+.demo-scale-row {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 4px;
+  margin: 0.5em 0 1.5em;
+  max-width: 100%;
+}
+
+.demo-scale-box {
+  flex: 1 1 0;
+  min-width: 2rem;
+  padding: 0.55em 0;
+  border: 1px solid #888;
+  border-radius: 3px;
+  background: #fff;
+  color: #222;
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+  text-align: center;
+}
+
+.demo-scale-box:hover {
+  border-color: #444;
+  background: #f5f5f5;
+}
+
+.demo-scale-box--selected {
+  background: #333;
+  border-color: #333;
+  color: #fff;
+}
+
+.demo-scale-box--selected:hover {
+  background: #222;
+}
+</style>
