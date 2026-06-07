@@ -14,8 +14,10 @@ See [PUSH_FOR_VERCEL.md](PUSH_FOR_VERCEL.md) for copy/paste git steps from your 
 
 | Project name | URL | Results folder |
 |--------------|-----|----------------|
-| `mo-tr-spotlight-sona` | https://mo-tr-spotlight-sona.vercel.app | `run_motr_in_magpie/Results/spotlight_SONA` |
+| `mo-tr-spotlight-sona` | https://mo-tr-spotlight.vercel.app (see note below) | `run_motr_in_magpie/Results/spotlight_SONA` |
 | `mo-tr-spotlight-prolific` | https://mo-tr-spotlight-prolific.vercel.app | `run_motr_in_magpie/Results/spotlight_PROLIFIC` |
+
+**SONA URL note:** The live SONA app is currently served from the legacy project **`mo-tr-spotlight`** at **https://mo-tr-spotlight.vercel.app**. The newer subdomain **https://mo-tr-spotlight-sona.vercel.app** returns 404 if a separate empty `mo-tr-spotlight-sona` project exists without a production deployment. Fix: delete the empty `mo-tr-spotlight-sona` project in Vercel (or redeploy it from `main`), then run `scripts\setup-vercel-projects.cmd` to rename `mo-tr-spotlight` → `mo-tr-spotlight-sona`.
 
 Both serve the repo root `api/upload-results.js` and build a different Vue app.
 
@@ -57,6 +59,24 @@ and then `cd: run_motr_in_magpie/spotlight_PROLIFIC: No such file or directory`,
 **Fix:** Vercel → project → **Settings** → **Git** → **Production Branch** → set to **`main`** (not `gh-pages`). Redeploy.
 
 Or re-run `scripts\setup-vercel-projects.cmd` (sets `productionBranch: main` via API).
+
+## SONA 404 on mo-tr-spotlight-sona.vercel.app
+
+If **mo-tr-spotlight-sona.vercel.app** returns 404 but **mo-tr-spotlight.vercel.app** works, you have two Vercel projects:
+
+1. **`mo-tr-spotlight`** — legacy name, has the working SONA deployment
+2. **`mo-tr-spotlight-sona`** — created later, may show “Ready” with no files at the subdomain
+
+**Fix (pick one):**
+
+- **Recommended:** Vercel dashboard → delete the empty **mo-tr-spotlight-sona** project → run `scripts\setup-vercel-projects.cmd` with `VERCEL_TOKEN` set (renames **mo-tr-spotlight** → **mo-tr-spotlight-sona**).
+- **Or:** Keep both names: use **https://mo-tr-spotlight.vercel.app** for SONA recruitment (already configured in `studyConfig.js`).
+
+## Prolific: site works but latest deployment shows Error
+
+Vercel keeps failed builds in the list. If the live site loads, **Production** may still point to an older successful deployment. After commit `eaedec0` (build fix), open **mo-tr-spotlight-prolific** → **Deployments** → find the latest **Ready** build on `main` → **Promote to Production**, or **Redeploy** `main`.
+
+Failed builds from commits `7713804` / `c3a2c79` were caused by `??` in `englishProficiencyAdditionalTests.js` (fixed in `eaedec0`).
 
 ## Manual setup (dashboard)
 

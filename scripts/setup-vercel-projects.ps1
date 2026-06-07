@@ -158,7 +158,12 @@ if ($legacy -and -not $sonaExisting -and $legacy.name -eq $OldProjectName) {
   Write-Host "Renaming $OldProjectName -> mo-tr-spotlight-sona"
   Invoke-Vercel -Method PATCH -Path "/v9/projects/$($legacy.id)" -Body @{ name = "mo-tr-spotlight-sona" } | Out-Null
 } elseif ($legacy -and $sonaExisting) {
-  Write-Host "Skipping rename: mo-tr-spotlight-sona already exists (legacy $OldProjectName may still exist separately)."
+  Write-Host ""
+  Write-Host "WARNING: Both '$OldProjectName' and 'mo-tr-spotlight-sona' exist as separate projects."
+  Write-Host "  Live SONA app is usually at: https://mo-tr-spotlight.vercel.app"
+  Write-Host "  Broken/empty subdomain:     https://mo-tr-spotlight-sona.vercel.app"
+  Write-Host "  Fix: delete the empty mo-tr-spotlight-sona project in Vercel UI, then re-run this script."
+  Write-Host ""
 }
 
 $sonaId = Ensure-Project `
@@ -175,7 +180,7 @@ $prolificId = Ensure-Project `
 
 Write-Host ""
 Write-Host "Done."
-Write-Host "  SONA:     https://mo-tr-spotlight-sona.vercel.app"
+Write-Host "  SONA:     https://mo-tr-spotlight.vercel.app (legacy; rename to mo-tr-spotlight-sona when duplicate project is removed)"
 Write-Host "  Prolific: https://mo-tr-spotlight-prolific.vercel.app"
 Write-Host ""
 Write-Host "Add GITHUB_TOKEN in each project's Environment Variables (Vercel UI) if not already set."
