@@ -6,9 +6,7 @@
     </Slide>
     <Slide>
       <p v-if="!error">
-        Thank you for participating in our study. Follow this URL to complete your submission and be redirected to Prolific:
-        <a :href="completionUrl" target="_blank" rel="noopener">{{ completionUrl }}</a>
-        <Wait :time="3000" @done="redirectToCompletionUrl" />
+        Thank you for participating in our study. You may now close this window and return to SONA to confirm your credit.
       </p>
       <div v-else>
         <p>{{ $t('screens.SubmitResultsScreen.error') }}</p>
@@ -24,10 +22,7 @@
   </Screen>
   <Screen v-else title="Submitting">
     <Slide>
-      <p>
-        Thank you for participating in our study. Follow this URL to complete your submission and be redirected to Prolific:
-        <a :href="completionUrl" target="_blank" rel="noopener">{{ completionUrl }}</a>
-      </p>
+      <p>Thank you for participating in our study. You may now close this window and return to SONA to confirm your credit.</p>
     </Slide>
   </Screen>
 </template>
@@ -37,16 +32,11 @@ import stringify from 'csv-stringify/lib/sync';
 
 export default {
   name: 'CustomSubmitResultsScreen',
-  computed: {
-    completionUrl() {
-      return this.$magpie.completionUrl || 'https://app.prolific.com/submissions/complete?cc=C1FQEQTP';
-    },
-  },
   data() {
     return {
       error: null,
       results: [],
-      csv: ''
+      csv: '',
     };
   },
   methods: {
@@ -59,18 +49,13 @@ export default {
         if (this.results.length) {
           this.csv = stringify(this.results, {
             columns: Object.keys(this.results[0]),
-            header: true
+            header: true,
           });
         }
         this.error = err.message;
         cb();
       }
     },
-    redirectToCompletionUrl() {
-      if (this.$magpie.completionUrl && this.$magpie.mode === 'prolific') {
-        window.location = this.$magpie.completionUrl;
-      }
-    }
-  }
+  },
 };
 </script>

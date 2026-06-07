@@ -78,8 +78,7 @@ function Get-ProjectByName {
 function Ensure-Project {
   param(
     [string]$Name,
-    [string]$BuildCommand,
-    [string]$OutputDirectory,
+    [string]$SpotlightApp,
     [string]$ResultsPath
   )
 
@@ -120,15 +119,16 @@ function Ensure-Project {
     throw "Could not resolve project id for $Name"
   }
 
-  Write-Host "Updating build settings for $Name (production branch: main)"
+  Write-Host "Updating build settings for $Name (production branch: main, SPOTLIGHT_APP=$SpotlightApp)"
   Invoke-Vercel -Method PATCH -Path "/v9/projects/$projectId" -Body @{
-    buildCommand      = $BuildCommand
-    outputDirectory   = $OutputDirectory
+    buildCommand      = "node scripts/vercel-build.cjs"
+    outputDirectory   = ".vercel-build-output/dist"
     rootDirectory     = $null
     productionBranch  = "main"
   } | Out-Null
 
   $envKeys = @(
+    @{ key = "SPOTLIGHT_APP"; value = $SpotlightApp; target = @("production", "preview", "development") }
     @{ key = "GITHUB_REPO"; value = $GitHubRepo; target = @("production", "preview", "development") }
     @{ key = "GITHUB_RESULTS_PATH"; value = $ResultsPath; target = @("production", "preview", "development") }
     @{ key = "GITHUB_BRANCH"; value = "main"; target = @("production", "preview", "development") }
@@ -168,15 +168,33 @@ if ($legacy -and -not $sonaExisting -and $legacy.name -eq $OldProjectName) {
 
 $sonaId = Ensure-Project `
   -Name "mo-tr-spotlight-sona" `
-  -BuildCommand "cd run_motr_in_magpie/spotlight_SONA && npm install && npm run build" `
-  -OutputDirectory "run_motr_in_magpie/spotlight_SONA/dist" `
+  -SpotlightApp "SONA" `
   -ResultsPath "run_motr_in_magpie/Results/spotlight_SONA"
 
 $prolificId = Ensure-Project `
   -Name "mo-tr-spotlight-prolific" `
-  -BuildCommand "cd run_motr_in_magpie/spotlight_PROLIFIC && npm install && npm run build" `
-  -OutputDirectory "run_motr_in_magpie/spotlight_PROLIFIC/dist" `
+  -SpotlightApp "PROLIFIC" `
   -ResultsPath "run_motr_in_magpie/Results/spotlight_PROLIFIC"
+
+# Legacy project name (still used by mo-tr-spotlight.vercel.app)
+if ($legacy) {
+  Write-Host "Updating legacy project: $OldProjectName (SPOTLIGHT_APP=SONA)"
+  Invoke-Vercel -Method PATCH -Path "/v9/projects/$($legacy.id)" -Body @{
+    buildCommand      = "node scripts/vercel-build.cjs"
+    outputDirectory   = ".vercel-build-output/dist"
+    productionBranch  = "main"
+  } | Out-Null
+  try {
+    Invoke-Vercel -Method POST -Path "/v10/projects/$($legacy.id)/env" -Body @{
+      key    = "SPOTLIGHT_APP"
+      value  = "SONA"
+      type   = "encrypted"
+      target = @("production", "preview", "development")
+    } | Out-Null
+  } catch {
+    Write-Warning "  Could not set SPOTLIGHT_APP on legacy project (may already exist)"
+  }
+}
 
 Write-Host ""
 Write-Host "Done."

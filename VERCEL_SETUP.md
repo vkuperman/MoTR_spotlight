@@ -84,17 +84,19 @@ For each project, connect **GitHub** → `vkuperman/MoTR_spotlight`, branch `mai
 
 ### mo-tr-spotlight-sona
 
-- **Build Command:** `cd run_motr_in_magpie/spotlight_SONA && npm install && npm run build`
-- **Output Directory:** `run_motr_in_magpie/spotlight_SONA/dist`
-- **Environment:** `GITHUB_RESULTS_PATH=run_motr_in_magpie/Results/spotlight_SONA`
+- **Build Command:** `node scripts/vercel-build.cjs`
+- **Output Directory:** `.vercel-build-output/dist`
+- **Environment:** `SPOTLIGHT_APP=SONA`, `GITHUB_RESULTS_PATH=run_motr_in_magpie/Results/spotlight_SONA`
 
 ### mo-tr-spotlight-prolific
 
-- **Build Command:** `cd run_motr_in_magpie/spotlight_PROLIFIC && npm install && npm run build`
-- **Output Directory:** `run_motr_in_magpie/spotlight_PROLIFIC/dist`
-- **Environment:** `GITHUB_RESULTS_PATH=run_motr_in_magpie/Results/spotlight_PROLIFIC`
+- **Build Command:** `node scripts/vercel-build.cjs`
+- **Output Directory:** `.vercel-build-output/dist`
+- **Environment:** `SPOTLIGHT_APP=PROLIFIC`, `GITHUB_RESULTS_PATH=run_motr_in_magpie/Results/spotlight_PROLIFIC`
 
 Shared on both: `GITHUB_REPO=vkuperman/MoTR_spotlight`, `GITHUB_BRANCH=main`, `GITHUB_TOKEN=...`
+
+**Important:** Both projects share the root `vercel.json`. They are separated by the **`SPOTLIGHT_APP`** environment variable (`SONA` vs `PROLIFIC`). If Prolific shows the SONA consent form, `SPOTLIGHT_APP` is missing or set to `SONA` on that project.
 
 ## App config (already in repo)
 
