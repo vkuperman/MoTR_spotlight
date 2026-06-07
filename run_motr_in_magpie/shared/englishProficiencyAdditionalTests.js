@@ -59,7 +59,7 @@ export function englishProficiencyScoreHint(test) {
 
 export function isValidEnglishProficiencyScore(test, rawScore) {
   if (!test) return false;
-  const score = String(rawScore ?? '').trim();
+  const score = String(rawScore != null ? rawScore : '').trim();
   if (!score) return false;
 
   if (test.type === 'free') return true;
