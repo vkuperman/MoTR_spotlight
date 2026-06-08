@@ -37,7 +37,6 @@
 <script>
 import { Screen, Slide } from 'magpie-base';
 import stringify from 'csv-stringify/lib/sync';
-import JSZip from 'jszip';
 import magpieConfig from '@magpie-config';
 
 function generateUniqueAlphanumericId() {
@@ -696,23 +695,138 @@ function getResultsFolderName(participantId) {
 
 function buildRawTrialDataCsv(allRows) {
   if (!Array.isArray(allRows) || allRows.length === 0) return '';
+  const excludeKeys = new Set(['allWords']);
   const columns = [];
   for (const row of allRows) {
     if (!row || typeof row !== 'object') continue;
     for (const key of Object.keys(row)) {
+      if (excludeKeys.has(key)) continue;
       if (!columns.includes(key)) columns.push(key);
     }
   }
   if (columns.length === 0) return '';
-  return stringify(allRows, { columns, header: true });
+  const filteredRows = allRows.map((row) => {
+    if (!row || typeof row !== 'object') return row;
+    const out = {};
+    for (const key of columns) {
+      out[key] = row[key];
+    }
+    return out;
+  });
+  return stringify(filteredRows, { columns, header: true });
 }
 
-function buildResultsZipBlob(fixationCsv, interestAreaCsv, rawTrialCsv, folderName) {
-  const zip = new JSZip();
-  if (fixationCsv) zip.file(`${folderName}/fixation_report.csv`, fixationCsv);
-  if (interestAreaCsv) zip.file(`${folderName}/interest_area_report.csv`, interestAreaCsv);
-  if (rawTrialCsv) zip.file(`${folderName}/raw_trial_data.csv`, rawTrialCsv);
-  return zip.generateAsync({ type: 'blob' });
+/** Stay under Vercel serverless body limit (~4.5 MB); JSON + base64 overhead included. */
+const MAX_UPLOAD_BASE64_CHARS = 3 * 1024 * 1024;
+
+async function compressCsvForUpload(csvContent) {
+  if (typeof CompressionStream !== 'undefined') {
+    const stream = new Blob([csvContent]).stream().pipeThrough(new CompressionStream('gzip'));
+    const blob = await new Response(stream).blob();
+    return { blob, contentEncoding: 'gzip' };
+  }
+  return { blob: new Blob([csvContent], { type: 'text/csv' }), contentEncoding: 'none' };
+}
+
+async function gzipBase64Length(csvContent) {
+  const { blob } = await compressCsvForUpload(csvContent);
+  const base64 = await blobToBase64(blob);
+  return base64.length;
+}
+
+async function splitCsvForUpload(csvContent, baseFileName) {
+  const lines = csvContent.split('\n');
+  if (lines.length <= 1) {
+    return [{ fileName: baseFileName, content: csvContent }];
+  }
+
+  const header = lines[0];
+  const dataLines = lines.slice(1).filter((line) => line.length > 0);
+  if (!dataLines.length) {
+    return [{ fileName: baseFileName, content: csvContent }];
+  }
+
+  if ((await gzipBase64Length(csvContent)) <= MAX_UPLOAD_BASE64_CHARS) {
+    return [{ fileName: baseFileName, content: csvContent }];
+  }
+
+  const parts = [];
+  let batch = [];
+  for (const line of dataLines) {
+    batch.push(line);
+    const candidate = [header, ...batch].join('\n');
+    if ((await gzipBase64Length(candidate)) > MAX_UPLOAD_BASE64_CHARS && batch.length > 1) {
+      batch.pop();
+      parts.push([header, ...batch].join('\n'));
+      batch = [line];
+    }
+  }
+  if (batch.length) {
+    parts.push([header, ...batch].join('\n'));
+  }
+
+  return parts.map((content, index) => ({
+    fileName:
+      parts.length === 1
+        ? baseFileName
+        : baseFileName.replace(/\.csv$/i, `_part${String(index + 1).padStart(2, '0')}.csv`),
+    content,
+  }));
+}
+
+async function uploadResultsFile(uploadUrl, participantId, folderName, fileName, csvContent, isTest, githubResultsPath) {
+  const parts = await splitCsvForUpload(csvContent, fileName);
+  const paths = [];
+  for (const part of parts) {
+    const { blob, contentEncoding } = await compressCsvForUpload(part.content);
+    const fileBase64 = await blobToBase64(blob);
+    if (fileBase64.length > MAX_UPLOAD_BASE64_CHARS) {
+      throw new Error(
+        `Results file ${part.fileName} is still too large after splitting (${fileBase64.length} chars).`
+      );
+    }
+    const payload = {
+      participantId,
+      folderName,
+      fileName: part.fileName,
+      fileBase64,
+      contentEncoding,
+      isTest: !!isTest,
+    };
+    if (githubResultsPath && typeof githubResultsPath === 'string' && githubResultsPath.trim() !== '') {
+      payload.githubResultsPath = githubResultsPath.trim();
+    }
+    const res = await fetch(uploadUrl, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload),
+    });
+    if (!res.ok) {
+      const errText = await res.text();
+      throw new Error(`${res.status} ${errText}`);
+    }
+    const json = await res.json();
+    if (json && json.path) paths.push(json.path);
+  }
+  return paths;
+}
+
+async function uploadResultsFiles(uploadUrl, participantId, folderName, files, isTest, githubResultsPath) {
+  const paths = [];
+  for (const file of files) {
+    if (!file || !file.content) continue;
+    const uploaded = await uploadResultsFile(
+      uploadUrl,
+      participantId,
+      folderName,
+      file.name,
+      file.content,
+      isTest,
+      githubResultsPath
+    );
+    paths.push(...uploaded);
+  }
+  return paths;
 }
 
 function getResultsUploadUrl(vm) {
@@ -725,24 +839,6 @@ function getResultsUploadUrl(vm) {
     return fromConfig.trim();
   }
   return '';
-}
-
-async function uploadResultsZip(uploadUrl, participantId, blob, isTest, githubResultsPath) {
-  const zipBase64 = await blobToBase64(blob);
-  const payload = { participantId, zipBase64, isTest: !!isTest };
-  if (githubResultsPath && typeof githubResultsPath === 'string' && githubResultsPath.trim() !== '') {
-    payload.githubResultsPath = githubResultsPath.trim();
-  }
-  const res = await fetch(uploadUrl, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(payload)
-  });
-  if (!res.ok) {
-    const errText = await res.text();
-    throw new Error(`${res.status} ${errText}`);
-  }
-  return res.json();
 }
 
 function blobToBase64(blob) {
@@ -844,8 +940,18 @@ export default {
 
       this.saving = true;
       try {
-        const blob = await buildResultsZipBlob(fixationCsv, interestAreaCsv, rawTrialCsv, folderName);
-        await uploadResultsZip(uploadUrl, participantId, blob, isTest, githubResultsPath);
+        await uploadResultsFiles(
+          uploadUrl,
+          participantId,
+          folderName,
+          [
+            { name: 'fixation_report.csv', content: fixationCsv },
+            { name: 'interest_area_report.csv', content: interestAreaCsv },
+            { name: 'raw_trial_data.csv', content: rawTrialCsv },
+          ],
+          isTest,
+          githubResultsPath
+        );
         this.uploadError = '';
         this.uploadComplete = true;
         if (!this.prolificCompletionUrl) {

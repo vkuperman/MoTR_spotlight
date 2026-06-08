@@ -1,18 +1,76 @@
 /**
  * Serverless function: POST /api/upload-results
- * Body: { participantId: string, zipBase64: string, isTest?: boolean, githubResultsPath?: string }
+ *
+ * Single file (preferred for large sessions):
+ *   { participantId, folderName, fileName, fileBase64, contentEncoding?: 'gzip'|'none',
+ *     isTest?, githubResultsPath? }
+ *
+ * Legacy zip:
+ *   { participantId, zipBase64, isTest?, githubResultsPath? }
  *
  * Optional env:
- * - GITHUB_TOKEN + GITHUB_REPO: push zip to GitHub (default run_motr_in_magpie/Results/)
+ * - GITHUB_TOKEN + GITHUB_REPO: push to GitHub (default run_motr_in_magpie/Results/)
  * - GITHUB_RESULTS_PATH: folder path in repo (default run_motr_in_magpie/Results)
  * - GITHUB_BRANCH: branch to commit to (default main)
  * - RESEND_API_KEY + EMAIL_TO: email zip to EMAIL_TO (Resend free tier: only to account owner until domain verified)
  * At least one of (GitHub) or (Resend + EMAIL_TO) must be set.
  */
 
+import { gunzipSync } from 'zlib';
+
 function safeParticipantId(id) {
   if (id == null || typeof id !== 'string') return 'unknown';
   return id.replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 64) || 'unknown';
+}
+
+function safeFolderName(name) {
+  if (name == null || typeof name !== 'string') return 'motr_results_unknown';
+  return name.replace(/[^a-zA-Z0-9._-]/g, '_').slice(0, 120) || 'motr_results_unknown';
+}
+
+function safeFileName(name) {
+  if (name == null || typeof name !== 'string') return 'results.csv';
+  const base = name.replace(/[^a-zA-Z0-9._-]/g, '_').slice(0, 120) || 'results.csv';
+  return base.endsWith('.csv') ? base : `${base}.csv`;
+}
+
+function decodeUploadedFile(fileBase64, contentEncoding) {
+  const raw = Buffer.from(fileBase64, 'base64');
+  if (contentEncoding === 'gzip') {
+    return gunzipSync(raw);
+  }
+  return raw;
+}
+
+async function pushFileToGitHub({
+  githubToken,
+  owner,
+  repoName,
+  githubBranch,
+  repoPath,
+  fileBuffer,
+  commitMessage,
+}) {
+  const url = `https://api.github.com/repos/${owner}/${repoName}/contents/${encodeURIComponent(repoPath)}`;
+  const response = await fetch(url, {
+    method: 'PUT',
+    headers: {
+      Authorization: `Bearer ${githubToken}`,
+      Accept: 'application/vnd.github+json',
+      'X-GitHub-Api-Version': '2022-11-28',
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+      message: commitMessage,
+      content: fileBuffer.toString('base64'),
+      branch: githubBranch,
+    }),
+  });
+  if (!response.ok) {
+    const errText = await response.text();
+    throw new Error(`GitHub upload failed (${response.status}): ${errText}`);
+  }
+  return response.json();
 }
 
 async function sendEmailWithZip(resendKey, emailTo, participantId, timestamp, zipBase64) {
@@ -77,26 +135,19 @@ export default async function handler(req, res) {
   }
 
   const participantId = safeParticipantId(body.participantId);
-  const zipBase64 = body.zipBase64;
-  if (!zipBase64 || typeof zipBase64 !== 'string') {
-    return res.status(400).json({ error: 'Missing zipBase64' });
-  }
-
   const resultsPath = String(body.githubResultsPath || defaultResultsPath).replace(/\/+$/, '');
   const timestamp = new Date().toISOString().replace(/[:.]/g, '-').slice(0, 19);
   const isTest = body.isTest === true || body.isTest === 'true';
   const resultsSubdir = isTest ? `${resultsPath}/test` : resultsPath;
-  const filename = `${resultsSubdir}/${participantId}_motr_results_${timestamp}.zip`;
   const result = { ok: true };
 
-  if (useEmail) {
-    try {
-      await sendEmailWithZip(resendKey, emailTo, participantId, timestamp, zipBase64);
-      result.email = emailTo;
-    } catch (err) {
-      console.error('Email failed', err);
-      return res.status(500).json({ error: 'Email failed', details: String(err.message) });
-    }
+  const fileBase64 = body.fileBase64;
+  const zipBase64 = body.zipBase64;
+  const isSingleFile =
+    fileBase64 && typeof fileBase64 === 'string' && body.fileName && body.folderName;
+
+  if (!isSingleFile && (!zipBase64 || typeof zipBase64 !== 'string')) {
+    return res.status(400).json({ error: 'Missing fileBase64 or zipBase64' });
   }
 
   if (useGitHub) {
@@ -104,27 +155,53 @@ export default async function handler(req, res) {
     if (!owner || !repoName) {
       return res.status(500).json({ error: 'Invalid GITHUB_REPO' });
     }
-    const url = `https://api.github.com/repos/${owner}/${repoName}/contents/${encodeURIComponent(filename)}`;
-    const response = await fetch(url, {
-      method: 'PUT',
-      headers: {
-        Authorization: `Bearer ${githubToken}`,
-        Accept: 'application/vnd.github+json',
-        'X-GitHub-Api-Version': '2022-11-28',
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({
-        message: `Add results: ${participantId}_motr_results_${timestamp}.zip`,
-        content: zipBase64,
-        branch: githubBranch,
-      }),
-    });
-    if (!response.ok) {
-      const errText = await response.text();
-      console.error('GitHub API error', response.status, errText);
-      return res.status(response.status).json({ error: 'GitHub upload failed', details: errText });
+
+    try {
+      if (isSingleFile) {
+        const folderName = safeFolderName(body.folderName);
+        const fileName = safeFileName(body.fileName);
+        const encoding = body.contentEncoding === 'gzip' ? 'gzip' : 'none';
+        const fileBuffer = decodeUploadedFile(fileBase64, encoding);
+        const repoPath = `${resultsSubdir}/${folderName}/${fileName}`;
+        await pushFileToGitHub({
+          githubToken,
+          owner,
+          repoName,
+          githubBranch,
+          repoPath,
+          fileBuffer,
+          commitMessage: `Add results file: ${folderName}/${fileName}`,
+        });
+        result.path = repoPath;
+      } else {
+        const filename = `${resultsSubdir}/${participantId}_motr_results_${timestamp}.zip`;
+        const fileBuffer = Buffer.from(zipBase64, 'base64');
+        await pushFileToGitHub({
+          githubToken,
+          owner,
+          repoName,
+          githubBranch,
+          repoPath: filename,
+          fileBuffer,
+          commitMessage: `Add results: ${participantId}_motr_results_${timestamp}.zip`,
+        });
+        result.path = filename;
+      }
+    } catch (err) {
+      console.error('GitHub upload error', err);
+      return res.status(500).json({ error: 'GitHub upload failed', details: String(err.message) });
     }
-    result.path = filename;
+  }
+
+  if (useEmail) {
+    try {
+      const emailBase64 = isSingleFile ? fileBase64 : zipBase64;
+      await sendEmailWithZip(resendKey, emailTo, participantId, timestamp, emailBase64);
+      result.email = emailTo;
+    } catch (err) {
+      console.error('Email failed', err);
+      return res.status(500).json({ error: 'Email failed', details: String(err.message) });
+    }
   }
 
   return res.status(200).json(result);
