@@ -34,33 +34,29 @@
     </Screen>
 
     <Screen
-      v-for="(cq, cidx) in cambridgeQuestions"
-      :key="'cambridge-q-' + cidx"
-      :title="'Question ' + (cidx + 1) + ' / ' + cambridgeQuestions.length"
+      v-for="(page, pidx) in cambridgePages"
+      :key="'cambridge-page-' + pidx"
+      :title="'Page ' + (pidx + 1) + ' / ' + cambridgePages.length"
       class="instructions"
     >
       <div style="width: 40em; margin: auto; text-align: left;">
-        <p>{{ cq.question }}</p>
-        <template v-for="(opt, oi) in cq.options">
-          <label :key="'cambridge-opt-' + cidx + '-' + oi" style="display: block; margin: 0.35em 0;">
-            <input type="radio" :value="opt" v-model="cambridgeSelected[cidx]" />
-            {{ opt }}
-          </label>
-        </template>
+        <div
+          v-for="item in page"
+          :key="'cambridge-q-' + item.globalIndex"
+          style="margin-bottom: 1.75em;"
+        >
+          <p><strong>{{ item.globalIndex + 1 }}.</strong> {{ item.question.question }}</p>
+          <template v-for="(opt, oi) in item.question.options">
+            <label :key="'cambridge-opt-' + item.globalIndex + '-' + oi" style="display: block; margin: 0.35em 0;">
+              <input type="radio" :value="opt" v-model="cambridgeSelected[item.globalIndex]" />
+              {{ opt }}
+            </label>
+          </template>
+        </div>
         <p style="text-align: center; margin-top: 2rem;">
-          <button type="button" :disabled="!cambridgeSelected[cidx]" @click="submitCambridgeItem(cidx, cq)">
+          <button type="button" :disabled="!cambridgePageComplete(page)" @click="submitCambridgePage(page, pidx)">
             Next
           </button>
-        </p>
-      </div>
-    </Screen>
-
-    <Screen title="English test — results" class="instructions" key="cambridge-results">
-      <div style="width: 40em; margin: auto; text-align: left;">
-        <p>Number correct: {{ cambridgeComputedScore }} out of {{ cambridgeQuestions.length }}.</p>
-        <p>CEFR band (per scoring key): <strong>{{ cambridgeCefrLabel }}</strong></p>
-        <p style="text-align: center; margin-top: 2rem;">
-          <button type="button" @click="finishCambridgeBlock">Continue to reading</button>
         </p>
       </div>
     </Screen>
@@ -107,11 +103,11 @@
               {{trial.text}}
             </div>
           </template>
-          <button v-if="showFirstDiv" style= "bottom:40%; transform: translate(-50%, -50%)" @click="toggleDivs" :disabled="!isCursorMoving">
+          <button v-if="showFirstDiv" class="trial-done-btn" @click="toggleDivs" :disabled="!isCursorMoving">
           Done
           </button>
 
-          <div v-else style = "position:absolute; bottom:15%; text-align: center; width: 100%; min-width: -webkit-fill-available;" >
+          <div v-else class="trial-comprehension-panel">
             <template>
               <form>
                 <!-- comprehension questions and the response options -->
@@ -124,7 +120,7 @@
             </template>
           </div>
           
-          <button v-if="$magpie.measurements.response" style="transform: translate(-50%, -50%)" @click="recordResponse(trial); toggleDivs(); $magpie.saveAndNextScreen()">
+          <button v-if="$magpie.measurements.response" class="trial-next-btn" @click="recordResponse(trial); toggleDivs(); $magpie.saveAndNextScreen()">
             Next
           </button>
         </Slide>
@@ -165,6 +161,7 @@ import { buildOneStopTrialLists } from '@motr-shared/buildOneStopTrialLists';
 import { loadStimuliRowMap } from '@motr-shared/parseOneStopStimuli';
 import { prepareParticipantReadingTrials } from '@motr-shared/readingTrialSetup';
 import {
+  chunkCambridgeQuestions,
   prepareCambridgeQuestions,
   prepareCambridgeScoring,
   cefrBandForScore,
@@ -248,6 +245,9 @@ export default {
     },
     cambridgeCefrLabel() {
       return cefrBandForScore(this.cambridgeComputedScore, this.cambridgeScoring);
+    },
+    cambridgePages() {
+      return chunkCambridgeQuestions(this.cambridgeQuestions);
     },
   },
   methods: {
@@ -658,18 +658,30 @@ export default {
         response_correct: responseCorrect
       });
     },
-    submitCambridgeItem(cidx, cq) {
-      const sel = this.cambridgeSelected[cidx];
-      if (!sel) return;
-      const ok = isCambridgeAnswerCorrect(sel, cq.correct);
-      this.$magpie.addTrialData({
-        source: 'cambridge_general_english',
-        cambridge_item: cidx + 1,
-        cambridge_selected: sel,
-        cambridge_correct_answer: cq.correct,
-        cambridge_item_correct: ok ? '1' : '0',
-      });
-      this.$magpie.saveAndNextScreen();
+    cambridgePageComplete(page) {
+      return page.every((item) => this.cambridgeSelected[item.globalIndex]);
+    },
+    submitCambridgePage(page, pageIndex) {
+      if (!this.cambridgePageComplete(page)) return;
+      for (const item of page) {
+        const cidx = item.globalIndex;
+        const cq = item.question;
+        const sel = this.cambridgeSelected[cidx];
+        if (!sel) return;
+        const ok = isCambridgeAnswerCorrect(sel, cq.correct);
+        this.$magpie.addTrialData({
+          source: 'cambridge_general_english',
+          cambridge_item: cidx + 1,
+          cambridge_selected: sel,
+          cambridge_correct_answer: cq.correct,
+          cambridge_item_correct: ok ? '1' : '0',
+        });
+      }
+      if (pageIndex === this.cambridgePages.length - 1) {
+        this.finishCambridgeBlock();
+      } else {
+        this.$magpie.saveAndNextScreen();
+      }
     },
     finishCambridgeBlock() {
       const score = this.cambridgeComputedScore;
@@ -737,6 +749,22 @@ export default {
     position: absolute;
     bottom: 0;
     left: 50%;
+  }
+  .trial-done-btn,
+  .trial-next-btn {
+    bottom: 2%;
+    transform: translateX(-50%);
+    z-index: 3;
+  }
+  .trial-comprehension-panel {
+    position: absolute;
+    bottom: 8%;
+    left: 11%;
+    right: 11%;
+    text-align: center;
+    width: auto;
+    min-width: -webkit-fill-available;
+    padding-bottom: 3.5rem;
   }
   .oval-cursor {
     position: fixed;

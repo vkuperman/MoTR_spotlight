@@ -27,6 +27,23 @@ function normAnswer(s) {
     .toLowerCase();
 }
 
+export const CAMBRIDGE_QUESTIONS_PER_PAGE = 5;
+
+/** Group Cambridge items into pages (default 5 questions per page → 5 pages for 25 items). */
+export function chunkCambridgeQuestions(questions, perPage = CAMBRIDGE_QUESTIONS_PER_PAGE) {
+  if (!Array.isArray(questions) || perPage < 1) return [];
+  const pages = [];
+  for (let i = 0; i < questions.length; i += perPage) {
+    pages.push(
+      questions.slice(i, i + perPage).map((question, j) => ({
+        question,
+        globalIndex: i + j,
+      }))
+    );
+  }
+  return pages;
+}
+
 export function prepareCambridgeQuestions(rows) {
   if (!Array.isArray(rows)) return [];
   return rows
