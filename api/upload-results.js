@@ -30,8 +30,13 @@ function safeFolderName(name) {
 
 function safeFileName(name) {
   if (name == null || typeof name !== 'string') return 'results.csv';
-  const base = name.replace(/[^a-zA-Z0-9._-]/g, '_').slice(0, 120) || 'results.csv';
-  return base.endsWith('.csv') ? base : `${base}.csv`;
+  const segments = name.split('/').map((segment) => {
+    const cleaned = segment.replace(/[^a-zA-Z0-9._-]/g, '_').slice(0, 120);
+    return cleaned || 'file';
+  });
+  const base = segments.join('/');
+  if (base.endsWith('.csv') || base.endsWith('.json')) return base;
+  return `${base}.csv`;
 }
 
 function decodeUploadedFile(fileBase64, contentEncoding) {
@@ -138,6 +143,7 @@ export default async function handler(req, res) {
   const resultsPath = String(body.githubResultsPath || defaultResultsPath).replace(/\/+$/, '');
   const timestamp = new Date().toISOString().replace(/[:.]/g, '-').slice(0, 19);
   const isTest = body.isTest === true || body.isTest === 'true';
+  const resultsScope = body.resultsScope === 'partial' ? 'partial' : 'complete';
   const resultsSubdir = isTest ? `${resultsPath}/test` : resultsPath;
   const result = { ok: true };
 
@@ -162,7 +168,9 @@ export default async function handler(req, res) {
         const fileName = safeFileName(body.fileName);
         const encoding = body.contentEncoding === 'gzip' ? 'gzip' : 'none';
         const fileBuffer = decodeUploadedFile(fileBase64, encoding);
-        const repoPath = `${resultsSubdir}/${folderName}/${fileName}`;
+        const repoPath = resultsScope === 'partial'
+          ? `${resultsSubdir}/partial/${folderName}/${fileName}`
+          : `${resultsSubdir}/${folderName}/${fileName}`;
         await pushFileToGitHub({
           githubToken,
           owner,

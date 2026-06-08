@@ -15,6 +15,9 @@
       <div v-else>
         <p>{{ $t('screens.SubmitResultsScreen.error') }}</p>
         <p>{{ $t('screens.SubmitResultsScreen.manual') }}</p>
+        <p v-if="csv">
+          <button type="button" @click="downloadResults">Download results</button>
+        </p>
         <p>
           {{ $t('screens.SubmitResultsScreen.contact') }}
           <a :href="'mailto:' + $magpie.contactEmail" target="_blank" rel="noopener">
@@ -36,6 +39,7 @@
 
 <script>
 import stringify from 'csv-stringify/lib/sync';
+import { downloadResultsFiles } from '@motr-shared/resultsSafeguard';
 
 export default {
   name: 'CustomSubmitResultsScreen',
@@ -67,6 +71,13 @@ export default {
         this.error = err.message;
         cb();
       }
+    },
+    async downloadResults() {
+      if (!this.csv) return;
+      await downloadResultsFiles(
+        [{ name: 'trial_data.csv', content: this.csv }],
+        'motr_results_backup'
+      );
     },
     redirectToCompletionUrl() {
       if (this.$magpie.completionUrl && this.$magpie.mode === 'prolific') {

@@ -120,7 +120,7 @@
             </template>
           </div>
           
-          <button v-if="$magpie.measurements.response" class="trial-next-btn" @click="recordResponse(trial); toggleDivs(); $magpie.saveAndNextScreen()">
+          <button v-if="$magpie.measurements.response" class="trial-next-btn" @click="recordResponse(trial, i); toggleDivs(); $magpie.saveAndNextScreen()">
             Next
           </button>
         </Slide>
@@ -168,6 +168,11 @@ import {
   isCambridgeAnswerCorrect,
 } from '@motr-shared/cambridgeGeneralEnglish';
 import ExportReportsScreen from '@motr-shared/components/ExportReportsScreen.vue';
+import {
+  initResultsSession,
+  persistResultsSnapshot,
+  uploadReadingTrialCheckpoint,
+} from '@motr-shared/resultsSafeguard';
 import DemographicsOneStopQuestionnaire from '@motr-shared/components/DemographicsOneStopQuestionnaire.vue';
 import ConsentPROLIFIC from './components/ConsentPROLIFIC.vue';
 import CustomSubmitResultsScreen from './components/CustomSubmitResultsScreen.vue';
@@ -643,9 +648,10 @@ export default {
         study_key: studyConfig.studyKey,
         source: 'welcome'
       });
+      initResultsSession(this, studyConfig);
       this.$magpie.nextScreen();
     },
-    recordResponse(trial) {
+    recordResponse(trial, trialIndex) {
       const m = this.$magpie && this.$magpie.measurements ? this.$magpie.measurements : null;
       if (!m || !m.response) return;
       const itemId = trial.item_id != null ? trial.item_id : trial.ItemId;
@@ -657,6 +663,8 @@ export default {
         response: selectedResponse,
         response_correct: responseCorrect
       });
+      uploadReadingTrialCheckpoint(this, trial, trialIndex, studyConfig).catch(console.warn);
+      persistResultsSnapshot(this, studyConfig).catch(console.warn);
     },
     cambridgePageComplete(page) {
       return page.every((item) => this.cambridgeSelected[item.globalIndex]);
