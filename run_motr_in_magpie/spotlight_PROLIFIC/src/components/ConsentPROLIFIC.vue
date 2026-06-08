@@ -91,16 +91,14 @@
           placeholder="Prolific ID"
         />
       </p>
-    </div>
-    <div
-      v-if="$magpie.measurements.SubjectID && !$magpie.validateMeasurements.SubjectID.$invalid"
-    >
-      <br>
-      I consent to participate in this study.
-      <br><br>
-      By clicking on the button below you consent to participating in this study:
-      <br><br>
-      <button type="button" @click="$emit('proceed')">Proceed</button>
+      <div
+        v-if="$magpie.measurements.SubjectID && !$magpie.validateMeasurements.SubjectID.$invalid"
+        class="consent-proceed"
+      >
+        <p>I consent to participate in this study.</p>
+        <p>By clicking on the button below you consent to participating in this study:</p>
+        <button type="button" class="consent-proceed-button" @click="$emit('proceed')">Proceed</button>
+      </div>
     </div>
   </div>
 </template>
@@ -110,3 +108,19 @@ export default {
   name: 'ConsentPROLIFIC',
 };
 </script>
+
+<style scoped>
+.consent-proceed {
+  margin-top: 2em;
+  padding-bottom: 2em;
+}
+
+.consent-proceed-button {
+  position: static;
+  left: auto;
+  bottom: auto;
+  transform: none;
+  display: block;
+  margin-top: 1em;
+}
+</style>

@@ -46,7 +46,7 @@ export function findEnglishProficiencyTest(testId) {
 export function englishProficiencyScoreHint(test) {
   if (!test) return '';
   if (test.type === 'free') {
-    return 'Enter your test result.';
+    return 'Enter the name of your test and your score.';
   }
   if (test.type === 'range') {
     return `Enter a whole number from ${test.min} to ${test.max}.`;

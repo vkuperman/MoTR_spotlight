@@ -194,6 +194,15 @@
             </option>
           </select>
         </label>
+        <label v-if="otherEnglishTestIsOther" style="flex: 1 1 12em;">
+          Test name<br>
+          <input
+            v-model="form.otherEnglishTestName"
+            type="text"
+            placeholder="Name of test"
+            style="width: 100%; max-width: 16em;"
+          />
+        </label>
         <label style="flex: 1 1 12em;">
           Score<br>
           <input
@@ -217,9 +226,6 @@
       <button type="button" :disabled="!canAdvance" @click="nextStep">
         {{ step === totalSteps - 1 ? 'Continue' : 'Next' }}
       </button>
-    </p>
-    <p style="text-align: center; font-size: 0.85em; color: #666;">
-      Section {{ step + 1 }} of {{ totalSteps }}
     </p>
   </div>
 </template>
@@ -268,6 +274,7 @@ function emptyForm() {
     englishReadStartAge: '',
     englishReadFluentAge: '',
     otherEnglishTest: '',
+    otherEnglishTestName: '',
     otherEnglishTestScore: '',
   };
 }
@@ -376,6 +383,9 @@ export default {
     selectedOtherEnglishTest() {
       return findEnglishProficiencyTest(this.form.otherEnglishTest);
     },
+    otherEnglishTestIsOther() {
+      return this.form.otherEnglishTest === 'OTHER';
+    },
     otherEnglishTestScoreHint() {
       return englishProficiencyScoreHint(this.selectedOtherEnglishTest);
     },
@@ -417,6 +427,7 @@ export default {
       return base + index;
     },
     onOtherEnglishTestChange() {
+      this.form.otherEnglishTestName = '';
       this.form.otherEnglishTestScore = '';
     },
     syncPctFields() {
@@ -509,13 +520,29 @@ export default {
       if (stepIndex === this.otherEnglishTestStepIndex) {
         const hasTest = isFilledText(f.otherEnglishTest);
         const hasScore = isFilledText(f.otherEnglishTestScore);
-        if (!hasTest && !hasScore) return true;
-        if (hasTest && !hasScore) {
-          if (setError) this.stepError = 'Please enter a score for the selected test, or clear the test selection.';
+        const hasOtherName = isFilledText(f.otherEnglishTestName);
+        if (!hasTest && !hasScore && !hasOtherName) return true;
+        if (!hasTest && (hasScore || hasOtherName)) {
+          if (setError) this.stepError = 'Please select a test for the information you entered.';
           return false;
         }
-        if (!hasTest && hasScore) {
-          if (setError) this.stepError = 'Please select a test for the score you entered.';
+        if (f.otherEnglishTest === 'OTHER') {
+          if (!hasOtherName) {
+            if (setError) this.stepError = 'Please enter the name of your test, or clear the test selection.';
+            return false;
+          }
+          if (!hasScore) {
+            if (setError) this.stepError = 'Please enter your score, or clear the test selection.';
+            return false;
+          }
+          if (!isValidEnglishProficiencyScore(this.selectedOtherEnglishTest, f.otherEnglishTestScore)) {
+            if (setError) this.stepError = this.otherEnglishTestScoreHint || 'Please enter a valid score for the selected test.';
+            return false;
+          }
+          return true;
+        }
+        if (hasTest && !hasScore) {
+          if (setError) this.stepError = 'Please enter a score for the selected test, or clear the test selection.';
           return false;
         }
         if (!isValidEnglishProficiencyScore(this.selectedOtherEnglishTest, f.otherEnglishTestScore)) {
@@ -583,7 +610,11 @@ export default {
 
       if (isFilledText(f.otherEnglishTest) && isFilledText(f.otherEnglishTestScore)) {
         const test = findEnglishProficiencyTest(f.otherEnglishTest);
-        payload.demo_other_english_test = test ? test.label : f.otherEnglishTest;
+        if (f.otherEnglishTest === 'OTHER') {
+          payload.demo_other_english_test = String(f.otherEnglishTestName).trim();
+        } else {
+          payload.demo_other_english_test = test ? test.label : f.otherEnglishTest;
+        }
         payload.demo_other_english_test_score = String(f.otherEnglishTestScore).trim();
       }
 

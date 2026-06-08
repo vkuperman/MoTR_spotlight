@@ -6,7 +6,7 @@
     </Slide>
     <Slide>
       <p v-if="!error">
-        Thank you for participating in our study. You may now close this window and return to SONA to confirm your credit.
+        Thank you for participating in our study. You may now close this window.
       </p>
       <div v-else>
         <p>{{ $t('screens.SubmitResultsScreen.error') }}</p>
@@ -22,7 +22,7 @@
   </Screen>
   <Screen v-else title="Submitting">
     <Slide>
-      <p>Thank you for participating in our study. You may now close this window and return to SONA to confirm your credit.</p>
+      <p>Thank you for participating in our study. You may now close this window.</p>
     </Slide>
   </Screen>
 </template>
