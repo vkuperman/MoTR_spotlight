@@ -1,0 +1,174 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+N6D368V9,,2,int,23,3,3,4,-1,,2216,137741,1221,225,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,2267,137791,1221,225,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,2316,137841,1221,225,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,2361,137885,1221,225,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,2416,137940,1221,225,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,2466,137991,1221,225,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,2517,138041,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,2562,138086,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,2616,138140,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,2662,138186,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,2716,138240,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,2767,138292,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,2816,138341,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,2867,138391,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,2917,138441,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,2970,138494,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,3017,138542,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,3064,138588,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,3117,138641,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,3167,138691,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,3215,138740,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,3266,138791,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,3316,138840,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,3366,138890,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,3416,138940,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,3466,138990,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,3516,139040,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,3566,139090,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,3616,139140,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,3666,139190,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,3717,139241,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,3767,139291,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,3816,139341,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,3866,139390,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,6343,141867,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,6365,141889,1226,208,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,13, found ,6416,141940,935,124,109.26250457763672,925.9625244140625,129.26250457763672,976.012523651123,1,13,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,13, found ,6466,141991,935,124,109.26250457763672,925.9625244140625,129.26250457763672,976.012523651123,1,13,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,13, found ,6516,142040,935,124,109.26250457763672,925.9625244140625,129.26250457763672,976.012523651123,1,13,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,13, found ,6565,142090,935,124,109.26250457763672,925.9625244140625,129.26250457763672,976.012523651123,1,13,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,13, found ,6615,142140,935,124,109.26250457763672,925.9625244140625,129.26250457763672,976.012523651123,1,13,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,13, found ,6665,142190,935,124,109.26250457763672,925.9625244140625,129.26250457763672,976.012523651123,1,13,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,13, found ,6716,142240,935,124,109.26250457763672,925.9625244140625,129.26250457763672,976.012523651123,1,13,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,10, of ,6769,142293,794,133,109.26250457763672,783.875,129.26250457763672,803.8999996185303,1,10,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,21, cave ,6818,142342,561,155,149.2624969482422,534.7374877929688,169.2624969482422,577.7624893188477,2,4,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,19, and ,6869,142393,445,164,149.2624969482422,427.6625061035156,169.2624969482422,462.700008392334,2,2,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,18, deep ,6918,142442,420,166,149.2624969482422,382.6125183105469,169.2624969482422,427.6625175476074,2,1,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,18, deep ,6964,142488,420,166,149.2624969482422,382.6125183105469,169.2624969482422,427.6625175476074,2,1,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,18, deep ,7017,142541,424,165,149.2624969482422,382.6125183105469,169.2624969482422,427.6625175476074,2,1,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,19, and ,7068,142593,462,150,149.2624969482422,427.6625061035156,169.2624969482422,462.700008392334,2,2,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,2, Spanish ,7118,142642,488,136,109.26250457763672,418.63751220703125,129.26250457763672,488.68751525878906,1,2,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,3, team ,7163,142687,490,135,109.26250457763672,488.6875,129.26250457763672,533.7125015258789,1,3,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,1, The ,7220,142745,398,135,109.26250457763672,382.6125183105469,129.26250457763672,418.6375198364258,1,1,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,7267,142792,360,140,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,7316,142840,359,140,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,7367,142892,376,169,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,67," old, ",7418,142943,486,284,269.26251220703125,481.6875,289.26251220703125,515.7125015258789,5,3,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,84, including ,7469,142993,586,325,309.26251220703125,520.7374877929688,329.26251220703125,596.7999877929688,6,5,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,85, reindeer ,7518,143043,618,326,309.26251220703125,596.7999877929688,329.26251220703125,667.8499908447266,6,6,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,84, including ,7569,143093,545,304,309.26251220703125,520.7374877929688,329.26251220703125,596.7999877929688,6,5,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,49, well ,7618,143143,404,238,229.2624969482422,382.6125183105469,249.2624969482422,418.6250190734863,4,1,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,33, 2006. ,7667,143192,387,212,189.2624969482422,382.6125183105469,209.2624969482422,432.33752059936523,3,1,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,33, 2006. ,7718,143242,423,187,189.2624969482422,382.6125183105469,209.2624969482422,432.33752059936523,3,1,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,36," remains, ",7766,143291,546,206,189.2624969482422,528.4125366210938,209.2624969482422,602.4375381469727,3,4,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,85, reindeer ,7818,143342,663,316,309.26251220703125,596.7999877929688,329.26251220703125,667.8499908447266,6,6,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,85, reindeer ,7868,143392,608,339,309.26251220703125,596.7999877929688,329.26251220703125,667.8499908447266,6,6,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,66, years ,7919,143443,447,260,269.26251220703125,432.6625061035156,289.26251220703125,481.68750762939453,5,2,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,18, deep ,7968,143492,396,142,149.2624969482422,382.6125183105469,169.2624969482422,427.6625175476074,2,1,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,2, Spanish ,8019,143543,460,124,109.26250457763672,418.63751220703125,129.26250457763672,488.68751525878906,1,2,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,21, cave ,8068,143592,562,170,149.2624969482422,534.7374877929688,169.2624969482422,577.7624893188477,2,4,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,69, farming ,8118,143643,583,268,269.26251220703125,571.7625122070312,289.26251220703125,636.7875137329102,5,5,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,67," old, ",8169,143693,508,291,269.26251220703125,481.6875,289.26251220703125,515.7125015258789,5,3,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,50, preserved ,8219,143743,420,259,229.2624969482422,418.625,249.2624969482422,503.6750030517578,4,2,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,33, 2006. ,8268,143792,410,196,189.2624969482422,382.6125183105469,209.2624969482422,432.33752059936523,3,1,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,19, and ,8316,143841,458,149,149.2624969482422,427.6625061035156,169.2624969482422,462.700008392334,2,2,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,7, after ,8370,143894,699,128,109.26250457763672,676.7875366210938,129.26250457763672,717.8125381469727,1,7,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,38, belonged ,8418,143943,724,196,189.2624969482422,653.4625244140625,209.2624969482422,732.5500259399414,3,6,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,84, including ,8469,143993,596,324,309.26251220703125,520.7374877929688,329.26251220703125,596.7999877929688,6,5,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,95, clothing. ,8515,144040,446,350,349.26251220703125,382.6125183105469,369.26251220703125,449.6625213623047,7,1,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,65," 7,000 ",8568,144092,384,291,269.26251220703125,382.6125183105469,289.26251220703125,432.6625175476074,5,1,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,22, system ,8618,144142,633,164,149.2624969482422,577.7625122070312,169.2624969482422,639.7750129699707,2,5,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,45," 30s, ",8669,144193,946,184,189.2624969482422,928.6749877929688,209.2624969482422,967.6999893188477,3,13,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,79, were ,8719,144244,1080,264,269.26251220703125,1057.0374755859375,289.26251220703125,1096.0624771118164,5,15,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,8768,144292,1089,334,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,8816,144340,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,8861,144385,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,8912,144436,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,8966,144490,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9015,144539,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9064,144589,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9115,144639,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9165,144689,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9216,144740,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9265,144789,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9316,144840,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9365,144890,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9415,144939,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9465,144989,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9515,145039,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9565,145090,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9615,145140,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9665,145189,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9715,145239,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9765,145289,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9815,145339,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9866,145390,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9915,145440,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,9982,145506,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10015,145539,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10065,145589,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10115,145640,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10165,145689,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10215,145739,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10265,145789,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10315,145840,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10365,145889,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10414,145939,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10465,145989,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10516,146040,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10565,146090,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10615,146140,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10665,146189,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10715,146239,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10765,146289,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10816,146340,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10865,146389,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10915,146439,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,10964,146489,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,11013,146538,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,11065,146589,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,11111,146635,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,11165,146689,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,11216,146740,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,11262,146787,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,11312,146837,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,11361,146886,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,11411,146936,1071,370,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,70, arrived ,11469,146993,656,280,269.26251220703125,636.7875366210938,289.26251220703125,696.8125381469727,5,6,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,54, environment ,11517,147042,661,248,229.2624969482422,595.7374877929688,249.2624969482422,699.7999877929688,4,6,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,54, environment ,11563,147087,659,240,229.2624969482422,595.7374877929688,249.2624969482422,699.7999877929688,4,6,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,37, which ,11618,147143,636,216,189.2624969482422,602.4375,209.2624969482422,653.4625015258789,3,5,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,37, which ,11668,147192,605,214,189.2624969482422,602.4375,209.2624969482422,653.4625015258789,3,5,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,36," remains, ",11718,147242,540,213,189.2624969482422,528.4125366210938,209.2624969482422,602.4375381469727,3,4,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,35, human ,11768,147292,500,205,189.2624969482422,468.3625183105469,209.2624969482422,528.4125175476074,3,3,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,35, human ,11819,147343,486,204,189.2624969482422,468.3625183105469,209.2624969482422,528.4125175476074,3,3,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,35, human ,11862,147386,484,207,189.2624969482422,468.3625183105469,209.2624969482422,528.4125175476074,3,3,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,50, preserved ,11918,147442,496,230,229.2624969482422,418.625,249.2624969482422,503.6750030517578,4,2,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,84, including ,11968,147492,568,300,309.26251220703125,520.7374877929688,329.26251220703125,596.7999877929688,6,5,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,85, reindeer ,12018,147542,640,305,309.26251220703125,596.7999877929688,329.26251220703125,667.8499908447266,6,6,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,71, in ,12066,147590,704,292,269.26251220703125,696.8125,289.26251220703125,715.8250007629395,5,7,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,72, Europe ,12116,147641,736,287,269.26251220703125,715.8250122070312,289.26251220703125,778.8750114440918,5,8,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,70, arrived ,12168,147692,681,292,269.26251220703125,636.7875366210938,289.26251220703125,696.8125381469727,5,6,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,85, reindeer ,12218,147742,608,300,309.26251220703125,596.7999877929688,329.26251220703125,667.8499908447266,6,6,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,85, reindeer ,12262,147786,606,302,309.26251220703125,596.7999877929688,329.26251220703125,667.8499908447266,6,6,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,12317,147842,692,396,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,12361,147886,692,396,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,12414,147938,692,396,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,12462,147987,692,396,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,12512,148036,692,396,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,12562,148086,692,396,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,12612,148137,692,396,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,12664,148188,692,396,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,12715,148240,692,396,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,12762,148286,692,396,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,12815,148339,692,396,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,12865,148389,692,396,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,12915,148439,692,396,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,12965,148489,692,396,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,13015,148539,692,396,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,13065,148590,692,396,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,13115,148640,692,396,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,13163,148687,692,396,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,3,3,4,-1,,13216,148740,692,396,,,,,,,Their culture valued preserving bodies in caves,0,,,,,1970-01-01T00:00:00.698Z,,,,,,,,,spotlight-sona
