@@ -120,7 +120,7 @@
             </template>
           </div>
           
-          <button v-if="$magpie.measurements.response" class="trial-next-btn" @click="recordResponse(trial, i); toggleDivs(); $magpie.saveAndNextScreen()">
+          <button v-if="!showFirstDiv && $magpie.measurements.response" class="trial-next-btn" @click="recordResponse(trial, i); $magpie.saveAndNextScreen()">
             Next
           </button>
         </Slide>
@@ -247,6 +247,11 @@ export default {
     },
     cambridgePages() {
       return chunkCambridgeQuestions(this.cambridgeQuestions);
+    },
+  },
+  watch: {
+    '$magpie.currentScreenIndex'() {
+      this.resetTrialView();
     },
   },
   methods: {
@@ -612,8 +617,17 @@ export default {
       this.clickPositionInLine = null;
     },
     toggleDivs() {
-    this.showFirstDiv = !this.showFirstDiv;
-    this.isCursorMoving = false;
+      this.showFirstDiv = !this.showFirstDiv;
+      this.isCursorMoving = false;
+    },
+    resetTrialView() {
+      this.showFirstDiv = true;
+      this.isCursorMoving = false;
+      this.isClickHeld = false;
+      this.currentIndex = null;
+      this.interestAreasByIndex = {};
+      this.lastItemId = null;
+      this.changeBack();
     },
     getScreenDimensions() {
       return {
