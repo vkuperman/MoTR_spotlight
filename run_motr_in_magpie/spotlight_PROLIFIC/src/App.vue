@@ -172,6 +172,14 @@ import {
   deferReadingTrialSafeguards,
   initResultsSession,
 } from '@motr-shared/resultsSafeguard';
+import {
+  installRawPositionSampling,
+  uninstallRawPositionSampling,
+} from '@motr-shared/motrRawSampling';
+import {
+  appendOneStopTrialMeta,
+  readOneStopTrialMetaFromEl,
+} from '@motr-shared/oneStopExportFields';
 import DemographicsOneStopQuestionnaire from '@motr-shared/components/DemographicsOneStopQuestionnaire.vue';
 import ConsentPROLIFIC from './components/ConsentPROLIFIC.vue';
 import CustomSubmitResultsScreen from './components/CustomSubmitResultsScreen.vue';
@@ -258,6 +266,12 @@ export default {
     '$magpie.currentScreenIndex'() {
       this.resetTrialView();
     },
+  },
+  mounted() {
+    installRawPositionSampling(this);
+  },
+  beforeDestroy() {
+    uninstallRawPositionSampling(this);
   },
   methods: {
     getCharSizePx() {
@@ -451,6 +465,8 @@ export default {
       this.isCursorMoving = true;
       const x = e.clientX;
       const y = e.clientY;
+      this.mousePosition.x = x;
+      this.mousePosition.y = y;
       const now = performance.now();
 
       const oval = this.$el.querySelector(".oval-cursor");
@@ -582,6 +598,7 @@ export default {
       const totalWordsInItem = spans && spans.length ? spans.length : null;
       const allWords = spans && spans.length ? Array.from(spans).map((s) => s.innerHTML).join(' ') : null;
       const payload = {
+        recordType: 'hover_association',
         Experiment: expEl.value,
         Condition: this.$el.querySelector(".condition_id").value,
         ItemId: this.$el.querySelector(".item_id").value,
@@ -610,6 +627,7 @@ export default {
       }
       if (this.clickLineNumber != null) payload.line_number = this.clickLineNumber;
       if (this.clickPositionInLine != null) payload.position_in_line = this.clickPositionInLine;
+      appendOneStopTrialMeta(payload, readOneStopTrialMetaFromEl(this.$el));
       $magpie.addTrialData(payload);
       this.clickStartTime = null;
       this.clickStartX = null;

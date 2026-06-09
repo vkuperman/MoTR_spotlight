@@ -1,5 +1,19 @@
 import stringify from 'csv-stringify/lib/sync';
 import magpieConfig from '@magpie-config';
+import {
+  buildWilcoxAssociationsForItem,
+  computeWilcoxGoPastByWord,
+  filterValidHoverRows,
+  getHoverDurationMs,
+  getRowTime,
+  isValidHoverAssociation,
+} from './wilcoxReadingMetrics';
+import {
+  applyOneStopExportFields,
+  columnsWithOneStopAfterCondition,
+  getOneStopMetadataByItem,
+  orderRawTrialColumns,
+} from './oneStopExportFields';
 
 function generateUniqueAlphanumericId() {
   const chars = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789';
@@ -9,8 +23,19 @@ function generateUniqueAlphanumericId() {
 }
 
 // ItemId: identifier of the text/trial item (e.g. sentence or passage) being read; one item per screen before the comprehension question.
+function isRawSampleRow(row) {
+  return row != null && row.recordType === 'raw_position_sample';
+}
+
+function isHoverAssociationRow(row) {
+  if (row == null || row.mousePositionX == null || row.mousePositionX === '') return false;
+  if (isRawSampleRow(row)) return false;
+  if (row.recordType === 'hover_association') return true;
+  return row.clickDurationMs != null || row.revealMode === 'hover';
+}
+
 function isFixationRow(row) {
-  return row != null && (row.mousePositionX != null && row.mousePositionX !== '');
+  return isValidHoverAssociation(row);
 }
 
 function getResponseByItem(allRows) {
@@ -139,7 +164,7 @@ function getExpDataFields(expData, allRows, sessionTimes) {
   };
 }
 
-const FIXATION_CSV_COLUMNS = [
+const FIXATION_CSV_COLUMNS = columnsWithOneStopAfterCondition([
   'participant_id', 'SONAId', 'Condition', 'ItemId', 'text_presentation_order', 'WordIndex', 'Word',
   'responseTime', 'mousePositionX', 'mousePositionY', 'Regression', 'clickDurationMs',
   'relativeXInWord', 'relativeYInWord',
@@ -153,14 +178,26 @@ const FIXATION_CSV_COLUMNS = [
   'experiment_end_time', 'experiment_end_clock_time', 'experiment_end_time_local',
   'experiment_duration', 'experiment_duration_ms',
   'experiment'
-];
+]);
 
-const INTEREST_AREA_CSV_COLUMNS = [
+const RAW_POSITION_CSV_COLUMNS = columnsWithOneStopAfterCondition([
+  'participant_id', 'SONAId', 'Condition', 'ItemId', 'text_presentation_order', 'WordIndex', 'Word',
+  'responseTime', 'sampleTimeMs', 'mousePositionX', 'mousePositionY',
+  'wordPositionTop', 'wordPositionLeft', 'wordPositionBottom', 'wordPositionRight',
+  'line_number', 'position_in_line', 'response', 'response_correct',
+  'device', 'hand', 'experiment_date', 'experiment_start_date', 'experiment_start_time',
+  'experiment_start_clock_time', 'experiment_start_time_local', 'experiment_end_date',
+  'experiment_end_time', 'experiment_end_clock_time', 'experiment_end_time_local',
+  'experiment_duration', 'experiment_duration_ms',
+  'experiment'
+]);
+
+const INTEREST_AREA_CSV_COLUMNS = columnsWithOneStopAfterCondition([
   'participant_id', 'SONAId', 'Condition', 'ItemId', 'text_presentation_order',
   'word_index', 'WordIndex', 'word', 'response', 'response_correct', 'line_number', 'position_in_line',
   'click_count', 'skipped',
   'IA_FIRST_RUN_DWELL_TIME', 'IA_DWELL_TIME', 'IA_FIRST_FIXATION_DURATION',
-  'go_past_time_ms', 'IA_REGRESSION_IN', 'IA_REGRESSION_OUT',
+  'go_past_time_ms', 'Wilcox first pass', 'IA_REGRESSION_IN', 'IA_REGRESSION_OUT',
   'text_total_viewing_time_ms',
   'first_click_x', 'first_click_duration_ms', 'total_duration_ms', 'next_click_regression',
   'first_click_y',
@@ -172,7 +209,73 @@ const INTEREST_AREA_CSV_COLUMNS = [
   'experiment_end_time', 'experiment_end_clock_time', 'experiment_end_time_local',
   'experiment_duration', 'experiment_duration_ms',
   'experiment'
-];
+]);
+
+function buildRawPositionReport(allRows, participantId, expData, sessionTimes) {
+  const rawRows = allRows.filter(isRawSampleRow);
+  if (rawRows.length === 0) return '';
+  const pid = participantId != null && String(participantId) ? String(participantId) : '';
+  const expFields = getExpDataFields(expData, allRows, sessionTimes);
+  const responseByItem = getResponseByItem(allRows);
+  const responseCorrectByItem = getResponseCorrectByItem(allRows);
+  const oneStopByItem = getOneStopMetadataByItem(allRows);
+
+  const rowsForCsv = rawRows.map((row) => {
+    const itemId = row.ItemId != null && row.ItemId !== '' ? row.ItemId : 'NO_ITEM';
+    const val = (key) => (row[key] != null && row[key] !== '' ? row[key] : '');
+    const out = {
+      participant_id: pid,
+      SONAId: expFields.SONAId,
+      Condition: val('Condition'),
+      ItemId: val('ItemId'),
+      text_presentation_order: row.presentation_order != null && row.presentation_order !== '' ? Number(row.presentation_order) : '',
+      WordIndex: row.Index != null && row.Index !== '' ? row.Index : '',
+      Word: val('Word'),
+      responseTime: val('responseTime'),
+      sampleTimeMs: row.sampleTimeMs != null && row.sampleTimeMs !== '' ? Math.round(Number(row.sampleTimeMs)) : '',
+      mousePositionX: val('mousePositionX'),
+      mousePositionY: val('mousePositionY'),
+      wordPositionTop: val('wordPositionTop'),
+      wordPositionLeft: val('wordPositionLeft'),
+      wordPositionBottom: val('wordPositionBottom'),
+      wordPositionRight: val('wordPositionRight'),
+      line_number: val('line_number'),
+      position_in_line: val('position_in_line'),
+      response: responseByItem[itemId] != null ? responseByItem[itemId] : '',
+      response_correct: responseCorrectByItem[itemId] != null ? responseCorrectByItem[itemId] : '',
+      device: expFields.device,
+      hand: expFields.hand,
+      experiment_date: expFields.experiment_date,
+      experiment_start_date: expFields.experiment_start_date,
+      experiment_start_time: expFields.experiment_start_time,
+      experiment_start_clock_time: expFields.experiment_start_clock_time,
+      experiment_start_time_local: expFields.experiment_start_time_local,
+      experiment_end_date: expFields.experiment_end_date,
+      experiment_end_time: expFields.experiment_end_time,
+      experiment_end_clock_time: expFields.experiment_end_clock_time,
+      experiment_end_time_local: expFields.experiment_end_time_local,
+      experiment_duration: expFields.experiment_duration,
+      experiment_duration_ms: expFields.experiment_duration_ms,
+      experiment: expFields.experiment || (magpieConfig && (magpieConfig.experimentName || magpieConfig.experimentId || magpieConfig.name || 'MoTR_Click')),
+    };
+    applyOneStopExportFields(out, row, oneStopByItem);
+    return out;
+  });
+
+  rowsForCsv.sort((a, b) => {
+    const poA = a.text_presentation_order === '' ? Infinity : Number(a.text_presentation_order);
+    const poB = b.text_presentation_order === '' ? Infinity : Number(b.text_presentation_order);
+    if (poA !== poB) return poA - poB;
+    const rtA = a.responseTime !== '' ? Number(a.responseTime) : (a.sampleTimeMs !== '' ? Number(a.sampleTimeMs) : Infinity);
+    const rtB = b.responseTime !== '' ? Number(b.responseTime) : (b.sampleTimeMs !== '' ? Number(b.sampleTimeMs) : Infinity);
+    return rtA - rtB;
+  });
+
+  return stringify(rowsForCsv, {
+    columns: RAW_POSITION_CSV_COLUMNS,
+    header: true,
+  });
+}
 
 function buildFixationReport(allRows, participantId, expData, sessionTimes) {
   const fixationRows = allRows.filter(isFixationRow);
@@ -181,6 +284,7 @@ function buildFixationReport(allRows, participantId, expData, sessionTimes) {
   const expFields = getExpDataFields(expData, allRows, sessionTimes);
   const responseByItem = getResponseByItem(allRows);
   const responseCorrectByItem = getResponseCorrectByItem(allRows);
+  const oneStopByItem = getOneStopMetadataByItem(allRows);
 
   const rowsWithMeta = fixationRows.map(r => {
     const itemId = r.ItemId != null && r.ItemId !== '' ? r.ItemId : 'NO_ITEM';
@@ -204,7 +308,7 @@ function buildFixationReport(allRows, participantId, expData, sessionTimes) {
     byItemForFixation[id].push(row);
   }
   for (const itemId of Object.keys(byItemForFixation)) {
-    const group = byItemForFixation[itemId].slice().sort((a, b) => (a.responseTime || 0) - (b.responseTime || 0));
+    const group = byItemForFixation[itemId].slice().sort((a, b) => getRowTime(a) - getRowTime(b));
     let prevX = null;
     for (const r of group) {
       const x = r.mousePositionX != null && r.mousePositionX !== '' ? Number(r.mousePositionX) : null;
@@ -214,7 +318,7 @@ function buildFixationReport(allRows, participantId, expData, sessionTimes) {
       r.Regression = regression;
     }
     // Total viewing time for this text (first to last fixation).
-    const times = group.map(r => r.responseTime != null && r.responseTime !== '' ? Number(r.responseTime) : null).filter(t => t != null);
+    const times = group.map(r => getRowTime(r)).filter(t => t > 0);
     const textTotalViewingMs = times.length >= 2 ? String(Math.round(Math.max(...times) - Math.min(...times))) : '';
     for (const r of group) r.text_total_viewing_time_ms = textTotalViewingMs;
     // Saccade metrics from this fixation to the next within the same item.
@@ -251,6 +355,7 @@ function buildFixationReport(allRows, participantId, expData, sessionTimes) {
     out.participant_id = pid;
     out.SONAId = val('SONAId');
     out.Condition = val('Condition');
+    applyOneStopExportFields(out, row, oneStopByItem);
     out.ItemId = val('ItemId');
     out.text_presentation_order = row.presentation_order != null && row.presentation_order !== '' ? Number(row.presentation_order) : '';
     out.WordIndex = row.Index != null && row.Index !== '' ? row.Index : '';
@@ -314,12 +419,15 @@ function buildFixationReport(allRows, participantId, expData, sessionTimes) {
 }
 
 function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) {
-  const fixationRows = allRows.filter(isFixationRow);
-  if (fixationRows.length === 0) return '';
+  const hoverRowsAll = allRows.filter(isHoverAssociationRow);
+  const fixationRows = filterValidHoverRows(hoverRowsAll);
+  const rawSampleRowsAll = allRows.filter(isRawSampleRow);
+  if (fixationRows.length === 0 && rawSampleRowsAll.length === 0) return '';
   const pid = participantId != null && String(participantId) ? String(participantId) : '';
   const expFields = getExpDataFields(expData, allRows, sessionTimes);
   const responseByItem = getResponseByItem(allRows);
   const responseCorrectByItem = getResponseCorrectByItem(allRows);
+  const oneStopByItem = getOneStopMetadataByItem(allRows);
 
   const byItem = {};
   for (const row of fixationRows) {
@@ -328,15 +436,27 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
     byItem[id].push(row);
   }
 
+  const byItemAllRows = {};
+  for (const row of allRows) {
+    if (!isRawSampleRow(row) && !isHoverAssociationRow(row)) continue;
+    const id = row.ItemId != null && row.ItemId !== '' ? row.ItemId : 'NO_ITEM';
+    if (!byItemAllRows[id]) byItemAllRows[id] = [];
+    byItemAllRows[id].push(row);
+  }
+
+  for (const itemId of Object.keys(byItemAllRows)) {
+    if (!byItem[itemId]) byItem[itemId] = [];
+  }
+
   const reportRows = [];
   const firstTimeByItem = {};
-  for (const itemId of Object.keys(byItem)) {
-    const rowsForItem = byItem[itemId];
-    firstTimeByItem[itemId] = Math.min(...rowsForItem.map(r => r.responseTime || 0));
+  for (const itemId of Object.keys(byItemAllRows)) {
+    const rowsForItem = byItemAllRows[itemId];
+    firstTimeByItem[itemId] = Math.min(...rowsForItem.map(r => getRowTime(r) || 0));
   }
   const presentationOrderByItem = {};
-  for (const itemId of Object.keys(byItem)) {
-    const rowsForItem = byItem[itemId];
+  for (const itemId of Object.keys(byItemAllRows)) {
+    const rowsForItem = byItemAllRows[itemId];
     const firstWithOrder = rowsForItem.find(r => r.presentation_order != null && r.presentation_order !== '');
     if (firstWithOrder) {
       const val = Number(firstWithOrder.presentation_order);
@@ -345,7 +465,7 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
   }
 
   // Sort items primarily by text presentation order, fallback to first-click time.
-  const sortedItemIds = Object.keys(byItem).sort((a, b) => {
+  const sortedItemIds = Object.keys(byItemAllRows).sort((a, b) => {
     const pa = presentationOrderByItem[a];
     const pb = presentationOrderByItem[b];
     if (pa != null && pb != null && pa !== pb) return pa - pb;
@@ -359,14 +479,20 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
   let itemOrderCounter = 0;
   for (const itemId of sortedItemIds) {
     itemOrderCounter += 1;
-    const rows = byItem[itemId];
-    const fromTotal = Math.max(0, ...rows.map(r => r.totalWordsInItem).filter(w => w != null && w > 0));
-    const fromMaxIndex = Math.max(0, ...rows.map(r => (r.Index != null && r.Index >= 1 ? Number(r.Index) : 0)));
+    const rows = byItem[itemId] || [];
+    const itemAllRows = byItemAllRows[itemId] || [];
+    const fromTotal = Math.max(0, ...itemAllRows.map(r => r.totalWordsInItem).filter(w => w != null && w > 0));
+    const fromMaxIndex = Math.max(0, ...itemAllRows.map(r => (r.Index != null && r.Index >= 1 ? Number(r.Index) : 0)));
     const totalWords = fromTotal > 0 ? fromTotal : fromMaxIndex;
 
-    rows.sort((a, b) => (a.responseTime || 0) - (b.responseTime || 0));
-    const times = rows.map(r => r.responseTime != null && r.responseTime !== '' ? Number(r.responseTime) : null).filter(t => t != null);
+    rows.sort((a, b) => getRowTime(a) - getRowTime(b));
+    const times = itemAllRows.map(r => getRowTime(r)).filter(t => t > 0);
     const textTotalViewingMs = times.length >= 2 ? Math.round(Math.max(...times) - Math.min(...times)) : '';
+
+    const rawSampleRows = itemAllRows.filter(isRawSampleRow);
+    const hoverRows = filterValidHoverRows(itemAllRows.filter(isHoverAssociationRow));
+    const wilcoxAssociations = buildWilcoxAssociationsForItem(rawSampleRows, hoverRows);
+    const wilcoxGoPastByWord = computeWilcoxGoPastByWord(wilcoxAssociations);
 
     const wordIndices = new Set();
     for (let i = 1; i <= totalWords; i++) wordIndices.add(i);
@@ -379,6 +505,10 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
 
       const firstClick = clicks[0];
       const lastClick = clicks[clicks.length - 1];
+      const sumHoverDuration = (eventRows) => eventRows.reduce(
+        (sum, row) => sum + (getHoverDurationMs(row) || 0),
+        0
+      );
 
       let firstClickX = '';
       let firstClickY = '';
@@ -387,6 +517,7 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
       let nextClickRegression = '';
       let firstRunDwellMs = '';
       let goPastTimeMs = '';
+      let wilcoxFirstPassMs = '';
       let regressionIn = '';
       let regressionOut = '';
       let xDistanceFromPreviousClick = '';
@@ -405,8 +536,9 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
         if (firstClick.position_in_line != null && firstClick.position_in_line !== '') positionInLine = firstClick.position_in_line;
         firstClickX = firstClick.mousePositionX;
         firstClickY = firstClick.mousePositionY;
-        firstClickDurationMs = firstClick.clickDurationMs != null ? firstClick.clickDurationMs : '';
-        totalDurationMs = clicks.reduce((sum, c) => sum + (c.clickDurationMs != null ? c.clickDurationMs : 0), 0);
+        const firstDuration = getHoverDurationMs(firstClick);
+        firstClickDurationMs = firstDuration != null ? firstDuration : '';
+        totalDurationMs = sumHoverDuration(clicks);
         wordText = firstClick.Word != null ? firstClick.Word : '';
 
         const wordLeft = firstClick.wordPositionLeft;
@@ -450,7 +582,7 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
           }
         }
 
-        const prevClicks = rows.filter(r => (r.responseTime || 0) < (firstClick.responseTime || 0) && r.Index != null && Number(r.Index) !== wordIndex);
+        const prevClicks = rows.filter(r => getRowTime(r) < getRowTime(firstClick) && r.Index != null && Number(r.Index) !== wordIndex);
         const prevClick = prevClicks.length ? prevClicks[prevClicks.length - 1] : null;
         if (prevClick != null && prevClick.mousePositionX != null) {
           xDistanceFromPreviousClick = (firstClick.mousePositionX - prevClick.mousePositionX).toFixed(2);
@@ -459,12 +591,12 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
           }
         }
 
-        const nextClicks = rows.filter(r => (r.responseTime || 0) > (lastClick.responseTime || 0) && r.Index != null && Number(r.Index) !== wordIndex);
+        const nextClicks = rows.filter(r => getRowTime(r) > getRowTime(lastClick) && r.Index != null && Number(r.Index) !== wordIndex);
         const nextClick = nextClicks.length ? nextClicks[0] : null;
         if (nextClick != null && nextClick.Index != null) {
           nextClickRegression = Number(nextClick.Index) < wordIndex ? '1' : '0';
         }
-        // IA_FIRST_RUN_DWELL_TIME (gaze duration): sum of durations on this word before first exit.
+        // IA_FIRST_RUN_DWELL_TIME (gaze duration): sum of valid associations on this word before first exit.
         let inFirstRun = false;
         let firstRunDone = false;
         let firstRunSum = 0;
@@ -473,7 +605,7 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
           if (idx === wordIndex) {
             if (!firstRunDone) {
               inFirstRun = true;
-              firstRunSum += (r.clickDurationMs != null ? r.clickDurationMs : 0);
+              firstRunSum += getHoverDurationMs(r) || 0;
             }
           } else {
             if (inFirstRun) firstRunDone = true;
@@ -481,24 +613,24 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
           }
         }
         if (firstRunSum > 0) firstRunDwellMs = String(Math.round(firstRunSum));
-        // Go-past time: sum of fixations on this word until first forward exit (to a later word).
-        const firstClickTimeOnWord = Math.min(...clicks.map(c => c.responseTime || Infinity));
+        // Go-past time: sum of valid associations on this word until first forward exit (to a later word).
+        const firstClickTimeOnWord = Math.min(...clicks.map(c => getRowTime(c) || Infinity));
         const firstForwardExitTime = Math.min(
           ...rows
-            .filter(r => r.Index != null && Number(r.Index) > wordIndex && (r.responseTime || 0) > firstClickTimeOnWord)
-            .map(r => r.responseTime || Infinity)
+            .filter(r => r.Index != null && Number(r.Index) > wordIndex && getRowTime(r) > firstClickTimeOnWord)
+            .map(r => getRowTime(r) || Infinity)
         );
         if (Number.isFinite(firstForwardExitTime)) {
-          const gpSum = clicks
-            .filter(c => (c.responseTime || 0) < firstForwardExitTime)
-            .reduce((sum, c) => sum + (c.clickDurationMs != null ? c.clickDurationMs : 0), 0);
+          const gpSum = sumHoverDuration(
+            clicks.filter(c => getRowTime(c) < firstForwardExitTime)
+          );
           goPastTimeMs = String(Math.round(gpSum));
         } else {
           goPastTimeMs = totalDurationMs !== '' ? String(Math.round(totalDurationMs)) : '';
         }
         // IA_REGRESSION_IN: any entry into this word from a later word.
         for (const c of clicks) {
-          const prevClicksAll = rows.filter(r => (r.responseTime || 0) < (c.responseTime || 0));
+          const prevClicksAll = rows.filter(r => getRowTime(r) < getRowTime(c));
           const prev = prevClicksAll.length ? prevClicksAll[prevClicksAll.length - 1] : null;
           if (prev != null && prev.Index != null && Number(prev.Index) > wordIndex) {
             regressionIn = '1';
@@ -508,7 +640,7 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
         if (regressionIn === '') regressionIn = '0';
         // IA_REGRESSION_OUT: any saccade from this word to an earlier word.
         for (const c of clicks) {
-          const nextAll = rows.filter(r => (r.responseTime || 0) > (c.responseTime || 0));
+          const nextAll = rows.filter(r => getRowTime(r) > getRowTime(c));
           const next = nextAll.length ? nextAll[0] : null;
           if (next != null && next.Index != null && Number(next.Index) < wordIndex) {
             regressionOut = '1';
@@ -518,14 +650,19 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
         if (regressionOut === '') regressionOut = '0';
       }
 
+      if (wilcoxGoPastByWord.has(wordIndex)) {
+        wilcoxFirstPassMs = String(wilcoxGoPastByWord.get(wordIndex));
+      }
+
       // If there was no click on this word (skipped), we currently leave `word` empty.
 
-      const experiment = (rows[0] && rows[0].Experiment) != null ? rows[0].Experiment : '';
-      const condition = (rows[0] && rows[0].Condition) != null ? rows[0].Condition : '';
+      const experiment = (itemAllRows[0] && itemAllRows[0].Experiment) != null ? itemAllRows[0].Experiment : '';
+      const condition = (itemAllRows[0] && itemAllRows[0].Condition) != null ? itemAllRows[0].Condition : '';
 
       const response = responseByItem[itemId] != null ? responseByItem[itemId] : '';
       const responseCorrect = responseCorrectByItem[itemId] != null ? responseCorrectByItem[itemId] : '';
-      reportRows.push({
+      const metaSource = firstClick || itemAllRows[0] || { ItemId: itemId, Condition: condition };
+      const reportRow = {
         participant_id: pid,
         response,
         response_correct: responseCorrect,
@@ -559,6 +696,7 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
         IA_DWELL_TIME: totalDurationMs,
         IA_FIRST_FIXATION_DURATION: firstClickDurationMs,
         go_past_time_ms: goPastTimeMs,
+        'Wilcox first pass': wilcoxFirstPassMs,
         IA_REGRESSION_IN: regressionIn,
         IA_REGRESSION_OUT: regressionOut,
         text_total_viewing_time_ms: textTotalViewingMs === '' ? '' : String(textTotalViewingMs),
@@ -573,7 +711,9 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
         first_click_x_from_word_center_chars: firstClickXFromWordCenterChars,
         first_click_x_from_line_start_px: firstClickXFromLineStartPx,
         first_click_x_from_line_start_chars: firstClickXFromLineStartChars
-      });
+      };
+      applyOneStopExportFields(reportRow, metaSource, oneStopByItem);
+      reportRows.push(reportRow);
     }
   }
 
@@ -585,6 +725,9 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
       participant_id: val('participant_id'),
       SONAId: val('SONAId'),
       Condition: val('Condition'),
+      onestop_level: val('onestop_level'),
+      onestop_article_number: val('onestop_article_number'),
+      onestop_paragraph_number: val('onestop_paragraph_number'),
       ItemId: val('ItemId'),
       text_presentation_order: val('text_presentation_order'),
       word_index: val('word_index'),
@@ -601,6 +744,7 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
       IA_DWELL_TIME: val('IA_DWELL_TIME'),
       IA_FIRST_FIXATION_DURATION: val('IA_FIRST_FIXATION_DURATION'),
       go_past_time_ms: val('go_past_time_ms'),
+      'Wilcox first pass': val('Wilcox first pass'),
       IA_REGRESSION_IN: val('IA_REGRESSION_IN'),
       IA_REGRESSION_OUT: val('IA_REGRESSION_OUT'),
       text_total_viewing_time_ms: val('text_total_viewing_time_ms'),
@@ -658,6 +802,7 @@ function getResultsFolderName(participantId) {
 function buildRawTrialDataCsv(allRows) {
   if (!Array.isArray(allRows) || allRows.length === 0) return '';
   const excludeKeys = new Set(['allWords']);
+  const oneStopByItem = getOneStopMetadataByItem(allRows);
   const columns = [];
   for (const row of allRows) {
     if (!row || typeof row !== 'object') continue;
@@ -667,21 +812,24 @@ function buildRawTrialDataCsv(allRows) {
     }
   }
   if (columns.length === 0) return '';
+  const orderedColumns = orderRawTrialColumns(columns);
   const filteredRows = allRows.map((row) => {
     if (!row || typeof row !== 'object') return row;
     const out = {};
-    for (const key of columns) {
+    for (const key of orderedColumns) {
       out[key] = row[key];
     }
+    applyOneStopExportFields(out, row, oneStopByItem);
     return out;
   });
-  return stringify(filteredRows, { columns, header: true });
+  return stringify(filteredRows, { columns: orderedColumns, header: true });
 }
 
 export {
   generateUniqueAlphanumericId,
   buildFixationReport,
   buildInterestAreaReport,
+  buildRawPositionReport,
   buildRawTrialDataCsv,
   getResultsFolderName,
   localDateString,

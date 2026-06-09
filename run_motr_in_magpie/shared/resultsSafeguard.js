@@ -3,6 +3,7 @@ import magpieConfig from '@magpie-config';
 import {
   buildFixationReport,
   buildInterestAreaReport,
+  buildRawPositionReport,
   buildRawTrialDataCsv,
   generateUniqueAlphanumericId,
   localDateString,
@@ -130,12 +131,17 @@ function buildCheckpointManifest(session, context) {
 export function buildCompleteResultsFiles(allRows, participantId, expData, sessionTimes) {
   const fixationCsv = buildFixationReport(allRows, participantId, expData, sessionTimes);
   const interestAreaCsv = buildInterestAreaReport(allRows, participantId, expData, sessionTimes);
+  const rawPositionCsv = buildRawPositionReport(allRows, participantId, expData, sessionTimes);
   const rawTrialCsv = buildRawTrialDataCsv(allRows);
-  return [
+  const files = [
     { name: 'fixation_report.csv', content: fixationCsv },
     { name: 'interest_area_report.csv', content: interestAreaCsv },
     { name: 'raw_trial_data.csv', content: rawTrialCsv },
   ];
+  if (rawPositionCsv) {
+    files.push({ name: 'raw_position_samples.csv', content: rawPositionCsv });
+  }
+  return files;
 }
 
 export async function uploadCompleteResults(context, sessionTimes, resultsScope = 'complete') {
@@ -209,18 +215,31 @@ export async function uploadReadingTrialCheckpoint(vm, trial, trialIndex, studyC
     context.expData,
     sessionTimes
   );
+  const rawPositionCsv = buildRawPositionReport(
+    trialRows,
+    context.participantId,
+    context.expData,
+    sessionTimes
+  );
   const rawCsv = buildRawTrialDataCsv(trialRows);
   const manifest = buildCheckpointManifest(session, context);
+  const checkpointFiles = [
+    { name: `trials/trial_${trialNum}_fixation.csv`, content: fixationCsv },
+    { name: `trials/trial_${trialNum}_raw.csv`, content: rawCsv },
+    { name: 'checkpoint_manifest.json', content: manifest },
+  ];
+  if (rawPositionCsv) {
+    checkpointFiles.splice(1, 0, {
+      name: `trials/trial_${trialNum}_raw_position_samples.csv`,
+      content: rawPositionCsv,
+    });
+  }
 
   await uploadResultsFiles(
     context.uploadUrl,
     context.participantId,
     context.folderName,
-    [
-      { name: `trials/trial_${trialNum}_fixation.csv`, content: fixationCsv },
-      { name: `trials/trial_${trialNum}_raw.csv`, content: rawCsv },
-      { name: 'checkpoint_manifest.json', content: manifest },
-    ],
+    checkpointFiles,
     context.isTest,
     context.githubResultsPath,
     'partial'
