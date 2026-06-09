@@ -91,38 +91,38 @@
             <input v-if="trial.onestop_manual_article_numbers" type="hidden" class="onestop_manual_article_numbers" :value="trial.onestop_manual_article_numbers">
           </form>
           <div class="oval-cursor"></div>
-          <template>
-            <div v-if="showFirstDiv" class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
-              <template v-for="(word, index) of trial.text.split(' ')">
-                <span :key="index" :data-index="index + 1" >
-                  {{ word }}
-                </span>
-              </template>
+          <div class="trial-slide-layout">
+            <div class="trial-text-region">
+              <div class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;">
+                {{ trial.text }}
+              </div>
+              <div v-if="showFirstDiv" class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
+                <template v-for="(word, index) of trial.text.split(' ')">
+                  <span :key="index" :data-index="index + 1">
+                    {{ word }}
+                  </span>
+                </template>
+              </div>
             </div>
-            <div class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;"> 
-              {{trial.text}}
-            </div>
-          </template>
-          <button v-if="showFirstDiv" class="trial-done-btn" @click="toggleDivs" :disabled="!isCursorMoving">
-          Done
-          </button>
 
-          <div v-else class="trial-comprehension-panel">
-            <template>
+            <div v-if="!showFirstDiv" class="trial-comprehension-panel">
               <form>
-                <!-- comprehension questions and the response options -->
                 <div>{{ (trial.question || '').replace(/ ?["]+/g, '') }}</div>
-                <template v-for='(word, index) of trial.response_options'>
+                <template v-for="(word, index) of trial.response_options">
                   <input :id="'opt_'+index" type="radio" :value="word" name="opt" v-model="$magpie.measurements.response"/>{{ word }}<br/>
-                    <!-- <label :for="'opt_'+index"> {{ word }}&nbsp</label> -->
                 </template>
               </form>
-            </template>
+            </div>
+
+            <div class="trial-actions">
+              <button v-if="showFirstDiv" type="button" class="trial-done-btn" @click="toggleDivs" :disabled="!isCursorMoving">
+                Done
+              </button>
+              <button v-if="!showFirstDiv && $magpie.measurements.response" type="button" class="trial-next-btn" @click="submitTrialResponse(trial, i)">
+                Next
+              </button>
+            </div>
           </div>
-          
-          <button v-if="!showFirstDiv && $magpie.measurements.response" type="button" class="trial-next-btn" @click="submitTrialResponse(trial, i)">
-            Next
-          </button>
         </Slide>
       </Screen>
     </template>
@@ -743,20 +743,49 @@ export default {
     align-items: center;
     justify-content: center;
   }
+  .motr-root .experiment:has(.main_screen) {
+    width: min(1000px, 94vw);
+    min-height: 88vh;
+    align-items: stretch;
+  }
   .main_screen {
     isolation: isolate;
     position: relative;
     width: 100%;
     height: auto;
+    min-height: 80vh;
     font-size: 18px;
     line-height: 40px;
+    display: flex;
+    flex-direction: column;
+  }
+  .trial-slide-layout {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    width: 100%;
+    min-height: 75vh;
+  }
+  .trial-text-region {
+    position: relative;
+    flex: 0 0 auto;
+    width: 100%;
+  }
+  .trial-actions {
+    flex: 0 0 auto;
+    margin-top: auto;
+    padding: 1.25rem 0 0.5rem;
+    text-align: center;
   }
   .debugResults{
     width: 100%;
   }
   .readingText {
-    /* z-index: 1; */
     position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
     color: white;
     text-align: left;
     font-weight: 450;
@@ -771,21 +800,23 @@ export default {
     bottom: 0;
     left: 50%;
   }
-  .trial-done-btn,
-  .trial-next-btn {
-    bottom: 2%;
-    transform: translateX(-50%);
+  .trial-actions .trial-done-btn,
+  .trial-actions .trial-next-btn {
+    position: relative;
+    bottom: auto;
+    left: auto;
+    transform: none;
     z-index: 3;
+    display: inline-block;
+    margin: 0 auto;
   }
   .trial-comprehension-panel {
-    position: absolute;
-    bottom: 8%;
-    left: 11%;
-    right: 11%;
+    flex: 0 0 auto;
+    margin-top: 1.25rem;
+    padding: 0.75rem 11% 0.25rem;
     text-align: center;
-    width: auto;
-    min-width: -webkit-fill-available;
-    padding-bottom: 3.5rem;
+    width: 100%;
+    box-sizing: border-box;
   }
   .oval-cursor {
     position: fixed;
@@ -820,7 +851,7 @@ export default {
     border-radius: 50%;
 }
   .blurry-layer {
-    position: absolute;
+    position: relative;
     pointer-events: none;
     color: black;
     text-align: left;
@@ -829,6 +860,8 @@ export default {
     padding-bottom: 2%;
     padding-left: 11%;
     padding-right: 11%;
+    width: 100%;
+    box-sizing: border-box;
   }
 
   * {
