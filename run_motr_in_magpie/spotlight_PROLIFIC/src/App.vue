@@ -90,7 +90,6 @@
             <input v-if="trial.onestop_article_selection_mode" type="hidden" class="onestop_article_selection_mode" :value="trial.onestop_article_selection_mode">
             <input v-if="trial.onestop_manual_article_numbers" type="hidden" class="onestop_manual_article_numbers" :value="trial.onestop_manual_article_numbers">
           </form>
-          <div class="oval-cursor"></div>
           <div class="trial-slide-layout">
             <div class="trial-text-region">
               <div class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;">
@@ -103,6 +102,7 @@
                   </span>
                 </template>
               </div>
+              <div class="oval-cursor"></div>
             </div>
 
             <div v-if="!showFirstDiv" class="trial-comprehension-panel">
@@ -757,7 +757,6 @@ export default {
     align-items: stretch;
   }
   .main_screen {
-    isolation: isolate;
     position: relative;
     width: 100%;
     height: auto;
@@ -793,7 +792,6 @@ export default {
     top: 0;
     left: 0;
     right: 0;
-    z-index: 1;
     color: white;
     text-align: left;
     font-weight: 450;
@@ -802,6 +800,7 @@ export default {
     padding-bottom: 2%;
     padding-left: 11%;
     padding-right: 11%;
+    pointer-events: auto;
   }
   button {
     position: absolute;
@@ -845,6 +844,9 @@ export default {
     background-blend-mode: screen;
     pointer-events: none;
     filter: blur(3px);
+  }
+  .oval-cursor.grow.blank::before {
+    opacity: 0;
   }
   .oval-cursor.grow::before {
     content: "";
