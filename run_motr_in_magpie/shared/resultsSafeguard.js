@@ -190,47 +190,53 @@ export async function downloadResultsFiles(files, folderName) {
   triggerBlobDownload(blob, `${folderName || 'motr_results'}.zip`);
 }
 
-export function uploadReadingTrialCheckpoint(vm, trial, trialIndex, studyConfig) {
-  (async () => {
-    try {
-      const context = resolveExportContext(vm, studyConfig);
-      const session = getResultsSession(vm);
-      if (!context.uploadUrl || !session) return;
+export async function uploadReadingTrialCheckpoint(vm, trial, trialIndex, studyConfig) {
+  const context = resolveExportContext(vm, studyConfig);
+  const session = getResultsSession(vm);
+  if (!context.uploadUrl || !session) return;
 
-      if (!Array.isArray(session.trialsCompleted)) session.trialsCompleted = [];
-      if (!session.trialsCompleted.includes(trialIndex)) {
-        session.trialsCompleted.push(trialIndex);
-      }
+  if (!Array.isArray(session.trialsCompleted)) session.trialsCompleted = [];
+  if (!session.trialsCompleted.includes(trialIndex)) {
+    session.trialsCompleted.push(trialIndex);
+  }
 
-      const trialRows = filterRowsForTrial(context.allRows, trial);
-      const sessionTimes = buildCheckpointSessionTimes(vm);
-      const trialNum = String(trialIndex + 1).padStart(2, '0');
-      const fixationCsv = buildFixationReport(
-        trialRows,
-        context.participantId,
-        context.expData,
-        sessionTimes
-      );
-      const rawCsv = buildRawTrialDataCsv(trialRows);
-      const manifest = buildCheckpointManifest(session, context);
+  const trialRows = filterRowsForTrial(context.allRows, trial);
+  const sessionTimes = buildCheckpointSessionTimes(vm);
+  const trialNum = String(trialIndex + 1).padStart(2, '0');
+  const fixationCsv = buildFixationReport(
+    trialRows,
+    context.participantId,
+    context.expData,
+    sessionTimes
+  );
+  const rawCsv = buildRawTrialDataCsv(trialRows);
+  const manifest = buildCheckpointManifest(session, context);
 
-      await uploadResultsFiles(
-        context.uploadUrl,
-        context.participantId,
-        context.folderName,
-        [
-          { name: `trials/trial_${trialNum}_fixation.csv`, content: fixationCsv },
-          { name: `trials/trial_${trialNum}_raw.csv`, content: rawCsv },
-          { name: 'checkpoint_manifest.json', content: manifest },
-        ],
-        context.isTest,
-        context.githubResultsPath,
-        'partial'
-      );
-    } catch (err) {
+  await uploadResultsFiles(
+    context.uploadUrl,
+    context.participantId,
+    context.folderName,
+    [
+      { name: `trials/trial_${trialNum}_fixation.csv`, content: fixationCsv },
+      { name: `trials/trial_${trialNum}_raw.csv`, content: rawCsv },
+      { name: 'checkpoint_manifest.json', content: manifest },
+    ],
+    context.isTest,
+    context.githubResultsPath,
+    'partial'
+  );
+}
+
+/** Run checkpoint upload and IndexedDB snapshot after the UI advances (non-blocking). */
+export function deferReadingTrialSafeguards(vm, trial, trialIndex, studyConfig) {
+  queueMicrotask(() => {
+    uploadReadingTrialCheckpoint(vm, trial, trialIndex, studyConfig).catch((err) => {
       console.warn('Trial checkpoint upload failed:', err);
-    }
-  })();
+    });
+    persistResultsSnapshot(vm, studyConfig).catch((err) => {
+      console.warn('Results snapshot failed:', err);
+    });
+  });
 }
 
 export async function persistResultsSnapshot(vm, studyConfig) {

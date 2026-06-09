@@ -120,7 +120,7 @@
             </template>
           </div>
           
-          <button v-if="!showFirstDiv && $magpie.measurements.response" class="trial-next-btn" @click="recordResponse(trial, i); $magpie.saveAndNextScreen()">
+          <button v-if="!showFirstDiv && $magpie.measurements.response" type="button" class="trial-next-btn" @click="submitTrialResponse(trial, i)">
             Next
           </button>
         </Slide>
@@ -165,9 +165,8 @@ import {
 } from '@motr-shared/cambridgeGeneralEnglish';
 import ExportReportsScreen from '@motr-shared/components/ExportReportsScreen.vue';
 import {
+  deferReadingTrialSafeguards,
   initResultsSession,
-  persistResultsSnapshot,
-  uploadReadingTrialCheckpoint,
 } from '@motr-shared/resultsSafeguard';
 import DemographicsOneStopQuestionnaire from '@motr-shared/components/DemographicsOneStopQuestionnaire.vue';
 import ConsentSONA from './components/ConsentSONA.vue';
@@ -657,7 +656,7 @@ export default {
       initResultsSession(this, studyConfig);
       this.$magpie.nextScreen();
     },
-    recordResponse(trial, trialIndex) {
+    recordResponse(trial) {
       const m = this.$magpie && this.$magpie.measurements ? this.$magpie.measurements : null;
       if (!m || !m.response) return;
       const itemId = trial.item_id != null ? trial.item_id : trial.ItemId;
@@ -669,8 +668,16 @@ export default {
         response: selectedResponse,
         response_correct: responseCorrect
       });
-      uploadReadingTrialCheckpoint(this, trial, trialIndex, studyConfig).catch(console.warn);
-      persistResultsSnapshot(this, studyConfig).catch(console.warn);
+    },
+    submitTrialResponse(trial, trialIndex) {
+      try {
+        this.recordResponse(trial);
+      } catch (err) {
+        console.warn('recordResponse failed:', err);
+      } finally {
+        this.$magpie.saveAndNextScreen();
+        deferReadingTrialSafeguards(this, trial, trialIndex, studyConfig);
+      }
     },
     cambridgePageComplete(page) {
       return page.every((item) => this.cambridgeSelected[item.globalIndex]);
