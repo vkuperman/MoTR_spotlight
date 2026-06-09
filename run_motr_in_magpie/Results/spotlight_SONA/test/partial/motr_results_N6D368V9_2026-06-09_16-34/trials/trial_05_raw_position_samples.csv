@@ -1,0 +1,328 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+N6D368V9,,2,int,23,4,4,5,-1,,673,152541,375,352,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,720,152587,375,352,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,772,152640,375,352,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,824,152691,309,100,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,872,152740,318,101,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,924,152792,364,115,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,1, On ,975,152842,404,128,109.26250457763672,382.6125183105469,129.26250457763672,411.63751792907715,1,1,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,1, On ,1019,152886,407,128,109.26250457763672,382.6125183105469,129.26250457763672,411.63751792907715,1,1,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,2, top ,1074,152941,422,128,109.26250457763672,411.63751220703125,129.26250457763672,441.6625118255615,1,2,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,3, of ,1125,152992,457,127,109.26250457763672,441.6625061035156,129.26250457763672,461.6875057220459,1,3,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,5, scientific ,1175,153042,502,132,109.26250457763672,491.7124938964844,129.26250457763672,565.7374954223633,1,5,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,22, reconstructions ,1225,153092,581,143,149.2624969482422,475.6875,169.2624969482422,602.75,2,5,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,22, reconstructions ,1272,153139,581,143,149.2624969482422,475.6875,169.2624969482422,602.75,2,5,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,22, reconstructions ,1323,153190,581,143,149.2624969482422,475.6875,169.2624969482422,602.75,2,5,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,22, reconstructions ,1372,153239,581,143,149.2624969482422,475.6875,169.2624969482422,602.75,2,5,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,22, reconstructions ,1422,153289,581,143,149.2624969482422,475.6875,169.2624969482422,602.75,2,5,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,22, reconstructions ,1472,153339,581,143,149.2624969482422,475.6875,169.2624969482422,602.75,2,5,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,22, reconstructions ,1520,153387,581,143,149.2624969482422,475.6875,169.2624969482422,602.75,2,5,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,25, people ,1574,153442,674,143,149.2624969482422,671.8125,169.2624969482422,730.875,2,8,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,25, people ,1622,153490,712,144,149.2624969482422,671.8125,169.2624969482422,730.875,2,8,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,26, hunting ,1675,153542,783,146,149.2624969482422,730.875,169.2624969482422,794.9375,2,9,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,28, gathering ,1725,153593,835,144,149.2624969482422,829.9750366210938,169.2624969482422,910.0375366210938,2,11,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,28, gathering ,1775,153642,882,142,149.2624969482422,829.9750366210938,169.2624969482422,910.0375366210938,2,11,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,29, and ,1825,153692,923,140,149.2624969482422,910.0375366210938,169.2624969482422,945.0750389099121,2,12,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,13, drawings ,1875,153742,943,138,109.26250457763672,893.9249877929688,129.26250457763672,970.9624862670898,1,13,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,13, drawings ,1918,153786,946,138,109.26250457763672,893.9249877929688,129.26250457763672,970.9624862670898,1,13,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,29, and ,1975,153842,940,156,149.2624969482422,910.0375366210938,169.2624969482422,945.0750389099121,2,12,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,70, different ,2025,153892,865,264,269.26251220703125,799.9125366210938,289.26251220703125,869.6375350952148,5,8,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,100, and ,2075,153943,821,379,349.26251220703125,814.9125366210938,369.26251220703125,849.9500389099121,7,9,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,2123,153990,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,2169,154036,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,2222,154089,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,2271,154138,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,2322,154189,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,2369,154237,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,2422,154289,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,2471,154339,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,2522,154389,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,2572,154439,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,2622,154489,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,2672,154539,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,2721,154588,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,2772,154639,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,2821,154689,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,2872,154739,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,2922,154789,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,2968,154836,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3021,154889,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3072,154939,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3122,154990,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3169,155036,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3221,155088,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3272,155139,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3321,155189,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3368,155236,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3422,155289,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3469,155337,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3522,155389,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3572,155439,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3621,155489,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3670,155537,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3722,155590,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3771,155638,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3823,155690,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3870,155738,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3923,155790,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,3972,155839,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4022,155889,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4071,155938,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4122,155990,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4172,156039,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4222,156089,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4272,156140,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4321,156189,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4372,156240,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4421,156289,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4472,156339,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4521,156389,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4572,156439,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4622,156489,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4671,156538,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4721,156589,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4772,156640,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4821,156688,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4871,156739,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4922,156790,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,4972,156839,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5022,156889,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5071,156938,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5122,156989,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5172,157039,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5222,157089,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5271,157139,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5322,157189,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5372,157239,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5422,157290,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5471,157339,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5521,157389,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5572,157439,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5622,157489,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5671,157539,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5722,157589,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5772,157639,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5822,157689,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5871,157739,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5921,157788,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,5972,157839,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6022,157889,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6071,157938,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6122,157989,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6172,158039,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6222,158089,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6272,158139,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6321,158188,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6371,158239,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6421,158289,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6471,158338,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6522,158389,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6571,158439,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6621,158489,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6672,158539,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6722,158589,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6772,158639,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6822,158689,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6871,158739,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6922,158789,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,6972,158839,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7020,158887,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7072,158940,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7122,158989,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7171,159039,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7221,159088,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7272,159139,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7321,159189,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7372,159239,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7422,159289,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7472,159339,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7522,159389,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7569,159437,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7621,159489,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7672,159539,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7721,159589,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7772,159639,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7822,159689,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7872,159739,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7922,159789,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,7972,159839,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8022,159889,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8072,159939,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8121,159989,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8171,160038,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8222,160089,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8271,160139,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8322,160189,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8372,160239,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8422,160289,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8472,160339,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8522,160390,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8572,160440,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8621,160488,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8672,160539,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8722,160590,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8772,160639,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8821,160689,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8871,160738,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8922,160789,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,8971,160839,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9021,160889,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9072,160939,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9122,160989,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9172,161039,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9222,161089,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9272,161139,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9322,161189,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9371,161239,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9422,161289,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9471,161339,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9521,161389,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9572,161439,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9618,161485,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9672,161539,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9721,161589,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9772,161639,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9822,161689,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9871,161738,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9922,161789,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,9971,161838,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,10020,161888,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,10071,161939,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,10121,161989,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,10172,162039,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,10219,162087,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,10272,162139,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,10321,162188,823,397,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,68, Europeans ,10375,162243,688,288,269.26251220703125,666.8250122070312,289.26251220703125,758.900016784668,5,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,38, You ,10425,162292,592,196,189.2624969482422,591.4125366210938,209.2624969482422,626.8000373840332,3,5,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,37, skin. ,10473,162340,581,182,189.2624969482422,549.7250366210938,209.2624969482422,591.4125366210938,3,4,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,23, of ,10526,162393,614,168,149.2624969482422,602.75,169.2624969482422,622.7749996185303,2,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,25, people ,10573,162440,691,176,149.2624969482422,671.8125,169.2624969482422,730.875,2,8,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,42, reconstruction ,10624,162491,760,195,189.2624969482422,725.875,209.2624969482422,843.9375,3,9,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,42, reconstruction ,10674,162541,741,180,189.2624969482422,725.875,209.2624969482422,843.9375,3,9,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,7, artists ,10726,162593,646,131,109.26250457763672,628.7625122070312,129.26250457763672,681.7750129699707,1,7,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,6," impact, ",10770,162637,607,116,109.26250457763672,565.7374877929688,129.26250457763672,628.7624893188477,1,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,6," impact, ",10820,162688,603,115,109.26250457763672,565.7374877929688,129.26250457763672,628.7624893188477,1,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,24, these ,10875,162742,624,146,149.2624969482422,622.7750244140625,169.2624969482422,671.8125267028809,2,7,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,24, these ,10923,162790,630,153,149.2624969482422,622.7750244140625,169.2624969482422,671.8125267028809,2,7,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,24, these ,10970,162838,632,153,149.2624969482422,622.7750244140625,169.2624969482422,671.8125267028809,2,7,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,24, these ,11022,162889,632,153,149.2624969482422,622.7750244140625,169.2624969482422,671.8125267028809,2,7,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,24, these ,11072,162939,632,153,149.2624969482422,622.7750244140625,169.2624969482422,671.8125267028809,2,7,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,24, these ,11122,162989,632,153,149.2624969482422,622.7750244140625,169.2624969482422,671.8125267028809,2,7,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,24, these ,11170,163037,632,153,149.2624969482422,622.7750244140625,169.2624969482422,671.8125267028809,2,7,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,24, these ,11223,163090,632,153,149.2624969482422,622.7750244140625,169.2624969482422,671.8125267028809,2,7,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,24, these ,11273,163140,634,156,149.2624969482422,622.7750244140625,169.2624969482422,671.8125267028809,2,7,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,24, these ,11324,163192,670,166,149.2624969482422,622.7750244140625,169.2624969482422,671.8125267028809,2,7,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,26, hunting ,11373,163240,738,169,149.2624969482422,730.875,169.2624969482422,794.9375,2,9,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,27, and ,11425,163292,805,159,149.2624969482422,794.9375,169.2624969482422,829.9750022888184,2,10,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,27, and ,11468,163336,808,154,149.2624969482422,794.9375,169.2624969482422,829.9750022888184,2,10,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,8, might ,11525,163393,723,115,109.26250457763672,681.7750244140625,129.26250457763672,730.8000259399414,1,8,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,22, reconstructions ,11575,163443,552,159,149.2624969482422,475.6875,169.2624969482422,602.75,2,5,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,50, and ,11625,163492,486,228,229.2624969482422,459.6499938964844,249.2624969482422,494.68749618530273,4,3,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,50, and ,11669,163536,480,252,229.2624969482422,459.6499938964844,249.2624969482422,494.68749618530273,4,3,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,65, those ,11726,163593,565,267,269.26251220703125,531.7250366210938,289.26251220703125,580.7625389099121,5,3,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,11775,163643,643,251,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,11821,163689,656,244,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,11872,163739,657,244,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,11923,163790,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,11968,163836,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,12022,163890,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,12072,163939,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,12122,163989,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,12172,164039,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,12219,164086,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,12272,164139,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,12322,164189,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,12373,164240,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,12422,164290,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,12471,164339,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,12523,164390,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,12572,164439,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,12622,164490,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,12672,164539,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,12722,164590,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,12772,164640,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,12823,164690,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,53, Lalueza-Fox ,12871,164738,643,238,229.2624969482422,587.75,249.2624969482422,691.8125,4,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,22, reconstructions ,12924,164792,522,153,149.2624969482422,475.6875,169.2624969482422,602.75,2,5,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,12974,164841,465,101,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,13018,164886,465,101,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,13070,164937,465,101,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,13119,164986,465,101,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,13169,165036,465,101,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,13221,165089,465,101,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,13272,165140,465,101,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,13322,165190,465,101,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,13373,165241,395,84,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,13422,165289,396,87,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,13468,165335,396,87,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,13523,165390,394,88,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,13571,165439,393,88,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,13619,165486,392,97,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,1, On ,13669,165536,392,120,109.26250457763672,382.6125183105469,129.26250457763672,411.63751792907715,1,1,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,18, see ,13725,165592,400,140,149.2624969482422,382.6125183105469,169.2624969482422,416.6375198364258,2,1,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,18, see ,13774,165641,405,147,149.2624969482422,382.6125183105469,169.2624969482422,416.6375198364258,2,1,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,18, see ,13823,165690,406,148,149.2624969482422,382.6125183105469,169.2624969482422,416.6375198364258,2,1,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,18, see ,13868,165736,408,147,149.2624969482422,382.6125183105469,169.2624969482422,416.6375198364258,2,1,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,18, see ,13920,165788,408,143,149.2624969482422,382.6125183105469,169.2624969482422,416.6375198364258,2,1,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,1, On ,13971,165839,402,128,109.26250457763672,382.6125183105469,129.26250457763672,411.63751792907715,1,1,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,1, On ,14018,165885,396,116,109.26250457763672,382.6125183105469,129.26250457763672,411.63751792907715,1,1,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,1, On ,14069,165937,394,116,109.26250457763672,382.6125183105469,129.26250457763672,411.63751792907715,1,1,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,1, On ,14123,165990,393,116,109.26250457763672,382.6125183105469,129.26250457763672,411.63751792907715,1,1,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,1, On ,14169,166036,393,116,109.26250457763672,382.6125183105469,129.26250457763672,411.63751792907715,1,1,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,1, On ,14222,166090,393,116,109.26250457763672,382.6125183105469,129.26250457763672,411.63751792907715,1,1,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,1, On ,14275,166142,409,119,109.26250457763672,382.6125183105469,129.26250457763672,411.63751792907715,1,1,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,3, of ,14325,166193,457,114,109.26250457763672,441.6625061035156,129.26250457763672,461.6875057220459,1,3,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,4, the ,14375,166242,467,114,109.26250457763672,461.6875,129.26250457763672,491.7124996185303,1,4,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,5, scientific ,14425,166292,494,114,109.26250457763672,491.7124938964844,129.26250457763672,565.7374954223633,1,5,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,5, scientific ,14475,166342,553,108,109.26250457763672,491.7124938964844,129.26250457763672,565.7374954223633,1,5,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,6," impact, ",14526,166393,596,106,109.26250457763672,565.7374877929688,129.26250457763672,628.7624893188477,1,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,6," impact, ",14575,166442,611,108,109.26250457763672,565.7374877929688,129.26250457763672,628.7624893188477,1,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,6," impact, ",14619,166486,612,109,109.26250457763672,565.7374877929688,129.26250457763672,628.7624893188477,1,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,6," impact, ",14669,166536,612,109,109.26250457763672,565.7374877929688,129.26250457763672,628.7624893188477,1,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,6," impact, ",14722,166590,612,109,109.26250457763672,565.7374877929688,129.26250457763672,628.7624893188477,1,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,6," impact, ",14772,166639,612,109,109.26250457763672,565.7374877929688,129.26250457763672,628.7624893188477,1,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,6," impact, ",14821,166689,612,109,109.26250457763672,565.7374877929688,129.26250457763672,628.7624893188477,1,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,6," impact, ",14872,166739,612,109,109.26250457763672,565.7374877929688,129.26250457763672,628.7624893188477,1,6,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,7, artists ,14926,166794,665,114,109.26250457763672,628.7625122070312,129.26250457763672,681.7750129699707,1,7,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,8, might ,14972,166839,688,116,109.26250457763672,681.7750244140625,129.26250457763672,730.8000259399414,1,8,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,9, have ,15023,166891,743,117,109.26250457763672,730.7999877929688,129.26250457763672,774.8374900817871,1,9,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,9, have ,15070,166937,768,117,109.26250457763672,730.7999877929688,129.26250457763672,774.8374900817871,1,9,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,11, rethink ,15125,166992,800,119,109.26250457763672,794.8624877929688,129.26250457763672,853.8999900817871,1,11,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,11, rethink ,15174,167042,831,120,109.26250457763672,794.8624877929688,129.26250457763672,853.8999900817871,1,11,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,12, their ,15224,167092,874,117,109.26250457763672,853.9000244140625,129.26250457763672,893.9250259399414,1,12,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,13, drawings ,15275,167142,938,108,109.26250457763672,893.9249877929688,129.26250457763672,970.9624862670898,1,13,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,15, the ,15325,167192,1004,104,109.26250457763672,990.9874877929688,129.26250457763672,1021.012487411499,1,15,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,16, people. ,15373,167240,1040,100,109.26250457763672,1021.0125122070312,129.26250457763672,1085.0750122070312,1,16,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,15422,167290,1060,97,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,15472,167340,1062,97,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,16, people. ,15525,167392,1027,121,109.26250457763672,1021.0125122070312,129.26250457763672,1085.0750122070312,1,16,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,28, gathering ,15575,167442,842,172,149.2624969482422,829.9750366210938,169.2624969482422,910.0375366210938,2,11,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,25, people ,15622,167490,702,172,149.2624969482422,671.8125,169.2624969482422,730.875,2,8,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,34, Europeans ,15674,167542,388,184,189.2624969482422,382.6125183105469,209.2624969482422,474.6875228881836,3,1,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,15724,167591,330,182,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,15774,167642,317,180,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,15824,167691,329,181,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,34, Europeans ,15873,167740,430,202,189.2624969482422,382.6125183105469,209.2624969482422,474.6875228881836,3,1,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,67, modern ,15923,167790,620,271,269.26251220703125,600.7875366210938,289.26251220703125,666.8250350952148,5,5,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,99, Sweden ,15975,167842,783,363,349.26251220703125,744.8624877929688,369.26251220703125,814.9124908447266,7,8,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,99, Sweden ,16019,167886,789,367,349.26251220703125,744.8624877929688,369.26251220703125,814.9124908447266,7,8,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,99, Sweden ,16071,167939,789,367,349.26251220703125,744.8624877929688,369.26251220703125,814.9124908447266,7,8,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,99, Sweden ,16122,167989,789,367,349.26251220703125,744.8624877929688,369.26251220703125,814.9124908447266,7,8,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,99, Sweden ,16171,168038,789,367,349.26251220703125,744.8624877929688,369.26251220703125,814.9124908447266,7,8,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,99, Sweden ,16221,168088,789,367,349.26251220703125,744.8624877929688,369.26251220703125,814.9124908447266,7,8,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,16272,168140,790,396,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,16322,168189,790,396,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,16372,168240,790,396,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,16422,168290,790,396,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,16472,168340,790,396,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,16518,168385,790,396,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,16571,168439,790,396,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,16622,168489,790,396,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,16669,168536,790,396,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,16719,168586,790,396,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,16770,168638,790,396,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,16821,168689,790,396,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,16871,168739,790,396,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,16923,168790,790,396,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
+N6D368V9,,2,int,23,4,4,5,-1,,16971,168838,790,396,,,,,,,As dark-skinned Europeans,0,,,,,1970-01-01T00:00:00.673Z,,,,,,,,,spotlight-sona
