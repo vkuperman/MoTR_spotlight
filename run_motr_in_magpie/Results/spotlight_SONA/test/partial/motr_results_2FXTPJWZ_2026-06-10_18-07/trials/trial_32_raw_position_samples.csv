@@ -1,0 +1,20 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,1,ele,2,4,31,32,-1,999,367,644406,511,278,,,,,,,Talked to a policeman,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,4,31,32,32, interviewed ,418,644457,556,205,191.2734375,461.4140625,211.7734375,557.4609375,3,2,Talked to a policeman,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,4,31,32,-1,999,468,644507,616,189,,,,,,,Talked to a policeman,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,4,31,32,-1,999,517,644556,700,256,,,,,,,Talked to a policeman,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,4,31,32,-1,999,568,644607,742,355,,,,,,,Talked to a policeman,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,4,31,32,-1,999,616,644655,742,355,,,,,,,Talked to a policeman,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,4,31,32,-1,999,668,644707,742,355,,,,,,,Talked to a policeman,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,4,31,32,-1,999,718,644757,742,355,,,,,,,Talked to a policeman,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,4,31,32,-1,999,767,644807,742,355,,,,,,,Talked to a policeman,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,4,31,32,-1,999,816,644855,742,355,,,,,,,Talked to a policeman,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,4,31,32,-1,999,866,644905,742,355,,,,,,,Talked to a policeman,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,4,31,32,-1,999,916,644955,742,355,,,,,,,Talked to a policeman,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,4,31,32,-1,999,966,645005,742,355,,,,,,,Talked to a policeman,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,4,31,32,-1,999,1017,645056,742,355,,,,,,,Talked to a policeman,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,4,31,32,-1,999,1067,645106,742,355,,,,,,,Talked to a policeman,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,4,31,32,-1,999,1116,645155,742,355,,,,,,,Talked to a policeman,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,4,31,32,-1,999,1166,645205,742,355,,,,,,,Talked to a policeman,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,4,31,32,-1,999,1218,645257,742,355,,,,,,,Talked to a policeman,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,4,31,32,-1,999,1268,645307,742,355,,,,,,,Talked to a policeman,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
