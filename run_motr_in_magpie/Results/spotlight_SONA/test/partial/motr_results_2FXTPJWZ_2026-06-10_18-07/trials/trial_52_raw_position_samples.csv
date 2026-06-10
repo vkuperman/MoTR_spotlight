@@ -1,0 +1,28 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,17,4,51,52,114, energy ,351,713206,586,397,391.2734375,539.46875,411.7734375,599.5078125,8,5,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,401,713256,586,331,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,451,713306,592,314,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,501,713356,624,298,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,551,713406,710,292,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,601,713456,825,294,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,652,713507,927,380,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,702,713557,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,751,713606,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,801,713656,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,851,713706,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,901,713756,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,951,713806,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,1001,713856,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,1051,713906,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,1101,713956,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,1151,714006,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,1201,714056,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,1250,714105,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,1301,714156,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,1352,714206,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,1401,714256,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,1451,714305,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,1501,714356,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,1552,714407,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,1602,714456,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,4,51,52,-1,999,1652,714506,945,447,,,,,,,It will make energy available 24/7 in the Sahara,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
