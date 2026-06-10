@@ -1,0 +1,17 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,19,5,42,43,-1,999,351,681157,570,397,,,,,,,"Most Polish wolves had migrated to Russia, Lithuania and Belarus",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,5,42,43,61, wolves ,401,681207,587,277,271.2734375,529.4921875,291.7734375,589.515625,5,5,"Most Polish wolves had migrated to Russia, Lithuania and Belarus",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,5,42,43,-1,999,450,681256,630,232,,,,,,,"Most Polish wolves had migrated to Russia, Lithuania and Belarus",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,5,42,43,-1,999,501,681307,734,230,,,,,,,"Most Polish wolves had migrated to Russia, Lithuania and Belarus",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,5,42,43,-1,999,551,681357,829,348,,,,,,,"Most Polish wolves had migrated to Russia, Lithuania and Belarus",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,5,42,43,-1,999,600,681406,821,479,,,,,,,"Most Polish wolves had migrated to Russia, Lithuania and Belarus",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,5,42,43,-1,999,649,681456,821,479,,,,,,,"Most Polish wolves had migrated to Russia, Lithuania and Belarus",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,5,42,43,-1,999,700,681506,821,479,,,,,,,"Most Polish wolves had migrated to Russia, Lithuania and Belarus",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,5,42,43,-1,999,750,681556,821,479,,,,,,,"Most Polish wolves had migrated to Russia, Lithuania and Belarus",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,5,42,43,-1,999,799,681605,821,479,,,,,,,"Most Polish wolves had migrated to Russia, Lithuania and Belarus",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,5,42,43,-1,999,850,681656,821,479,,,,,,,"Most Polish wolves had migrated to Russia, Lithuania and Belarus",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,5,42,43,-1,999,900,681706,821,479,,,,,,,"Most Polish wolves had migrated to Russia, Lithuania and Belarus",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,5,42,43,-1,999,950,681756,821,479,,,,,,,"Most Polish wolves had migrated to Russia, Lithuania and Belarus",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,5,42,43,-1,999,1000,681806,821,479,,,,,,,"Most Polish wolves had migrated to Russia, Lithuania and Belarus",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,5,42,43,-1,999,1050,681856,821,479,,,,,,,"Most Polish wolves had migrated to Russia, Lithuania and Belarus",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,5,42,43,-1,999,1101,681907,821,479,,,,,,,"Most Polish wolves had migrated to Russia, Lithuania and Belarus",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
