@@ -1,0 +1,17 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,30,1,33,34,-1,999,317,653106,586,477,,,,,,,Once the FFA releases their rules,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,1,33,34,-1,999,367,653156,583,389,,,,,,,Once the FFA releases their rules,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,1,33,34,103, legal ,417,653206,605,363,351.2734375,579.5078125,371.7734375,622.5390625,7,5,Once the FFA releases their rules,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,1,33,34,103, legal ,467,653256,619,358,351.2734375,579.5078125,371.7734375,622.5390625,7,5,Once the FFA releases their rules,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,1,33,34,104, yet ,517,653306,627,356,351.2734375,622.5390625,371.7734375,651.5546875,7,6,Once the FFA releases their rules,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,1,33,34,87, 2016. ,568,653357,651,324,311.2734375,633.5546875,331.7734375,683.6015625,6,7,Once the FFA releases their rules,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,1,33,34,73, (FAA) ,618,653407,681,282,271.2734375,677.9609375,291.7734375,728.9765625,5,7,Once the FFA releases their rules,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,1,33,34,74, will ,668,653457,744,275,271.2734375,728.9765625,291.7734375,758.9765625,5,8,Once the FFA releases their rules,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,1,33,34,-1,999,718,653507,807,455,,,,,,,Once the FFA releases their rules,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,1,33,34,-1,999,766,653555,807,455,,,,,,,Once the FFA releases their rules,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,1,33,34,-1,999,816,653605,807,455,,,,,,,Once the FFA releases their rules,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,1,33,34,-1,999,866,653655,807,455,,,,,,,Once the FFA releases their rules,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,1,33,34,-1,999,916,653706,807,455,,,,,,,Once the FFA releases their rules,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,1,33,34,-1,999,966,653755,807,455,,,,,,,Once the FFA releases their rules,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,1,33,34,-1,999,1016,653805,807,455,,,,,,,Once the FFA releases their rules,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,1,33,34,-1,999,1068,653857,807,455,,,,,,,Once the FFA releases their rules,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
