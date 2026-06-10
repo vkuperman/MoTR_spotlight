@@ -1,0 +1,471 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,1150,657341,399,169,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,1200,657392,399,169,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,1250,657442,399,169,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,1300,657491,399,169,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,1350,657541,399,169,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,1399,657591,399,169,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,1449,657641,399,169,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,1500,657692,359,92,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,1550,657741,362,101,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,1599,657790,365,111,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,1, From ,1650,657841,366,114,111.2734375,361.375,131.7734375,408.375,1,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,1, From ,1700,657892,367,116,111.2734375,361.375,131.7734375,408.375,1,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,1, From ,1749,657941,367,116,111.2734375,361.375,131.7734375,408.375,1,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,1, From ,1800,657991,368,116,111.2734375,361.375,131.7734375,408.375,1,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,1, From ,1851,658042,370,116,111.2734375,361.375,131.7734375,408.375,1,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,1, From ,1900,658091,379,117,111.2734375,361.375,131.7734375,408.375,1,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,1, From ,1950,658141,389,118,111.2734375,361.375,131.7734375,408.375,1,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,2, 2006 ,2000,658192,438,118,111.2734375,408.375,131.7734375,453.421875,1,2,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,3, to ,2050,658242,463,118,111.2734375,453.421875,131.7734375,473.4375,1,3,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,4," 2008, ",2100,658291,506,118,111.2734375,473.4375,131.7734375,523.484375,1,4,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,4," 2008, ",2150,658342,516,117,111.2734375,473.4375,131.7734375,523.484375,1,4,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,4," 2008, ",2200,658392,519,117,111.2734375,473.4375,131.7734375,523.484375,1,4,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,4," 2008, ",2250,658441,519,117,111.2734375,473.4375,131.7734375,523.484375,1,4,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,4," 2008, ",2301,658492,519,117,111.2734375,473.4375,131.7734375,523.484375,1,4,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,4," 2008, ",2351,658542,519,117,111.2734375,473.4375,131.7734375,523.484375,1,4,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,4," 2008, ",2400,658591,519,117,111.2734375,473.4375,131.7734375,523.484375,1,4,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,4," 2008, ",2450,658641,519,117,111.2734375,473.4375,131.7734375,523.484375,1,4,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,5, Duran ,2500,658691,536,117,111.2734375,523.484375,131.7734375,577.515625,1,5,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,5, Duran ,2550,658741,558,120,111.2734375,523.484375,131.7734375,577.515625,1,5,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,7, out ,2600,658791,629,127,111.2734375,616.5390625,131.7734375,646.5625,1,7,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,2650,658842,665,130,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,2700,658891,715,135,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,2750,658941,727,137,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,2800,658992,730,145,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,2849,659041,730,145,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,2900,659091,730,145,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,2950,659141,730,145,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,3000,659191,730,145,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,3050,659241,722,140,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,3100,659291,713,132,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,9, commercial ,3150,659341,702,123,111.2734375,671.5859375,131.7734375,768.6015625,1,9,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,9, commercial ,3200,659391,702,123,111.2734375,671.5859375,131.7734375,768.6015625,1,9,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,9, commercial ,3250,659441,706,123,111.2734375,671.5859375,131.7734375,768.6015625,1,9,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,9, commercial ,3300,659491,713,123,111.2734375,671.5859375,131.7734375,768.6015625,1,9,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,9, commercial ,3350,659541,735,122,111.2734375,671.5859375,131.7734375,768.6015625,1,9,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,9, commercial ,3400,659591,752,119,111.2734375,671.5859375,131.7734375,768.6015625,1,9,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,10, and ,3449,659641,783,115,111.2734375,768.6015625,131.7734375,803.640625,1,10,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,10, and ,3500,659691,793,114,111.2734375,768.6015625,131.7734375,803.640625,1,10,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,10, and ,3550,659741,800,113,111.2734375,768.6015625,131.7734375,803.640625,1,10,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,10, and ,3599,659791,800,113,111.2734375,768.6015625,131.7734375,803.640625,1,10,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,10, and ,3650,659841,800,113,111.2734375,768.6015625,131.7734375,803.640625,1,10,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,10, and ,3700,659891,800,113,111.2734375,768.6015625,131.7734375,803.640625,1,10,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,10, and ,3750,659942,800,113,111.2734375,768.6015625,131.7734375,803.640625,1,10,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,10, and ,3800,659991,800,113,111.2734375,768.6015625,131.7734375,803.640625,1,10,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,10, and ,3849,660041,800,113,111.2734375,768.6015625,131.7734375,803.640625,1,10,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,10, and ,3900,660091,801,113,111.2734375,768.6015625,131.7734375,803.640625,1,10,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,11, personal ,3950,660142,804,114,111.2734375,803.640625,131.7734375,877.6953125,1,11,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,11, personal ,4000,660192,816,117,111.2734375,803.640625,131.7734375,877.6953125,1,11,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,11, personal ,4050,660242,825,119,111.2734375,803.640625,131.7734375,877.6953125,1,11,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,11, personal ,4100,660291,845,120,111.2734375,803.640625,131.7734375,877.6953125,1,11,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,11, personal ,4150,660342,859,120,111.2734375,803.640625,131.7734375,877.6953125,1,11,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,12, loans ,4199,660391,880,120,111.2734375,877.6953125,131.7734375,925.734375,1,12,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,12, loans ,4250,660441,891,120,111.2734375,877.6953125,131.7734375,925.734375,1,12,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,12, loans ,4300,660491,910,118,111.2734375,877.6953125,131.7734375,925.734375,1,12,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,12, loans ,4350,660541,919,118,111.2734375,877.6953125,131.7734375,925.734375,1,12,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,13, from ,4400,660591,934,118,111.2734375,925.734375,131.7734375,966.7421875,1,13,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,13, from ,4450,660642,940,118,111.2734375,925.734375,131.7734375,966.7421875,1,13,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,13, from ,4500,660691,949,118,111.2734375,925.734375,131.7734375,966.7421875,1,13,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,13, from ,4550,660741,951,118,111.2734375,925.734375,131.7734375,966.7421875,1,13,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,13, from ,4600,660791,953,118,111.2734375,925.734375,131.7734375,966.7421875,1,13,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,13, from ,4650,660841,957,118,111.2734375,925.734375,131.7734375,966.7421875,1,13,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,13, from ,4700,660891,966,118,111.2734375,925.734375,131.7734375,966.7421875,1,13,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,14, 39 ,4750,660942,973,118,111.2734375,966.7421875,131.7734375,991.765625,1,14,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,14, 39 ,4800,660991,982,118,111.2734375,966.7421875,131.7734375,991.765625,1,14,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,14, 39 ,4850,661042,985,117,111.2734375,966.7421875,131.7734375,991.765625,1,14,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,14, 39 ,4900,661091,988,117,111.2734375,966.7421875,131.7734375,991.765625,1,14,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,14, 39 ,4950,661141,991,116,111.2734375,966.7421875,131.7734375,991.765625,1,14,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,15, banks ,5000,661191,995,116,111.2734375,991.765625,131.7734375,1044.8046875,1,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,15, banks ,5050,661241,996,116,111.2734375,991.765625,131.7734375,1044.8046875,1,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,15, banks ,5100,661291,998,116,111.2734375,991.765625,131.7734375,1044.8046875,1,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,15, banks ,5150,661341,998,116,111.2734375,991.765625,131.7734375,1044.8046875,1,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,15, banks ,5199,661390,995,117,111.2734375,991.765625,131.7734375,1044.8046875,1,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,14, 39 ,5250,661442,982,122,111.2734375,966.7421875,131.7734375,991.765625,1,14,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,13, from ,5300,661491,957,128,111.2734375,925.734375,131.7734375,966.7421875,1,13,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,5350,661541,957,128,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,5400,661592,895,135,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,5449,661640,869,135,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,5499,661690,773,135,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,5550,661741,731,142,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,5600,661791,677,152,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,5650,661841,665,152,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,5700,661891,665,152,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,5749,661941,665,152,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,5800,661991,665,152,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,5850,662041,665,152,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,5900,662092,665,152,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,5949,662141,643,152,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,6000,662192,485,176,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,6049,662241,421,187,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,6100,662291,410,187,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,6150,662341,398,187,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,6200,662391,395,187,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,6249,662441,392,187,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,6300,662492,392,187,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,6350,662542,387,184,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,6400,662592,382,179,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,6450,662641,370,169,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,6500,662691,367,167,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,6550,662741,365,165,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,6600,662791,365,165,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,6650,662841,365,165,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,6699,662890,365,165,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,6751,662942,365,165,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,6800,662992,365,165,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,6850,663042,364,165,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,6900,663091,364,164,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,6950,663142,364,164,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,7000,663191,364,164,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,7050,663241,367,164,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,7100,663292,372,164,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,7151,663342,377,164,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,7200,663392,378,164,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,7250,663441,379,164,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,7300,663491,380,164,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,7350,663542,383,164,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,7400,663591,385,164,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,7450,663642,396,164,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,17, Spain. ,7500,663691,406,162,151.2734375,361.375,171.7734375,417.4140625,2,1,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,18, He ,7549,663741,422,160,151.2734375,417.4140625,171.7734375,445.4296875,2,2,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,18, He ,7600,663792,428,160,151.2734375,417.4140625,171.7734375,445.4296875,2,2,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,18, He ,7650,663842,433,160,151.2734375,417.4140625,171.7734375,445.4296875,2,2,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,18, He ,7699,663891,433,160,151.2734375,417.4140625,171.7734375,445.4296875,2,2,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,18, He ,7750,663942,433,160,151.2734375,417.4140625,171.7734375,445.4296875,2,2,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,18, He ,7800,663991,433,160,151.2734375,417.4140625,171.7734375,445.4296875,2,2,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,18, He ,7850,664042,433,160,151.2734375,417.4140625,171.7734375,445.4296875,2,2,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,18, He ,7900,664092,433,160,151.2734375,417.4140625,171.7734375,445.4296875,2,2,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,18, He ,7950,664141,433,160,151.2734375,417.4140625,171.7734375,445.4296875,2,2,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,18, He ,8000,664191,433,160,151.2734375,417.4140625,171.7734375,445.4296875,2,2,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,18, He ,8049,664241,433,160,151.2734375,417.4140625,171.7734375,445.4296875,2,2,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,18, He ,8100,664291,437,160,151.2734375,417.4140625,171.7734375,445.4296875,2,2,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,19, gave ,8150,664342,447,160,151.2734375,445.4296875,171.7734375,489.46875,2,3,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,19, gave ,8199,664390,452,161,151.2734375,445.4296875,171.7734375,489.46875,2,3,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,19, gave ,8250,664441,462,162,151.2734375,445.4296875,171.7734375,489.46875,2,3,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,19, gave ,8300,664491,469,162,151.2734375,445.4296875,171.7734375,489.46875,2,3,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,19, gave ,8350,664541,479,162,151.2734375,445.4296875,171.7734375,489.46875,2,3,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,19, gave ,8400,664591,484,162,151.2734375,445.4296875,171.7734375,489.46875,2,3,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,20, the ,8450,664642,501,161,151.2734375,489.46875,171.7734375,519.4921875,2,4,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,20, the ,8500,664691,508,160,151.2734375,489.46875,171.7734375,519.4921875,2,4,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,21, money ,8550,664741,527,160,151.2734375,519.4921875,171.7734375,578.5234375,2,5,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,21, money ,8600,664792,542,160,151.2734375,519.4921875,171.7734375,578.5234375,2,5,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,21, money ,8650,664841,573,162,151.2734375,519.4921875,171.7734375,578.5234375,2,5,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,22, to ,8700,664891,586,164,151.2734375,578.5234375,171.7734375,598.5390625,2,6,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,23, social ,8750,664941,611,168,151.2734375,598.5390625,171.7734375,649.5625,2,7,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,23, social ,8800,664992,619,168,151.2734375,598.5390625,171.7734375,649.5625,2,7,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,23, social ,8850,665042,621,168,151.2734375,598.5390625,171.7734375,649.5625,2,7,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,23, social ,8900,665091,621,168,151.2734375,598.5390625,171.7734375,649.5625,2,7,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,23, social ,8950,665141,621,168,151.2734375,598.5390625,171.7734375,649.5625,2,7,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,23, social ,9000,665192,621,168,151.2734375,598.5390625,171.7734375,649.5625,2,7,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,23, social ,9050,665241,621,168,151.2734375,598.5390625,171.7734375,649.5625,2,7,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,23, social ,9100,665292,621,168,151.2734375,598.5390625,171.7734375,649.5625,2,7,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,23, social ,9150,665342,621,168,151.2734375,598.5390625,171.7734375,649.5625,2,7,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,23, social ,9200,665391,638,166,151.2734375,598.5390625,171.7734375,649.5625,2,7,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,24," activists, ",9250,665442,653,163,151.2734375,649.5625,171.7734375,723.578125,2,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,24," activists, ",9300,665491,683,160,151.2734375,649.5625,171.7734375,723.578125,2,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,24," activists, ",9350,665541,692,160,151.2734375,649.5625,171.7734375,723.578125,2,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,24," activists, ",9400,665592,708,159,151.2734375,649.5625,171.7734375,723.578125,2,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,24," activists, ",9450,665642,712,159,151.2734375,649.5625,171.7734375,723.578125,2,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,24," activists, ",9500,665691,719,159,151.2734375,649.5625,171.7734375,723.578125,2,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,24," activists, ",9550,665741,721,159,151.2734375,649.5625,171.7734375,723.578125,2,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,24," activists, ",9600,665792,722,159,151.2734375,649.5625,171.7734375,723.578125,2,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,24," activists, ",9650,665841,722,159,151.2734375,649.5625,171.7734375,723.578125,2,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,24," activists, ",9701,665892,722,159,151.2734375,649.5625,171.7734375,723.578125,2,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,24," activists, ",9750,665941,722,159,151.2734375,649.5625,171.7734375,723.578125,2,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,24," activists, ",9799,665990,722,159,151.2734375,649.5625,171.7734375,723.578125,2,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,24," activists, ",9850,666042,723,160,151.2734375,649.5625,171.7734375,723.578125,2,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,25, who ,9900,666091,735,162,151.2734375,723.578125,171.7734375,761.6015625,2,9,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,25, who ,9950,666141,745,163,151.2734375,723.578125,171.7734375,761.6015625,2,9,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,25, who ,9999,666191,760,163,151.2734375,723.578125,171.7734375,761.6015625,2,9,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,26, used ,10050,666242,763,163,151.2734375,761.6015625,171.7734375,805.640625,2,10,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,26, used ,10100,666292,765,163,151.2734375,761.6015625,171.7734375,805.640625,2,10,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,26, used ,10150,666342,764,165,151.2734375,761.6015625,171.7734375,805.640625,2,10,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,26, used ,10200,666392,764,165,151.2734375,761.6015625,171.7734375,805.640625,2,10,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,26, used ,10251,666442,764,165,151.2734375,761.6015625,171.7734375,805.640625,2,10,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,26, used ,10300,666491,764,165,151.2734375,761.6015625,171.7734375,805.640625,2,10,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,26, used ,10350,666541,765,165,151.2734375,761.6015625,171.7734375,805.640625,2,10,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,26, used ,10400,666591,770,165,151.2734375,761.6015625,171.7734375,805.640625,2,10,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,26, used ,10450,666641,804,162,151.2734375,761.6015625,171.7734375,805.640625,2,10,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,28, to ,10500,666691,829,158,151.2734375,819.6484375,171.7734375,839.6640625,2,12,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,29, pay ,10550,666741,870,154,151.2734375,839.6640625,171.7734375,873.6875,2,13,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,30, for ,10600,666792,885,154,151.2734375,873.6875,171.7734375,899.6953125,2,14,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,31, speaking ,10650,666841,906,154,151.2734375,899.6953125,171.7734375,976.75,2,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,31, speaking ,10700,666892,915,154,151.2734375,899.6953125,171.7734375,976.75,2,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,31, speaking ,10750,666941,922,154,151.2734375,899.6953125,171.7734375,976.75,2,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,31, speaking ,10800,666992,923,154,151.2734375,899.6953125,171.7734375,976.75,2,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,31, speaking ,10850,667041,919,155,151.2734375,899.6953125,171.7734375,976.75,2,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,31, speaking ,10900,667091,919,155,151.2734375,899.6953125,171.7734375,976.75,2,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,31, speaking ,10951,667142,919,155,151.2734375,899.6953125,171.7734375,976.75,2,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,31, speaking ,11000,667191,919,155,151.2734375,899.6953125,171.7734375,976.75,2,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,31, speaking ,11050,667241,919,155,151.2734375,899.6953125,171.7734375,976.75,2,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,31, speaking ,11100,667291,919,155,151.2734375,899.6953125,171.7734375,976.75,2,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,31, speaking ,11150,667341,919,157,151.2734375,899.6953125,171.7734375,976.75,2,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,31, speaking ,11199,667390,919,159,151.2734375,899.6953125,171.7734375,976.75,2,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,31, speaking ,11250,667441,923,163,151.2734375,899.6953125,171.7734375,976.75,2,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,31, speaking ,11300,667491,928,165,151.2734375,899.6953125,171.7734375,976.75,2,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,31, speaking ,11350,667541,942,166,151.2734375,899.6953125,171.7734375,976.75,2,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,31, speaking ,11400,667591,954,166,151.2734375,899.6953125,171.7734375,976.75,2,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,31, speaking ,11450,667641,973,163,151.2734375,899.6953125,171.7734375,976.75,2,15,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,32, tours ,11500,667691,982,162,151.2734375,976.75,171.7734375,1021.7734375,2,16,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,32, tours ,11549,667740,993,161,151.2734375,976.75,171.7734375,1021.7734375,2,16,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,32, tours ,11600,667791,997,161,151.2734375,976.75,171.7734375,1021.7734375,2,16,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,32, tours ,11650,667841,1001,161,151.2734375,976.75,171.7734375,1021.7734375,2,16,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,32, tours ,11700,667892,1002,161,151.2734375,976.75,171.7734375,1021.7734375,2,16,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,32, tours ,11750,667941,1004,161,151.2734375,976.75,171.7734375,1021.7734375,2,16,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,32, tours ,11800,667991,1005,161,151.2734375,976.75,171.7734375,1021.7734375,2,16,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,32, tours ,11850,668041,1006,161,151.2734375,976.75,171.7734375,1021.7734375,2,16,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,32, tours ,11900,668091,1007,161,151.2734375,976.75,171.7734375,1021.7734375,2,16,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,32, tours ,11950,668141,1012,161,151.2734375,976.75,171.7734375,1021.7734375,2,16,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,32, tours ,12000,668191,1015,161,151.2734375,976.75,171.7734375,1021.7734375,2,16,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,32, tours ,12050,668241,1019,161,151.2734375,976.75,171.7734375,1021.7734375,2,16,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,32, tours ,12100,668292,1020,161,151.2734375,976.75,171.7734375,1021.7734375,2,16,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,33, against ,12150,668341,1023,161,151.2734375,1021.7734375,171.7734375,1079.8203125,2,17,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,33, against ,12200,668392,1028,161,151.2734375,1021.7734375,171.7734375,1079.8203125,2,17,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,33, against ,12250,668441,1045,158,151.2734375,1021.7734375,171.7734375,1079.8203125,2,17,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,33, against ,12301,668492,1050,158,151.2734375,1021.7734375,171.7734375,1079.8203125,2,17,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,33, against ,12351,668542,1053,158,151.2734375,1021.7734375,171.7734375,1079.8203125,2,17,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,33, against ,12400,668591,1053,158,151.2734375,1021.7734375,171.7734375,1079.8203125,2,17,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,46, that ,12450,668641,890,197,191.2734375,879.3125,211.7734375,914.34375,3,13,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,12500,668691,890,197,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,12550,668741,586,228,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,12600,668792,559,228,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,12650,668842,534,219,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,12700,668891,529,216,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,37, cameras ,12750,668941,515,209,191.2734375,509.125,211.7734375,583.1484375,3,4,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,12800,668992,515,209,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,36, TV ,12850,669041,483,208,191.2734375,481.28125,211.7734375,509.125,3,3,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,12900,669091,483,208,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,12949,669141,471,210,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,13000,669192,471,210,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,35, and ,13049,669240,471,209,191.2734375,446.40625,211.7734375,481.28125,3,2,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,35, and ,13100,669292,475,207,191.2734375,446.40625,211.7734375,481.28125,3,2,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,36, TV ,13150,669341,499,201,191.2734375,481.28125,211.7734375,509.125,3,3,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,37, cameras ,13200,669392,510,201,191.2734375,509.125,211.7734375,583.1484375,3,4,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,37, cameras ,13250,669441,538,199,191.2734375,509.125,211.7734375,583.1484375,3,4,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,37, cameras ,13300,669491,554,199,191.2734375,509.125,211.7734375,583.1484375,3,4,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,38, for ,13350,669541,590,195,191.2734375,583.1484375,211.7734375,609.15625,3,5,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,38, for ,13400,669592,606,194,191.2734375,583.1484375,211.7734375,609.15625,3,5,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,40, media ,13450,669641,642,194,191.2734375,624.171875,211.7734375,678.203125,3,7,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,40, media ,13500,669692,659,194,191.2734375,624.171875,211.7734375,678.203125,3,7,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,41, network. ,13550,669742,680,194,191.2734375,678.203125,211.7734375,751.234375,3,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,41, network. ,13600,669791,689,195,191.2734375,678.203125,211.7734375,751.234375,3,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,41, network. ,13650,669842,702,196,191.2734375,678.203125,211.7734375,751.234375,3,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,41, network. ,13700,669892,706,197,191.2734375,678.203125,211.7734375,751.234375,3,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,41, network. ,13750,669941,711,197,191.2734375,678.203125,211.7734375,751.234375,3,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,41, network. ,13800,669991,717,198,191.2734375,678.203125,211.7734375,751.234375,3,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,41, network. ,13850,670042,731,199,191.2734375,678.203125,211.7734375,751.234375,3,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,41, network. ,13900,670091,738,199,191.2734375,678.203125,211.7734375,751.234375,3,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,41, network. ,13950,670141,751,199,191.2734375,678.203125,211.7734375,751.234375,3,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,42, He ,14000,670191,753,199,191.2734375,751.234375,211.7734375,779.25,3,9,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,41, network. ,14050,670241,748,199,191.2734375,678.203125,211.7734375,751.234375,3,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,41, network. ,14100,670292,748,199,191.2734375,678.203125,211.7734375,751.234375,3,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,41, network. ,14151,670342,748,199,191.2734375,678.203125,211.7734375,751.234375,3,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,41, network. ,14200,670391,748,199,191.2734375,678.203125,211.7734375,751.234375,3,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,41, network. ,14250,670441,748,199,191.2734375,678.203125,211.7734375,751.234375,3,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,41, network. ,14299,670490,748,199,191.2734375,678.203125,211.7734375,751.234375,3,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,41, network. ,14350,670541,749,203,191.2734375,678.203125,211.7734375,751.234375,3,8,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,14400,670591,757,226,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,14450,670641,761,251,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,14500,670691,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,14550,670741,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,14600,670791,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,14650,670842,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,14700,670891,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,14750,670942,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,14800,670991,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,14850,671041,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,14900,671091,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,14950,671141,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15000,671191,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15050,671241,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15099,671290,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15149,671341,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15200,671391,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15250,671441,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15299,671491,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15350,671541,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15400,671592,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15450,671641,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15500,671691,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15550,671741,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15599,671790,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15650,671842,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15700,671891,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15750,671942,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15800,671991,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15850,672041,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15899,672091,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,15950,672142,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16000,672191,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16049,672241,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16100,672292,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16150,672341,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16200,672391,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16250,672441,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16300,672491,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16350,672541,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16400,672591,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16450,672641,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16500,672691,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16552,672743,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16600,672792,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16650,672841,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16700,672891,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16750,672941,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16800,672991,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16850,673041,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16900,673092,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,16949,673140,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17000,673192,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17050,673241,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17100,673291,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17150,673342,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17200,673392,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17250,673441,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17300,673492,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17350,673541,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17401,673592,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17450,673641,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17500,673691,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17550,673741,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17600,673792,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17650,673841,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17700,673891,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17749,673940,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17799,673990,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17850,674042,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17900,674092,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17950,674141,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,17999,674190,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,18050,674241,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,18100,674291,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,18150,674342,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,18200,674392,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,18250,674441,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,18300,674491,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,18350,674541,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,18399,674590,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,18450,674641,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,18500,674692,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,18550,674742,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,18600,674792,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,18651,674842,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,18700,674891,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,18750,674941,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,18799,674990,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,18850,675041,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,18900,675092,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,18950,675142,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19000,675192,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19050,675242,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19100,675291,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19150,675341,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19200,675391,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19250,675441,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19300,675491,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19350,675541,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19400,675592,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19450,675642,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19500,675691,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19550,675741,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19600,675791,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19650,675841,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19700,675891,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19750,675941,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19800,675991,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19849,676041,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19900,676091,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,19949,676141,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20000,676191,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20050,676241,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20100,676291,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20150,676341,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20200,676391,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20250,676441,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20300,676491,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20350,676541,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20400,676591,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20450,676641,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20500,676692,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20550,676741,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20600,676791,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20650,676842,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20700,676891,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20750,676941,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20800,676991,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20850,677041,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20900,677092,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,20950,677142,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21001,677192,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21050,677241,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21100,677291,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21150,677341,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21199,677390,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21250,677441,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21300,677491,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21350,677542,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21400,677592,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21450,677641,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21500,677691,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21550,677741,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21600,677791,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21650,677841,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21700,677891,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21750,677941,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21800,677992,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21850,678041,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21900,678091,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,21950,678141,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22000,678191,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22050,678241,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22100,678291,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22150,678341,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22200,678392,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22250,678441,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22300,678491,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22350,678542,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22399,678590,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22450,678641,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22500,678692,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22550,678742,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22601,678792,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22650,678841,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22700,678891,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22750,678941,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22800,678991,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22850,679041,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22900,679091,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,22950,679141,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23000,679192,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23050,679241,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23100,679292,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23150,679342,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23200,679392,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23251,679442,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23300,679491,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23350,679541,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23400,679591,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23450,679641,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23500,679691,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23550,679741,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23600,679791,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23650,679841,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23700,679891,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23750,679941,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23800,679992,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23851,680042,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23900,680091,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,23950,680141,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,24000,680191,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,24050,680242,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,24100,680291,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,24150,680341,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,24200,680391,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,24249,680441,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,24300,680491,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,24350,680541,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,24399,680590,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,24450,680642,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,24500,680691,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,24550,680742,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,2,2,3,-1,999,24600,680792,764,294,,,,,,,Speeches and equipment for campaigns against capitalism,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
