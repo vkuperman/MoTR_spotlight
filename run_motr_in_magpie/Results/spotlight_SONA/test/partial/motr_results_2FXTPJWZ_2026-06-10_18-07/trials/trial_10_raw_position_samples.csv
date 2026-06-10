@@ -1,0 +1,27 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,303,570957,560,366,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,65, members ,352,571007,580,279,271.2734375,508.4375,291.7734375,588.453125,5,4,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,54," genocide, ",402,571056,702,241,231.2734375,684.5546875,251.7734375,767.625,4,8,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,451,571106,774,250,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,502,571156,840,286,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,552,571207,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,601,571256,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,651,571306,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,701,571356,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,752,571406,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,802,571456,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,851,571506,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,901,571556,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,952,571606,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,1002,571656,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,1051,571706,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,1101,571756,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,1151,571806,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,1202,571856,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,1252,571906,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,1302,571956,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,1352,572006,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,1402,572056,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,1452,572106,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,1502,572157,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,5,9,10,-1,999,1552,572207,795,376,,,,,,,A drumming festival in Rwanda,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
