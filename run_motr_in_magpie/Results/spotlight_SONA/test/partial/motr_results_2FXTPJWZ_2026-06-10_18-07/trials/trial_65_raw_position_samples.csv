@@ -1,0 +1,24 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,717,793107,625,348,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,767,793157,631,229,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,31, reliable ,817,793207,644,207,191.2734375,642.5625,211.7734375,705.6015625,3,6,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,31, reliable ,866,793256,665,207,191.2734375,642.5625,211.7734375,705.6015625,3,6,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,917,793307,761,337,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,966,793356,761,337,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,1016,793405,761,337,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,1066,793456,761,337,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,1116,793505,761,337,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,1166,793556,761,337,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,1216,793605,761,337,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,1266,793655,761,337,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,1316,793705,761,337,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,1366,793756,761,337,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,1417,793807,761,337,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,1467,793857,761,337,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,1517,793907,761,337,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,1566,793956,761,337,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,1616,794005,761,337,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,1666,794056,761,337,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,1716,794105,761,337,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,1766,794155,761,337,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,5,64,65,-1,999,1816,794206,761,337,,,,,,,There are more bike lanes available for people to bike in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
