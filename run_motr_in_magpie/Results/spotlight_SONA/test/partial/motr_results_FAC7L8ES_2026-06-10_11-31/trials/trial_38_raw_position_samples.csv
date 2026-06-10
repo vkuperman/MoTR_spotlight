@@ -1,0 +1,384 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+FAC7L8ES,,2,int,9,6,37,38,41, dispensed ,3467,1581230,630,248,229.2734375,592.5078125,249.7734375,679.578125,4,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,14," which, ",3517,1581280,567,169,149.2734375,546.453125,169.7734375,602.4765625,2,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,3," makers, ",3567,1581330,490,153,109.2734375,480.40625,129.7734375,549.421875,1,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,12, driver-assisted ,3616,1581380,471,136,109.2734375,400.375,169.7734375,1019.703125,1,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,12, driver-assisted ,3667,1581430,471,132,109.2734375,400.375,169.7734375,1019.703125,1,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,12, driver-assisted ,3717,1581481,471,132,109.2734375,400.375,169.7734375,1019.703125,1,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,12, driver-assisted ,3767,1581530,471,132,109.2734375,400.375,169.7734375,1019.703125,1,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,12, driver-assisted ,3817,1581580,471,132,109.2734375,400.375,169.7734375,1019.703125,1,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,12, driver-assisted ,3866,1581629,471,132,109.2734375,400.375,169.7734375,1019.703125,1,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,12, driver-assisted ,3917,1581680,445,132,109.2734375,400.375,169.7734375,1019.703125,1,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,1, Other ,3967,1581730,416,129,109.2734375,400.375,129.7734375,450.3984375,1,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,1, Other ,4017,1581780,403,129,109.2734375,400.375,129.7734375,450.3984375,1,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,1, Other ,4067,1581830,400,129,109.2734375,400.375,129.7734375,450.3984375,1,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,1, Other ,4117,1581881,399,129,109.2734375,400.375,129.7734375,450.3984375,1,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,1, Other ,4168,1581932,400,129,109.2734375,400.375,129.7734375,450.3984375,1,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,1, Other ,4217,1581980,402,128,109.2734375,400.375,129.7734375,450.3984375,1,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,1, Other ,4267,1582030,411,126,109.2734375,400.375,129.7734375,450.3984375,1,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,12, driver-assisted ,4317,1582080,429,123,109.2734375,400.375,169.7734375,1019.703125,1,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,4367,1582130,445,118,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,4417,1582180,459,110,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,4466,1582230,460,110,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,4517,1582280,460,110,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,4567,1582331,460,110,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,4616,1582380,460,110,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,4667,1582431,460,110,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,4716,1582479,484,108,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,4766,1582530,528,108,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,4817,1582580,551,108,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,4866,1582630,575,109,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,4916,1582679,595,111,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,4966,1582730,611,111,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5016,1582780,615,111,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5066,1582830,615,111,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5116,1582879,615,111,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5166,1582930,615,111,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5216,1582980,615,111,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5266,1583029,615,111,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5316,1583080,621,111,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5367,1583131,644,111,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5416,1583180,677,110,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5466,1583230,698,110,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5516,1583280,720,110,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5566,1583330,742,111,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5616,1583380,766,112,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5666,1583430,782,110,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5716,1583480,799,109,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5766,1583530,808,109,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5816,1583580,808,109,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5866,1583630,808,109,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5915,1583679,808,109,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,5966,1583729,808,109,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,6016,1583780,814,109,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,6066,1583830,832,109,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,6117,1583880,858,111,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,6167,1583930,883,113,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,6217,1583981,901,113,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,6267,1584030,918,115,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,6316,1584080,936,116,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,6366,1584129,955,118,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,6416,1584180,976,119,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,6467,1584230,997,126,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,6516,1584280,1015,134,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,6566,1584330,1018,135,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,6616,1584380,1015,133,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,6666,1584430,983,129,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,8," Mercedes, ",6716,1584480,816,133,109.2734375,756.578125,129.7734375,845.6171875,1,9,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,5," Volvo, ",6767,1584531,649,154,109.2734375,625.4765625,129.7734375,679.5234375,1,6,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,13," vehicles, ",6817,1584580,545,163,149.2734375,471.4140625,169.7734375,546.453125,2,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,13," vehicles, ",6866,1584630,486,167,149.2734375,471.4140625,169.7734375,546.453125,2,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,6916,1584680,439,171,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,6967,1584730,424,172,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,7016,1584780,414,172,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,7066,1584830,405,172,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,7116,1584880,399,171,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,7167,1584930,396,169,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,7217,1584980,397,169,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,7266,1585030,408,169,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,7317,1585081,428,167,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,7366,1585130,444,167,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,7416,1585180,460,167,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,13," vehicles, ",7466,1585230,475,167,149.2734375,471.4140625,169.7734375,546.453125,2,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,13," vehicles, ",7517,1585281,485,167,149.2734375,471.4140625,169.7734375,546.453125,2,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,13," vehicles, ",7567,1585331,493,167,149.2734375,471.4140625,169.7734375,546.453125,2,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,13," vehicles, ",7616,1585380,504,166,149.2734375,471.4140625,169.7734375,546.453125,2,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,13," vehicles, ",7666,1585430,518,163,149.2734375,471.4140625,169.7734375,546.453125,2,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,13," vehicles, ",7716,1585480,530,162,149.2734375,471.4140625,169.7734375,546.453125,2,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,13," vehicles, ",7766,1585530,542,162,149.2734375,471.4140625,169.7734375,546.453125,2,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,14," which, ",7816,1585580,561,162,149.2734375,546.453125,169.7734375,602.4765625,2,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,14," which, ",7867,1585630,576,162,149.2734375,546.453125,169.7734375,602.4765625,2,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,14," which, ",7916,1585680,596,161,149.2734375,546.453125,169.7734375,602.4765625,2,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,15, unlike ,7967,1585731,613,160,149.2734375,602.4765625,169.7734375,654.5078125,2,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,15, unlike ,8016,1585780,626,160,149.2734375,602.4765625,169.7734375,654.5078125,2,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,15, unlike ,8066,1585830,636,160,149.2734375,602.4765625,169.7734375,654.5078125,2,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,15, unlike ,8116,1585880,636,160,149.2734375,602.4765625,169.7734375,654.5078125,2,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,15, unlike ,8167,1585931,636,160,149.2734375,602.4765625,169.7734375,654.5078125,2,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,15, unlike ,8216,1585980,636,160,149.2734375,602.4765625,169.7734375,654.5078125,2,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,15, unlike ,8267,1586030,636,160,149.2734375,602.4765625,169.7734375,654.5078125,2,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,15, unlike ,8317,1586081,636,160,149.2734375,602.4765625,169.7734375,654.5078125,2,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,15, unlike ,8366,1586130,636,160,149.2734375,602.4765625,169.7734375,654.5078125,2,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,15, unlike ,8416,1586180,644,160,149.2734375,602.4765625,169.7734375,654.5078125,2,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,16, Google’s ,8466,1586230,669,160,149.2734375,654.5078125,169.7734375,730.234375,2,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,16, Google’s ,8516,1586280,692,160,149.2734375,654.5078125,169.7734375,730.234375,2,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,16, Google’s ,8566,1586330,709,160,149.2734375,654.5078125,169.7734375,730.234375,2,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,16, Google’s ,8616,1586380,727,160,149.2734375,654.5078125,169.7734375,730.234375,2,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,17," version, ",8666,1586430,742,160,149.2734375,730.234375,169.7734375,798.265625,2,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,17," version, ",8717,1586481,759,160,149.2734375,730.234375,169.7734375,798.265625,2,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,17," version, ",8766,1586530,772,160,149.2734375,730.234375,169.7734375,798.265625,2,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,17," version, ",8817,1586581,784,160,149.2734375,730.234375,169.7734375,798.265625,2,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,17," version, ",8866,1586630,796,160,149.2734375,730.234375,169.7734375,798.265625,2,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,18, do ,8916,1586680,809,160,149.2734375,798.265625,169.7734375,823.2890625,2,6,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,18, do ,8966,1586730,820,160,149.2734375,798.265625,169.7734375,823.2890625,2,6,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,19, not ,9016,1586780,835,160,149.2734375,823.2890625,169.7734375,853.3125,2,7,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,19, not ,9066,1586830,853,162,149.2734375,823.2890625,169.7734375,853.3125,2,7,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,20, dispense ,9116,1586880,871,163,149.2734375,853.3125,169.7734375,930.3671875,2,8,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,20, dispense ,9166,1586930,896,166,149.2734375,853.3125,169.7734375,930.3671875,2,8,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,20, dispense ,9216,1586981,919,169,149.2734375,853.3125,169.7734375,930.3671875,2,8,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,21, with ,9266,1587030,941,171,149.2734375,930.3671875,169.7734375,967.3828125,2,9,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,21, with ,9316,1587080,956,171,149.2734375,930.3671875,169.7734375,967.3828125,2,9,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,21, with ,9366,1587130,964,171,149.2734375,930.3671875,169.7734375,967.3828125,2,9,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,22, the ,9416,1587181,968,171,149.2734375,967.3828125,169.7734375,997.40625,2,10,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,22, the ,9466,1587230,974,172,149.2734375,967.3828125,169.7734375,997.40625,2,10,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,22, the ,9516,1587280,980,174,149.2734375,967.3828125,169.7734375,997.40625,2,10,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,22, the ,9566,1587330,986,175,149.2734375,967.3828125,169.7734375,997.40625,2,10,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,22, the ,9616,1587380,994,175,149.2734375,967.3828125,169.7734375,997.40625,2,10,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,23, driver ,9667,1587431,1001,173,149.2734375,997.40625,169.7734375,1042.421875,2,11,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,23, driver ,9716,1587480,1003,173,149.2734375,997.40625,169.7734375,1042.421875,2,11,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,23, driver ,9766,1587530,999,174,149.2734375,997.40625,169.7734375,1042.421875,2,11,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,35," Google, ",9816,1587580,962,181,189.2734375,941.6015625,209.7734375,1009.6484375,3,12,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,33, project ,9866,1587630,905,180,189.2734375,862.5546875,209.7734375,921.5859375,3,10,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,19, not ,9916,1587680,831,179,149.2734375,823.2890625,169.7734375,853.3125,2,7,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,17," version, ",9966,1587730,745,179,149.2734375,730.234375,169.7734375,798.265625,2,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,16, Google’s ,10016,1587780,658,179,149.2734375,654.5078125,169.7734375,730.234375,2,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,27," Urmson, ",10066,1587830,609,181,189.2734375,552.4375,209.7734375,625.453125,3,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,27," Urmson, ",10116,1587880,582,182,189.2734375,552.4375,209.7734375,625.453125,3,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,27," Urmson, ",10166,1587930,562,183,189.2734375,552.4375,209.7734375,625.453125,3,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,26, Chris ,10216,1587980,539,186,189.2734375,505.4296875,209.7734375,552.4375,3,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,26, Chris ,10266,1588030,509,191,189.2734375,505.4296875,209.7734375,552.4375,3,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,25, But ,10316,1588080,486,192,189.2734375,473.40625,209.7734375,505.4296875,3,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,10366,1588130,469,193,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,10416,1588180,456,193,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,10466,1588230,444,192,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,10517,1588281,439,191,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,10566,1588330,438,191,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,10615,1588380,438,191,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,10665,1588430,438,191,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,10716,1588480,434,192,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,10766,1588530,425,194,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,10816,1588580,416,196,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,10866,1588630,411,197,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,10916,1588680,406,198,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,10966,1588730,406,198,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,11016,1588780,406,199,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,11067,1588831,412,201,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,11116,1588880,430,201,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,11166,1588930,457,199,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,11216,1588980,473,199,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,25, But ,11266,1589030,487,199,189.2734375,473.40625,209.7734375,505.4296875,3,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,25, But ,11315,1589080,496,201,189.2734375,473.40625,209.7734375,505.4296875,3,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,25, But ,11365,1589129,499,201,189.2734375,473.40625,209.7734375,505.4296875,3,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,25, But ,11416,1589180,501,201,189.2734375,473.40625,209.7734375,505.4296875,3,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,26, Chris ,11466,1589230,508,201,189.2734375,505.4296875,209.7734375,552.4375,3,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,26, Chris ,11516,1589280,518,201,189.2734375,505.4296875,209.7734375,552.4375,3,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,26, Chris ,11566,1589330,528,201,189.2734375,505.4296875,209.7734375,552.4375,3,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,26, Chris ,11616,1589380,539,201,189.2734375,505.4296875,209.7734375,552.4375,3,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,27," Urmson, ",11665,1589429,555,202,189.2734375,552.4375,209.7734375,625.453125,3,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,27," Urmson, ",11716,1589480,577,204,189.2734375,552.4375,209.7734375,625.453125,3,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,27," Urmson, ",11765,1589530,612,204,189.2734375,552.4375,209.7734375,625.453125,3,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,28, director ,11816,1589580,645,204,189.2734375,625.453125,209.7734375,690.4765625,3,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,28, director ,11866,1589631,661,204,189.2734375,625.453125,209.7734375,690.4765625,3,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,28, director ,11915,1589680,665,203,189.2734375,625.453125,209.7734375,690.4765625,3,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,28, director ,11966,1589731,665,203,189.2734375,625.453125,209.7734375,690.4765625,3,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,28, director ,12016,1589780,665,203,189.2734375,625.453125,209.7734375,690.4765625,3,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,28, director ,12065,1589830,665,203,189.2734375,625.453125,209.7734375,690.4765625,3,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,28, director ,12117,1589881,665,203,189.2734375,625.453125,209.7734375,690.4765625,3,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,28, director ,12166,1589931,665,203,189.2734375,625.453125,209.7734375,690.4765625,3,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,28, director ,12216,1589981,665,203,189.2734375,625.453125,209.7734375,690.4765625,3,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,28, director ,12266,1590030,670,203,189.2734375,625.453125,209.7734375,690.4765625,3,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,28, director ,12316,1590080,687,203,189.2734375,625.453125,209.7734375,690.4765625,3,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,29, of ,12366,1590130,704,204,189.2734375,690.4765625,209.7734375,710.4921875,3,6,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,30, the ,12415,1590180,717,205,189.2734375,710.4921875,209.7734375,740.515625,3,7,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,30, the ,12466,1590231,733,206,189.2734375,710.4921875,209.7734375,740.515625,3,7,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,31, self-driving ,12516,1590281,743,206,189.2734375,740.515625,209.7734375,832.546875,3,8,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,31, self-driving ,12566,1590330,750,206,189.2734375,740.515625,209.7734375,832.546875,3,8,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,31, self-driving ,12616,1590381,758,207,189.2734375,740.515625,209.7734375,832.546875,3,8,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,31, self-driving ,12666,1590430,770,207,189.2734375,740.515625,209.7734375,832.546875,3,8,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,31, self-driving ,12716,1590480,785,207,189.2734375,740.515625,209.7734375,832.546875,3,8,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,31, self-driving ,12766,1590531,798,208,189.2734375,740.515625,209.7734375,832.546875,3,8,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,31, self-driving ,12816,1590580,808,208,189.2734375,740.515625,209.7734375,832.546875,3,8,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,31, self-driving ,12865,1590630,817,208,189.2734375,740.515625,209.7734375,832.546875,3,8,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,31, self-driving ,12916,1590680,830,208,189.2734375,740.515625,209.7734375,832.546875,3,8,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,32, car ,12965,1590729,849,207,189.2734375,832.546875,209.7734375,862.5546875,3,9,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,33, project ,13015,1590779,873,207,189.2734375,862.5546875,209.7734375,921.5859375,3,10,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,33, project ,13066,1590830,893,207,189.2734375,862.5546875,209.7734375,921.5859375,3,10,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,33, project ,13115,1590880,911,208,189.2734375,862.5546875,209.7734375,921.5859375,3,10,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,34, at ,13166,1590931,927,209,189.2734375,921.5859375,209.7734375,941.6015625,3,11,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,34, at ,13216,1590980,938,211,189.2734375,921.5859375,209.7734375,941.6015625,3,11,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,35," Google, ",13265,1591030,945,211,189.2734375,941.6015625,209.7734375,1009.6484375,3,12,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,35," Google, ",13316,1591080,952,211,189.2734375,941.6015625,209.7734375,1009.6484375,3,12,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,35," Google, ",13366,1591130,961,212,189.2734375,941.6015625,209.7734375,1009.6484375,3,12,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,35," Google, ",13415,1591180,969,212,189.2734375,941.6015625,209.7734375,1009.6484375,3,12,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,35," Google, ",13465,1591230,977,212,189.2734375,941.6015625,209.7734375,1009.6484375,3,12,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,35," Google, ",13515,1591280,985,211,189.2734375,941.6015625,209.7734375,1009.6484375,3,12,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,35," Google, ",13566,1591330,993,210,189.2734375,941.6015625,209.7734375,1009.6484375,3,12,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,35," Google, ",13616,1591380,999,210,189.2734375,941.6015625,209.7734375,1009.6484375,3,12,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,35," Google, ",13665,1591430,1008,209,189.2734375,941.6015625,209.7734375,1009.6484375,3,12,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,36, said ,13716,1591481,1016,208,189.2734375,1009.6484375,209.7734375,1042.671875,3,13,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,36, said ,13766,1591530,1018,208,189.2734375,1009.6484375,209.7734375,1042.671875,3,13,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,36, said ,13816,1591580,1018,208,189.2734375,1009.6484375,209.7734375,1042.671875,3,13,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,36, said ,13866,1591630,1011,208,189.2734375,1009.6484375,209.7734375,1042.671875,3,13,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,35," Google, ",13916,1591681,960,217,189.2734375,941.6015625,209.7734375,1009.6484375,3,12,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,45, wheel ,13965,1591730,831,228,229.2734375,815.65625,249.7734375,867.6875,4,9,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,41, dispensed ,14015,1591780,625,227,229.2734375,592.5078125,249.7734375,679.578125,4,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,14066,1591830,472,213,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,24, controls. ,14116,1591880,408,212,189.2734375,400.375,209.7734375,473.40625,3,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,14166,1591930,392,212,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,14216,1591980,380,214,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,14266,1592030,375,216,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,14316,1592080,376,219,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,14366,1592130,390,232,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,37, that ,14416,1592180,404,242,229.2734375,400.375,249.7734375,435.40625,4,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,37, that ,14466,1592230,408,245,229.2734375,400.375,249.7734375,435.40625,4,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,37, that ,14515,1592280,408,245,229.2734375,400.375,249.7734375,435.40625,4,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,37, that ,14566,1592330,408,245,229.2734375,400.375,249.7734375,435.40625,4,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,37, that ,14617,1592381,408,245,229.2734375,400.375,249.7734375,435.40625,4,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,37, that ,14666,1592431,408,245,229.2734375,400.375,249.7734375,435.40625,4,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,37, that ,14717,1592481,408,245,229.2734375,400.375,249.7734375,435.40625,4,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,37, that ,14766,1592531,408,245,229.2734375,400.375,249.7734375,435.40625,4,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,37, that ,14816,1592581,408,245,229.2734375,400.375,249.7734375,435.40625,4,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,37, that ,14866,1592630,408,245,229.2734375,400.375,249.7734375,435.40625,4,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,37, that ,14917,1592682,420,246,229.2734375,400.375,249.7734375,435.40625,4,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,37, that ,14966,1592731,433,246,229.2734375,400.375,249.7734375,435.40625,4,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,38, the ,15016,1592780,448,244,229.2734375,435.40625,249.7734375,465.4296875,4,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,38, the ,15066,1592830,463,239,229.2734375,435.40625,249.7734375,465.4296875,4,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,39, new ,15116,1592880,485,235,229.2734375,465.4296875,249.7734375,503.453125,4,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,40, prototypes ,15166,1592931,504,234,229.2734375,503.453125,249.7734375,592.5078125,4,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,40, prototypes ,15216,1592980,521,234,229.2734375,503.453125,249.7734375,592.5078125,4,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,40, prototypes ,15266,1593030,538,234,229.2734375,503.453125,249.7734375,592.5078125,4,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,40, prototypes ,15316,1593080,550,234,229.2734375,503.453125,249.7734375,592.5078125,4,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,40, prototypes ,15365,1593130,551,234,229.2734375,503.453125,249.7734375,592.5078125,4,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,40, prototypes ,15416,1593180,551,234,229.2734375,503.453125,249.7734375,592.5078125,4,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,40, prototypes ,15466,1593231,551,234,229.2734375,503.453125,249.7734375,592.5078125,4,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,40, prototypes ,15516,1593280,551,234,229.2734375,503.453125,249.7734375,592.5078125,4,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,40, prototypes ,15566,1593331,551,234,229.2734375,503.453125,249.7734375,592.5078125,4,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,40, prototypes ,15616,1593381,556,234,229.2734375,503.453125,249.7734375,592.5078125,4,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,40, prototypes ,15666,1593430,571,234,229.2734375,503.453125,249.7734375,592.5078125,4,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,40, prototypes ,15716,1593480,590,234,229.2734375,503.453125,249.7734375,592.5078125,4,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,41, dispensed ,15765,1593530,616,236,229.2734375,592.5078125,249.7734375,679.578125,4,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,41, dispensed ,15816,1593581,630,238,229.2734375,592.5078125,249.7734375,679.578125,4,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,41, dispensed ,15865,1593630,641,239,229.2734375,592.5078125,249.7734375,679.578125,4,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,41, dispensed ,15915,1593680,651,239,229.2734375,592.5078125,249.7734375,679.578125,4,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,41, dispensed ,15966,1593731,663,240,229.2734375,592.5078125,249.7734375,679.578125,4,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,42, with ,16015,1593780,680,241,229.2734375,679.578125,249.7734375,716.59375,4,6,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,42, with ,16065,1593830,690,241,229.2734375,679.578125,249.7734375,716.59375,4,6,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,42, with ,16116,1593881,700,241,229.2734375,679.578125,249.7734375,716.59375,4,6,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,42, with ,16166,1593931,704,241,229.2734375,679.578125,249.7734375,716.59375,4,6,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,42, with ,16215,1593979,704,241,229.2734375,679.578125,249.7734375,716.59375,4,6,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,42, with ,16266,1594031,704,241,229.2734375,679.578125,249.7734375,716.59375,4,6,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,42, with ,16315,1594079,704,241,229.2734375,679.578125,249.7734375,716.59375,4,6,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,42, with ,16366,1594130,704,241,229.2734375,679.578125,249.7734375,716.59375,4,6,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,42, with ,16416,1594180,704,241,229.2734375,679.578125,249.7734375,716.59375,4,6,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,43, the ,16465,1594229,725,241,229.2734375,716.59375,249.7734375,746.6171875,4,7,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,44, steering ,16516,1594281,754,241,229.2734375,746.6171875,249.7734375,815.65625,4,8,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,44, steering ,16566,1594330,778,240,229.2734375,746.6171875,249.7734375,815.65625,4,8,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,44, steering ,16616,1594380,801,240,229.2734375,746.6171875,249.7734375,815.65625,4,8,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,45, wheel ,16666,1594430,825,241,229.2734375,815.65625,249.7734375,867.6875,4,9,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,45, wheel ,16716,1594480,845,242,229.2734375,815.65625,249.7734375,867.6875,4,9,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,45, wheel ,16765,1594530,866,242,229.2734375,815.65625,249.7734375,867.6875,4,9,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,46, and ,16816,1594580,885,242,229.2734375,867.6875,249.7734375,902.7265625,4,10,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,47, brakes ,16866,1594631,906,244,229.2734375,902.7265625,249.7734375,961.7578125,4,11,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,47, brakes ,16916,1594680,929,245,229.2734375,902.7265625,249.7734375,961.7578125,4,11,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,48, because ,16966,1594730,965,247,229.2734375,961.7578125,249.7734375,1034.8125,4,12,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,48, because ,17016,1594780,996,249,229.2734375,961.7578125,249.7734375,1034.8125,4,12,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,48, because ,17065,1594830,1027,256,229.2734375,961.7578125,249.7734375,1034.8125,4,12,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,65, was ,17115,1594880,1048,262,269.2734375,1017.484375,289.7734375,1049.5,5,16,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,17166,1594930,1059,262,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,17216,1594980,1062,262,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,17265,1595030,1062,262,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,48, because ,17315,1595080,1029,259,229.2734375,961.7578125,249.7734375,1034.8125,4,12,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,47, brakes ,17366,1595130,913,249,229.2734375,902.7265625,249.7734375,961.7578125,4,11,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,43, the ,17416,1595181,740,246,229.2734375,716.59375,249.7734375,746.6171875,4,7,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,41, dispensed ,17466,1595230,639,252,229.2734375,592.5078125,249.7734375,679.578125,4,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,52, might ,17516,1595280,563,267,269.2734375,549.4765625,289.7734375,598.5,5,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,51, passenger ,17566,1595330,511,278,269.2734375,460.4140625,289.7734375,549.4765625,5,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,50, human ,17616,1595380,460,285,269.2734375,400.375,289.7734375,460.4140625,5,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,50, human ,17666,1595431,428,291,269.2734375,400.375,289.7734375,460.4140625,5,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,50, human ,17715,1595480,412,291,269.2734375,400.375,289.7734375,460.4140625,5,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,17766,1595531,400,291,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,17815,1595580,394,289,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,17866,1595630,393,286,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,17916,1595681,392,285,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,17965,1595729,394,283,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,18016,1595781,399,281,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,50, human ,18066,1595831,409,280,269.2734375,400.375,289.7734375,460.4140625,5,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,50, human ,18116,1595881,428,278,269.2734375,400.375,289.7734375,460.4140625,5,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,50, human ,18165,1595930,452,278,269.2734375,400.375,289.7734375,460.4140625,5,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,51, passenger ,18216,1595980,469,278,269.2734375,460.4140625,289.7734375,549.4765625,5,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,51, passenger ,18266,1596030,486,278,269.2734375,460.4140625,289.7734375,549.4765625,5,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,51, passenger ,18315,1596080,505,275,269.2734375,460.4140625,289.7734375,549.4765625,5,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,51, passenger ,18366,1596130,523,273,269.2734375,460.4140625,289.7734375,549.4765625,5,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,51, passenger ,18416,1596180,544,273,269.2734375,460.4140625,289.7734375,549.4765625,5,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,52, might ,18466,1596230,563,273,269.2734375,549.4765625,289.7734375,598.5,5,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,52, might ,18516,1596280,583,271,269.2734375,549.4765625,289.7734375,598.5,5,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,52, might ,18566,1596330,596,271,269.2734375,549.4765625,289.7734375,598.5,5,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,53, not ,18616,1596380,609,272,269.2734375,598.5,289.7734375,628.5234375,5,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,53, not ,18666,1596430,616,273,269.2734375,598.5,289.7734375,628.5234375,5,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,53, not ,18716,1596480,616,273,269.2734375,598.5,289.7734375,628.5234375,5,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,53, not ,18766,1596531,616,273,269.2734375,598.5,289.7734375,628.5234375,5,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,53, not ,18815,1596580,616,273,269.2734375,598.5,289.7734375,628.5234375,5,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,53, not ,18864,1596629,616,273,269.2734375,598.5,289.7734375,628.5234375,5,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,53, not ,18916,1596680,624,272,269.2734375,598.5,289.7734375,628.5234375,5,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,54, be ,18965,1596730,651,268,269.2734375,628.5234375,289.7734375,653.546875,5,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,55, able ,19015,1596780,688,267,269.2734375,653.546875,289.7734375,692.5859375,5,6,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,57, take ,19065,1596830,718,269,269.2734375,712.6015625,289.7734375,751.625,5,8,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,57, take ,19116,1596880,740,273,269.2734375,712.6015625,289.7734375,751.625,5,8,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,58, over ,19165,1596930,754,275,269.2734375,751.625,289.7734375,791.6484375,5,9,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,58, over ,19215,1596979,763,277,269.2734375,751.625,289.7734375,791.6484375,5,9,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,58, over ,19266,1597030,773,279,269.2734375,751.625,289.7734375,791.6484375,5,9,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,58, over ,19316,1597080,787,280,269.2734375,751.625,289.7734375,791.6484375,5,9,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,59, in ,19365,1597130,802,280,269.2734375,791.6484375,289.7734375,810.6640625,5,10,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,60, an ,19415,1597180,815,281,269.2734375,810.6640625,289.7734375,835.6875,5,11,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,60, an ,19465,1597230,828,282,269.2734375,810.6640625,289.7734375,835.6875,5,11,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,61," emergency, ",19515,1597280,846,283,269.2734375,835.6875,289.7734375,933.40625,5,12,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,61," emergency, ",19565,1597330,872,286,269.2734375,835.6875,289.7734375,933.40625,5,12,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,61," emergency, ",19615,1597380,906,287,269.2734375,835.6875,289.7734375,933.40625,5,12,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,61," emergency, ",19665,1597430,931,290,269.2734375,835.6875,289.7734375,933.40625,5,12,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,62, and ,19715,1597480,951,291,269.2734375,933.40625,289.7734375,968.4453125,5,13,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,62, and ,19765,1597530,968,291,269.2734375,933.40625,289.7734375,968.4453125,5,13,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,63, that ,19815,1597580,982,289,269.2734375,968.4453125,289.7734375,1003.4765625,5,14,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,63, that ,19865,1597630,991,288,269.2734375,968.4453125,289.7734375,1003.4765625,5,14,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,63, that ,19915,1597680,997,288,269.2734375,968.4453125,289.7734375,1003.4765625,5,14,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,64, it ,19965,1597730,1006,288,269.2734375,1003.4765625,289.7734375,1017.484375,5,15,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,65, was ,20015,1597780,1019,288,269.2734375,1017.484375,289.7734375,1049.5,5,16,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,65, was ,20065,1597830,1028,288,269.2734375,1017.484375,289.7734375,1049.5,5,16,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,65, was ,20114,1597879,1031,288,269.2734375,1017.484375,289.7734375,1049.5,5,16,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,65, was ,20166,1597931,1032,287,269.2734375,1017.484375,289.7734375,1049.5,5,16,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,65, was ,20216,1597980,1027,289,269.2734375,1017.484375,289.7734375,1049.5,5,16,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,64, it ,20266,1598030,1007,297,269.2734375,1003.4765625,289.7734375,1017.484375,5,15,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,20315,1598080,979,305,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,20365,1598130,942,310,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,20415,1598180,876,316,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,73, button. ,20466,1598231,762,314,309.2734375,718.5546875,329.7734375,773.6015625,6,8,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,71, emergency ,20516,1598280,654,303,309.2734375,585.484375,329.7734375,679.53125,6,6,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,52, might ,20566,1598330,566,298,269.2734375,549.4765625,289.7734375,598.5,5,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,51, passenger ,20616,1598380,490,296,269.2734375,460.4140625,289.7734375,549.4765625,5,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,50, human ,20665,1598430,438,295,269.2734375,400.375,289.7734375,460.4140625,5,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,50, human ,20715,1598480,402,294,269.2734375,400.375,289.7734375,460.4140625,5,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,20765,1598530,383,294,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,20815,1598580,372,297,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,20865,1598630,371,299,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,20916,1598681,372,301,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,20966,1598730,381,308,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,21016,1598780,388,313,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,21065,1598830,394,315,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,21115,1598880,399,316,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,66, simpler ,21165,1598930,408,317,309.2734375,400.375,329.7734375,463.390625,6,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,66, simpler ,21216,1598980,422,317,309.2734375,400.375,329.7734375,463.390625,6,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,66, simpler ,21266,1599030,442,315,309.2734375,400.375,329.7734375,463.390625,6,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,66, simpler ,21316,1599080,462,316,309.2734375,400.375,329.7734375,463.390625,6,1,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,67, just ,21366,1599131,486,317,309.2734375,463.390625,329.7734375,496.40625,6,2,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,68, to ,21415,1599180,512,318,309.2734375,496.40625,329.7734375,516.421875,6,3,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,69, have ,21466,1599230,529,318,309.2734375,516.421875,329.7734375,560.4609375,6,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,69, have ,21515,1599280,546,321,309.2734375,516.421875,329.7734375,560.4609375,6,4,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,70, an ,21566,1599330,563,325,309.2734375,560.4609375,329.7734375,585.484375,6,5,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,71, emergency ,21616,1599380,600,326,309.2734375,585.484375,329.7734375,679.53125,6,6,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,71, emergency ,21666,1599430,641,326,309.2734375,585.484375,329.7734375,679.53125,6,6,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,71, emergency ,21716,1599480,676,325,309.2734375,585.484375,329.7734375,679.53125,6,6,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,72, stop ,21765,1599530,686,325,309.2734375,679.53125,329.7734375,718.5546875,6,7,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,72, stop ,21815,1599580,686,325,309.2734375,679.53125,329.7734375,718.5546875,6,7,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,72, stop ,21866,1599631,686,325,309.2734375,679.53125,329.7734375,718.5546875,6,7,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,72, stop ,21916,1599680,686,325,309.2734375,679.53125,329.7734375,718.5546875,6,7,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,72, stop ,21966,1599731,686,325,309.2734375,679.53125,329.7734375,718.5546875,6,7,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,72, stop ,22015,1599780,686,325,309.2734375,679.53125,329.7734375,718.5546875,6,7,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,72, stop ,22066,1599831,686,325,309.2734375,679.53125,329.7734375,718.5546875,6,7,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,72, stop ,22115,1599880,688,325,309.2734375,679.53125,329.7734375,718.5546875,6,7,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,72, stop ,22165,1599930,710,331,309.2734375,679.53125,329.7734375,718.5546875,6,7,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,73, button. ,22215,1599980,730,337,309.2734375,718.5546875,329.7734375,773.6015625,6,8,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,22265,1600030,743,350,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,22316,1600080,745,356,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,22364,1600129,745,356,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,22415,1600180,745,356,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,22465,1600230,745,356,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,22516,1600280,745,356,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,9,6,37,38,-1,,22565,1600330,745,356,,,,,,,Volvos will keep their driver controls,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
