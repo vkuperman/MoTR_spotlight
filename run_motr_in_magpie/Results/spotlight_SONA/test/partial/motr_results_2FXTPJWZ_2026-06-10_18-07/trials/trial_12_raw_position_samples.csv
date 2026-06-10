@@ -1,0 +1,26 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,318,578106,363,244,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,4, sitting ,369,578157,537,117,111.2734375,490.40625,131.7734375,542.4296875,1,4,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,9, the ,418,578207,735,117,111.2734375,710.5390625,131.7734375,740.40625,1,9,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,468,578256,815,162,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,518,578307,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,567,578356,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,617,578406,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,668,578456,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,718,578507,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,768,578557,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,818,578606,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,868,578656,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,917,578706,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,968,578756,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,1018,578806,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,1068,578856,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,1118,578906,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,1168,578956,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,1218,579006,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,1268,579056,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,1318,579106,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,1368,579156,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,1418,579206,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,1468,579256,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,1,11,12,-1,999,1518,579307,868,246,,,,,,,Central Park,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
