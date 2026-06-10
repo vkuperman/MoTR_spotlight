@@ -1,0 +1,20 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,17,2,49,50,51, 580 ,768,704106,553,247,231.2734375,530.515625,251.7734375,565.5546875,4,4,In Algier,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,2,49,50,-1,999,818,704157,587,219,,,,,,,In Algier,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,2,49,50,37, Ouarzazate ,868,704207,644,207,191.2734375,572.5234375,211.7734375,670.578125,3,6,In Algier,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,2,49,50,-1,999,917,704256,693,207,,,,,,,In Algier,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,2,49,50,55, enough ,967,704306,808,246,231.2734375,767.3046875,251.7734375,832.375,4,8,In Algier,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,2,49,50,-1,999,1018,704357,855,277,,,,,,,In Algier,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,2,49,50,-1,999,1067,704406,855,277,,,,,,,In Algier,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,2,49,50,-1,999,1117,704456,855,277,,,,,,,In Algier,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,2,49,50,-1,999,1167,704506,855,277,,,,,,,In Algier,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,2,49,50,-1,999,1217,704556,855,277,,,,,,,In Algier,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,2,49,50,-1,999,1267,704606,855,277,,,,,,,In Algier,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,2,49,50,-1,999,1317,704656,855,277,,,,,,,In Algier,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,2,49,50,-1,999,1367,704706,855,277,,,,,,,In Algier,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,2,49,50,-1,999,1417,704756,855,277,,,,,,,In Algier,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,2,49,50,-1,999,1467,704806,855,277,,,,,,,In Algier,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,2,49,50,-1,999,1517,704856,855,277,,,,,,,In Algier,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,2,49,50,-1,999,1567,704906,855,277,,,,,,,In Algier,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,2,49,50,-1,999,1617,704956,855,277,,,,,,,In Algier,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,2,49,50,-1,999,1668,705007,855,277,,,,,,,In Algier,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
