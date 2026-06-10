@@ -1,0 +1,14 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,1,ele,27,5,15,16,-1,999,336,589757,525,326,,,,,,,The worth of real estate where one lives,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,5,15,16,57, or ,385,589807,584,235,231.2734375,571.5234375,251.7734375,592.53125,4,5,The worth of real estate where one lives,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,5,15,16,-1,999,435,589856,662,234,,,,,,,The worth of real estate where one lives,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,5,15,16,127, that ,485,589907,782,399,391.2734375,753.609375,411.7734375,788.640625,8,10,The worth of real estate where one lives,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,5,15,16,-1,999,535,589956,782,399,,,,,,,The worth of real estate where one lives,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,5,15,16,-1,999,585,590006,782,399,,,,,,,The worth of real estate where one lives,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,5,15,16,-1,999,635,590056,782,399,,,,,,,The worth of real estate where one lives,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,5,15,16,-1,999,685,590106,782,399,,,,,,,The worth of real estate where one lives,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,5,15,16,-1,999,735,590156,782,399,,,,,,,The worth of real estate where one lives,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,5,15,16,-1,999,785,590206,782,399,,,,,,,The worth of real estate where one lives,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,5,15,16,-1,999,835,590256,782,399,,,,,,,The worth of real estate where one lives,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,5,15,16,-1,999,884,590306,782,399,,,,,,,The worth of real estate where one lives,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,5,15,16,-1,999,934,590356,782,399,,,,,,,The worth of real estate where one lives,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
