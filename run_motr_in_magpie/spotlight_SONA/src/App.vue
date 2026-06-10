@@ -453,6 +453,10 @@ export default {
         oval.style.width = '0px';
         oval.style.height = '0px';
       }
+      const readingText = this.$el.querySelector('.readingText');
+      if (readingText) {
+        readingText.style.clipPath = 'none';
+      }
       this.currentIndex = null;
       this.isClickHeld = false;
     },
@@ -476,10 +480,21 @@ export default {
       const ovalWidthPx = totalChars * charWidth;
       const ovalHeightPx = line ? line.lineHeight : 20;
       const ovalCenterY = line ? (line.lineTop + line.lineBottom) / 2 : y;
+      const ovalCenterX = x + (charsRight - charsLeft) / 2 * charWidth;
       oval.style.width = `${ovalWidthPx}px`;
       oval.style.height = `${ovalHeightPx}px`;
-      oval.style.left = `${x + (charsRight - charsLeft) / 2 * charWidth}px`;
+      oval.style.left = `${ovalCenterX}px`;
       oval.style.top = `${ovalCenterY}px`;
+
+      const readingText = this.$el.querySelector('.readingText');
+      if (readingText) {
+        const textRect = readingText.getBoundingClientRect();
+        const clipX = ovalCenterX - textRect.left;
+        const clipY = ovalCenterY - textRect.top;
+        const clipRx = ovalWidthPx / 2;
+        const clipRy = ovalHeightPx / 2;
+        readingText.style.clipPath = `ellipse(${clipRx}px ${clipRy}px at ${clipX}px ${clipY}px)`;
+      }
 
       // Detect new text (ItemId change) and reset interest areas.
       const itemInput = this.$el.querySelector(".item_id");
@@ -768,7 +783,6 @@ export default {
     align-items: stretch;
   }
   .main_screen {
-    isolation: isolate;
     position: relative;
     width: 100%;
     height: auto;
@@ -818,7 +832,8 @@ export default {
     top: 0;
     left: 0;
     right: 0;
-    color: white;
+    z-index: 2;
+    color: black;
     text-align: left;
     font-weight: 450;
     cursor: pointer;
@@ -827,6 +842,7 @@ export default {
     padding-left: 11%;
     padding-right: 11%;
     pointer-events: auto;
+    clip-path: none;
   }
   button {
     position: absolute;
@@ -853,44 +869,27 @@ export default {
   }
   .oval-cursor {
     position: fixed;
-    z-index: 2;
+    z-index: 3;
     width: 0;
     height: 0;
     transform: translate(-50%, -50%);
-    background-color: white;
-    mix-blend-mode: difference;
+    background-color: transparent;
     border-radius: 50%;
     pointer-events: none;
     transition: none;
   }
   .oval-cursor.grow {
     border-radius: 50%;
-    box-shadow: 30px 0 8px -4px rgba(255, 255, 255, 0.1), -30px 0 8px -4px rgba(255, 255, 255, 0.1);
-    background-color: rgba(255, 255, 255, 0.3);
-    background-blend-mode: screen;
+    box-shadow: 30px 0 8px -4px rgba(0, 0, 0, 0.06), -30px 0 8px -4px rgba(0, 0, 0, 0.06);
+    background-color: rgba(255, 255, 255, 0.12);
     pointer-events: none;
-    filter: blur(3px);
   }
-  .oval-cursor.grow.blank::before {
-    opacity: 0;
-  }
-  .oval-cursor.grow::before {
-    content: "";
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 70%;
-    height: 70%;
-    background-color: white;
-    mix-blend-mode: normal;
-    border-radius: 50%;
-}
   .blurry-layer {
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
+    z-index: 1;
     pointer-events: none;
     color: black;
     text-align: left;
