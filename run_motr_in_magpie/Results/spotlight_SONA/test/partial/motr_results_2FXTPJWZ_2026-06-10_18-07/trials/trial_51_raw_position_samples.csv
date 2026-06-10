@@ -1,0 +1,24 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,669,707657,529,328,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,20, nuclear ,719,707707,504,162,151.2734375,478.4453125,171.7734375,542.484375,2,3,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,4, solar ,769,707757,539,122,111.2734375,496.4609375,131.7734375,540.4765625,1,4,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,819,707807,620,110,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,868,707856,700,128,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,918,707906,791,208,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,969,707957,791,380,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,1018,708006,762,436,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,1068,708056,762,436,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,1118,708106,762,436,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,1168,708156,762,436,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,1219,708207,762,436,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,1269,708257,762,436,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,1319,708307,762,436,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,1369,708357,762,436,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,1417,708405,762,436,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,1468,708456,762,436,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,1517,708505,762,436,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,1568,708556,762,436,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,1618,708606,762,436,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,1668,708656,762,436,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,1719,708706,762,436,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,3,50,51,-1,999,1769,708756,762,436,,,,,,,Morocco will host an international convention on solar energy,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
