@@ -1,0 +1,16 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,7,6,65,66,-1,999,1634,797857,548,405,,,,,,,Sell more bikes than General Electric,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,6,65,66,-1,999,1684,797907,527,299,,,,,,,Sell more bikes than General Electric,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,6,65,66,-1,999,1734,797957,549,294,,,,,,,Sell more bikes than General Electric,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,6,65,66,-1,999,1784,798007,622,321,,,,,,,Sell more bikes than General Electric,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,6,65,66,-1,999,1833,798056,782,533,,,,,,,Sell more bikes than General Electric,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,6,65,66,-1,999,1883,798106,782,533,,,,,,,Sell more bikes than General Electric,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,6,65,66,-1,999,1933,798155,782,533,,,,,,,Sell more bikes than General Electric,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,6,65,66,-1,999,1983,798205,782,533,,,,,,,Sell more bikes than General Electric,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,6,65,66,-1,999,2033,798255,782,533,,,,,,,Sell more bikes than General Electric,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,6,65,66,-1,999,2083,798306,782,533,,,,,,,Sell more bikes than General Electric,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,6,65,66,-1,999,2134,798357,782,533,,,,,,,Sell more bikes than General Electric,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,6,65,66,-1,999,2184,798407,782,533,,,,,,,Sell more bikes than General Electric,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,6,65,66,-1,999,2234,798457,782,533,,,,,,,Sell more bikes than General Electric,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,6,65,66,-1,999,2283,798506,782,533,,,,,,,Sell more bikes than General Electric,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,6,65,66,-1,999,2333,798556,782,533,,,,,,,Sell more bikes than General Electric,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
