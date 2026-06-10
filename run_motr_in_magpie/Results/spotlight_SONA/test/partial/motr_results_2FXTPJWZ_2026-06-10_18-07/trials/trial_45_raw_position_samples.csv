@@ -1,0 +1,17 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,26,1,44,45,-1,999,350,687456,507,351,,,,,,,2nd,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,1,44,45,-1,999,401,687507,535,179,,,,,,,2nd,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,1,44,45,8, live ,450,687556,650,129,111.2734375,621.8828125,131.7734375,653.8984375,1,8,2nd,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,1,44,45,-1,999,501,687607,794,231,,,,,,,2nd,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,1,44,45,102, environment. ,551,687657,825,370,351.2734375,732.6640625,371.7734375,841.71875,7,7,2nd,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,1,44,45,-1,999,601,687707,806,425,,,,,,,2nd,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,1,44,45,-1,999,650,687756,806,425,,,,,,,2nd,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,1,44,45,-1,999,700,687806,806,425,,,,,,,2nd,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,1,44,45,-1,999,750,687856,806,425,,,,,,,2nd,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,1,44,45,-1,999,800,687906,806,425,,,,,,,2nd,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,1,44,45,-1,999,850,687956,806,425,,,,,,,2nd,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,1,44,45,-1,999,900,688006,806,425,,,,,,,2nd,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,1,44,45,-1,999,950,688056,806,425,,,,,,,2nd,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,1,44,45,-1,999,1000,688106,806,425,,,,,,,2nd,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,1,44,45,-1,999,1051,688157,806,425,,,,,,,2nd,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,1,44,45,-1,999,1101,688207,806,425,,,,,,,2nd,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
