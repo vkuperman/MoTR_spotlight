@@ -1,0 +1,27 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,635,733707,469,214,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,685,733756,472,97,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,734,733806,472,97,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,784,733856,613,104,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,834,733906,777,94,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,884,733956,816,177,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,71, season ,935,734007,793,275,271.2734375,792.9375,291.7734375,855.984375,5,10,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,984,734056,747,358,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,1034,734106,747,358,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,1085,734156,747,358,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,1135,734207,747,358,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,1185,734257,747,358,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,1235,734307,747,358,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,1284,734355,747,358,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,1335,734407,747,358,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,1384,734456,747,358,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,1434,734506,747,358,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,1483,734555,747,358,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,1534,734606,747,358,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,1584,734656,747,358,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,1634,734706,747,358,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,1684,734756,747,358,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,1734,734806,747,358,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,1784,734856,747,358,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,1834,734906,747,358,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,5,57,58,-1,999,1884,734956,747,358,,,,,,,"Slow, unreliable ferries",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
