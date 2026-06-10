@@ -92,6 +92,7 @@
           </form>
           <div class="trial-slide-layout">
             <div class="trial-text-region">
+              <div class="oval-cursor"></div>
               <div v-if="showFirstDiv" class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
                 <template v-for="(word, index) of trial.text.split(' ')">
                   <span :key="index" :data-index="index + 1">
@@ -102,7 +103,6 @@
               <div class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;">
                 {{ trial.text }}
               </div>
-              <div class="oval-cursor"></div>
             </div>
 
             <div v-if="!showFirstDiv" class="trial-comprehension-panel">
@@ -796,6 +796,7 @@ export default {
     flex: 0 0 auto;
     width: 100%;
     background-color: #fff;
+    isolation: isolate;
   }
   .trial-actions {
     flex: 0 0 auto;
@@ -811,7 +812,6 @@ export default {
     top: 0;
     left: 0;
     right: 0;
-    z-index: 1;
     color: white;
     text-align: left;
     font-weight: 450;
@@ -847,7 +847,7 @@ export default {
   }
   .oval-cursor {
     position: fixed;
-    z-index: 3;
+    z-index: 2;
     width: 0;
     height: 0;
     transform: translate(-50%, -50%);
@@ -882,7 +882,6 @@ export default {
 }
   .blurry-layer {
     position: relative;
-    z-index: 2;
     pointer-events: none;
     color: black;
     text-align: left;
