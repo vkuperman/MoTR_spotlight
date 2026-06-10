@@ -1,0 +1,20 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,19,3,40,41,60, became ,351,675557,546,286,271.2734375,542.4921875,291.7734375,611.53125,5,3,It allows birds to have tall trees to nest in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,3,40,41,-1,999,401,675607,613,250,,,,,,,It allows birds to have tall trees to nest in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,3,40,41,-1,999,450,675656,694,282,,,,,,,It allows birds to have tall trees to nest in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,3,40,41,-1,999,499,675706,782,383,,,,,,,It allows birds to have tall trees to nest in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,3,40,41,-1,999,549,675756,782,383,,,,,,,It allows birds to have tall trees to nest in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,3,40,41,49, in.” ,601,675807,712,236,231.2734375,682.53125,251.7734375,712.3828125,4,10,It allows birds to have tall trees to nest in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,3,40,41,-1,999,651,675857,703,159,,,,,,,It allows birds to have tall trees to nest in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,3,40,41,8, need ,700,675906,729,122,111.2734375,725.5390625,131.7734375,770.5859375,1,8,It allows birds to have tall trees to nest in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,3,40,41,-1,999,750,675956,827,339,,,,,,,It allows birds to have tall trees to nest in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,3,40,41,-1,999,800,676006,827,339,,,,,,,It allows birds to have tall trees to nest in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,3,40,41,-1,999,850,676056,827,339,,,,,,,It allows birds to have tall trees to nest in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,3,40,41,-1,999,899,676106,827,339,,,,,,,It allows birds to have tall trees to nest in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,3,40,41,-1,999,951,676157,827,339,,,,,,,It allows birds to have tall trees to nest in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,3,40,41,-1,999,1000,676206,827,339,,,,,,,It allows birds to have tall trees to nest in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,3,40,41,-1,999,1050,676256,827,339,,,,,,,It allows birds to have tall trees to nest in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,3,40,41,-1,999,1100,676306,827,339,,,,,,,It allows birds to have tall trees to nest in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,3,40,41,-1,999,1150,676356,827,339,,,,,,,It allows birds to have tall trees to nest in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,3,40,41,-1,999,1206,676412,827,339,,,,,,,It allows birds to have tall trees to nest in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,3,40,41,-1,999,1251,676457,827,339,,,,,,,It allows birds to have tall trees to nest in,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
