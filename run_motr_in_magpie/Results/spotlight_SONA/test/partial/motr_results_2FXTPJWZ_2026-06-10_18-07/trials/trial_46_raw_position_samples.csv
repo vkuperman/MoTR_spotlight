@@ -1,0 +1,15 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,26,2,45,46,-1,999,369,690357,511,325,,,,,,,"£2,000",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,2,45,46,-1,999,419,690407,556,256,,,,,,,"£2,000",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,2,45,46,34, Vienna ,468,690456,635,234,191.2734375,594.5,211.7734375,655.234375,3,6,"£2,000",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,2,45,46,-1,999,518,690506,761,323,,,,,,,"£2,000",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,2,45,46,-1,999,568,690556,761,323,,,,,,,"£2,000",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,2,45,46,-1,999,618,690606,761,323,,,,,,,"£2,000",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,2,45,46,-1,999,668,690656,761,323,,,,,,,"£2,000",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,2,45,46,-1,999,718,690706,761,323,,,,,,,"£2,000",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,2,45,46,-1,999,768,690756,761,323,,,,,,,"£2,000",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,2,45,46,-1,999,818,690806,761,323,,,,,,,"£2,000",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,2,45,46,-1,999,868,690856,761,323,,,,,,,"£2,000",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,2,45,46,-1,999,918,690906,761,323,,,,,,,"£2,000",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,2,45,46,-1,999,968,690956,761,323,,,,,,,"£2,000",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,26,2,45,46,-1,999,1019,691007,761,323,,,,,,,"£2,000",0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
