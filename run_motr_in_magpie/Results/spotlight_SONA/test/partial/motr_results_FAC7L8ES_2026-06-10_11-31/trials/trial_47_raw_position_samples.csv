@@ -1,0 +1,743 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+FAC7L8ES,,3,adv,6,2,46,47,41, housing ,3880,1929077,623,256,229.2734375,588.5078125,249.7734375,656.5625,4,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,41, housing ,3933,1929130,623,256,229.2734375,588.5078125,249.7734375,656.5625,4,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,41, housing ,3983,1929180,623,256,229.2734375,588.5078125,249.7734375,656.5625,4,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,41, housing ,4033,1929230,623,256,229.2734375,588.5078125,249.7734375,656.5625,4,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,41, housing ,4083,1929280,623,256,229.2734375,588.5078125,249.7734375,656.5625,4,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,41, housing ,4133,1929331,623,256,229.2734375,588.5078125,249.7734375,656.5625,4,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,41, housing ,4183,1929380,623,256,229.2734375,588.5078125,249.7734375,656.5625,4,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,41, housing ,4233,1929430,623,256,229.2734375,588.5078125,249.7734375,656.5625,4,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,41, housing ,4283,1929481,623,256,229.2734375,588.5078125,249.7734375,656.5625,4,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,41, housing ,4333,1929531,623,256,229.2734375,588.5078125,249.7734375,656.5625,4,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,41, housing ,4383,1929581,623,256,229.2734375,588.5078125,249.7734375,656.5625,4,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,41, housing ,4435,1929633,623,256,229.2734375,588.5078125,249.7734375,656.5625,4,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,41, housing ,4483,1929680,600,256,229.2734375,588.5078125,249.7734375,656.5625,4,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,26, astrotourism ,4533,1929730,457,209,189.2734375,400.375,209.7734375,504.40625,3,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,12, it’s ,4583,1929780,406,176,149.2734375,400.375,169.7734375,427.0625,2,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,4633,1929831,394,162,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,4683,1929880,392,156,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,4733,1929930,390,148,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,4781,1929979,390,143,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,4833,1930031,391,135,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,4883,1930080,395,125,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,1," “Remember,” ",4933,1930130,397,123,109.2734375,400.375,129.7734375,510.40625,1,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,1," “Remember,” ",4983,1930180,403,119,109.2734375,400.375,129.7734375,510.40625,1,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,1," “Remember,” ",5033,1930230,410,117,109.2734375,400.375,129.7734375,510.40625,1,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,1," “Remember,” ",5082,1930280,412,117,109.2734375,400.375,129.7734375,510.40625,1,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,1," “Remember,” ",5133,1930330,412,117,109.2734375,400.375,129.7734375,510.40625,1,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,1," “Remember,” ",5183,1930381,412,117,109.2734375,400.375,129.7734375,510.40625,1,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,1," “Remember,” ",5233,1930430,412,117,109.2734375,400.375,129.7734375,510.40625,1,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,1," “Remember,” ",5283,1930480,412,117,109.2734375,400.375,129.7734375,510.40625,1,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,1," “Remember,” ",5334,1930531,413,117,109.2734375,400.375,129.7734375,510.40625,1,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,1," “Remember,” ",5383,1930581,443,116,109.2734375,400.375,129.7734375,510.40625,1,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,1," “Remember,” ",5433,1930630,476,116,109.2734375,400.375,129.7734375,510.40625,1,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,1," “Remember,” ",5483,1930681,500,115,109.2734375,400.375,129.7734375,510.40625,1,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,2, Fildes ,5533,1930730,528,112,109.2734375,510.40625,129.7734375,563.421875,1,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,2, Fildes ,5583,1930781,553,111,109.2734375,510.40625,129.7734375,563.421875,1,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,3, tells ,5633,1930831,571,112,109.2734375,563.421875,129.7734375,600.4375,1,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,3, tells ,5683,1930880,583,114,109.2734375,563.421875,129.7734375,600.4375,1,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,3, tells ,5733,1930930,599,115,109.2734375,563.421875,129.7734375,600.4375,1,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,4, his ,5782,1930980,616,116,109.2734375,600.4375,129.7734375,628.453125,1,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,4, his ,5832,1931029,623,115,109.2734375,600.4375,129.7734375,628.453125,1,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,4, his ,5883,1931081,623,115,109.2734375,600.4375,129.7734375,628.453125,1,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,4, his ,5933,1931131,623,115,109.2734375,600.4375,129.7734375,628.453125,1,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,4, his ,5982,1931179,623,115,109.2734375,600.4375,129.7734375,628.453125,1,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,4, his ,6034,1931231,623,115,109.2734375,600.4375,129.7734375,628.453125,1,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,4, his ,6083,1931281,623,115,109.2734375,600.4375,129.7734375,628.453125,1,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,5," team, ",6133,1931330,632,115,109.2734375,628.453125,129.7734375,678.4765625,1,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,5," team, ",6185,1931382,651,115,109.2734375,628.453125,129.7734375,678.4765625,1,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,5," team, ",6232,1931430,668,117,109.2734375,628.453125,129.7734375,678.4765625,1,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,6, “it’s ,6283,1931480,682,118,109.2734375,678.4765625,129.7734375,711.15625,1,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,6, “it’s ,6333,1931530,695,118,109.2734375,678.4765625,129.7734375,711.15625,1,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,7, about ,6383,1931580,712,118,109.2734375,711.15625,129.7734375,761.203125,1,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,7, about ,6433,1931631,732,118,109.2734375,711.15625,129.7734375,761.203125,1,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,7, about ,6483,1931680,760,117,109.2734375,711.15625,129.7734375,761.203125,1,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,8," interaction, ",6533,1931730,785,115,109.2734375,761.203125,129.7734375,854.2578125,1,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,8," interaction, ",6583,1931781,805,115,109.2734375,761.203125,129.7734375,854.2578125,1,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,8," interaction, ",6633,1931831,825,113,109.2734375,761.203125,129.7734375,854.2578125,1,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,8," interaction, ",6683,1931880,845,113,109.2734375,761.203125,129.7734375,854.2578125,1,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,9, it’s ,6733,1931931,870,114,109.2734375,854.2578125,129.7734375,880.9453125,1,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,10, about ,6783,1931980,895,120,109.2734375,880.9453125,129.7734375,930.9921875,1,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,10, about ,6833,1932030,922,130,109.2734375,880.9453125,129.7734375,930.9921875,1,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,25, burgeoning ,6883,1932080,946,141,149.2734375,940.0625,169.7734375,1030.1484375,2,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,25, burgeoning ,6933,1932130,962,146,149.2734375,940.0625,169.7734375,1030.1484375,2,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,25, burgeoning ,6983,1932180,972,146,149.2734375,940.0625,169.7734375,1030.1484375,2,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,25, burgeoning ,7033,1932231,979,146,149.2734375,940.0625,169.7734375,1030.1484375,2,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,25, burgeoning ,7083,1932280,984,144,149.2734375,940.0625,169.7734375,1030.1484375,2,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,25, burgeoning ,7132,1932330,986,143,149.2734375,940.0625,169.7734375,1030.1484375,2,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,25, burgeoning ,7183,1932380,987,143,149.2734375,940.0625,169.7734375,1030.1484375,2,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,25, burgeoning ,7233,1932430,984,142,149.2734375,940.0625,169.7734375,1030.1484375,2,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,11," entertainment, ",7283,1932480,939,139,109.2734375,930.9921875,129.7734375,1046.0625,1,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,8," interaction, ",7333,1932530,816,139,109.2734375,761.203125,129.7734375,854.2578125,1,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,15, people.” ,7383,1932580,610,156,149.2734375,549.1484375,169.7734375,619.203125,2,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,13, about ,7433,1932630,471,168,149.2734375,427.0625,169.7734375,477.109375,2,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,12, it’s ,7483,1932680,424,167,149.2734375,400.375,169.7734375,427.0625,2,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,12, it’s ,7533,1932730,415,165,149.2734375,400.375,169.7734375,427.0625,2,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,12, it’s ,7583,1932780,410,163,149.2734375,400.375,169.7734375,427.0625,2,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,12, it’s ,7633,1932830,407,162,149.2734375,400.375,169.7734375,427.0625,2,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,12, it’s ,7682,1932880,407,158,149.2734375,400.375,169.7734375,427.0625,2,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,12, it’s ,7733,1932930,407,154,149.2734375,400.375,169.7734375,427.0625,2,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,12, it’s ,7783,1932980,407,152,149.2734375,400.375,169.7734375,427.0625,2,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,12, it’s ,7833,1933030,407,152,149.2734375,400.375,169.7734375,427.0625,2,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,12, it’s ,7883,1933080,407,152,149.2734375,400.375,169.7734375,427.0625,2,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,12, it’s ,7933,1933130,407,152,149.2734375,400.375,169.7734375,427.0625,2,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,12, it’s ,7983,1933181,408,152,149.2734375,400.375,169.7734375,427.0625,2,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,12, it’s ,8033,1933230,425,153,149.2734375,400.375,169.7734375,427.0625,2,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,13, about ,8083,1933281,451,153,149.2734375,427.0625,169.7734375,477.109375,2,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,13, about ,8133,1933330,474,152,149.2734375,427.0625,169.7734375,477.109375,2,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,14, inspiring ,8183,1933380,491,150,149.2734375,477.109375,169.7734375,549.1484375,2,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,14, inspiring ,8233,1933430,503,149,149.2734375,477.109375,169.7734375,549.1484375,2,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,14, inspiring ,8283,1933480,515,146,149.2734375,477.109375,169.7734375,549.1484375,2,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,14, inspiring ,8333,1933530,530,144,149.2734375,477.109375,169.7734375,549.1484375,2,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,15, people.” ,8383,1933580,551,145,149.2734375,549.1484375,169.7734375,619.203125,2,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,15, people.” ,8433,1933630,577,146,149.2734375,549.1484375,169.7734375,619.203125,2,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,15, people.” ,8483,1933680,605,148,149.2734375,549.1484375,169.7734375,619.203125,2,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,15, people.” ,8533,1933730,616,150,149.2734375,549.1484375,169.7734375,619.203125,2,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,15, people.” ,8583,1933781,617,150,149.2734375,549.1484375,169.7734375,619.203125,2,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,15, people.” ,8633,1933830,617,150,149.2734375,549.1484375,169.7734375,619.203125,2,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,15, people.” ,8683,1933881,617,150,149.2734375,549.1484375,169.7734375,619.203125,2,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,15, people.” ,8733,1933930,617,150,149.2734375,549.1484375,169.7734375,619.203125,2,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,15, people.” ,8783,1933980,617,150,149.2734375,549.1484375,169.7734375,619.203125,2,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,15, people.” ,8834,1934031,617,150,149.2734375,549.1484375,169.7734375,619.203125,2,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,16," Fildes, ",8883,1934080,621,149,149.2734375,619.203125,169.7734375,677.2265625,2,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,16," Fildes, ",8933,1934130,655,140,149.2734375,619.203125,169.7734375,677.2265625,2,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,6, “it’s ,8983,1934180,695,136,109.2734375,678.4765625,129.7734375,711.15625,1,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,7, about ,9033,1934230,719,136,109.2734375,711.15625,129.7734375,761.203125,1,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,7, about ,9083,1934280,733,136,109.2734375,711.15625,129.7734375,761.203125,1,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,7, about ,9133,1934330,746,136,109.2734375,711.15625,129.7734375,761.203125,1,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,7, about ,9183,1934380,757,136,109.2734375,711.15625,129.7734375,761.203125,1,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,8," interaction, ",9233,1934430,768,137,109.2734375,761.203125,129.7734375,854.2578125,1,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,8," interaction, ",9283,1934480,775,139,109.2734375,761.203125,129.7734375,854.2578125,1,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,21, forefront ,9333,1934530,780,140,149.2734375,775.2890625,169.7734375,847.328125,2,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,21, forefront ,9382,1934579,782,141,149.2734375,775.2890625,169.7734375,847.328125,2,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,21, forefront ,9433,1934631,781,143,149.2734375,775.2890625,169.7734375,847.328125,2,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,20, the ,9483,1934680,764,154,149.2734375,745.265625,169.7734375,775.2890625,2,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,19, at ,9533,1934730,737,165,149.2734375,725.25,169.7734375,745.265625,2,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,18, is ,9583,1934780,724,167,149.2734375,707.25,169.7734375,725.25,2,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,18, is ,9633,1934830,723,167,149.2734375,707.25,169.7734375,725.25,2,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,18, is ,9681,1934879,723,167,149.2734375,707.25,169.7734375,725.25,2,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,18, is ,9733,1934930,711,168,149.2734375,707.25,169.7734375,725.25,2,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,17," 49, ",9783,1934981,679,168,149.2734375,677.2265625,169.7734375,707.25,2,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,16," Fildes, ",9832,1935030,660,167,149.2734375,619.203125,169.7734375,677.2265625,2,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,16," Fildes, ",9882,1935080,658,167,149.2734375,619.203125,169.7734375,677.2265625,2,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,16," Fildes, ",9933,1935130,664,166,149.2734375,619.203125,169.7734375,677.2265625,2,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,17," 49, ",9983,1935180,684,166,149.2734375,677.2265625,169.7734375,707.25,2,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,18, is ,10033,1935230,722,163,149.2734375,707.25,169.7734375,725.25,2,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,19, at ,10083,1935280,742,161,149.2734375,725.25,169.7734375,745.265625,2,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,20, the ,10133,1935330,753,161,149.2734375,745.265625,169.7734375,775.2890625,2,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,20, the ,10183,1935380,760,161,149.2734375,745.265625,169.7734375,775.2890625,2,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,21, forefront ,10233,1935430,776,161,149.2734375,775.2890625,169.7734375,847.328125,2,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,21, forefront ,10283,1935480,796,159,149.2734375,775.2890625,169.7734375,847.328125,2,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,21, forefront ,10333,1935530,820,155,149.2734375,775.2890625,169.7734375,847.328125,2,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,21, forefront ,10383,1935580,842,154,149.2734375,775.2890625,169.7734375,847.328125,2,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,22, of ,10433,1935630,859,154,149.2734375,847.328125,169.7734375,867.34375,2,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,23, the ,10483,1935680,878,155,149.2734375,867.34375,169.7734375,897.3671875,2,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,24, UK’s ,10532,1935730,900,158,149.2734375,897.3671875,169.7734375,940.0625,2,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,24, UK’s ,10583,1935780,927,162,149.2734375,897.3671875,169.7734375,940.0625,2,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,25, burgeoning ,10633,1935831,946,167,149.2734375,940.0625,169.7734375,1030.1484375,2,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,25, burgeoning ,10683,1935880,962,170,149.2734375,940.0625,169.7734375,1030.1484375,2,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,25, burgeoning ,10732,1935930,972,170,149.2734375,940.0625,169.7734375,1030.1484375,2,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,25, burgeoning ,10783,1935980,979,170,149.2734375,940.0625,169.7734375,1030.1484375,2,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,25, burgeoning ,10833,1936031,984,170,149.2734375,940.0625,169.7734375,1030.1484375,2,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,25, burgeoning ,10883,1936080,991,170,149.2734375,940.0625,169.7734375,1030.1484375,2,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,25, burgeoning ,10933,1936130,997,168,149.2734375,940.0625,169.7734375,1030.1484375,2,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,25, burgeoning ,10983,1936181,998,168,149.2734375,940.0625,169.7734375,1030.1484375,2,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,25, burgeoning ,11032,1936230,987,168,149.2734375,940.0625,169.7734375,1030.1484375,2,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,24, UK’s ,11083,1936280,936,170,149.2734375,897.3671875,169.7734375,940.0625,2,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,21, forefront ,11132,1936330,822,170,149.2734375,775.2890625,169.7734375,847.328125,2,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,18, is ,11183,1936381,721,170,149.2734375,707.25,169.7734375,725.25,2,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,16," Fildes, ",11233,1936430,655,177,149.2734375,619.203125,169.7734375,677.2265625,2,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,28, The ,11283,1936480,606,183,189.2734375,575.953125,209.7734375,611.8125,3,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,27, industry. ,11333,1936530,561,191,189.2734375,504.40625,209.7734375,575.953125,3,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,27, industry. ,11383,1936580,529,200,189.2734375,504.40625,209.7734375,575.953125,3,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,26, astrotourism ,11433,1936630,499,208,189.2734375,400.375,209.7734375,504.40625,3,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,26, astrotourism ,11483,1936680,472,213,189.2734375,400.375,209.7734375,504.40625,3,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,26, astrotourism ,11533,1936730,445,214,189.2734375,400.375,209.7734375,504.40625,3,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,26, astrotourism ,11583,1936780,423,214,189.2734375,400.375,209.7734375,504.40625,3,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,26, astrotourism ,11632,1936830,412,211,189.2734375,400.375,209.7734375,504.40625,3,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,26, astrotourism ,11683,1936880,405,209,189.2734375,400.375,209.7734375,504.40625,3,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,11733,1936931,400,207,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,11782,1936980,398,206,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,11832,1937030,398,206,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,26, astrotourism ,11883,1937080,406,205,189.2734375,400.375,209.7734375,504.40625,3,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,26, astrotourism ,11932,1937130,433,202,189.2734375,400.375,209.7734375,504.40625,3,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,26, astrotourism ,11983,1937180,455,200,189.2734375,400.375,209.7734375,504.40625,3,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,26, astrotourism ,12033,1937230,481,194,189.2734375,400.375,209.7734375,504.40625,3,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,27, industry. ,12083,1937281,506,188,189.2734375,504.40625,209.7734375,575.953125,3,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,27, industry. ,12133,1937330,527,187,189.2734375,504.40625,209.7734375,575.953125,3,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,27, industry. ,12183,1937380,541,187,189.2734375,504.40625,209.7734375,575.953125,3,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,27, industry. ,12233,1937430,554,187,189.2734375,504.40625,209.7734375,575.953125,3,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,27, industry. ,12283,1937480,571,187,189.2734375,504.40625,209.7734375,575.953125,3,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,28, The ,12333,1937531,585,186,189.2734375,575.953125,209.7734375,611.8125,3,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,28, The ,12383,1937580,595,185,189.2734375,575.953125,209.7734375,611.8125,3,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,28, The ,12433,1937630,607,185,189.2734375,575.953125,209.7734375,611.8125,3,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,29, pivotal ,12483,1937681,621,185,189.2734375,611.8125,209.7734375,668.8515625,3,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,29, pivotal ,12533,1937731,637,186,189.2734375,611.8125,209.7734375,668.8515625,3,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,29, pivotal ,12583,1937780,657,187,189.2734375,611.8125,209.7734375,668.8515625,3,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,30, moment ,12633,1937830,681,191,189.2734375,668.8515625,209.7734375,738.875,3,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,30, moment ,12683,1937880,688,194,189.2734375,668.8515625,209.7734375,738.875,3,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,30, moment ,12733,1937931,688,194,189.2734375,668.8515625,209.7734375,738.875,3,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,30, moment ,12783,1937981,688,194,189.2734375,668.8515625,209.7734375,738.875,3,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,30, moment ,12833,1938031,688,194,189.2734375,668.8515625,209.7734375,738.875,3,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,30, moment ,12883,1938081,688,194,189.2734375,668.8515625,209.7734375,738.875,3,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,30, moment ,12933,1938130,688,194,189.2734375,668.8515625,209.7734375,738.875,3,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,30, moment ,12983,1938180,696,194,189.2734375,668.8515625,209.7734375,738.875,3,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,30, moment ,13033,1938230,716,194,189.2734375,668.8515625,209.7734375,738.875,3,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,30, moment ,13083,1938280,733,194,189.2734375,668.8515625,209.7734375,738.875,3,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,31, for ,13133,1938330,745,194,189.2734375,738.875,209.7734375,764.8828125,3,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,31, for ,13183,1938380,763,194,189.2734375,738.875,209.7734375,764.8828125,3,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,32, Northumberland ,13233,1938430,783,194,189.2734375,764.8828125,209.7734375,898.953125,3,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,32, Northumberland ,13283,1938480,806,193,189.2734375,764.8828125,209.7734375,898.953125,3,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,32, Northumberland ,13333,1938530,827,191,189.2734375,764.8828125,209.7734375,898.953125,3,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,32, Northumberland ,13383,1938580,842,189,189.2734375,764.8828125,209.7734375,898.953125,3,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,32, Northumberland ,13433,1938631,856,187,189.2734375,764.8828125,209.7734375,898.953125,3,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,32, Northumberland ,13483,1938680,880,185,189.2734375,764.8828125,209.7734375,898.953125,3,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,33, came ,13533,1938730,925,184,189.2734375,898.953125,209.7734375,947.9765625,3,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,34, in ,13583,1938780,964,186,189.2734375,947.9765625,209.7734375,966.9921875,3,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,35, 2013 ,13632,1938830,978,189,189.2734375,966.9921875,209.7734375,1012.0390625,3,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,35, 2013 ,13683,1938880,987,191,189.2734375,966.9921875,209.7734375,1012.0390625,3,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,35, 2013 ,13733,1938930,997,193,189.2734375,966.9921875,209.7734375,1012.0390625,3,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,35, 2013 ,13783,1938980,1008,195,189.2734375,966.9921875,209.7734375,1012.0390625,3,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,36, when ,13834,1939031,1014,196,189.2734375,1012.0390625,209.7734375,1055.0703125,3,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,36, when ,13883,1939080,1028,202,189.2734375,1012.0390625,209.7734375,1055.0703125,3,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,36, when ,13933,1939130,1037,203,189.2734375,1012.0390625,209.7734375,1055.0703125,3,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,36, when ,13983,1939180,1042,203,189.2734375,1012.0390625,209.7734375,1055.0703125,3,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,36, when ,14033,1939230,1044,203,189.2734375,1012.0390625,209.7734375,1055.0703125,3,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,36, when ,14083,1939280,1044,203,189.2734375,1012.0390625,209.7734375,1055.0703125,3,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,36, when ,14133,1939331,1037,205,189.2734375,1012.0390625,209.7734375,1055.0703125,3,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,35, 2013 ,14183,1939381,987,215,189.2734375,966.9921875,209.7734375,1012.0390625,3,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,44, along ,14233,1939430,828,243,229.2734375,781.625,249.7734375,830.671875,4,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,41, housing ,14283,1939480,643,258,229.2734375,588.5078125,249.7734375,656.5625,4,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,39, national ,14333,1939530,512,259,229.2734375,480.4296875,249.7734375,548.484375,4,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,38, entire ,14383,1939580,452,255,229.2734375,430.3984375,249.7734375,480.4296875,4,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,37, the ,14433,1939630,412,254,229.2734375,400.375,249.7734375,430.3984375,4,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,14483,1939680,387,256,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,14533,1939730,376,258,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,14583,1939780,373,258,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,14632,1939829,373,258,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,14682,1939880,373,257,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,14733,1939930,377,254,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,14782,1939980,389,253,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,37, the ,14833,1940030,404,253,229.2734375,400.375,249.7734375,430.3984375,4,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,37, the ,14883,1940080,419,252,229.2734375,400.375,249.7734375,430.3984375,4,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,38, entire ,14933,1940131,443,249,229.2734375,430.3984375,249.7734375,480.4296875,4,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,38, entire ,14982,1940180,472,244,229.2734375,430.3984375,249.7734375,480.4296875,4,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,39, national ,15033,1940230,508,237,229.2734375,480.4296875,249.7734375,548.484375,4,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,39, national ,15083,1940280,537,232,229.2734375,480.4296875,249.7734375,548.484375,4,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,40, park ,15133,1940330,556,232,229.2734375,548.484375,249.7734375,588.5078125,4,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,40, park ,15182,1940380,560,232,229.2734375,548.484375,249.7734375,588.5078125,4,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,40, park ,15233,1940431,560,232,229.2734375,548.484375,249.7734375,588.5078125,4,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,40, park ,15283,1940481,560,232,229.2734375,548.484375,249.7734375,588.5078125,4,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,40, park ,15333,1940530,560,232,229.2734375,548.484375,249.7734375,588.5078125,4,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,40, park ,15384,1940581,560,232,229.2734375,548.484375,249.7734375,588.5078125,4,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,40, park ,15433,1940630,560,232,229.2734375,548.484375,249.7734375,588.5078125,4,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,40, park ,15483,1940681,574,231,229.2734375,548.484375,249.7734375,588.5078125,4,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,41, housing ,15533,1940730,613,230,229.2734375,588.5078125,249.7734375,656.5625,4,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,41, housing ,15582,1940780,640,230,229.2734375,588.5078125,249.7734375,656.5625,4,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,42, Hadrian’s ,15633,1940830,660,230,229.2734375,656.5625,249.7734375,737.28125,4,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,42, Hadrian’s ,15683,1940881,680,230,229.2734375,656.5625,249.7734375,737.28125,4,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,42, Hadrian’s ,15733,1940930,696,230,229.2734375,656.5625,249.7734375,737.28125,4,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,42, Hadrian’s ,15782,1940980,715,230,229.2734375,656.5625,249.7734375,737.28125,4,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,42, Hadrian’s ,15833,1941030,732,230,229.2734375,656.5625,249.7734375,737.28125,4,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,43," Wall, ",15883,1941081,752,228,229.2734375,737.28125,249.7734375,781.625,4,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,43," Wall, ",15933,1941130,771,228,229.2734375,737.28125,249.7734375,781.625,4,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,44, along ,15983,1941180,790,228,229.2734375,781.625,249.7734375,830.671875,4,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,44, along ,16034,1941231,792,228,229.2734375,781.625,249.7734375,830.671875,4,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,44, along ,16083,1941281,792,228,229.2734375,781.625,249.7734375,830.671875,4,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,44, along ,16133,1941330,792,228,229.2734375,781.625,249.7734375,830.671875,4,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,44, along ,16183,1941380,792,228,229.2734375,781.625,249.7734375,830.671875,4,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,44, along ,16234,1941431,792,228,229.2734375,781.625,249.7734375,830.671875,4,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,44, along ,16283,1941480,795,228,229.2734375,781.625,249.7734375,830.671875,4,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,44, along ,16333,1941531,814,227,229.2734375,781.625,249.7734375,830.671875,4,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,45, with ,16383,1941581,832,226,229.2734375,830.671875,249.7734375,867.6875,4,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,45, with ,16433,1941630,850,225,229.2734375,830.671875,249.7734375,867.6875,4,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,46, Kielder ,16483,1941681,868,225,229.2734375,867.6875,249.7734375,928.71875,4,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,46, Kielder ,16533,1941730,883,225,229.2734375,867.6875,249.7734375,928.71875,4,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,46, Kielder ,16582,1941780,896,225,229.2734375,867.6875,249.7734375,928.71875,4,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,46, Kielder ,16632,1941830,914,226,229.2734375,867.6875,249.7734375,928.71875,4,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,47, Water ,16683,1941880,932,226,229.2734375,928.71875,249.7734375,981.0703125,4,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,47, Water ,16733,1941930,954,225,229.2734375,928.71875,249.7734375,981.0703125,4,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,47, Water ,16783,1941980,979,225,229.2734375,928.71875,249.7734375,981.0703125,4,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,48, and ,16833,1942030,997,226,229.2734375,981.0703125,249.7734375,1016.109375,4,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,48, and ,16883,1942080,1013,227,229.2734375,981.0703125,249.7734375,1016.109375,4,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,49, Forest ,16933,1942130,1023,229,229.2734375,1016.109375,249.7734375,1067.125,4,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,49, Forest ,16983,1942180,1031,231,229.2734375,1016.109375,249.7734375,1067.125,4,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,49, Forest ,17034,1942231,1037,233,229.2734375,1016.109375,249.7734375,1067.125,4,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,49, Forest ,17083,1942281,1039,234,229.2734375,1016.109375,249.7734375,1067.125,4,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,49, Forest ,17133,1942330,1040,234,229.2734375,1016.109375,249.7734375,1067.125,4,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,49, Forest ,17183,1942381,1040,234,229.2734375,1016.109375,249.7734375,1067.125,4,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,49, Forest ,17233,1942430,1040,234,229.2734375,1016.109375,249.7734375,1067.125,4,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,49, Forest ,17284,1942481,1040,234,229.2734375,1016.109375,249.7734375,1067.125,4,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,49, Forest ,17333,1942531,1040,234,229.2734375,1016.109375,249.7734375,1067.125,4,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,49, Forest ,17383,1942581,1017,234,229.2734375,1016.109375,249.7734375,1067.125,4,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,47, Water ,17433,1942630,930,240,229.2734375,928.71875,249.7734375,981.0703125,4,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,43," Wall, ",17484,1942681,776,249,229.2734375,737.28125,249.7734375,781.625,4,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,41, housing ,17533,1942730,644,256,229.2734375,588.5078125,249.7734375,656.5625,4,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,53, square ,17583,1942780,579,260,269.2734375,546.4609375,289.7734375,606.5,5,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,52," 1,500 ",17633,1942831,532,260,269.2734375,496.4140625,289.7734375,546.4609375,5,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,52," 1,500 ",17682,1942880,497,261,269.2734375,496.4140625,289.7734375,546.4609375,5,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,51, some ,17732,1942930,475,263,269.2734375,447.390625,289.7734375,496.4140625,5,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,51, some ,17783,1942980,464,266,269.2734375,447.390625,289.7734375,496.4140625,5,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,51, some ,17833,1943031,454,266,269.2734375,447.390625,289.7734375,496.4140625,5,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,50," Park, ",17882,1943080,444,268,269.2734375,400.375,289.7734375,447.390625,5,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,50," Park, ",17933,1943131,435,271,269.2734375,400.375,289.7734375,447.390625,5,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,50," Park, ",17983,1943180,425,275,269.2734375,400.375,289.7734375,447.390625,5,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,50," Park, ",18033,1943230,415,278,269.2734375,400.375,289.7734375,447.390625,5,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,50," Park, ",18083,1943280,411,278,269.2734375,400.375,289.7734375,447.390625,5,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,50," Park, ",18134,1943331,409,278,269.2734375,400.375,289.7734375,447.390625,5,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,50," Park, ",18184,1943381,409,278,269.2734375,400.375,289.7734375,447.390625,5,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,50," Park, ",18234,1943431,409,278,269.2734375,400.375,289.7734375,447.390625,5,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,50," Park, ",18283,1943480,409,278,269.2734375,400.375,289.7734375,447.390625,5,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,50," Park, ",18333,1943531,415,279,269.2734375,400.375,289.7734375,447.390625,5,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,50," Park, ",18383,1943581,426,279,269.2734375,400.375,289.7734375,447.390625,5,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,50," Park, ",18433,1943631,442,279,269.2734375,400.375,289.7734375,447.390625,5,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,51, some ,18483,1943681,461,279,269.2734375,447.390625,289.7734375,496.4140625,5,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,51, some ,18533,1943730,482,278,269.2734375,447.390625,289.7734375,496.4140625,5,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,52," 1,500 ",18583,1943780,502,276,269.2734375,496.4140625,289.7734375,546.4609375,5,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,52," 1,500 ",18633,1943830,528,275,269.2734375,496.4140625,289.7734375,546.4609375,5,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,53, square ,18683,1943880,548,276,269.2734375,546.4609375,289.7734375,606.5,5,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,53, square ,18733,1943930,563,278,269.2734375,546.4609375,289.7734375,606.5,5,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,53, square ,18783,1943981,576,281,269.2734375,546.4609375,289.7734375,606.5,5,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,53, square ,18833,1944030,594,282,269.2734375,546.4609375,289.7734375,606.5,5,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,54," kilometers, ",18883,1944081,619,282,269.2734375,606.5,289.7734375,698.5234375,5,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,54," kilometers, ",18933,1944130,642,282,269.2734375,606.5,289.7734375,698.5234375,5,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,54," kilometers, ",18983,1944180,668,280,269.2734375,606.5,289.7734375,698.5234375,5,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,54," kilometers, ",19033,1944231,692,278,269.2734375,606.5,289.7734375,698.5234375,5,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,55, was ,19082,1944280,699,278,269.2734375,698.5234375,289.7734375,735.5390625,5,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,55, was ,19133,1944331,699,278,269.2734375,698.5234375,289.7734375,735.5390625,5,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,55, was ,19183,1944381,699,278,269.2734375,698.5234375,289.7734375,735.5390625,5,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,55, was ,19233,1944431,699,278,269.2734375,698.5234375,289.7734375,735.5390625,5,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,55, was ,19283,1944481,699,278,269.2734375,698.5234375,289.7734375,735.5390625,5,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,55, was ,19333,1944531,700,278,269.2734375,698.5234375,289.7734375,735.5390625,5,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,55, was ,19383,1944580,717,275,269.2734375,698.5234375,289.7734375,735.5390625,5,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,56, awarded ,19433,1944630,745,273,269.2734375,735.5390625,289.7734375,809.59375,5,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,56, awarded ,19483,1944681,760,273,269.2734375,735.5390625,289.7734375,809.59375,5,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,56, awarded ,19533,1944730,782,276,269.2734375,735.5390625,289.7734375,809.59375,5,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,56, awarded ,19583,1944780,798,277,269.2734375,735.5390625,289.7734375,809.59375,5,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,57, Dark ,19633,1944830,814,277,269.2734375,809.59375,289.7734375,852.6015625,5,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,57, Dark ,19683,1944881,828,277,269.2734375,809.59375,289.7734375,852.6015625,5,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,57, Dark ,19732,1944930,847,279,269.2734375,809.59375,289.7734375,852.6015625,5,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,58, Sky ,19783,1944981,867,281,269.2734375,852.6015625,289.7734375,887.609375,5,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,59, Park ,19833,1945030,889,282,269.2734375,887.609375,289.7734375,929.625,5,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,59, Park ,19883,1945080,911,283,269.2734375,887.609375,289.7734375,929.625,5,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,59, Park ,19933,1945130,927,283,269.2734375,887.609375,289.7734375,929.625,5,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,60," status, ",19983,1945180,937,283,269.2734375,929.625,289.7734375,987.65625,5,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,60," status, ",20032,1945230,952,283,269.2734375,929.625,289.7734375,987.65625,5,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,60," status, ",20083,1945280,970,282,269.2734375,929.625,289.7734375,987.65625,5,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,60," status, ",20133,1945330,985,282,269.2734375,929.625,289.7734375,987.65625,5,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,61, the ,20183,1945380,1002,282,269.2734375,987.65625,289.7734375,1017.6796875,5,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,61, the ,20233,1945430,1016,284,269.2734375,987.65625,289.7734375,1017.6796875,5,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,62, only ,20283,1945481,1028,286,269.2734375,1017.6796875,289.7734375,1050.703125,5,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,62, only ,20333,1945530,1035,287,269.2734375,1017.6796875,289.7734375,1050.703125,5,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,62, only ,20382,1945580,1037,288,269.2734375,1017.6796875,289.7734375,1050.703125,5,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,62, only ,20432,1945630,1038,288,269.2734375,1017.6796875,289.7734375,1050.703125,5,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,62, only ,20483,1945680,1033,290,269.2734375,1017.6796875,289.7734375,1050.703125,5,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,61, the ,20533,1945731,1004,293,269.2734375,987.65625,289.7734375,1017.6796875,5,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,75, revealed ,20583,1945780,940,301,309.2734375,904.3671875,329.7734375,978.421875,6,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,73, Star ,20633,1945830,824,324,309.2734375,813.3125,329.7734375,851.328125,6,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,69, are ,20683,1945880,676,324,309.2734375,659.5234375,329.7734375,690.546875,6,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,66, Dark ,20733,1945930,567,304,309.2734375,530.4921875,329.7734375,573.5,6,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,65, England. ,20783,1945980,495,303,309.2734375,454.4296875,329.7734375,530.4921875,6,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,64, in ,20833,1946030,452,309,309.2734375,435.4140625,329.7734375,454.4296875,6,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,63, one ,20883,1946080,432,312,309.2734375,400.375,329.7734375,435.4140625,6,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,63, one ,20933,1946130,418,314,309.2734375,400.375,329.7734375,435.4140625,6,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,63, one ,20983,1946180,412,316,309.2734375,400.375,329.7734375,435.4140625,6,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,63, one ,21033,1946230,408,317,309.2734375,400.375,329.7734375,435.4140625,6,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,63, one ,21083,1946281,405,319,309.2734375,400.375,329.7734375,435.4140625,6,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,63, one ,21132,1946330,404,319,309.2734375,400.375,329.7734375,435.4140625,6,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,63, one ,21183,1946380,404,319,309.2734375,400.375,329.7734375,435.4140625,6,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,63, one ,21232,1946430,404,319,309.2734375,400.375,329.7734375,435.4140625,6,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,63, one ,21283,1946481,404,319,309.2734375,400.375,329.7734375,435.4140625,6,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,63, one ,21333,1946531,411,319,309.2734375,400.375,329.7734375,435.4140625,6,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,64, in ,21383,1946581,436,321,309.2734375,435.4140625,329.7734375,454.4296875,6,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,65, England. ,21432,1946630,460,322,309.2734375,454.4296875,329.7734375,530.4921875,6,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,65, England. ,21483,1946680,475,323,309.2734375,454.4296875,329.7734375,530.4921875,6,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,65, England. ,21533,1946730,489,324,309.2734375,454.4296875,329.7734375,530.4921875,6,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,65, England. ,21583,1946780,509,324,309.2734375,454.4296875,329.7734375,530.4921875,6,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,65, England. ,21633,1946831,529,324,309.2734375,454.4296875,329.7734375,530.4921875,6,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,66, Dark ,21683,1946880,544,322,309.2734375,530.4921875,329.7734375,573.5,6,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,66, Dark ,21733,1946930,558,320,309.2734375,530.4921875,329.7734375,573.5,6,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,66, Dark ,21783,1946980,572,320,309.2734375,530.4921875,329.7734375,573.5,6,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,67, Sky ,21833,1947030,586,320,309.2734375,573.5,329.7734375,608.5078125,6,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,67, Sky ,21883,1947080,604,320,309.2734375,573.5,329.7734375,608.5078125,6,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,68, Parks ,21933,1947130,633,322,309.2734375,608.5078125,329.7734375,659.5234375,6,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,69, are ,21983,1947180,664,322,309.2734375,659.5234375,329.7734375,690.546875,6,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,69, are ,22033,1947231,672,322,309.2734375,659.5234375,329.7734375,690.546875,6,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,69, are ,22083,1947281,672,322,309.2734375,659.5234375,329.7734375,690.546875,6,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,69, are ,22133,1947331,672,322,309.2734375,659.5234375,329.7734375,690.546875,6,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,69, are ,22183,1947380,672,322,309.2734375,659.5234375,329.7734375,690.546875,6,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,69, are ,22234,1947431,672,322,309.2734375,659.5234375,329.7734375,690.546875,6,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,69, are ,22284,1947481,672,322,309.2734375,659.5234375,329.7734375,690.546875,6,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,69, are ,22333,1947530,679,322,309.2734375,659.5234375,329.7734375,690.546875,6,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,70, rare. ,22383,1947580,696,320,309.2734375,690.546875,329.7734375,732.40625,6,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,70, rare. ,22432,1947630,716,318,309.2734375,690.546875,329.7734375,732.40625,6,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,71, The ,22483,1947680,738,318,309.2734375,732.40625,329.7734375,768.265625,6,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,71, The ,22533,1947731,759,320,309.2734375,732.40625,329.7734375,768.265625,6,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,72, 2013 ,22583,1947780,773,322,309.2734375,768.265625,329.7734375,813.3125,6,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,72, 2013 ,22632,1947830,786,322,309.2734375,768.265625,329.7734375,813.3125,6,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,72, 2013 ,22683,1947880,796,322,309.2734375,768.265625,329.7734375,813.3125,6,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,72, 2013 ,22733,1947931,809,321,309.2734375,768.265625,329.7734375,813.3125,6,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,73, Star ,22783,1947980,828,319,309.2734375,813.3125,329.7734375,851.328125,6,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,74, Count ,22833,1948030,858,319,309.2734375,851.328125,329.7734375,904.3671875,6,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,74, Count ,22882,1948080,873,319,309.2734375,851.328125,329.7734375,904.3671875,6,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,74, Count ,22933,1948131,876,319,309.2734375,851.328125,329.7734375,904.3671875,6,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,74, Count ,22983,1948180,876,319,309.2734375,851.328125,329.7734375,904.3671875,6,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,74, Count ,23033,1948231,876,319,309.2734375,851.328125,329.7734375,904.3671875,6,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,74, Count ,23084,1948281,876,319,309.2734375,851.328125,329.7734375,904.3671875,6,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,74, Count ,23133,1948331,876,319,309.2734375,851.328125,329.7734375,904.3671875,6,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,74, Count ,23184,1948381,876,319,309.2734375,851.328125,329.7734375,904.3671875,6,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,74, Count ,23233,1948430,892,319,309.2734375,851.328125,329.7734375,904.3671875,6,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,75, revealed ,23283,1948480,914,319,309.2734375,904.3671875,329.7734375,978.421875,6,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,75, revealed ,23333,1948530,942,319,309.2734375,904.3671875,329.7734375,978.421875,6,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,75, revealed ,23382,1948580,964,321,309.2734375,904.3671875,329.7734375,978.421875,6,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,76, that ,23433,1948630,981,322,309.2734375,978.421875,329.7734375,1013.453125,6,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,76, that ,23483,1948680,1003,325,309.2734375,978.421875,329.7734375,1013.453125,6,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,77, only ,23533,1948730,1019,327,309.2734375,1013.453125,329.7734375,1046.4765625,6,15,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,77, only ,23583,1948780,1034,330,309.2734375,1013.453125,329.7734375,1046.4765625,6,15,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,23633,1948830,1047,332,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,23682,1948880,1054,333,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,23732,1948930,1056,333,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,23783,1948980,1056,333,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,77, only ,23833,1949030,1040,333,309.2734375,1013.453125,329.7734375,1046.4765625,6,15,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,75, revealed ,23882,1949080,913,333,309.2734375,904.3671875,329.7734375,978.421875,6,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,85, more ,23933,1949130,678,344,349.2734375,667.5703125,369.7734375,713.5859375,7,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,82, population ,23983,1949180,567,366,349.2734375,511.4453125,369.7734375,599.5234375,7,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,81, UK ,24033,1949230,511,373,349.2734375,481.4375,369.7734375,511.4453125,7,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,80, the ,24083,1949280,477,373,349.2734375,451.4140625,369.7734375,481.4375,7,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,79, of ,24133,1949330,449,370,349.2734375,431.3984375,369.7734375,451.4140625,7,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,79, of ,24183,1949380,432,367,349.2734375,431.3984375,369.7734375,451.4140625,7,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,78, 5% ,24233,1949430,422,366,349.2734375,400.375,369.7734375,431.3984375,7,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,78, 5% ,24283,1949480,415,366,349.2734375,400.375,369.7734375,431.3984375,7,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,78, 5% ,24333,1949530,410,366,349.2734375,400.375,369.7734375,431.3984375,7,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,78, 5% ,24383,1949580,405,367,349.2734375,400.375,369.7734375,431.3984375,7,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,78, 5% ,24433,1949630,402,367,349.2734375,400.375,369.7734375,431.3984375,7,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,24482,1949680,400,367,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,24531,1949729,400,367,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,24582,1949780,400,367,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,78, 5% ,24633,1949831,402,367,349.2734375,400.375,369.7734375,431.3984375,7,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,78, 5% ,24683,1949880,412,365,349.2734375,400.375,369.7734375,431.3984375,7,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,78, 5% ,24733,1949931,425,365,349.2734375,400.375,369.7734375,431.3984375,7,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,79, of ,24784,1949981,444,363,349.2734375,431.3984375,369.7734375,451.4140625,7,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,80, the ,24833,1950030,467,362,349.2734375,451.4140625,369.7734375,481.4375,7,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,81, UK ,24883,1950080,486,362,349.2734375,481.4375,369.7734375,511.4453125,7,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,81, UK ,24933,1950131,506,361,349.2734375,481.4375,369.7734375,511.4453125,7,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,82, population ,24984,1950181,530,361,349.2734375,511.4453125,369.7734375,599.5234375,7,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,82, population ,25033,1950230,558,361,349.2734375,511.4453125,369.7734375,599.5234375,7,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,82, population ,25083,1950281,585,359,349.2734375,511.4453125,369.7734375,599.5234375,7,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,83, can ,25133,1950330,615,356,349.2734375,599.5234375,369.7734375,633.546875,7,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,84, see ,25183,1950380,634,353,349.2734375,633.546875,369.7734375,667.5703125,7,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,84, see ,25233,1950431,659,351,349.2734375,633.546875,369.7734375,667.5703125,7,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,85, more ,25283,1950480,687,350,349.2734375,667.5703125,369.7734375,713.5859375,7,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,85, more ,25333,1950530,706,350,349.2734375,667.5703125,369.7734375,713.5859375,7,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,85, more ,25384,1950581,710,350,349.2734375,667.5703125,369.7734375,713.5859375,7,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,85, more ,25434,1950631,710,350,349.2734375,667.5703125,369.7734375,713.5859375,7,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,85, more ,25483,1950680,710,350,349.2734375,667.5703125,369.7734375,713.5859375,7,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,85, more ,25534,1950731,710,350,349.2734375,667.5703125,369.7734375,713.5859375,7,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,85, more ,25583,1950780,710,350,349.2734375,667.5703125,369.7734375,713.5859375,7,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,86, than ,25633,1950831,717,350,349.2734375,713.5859375,369.7734375,753.625,7,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,86, than ,25683,1950880,742,350,349.2734375,713.5859375,369.7734375,753.625,7,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,87, 31 ,25733,1950931,772,350,349.2734375,753.625,369.7734375,778.6484375,7,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,88, stars ,25783,1950981,803,350,349.2734375,778.6484375,369.7734375,822.65625,7,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,89, on ,25833,1951030,830,350,349.2734375,822.65625,369.7734375,847.6796875,7,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,90, a ,25883,1951080,860,349,349.2734375,847.6796875,369.7734375,862.6953125,7,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,91, good ,25933,1951130,896,345,349.2734375,862.6953125,369.7734375,907.7421875,7,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,92, night. ,25983,1951180,922,343,349.2734375,907.7421875,369.7734375,956.625,7,15,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,92, night. ,26033,1951230,948,343,349.2734375,907.7421875,369.7734375,956.625,7,15,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,93, The ,26083,1951281,967,344,349.2734375,956.625,369.7734375,992.328125,7,16,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,93, The ,26133,1951330,985,349,349.2734375,956.625,369.7734375,992.328125,7,16,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,94," Tucson, ",26183,1951380,998,352,349.2734375,992.328125,369.7734375,1055.5390625,7,17,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,94," Tucson, ",26233,1951430,1008,354,349.2734375,992.328125,369.7734375,1055.5390625,7,17,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,94," Tucson, ",26283,1951481,1016,356,349.2734375,992.328125,369.7734375,1055.5390625,7,17,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,94," Tucson, ",26333,1951531,1020,356,349.2734375,992.328125,369.7734375,1055.5390625,7,17,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,94," Tucson, ",26384,1951581,1021,356,349.2734375,992.328125,369.7734375,1055.5390625,7,17,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,94," Tucson, ",26434,1951631,1021,356,349.2734375,992.328125,369.7734375,1055.5390625,7,17,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,94," Tucson, ",26483,1951681,1021,356,349.2734375,992.328125,369.7734375,1055.5390625,7,17,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,94," Tucson, ",26533,1951731,1011,358,349.2734375,992.328125,369.7734375,1055.5390625,7,17,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,92, night. ,26582,1951780,933,378,349.2734375,907.7421875,369.7734375,956.625,7,15,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,98, Association ,26633,1951831,763,402,389.2734375,704.0390625,409.7734375,800.6015625,8,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,96, International ,26683,1951881,576,409,389.2734375,521.4453125,409.7734375,625.5234375,8,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,95, Arizona-based ,26733,1951930,484,409,389.2734375,400.375,409.7734375,521.4453125,8,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,95, Arizona-based ,26783,1951980,458,409,389.2734375,400.375,409.7734375,521.4453125,8,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,95, Arizona-based ,26832,1952030,437,410,389.2734375,400.375,409.7734375,521.4453125,8,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,95, Arizona-based ,26883,1952080,422,412,389.2734375,400.375,409.7734375,521.4453125,8,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,95, Arizona-based ,26932,1952130,410,413,389.2734375,400.375,409.7734375,521.4453125,8,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,26982,1952180,400,412,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,27033,1952230,391,410,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,27083,1952280,385,407,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,27132,1952329,383,406,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,27183,1952380,383,405,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,27233,1952430,383,405,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,27283,1952480,384,405,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,27332,1952530,398,405,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,95, Arizona-based ,27383,1952581,423,404,389.2734375,400.375,409.7734375,521.4453125,8,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,95, Arizona-based ,27433,1952630,443,402,389.2734375,400.375,409.7734375,521.4453125,8,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,95, Arizona-based ,27483,1952680,463,402,389.2734375,400.375,409.7734375,521.4453125,8,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,95, Arizona-based ,27533,1952730,482,402,389.2734375,400.375,409.7734375,521.4453125,8,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,95, Arizona-based ,27583,1952780,515,400,389.2734375,400.375,409.7734375,521.4453125,8,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,96, International ,27632,1952830,551,398,389.2734375,521.4453125,409.7734375,625.5234375,8,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,96, International ,27683,1952880,567,398,389.2734375,521.4453125,409.7734375,625.5234375,8,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,96, International ,27733,1952931,567,398,389.2734375,521.4453125,409.7734375,625.5234375,8,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,96, International ,27783,1952981,567,398,389.2734375,521.4453125,409.7734375,625.5234375,8,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,96, International ,27833,1953031,567,398,389.2734375,521.4453125,409.7734375,625.5234375,8,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,96, International ,27883,1953080,567,398,389.2734375,521.4453125,409.7734375,625.5234375,8,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,96, International ,27934,1953131,567,398,389.2734375,521.4453125,409.7734375,625.5234375,8,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,96, International ,27983,1953181,567,398,389.2734375,521.4453125,409.7734375,625.5234375,8,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,96, International ,28033,1953230,574,398,389.2734375,521.4453125,409.7734375,625.5234375,8,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,96, International ,28084,1953281,598,398,389.2734375,521.4453125,409.7734375,625.5234375,8,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,97, Dark-Sky ,28133,1953330,626,398,389.2734375,625.5234375,409.7734375,704.0390625,8,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,97, Dark-Sky ,28182,1953380,646,398,389.2734375,625.5234375,409.7734375,704.0390625,8,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,97, Dark-Sky ,28233,1953430,666,398,389.2734375,625.5234375,409.7734375,704.0390625,8,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,97, Dark-Sky ,28283,1953480,687,399,389.2734375,625.5234375,409.7734375,704.0390625,8,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,98, Association ,28332,1953530,720,399,389.2734375,704.0390625,409.7734375,800.6015625,8,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,98, Association ,28384,1953581,751,397,389.2734375,704.0390625,409.7734375,800.6015625,8,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,98, Association ,28432,1953630,779,393,389.2734375,704.0390625,409.7734375,800.6015625,8,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,99, (IDA) ,28483,1953680,804,389,389.2734375,800.6015625,409.7734375,847.6015625,8,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,99, (IDA) ,28531,1953729,816,388,389.2734375,800.6015625,409.7734375,847.6015625,8,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,99, (IDA) ,28582,1953780,816,388,389.2734375,800.6015625,409.7734375,847.6015625,8,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,99, (IDA) ,28633,1953830,816,388,389.2734375,800.6015625,409.7734375,847.6015625,8,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,99, (IDA) ,28682,1953880,816,388,389.2734375,800.6015625,409.7734375,847.6015625,8,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,99, (IDA) ,28733,1953931,816,388,389.2734375,800.6015625,409.7734375,847.6015625,8,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,99, (IDA) ,28782,1953979,816,388,389.2734375,800.6015625,409.7734375,847.6015625,8,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,99, (IDA) ,28833,1954030,832,388,389.2734375,800.6015625,409.7734375,847.6015625,8,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,100, confers ,28883,1954081,854,388,389.2734375,847.6015625,409.7734375,911.6328125,8,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,100, confers ,28933,1954130,872,390,389.2734375,847.6015625,409.7734375,911.6328125,8,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,100, confers ,28983,1954181,890,391,389.2734375,847.6015625,409.7734375,911.6328125,8,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,100, confers ,29033,1954230,911,391,389.2734375,847.6015625,409.7734375,911.6328125,8,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,101, the ,29083,1954280,926,392,389.2734375,911.6328125,409.7734375,941.65625,8,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,102, status ,29132,1954330,946,392,389.2734375,941.65625,409.7734375,994.6875,8,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,102, status ,29182,1954380,968,392,389.2734375,941.65625,409.7734375,994.6875,8,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,103, only ,29233,1954430,995,391,389.2734375,994.6875,409.7734375,1032.7109375,8,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,103, only ,29283,1954480,1013,391,389.2734375,994.6875,409.7734375,1032.7109375,8,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,103, only ,29333,1954530,1025,391,389.2734375,994.6875,409.7734375,1032.7109375,8,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,104, on ,29383,1954580,1034,391,389.2734375,1032.7109375,409.7734375,1052.734375,8,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,104, on ,29433,1954630,1039,391,389.2734375,1032.7109375,409.7734375,1052.734375,8,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,104, on ,29482,1954680,1045,394,389.2734375,1032.7109375,409.7734375,1052.734375,8,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,104, on ,29533,1954730,1052,396,389.2734375,1032.7109375,409.7734375,1052.734375,8,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,29582,1954780,1054,398,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,29632,1954829,1055,398,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,104, on ,29683,1954881,1048,398,389.2734375,1032.7109375,409.7734375,1052.734375,8,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,104, on ,29733,1954930,1048,398,389.2734375,1032.7109375,409.7734375,1052.734375,8,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,104, on ,29783,1954981,1048,398,389.2734375,1032.7109375,409.7734375,1052.734375,8,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,104, on ,29833,1955031,1048,398,389.2734375,1032.7109375,409.7734375,1052.734375,8,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,104, on ,29883,1955080,1048,398,389.2734375,1032.7109375,409.7734375,1052.734375,8,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,103, only ,29933,1955130,1026,404,389.2734375,994.6875,409.7734375,1032.7109375,8,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,101, the ,29982,1955180,922,408,389.2734375,911.6328125,409.7734375,941.65625,8,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,98, Association ,30033,1955230,749,391,389.2734375,704.0390625,409.7734375,800.6015625,8,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,97, Dark-Sky ,30083,1955280,639,385,389.2734375,625.5234375,409.7734375,704.0390625,8,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,96, International ,30133,1955330,572,389,389.2734375,521.4453125,409.7734375,625.5234375,8,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,96, International ,30183,1955380,527,398,389.2734375,521.4453125,409.7734375,625.5234375,8,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,95, Arizona-based ,30234,1955431,485,407,389.2734375,400.375,409.7734375,521.4453125,8,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,95, Arizona-based ,30283,1955481,452,410,389.2734375,400.375,409.7734375,521.4453125,8,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,95, Arizona-based ,30333,1955531,430,411,389.2734375,400.375,409.7734375,521.4453125,8,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,95, Arizona-based ,30383,1955580,414,413,389.2734375,400.375,409.7734375,521.4453125,8,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,95, Arizona-based ,30433,1955630,401,415,389.2734375,400.375,409.7734375,521.4453125,8,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,30482,1955680,392,416,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,30533,1955730,387,419,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,30581,1955779,386,427,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,30632,1955830,386,430,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,30682,1955879,386,432,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,30733,1955930,386,434,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,30783,1955980,388,434,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,30832,1956029,391,435,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,30883,1956080,393,436,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,30933,1956130,399,437,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,105, places ,30983,1956180,409,438,429.2734375,400.375,449.7734375,457.4140625,9,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,105, places ,31033,1956231,419,440,429.2734375,400.375,449.7734375,457.4140625,9,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,105, places ,31083,1956280,428,441,429.2734375,400.375,449.7734375,457.4140625,9,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,105, places ,31133,1956330,436,442,429.2734375,400.375,449.7734375,457.4140625,9,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,105, places ,31183,1956380,443,442,429.2734375,400.375,449.7734375,457.4140625,9,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,105, places ,31233,1956430,451,443,429.2734375,400.375,449.7734375,457.4140625,9,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,106, that ,31283,1956481,460,444,429.2734375,457.4140625,449.7734375,492.4453125,9,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,106, that ,31333,1956530,470,445,429.2734375,457.4140625,449.7734375,492.4453125,9,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,106, that ,31383,1956580,482,445,429.2734375,457.4140625,449.7734375,492.4453125,9,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,107, take ,31433,1956630,507,443,429.2734375,492.4453125,449.7734375,531.46875,9,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,107, take ,31483,1956681,515,442,429.2734375,492.4453125,449.7734375,531.46875,9,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,107, take ,31534,1956731,515,442,429.2734375,492.4453125,449.7734375,531.46875,9,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,107, take ,31584,1956781,515,442,429.2734375,492.4453125,449.7734375,531.46875,9,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,107, take ,31633,1956831,515,442,429.2734375,492.4453125,449.7734375,531.46875,9,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,107, take ,31683,1956880,515,442,429.2734375,492.4453125,449.7734375,531.46875,9,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,107, take ,31733,1956931,515,442,429.2734375,492.4453125,449.7734375,531.46875,9,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,107, take ,31782,1956980,515,442,429.2734375,492.4453125,449.7734375,531.46875,9,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,107, take ,31833,1957030,515,442,429.2734375,492.4453125,449.7734375,531.46875,9,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,108, major ,31883,1957080,532,445,429.2734375,531.46875,449.7734375,581.484375,9,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,108, major ,31933,1957130,563,450,429.2734375,531.46875,449.7734375,581.484375,9,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,109, steps ,31983,1957180,588,453,429.2734375,581.484375,449.7734375,629.5078125,9,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,109, steps ,32034,1957231,603,455,429.2734375,581.484375,449.7734375,629.5078125,9,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,109, steps ,32083,1957280,611,455,429.2734375,581.484375,449.7734375,629.5078125,9,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,109, steps ,32133,1957330,621,456,429.2734375,581.484375,449.7734375,629.5078125,9,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,110, to ,32183,1957380,630,456,429.2734375,629.5078125,449.7734375,649.5234375,9,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,110, to ,32233,1957430,637,457,429.2734375,629.5078125,449.7734375,649.5234375,9,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,110, to ,32282,1957480,641,457,429.2734375,629.5078125,449.7734375,649.5234375,9,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,110, to ,32332,1957529,647,457,429.2734375,629.5078125,449.7734375,649.5234375,9,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,111, avoid ,32382,1957580,656,459,429.2734375,649.5234375,449.7734375,697.5625,9,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,124, In ,32433,1957630,667,460,469.2734375,655.515625,489.7734375,675.53125,10,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,125, Northumberland ,32483,1957680,679,460,469.2734375,675.53125,489.7734375,809.6015625,10,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,111, avoid ,32533,1957730,690,458,429.2734375,649.5234375,449.7734375,697.5625,9,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,111, avoid ,32583,1957781,693,457,429.2734375,649.5234375,449.7734375,697.5625,9,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,111, avoid ,32633,1957830,693,457,429.2734375,649.5234375,449.7734375,697.5625,9,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,111, avoid ,32684,1957881,693,457,429.2734375,649.5234375,449.7734375,697.5625,9,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,111, avoid ,32733,1957931,693,457,429.2734375,649.5234375,449.7734375,697.5625,9,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,111, avoid ,32783,1957980,693,457,429.2734375,649.5234375,449.7734375,697.5625,9,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,111, avoid ,32834,1958031,693,457,429.2734375,649.5234375,449.7734375,697.5625,9,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,112, light ,32883,1958081,702,456,429.2734375,697.5625,449.7734375,735.5859375,9,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,112, light ,32933,1958130,732,451,429.2734375,697.5625,449.7734375,735.5859375,9,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,113, pollution. ,32983,1958180,764,450,429.2734375,735.5859375,449.7734375,812.640625,9,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,113, pollution. ,33033,1958230,780,451,429.2734375,735.5859375,449.7734375,812.640625,9,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,113, pollution. ,33083,1958280,792,453,429.2734375,735.5859375,449.7734375,812.640625,9,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,113, pollution. ,33133,1958331,808,458,429.2734375,735.5859375,449.7734375,812.640625,9,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,126, Dark ,33183,1958380,824,461,469.2734375,809.6015625,489.7734375,852.609375,10,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,126, Dark ,33233,1958430,837,462,469.2734375,809.6015625,489.7734375,852.609375,10,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,126, Dark ,33284,1958481,837,462,469.2734375,809.6015625,489.7734375,852.609375,10,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,126, Dark ,33333,1958531,837,462,469.2734375,809.6015625,489.7734375,852.609375,10,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,126, Dark ,33383,1958580,837,462,469.2734375,809.6015625,489.7734375,852.609375,10,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,126, Dark ,33434,1958631,837,462,469.2734375,809.6015625,489.7734375,852.609375,10,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,126, Dark ,33483,1958681,837,462,469.2734375,809.6015625,489.7734375,852.609375,10,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,126, Dark ,33532,1958730,837,462,469.2734375,809.6015625,489.7734375,852.609375,10,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,114, Recipients ,33583,1958780,848,455,429.2734375,812.640625,449.7734375,901.6875,9,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,114, Recipients ,33633,1958830,858,448,429.2734375,812.640625,449.7734375,901.6875,9,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,114, Recipients ,33683,1958880,861,447,429.2734375,812.640625,449.7734375,901.6875,9,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,114, Recipients ,33733,1958931,867,446,429.2734375,812.640625,449.7734375,901.6875,9,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,114, Recipients ,33783,1958980,881,446,429.2734375,812.640625,449.7734375,901.6875,9,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,114, Recipients ,33833,1959030,899,447,429.2734375,812.640625,449.7734375,901.6875,9,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,115, must ,33883,1959080,929,447,429.2734375,901.6875,449.7734375,945.6953125,9,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,116, also ,33933,1959130,968,447,429.2734375,945.6953125,449.7734375,983.71875,9,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,117, prove ,33983,1959181,1006,441,429.2734375,983.71875,449.7734375,1033.75,9,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,117, prove ,34033,1959231,1024,439,429.2734375,983.71875,449.7734375,1033.75,9,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,118, their ,34083,1959280,1035,439,429.2734375,1033.75,449.7734375,1068.765625,9,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,118, their ,34133,1959330,1044,441,429.2734375,1033.75,449.7734375,1068.765625,9,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,118, their ,34183,1959381,1054,447,429.2734375,1033.75,449.7734375,1068.765625,9,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,118, their ,34232,1959430,1058,449,429.2734375,1033.75,449.7734375,1068.765625,9,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,118, their ,34283,1959480,1059,449,429.2734375,1033.75,449.7734375,1068.765625,9,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,118, their ,34333,1959530,1059,449,429.2734375,1033.75,449.7734375,1068.765625,9,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,118, their ,34383,1959581,1041,457,429.2734375,1033.75,449.7734375,1068.765625,9,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,129, as ,34433,1959630,936,475,469.2734375,934.6328125,489.7734375,958.6484375,10,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,125, Northumberland ,34483,1959680,731,474,469.2734375,675.53125,489.7734375,809.6015625,10,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,122, sufficiently ,34533,1959730,554,464,469.2734375,521.453125,489.7734375,610.4921875,10,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,121, are ,34583,1959781,498,466,469.2734375,490.4296875,489.7734375,521.453125,10,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,120, skies ,34633,1959830,457,472,469.2734375,444.4140625,489.7734375,490.4296875,10,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,119, night ,34683,1959880,422,477,469.2734375,400.375,489.7734375,444.4140625,10,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,119, night ,34733,1959930,409,478,469.2734375,400.375,489.7734375,444.4140625,10,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,119, night ,34782,1959980,408,478,469.2734375,400.375,489.7734375,444.4140625,10,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,119, night ,34834,1960031,408,478,469.2734375,400.375,489.7734375,444.4140625,10,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,119, night ,34883,1960080,408,478,469.2734375,400.375,489.7734375,444.4140625,10,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,119, night ,34934,1960131,408,478,469.2734375,400.375,489.7734375,444.4140625,10,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,119, night ,34983,1960181,411,477,469.2734375,400.375,489.7734375,444.4140625,10,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,119, night ,35032,1960230,426,477,469.2734375,400.375,489.7734375,444.4140625,10,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,119, night ,35083,1960280,438,477,469.2734375,400.375,489.7734375,444.4140625,10,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,120, skies ,35133,1960331,451,477,469.2734375,444.4140625,489.7734375,490.4296875,10,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,120, skies ,35183,1960381,471,477,469.2734375,444.4140625,489.7734375,490.4296875,10,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,120, skies ,35233,1960430,486,477,469.2734375,444.4140625,489.7734375,490.4296875,10,2,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,121, are ,35283,1960480,502,476,469.2734375,490.4296875,489.7734375,521.453125,10,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,122, sufficiently ,35333,1960531,522,476,469.2734375,521.453125,489.7734375,610.4921875,10,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,122, sufficiently ,35383,1960580,548,479,469.2734375,521.453125,489.7734375,610.4921875,10,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,122, sufficiently ,35433,1960630,571,485,469.2734375,521.453125,489.7734375,610.4921875,10,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,122, sufficiently ,35483,1960680,588,488,469.2734375,521.453125,489.7734375,610.4921875,10,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,122, sufficiently ,35533,1960730,606,488,469.2734375,521.453125,489.7734375,610.4921875,10,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,123, dark. ,35583,1960780,623,488,469.2734375,610.4921875,489.7734375,655.515625,10,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,123, dark. ,35632,1960830,639,487,469.2734375,610.4921875,489.7734375,655.515625,10,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,123, dark. ,35683,1960880,650,487,469.2734375,610.4921875,489.7734375,655.515625,10,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,124, In ,35733,1960930,667,487,469.2734375,655.515625,489.7734375,675.53125,10,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,125, Northumberland ,35783,1960980,685,488,469.2734375,675.53125,489.7734375,809.6015625,10,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,125, Northumberland ,35833,1961030,698,490,469.2734375,675.53125,489.7734375,809.6015625,10,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,125, Northumberland ,35882,1961080,708,490,469.2734375,675.53125,489.7734375,809.6015625,10,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,125, Northumberland ,35933,1961130,708,488,469.2734375,675.53125,489.7734375,809.6015625,10,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,125, Northumberland ,35983,1961181,708,488,469.2734375,675.53125,489.7734375,809.6015625,10,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,125, Northumberland ,36033,1961231,708,488,469.2734375,675.53125,489.7734375,809.6015625,10,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,125, Northumberland ,36083,1961280,708,488,469.2734375,675.53125,489.7734375,809.6015625,10,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,125, Northumberland ,36133,1961330,708,488,469.2734375,675.53125,489.7734375,809.6015625,10,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,125, Northumberland ,36183,1961380,708,488,469.2734375,675.53125,489.7734375,809.6015625,10,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,125, Northumberland ,36233,1961430,708,488,469.2734375,675.53125,489.7734375,809.6015625,10,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,125, Northumberland ,36283,1961481,722,487,469.2734375,675.53125,489.7734375,809.6015625,10,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,125, Northumberland ,36333,1961530,759,487,469.2734375,675.53125,489.7734375,809.6015625,10,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,125, Northumberland ,36382,1961580,780,486,469.2734375,675.53125,489.7734375,809.6015625,10,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,125, Northumberland ,36433,1961631,793,486,469.2734375,675.53125,489.7734375,809.6015625,10,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,125, Northumberland ,36483,1961680,808,486,469.2734375,675.53125,489.7734375,809.6015625,10,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,126, Dark ,36533,1961730,826,487,469.2734375,809.6015625,489.7734375,852.609375,10,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,126, Dark ,36583,1961781,842,488,469.2734375,809.6015625,489.7734375,852.609375,10,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,127, Sky ,36633,1961831,862,488,469.2734375,852.609375,489.7734375,887.6171875,10,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,128," Park, ",36682,1961880,890,485,469.2734375,887.6171875,489.7734375,934.6328125,10,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,128," Park, ",36733,1961930,914,482,469.2734375,887.6171875,489.7734375,934.6328125,10,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,128," Park, ",36783,1961980,931,482,469.2734375,887.6171875,489.7734375,934.6328125,10,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,129, as ,36833,1962030,946,485,469.2734375,934.6328125,489.7734375,958.6484375,10,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,129, as ,36883,1962081,958,489,469.2734375,934.6328125,489.7734375,958.6484375,10,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,130, the ,36933,1962130,970,493,469.2734375,958.6484375,489.7734375,988.671875,10,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,130, the ,36983,1962180,985,496,469.2734375,958.6484375,489.7734375,988.671875,10,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,37032,1962230,998,500,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,37082,1962280,1009,501,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,37132,1962330,1016,501,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,37182,1962380,1022,500,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,131, area ,37233,1962430,1027,497,469.2734375,988.671875,489.7734375,1029.703125,10,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,131, area ,37283,1962480,1029,496,469.2734375,988.671875,489.7734375,1029.703125,10,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,132, was ,37333,1962531,1030,496,469.2734375,1029.703125,489.7734375,1061.71875,10,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,132, was ,37383,1962580,1030,496,469.2734375,1029.703125,489.7734375,1061.71875,10,14,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,37432,1962630,1006,502,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,37482,1962680,957,504,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,145, Earth. ,37533,1962731,892,503,509.2734375,856.7109375,529.7734375,904.734375,11,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,143, on ,37582,1962780,820,506,509.2734375,801.6640625,529.7734375,826.6875,11,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,140, casts ,37633,1962831,695,504,509.2734375,672.5859375,529.7734375,719.6015625,11,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,122, sufficiently ,37683,1962880,598,494,469.2734375,521.453125,489.7734375,610.4921875,10,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,122, sufficiently ,37733,1962930,541,494,469.2734375,521.453125,489.7734375,610.4921875,10,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,121, are ,37783,1962980,504,497,469.2734375,490.4296875,489.7734375,521.453125,10,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,133," rebadged, ",37833,1963030,469,502,509.2734375,400.375,529.7734375,486.453125,11,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,133," rebadged, ",37883,1963080,432,507,509.2734375,400.375,529.7734375,486.453125,11,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,37933,1963130,397,510,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,37982,1963180,384,510,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,38033,1963230,381,510,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,38083,1963280,381,510,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,38132,1963330,381,510,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,38182,1963380,387,512,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,38232,1963430,398,514,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,133," rebadged, ",38282,1963480,419,516,509.2734375,400.375,529.7734375,486.453125,11,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,133," rebadged, ",38334,1963531,436,518,509.2734375,400.375,529.7734375,486.453125,11,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,133," rebadged, ",38384,1963581,447,518,509.2734375,400.375,529.7734375,486.453125,11,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,133," rebadged, ",38433,1963631,462,521,509.2734375,400.375,529.7734375,486.453125,11,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,133," rebadged, ",38483,1963681,486,524,509.2734375,400.375,529.7734375,486.453125,11,1,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,135, is ,38533,1963731,501,526,509.2734375,500.4609375,529.7734375,518.4609375,11,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,135, is ,38583,1963780,512,526,509.2734375,500.4609375,529.7734375,518.4609375,11,3,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,136, so ,38633,1963830,523,526,509.2734375,518.4609375,529.7734375,542.4765625,11,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,136, so ,38683,1963880,536,526,509.2734375,518.4609375,529.7734375,542.4765625,11,4,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,137, dark ,38733,1963930,549,527,509.2734375,542.4765625,529.7734375,582.5,11,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,137, dark ,38783,1963980,560,529,509.2734375,542.4765625,529.7734375,582.5,11,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,137, dark ,38833,1964030,571,529,509.2734375,542.4765625,529.7734375,582.5,11,5,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,138, that ,38883,1964080,586,529,509.2734375,582.5,529.7734375,617.53125,11,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,138, that ,38933,1964130,606,529,509.2734375,582.5,529.7734375,617.53125,11,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,138, that ,38983,1964181,610,529,509.2734375,582.5,529.7734375,617.53125,11,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,138, that ,39033,1964231,610,529,509.2734375,582.5,529.7734375,617.53125,11,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,138, that ,39084,1964281,610,529,509.2734375,582.5,529.7734375,617.53125,11,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,138, that ,39134,1964331,610,529,509.2734375,582.5,529.7734375,617.53125,11,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,138, that ,39184,1964381,610,529,509.2734375,582.5,529.7734375,617.53125,11,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,138, that ,39234,1964431,613,529,509.2734375,582.5,529.7734375,617.53125,11,6,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,139, Venus ,39282,1964480,634,529,509.2734375,617.53125,529.7734375,672.5859375,11,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,139, Venus ,39333,1964530,666,529,509.2734375,617.53125,529.7734375,672.5859375,11,7,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,140, casts ,39383,1964580,685,530,509.2734375,672.5859375,529.7734375,719.6015625,11,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,140, casts ,39432,1964630,696,531,509.2734375,672.5859375,529.7734375,719.6015625,11,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,140, casts ,39484,1964681,710,531,509.2734375,672.5859375,529.7734375,719.6015625,11,8,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,141, a ,39533,1964730,730,531,509.2734375,719.6015625,529.7734375,734.6171875,11,9,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,142, shadow ,39583,1964780,752,531,509.2734375,734.6171875,529.7734375,801.6640625,11,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,142, shadow ,39633,1964830,774,530,509.2734375,734.6171875,529.7734375,801.6640625,11,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,142, shadow ,39683,1964880,792,530,509.2734375,734.6171875,529.7734375,801.6640625,11,10,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,143, on ,39733,1964930,805,531,509.2734375,801.6640625,529.7734375,826.6875,11,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,143, on ,39783,1964980,821,532,509.2734375,801.6640625,529.7734375,826.6875,11,11,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,144, the ,39832,1965030,840,532,509.2734375,826.6875,529.7734375,856.7109375,11,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,144, the ,39882,1965080,853,534,509.2734375,826.6875,529.7734375,856.7109375,11,12,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,145, Earth. ,39933,1965130,863,536,509.2734375,856.7109375,529.7734375,904.734375,11,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,145, Earth. ,39983,1965180,875,538,509.2734375,856.7109375,529.7734375,904.734375,11,13,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,40032,1965230,885,540,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,40082,1965280,888,540,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,40132,1965330,861,550,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,40181,1965379,861,550,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,40232,1965429,861,550,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,40281,1965479,861,550,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,40331,1965529,861,550,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,40382,1965580,861,550,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,40433,1965631,861,550,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,40482,1965680,861,550,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,40533,1965730,861,550,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,40583,1965780,861,550,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,40634,1965832,861,550,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,40681,1965879,861,550,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,40733,1965930,861,550,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,40781,1965979,861,550,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,40831,1966029,861,550,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,40882,1966080,861,550,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,2,46,47,-1,,40933,1966130,861,550,,,,,,,Awards special status to parks,1,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
