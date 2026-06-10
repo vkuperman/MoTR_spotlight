@@ -1,0 +1,17 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,1,ele,2,5,32,33,-1,999,284,648306,566,298,,,,,,,Arm monitors,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,5,32,33,-1,999,335,648357,568,188,,,,,,,Arm monitors,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,5,32,33,-1,999,384,648406,612,137,,,,,,,Arm monitors,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,5,32,33,-1,999,435,648457,681,143,,,,,,,Arm monitors,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,5,32,33,-1,999,486,648507,756,252,,,,,,,Arm monitors,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,5,32,33,-1,999,534,648556,756,252,,,,,,,Arm monitors,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,5,32,33,-1,999,584,648605,756,252,,,,,,,Arm monitors,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,5,32,33,-1,999,634,648655,756,252,,,,,,,Arm monitors,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,5,32,33,-1,999,684,648705,756,252,,,,,,,Arm monitors,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,5,32,33,-1,999,734,648755,756,252,,,,,,,Arm monitors,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,5,32,33,-1,999,784,648805,756,252,,,,,,,Arm monitors,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,5,32,33,-1,999,834,648855,756,252,,,,,,,Arm monitors,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,5,32,33,-1,999,884,648906,756,252,,,,,,,Arm monitors,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,5,32,33,-1,999,935,648957,756,252,,,,,,,Arm monitors,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,5,32,33,-1,999,984,649006,756,252,,,,,,,Arm monitors,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,5,32,33,-1,999,1035,649056,756,252,,,,,,,Arm monitors,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
