@@ -1,0 +1,15 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,1,ele,15,5,21,22,-1,999,319,607407,505,256,,,,,,,Not much; both have been debated for decades,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,5,21,22,58, treatment. ,369,607457,578,234,231.2734375,529.4765625,251.7734375,615.515625,4,7,Not much; both have been debated for decades,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,5,21,22,-1,999,419,607506,657,246,,,,,,,Not much; both have been debated for decades,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,5,21,22,-1,999,469,607557,718,276,,,,,,,Not much; both have been debated for decades,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,5,21,22,-1,999,519,607606,718,276,,,,,,,Not much; both have been debated for decades,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,5,21,22,-1,999,569,607656,718,276,,,,,,,Not much; both have been debated for decades,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,5,21,22,-1,999,619,607706,718,276,,,,,,,Not much; both have been debated for decades,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,5,21,22,-1,999,669,607756,718,276,,,,,,,Not much; both have been debated for decades,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,5,21,22,-1,999,719,607806,718,276,,,,,,,Not much; both have been debated for decades,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,5,21,22,-1,999,769,607856,718,276,,,,,,,Not much; both have been debated for decades,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,5,21,22,-1,999,819,607906,718,276,,,,,,,Not much; both have been debated for decades,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,5,21,22,-1,999,869,607956,718,276,,,,,,,Not much; both have been debated for decades,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,5,21,22,-1,999,920,608007,718,276,,,,,,,Not much; both have been debated for decades,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,5,21,22,-1,999,969,608056,718,276,,,,,,,Not much; both have been debated for decades,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
