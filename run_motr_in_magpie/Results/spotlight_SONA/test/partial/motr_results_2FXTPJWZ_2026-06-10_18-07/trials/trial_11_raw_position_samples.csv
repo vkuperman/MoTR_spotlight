@@ -1,0 +1,17 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,1,ele,21,6,10,11,-1,999,369,574607,628,256,,,,,,,The importance of female drummers,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,6,10,11,37, The ,419,574657,735,197,191.2734375,733.4296875,211.7734375,769.2890625,3,7,The importance of female drummers,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,6,10,11,-1,999,469,574708,794,200,,,,,,,The importance of female drummers,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,6,10,11,-1,999,518,574756,830,245,,,,,,,The importance of female drummers,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,6,10,11,-1,999,569,574807,672,296,,,,,,,The importance of female drummers,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,6,10,11,-1,999,617,574856,603,276,,,,,,,The importance of female drummers,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,6,10,11,-1,999,669,574907,584,221,,,,,,,The importance of female drummers,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,6,10,11,68, says ,718,574957,641,280,271.2734375,605.5234375,291.7734375,647.5390625,5,7,The importance of female drummers,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,6,10,11,-1,999,767,575006,641,280,,,,,,,The importance of female drummers,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,6,10,11,-1,999,818,575056,641,280,,,,,,,The importance of female drummers,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,6,10,11,-1,999,868,575106,641,280,,,,,,,The importance of female drummers,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,6,10,11,-1,999,917,575156,641,280,,,,,,,The importance of female drummers,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,6,10,11,-1,999,967,575206,641,280,,,,,,,The importance of female drummers,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,6,10,11,-1,999,1017,575256,641,280,,,,,,,The importance of female drummers,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,6,10,11,-1,999,1069,575307,641,280,,,,,,,The importance of female drummers,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,6,10,11,-1,999,1118,575356,641,280,,,,,,,The importance of female drummers,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
