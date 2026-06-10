@@ -1,0 +1,95 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,368,532006,637,440,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,419,532056,603,413,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,468,532106,574,400,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,519,532156,538,383,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,569,532207,535,382,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,619,532256,535,382,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,669,532307,535,382,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,719,532357,535,382,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,770,532407,535,382,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,819,532456,544,398,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,868,532506,544,398,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,918,532556,544,398,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,968,532606,544,398,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1019,532656,544,398,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1069,532707,544,398,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1119,532757,544,398,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1168,532805,544,398,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1218,532856,544,398,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1269,532906,343,321,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1320,532957,306,240,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1369,533006,300,223,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1420,533057,300,223,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1469,533106,300,223,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1519,533157,300,223,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1568,533206,306,211,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1618,533255,316,197,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1668,533305,352,153,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1719,533356,361,142,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1769,533407,362,140,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1820,533457,363,139,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1869,533507,365,135,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1920,533557,368,131,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,1969,533606,370,130,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,2019,533657,370,130,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,1, The ,2069,533706,374,128,111.2734375,361.375,131.7734375,397.3984375,1,1,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,1, The ,2118,533755,378,125,111.2734375,361.375,131.7734375,397.3984375,1,1,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,1, The ,2169,533806,378,124,111.2734375,361.375,131.7734375,397.3984375,1,1,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,1, The ,2219,533856,374,124,111.2734375,361.375,131.7734375,397.3984375,1,1,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,1, The ,2269,533906,371,121,111.2734375,361.375,131.7734375,397.3984375,1,1,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,1, The ,2319,533956,371,119,111.2734375,361.375,131.7734375,397.3984375,1,1,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,1, The ,2368,534006,373,119,111.2734375,361.375,131.7734375,397.3984375,1,1,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,2, invention ,2418,534055,407,118,111.2734375,397.3984375,131.7734375,474.453125,1,2,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,4, farming ,2468,534106,532,126,111.2734375,494.46875,131.7734375,559.4921875,1,4,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,2518,534156,607,139,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,2569,534206,648,142,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,2619,534257,655,142,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,2669,534307,655,142,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,2719,534356,655,142,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,2769,534406,655,142,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,2819,534457,655,142,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,2868,534506,657,142,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,2919,534557,693,130,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,7, and ,2968,534606,721,125,111.2734375,694.5859375,131.7734375,729.625,1,7,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,8, animals ,3018,534655,768,125,111.2734375,729.625,131.7734375,796.65625,1,8,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,9, much ,3069,534706,805,125,111.2734375,796.65625,131.7734375,845.6796875,1,9,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,9, much ,3119,534756,824,124,111.2734375,796.65625,131.7734375,845.6796875,1,9,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,9, much ,3168,534806,835,123,111.2734375,796.65625,131.7734375,845.6796875,1,9,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,10, closer ,3218,534855,853,122,111.2734375,845.6796875,131.7734375,898.6953125,1,10,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,10, closer ,3269,534906,898,121,111.2734375,845.6796875,131.7734375,898.6953125,1,10,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,12, humans ,3319,534956,953,117,111.2734375,933.734375,131.7734375,1002.7734375,1,12,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,12, humans ,3368,535006,983,114,111.2734375,933.734375,131.7734375,1002.7734375,1,12,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,13, probably ,3419,535056,1004,114,111.2734375,1002.7734375,131.7734375,1071.8203125,1,13,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,13, probably ,3469,535106,1020,116,111.2734375,1002.7734375,131.7734375,1071.8203125,1,13,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,13, probably ,3519,535156,1031,120,111.2734375,1002.7734375,131.7734375,1071.8203125,1,13,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,13, probably ,3568,535206,1035,122,111.2734375,1002.7734375,131.7734375,1071.8203125,1,13,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,13, probably ,3619,535256,1038,125,111.2734375,1002.7734375,131.7734375,1071.8203125,1,13,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,3669,535306,1042,129,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,3719,535356,1045,134,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,3769,535407,1048,139,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,3819,535457,1054,145,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,3869,535507,1061,150,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,3919,535557,1064,152,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,26, change ,3968,535605,1062,156,151.2734375,1005.71875,171.7734375,1069.7734375,2,13,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,26, change ,4019,535656,1043,162,151.2734375,1005.71875,171.7734375,1069.7734375,2,13,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,26, change ,4069,535706,1025,167,151.2734375,1005.71875,171.7734375,1069.7734375,2,13,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,4119,535756,1006,175,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,4168,535805,956,190,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,4219,535856,816,254,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,4269,535906,692,393,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,4318,535956,692,393,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,4370,536007,692,393,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,4420,536057,692,393,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,4469,536107,692,393,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,4519,536156,692,393,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,4568,536206,692,393,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,4618,536256,692,393,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,4669,536306,692,393,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,4719,536357,692,393,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,4769,536406,692,393,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,4818,536456,692,393,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,4868,536506,692,393,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,4918,536556,692,393,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,4969,536606,692,393,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,2,2,3,-1,999,5019,536657,692,393,,,,,,,Genes can affect the immune system,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
