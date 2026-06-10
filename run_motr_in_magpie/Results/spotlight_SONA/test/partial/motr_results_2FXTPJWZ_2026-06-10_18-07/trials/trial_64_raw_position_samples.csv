@@ -1,0 +1,25 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,297,789203,506,383,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,341,789247,494,303,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,350,789256,494,303,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,67," $700, ",402,789307,509,273,271.2734375,504.4453125,291.7734375,554.4921875,5,6,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,451,789356,525,263,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,500,789406,595,301,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,550,789456,595,301,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,600,789506,595,301,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,650,789555,595,301,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,700,789606,595,301,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,751,789657,630,212,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,801,789707,631,182,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,37, putting ,851,789757,648,202,191.2734375,625.5546875,211.7734375,684.6015625,3,8,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,900,789805,648,202,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,950,789856,648,202,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,1000,789906,648,202,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,1050,789955,648,202,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,1100,790005,648,202,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,1150,790056,648,202,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,1200,790105,648,202,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,1250,790155,648,202,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,1301,790207,648,202,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,1351,790256,648,202,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,4,63,64,-1,999,1401,790306,648,202,,,,,,,They are getting cheaper,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
