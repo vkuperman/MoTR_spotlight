@@ -1,0 +1,902 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+64FUZCW2,,2,int,8,4,36,37,-1,999,12700,5626373,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,12728,5626401,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,12791,5626464,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,12837,5626510,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,12884,5626557,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,12931,5626604,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,12977,5626650,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13040,5626712,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13087,5626760,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13134,5626807,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13181,5626854,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13227,5626900,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13289,5626962,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13337,5627010,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13384,5627057,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13430,5627103,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13478,5627151,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13540,5627213,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13587,5627260,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13634,5627307,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13680,5627353,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13727,5627400,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13788,5627461,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13836,5627509,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13883,5627556,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13930,5627603,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,13991,5627664,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14038,5627711,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14085,5627758,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14130,5627803,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14176,5627849,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14237,5627910,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14284,5627957,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14331,5628004,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14378,5628051,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14441,5628114,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14487,5628160,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14534,5628207,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14581,5628254,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14626,5628299,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14687,5628360,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14733,5628406,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14777,5628450,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14842,5628515,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14888,5628561,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14935,5628608,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,14982,5628654,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15028,5628701,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15076,5628749,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15138,5628811,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15186,5628859,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15233,5628906,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15280,5628953,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15326,5628999,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15387,5629060,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15434,5629107,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15481,5629154,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15528,5629201,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15589,5629262,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15636,5629309,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15682,5629355,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15729,5629402,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15790,5629463,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15836,5629509,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15876,5629549,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15930,5629603,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,15977,5629650,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16038,5629711,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16086,5629758,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16133,5629806,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16179,5629852,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16240,5629913,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16287,5629960,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16334,5630007,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16381,5630054,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16427,5630100,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16489,5630162,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16536,5630209,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16583,5630256,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16630,5630303,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16677,5630350,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16740,5630413,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16787,5630460,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16833,5630506,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16881,5630554,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16928,5630601,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,16991,5630663,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17037,5630710,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17084,5630757,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17130,5630803,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17177,5630850,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17240,5630913,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17286,5630959,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17333,5631006,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17380,5631053,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17427,5631100,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17490,5631163,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17536,5631209,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17583,5631256,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17631,5631304,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17678,5631351,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17741,5631414,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17787,5631460,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17834,5631507,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17881,5631554,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17928,5631601,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,17990,5631663,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18037,5631710,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18083,5631756,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18130,5631803,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18176,5631849,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18239,5631912,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18285,5631958,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18332,5632005,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18378,5632051,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18437,5632110,1032,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18476,5632149,1026,313,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18526,5632199,1026,313,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18577,5632250,1026,313,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18627,5632300,1026,313,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18678,5632351,1026,313,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18726,5632399,1026,313,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18776,5632449,1026,313,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18827,5632500,1080,146,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18877,5632550,1109,69,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18926,5632599,1124,47,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,18990,5632663,1130,42,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,19036,5632709,1130,42,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,19076,5632749,1130,42,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,19129,5632802,1130,42,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,19176,5632849,1130,42,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,19226,5632899,1130,42,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,19277,5632950,1112,48,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,19327,5632999,1094,56,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,19377,5633050,1083,62,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,19427,5633100,1073,66,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,11," 2012, ",19477,5633150,1065,71,68.22222137451172,1061.7222900390625,87.77777671813965,1111.777847290039,1,11,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,10, in ,19527,5633200,1059,74,68.22222137451172,1042.7083740234375,87.77777671813965,1061.7222633361816,1,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,10, in ,19577,5633250,1053,76,68.22222137451172,1042.7083740234375,87.77777671813965,1061.7222633361816,1,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,10, in ,19626,5633299,1048,78,68.22222137451172,1042.7083740234375,87.77777671813965,1061.7222633361816,1,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,10, in ,19679,5633351,1043,79,68.22222137451172,1042.7083740234375,87.77777671813965,1061.7222633361816,1,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,9, names ,19728,5633400,1028,76,68.22222137451172,983.6805419921875,87.77777671813965,1042.7083206176758,1,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,19777,5633450,953,39,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,19831,5633504,953,39,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,19878,5633551,953,39,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,19927,5633600,953,39,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,19990,5633663,953,39,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,20037,5633710,953,39,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,20083,5633756,953,39,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,20127,5633800,953,39,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,20177,5633850,953,39,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,20239,5633912,953,39,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,20285,5633958,953,39,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,20329,5634002,953,39,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,20376,5634049,953,39,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,20429,5634102,953,39,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,20478,5634151,953,39,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,20526,5634199,640,47,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,20577,5634250,627,60,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,1, When ,20626,5634299,616,76,68.22222137451172,604.0694580078125,87.77777671813965,656.0972366333008,1,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,20677,5634350,605,96,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,20726,5634398,600,102,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,20776,5634449,599,104,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,20833,5634506,599,102,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,21010,5634682,599,99,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,21026,5634699,602,89,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,21076,5634749,602,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,21127,5634800,604,86,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,21176,5634849,604,86,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,21235,5634908,605,86,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,21282,5634955,605,86,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,21329,5635002,605,86,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,21390,5635063,605,86,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,21437,5635110,605,86,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,21485,5635158,605,86,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,21526,5635199,605,86,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,21578,5635251,605,86,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,21640,5635313,605,86,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,21685,5635358,605,86,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,21732,5635404,605,86,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,21779,5635452,605,86,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,1, When ,21830,5635502,608,84,68.22222137451172,604.0694580078125,87.77777671813965,656.0972366333008,1,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,1, When ,21878,5635551,610,84,68.22222137451172,604.0694580078125,87.77777671813965,656.0972366333008,1,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,1, When ,21927,5635600,613,83,68.22222137451172,604.0694580078125,87.77777671813965,656.0972366333008,1,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,1, When ,21985,5635658,616,82,68.22222137451172,604.0694580078125,87.77777671813965,656.0972366333008,1,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,1, When ,22031,5635704,617,82,68.22222137451172,604.0694580078125,87.77777671813965,656.0972366333008,1,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,1, When ,22078,5635751,620,82,68.22222137451172,604.0694580078125,87.77777671813965,656.0972366333008,1,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,1, When ,22127,5635800,623,81,68.22222137451172,604.0694580078125,87.77777671813965,656.0972366333008,1,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,1, When ,22177,5635850,626,81,68.22222137451172,604.0694580078125,87.77777671813965,656.0972366333008,1,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,1, When ,22227,5635900,629,80,68.22222137451172,604.0694580078125,87.77777671813965,656.0972366333008,1,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,1, When ,22277,5635950,634,80,68.22222137451172,604.0694580078125,87.77777671813965,656.0972366333008,1,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,1, When ,22331,5636004,640,80,68.22222137451172,604.0694580078125,87.77777671813965,656.0972366333008,1,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,1, When ,22380,5636053,645,80,68.22222137451172,604.0694580078125,87.77777671813965,656.0972366333008,1,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,1, When ,22428,5636101,650,80,68.22222137451172,604.0694580078125,87.77777671813965,656.0972366333008,1,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,1, When ,22477,5636150,656,80,68.22222137451172,604.0694580078125,87.77777671813965,656.0972366333008,1,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,22531,5636204,661,80,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,22579,5636252,665,80,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,22627,5636300,671,81,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,22679,5636352,677,81,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,22726,5636399,685,82,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,22777,5636450,693,83,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,22827,5636500,700,83,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,22877,5636550,706,83,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,22936,5636609,708,83,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,22982,5636655,708,83,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,23028,5636701,708,83,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,23090,5636763,708,83,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,23136,5636809,708,83,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,23184,5636857,708,83,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,23230,5636903,708,83,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,23292,5636965,708,83,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,23339,5637012,708,83,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,23387,5637060,708,83,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,23427,5637100,708,83,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,23479,5637152,708,83,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,2, elements ,23526,5637199,717,85,68.22222137451172,656.0972290039062,87.77777671813965,734.1388931274414,1,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,23579,5637252,727,87,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,23627,5637300,736,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,23677,5637350,743,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,23727,5637400,749,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,23778,5637451,756,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,23830,5637503,762,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,23880,5637553,768,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,23931,5637604,773,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,23980,5637653,782,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,24030,5637703,790,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,24080,5637753,796,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,24130,5637803,801,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,24180,5637853,807,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,24231,5637904,813,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,24278,5637951,819,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,24329,5638002,826,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,24377,5638050,832,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,24430,5638103,838,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,24477,5638150,842,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,24527,5638200,848,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,24576,5638249,853,88,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,24627,5638299,858,86,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,6, were ,24677,5638350,869,82,68.22222137451172,836.5972290039062,87.77777671813965,880.6250076293945,1,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,7, given ,24728,5638401,884,77,68.22222137451172,880.625,87.77777671813965,928.6666679382324,1,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,7, given ,24776,5638449,898,72,68.22222137451172,880.625,87.77777671813965,928.6666679382324,1,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,7, given ,24830,5638503,909,70,68.22222137451172,880.625,87.77777671813965,928.6666679382324,1,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,7, given ,24881,5638554,917,70,68.22222137451172,880.625,87.77777671813965,928.6666679382324,1,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,7, given ,24928,5638601,923,70,68.22222137451172,880.625,87.77777671813965,928.6666679382324,1,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,7, given ,24978,5638651,928,70,68.22222137451172,880.625,87.77777671813965,928.6666679382324,1,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,8, formal ,25029,5638702,935,70,68.22222137451172,928.6666870117188,87.77777671813965,983.6805763244629,1,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,8, formal ,25079,5638752,940,70,68.22222137451172,928.6666870117188,87.77777671813965,983.6805763244629,1,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,8, formal ,25130,5638803,948,70,68.22222137451172,928.6666870117188,87.77777671813965,983.6805763244629,1,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,8, formal ,25177,5638850,956,70,68.22222137451172,928.6666870117188,87.77777671813965,983.6805763244629,1,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,8, formal ,25227,5638900,965,70,68.22222137451172,928.6666870117188,87.77777671813965,983.6805763244629,1,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,8, formal ,25277,5638950,972,70,68.22222137451172,928.6666870117188,87.77777671813965,983.6805763244629,1,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,8, formal ,25327,5639000,977,70,68.22222137451172,928.6666870117188,87.77777671813965,983.6805763244629,1,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,8, formal ,25377,5639049,977,70,68.22222137451172,928.6666870117188,87.77777671813965,983.6805763244629,1,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,8, formal ,25439,5639112,977,70,68.22222137451172,928.6666870117188,87.77777671813965,983.6805763244629,1,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,8, formal ,25485,5639158,977,70,68.22222137451172,928.6666870117188,87.77777671813965,983.6805763244629,1,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,8, formal ,25531,5639204,977,70,68.22222137451172,928.6666870117188,87.77777671813965,983.6805763244629,1,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,8, formal ,25578,5639251,977,70,68.22222137451172,928.6666870117188,87.77777671813965,983.6805763244629,1,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,8, formal ,25640,5639313,977,70,68.22222137451172,928.6666870117188,87.77777671813965,983.6805763244629,1,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,8, formal ,25688,5639361,977,70,68.22222137451172,928.6666870117188,87.77777671813965,983.6805763244629,1,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,8, formal ,25736,5639409,977,70,68.22222137451172,928.6666870117188,87.77777671813965,983.6805763244629,1,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,8, formal ,25777,5639450,977,70,68.22222137451172,928.6666870117188,87.77777671813965,983.6805763244629,1,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,8, formal ,25830,5639503,980,70,68.22222137451172,928.6666870117188,87.77777671813965,983.6805763244629,1,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,9, names ,25879,5639552,989,70,68.22222137451172,983.6805419921875,87.77777671813965,1042.7083206176758,1,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,9, names ,25929,5639602,997,72,68.22222137451172,983.6805419921875,87.77777671813965,1042.7083206176758,1,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,9, names ,25977,5639650,1005,72,68.22222137451172,983.6805419921875,87.77777671813965,1042.7083206176758,1,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,9, names ,26029,5639702,1013,72,68.22222137451172,983.6805419921875,87.77777671813965,1042.7083206176758,1,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,9, names ,26079,5639752,1018,72,68.22222137451172,983.6805419921875,87.77777671813965,1042.7083206176758,1,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,9, names ,26128,5639801,1024,72,68.22222137451172,983.6805419921875,87.77777671813965,1042.7083206176758,1,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,9, names ,26177,5639850,1029,72,68.22222137451172,983.6805419921875,87.77777671813965,1042.7083206176758,1,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,9, names ,26229,5639902,1037,72,68.22222137451172,983.6805419921875,87.77777671813965,1042.7083206176758,1,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,10, in ,26278,5639951,1045,72,68.22222137451172,1042.7083740234375,87.77777671813965,1061.7222633361816,1,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,10, in ,26329,5640002,1055,72,68.22222137451172,1042.7083740234375,87.77777671813965,1061.7222633361816,1,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,11," 2012, ",26377,5640050,1065,72,68.22222137451172,1061.7222900390625,87.77777671813965,1111.777847290039,1,11,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,11," 2012, ",26429,5640102,1075,74,68.22222137451172,1061.7222900390625,87.77777671813965,1111.777847290039,1,11,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,11," 2012, ",26478,5640151,1086,76,68.22222137451172,1061.7222900390625,87.77777671813965,1111.777847290039,1,11,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,11," 2012, ",26529,5640202,1096,76,68.22222137451172,1061.7222900390625,87.77777671813965,1111.777847290039,1,11,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,11," 2012, ",26581,5640254,1107,79,68.22222137451172,1061.7222900390625,87.77777671813965,1111.777847290039,1,11,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,12, scientists ,26630,5640303,1118,80,68.22222137451172,1111.77783203125,87.77777671813965,1190.8056106567383,1,12,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,12, scientists ,26677,5640350,1128,80,68.22222137451172,1111.77783203125,87.77777671813965,1190.8056106567383,1,12,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,12, scientists ,26729,5640402,1150,79,68.22222137451172,1111.77783203125,87.77777671813965,1190.8056106567383,1,12,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,12, scientists ,26781,5640454,1183,77,68.22222137451172,1111.77783203125,87.77777671813965,1190.8056106567383,1,12,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,13, chose ,26829,5640501,1205,77,68.22222137451172,1190.8055419921875,87.77777671813965,1243.84720993042,1,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,13, chose ,26878,5640551,1218,77,68.22222137451172,1190.8055419921875,87.77777671813965,1243.84720993042,1,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,13, chose ,26929,5640602,1229,78,68.22222137451172,1190.8055419921875,87.77777671813965,1243.84720993042,1,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,13, chose ,26979,5640652,1237,80,68.22222137451172,1190.8055419921875,87.77777671813965,1243.84720993042,1,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,14, flerovium ,27030,5640703,1244,82,68.22222137451172,1243.8472900390625,87.77777671813965,1316.8750686645508,1,14,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,14, flerovium ,27079,5640752,1252,82,68.22222137451172,1243.8472900390625,87.77777671813965,1316.8750686645508,1,14,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,14, flerovium ,27129,5640802,1261,82,68.22222137451172,1243.8472900390625,87.77777671813965,1316.8750686645508,1,14,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,14, flerovium ,27179,5640852,1267,80,68.22222137451172,1243.8472900390625,87.77777671813965,1316.8750686645508,1,14,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,14, flerovium ,27229,5640902,1272,76,68.22222137451172,1243.8472900390625,87.77777671813965,1316.8750686645508,1,14,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,14, flerovium ,27278,5640951,1276,75,68.22222137451172,1243.8472900390625,87.77777671813965,1316.8750686645508,1,14,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,14, flerovium ,27326,5640999,1280,73,68.22222137451172,1243.8472900390625,87.77777671813965,1316.8750686645508,1,14,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,14, flerovium ,27377,5641050,1285,73,68.22222137451172,1243.8472900390625,87.77777671813965,1316.8750686645508,1,14,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,14, flerovium ,27427,5641100,1288,73,68.22222137451172,1243.8472900390625,87.77777671813965,1316.8750686645508,1,14,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,14, flerovium ,27483,5641156,1289,73,68.22222137451172,1243.8472900390625,87.77777671813965,1316.8750686645508,1,14,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,14, flerovium ,27528,5641201,1288,74,68.22222137451172,1243.8472900390625,87.77777671813965,1316.8750686645508,1,14,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,14, flerovium ,27577,5641250,1260,76,68.22222137451172,1243.8472900390625,87.77777671813965,1316.8750686645508,1,14,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,27627,5641300,958,53,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,27679,5641352,894,43,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,27726,5641399,894,43,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,27776,5641449,894,43,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,27830,5641503,894,43,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,27876,5641549,894,43,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,27926,5641599,894,43,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,27977,5641650,894,43,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,28033,5641706,894,43,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,28080,5641753,894,43,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,28127,5641800,632,39,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,28180,5641853,618,69,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,28227,5641900,612,81,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,28277,5641950,603,100,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,28328,5642001,600,105,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,28378,5642051,596,109,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,28428,5642101,595,112,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,28477,5642150,593,114,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,28527,5642200,592,116,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,28577,5642250,592,117,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,28632,5642305,593,117,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,28676,5642349,597,116,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,28727,5642400,604,115,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,15, and ,28777,5642450,612,114,108.22222137451172,604.0694580078125,127.77777671813965,639.1111259460449,2,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,15, and ,28827,5642500,620,114,108.22222137451172,604.0694580078125,127.77777671813965,639.1111259460449,2,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,15, and ,28876,5642549,629,114,108.22222137451172,604.0694580078125,127.77777671813965,639.1111259460449,2,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,15, and ,28926,5642599,637,113,108.22222137451172,604.0694580078125,127.77777671813965,639.1111259460449,2,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,16, livermorium ,28976,5642649,644,112,108.22222137451172,639.1111450195312,127.77777671813965,737.1250381469727,2,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,16, livermorium ,29027,5642700,649,112,108.22222137451172,639.1111450195312,127.77777671813965,737.1250381469727,2,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,16, livermorium ,29078,5642751,656,112,108.22222137451172,639.1111450195312,127.77777671813965,737.1250381469727,2,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,16, livermorium ,29128,5642801,663,112,108.22222137451172,639.1111450195312,127.77777671813965,737.1250381469727,2,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,16, livermorium ,29177,5642850,671,113,108.22222137451172,639.1111450195312,127.77777671813965,737.1250381469727,2,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,16, livermorium ,29227,5642900,681,114,108.22222137451172,639.1111450195312,127.77777671813965,737.1250381469727,2,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,16, livermorium ,29277,5642950,690,114,108.22222137451172,639.1111450195312,127.77777671813965,737.1250381469727,2,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,16, livermorium ,29327,5643000,701,114,108.22222137451172,639.1111450195312,127.77777671813965,737.1250381469727,2,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,16, livermorium ,29376,5643049,712,114,108.22222137451172,639.1111450195312,127.77777671813965,737.1250381469727,2,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,16, livermorium ,29426,5643099,722,114,108.22222137451172,639.1111450195312,127.77777671813965,737.1250381469727,2,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,16, livermorium ,29476,5643149,733,114,108.22222137451172,639.1111450195312,127.77777671813965,737.1250381469727,2,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,17," respectively, ",29529,5643201,744,113,108.22222137451172,737.125,127.77777671813965,840.8333358764648,2,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,17," respectively, ",29577,5643250,753,112,108.22222137451172,737.125,127.77777671813965,840.8333358764648,2,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,17," respectively, ",29626,5643299,761,112,108.22222137451172,737.125,127.77777671813965,840.8333358764648,2,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,17," respectively, ",29676,5643349,769,112,108.22222137451172,737.125,127.77777671813965,840.8333358764648,2,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,17," respectively, ",29727,5643400,776,112,108.22222137451172,737.125,127.77777671813965,840.8333358764648,2,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,17," respectively, ",29779,5643451,784,112,108.22222137451172,737.125,127.77777671813965,840.8333358764648,2,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,17," respectively, ",29827,5643500,791,112,108.22222137451172,737.125,127.77777671813965,840.8333358764648,2,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,17," respectively, ",29878,5643550,803,112,108.22222137451172,737.125,127.77777671813965,840.8333358764648,2,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,17," respectively, ",29927,5643600,813,112,108.22222137451172,737.125,127.77777671813965,840.8333358764648,2,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,17," respectively, ",29978,5643651,824,112,108.22222137451172,737.125,127.77777671813965,840.8333358764648,2,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,17," respectively, ",30026,5643699,833,112,108.22222137451172,737.125,127.77777671813965,840.8333358764648,2,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,18, after ,30077,5643750,842,112,108.22222137451172,840.8333129882812,127.77777671813965,881.8610916137695,2,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,18, after ,30127,5643799,853,112,108.22222137451172,840.8333129882812,127.77777671813965,881.8610916137695,2,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,18, after ,30176,5643849,863,112,108.22222137451172,840.8333129882812,127.77777671813965,881.8610916137695,2,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,18, after ,30226,5643899,872,112,108.22222137451172,840.8333129882812,127.77777671813965,881.8610916137695,2,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,18, after ,30277,5643950,881,112,108.22222137451172,840.8333129882812,127.77777671813965,881.8610916137695,2,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,19, the ,30326,5643999,892,112,108.22222137451172,881.8611450195312,127.77777671813965,911.8889236450195,2,5,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,19, the ,30377,5644050,900,112,108.22222137451172,881.8611450195312,127.77777671813965,911.8889236450195,2,5,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,19, the ,30427,5644100,908,112,108.22222137451172,881.8611450195312,127.77777671813965,911.8889236450195,2,5,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,20, Flerov ,30477,5644150,916,113,108.22222137451172,911.888916015625,127.77777671813965,966.9028053283691,2,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,20, Flerov ,30527,5644200,925,113,108.22222137451172,911.888916015625,127.77777671813965,966.9028053283691,2,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,20, Flerov ,30577,5644250,935,113,108.22222137451172,911.888916015625,127.77777671813965,966.9028053283691,2,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,20, Flerov ,30628,5644301,944,113,108.22222137451172,911.888916015625,127.77777671813965,966.9028053283691,2,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,20, Flerov ,30676,5644349,951,114,108.22222137451172,911.888916015625,127.77777671813965,966.9028053283691,2,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,20, Flerov ,30727,5644400,957,115,108.22222137451172,911.888916015625,127.77777671813965,966.9028053283691,2,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,20, Flerov ,30778,5644451,962,116,108.22222137451172,911.888916015625,127.77777671813965,966.9028053283691,2,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,21, Lab ,30828,5644501,967,116,108.22222137451172,966.9027709960938,127.77777671813965,1001.9444389343262,2,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,21, Lab ,30879,5644552,969,116,108.22222137451172,966.9027709960938,127.77777671813965,1001.9444389343262,2,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,21, Lab ,30941,5644614,970,117,108.22222137451172,966.9027709960938,127.77777671813965,1001.9444389343262,2,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,21, Lab ,30977,5644650,969,117,108.22222137451172,966.9027709960938,127.77777671813965,1001.9444389343262,2,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,21, Lab ,31033,5644706,969,117,108.22222137451172,966.9027709960938,127.77777671813965,1001.9444389343262,2,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,21, Lab ,31080,5644753,969,117,108.22222137451172,966.9027709960938,127.77777671813965,1001.9444389343262,2,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,21, Lab ,31128,5644801,969,117,108.22222137451172,966.9027709960938,127.77777671813965,1001.9444389343262,2,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,21, Lab ,31190,5644863,969,117,108.22222137451172,966.9027709960938,127.77777671813965,1001.9444389343262,2,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,21, Lab ,31237,5644910,969,117,108.22222137451172,966.9027709960938,127.77777671813965,1001.9444389343262,2,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,21, Lab ,31284,5644957,969,117,108.22222137451172,966.9027709960938,127.77777671813965,1001.9444389343262,2,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,21, Lab ,31329,5645002,969,117,108.22222137451172,966.9027709960938,127.77777671813965,1001.9444389343262,2,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,21, Lab ,31391,5645064,969,117,108.22222137451172,966.9027709960938,127.77777671813965,1001.9444389343262,2,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,21, Lab ,31439,5645111,969,117,108.22222137451172,966.9027709960938,127.77777671813965,1001.9444389343262,2,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,21, Lab ,31486,5645159,969,117,108.22222137451172,966.9027709960938,127.77777671813965,1001.9444389343262,2,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,21, Lab ,31529,5645202,973,117,108.22222137451172,966.9027709960938,127.77777671813965,1001.9444389343262,2,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,21, Lab ,31579,5645252,983,117,108.22222137451172,966.9027709960938,127.77777671813965,1001.9444389343262,2,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,21, Lab ,31628,5645301,993,117,108.22222137451172,966.9027709960938,127.77777671813965,1001.9444389343262,2,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,21, Lab ,31679,5645352,1001,117,108.22222137451172,966.9027709960938,127.77777671813965,1001.9444389343262,2,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,22, at ,31726,5645399,1010,117,108.22222137451172,1001.9444580078125,127.77777671813965,1021.9583473205566,2,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,22, at ,31776,5645449,1016,117,108.22222137451172,1001.9444580078125,127.77777671813965,1021.9583473205566,2,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,22, at ,31828,5645500,1021,117,108.22222137451172,1001.9444580078125,127.77777671813965,1021.9583473205566,2,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,23, Dubna’s ,31877,5645550,1028,117,108.22222137451172,1021.9583129882812,127.77777671813965,1092.680534362793,2,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,23, Dubna’s ,31927,5645600,1035,117,108.22222137451172,1021.9583129882812,127.77777671813965,1092.680534362793,2,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,23, Dubna’s ,31978,5645651,1042,117,108.22222137451172,1021.9583129882812,127.77777671813965,1092.680534362793,2,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,23, Dubna’s ,32026,5645699,1050,117,108.22222137451172,1021.9583129882812,127.77777671813965,1092.680534362793,2,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,23, Dubna’s ,32076,5645749,1061,117,108.22222137451172,1021.9583129882812,127.77777671813965,1092.680534362793,2,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,23, Dubna’s ,32127,5645800,1073,117,108.22222137451172,1021.9583129882812,127.77777671813965,1092.680534362793,2,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,23, Dubna’s ,32177,5645850,1089,117,108.22222137451172,1021.9583129882812,127.77777671813965,1092.680534362793,2,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,24, Joint ,32227,5645900,1106,117,108.22222137451172,1092.6805419921875,127.77777671813965,1135.7083206176758,2,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,24, Joint ,32277,5645950,1122,117,108.22222137451172,1092.6805419921875,127.77777671813965,1135.7083206176758,2,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,25, Institute ,32328,5646001,1138,116,108.22222137451172,1135.7083740234375,127.77777671813965,1203.7500381469727,2,11,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,25, Institute ,32378,5646051,1153,115,108.22222137451172,1135.7083740234375,127.77777671813965,1203.7500381469727,2,11,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,25, Institute ,32427,5646100,1167,114,108.22222137451172,1135.7083740234375,127.77777671813965,1203.7500381469727,2,11,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,25, Institute ,32477,5646150,1180,114,108.22222137451172,1135.7083740234375,127.77777671813965,1203.7500381469727,2,11,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,25, Institute ,32527,5646199,1194,114,108.22222137451172,1135.7083740234375,127.77777671813965,1203.7500381469727,2,11,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,26, of ,32577,5646250,1208,114,108.22222137451172,1203.75,127.77777671813965,1223.7638893127441,2,12,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,26, of ,32626,5646299,1220,114,108.22222137451172,1203.75,127.77777671813965,1223.7638893127441,2,12,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,27, Research ,32677,5646349,1231,114,108.22222137451172,1223.763916015625,127.77777671813965,1305.8055801391602,2,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,27, Research ,32727,5646400,1240,114,108.22222137451172,1223.763916015625,127.77777671813965,1305.8055801391602,2,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,27, Research ,32777,5646450,1245,114,108.22222137451172,1223.763916015625,127.77777671813965,1305.8055801391602,2,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,27, Research ,32826,5646499,1248,114,108.22222137451172,1223.763916015625,127.77777671813965,1305.8055801391602,2,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,27, Research ,32878,5646551,1244,114,108.22222137451172,1223.763916015625,127.77777671813965,1305.8055801391602,2,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,32927,5646600,1228,112,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,10, in ,32977,5646650,1061,83,68.22222137451172,1042.7083740234375,87.77777671813965,1061.7222633361816,1,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,33027,5646700,792,97,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,33078,5646751,620,130,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,33127,5646800,572,135,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,33177,5646850,550,130,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,33227,5646900,540,126,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,33277,5646950,536,121,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,33328,5647001,535,121,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,33376,5647049,535,122,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,33426,5647099,535,125,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,33476,5647149,539,130,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,33527,5647200,546,136,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,33578,5647251,563,148,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,33626,5647299,588,159,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,33676,5647349,601,160,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,29, the ,33728,5647401,609,160,148.22222900390625,604.0694580078125,167.77778434753418,634.0972366333008,3,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,29, the ,33777,5647450,616,159,148.22222900390625,604.0694580078125,167.77778434753418,634.0972366333008,3,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,29, the ,33828,5647501,629,152,148.22222900390625,604.0694580078125,167.77778434753418,634.0972366333008,3,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,33879,5647552,645,148,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,33927,5647600,659,143,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,33976,5647649,675,142,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,34027,5647700,687,142,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,34078,5647751,702,142,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,34129,5647802,712,142,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,34180,5647853,722,143,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,34227,5647900,735,144,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,34278,5647951,746,145,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,34328,5648001,757,146,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,34378,5648051,770,149,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,31, Livermore ,34429,5648102,781,151,148.22222900390625,717.1527709960938,167.77778434753418,802.180549621582,3,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,31, Livermore ,34479,5648152,793,153,148.22222900390625,717.1527709960938,167.77778434753418,802.180549621582,3,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,32, Lab ,34527,5648200,807,156,148.22222900390625,802.1805419921875,167.77778434753418,837.2222099304199,3,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,32, Lab ,34579,5648252,818,158,148.22222900390625,802.1805419921875,167.77778434753418,837.2222099304199,3,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,32, Lab ,34626,5648299,831,160,148.22222900390625,802.1805419921875,167.77778434753418,837.2222099304199,3,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,33, in ,34677,5648350,842,160,148.22222900390625,837.2222290039062,167.77778434753418,856.2361183166504,3,5,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,33, in ,34728,5648401,856,160,148.22222900390625,837.2222290039062,167.77778434753418,856.2361183166504,3,5,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,34, the ,34777,5648450,867,161,148.22222900390625,856.2361450195312,167.77778434753418,886.2639236450195,3,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,34, the ,34828,5648501,878,161,148.22222900390625,856.2361450195312,167.77778434753418,886.2639236450195,3,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,35," US, ",34878,5648550,888,161,148.22222900390625,886.263916015625,167.77778434753418,921.2778053283691,3,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,35," US, ",34927,5648600,896,161,148.22222900390625,886.263916015625,167.77778434753418,921.2778053283691,3,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,35," US, ",34979,5648651,901,161,148.22222900390625,886.263916015625,167.77778434753418,921.2778053283691,3,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,35," US, ",35029,5648702,908,160,148.22222900390625,886.263916015625,167.77778434753418,921.2778053283691,3,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,35," US, ",35078,5648751,918,160,148.22222900390625,886.263916015625,167.77778434753418,921.2778053283691,3,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,36, where ,35126,5648799,931,160,148.22222900390625,921.2777709960938,167.77778434753418,975.305549621582,3,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,36, where ,35178,5648851,944,159,148.22222900390625,921.2777709960938,167.77778434753418,975.305549621582,3,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,36, where ,35226,5648899,951,158,148.22222900390625,921.2777709960938,167.77778434753418,975.305549621582,3,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,36, where ,35276,5648949,952,156,148.22222900390625,921.2777709960938,167.77778434753418,975.305549621582,3,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,36, where ,35331,5649004,952,156,148.22222900390625,921.2777709960938,167.77778434753418,975.305549621582,3,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,36, where ,35378,5649051,952,156,148.22222900390625,921.2777709960938,167.77778434753418,975.305549621582,3,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,36, where ,35441,5649114,952,156,148.22222900390625,921.2777709960938,167.77778434753418,975.305549621582,3,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,36, where ,35487,5649160,952,156,148.22222900390625,921.2777709960938,167.77778434753418,975.305549621582,3,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,36, where ,35533,5649206,952,156,148.22222900390625,921.2777709960938,167.77778434753418,975.305549621582,3,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,36, where ,35580,5649253,952,156,148.22222900390625,921.2777709960938,167.77778434753418,975.305549621582,3,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,36, where ,35627,5649300,952,156,148.22222900390625,921.2777709960938,167.77778434753418,975.305549621582,3,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,36, where ,35689,5649362,952,156,148.22222900390625,921.2777709960938,167.77778434753418,975.305549621582,3,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,36, where ,35727,5649400,954,156,148.22222900390625,921.2777709960938,167.77778434753418,975.305549621582,3,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,36, where ,35776,5649449,964,156,148.22222900390625,921.2777709960938,167.77778434753418,975.305549621582,3,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,37, the ,35827,5649500,977,156,148.22222900390625,975.3055419921875,167.77778434753418,1005.3333206176758,3,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,37, the ,35877,5649550,990,157,148.22222900390625,975.3055419921875,167.77778434753418,1005.3333206176758,3,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,37, the ,35928,5649601,1000,157,148.22222900390625,975.3055419921875,167.77778434753418,1005.3333206176758,3,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,38, elements ,35978,5649651,1007,157,148.22222900390625,1005.3333129882812,167.77778434753418,1083.3749771118164,3,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,38, elements ,36029,5649702,1012,157,148.22222900390625,1005.3333129882812,167.77778434753418,1083.3749771118164,3,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,38, elements ,36081,5649754,1018,157,148.22222900390625,1005.3333129882812,167.77778434753418,1083.3749771118164,3,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,38, elements ,36131,5649804,1031,156,148.22222900390625,1005.3333129882812,167.77778434753418,1083.3749771118164,3,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,38, elements ,36179,5649852,1042,153,148.22222900390625,1005.3333129882812,167.77778434753418,1083.3749771118164,3,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,38, elements ,36229,5649902,1062,152,148.22222900390625,1005.3333129882812,167.77778434753418,1083.3749771118164,3,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,36279,5649952,1074,150,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,36328,5650001,1098,146,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,36379,5650052,1120,144,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,36428,5650101,1137,142,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,36478,5650151,1153,140,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,36529,5650202,1168,138,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,36581,5650254,1181,137,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,36629,5650302,1193,136,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,36678,5650351,1201,136,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,36728,5650401,1205,136,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,36778,5650451,1209,136,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,36828,5650501,1213,136,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,36877,5650550,1218,136,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,36928,5650601,1226,136,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,36982,5650655,1232,138,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,37029,5650701,1240,141,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,37082,5650755,1248,144,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,37128,5650802,1255,146,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,41, Kosuke ,37179,5650852,1264,150,148.22222900390625,1224.4583740234375,167.77778434753418,1289.5000381469727,3,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,41, Kosuke ,37229,5650902,1272,152,148.22222900390625,1224.4583740234375,167.77778434753418,1289.5000381469727,3,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,41, Kosuke ,37279,5650952,1280,156,148.22222900390625,1224.4583740234375,167.77778434753418,1289.5000381469727,3,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,41, Kosuke ,37329,5651002,1289,160,148.22222900390625,1224.4583740234375,167.77778434753418,1289.5000381469727,3,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,42," Morita, ",37377,5651050,1296,162,148.22222900390625,1289.5,167.77778434753418,1344.5138893127441,3,14,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,42," Morita, ",37427,5651100,1302,164,148.22222900390625,1289.5,167.77778434753418,1344.5138893127441,3,14,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,42," Morita, ",37484,5651156,1304,165,148.22222900390625,1289.5,167.77778434753418,1344.5138893127441,3,14,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,37526,5651199,1304,168,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,37577,5651250,1304,169,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,37626,5651299,1304,170,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,37679,5651352,1303,172,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,37726,5651399,1300,172,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,37782,5651455,1295,169,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,41, Kosuke ,37829,5651502,1264,157,148.22222900390625,1224.4583740234375,167.77778434753418,1289.5000381469727,3,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,37881,5651554,1118,127,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,18, after ,37928,5651601,867,123,108.22222137451172,840.8333129882812,127.77777671813965,881.8610916137695,2,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,37980,5651652,710,147,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,30, Lawrence ,38028,5651701,640,159,148.22222900390625,634.0972290039062,167.77778434753418,717.1527862548828,3,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,38079,5651752,614,164,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,38129,5651802,583,174,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,38179,5651852,569,176,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,38228,5651901,563,176,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,38276,5651949,562,178,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,38327,5651999,562,180,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,38378,5652051,569,184,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,38428,5652101,578,192,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,38477,5652150,591,199,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,38526,5652198,602,205,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,38576,5652249,617,210,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,38627,5652300,629,213,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,38679,5652352,641,213,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,38728,5652401,653,213,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,38781,5652454,666,210,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,38831,5652504,680,208,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,38879,5652552,691,207,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,46, research ,38928,5652601,706,204,188.22222900390625,701.1527709960938,207.77778434753418,776.1944351196289,4,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,46, research ,38980,5652653,717,203,188.22222900390625,701.1527709960938,207.77778434753418,776.1944351196289,4,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,46, research ,39030,5652703,728,200,188.22222900390625,701.1527709960938,207.77778434753418,776.1944351196289,4,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,46, research ,39080,5652753,738,200,188.22222900390625,701.1527709960938,207.77778434753418,776.1944351196289,4,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,46, research ,39129,5652802,750,199,188.22222900390625,701.1527709960938,207.77778434753418,776.1944351196289,4,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,46, research ,39179,5652852,760,198,188.22222900390625,701.1527709960938,207.77778434753418,776.1944351196289,4,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,46, research ,39228,5652901,770,198,188.22222900390625,701.1527709960938,207.77778434753418,776.1944351196289,4,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,47, at ,39277,5652950,781,198,188.22222900390625,776.1944580078125,207.77778434753418,796.2083473205566,4,5,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,47, at ,39328,5653001,792,199,188.22222900390625,776.1944580078125,207.77778434753418,796.2083473205566,4,5,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,48," RIKEN, ",39377,5653050,800,201,188.22222900390625,796.2083129882812,207.77778434753418,861.2222061157227,4,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,48," RIKEN, ",39427,5653100,809,202,188.22222900390625,796.2083129882812,207.77778434753418,861.2222061157227,4,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,48," RIKEN, ",39477,5653150,818,204,188.22222900390625,796.2083129882812,207.77778434753418,861.2222061157227,4,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,48," RIKEN, ",39528,5653200,824,204,188.22222900390625,796.2083129882812,207.77778434753418,861.2222061157227,4,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,48," RIKEN, ",39580,5653253,828,205,188.22222900390625,796.2083129882812,207.77778434753418,861.2222061157227,4,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,48," RIKEN, ",39631,5653304,832,205,188.22222900390625,796.2083129882812,207.77778434753418,861.2222061157227,4,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,39680,5653353,834,206,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,39727,5653400,837,207,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,39776,5653449,839,208,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,39829,5653502,841,208,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,39879,5653552,845,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,39929,5653602,850,210,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,39978,5653651,856,210,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40027,5653700,864,210,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40079,5653752,872,210,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40128,5653801,880,210,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40178,5653851,885,210,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40228,5653901,891,210,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40277,5653950,896,210,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40331,5654004,900,210,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40379,5654052,903,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40426,5654099,904,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40488,5654161,906,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40527,5654200,908,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40582,5654255,908,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40628,5654301,908,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40691,5654364,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40738,5654411,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40776,5654449,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40831,5654504,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40879,5654552,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40926,5654599,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,40977,5654650,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41034,5654707,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41080,5654753,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41126,5654799,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41190,5654863,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41237,5654910,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41284,5654957,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41330,5655003,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41376,5655049,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41438,5655111,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41485,5655158,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41531,5655204,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41579,5655251,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41640,5655313,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41687,5655360,909,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41727,5655400,912,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41778,5655451,917,209,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41827,5655500,919,208,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41876,5655549,919,208,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41936,5655609,919,208,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,41984,5655657,919,208,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,42030,5655703,919,208,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,42077,5655750,919,208,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,42142,5655815,919,208,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,42188,5655861,919,208,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,42229,5655902,920,208,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,42280,5655953,949,208,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,42329,5656002,1009,212,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,42378,5656051,1056,216,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,42427,5656100,1098,216,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,42478,5656151,1130,218,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,42528,5656201,1150,218,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,42577,5656250,1167,218,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,42629,5656302,1175,218,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,42676,5656349,1181,217,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,42728,5656401,1187,217,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,42778,5656451,1193,217,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,42828,5656501,1199,216,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,42880,5656553,1206,213,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,42929,5656602,1216,208,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,58, uncharted ,42979,5656652,1224,204,188.22222900390625,1207.486083984375,207.77778434753418,1287.5555267333984,4,16,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,58, uncharted ,43026,5656699,1231,202,188.22222900390625,1207.486083984375,207.77778434753418,1287.5555267333984,4,16,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,58, uncharted ,43077,5656750,1233,201,188.22222900390625,1207.486083984375,207.77778434753418,1287.5555267333984,4,16,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,58, uncharted ,43140,5656813,1234,201,188.22222900390625,1207.486083984375,207.77778434753418,1287.5555267333984,4,16,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,58, uncharted ,43185,5656858,1236,201,188.22222900390625,1207.486083984375,207.77778434753418,1287.5555267333984,4,16,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,58, uncharted ,43232,5656905,1236,201,188.22222900390625,1207.486083984375,207.77778434753418,1287.5555267333984,4,16,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,58, uncharted ,43280,5656952,1236,201,188.22222900390625,1207.486083984375,207.77778434753418,1287.5555267333984,4,16,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,58, uncharted ,43341,5657014,1236,201,188.22222900390625,1207.486083984375,207.77778434753418,1287.5555267333984,4,16,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,58, uncharted ,43389,5657062,1236,201,188.22222900390625,1207.486083984375,207.77778434753418,1287.5555267333984,4,16,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,58, uncharted ,43436,5657109,1236,201,188.22222900390625,1207.486083984375,207.77778434753418,1287.5555267333984,4,16,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,58, uncharted ,43482,5657155,1236,201,188.22222900390625,1207.486083984375,207.77778434753418,1287.5555267333984,4,16,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,58, uncharted ,43529,5657202,1236,201,188.22222900390625,1207.486083984375,207.77778434753418,1287.5555267333984,4,16,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,58, uncharted ,43593,5657266,1236,201,188.22222900390625,1207.486083984375,207.77778434753418,1287.5555267333984,4,16,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,58, uncharted ,43627,5657300,1232,202,188.22222900390625,1207.486083984375,207.77778434753418,1287.5555267333984,4,16,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,43678,5657351,1045,258,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,43727,5657400,768,299,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,43776,5657449,555,304,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,43826,5657499,510,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,43878,5657551,510,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,43926,5657599,510,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,43983,5657656,510,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44026,5657699,510,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44089,5657762,510,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44127,5657800,510,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44176,5657849,510,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44230,5657903,510,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44276,5657949,510,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44328,5658001,510,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44378,5658051,510,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44427,5658100,510,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44477,5658150,510,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44526,5658199,510,227,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44579,5658252,532,226,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44627,5658300,541,226,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44678,5658351,549,226,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44728,5658401,555,227,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44777,5658450,559,229,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44828,5658501,562,230,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44876,5658549,566,231,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44926,5658599,568,231,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,44976,5658649,569,232,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,45030,5658703,570,232,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,45079,5658752,572,232,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,45142,5658815,572,232,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,45187,5658860,573,232,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,45234,5658907,573,232,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,45281,5658954,573,232,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,45329,5659001,573,232,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,45377,5659050,575,232,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,45428,5659101,577,233,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,45476,5659149,584,233,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,45526,5659199,598,233,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,59, territory ,45577,5659250,613,234,228.22222900390625,604.0694580078125,247.77778434753418,670.0833511352539,5,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,59, territory ,45627,5659300,627,234,228.22222900390625,604.0694580078125,247.77778434753418,670.0833511352539,5,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,59, territory ,45677,5659350,639,234,228.22222900390625,604.0694580078125,247.77778434753418,670.0833511352539,5,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,59, territory ,45726,5659399,649,234,228.22222900390625,604.0694580078125,247.77778434753418,670.0833511352539,5,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,59, territory ,45777,5659450,658,234,228.22222900390625,604.0694580078125,247.77778434753418,670.0833511352539,5,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,59, territory ,45827,5659500,666,234,228.22222900390625,604.0694580078125,247.77778434753418,670.0833511352539,5,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,60, of ,45880,5659553,672,234,228.22222900390625,670.0833129882812,247.77778434753418,690.0972023010254,5,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,60, of ,45930,5659603,676,234,228.22222900390625,670.0833129882812,247.77778434753418,690.0972023010254,5,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,60, of ,45981,5659654,680,234,228.22222900390625,670.0833129882812,247.77778434753418,690.0972023010254,5,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,60, of ,46027,5659700,682,234,228.22222900390625,670.0833129882812,247.77778434753418,690.0972023010254,5,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,60, of ,46080,5659753,685,235,228.22222900390625,670.0833129882812,247.77778434753418,690.0972023010254,5,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,60, of ,46130,5659803,687,235,228.22222900390625,670.0833129882812,247.77778434753418,690.0972023010254,5,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,60, of ,46179,5659852,690,236,228.22222900390625,670.0833129882812,247.77778434753418,690.0972023010254,5,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,61, element ,46228,5659901,693,236,228.22222900390625,690.0972290039062,247.77778434753418,759.1388931274414,5,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,61, element ,46277,5659950,697,236,228.22222900390625,690.0972290039062,247.77778434753418,759.1388931274414,5,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,61, element ,46329,5660002,703,236,228.22222900390625,690.0972290039062,247.77778434753418,759.1388931274414,5,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,61, element ,46378,5660051,708,237,228.22222900390625,690.0972290039062,247.77778434753418,759.1388931274414,5,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,61, element ,46427,5660100,713,237,228.22222900390625,690.0972290039062,247.77778434753418,759.1388931274414,5,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,61, element ,46477,5660150,719,237,228.22222900390625,690.0972290039062,247.77778434753418,759.1388931274414,5,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,61, element ,46528,5660201,729,237,228.22222900390625,690.0972290039062,247.77778434753418,759.1388931274414,5,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,61, element ,46577,5660250,747,237,228.22222900390625,690.0972290039062,247.77778434753418,759.1388931274414,5,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,46630,5660303,773,240,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,46680,5660353,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,46735,5660408,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,46783,5660456,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,46829,5660502,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,46893,5660566,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,46939,5660612,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,46984,5660657,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47031,5660704,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47080,5660753,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47141,5660814,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47187,5660860,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47235,5660908,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47281,5660954,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47326,5660999,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47390,5661063,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47439,5661112,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47485,5661158,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47531,5661204,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47578,5661251,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47641,5661314,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47688,5661361,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47735,5661408,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47781,5661454,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47829,5661502,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47890,5661563,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47937,5661610,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,47979,5661652,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,48031,5661704,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,48079,5661752,781,241,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,62, 119 ,48127,5661800,789,240,228.22222900390625,759.138916015625,247.77778434753418,792.8472480773926,5,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,63, and ,48178,5661851,794,240,228.22222900390625,792.8472290039062,247.77778434753418,827.8888969421387,5,5,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,63, and ,48227,5661900,800,240,228.22222900390625,792.8472290039062,247.77778434753418,827.8888969421387,5,5,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,63, and ,48276,5661949,805,240,228.22222900390625,792.8472290039062,247.77778434753418,827.8888969421387,5,5,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,63, and ,48327,5662000,810,240,228.22222900390625,792.8472290039062,247.77778434753418,827.8888969421387,5,5,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,63, and ,48378,5662051,813,240,228.22222900390625,792.8472290039062,247.77778434753418,827.8888969421387,5,5,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,63, and ,48437,5662110,817,240,228.22222900390625,792.8472290039062,247.77778434753418,827.8888969421387,5,5,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,63, and ,48477,5662150,819,241,228.22222900390625,792.8472290039062,247.77778434753418,827.8888969421387,5,5,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,63, and ,48526,5662199,821,241,228.22222900390625,792.8472290039062,247.77778434753418,827.8888969421387,5,5,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,63, and ,48579,5662252,825,242,228.22222900390625,792.8472290039062,247.77778434753418,827.8888969421387,5,5,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,64, beyond.” ,48643,5662316,829,243,228.22222900390625,827.888916015625,247.77778434753418,902.9444732666016,5,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,64, beyond.” ,48676,5662349,831,243,228.22222900390625,827.888916015625,247.77778434753418,902.9444732666016,5,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,64, beyond.” ,48726,5662399,836,243,228.22222900390625,827.888916015625,247.77778434753418,902.9444732666016,5,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,64, beyond.” ,48778,5662451,842,243,228.22222900390625,827.888916015625,247.77778434753418,902.9444732666016,5,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,64, beyond.” ,48826,5662499,850,243,228.22222900390625,827.888916015625,247.77778434753418,902.9444732666016,5,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,64, beyond.” ,48878,5662551,858,243,228.22222900390625,827.888916015625,247.77778434753418,902.9444732666016,5,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,64, beyond.” ,48926,5662599,866,243,228.22222900390625,827.888916015625,247.77778434753418,902.9444732666016,5,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,64, beyond.” ,48976,5662649,873,243,228.22222900390625,827.888916015625,247.77778434753418,902.9444732666016,5,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,64, beyond.” ,49027,5662700,881,243,228.22222900390625,827.888916015625,247.77778434753418,902.9444732666016,5,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,64, beyond.” ,49076,5662749,888,243,228.22222900390625,827.888916015625,247.77778434753418,902.9444732666016,5,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,64, beyond.” ,49127,5662800,897,243,228.22222900390625,827.888916015625,247.77778434753418,902.9444732666016,5,6,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,65, Jan ,49178,5662851,904,243,228.22222900390625,902.9444580078125,247.77778434753418,936.9722366333008,5,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,65, Jan ,49227,5662900,909,243,228.22222900390625,902.9444580078125,247.77778434753418,936.9722366333008,5,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,65, Jan ,49277,5662950,914,243,228.22222900390625,902.9444580078125,247.77778434753418,936.9722366333008,5,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,65, Jan ,49327,5663000,919,243,228.22222900390625,902.9444580078125,247.77778434753418,936.9722366333008,5,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,65, Jan ,49377,5663050,922,243,228.22222900390625,902.9444580078125,247.77778434753418,936.9722366333008,5,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,65, Jan ,49426,5663099,925,243,228.22222900390625,902.9444580078125,247.77778434753418,936.9722366333008,5,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,65, Jan ,49477,5663150,929,243,228.22222900390625,902.9444580078125,247.77778434753418,936.9722366333008,5,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,65, Jan ,49530,5663203,933,243,228.22222900390625,902.9444580078125,247.77778434753418,936.9722366333008,5,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,65, Jan ,49579,5663252,936,243,228.22222900390625,902.9444580078125,247.77778434753418,936.9722366333008,5,7,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,66, Reedijk ,49628,5663301,940,242,228.22222900390625,936.9722290039062,247.77778434753418,1002.0138931274414,5,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,66, Reedijk ,49678,5663351,944,241,228.22222900390625,936.9722290039062,247.77778434753418,1002.0138931274414,5,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,66, Reedijk ,49727,5663400,952,240,228.22222900390625,936.9722290039062,247.77778434753418,1002.0138931274414,5,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,66, Reedijk ,49777,5663450,965,239,228.22222900390625,936.9722290039062,247.77778434753418,1002.0138931274414,5,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,66, Reedijk ,49828,5663501,979,236,228.22222900390625,936.9722290039062,247.77778434753418,1002.0138931274414,5,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,66, Reedijk ,49877,5663550,993,236,228.22222900390625,936.9722290039062,247.77778434753418,1002.0138931274414,5,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,67, of ,49926,5663599,1005,236,228.22222900390625,1002.013916015625,247.77778434753418,1022.0278053283691,5,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,67, of ,49977,5663650,1015,237,228.22222900390625,1002.013916015625,247.77778434753418,1022.0278053283691,5,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,68," IUPAC, ",50027,5663699,1025,240,228.22222900390625,1022.0277709960938,247.77778434753418,1085.7083282470703,5,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,68," IUPAC, ",50079,5663752,1036,240,228.22222900390625,1022.0277709960938,247.77778434753418,1085.7083282470703,5,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,68," IUPAC, ",50128,5663801,1045,243,228.22222900390625,1022.0277709960938,247.77778434753418,1085.7083282470703,5,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,68," IUPAC, ",50179,5663852,1055,244,228.22222900390625,1022.0277709960938,247.77778434753418,1085.7083282470703,5,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,68," IUPAC, ",50227,5663900,1065,244,228.22222900390625,1022.0277709960938,247.77778434753418,1085.7083282470703,5,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,68," IUPAC, ",50277,5663950,1076,245,228.22222900390625,1022.0277709960938,247.77778434753418,1085.7083282470703,5,10,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,50328,5664001,1083,246,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,50377,5664050,1088,246,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,50427,5664100,1090,246,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,50476,5664149,1090,246,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,50531,5664204,1090,246,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,50578,5664251,1090,246,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,50640,5664313,1090,246,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,50676,5664349,1090,246,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,50734,5664407,1090,246,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,50780,5664453,1090,246,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,50841,5664514,1090,246,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,69, said: ,50878,5664550,1097,245,228.22222900390625,1085.7083740234375,247.77778434753418,1128.7361526489258,5,11,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,69, said: ,50927,5664600,1111,245,228.22222900390625,1085.7083740234375,247.77778434753418,1128.7361526489258,5,11,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,69, said: ,50977,5664650,1125,244,228.22222900390625,1085.7083740234375,247.77778434753418,1128.7361526489258,5,11,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,70, “The ,51026,5664699,1141,242,228.22222900390625,1128.736083984375,247.77778434753418,1170.7499732971191,5,12,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,70, “The ,51080,5664753,1152,242,228.22222900390625,1128.736083984375,247.77778434753418,1170.7499732971191,5,12,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,70, “The ,51127,5664800,1165,240,228.22222900390625,1128.736083984375,247.77778434753418,1170.7499732971191,5,12,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,71, chemistry ,51177,5664850,1175,240,228.22222900390625,1170.75,247.77778434753418,1252.7638931274414,5,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,71, chemistry ,51227,5664900,1181,239,228.22222900390625,1170.75,247.77778434753418,1252.7638931274414,5,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,71, chemistry ,51276,5664949,1184,239,228.22222900390625,1170.75,247.77778434753418,1252.7638931274414,5,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,71, chemistry ,51328,5665001,1186,239,228.22222900390625,1170.75,247.77778434753418,1252.7638931274414,5,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,71, chemistry ,51376,5665049,1188,239,228.22222900390625,1170.75,247.77778434753418,1252.7638931274414,5,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,71, chemistry ,51435,5665108,1189,239,228.22222900390625,1170.75,247.77778434753418,1252.7638931274414,5,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,71, chemistry ,51476,5665149,1194,237,228.22222900390625,1170.75,247.77778434753418,1252.7638931274414,5,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,71, chemistry ,51527,5665200,1202,235,228.22222900390625,1170.75,247.77778434753418,1252.7638931274414,5,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,71, chemistry ,51578,5665251,1216,232,228.22222900390625,1170.75,247.77778434753418,1252.7638931274414,5,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,71, chemistry ,51630,5665302,1232,231,228.22222900390625,1170.75,247.77778434753418,1252.7638931274414,5,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,71, chemistry ,51677,5665350,1242,230,228.22222900390625,1170.75,247.77778434753418,1252.7638931274414,5,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,71, chemistry ,51727,5665400,1248,230,228.22222900390625,1170.75,247.77778434753418,1252.7638931274414,5,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,71, chemistry ,51779,5665452,1250,230,228.22222900390625,1170.75,247.77778434753418,1252.7638931274414,5,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,71, chemistry ,51827,5665500,1251,231,228.22222900390625,1170.75,247.77778434753418,1252.7638931274414,5,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,71, chemistry ,51877,5665550,1234,235,228.22222900390625,1170.75,247.77778434753418,1252.7638931274414,5,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,85, row.” ,51927,5665600,1133,277,268.22222900390625,1106.4444580078125,287.7777843475342,1145.4583473205566,6,13,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,51977,5665650,1054,314,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,52028,5665701,1054,314,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,52078,5665751,1054,314,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,52131,5665804,1054,314,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,52188,5665861,1054,314,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,52234,5665907,1054,314,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,52281,5665954,1054,314,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,52327,5666000,1054,314,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,52389,5666062,1054,314,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,52436,5666109,1054,314,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,52483,5666156,1054,314,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,52527,5666200,764,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,52580,5666253,701,296,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,74, eager ,52628,5666301,650,279,268.22222900390625,622.0694580078125,287.7777843475342,673.1111259460449,6,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,52677,5666350,618,268,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,52727,5666400,608,265,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,52776,5666449,603,265,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,52840,5666513,603,265,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,52876,5666549,603,266,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,52927,5666600,604,268,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,73, is ,52980,5666653,608,270,268.22222900390625,604.0694580078125,287.7777843475342,622.0694580078125,6,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,73, is ,53030,5666703,612,270,268.22222900390625,604.0694580078125,287.7777843475342,622.0694580078125,6,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,73, is ,53079,5666752,619,270,268.22222900390625,604.0694580078125,287.7777843475342,622.0694580078125,6,1,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,74, eager ,53127,5666800,631,272,268.22222900390625,622.0694580078125,287.7777843475342,673.1111259460449,6,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,74, eager ,53176,5666849,643,273,268.22222900390625,622.0694580078125,287.7777843475342,673.1111259460449,6,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,74, eager ,53227,5666900,655,273,268.22222900390625,622.0694580078125,287.7777843475342,673.1111259460449,6,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,74, eager ,53278,5666951,669,274,268.22222900390625,622.0694580078125,287.7777843475342,673.1111259460449,6,2,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,75, to ,53327,5667000,680,275,268.22222900390625,673.1111450195312,287.7777843475342,693.1250343322754,6,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,75, to ,53377,5667050,691,275,268.22222900390625,673.1111450195312,287.7777843475342,693.1250343322754,6,3,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,76, see ,53428,5667101,704,275,268.22222900390625,693.125,287.7777843475342,727.1527786254883,6,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,76, see ,53477,5667150,720,274,268.22222900390625,693.125,287.7777843475342,727.1527786254883,6,4,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,77, the ,53527,5667200,739,272,268.22222900390625,727.1527709960938,287.7777843475342,757.180549621582,6,5,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,77, the ,53577,5667250,753,270,268.22222900390625,727.1527709960938,287.7777843475342,757.180549621582,6,5,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,53633,5667306,764,267,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,53679,5667352,770,267,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,53728,5667401,776,267,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,53779,5667452,781,266,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,53831,5667504,792,266,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,53880,5667553,806,264,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,53931,5667604,818,264,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,53980,5667653,830,264,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,54028,5667701,840,264,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,54077,5667750,849,264,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,54127,5667800,856,264,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,54178,5667851,869,264,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,54229,5667902,877,264,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,54279,5667952,884,264,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,54328,5668001,890,265,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,54379,5668052,900,265,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,54429,5668102,909,267,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,54477,5668150,920,269,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,80, completed ,54526,5668199,928,271,268.22222900390625,852.25,287.7777843475342,940.3055572509766,6,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,80, completed ,54578,5668251,936,273,268.22222900390625,852.25,287.7777843475342,940.3055572509766,6,8,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,81, down ,54627,5668300,945,275,268.22222900390625,940.3055419921875,287.7777843475342,988.3472099304199,6,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,81, down ,54678,5668351,967,281,268.22222900390625,940.3055419921875,287.7777843475342,988.3472099304199,6,9,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,54728,5668401,986,288,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,54780,5668453,993,289,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,54829,5668502,996,288,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,54881,5668554,996,288,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,54928,5668601,996,288,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,54990,5668663,996,288,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55036,5668709,996,288,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55083,5668756,996,288,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55129,5668802,996,288,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55176,5668849,996,288,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55239,5668912,996,288,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55279,5668952,1011,288,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55327,5669000,1032,288,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55378,5669051,1056,289,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55428,5669101,1078,291,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55479,5669152,1110,293,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55528,5669201,1133,292,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55580,5669253,1146,290,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55630,5669303,1155,288,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55680,5669353,1163,286,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55726,5669399,1168,283,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55780,5669453,1169,282,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55826,5669499,1166,283,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55877,5669550,1088,301,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55926,5669599,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,55981,5669654,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56029,5669702,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56076,5669749,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56127,5669800,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56186,5669859,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56232,5669905,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56276,5669949,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56327,5669999,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56378,5670051,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56431,5670104,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56481,5670154,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56526,5670199,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56577,5670250,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56636,5670309,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56676,5670349,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56732,5670405,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56776,5670449,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56826,5670499,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56888,5670561,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56935,5670608,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,56984,5670657,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,57030,5670703,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,57078,5670751,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,57126,5670799,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,57187,5670860,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,57234,5670907,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,57280,5670953,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,57326,5670999,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,57389,5671062,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,57436,5671109,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,57482,5671155,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,57529,5671202,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,57576,5671249,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,57638,5671311,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,57686,5671359,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,57733,5671406,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,4,36,37,-1,999,57780,5671453,1048,312,,,,,,,Further look into the element they discovered,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
