@@ -1,0 +1,474 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+FAC7L8ES,,2,int,8,4,4,5,85, row.” ,395,214380,730,349,349.2734375,705.578125,369.7734375,744.59375,7,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,71, chemistry ,445,214430,723,330,309.2734375,668.171875,329.7734375,750.1875,6,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,71, chemistry ,495,214480,718,307,309.2734375,668.171875,329.7734375,750.1875,6,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,58, uncharted ,545,214530,718,286,269.2734375,680.5703125,289.7734375,765.6328125,5,8,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,42," Morita, ",595,214580,707,229,229.2734375,684.5234375,249.7734375,744.5390625,4,5,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,17," respectively, ",645,214630,671,142,149.2734375,611.4453125,169.7734375,715.15625,2,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,695,214680,607,95,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,745,214729,556,89,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,796,214780,525,98,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,2, elements ,846,214830,480,113,109.2734375,452.3984375,129.7734375,530.4375,1,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,1, When ,896,214880,439,121,109.2734375,400.375,129.7734375,452.3984375,1,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,1, When ,946,214930,420,122,109.2734375,400.375,129.7734375,452.3984375,1,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,1, When ,996,214980,408,121,109.2734375,400.375,129.7734375,452.3984375,1,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,1, When ,1046,215030,404,119,109.2734375,400.375,129.7734375,452.3984375,1,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,1, When ,1095,215080,401,118,109.2734375,400.375,129.7734375,452.3984375,1,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,1, When ,1146,215130,400,117,109.2734375,400.375,129.7734375,452.3984375,1,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,1, When ,1196,215180,400,117,109.2734375,400.375,129.7734375,452.3984375,1,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,1, When ,1246,215230,400,117,109.2734375,400.375,129.7734375,452.3984375,1,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,1, When ,1296,215280,404,117,109.2734375,400.375,129.7734375,452.3984375,1,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,1, When ,1345,215329,424,117,109.2734375,400.375,129.7734375,452.3984375,1,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,1, When ,1395,215379,441,117,109.2734375,400.375,129.7734375,452.3984375,1,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,2, elements ,1446,215430,454,117,109.2734375,452.3984375,129.7734375,530.4375,1,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,2, elements ,1495,215480,470,117,109.2734375,452.3984375,129.7734375,530.4375,1,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,2, elements ,1545,215529,484,117,109.2734375,452.3984375,129.7734375,530.4375,1,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,2, elements ,1596,215580,502,117,109.2734375,452.3984375,129.7734375,530.4375,1,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,2, elements ,1646,215630,521,116,109.2734375,452.3984375,129.7734375,530.4375,1,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,3, 114 ,1696,215680,536,116,109.2734375,530.4375,129.7734375,564.1484375,1,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,3, 114 ,1746,215730,557,115,109.2734375,530.4375,129.7734375,564.1484375,1,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,4, and ,1796,215780,585,115,109.2734375,564.1484375,129.7734375,599.1875,1,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,6, were ,1846,215830,643,112,109.2734375,632.8984375,129.7734375,676.9140625,1,6,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,7, given ,1895,215880,684,112,109.2734375,676.9140625,129.7734375,724.953125,1,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,7, given ,1946,215930,698,115,109.2734375,676.9140625,129.7734375,724.953125,1,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,7, given ,1996,215980,698,115,109.2734375,676.9140625,129.7734375,724.953125,1,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,7, given ,2046,216031,698,115,109.2734375,676.9140625,129.7734375,724.953125,1,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,7, given ,2096,216080,698,115,109.2734375,676.9140625,129.7734375,724.953125,1,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,7, given ,2146,216131,698,115,109.2734375,676.9140625,129.7734375,724.953125,1,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,7, given ,2196,216180,698,115,109.2734375,676.9140625,129.7734375,724.953125,1,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,7, given ,2246,216231,698,115,109.2734375,676.9140625,129.7734375,724.953125,1,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,7, given ,2296,216280,711,115,109.2734375,676.9140625,129.7734375,724.953125,1,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,8, formal ,2345,216330,736,115,109.2734375,724.953125,129.7734375,779.96875,1,8,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,8, formal ,2395,216380,761,115,109.2734375,724.953125,129.7734375,779.96875,1,8,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,9, names ,2446,216430,780,114,109.2734375,779.96875,129.7734375,839,1,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,9, names ,2495,216480,793,113,109.2734375,779.96875,129.7734375,839,1,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,9, names ,2546,216530,810,113,109.2734375,779.96875,129.7734375,839,1,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,9, names ,2596,216580,828,115,109.2734375,779.96875,129.7734375,839,1,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,10, in ,2645,216629,849,117,109.2734375,839,129.7734375,858.015625,1,10,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,11," 2012, ",2696,216680,872,119,109.2734375,858.015625,129.7734375,908.0625,1,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,11," 2012, ",2745,216730,897,119,109.2734375,858.015625,129.7734375,908.0625,1,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,12, scientists ,2796,216781,916,119,109.2734375,908.0625,129.7734375,987.0859375,1,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,12, scientists ,2846,216831,931,119,109.2734375,908.0625,129.7734375,987.0859375,1,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,12, scientists ,2896,216881,943,119,109.2734375,908.0625,129.7734375,987.0859375,1,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,12, scientists ,2946,216930,954,119,109.2734375,908.0625,129.7734375,987.0859375,1,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,12, scientists ,2996,216980,965,121,109.2734375,908.0625,129.7734375,987.0859375,1,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,12, scientists ,3046,217030,973,121,109.2734375,908.0625,129.7734375,987.0859375,1,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,12, scientists ,3096,217080,984,121,109.2734375,908.0625,129.7734375,987.0859375,1,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,13, chose ,3146,217130,998,123,109.2734375,987.0859375,129.7734375,1035.125,1,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,13, chose ,3196,217180,1009,127,109.2734375,987.0859375,129.7734375,1035.125,1,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,13, chose ,3246,217230,1013,128,109.2734375,987.0859375,129.7734375,1035.125,1,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,13, chose ,3296,217280,1014,130,109.2734375,987.0859375,129.7734375,1035.125,1,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,24, Joint ,3346,217330,989,150,149.2734375,967,169.7734375,1005.0234375,2,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,21, Lab ,3396,217380,876,170,149.2734375,841.21875,169.7734375,876.2578125,2,8,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,17," respectively, ",3446,217430,679,149,149.2734375,611.4453125,169.7734375,715.15625,2,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,3, 114 ,3496,217480,536,127,109.2734375,530.4375,129.7734375,564.1484375,1,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,2, elements ,3546,217530,493,123,109.2734375,452.3984375,129.7734375,530.4375,1,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,2, elements ,3596,217580,475,123,109.2734375,452.3984375,129.7734375,530.4375,1,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,2, elements ,3646,217630,462,129,109.2734375,452.3984375,129.7734375,530.4375,1,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,2, elements ,3696,217680,456,132,109.2734375,452.3984375,129.7734375,530.4375,1,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,1, When ,3746,217730,446,139,109.2734375,400.375,129.7734375,452.3984375,1,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,14, flerovium ,3796,217780,431,147,149.2734375,400.375,169.7734375,478.3984375,2,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,14, flerovium ,3846,217830,416,152,149.2734375,400.375,169.7734375,478.3984375,2,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,14, flerovium ,3896,217880,410,153,149.2734375,400.375,169.7734375,478.3984375,2,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,14, flerovium ,3946,217930,408,153,149.2734375,400.375,169.7734375,478.3984375,2,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,14, flerovium ,3996,217980,406,153,149.2734375,400.375,169.7734375,478.3984375,2,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,14, flerovium ,4046,218031,405,153,149.2734375,400.375,169.7734375,478.3984375,2,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,14, flerovium ,4096,218080,406,153,149.2734375,400.375,169.7734375,478.3984375,2,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,14, flerovium ,4146,218130,413,154,149.2734375,400.375,169.7734375,478.3984375,2,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,14, flerovium ,4196,218180,430,159,149.2734375,400.375,169.7734375,478.3984375,2,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,14, flerovium ,4246,218230,448,162,149.2734375,400.375,169.7734375,478.3984375,2,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,14, flerovium ,4296,218280,464,162,149.2734375,400.375,169.7734375,478.3984375,2,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,15, and ,4346,218330,486,162,149.2734375,478.3984375,169.7734375,513.4375,2,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,15, and ,4395,218380,510,160,149.2734375,478.3984375,169.7734375,513.4375,2,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,16, livermorium ,4446,218430,533,157,149.2734375,513.4375,169.7734375,611.4453125,2,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,16, livermorium ,4496,218480,554,156,149.2734375,513.4375,169.7734375,611.4453125,2,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,16, livermorium ,4546,218530,567,153,149.2734375,513.4375,169.7734375,611.4453125,2,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,16, livermorium ,4596,218580,584,152,149.2734375,513.4375,169.7734375,611.4453125,2,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,16, livermorium ,4646,218630,608,152,149.2734375,513.4375,169.7734375,611.4453125,2,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,17," respectively, ",4695,218680,634,152,149.2734375,611.4453125,169.7734375,715.15625,2,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,17," respectively, ",4746,218730,672,156,149.2734375,611.4453125,169.7734375,715.15625,2,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,17," respectively, ",4796,218780,683,158,149.2734375,611.4453125,169.7734375,715.15625,2,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,17," respectively, ",4846,218831,683,158,149.2734375,611.4453125,169.7734375,715.15625,2,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,17," respectively, ",4896,218880,683,158,149.2734375,611.4453125,169.7734375,715.15625,2,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,17," respectively, ",4946,218931,683,158,149.2734375,611.4453125,169.7734375,715.15625,2,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,17," respectively, ",4996,218980,683,158,149.2734375,611.4453125,169.7734375,715.15625,2,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,17," respectively, ",5047,219031,683,158,149.2734375,611.4453125,169.7734375,715.15625,2,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,17," respectively, ",5096,219080,683,158,149.2734375,611.4453125,169.7734375,715.15625,2,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,17," respectively, ",5146,219131,683,158,149.2734375,611.4453125,169.7734375,715.15625,2,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,17," respectively, ",5196,219180,699,157,149.2734375,611.4453125,169.7734375,715.15625,2,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,18, after ,5245,219230,730,157,149.2734375,715.15625,169.7734375,756.1796875,2,5,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,19, the ,5295,219279,761,157,149.2734375,756.1796875,169.7734375,786.203125,2,6,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,20, Flerov ,5345,219330,792,157,149.2734375,786.203125,169.7734375,841.21875,2,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,20, Flerov ,5395,219380,813,157,149.2734375,786.203125,169.7734375,841.21875,2,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,20, Flerov ,5445,219430,825,159,149.2734375,786.203125,169.7734375,841.21875,2,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,20, Flerov ,5495,219480,836,159,149.2734375,786.203125,169.7734375,841.21875,2,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,21, Lab ,5545,219530,853,159,149.2734375,841.21875,169.7734375,876.2578125,2,8,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,21, Lab ,5596,219580,874,159,149.2734375,841.21875,169.7734375,876.2578125,2,8,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,22, at ,5646,219630,888,159,149.2734375,876.2578125,169.7734375,896.2734375,2,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,23, Dubna’s ,5695,219680,904,161,149.2734375,896.2734375,169.7734375,967,2,10,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,23, Dubna’s ,5746,219730,919,163,149.2734375,896.2734375,169.7734375,967,2,10,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,23, Dubna’s ,5796,219780,933,165,149.2734375,896.2734375,169.7734375,967,2,10,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,23, Dubna’s ,5845,219830,947,165,149.2734375,896.2734375,169.7734375,967,2,10,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,23, Dubna’s ,5896,219880,960,166,149.2734375,896.2734375,169.7734375,967,2,10,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,24, Joint ,5946,219930,973,167,149.2734375,967,169.7734375,1005.0234375,2,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,24, Joint ,5996,219981,984,167,149.2734375,967,169.7734375,1005.0234375,2,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,24, Joint ,6046,220030,989,167,149.2734375,967,169.7734375,1005.0234375,2,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,24, Joint ,6096,220080,990,167,149.2734375,967,169.7734375,1005.0234375,2,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,24, Joint ,6146,220131,990,167,149.2734375,967,169.7734375,1005.0234375,2,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,24, Joint ,6195,220179,990,167,149.2734375,967,169.7734375,1005.0234375,2,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,24, Joint ,6246,220230,987,168,149.2734375,967,169.7734375,1005.0234375,2,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,24, Joint ,6296,220280,980,168,149.2734375,967,169.7734375,1005.0234375,2,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,23, Dubna’s ,6346,220330,964,167,149.2734375,896.2734375,169.7734375,967,2,10,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,23, Dubna’s ,6395,220380,942,164,149.2734375,896.2734375,169.7734375,967,2,10,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,23, Dubna’s ,6446,220430,900,165,149.2734375,896.2734375,169.7734375,967,2,10,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,20, Flerov ,6496,220480,821,168,149.2734375,786.203125,169.7734375,841.21875,2,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,18, after ,6546,220530,751,168,149.2734375,715.15625,169.7734375,756.1796875,2,5,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,17," respectively, ",6596,220580,703,168,149.2734375,611.4453125,169.7734375,715.15625,2,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,17," respectively, ",6645,220630,654,175,149.2734375,611.4453125,169.7734375,715.15625,2,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,28, and ,6695,220680,596,182,189.2734375,570.46875,209.7734375,605.5078125,3,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,27, Research ,6745,220729,522,188,189.2734375,488.4296875,209.7734375,570.46875,3,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,26, of ,6796,220780,478,188,189.2734375,468.4140625,209.7734375,488.4296875,3,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,6845,220830,456,188,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,6895,220880,444,189,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,6945,220930,435,190,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,6995,220980,430,190,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,7046,221030,427,190,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,7096,221080,424,192,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,7146,221130,420,196,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,7195,221179,418,198,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,7246,221231,418,198,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,7295,221280,418,198,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,7345,221330,418,198,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,7396,221380,418,198,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,7447,221431,418,198,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,7496,221480,418,198,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,7545,221530,417,200,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,7596,221580,409,206,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,7646,221630,401,208,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,7695,221680,397,209,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,7745,221730,395,209,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,7796,221781,395,209,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,7846,221830,395,207,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,7896,221880,395,206,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,7946,221930,397,203,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,7996,221980,404,201,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,8046,222030,411,201,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,8096,222080,419,202,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,8146,222130,428,204,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,8196,222180,437,204,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,8246,222230,452,204,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,26, of ,8296,222280,476,201,189.2734375,468.4140625,209.7734375,488.4296875,3,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,27, Research ,8346,222330,493,198,189.2734375,488.4296875,209.7734375,570.46875,3,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,27, Research ,8396,222380,506,197,189.2734375,488.4296875,209.7734375,570.46875,3,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,27, Research ,8446,222430,520,196,189.2734375,488.4296875,209.7734375,570.46875,3,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,27, Research ,8496,222480,541,196,189.2734375,488.4296875,209.7734375,570.46875,3,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,27, Research ,8546,222530,555,198,189.2734375,488.4296875,209.7734375,570.46875,3,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,27, Research ,8596,222580,563,199,189.2734375,488.4296875,209.7734375,570.46875,3,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,28, and ,8646,222630,578,201,189.2734375,570.46875,209.7734375,605.5078125,3,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,28, and ,8696,222680,597,202,189.2734375,570.46875,209.7734375,605.5078125,3,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,29, the ,8746,222731,617,202,189.2734375,605.5078125,209.7734375,635.53125,3,5,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,29, the ,8796,222780,632,203,189.2734375,605.5078125,209.7734375,635.53125,3,5,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,30, Lawrence ,8846,222830,642,202,189.2734375,635.53125,209.7734375,718.5859375,3,6,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,30, Lawrence ,8896,222880,653,198,189.2734375,635.53125,209.7734375,718.5859375,3,6,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,30, Lawrence ,8946,222930,669,196,189.2734375,635.53125,209.7734375,718.5859375,3,6,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,30, Lawrence ,8996,222980,683,196,189.2734375,635.53125,209.7734375,718.5859375,3,6,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,30, Lawrence ,9046,223030,699,196,189.2734375,635.53125,209.7734375,718.5859375,3,6,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,30, Lawrence ,9096,223080,718,196,189.2734375,635.53125,209.7734375,718.5859375,3,6,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,31, Livermore ,9146,223131,726,196,189.2734375,718.5859375,209.7734375,803.6171875,3,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,31, Livermore ,9196,223181,726,196,189.2734375,718.5859375,209.7734375,803.6171875,3,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,31, Livermore ,9246,223230,726,196,189.2734375,718.5859375,209.7734375,803.6171875,3,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,31, Livermore ,9296,223281,726,196,189.2734375,718.5859375,209.7734375,803.6171875,3,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,31, Livermore ,9345,223330,726,196,189.2734375,718.5859375,209.7734375,803.6171875,3,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,31, Livermore ,9396,223380,726,196,189.2734375,718.5859375,209.7734375,803.6171875,3,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,31, Livermore ,9446,223430,729,196,189.2734375,718.5859375,209.7734375,803.6171875,3,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,31, Livermore ,9495,223480,748,194,189.2734375,718.5859375,209.7734375,803.6171875,3,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,31, Livermore ,9546,223530,773,194,189.2734375,718.5859375,209.7734375,803.6171875,3,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,31, Livermore ,9595,223579,791,194,189.2734375,718.5859375,209.7734375,803.6171875,3,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,32, Lab ,9645,223629,809,194,189.2734375,803.6171875,209.7734375,838.65625,3,8,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,32, Lab ,9696,223680,827,194,189.2734375,803.6171875,209.7734375,838.65625,3,8,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,33, in ,9746,223730,841,194,189.2734375,838.65625,209.7734375,857.671875,3,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,34, the ,9796,223780,859,194,189.2734375,857.671875,209.7734375,887.6953125,3,10,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,34, the ,9846,223830,870,194,189.2734375,857.671875,209.7734375,887.6953125,3,10,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,34, the ,9895,223879,883,194,189.2734375,857.671875,209.7734375,887.6953125,3,10,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,35," US, ",9946,223930,896,194,189.2734375,887.6953125,209.7734375,922.703125,3,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,35," US, ",9996,223980,912,194,189.2734375,887.6953125,209.7734375,922.703125,3,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,36, where ,10046,224030,930,194,189.2734375,922.703125,209.7734375,976.734375,3,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,36, where ,10096,224080,944,194,189.2734375,922.703125,209.7734375,976.734375,3,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,36, where ,10146,224130,956,195,189.2734375,922.703125,209.7734375,976.734375,3,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,36, where ,10196,224180,965,195,189.2734375,922.703125,209.7734375,976.734375,3,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,37, the ,10246,224230,977,195,189.2734375,976.734375,209.7734375,1001.7578125,3,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,37, the ,10296,224280,987,195,189.2734375,976.734375,209.7734375,1001.7578125,3,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,37, the ,10346,224330,994,195,189.2734375,976.734375,209.7734375,1001.7578125,3,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,37, the ,10396,224380,999,196,189.2734375,976.734375,209.7734375,1001.7578125,3,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,37, the ,10445,224430,1000,196,189.2734375,976.734375,209.7734375,1001.7578125,3,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,37, the ,10496,224480,1000,196,189.2734375,976.734375,209.7734375,1001.7578125,3,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,37, the ,10547,224531,1000,196,189.2734375,976.734375,209.7734375,1001.7578125,3,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,37, the ,10596,224580,1000,196,189.2734375,976.734375,209.7734375,1001.7578125,3,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,37, the ,10647,224631,1000,196,189.2734375,976.734375,209.7734375,1001.7578125,3,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,37, the ,10696,224681,1000,196,189.2734375,976.734375,209.7734375,1001.7578125,3,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,37, the ,10746,224730,1000,196,189.2734375,976.734375,209.7734375,1001.7578125,3,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,37, the ,10795,224780,984,195,189.2734375,976.734375,209.7734375,1001.7578125,3,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,35," US, ",10846,224830,914,184,189.2734375,887.6953125,209.7734375,922.703125,3,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,19, the ,10896,224880,774,170,149.2734375,756.1796875,169.7734375,786.203125,2,6,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,16, livermorium ,10946,224930,599,156,149.2734375,513.4375,169.7734375,611.4453125,2,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,14, flerovium ,10996,224980,461,168,149.2734375,400.375,169.7734375,478.3984375,2,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,14, flerovium ,11046,225030,419,179,149.2734375,400.375,169.7734375,478.3984375,2,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,11096,225081,407,184,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,11145,225129,404,198,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,25, Institute ,11196,225181,403,216,189.2734375,400.375,209.7734375,468.4140625,3,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,38, elements ,11246,225230,403,229,229.2734375,400.375,249.7734375,478.4140625,4,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,38, elements ,11296,225280,404,236,229.2734375,400.375,249.7734375,478.4140625,4,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,38, elements ,11345,225330,406,240,229.2734375,400.375,249.7734375,478.4140625,4,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,38, elements ,11396,225380,407,240,229.2734375,400.375,249.7734375,478.4140625,4,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,38, elements ,11446,225430,409,241,229.2734375,400.375,249.7734375,478.4140625,4,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,38, elements ,11496,225480,410,241,229.2734375,400.375,249.7734375,478.4140625,4,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,38, elements ,11546,225530,410,241,229.2734375,400.375,249.7734375,478.4140625,4,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,38, elements ,11596,225580,414,241,229.2734375,400.375,249.7734375,478.4140625,4,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,38, elements ,11646,225630,428,243,229.2734375,400.375,249.7734375,478.4140625,4,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,38, elements ,11695,225679,439,244,229.2734375,400.375,249.7734375,478.4140625,4,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,38, elements ,11746,225730,449,246,229.2734375,400.375,249.7734375,478.4140625,4,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,38, elements ,11796,225780,466,247,229.2734375,400.375,249.7734375,478.4140625,4,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,39, were ,11846,225830,486,248,229.2734375,478.4140625,249.7734375,522.4296875,4,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,39, were ,11896,225880,518,247,229.2734375,478.4140625,249.7734375,522.4296875,4,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,40, discovered. ,11946,225930,546,245,229.2734375,522.4296875,249.7734375,619.484375,4,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,40, discovered. ,11996,225980,546,245,229.2734375,522.4296875,249.7734375,619.484375,4,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,40, discovered. ,12046,226030,546,245,229.2734375,522.4296875,249.7734375,619.484375,4,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,40, discovered. ,12096,226080,546,245,229.2734375,522.4296875,249.7734375,619.484375,4,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,40, discovered. ,12146,226130,546,245,229.2734375,522.4296875,249.7734375,619.484375,4,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,40, discovered. ,12197,226181,546,245,229.2734375,522.4296875,249.7734375,619.484375,4,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,40, discovered. ,12246,226230,546,245,229.2734375,522.4296875,249.7734375,619.484375,4,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,40, discovered. ,12296,226280,546,245,229.2734375,522.4296875,249.7734375,619.484375,4,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,40, discovered. ,12345,226330,557,244,229.2734375,522.4296875,249.7734375,619.484375,4,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,40, discovered. ,12395,226380,588,243,229.2734375,522.4296875,249.7734375,619.484375,4,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,40, discovered. ,12445,226429,619,243,229.2734375,522.4296875,249.7734375,619.484375,4,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,41, Kosuke ,12496,226480,641,243,229.2734375,619.484375,249.7734375,684.5234375,4,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,41, Kosuke ,12546,226530,665,243,229.2734375,619.484375,249.7734375,684.5234375,4,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,42," Morita, ",12596,226580,685,244,229.2734375,684.5234375,249.7734375,744.5390625,4,5,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,42," Morita, ",12646,226630,700,244,229.2734375,684.5234375,249.7734375,744.5390625,4,5,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,42," Morita, ",12696,226680,712,246,229.2734375,684.5234375,249.7734375,744.5390625,4,5,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,42," Morita, ",12746,226730,720,247,229.2734375,684.5234375,249.7734375,744.5390625,4,5,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,42," Morita, ",12795,226780,733,248,229.2734375,684.5234375,249.7734375,744.5390625,4,5,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,43, who ,12845,226829,753,249,229.2734375,744.5390625,249.7734375,782.5625,4,6,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,43, who ,12895,226879,780,249,229.2734375,744.5390625,249.7734375,782.5625,4,6,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,44, led ,12946,226930,787,253,229.2734375,782.5625,249.7734375,811.5859375,4,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,44, led ,12996,226980,787,253,229.2734375,782.5625,249.7734375,811.5859375,4,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,44, led ,13046,227031,787,253,229.2734375,782.5625,249.7734375,811.5859375,4,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,44, led ,13096,227080,787,253,229.2734375,782.5625,249.7734375,811.5859375,4,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,44, led ,13147,227131,787,253,229.2734375,782.5625,249.7734375,811.5859375,4,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,44, led ,13196,227180,787,253,229.2734375,782.5625,249.7734375,811.5859375,4,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,44, led ,13246,227230,795,247,229.2734375,782.5625,249.7734375,811.5859375,4,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,44, led ,13295,227280,809,241,229.2734375,782.5625,249.7734375,811.5859375,4,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,45, the ,13345,227330,832,236,229.2734375,811.5859375,249.7734375,841.609375,4,8,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,46, research ,13396,227380,850,236,229.2734375,841.609375,249.7734375,916.6484375,4,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,46, research ,13445,227430,869,238,229.2734375,841.609375,249.7734375,916.6484375,4,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,46, research ,13495,227480,886,242,229.2734375,841.609375,249.7734375,916.6484375,4,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,46, research ,13546,227530,907,250,229.2734375,841.609375,249.7734375,916.6484375,4,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,47, at ,13596,227580,928,254,229.2734375,916.6484375,249.7734375,936.6640625,4,10,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,48," RIKEN, ",13645,227630,951,255,229.2734375,936.6640625,249.7734375,1001.6796875,4,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,48," RIKEN, ",13695,227679,972,255,229.2734375,936.6640625,249.7734375,1001.6796875,4,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,48," RIKEN, ",13745,227729,987,253,229.2734375,936.6640625,249.7734375,1001.6796875,4,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,48," RIKEN, ",13795,227779,1000,251,229.2734375,936.6640625,249.7734375,1001.6796875,4,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,49, said ,13845,227830,1008,250,229.2734375,1001.6796875,249.7734375,1039.703125,4,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,49, said ,13896,227880,1012,248,229.2734375,1001.6796875,249.7734375,1039.703125,4,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,49, said ,13946,227930,1017,247,229.2734375,1001.6796875,249.7734375,1039.703125,4,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,49, said ,13995,227980,1022,245,229.2734375,1001.6796875,249.7734375,1039.703125,4,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,49, said ,14046,228030,1027,245,229.2734375,1001.6796875,249.7734375,1039.703125,4,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,49, said ,14095,228080,1032,245,229.2734375,1001.6796875,249.7734375,1039.703125,4,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,49, said ,14145,228130,1037,244,229.2734375,1001.6796875,249.7734375,1039.703125,4,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,50, his ,14195,228180,1042,244,229.2734375,1039.703125,249.7734375,1062.71875,4,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,50, his ,14245,228230,1048,244,229.2734375,1039.703125,249.7734375,1062.71875,4,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,50, his ,14296,228280,1053,244,229.2734375,1039.703125,249.7734375,1062.71875,4,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,50, his ,14346,228330,1055,244,229.2734375,1039.703125,249.7734375,1062.71875,4,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,50, his ,14396,228380,1055,244,229.2734375,1039.703125,249.7734375,1062.71875,4,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,50, his ,14446,228430,1048,252,229.2734375,1039.703125,249.7734375,1062.71875,4,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,64, beyond.” ,14495,228479,1032,263,269.2734375,989.4453125,289.7734375,1059.5,5,14,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,63, and ,14545,228529,979,277,269.2734375,954.40625,289.7734375,989.4453125,5,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,60, of ,14596,228580,846,296,269.2734375,831.640625,289.7734375,851.65625,5,10,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,58, uncharted ,14646,228630,696,295,269.2734375,680.5703125,289.7734375,765.6328125,5,8,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,40, discovered. ,14696,228680,554,255,229.2734375,522.4296875,249.7734375,619.484375,4,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,38, elements ,14746,228730,476,236,229.2734375,400.375,249.7734375,478.4140625,4,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,38, elements ,14796,228780,429,233,229.2734375,400.375,249.7734375,478.4140625,4,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,38, elements ,14846,228830,407,233,229.2734375,400.375,249.7734375,478.4140625,4,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,14896,228880,396,237,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,14946,228930,388,243,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,14996,228980,383,252,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,15045,229030,378,262,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,15096,229080,377,268,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,15146,229130,377,270,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,15196,229180,380,273,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,15246,229230,383,275,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,15296,229280,386,276,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,15346,229331,386,277,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,15396,229380,387,277,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,51, team ,15446,229430,401,277,269.2734375,400.375,289.7734375,445.3984375,5,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,51, team ,15496,229480,442,277,269.2734375,400.375,289.7734375,445.3984375,5,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,53, planned ,15545,229530,490,271,269.2734375,483.421875,289.7734375,552.4921875,5,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,53, planned ,15596,229581,515,270,269.2734375,483.421875,289.7734375,552.4921875,5,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,53, planned ,15646,229630,532,271,269.2734375,483.421875,289.7734375,552.4921875,5,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,54, to ,15696,229680,553,273,269.2734375,552.4921875,289.7734375,572.5078125,5,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,54, to ,15746,229730,567,275,269.2734375,552.4921875,289.7734375,572.5078125,5,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,54, to ,15795,229780,567,275,269.2734375,552.4921875,289.7734375,572.5078125,5,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,54, to ,15846,229830,567,275,269.2734375,552.4921875,289.7734375,572.5078125,5,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,54, to ,15896,229880,567,275,269.2734375,552.4921875,289.7734375,572.5078125,5,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,54, to ,15946,229931,567,275,269.2734375,552.4921875,289.7734375,572.5078125,5,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,54, to ,15996,229980,567,275,269.2734375,552.4921875,289.7734375,572.5078125,5,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,54, to ,16047,230031,567,275,269.2734375,552.4921875,289.7734375,572.5078125,5,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,54, to ,16096,230080,572,275,269.2734375,552.4921875,289.7734375,572.5078125,5,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,55, “look ,16146,230130,597,275,269.2734375,572.5078125,289.7734375,616.5234375,5,5,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,57, the ,16196,230180,651,276,269.2734375,650.546875,289.7734375,680.5703125,5,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,58, uncharted ,16245,230229,685,279,269.2734375,680.5703125,289.7734375,765.6328125,5,8,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,58, uncharted ,16296,230280,714,280,269.2734375,680.5703125,289.7734375,765.6328125,5,8,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,58, uncharted ,16346,230330,743,280,269.2734375,680.5703125,289.7734375,765.6328125,5,8,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,59, territory ,16395,230380,776,275,269.2734375,765.6328125,289.7734375,831.640625,5,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,59, territory ,16446,230430,785,273,269.2734375,765.6328125,289.7734375,831.640625,5,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,59, territory ,16496,230481,785,273,269.2734375,765.6328125,289.7734375,831.640625,5,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,59, territory ,16546,230530,785,273,269.2734375,765.6328125,289.7734375,831.640625,5,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,59, territory ,16597,230581,785,273,269.2734375,765.6328125,289.7734375,831.640625,5,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,59, territory ,16646,230630,785,273,269.2734375,765.6328125,289.7734375,831.640625,5,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,59, territory ,16696,230681,785,273,269.2734375,765.6328125,289.7734375,831.640625,5,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,59, territory ,16746,230730,792,273,269.2734375,765.6328125,289.7734375,831.640625,5,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,59, territory ,16795,230780,814,272,269.2734375,765.6328125,289.7734375,831.640625,5,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,61, element ,16846,230830,854,269,269.2734375,851.65625,289.7734375,920.6953125,5,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,61, element ,16896,230880,901,266,269.2734375,851.65625,289.7734375,920.6953125,5,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,62, 119 ,16946,230930,932,266,269.2734375,920.6953125,289.7734375,954.40625,5,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,62, 119 ,16996,230980,950,266,269.2734375,920.6953125,289.7734375,954.40625,5,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,63, and ,17045,231029,964,267,269.2734375,954.40625,289.7734375,989.4453125,5,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,63, and ,17095,231080,976,270,269.2734375,954.40625,289.7734375,989.4453125,5,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,63, and ,17145,231129,986,273,269.2734375,954.40625,289.7734375,989.4453125,5,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,64, beyond.” ,17196,231180,999,277,269.2734375,989.4453125,289.7734375,1059.5,5,14,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,64, beyond.” ,17245,231230,1007,278,269.2734375,989.4453125,289.7734375,1059.5,5,14,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,64, beyond.” ,17295,231279,1018,278,269.2734375,989.4453125,289.7734375,1059.5,5,14,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,64, beyond.” ,17346,231330,1020,278,269.2734375,989.4453125,289.7734375,1059.5,5,14,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,64, beyond.” ,17395,231380,1022,278,269.2734375,989.4453125,289.7734375,1059.5,5,14,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,64, beyond.” ,17446,231430,1023,278,269.2734375,989.4453125,289.7734375,1059.5,5,14,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,64, beyond.” ,17497,231481,1023,278,269.2734375,989.4453125,289.7734375,1059.5,5,14,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,64, beyond.” ,17546,231531,1023,278,269.2734375,989.4453125,289.7734375,1059.5,5,14,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,64, beyond.” ,17596,231580,1023,278,269.2734375,989.4453125,289.7734375,1059.5,5,14,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,64, beyond.” ,17646,231631,1023,278,269.2734375,989.4453125,289.7734375,1059.5,5,14,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,64, beyond.” ,17696,231680,1023,278,269.2734375,989.4453125,289.7734375,1059.5,5,14,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,64, beyond.” ,17747,231731,1023,278,269.2734375,989.4453125,289.7734375,1059.5,5,14,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,64, beyond.” ,17796,231781,1023,278,269.2734375,989.4453125,289.7734375,1059.5,5,14,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,64, beyond.” ,17846,231830,1007,278,269.2734375,989.4453125,289.7734375,1059.5,5,14,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,62, 119 ,17895,231880,942,275,269.2734375,920.6953125,289.7734375,954.40625,5,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,45, the ,17946,231930,815,258,229.2734375,811.5859375,249.7734375,841.609375,4,8,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,41, Kosuke ,17995,231980,682,256,229.2734375,619.484375,249.7734375,684.5234375,4,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,55, “look ,18045,232030,596,264,269.2734375,572.5078125,289.7734375,616.5234375,5,5,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,53, planned ,18096,232080,538,274,269.2734375,483.421875,289.7734375,552.4921875,5,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,53, planned ,18146,232130,494,281,269.2734375,483.421875,289.7734375,552.4921875,5,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,52, now ,18196,232180,471,287,269.2734375,445.3984375,289.7734375,483.421875,5,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,52, now ,18245,232230,463,294,269.2734375,445.3984375,289.7734375,483.421875,5,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,52, now ,18295,232280,455,299,269.2734375,445.3984375,289.7734375,483.421875,5,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,66, Reedijk ,18345,232330,450,302,309.2734375,434.3984375,329.7734375,499.4296875,6,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,66, Reedijk ,18395,232380,443,306,309.2734375,434.3984375,329.7734375,499.4296875,6,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,65, Jan ,18445,232430,423,310,309.2734375,400.375,329.7734375,434.3984375,6,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,65, Jan ,18495,232480,409,315,309.2734375,400.375,329.7734375,434.3984375,6,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,65, Jan ,18546,232530,403,317,309.2734375,400.375,329.7734375,434.3984375,6,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,65, Jan ,18596,232581,402,317,309.2734375,400.375,329.7734375,434.3984375,6,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,65, Jan ,18646,232630,402,317,309.2734375,400.375,329.7734375,434.3984375,6,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,65, Jan ,18696,232681,402,317,309.2734375,400.375,329.7734375,434.3984375,6,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,65, Jan ,18746,232730,403,317,309.2734375,400.375,329.7734375,434.3984375,6,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,65, Jan ,18796,232780,403,317,309.2734375,400.375,329.7734375,434.3984375,6,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,65, Jan ,18845,232830,406,319,309.2734375,400.375,329.7734375,434.3984375,6,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,65, Jan ,18896,232880,410,320,309.2734375,400.375,329.7734375,434.3984375,6,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,65, Jan ,18945,232930,426,322,309.2734375,400.375,329.7734375,434.3984375,6,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,66, Reedijk ,18995,232980,446,325,309.2734375,434.3984375,329.7734375,499.4296875,6,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,66, Reedijk ,19046,233031,467,326,309.2734375,434.3984375,329.7734375,499.4296875,6,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,66, Reedijk ,19096,233080,494,327,309.2734375,434.3984375,329.7734375,499.4296875,6,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,67, of ,19146,233130,514,326,309.2734375,499.4296875,329.7734375,519.4453125,6,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,68," IUPAC, ",19196,233180,526,325,309.2734375,519.4453125,329.7734375,583.1328125,6,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,68," IUPAC, ",19246,233230,541,325,309.2734375,519.4453125,329.7734375,583.1328125,6,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,68," IUPAC, ",19296,233280,561,325,309.2734375,519.4453125,329.7734375,583.1328125,6,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,68," IUPAC, ",19346,233330,572,323,309.2734375,519.4453125,329.7734375,583.1328125,6,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,68," IUPAC, ",19395,233380,572,323,309.2734375,519.4453125,329.7734375,583.1328125,6,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,68," IUPAC, ",19445,233429,572,323,309.2734375,519.4453125,329.7734375,583.1328125,6,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,68," IUPAC, ",19496,233480,572,323,309.2734375,519.4453125,329.7734375,583.1328125,6,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,68," IUPAC, ",19547,233531,572,323,309.2734375,519.4453125,329.7734375,583.1328125,6,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,68," IUPAC, ",19596,233580,576,323,309.2734375,519.4453125,329.7734375,583.1328125,6,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,69, said: ,19646,233630,597,323,309.2734375,583.1328125,329.7734375,626.15625,6,5,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,69, said: ,19696,233680,622,323,309.2734375,583.1328125,329.7734375,626.15625,6,5,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,70, “The ,19746,233730,645,323,309.2734375,626.15625,329.7734375,668.171875,6,6,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,70, “The ,19796,233780,666,323,309.2734375,626.15625,329.7734375,668.171875,6,6,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,71, chemistry ,19846,233830,684,323,309.2734375,668.171875,329.7734375,750.1875,6,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,71, chemistry ,19896,233880,698,325,309.2734375,668.171875,329.7734375,750.1875,6,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,71, chemistry ,19946,233930,711,327,309.2734375,668.171875,329.7734375,750.1875,6,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,71, chemistry ,19996,233980,720,328,309.2734375,668.171875,329.7734375,750.1875,6,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,71, chemistry ,20046,234030,733,328,309.2734375,668.171875,329.7734375,750.1875,6,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,71, chemistry ,20096,234080,747,328,309.2734375,668.171875,329.7734375,750.1875,6,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,72, community ,20146,234130,766,327,309.2734375,750.1875,329.7734375,842.2109375,6,8,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,72, community ,20196,234180,784,325,309.2734375,750.1875,329.7734375,842.2109375,6,8,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,72, community ,20246,234230,798,325,309.2734375,750.1875,329.7734375,842.2109375,6,8,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,72, community ,20296,234280,809,325,309.2734375,750.1875,329.7734375,842.2109375,6,8,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,72, community ,20346,234330,822,325,309.2734375,750.1875,329.7734375,842.2109375,6,8,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,73, is ,20396,234380,848,325,309.2734375,842.2109375,329.7734375,860.2109375,6,9,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,74, eager ,20446,234430,875,323,309.2734375,860.2109375,329.7734375,911.25,6,10,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,74, eager ,20496,234480,896,323,309.2734375,860.2109375,329.7734375,911.25,6,10,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,75, to ,20546,234530,915,323,309.2734375,911.25,329.7734375,931.265625,6,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,75, to ,20596,234580,928,327,309.2734375,911.25,329.7734375,931.265625,6,11,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,76, see ,20646,234630,938,331,309.2734375,931.265625,329.7734375,965.2890625,6,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,76, see ,20696,234680,942,332,309.2734375,931.265625,329.7734375,965.2890625,6,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,76, see ,20746,234730,942,332,309.2734375,931.265625,329.7734375,965.2890625,6,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,76, see ,20796,234780,942,332,309.2734375,931.265625,329.7734375,965.2890625,6,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,76, see ,20846,234831,942,332,309.2734375,931.265625,329.7734375,965.2890625,6,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,76, see ,20896,234880,942,332,309.2734375,931.265625,329.7734375,965.2890625,6,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,76, see ,20946,234930,942,332,309.2734375,931.265625,329.7734375,965.2890625,6,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,76, see ,20996,234981,942,332,309.2734375,931.265625,329.7734375,965.2890625,6,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,76, see ,21045,235030,960,329,309.2734375,931.265625,329.7734375,965.2890625,6,12,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,77, the ,21096,235080,979,327,309.2734375,965.2890625,329.7734375,995.3125,6,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,77, the ,21146,235130,995,326,309.2734375,965.2890625,329.7734375,995.3125,6,13,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,78, table ,21196,235180,1005,328,309.2734375,995.3125,329.7734375,1034.3515625,6,14,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,78, table ,21246,235230,1006,330,309.2734375,995.3125,329.7734375,1034.3515625,6,14,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,74, eager ,21296,235280,905,339,309.2734375,860.2109375,329.7734375,911.25,6,10,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,84, seventh ,21346,235330,694,353,349.2734375,637.53125,369.7734375,705.578125,7,6,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,80, completed ,21396,235380,501,350,349.2734375,451.3984375,369.7734375,539.453125,7,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,21446,235430,381,347,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,21496,235480,324,348,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,21545,235530,314,350,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,21596,235580,311,351,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,21645,235630,310,351,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,21696,235680,311,351,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,21746,235730,328,352,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,21796,235780,349,354,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,21846,235830,366,354,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,21896,235880,376,355,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,21946,235930,388,356,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,79, finally ,21996,235980,402,358,349.2734375,400.375,369.7734375,451.3984375,7,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,79, finally ,22046,236030,418,359,349.2734375,400.375,369.7734375,451.3984375,7,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,79, finally ,22096,236080,436,357,349.2734375,400.375,369.7734375,451.3984375,7,1,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,80, completed ,22146,236130,460,352,349.2734375,451.3984375,369.7734375,539.453125,7,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,80, completed ,22195,236179,491,351,349.2734375,451.3984375,369.7734375,539.453125,7,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,80, completed ,22246,236230,505,351,349.2734375,451.3984375,369.7734375,539.453125,7,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,80, completed ,22296,236280,517,353,349.2734375,451.3984375,369.7734375,539.453125,7,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,80, completed ,22346,236330,532,355,349.2734375,451.3984375,369.7734375,539.453125,7,2,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,81, down ,22396,236380,556,355,349.2734375,539.453125,369.7734375,587.4921875,7,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,81, down ,22446,236430,572,358,349.2734375,539.453125,369.7734375,587.4921875,7,3,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,82, to ,22496,236480,589,360,349.2734375,587.4921875,369.7734375,607.5078125,7,4,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,83, the ,22546,236530,610,363,349.2734375,607.5078125,369.7734375,637.53125,7,5,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,83, the ,22596,236580,630,364,349.2734375,607.5078125,369.7734375,637.53125,7,5,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,84, seventh ,22646,236630,652,364,349.2734375,637.53125,369.7734375,705.578125,7,6,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,84, seventh ,22696,236680,668,364,349.2734375,637.53125,369.7734375,705.578125,7,6,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,84, seventh ,22746,236730,688,364,349.2734375,637.53125,369.7734375,705.578125,7,6,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,85, row.” ,22796,236780,711,363,349.2734375,705.578125,369.7734375,744.59375,7,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,85, row.” ,22846,236830,735,362,349.2734375,705.578125,369.7734375,744.59375,7,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,85, row.” ,22896,236880,745,365,349.2734375,705.578125,369.7734375,744.59375,7,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,85, row.” ,22945,236929,745,365,349.2734375,705.578125,369.7734375,744.59375,7,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,85, row.” ,22996,236980,745,365,349.2734375,705.578125,369.7734375,744.59375,7,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,85, row.” ,23046,237030,745,365,349.2734375,705.578125,369.7734375,744.59375,7,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,85, row.” ,23096,237080,745,365,349.2734375,705.578125,369.7734375,744.59375,7,7,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,23146,237130,722,390,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,23195,237180,722,390,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,23245,237230,722,390,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,23296,237280,722,390,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,23346,237330,722,390,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,23396,237380,722,390,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,23446,237430,722,390,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,23496,237480,722,390,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,23546,237530,722,390,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,23596,237580,722,390,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,23646,237630,722,390,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,23695,237679,722,390,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,23745,237729,722,390,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,23796,237781,722,390,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,23846,237830,722,390,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,23895,237879,722,390,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,23946,237930,722,390,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,2,int,8,4,4,5,-1,,23995,237980,722,390,,,,,,,The researcher who discovered element 119,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
