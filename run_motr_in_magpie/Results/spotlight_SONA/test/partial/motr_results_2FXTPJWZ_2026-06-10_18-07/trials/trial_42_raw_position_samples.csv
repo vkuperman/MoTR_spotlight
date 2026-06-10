@@ -1,0 +1,15 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,19,4,41,42,-1,999,369,678607,553,179,,,,,,,Constructing larger fences,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,4,41,42,4, pays ,419,678657,587,128,111.2734375,551.484375,131.7734375,594.5078125,1,4,Constructing larger fences,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,4,41,42,-1,999,468,678706,662,131,,,,,,,Constructing larger fences,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,4,41,42,-1,999,518,678756,743,207,,,,,,,Constructing larger fences,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,4,41,42,-1,999,568,678806,743,207,,,,,,,Constructing larger fences,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,4,41,42,-1,999,618,678856,743,207,,,,,,,Constructing larger fences,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,4,41,42,-1,999,668,678906,743,207,,,,,,,Constructing larger fences,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,4,41,42,-1,999,717,678956,743,207,,,,,,,Constructing larger fences,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,4,41,42,-1,999,767,679006,743,207,,,,,,,Constructing larger fences,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,4,41,42,-1,999,817,679056,743,207,,,,,,,Constructing larger fences,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,4,41,42,-1,999,868,679106,743,207,,,,,,,Constructing larger fences,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,4,41,42,-1,999,917,679155,743,207,,,,,,,Constructing larger fences,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,4,41,42,-1,999,968,679206,743,207,,,,,,,Constructing larger fences,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,4,41,42,-1,999,1019,679257,743,207,,,,,,,Constructing larger fences,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
