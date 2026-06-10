@@ -1,0 +1,18 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,1,ele,21,3,7,8,51, 24-year-old ,302,564757,574,249,231.2734375,509.4765625,251.7734375,605.5234375,4,4,Butare,1,,,,,1970-01-01T00:00:00.273Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,3,7,8,37, to ,352,564806,575,203,191.2734375,561.4765625,211.7734375,581.4921875,3,5,Butare,1,,,,,1970-01-01T00:00:00.273Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,3,7,8,37, to ,402,564856,581,196,191.2734375,561.4765625,211.7734375,581.4921875,3,5,Butare,1,,,,,1970-01-01T00:00:00.273Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,3,7,8,-1,999,452,564906,627,197,,,,,,,Butare,1,,,,,1970-01-01T00:00:00.273Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,3,7,8,55, you ,502,564956,754,244,231.2734375,742.5859375,251.7734375,776.609375,4,8,Butare,1,,,,,1970-01-01T00:00:00.273Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,3,7,8,-1,999,553,565007,805,288,,,,,,,Butare,1,,,,,1970-01-01T00:00:00.273Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,3,7,8,-1,999,601,565056,805,288,,,,,,,Butare,1,,,,,1970-01-01T00:00:00.273Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,3,7,8,-1,999,651,565106,805,288,,,,,,,Butare,1,,,,,1970-01-01T00:00:00.273Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,3,7,8,-1,999,702,565156,805,288,,,,,,,Butare,1,,,,,1970-01-01T00:00:00.273Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,3,7,8,-1,999,753,565207,805,288,,,,,,,Butare,1,,,,,1970-01-01T00:00:00.273Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,3,7,8,-1,999,801,565256,805,288,,,,,,,Butare,1,,,,,1970-01-01T00:00:00.273Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,3,7,8,-1,999,851,565306,805,288,,,,,,,Butare,1,,,,,1970-01-01T00:00:00.273Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,3,7,8,-1,999,901,565355,805,288,,,,,,,Butare,1,,,,,1970-01-01T00:00:00.273Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,3,7,8,-1,999,951,565406,805,288,,,,,,,Butare,1,,,,,1970-01-01T00:00:00.273Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,3,7,8,-1,999,1002,565456,805,288,,,,,,,Butare,1,,,,,1970-01-01T00:00:00.273Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,3,7,8,-1,999,1051,565506,805,288,,,,,,,Butare,1,,,,,1970-01-01T00:00:00.273Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,3,7,8,-1,999,1101,565556,805,288,,,,,,,Butare,1,,,,,1970-01-01T00:00:00.273Z,,,,,,,,,spotlight-sona
