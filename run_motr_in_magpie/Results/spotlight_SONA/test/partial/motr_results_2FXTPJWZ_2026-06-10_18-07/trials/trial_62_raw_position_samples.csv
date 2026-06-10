@@ -1,0 +1,17 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,7,2,61,62,-1,999,384,758006,566,280,,,,,,,E-bike sales in China reached 32 million,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,2,61,62,-1,999,434,758057,583,252,,,,,,,E-bike sales in China reached 32 million,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,2,61,62,-1,999,483,758106,621,231,,,,,,,E-bike sales in China reached 32 million,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,2,61,62,51, workers ,534,758156,677,236,231.2734375,622.5234375,251.7734375,690.5390625,4,5,E-bike sales in China reached 32 million,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,2,61,62,52, use ,582,758205,699,247,231.2734375,690.5390625,251.7734375,724.5625,4,6,E-bike sales in China reached 32 million,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,2,61,62,-1,999,633,758256,758,294,,,,,,,E-bike sales in China reached 32 million,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,2,61,62,-1,999,683,758306,758,294,,,,,,,E-bike sales in China reached 32 million,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,2,61,62,-1,999,733,758356,758,294,,,,,,,E-bike sales in China reached 32 million,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,2,61,62,-1,999,783,758406,758,294,,,,,,,E-bike sales in China reached 32 million,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,2,61,62,-1,999,833,758456,758,294,,,,,,,E-bike sales in China reached 32 million,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,2,61,62,-1,999,883,758505,758,294,,,,,,,E-bike sales in China reached 32 million,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,2,61,62,-1,999,933,758556,758,294,,,,,,,E-bike sales in China reached 32 million,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,2,61,62,-1,999,982,758605,758,294,,,,,,,E-bike sales in China reached 32 million,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,2,61,62,-1,999,1033,758656,758,294,,,,,,,E-bike sales in China reached 32 million,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,2,61,62,-1,999,1083,758706,758,294,,,,,,,E-bike sales in China reached 32 million,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,2,61,62,-1,999,1134,758756,758,294,,,,,,,E-bike sales in China reached 32 million,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
