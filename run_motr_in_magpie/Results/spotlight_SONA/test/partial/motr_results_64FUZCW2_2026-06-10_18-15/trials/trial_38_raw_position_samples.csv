@@ -1,0 +1,1017 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+64FUZCW2,,2,int,8,5,37,38,-1,999,28583,5720055,831,53,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,28631,5720103,831,53,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,28678,5720150,831,53,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,28741,5720213,831,53,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,28778,5720250,831,53,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,28834,5720306,831,53,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,28882,5720354,831,53,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,28930,5720402,831,53,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,28992,5720464,831,53,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29030,5720502,830,53,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29085,5720557,831,53,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29131,5720603,831,53,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29179,5720651,831,53,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29240,5720712,831,53,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29285,5720757,831,53,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29334,5720806,831,53,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29379,5720851,831,53,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29429,5720901,828,40,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29477,5720949,828,40,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29537,5721009,828,40,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29584,5721056,828,40,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29632,5721103,828,40,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29679,5721150,828,40,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29742,5721214,828,40,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29777,5721249,828,40,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29833,5721305,828,40,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29877,5721349,828,40,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29931,5721403,842,45,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,29984,5721456,848,54,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,30032,5721504,855,61,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,6, three ,30082,5721553,887,80,70,883.263916015625,89.55555534362793,929.3055839538574,1,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,30134,5721606,955,93,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,30183,5721655,1049,90,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,30230,5721702,1165,99,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,30279,5721751,1269,128,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,30329,5721801,1332,146,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,30378,5721850,1366,158,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,30428,5721900,1383,166,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,30478,5721950,1426,200,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,30537,5722009,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,30585,5722057,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,30628,5722100,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,30678,5722150,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,30727,5722199,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,30777,5722249,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,30834,5722306,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,30881,5722353,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,30942,5722414,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,30988,5722460,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31036,5722508,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31083,5722555,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31130,5722602,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31191,5722663,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31237,5722709,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31285,5722757,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31327,5722800,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31379,5722851,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31441,5722913,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31488,5722960,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31535,5723007,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31582,5723054,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31629,5723101,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31692,5723163,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31738,5723210,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31785,5723257,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31832,5723304,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31878,5723350,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31940,5723412,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,31987,5723459,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32035,5723507,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32081,5723553,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32142,5723614,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32189,5723661,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32236,5723708,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32284,5723756,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32330,5723802,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32378,5723850,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32440,5723912,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32488,5723960,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32535,5724007,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32581,5724053,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32627,5724099,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32689,5724161,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32736,5724208,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32782,5724254,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32829,5724301,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32892,5724364,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32939,5724411,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,32986,5724458,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33033,5724505,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33080,5724552,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33128,5724600,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33189,5724661,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33236,5724708,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33282,5724754,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33328,5724800,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33391,5724863,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33439,5724910,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33485,5724957,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33531,5725003,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33578,5725050,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33641,5725113,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33687,5725159,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33734,5725206,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33781,5725253,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33827,5725299,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33889,5725361,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33935,5725407,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,33983,5725455,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34028,5725500,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34091,5725563,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34138,5725610,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34187,5725659,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34233,5725705,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34280,5725752,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34341,5725813,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34388,5725860,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34435,5725907,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34481,5725953,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34528,5726000,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34590,5726062,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34637,5726109,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34683,5726155,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34730,5726202,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34792,5726264,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34840,5726312,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34886,5726358,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34934,5726406,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,34980,5726452,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35042,5726514,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35089,5726561,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35135,5726607,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35183,5726655,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35229,5726701,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35291,5726763,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35339,5726811,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35386,5726858,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35432,5726904,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35479,5726951,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35542,5727014,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35589,5727061,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35636,5727108,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35682,5727154,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35729,5727201,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35791,5727263,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35838,5727310,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35885,5727357,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35931,5727403,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,35979,5727451,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36041,5727513,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36087,5727559,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36134,5727606,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36180,5727652,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36243,5727715,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36288,5727760,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36335,5727807,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36382,5727854,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36429,5727901,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36491,5727963,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36538,5728010,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36585,5728057,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36631,5728103,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36678,5728150,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36741,5728213,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36788,5728260,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36835,5728307,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36880,5728352,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36928,5728400,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,36990,5728462,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37036,5728508,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37081,5728553,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37128,5728600,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37190,5728662,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37237,5728709,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37284,5728756,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37330,5728802,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37392,5728864,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37439,5728911,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37485,5728957,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37533,5729005,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37580,5729052,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37627,5729100,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37690,5729162,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37736,5729208,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37782,5729254,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37830,5729302,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37877,5729349,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37938,5729410,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,37985,5729457,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38031,5729503,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38078,5729550,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38141,5729613,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38188,5729660,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38235,5729707,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38281,5729753,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38342,5729814,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38390,5729862,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38437,5729909,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38484,5729956,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38530,5730002,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38577,5730049,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38640,5730112,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38686,5730158,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38733,5730205,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38780,5730252,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38827,5730299,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38890,5730362,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38935,5730407,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,38981,5730453,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39042,5730514,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39090,5730562,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39137,5730609,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39183,5730655,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39230,5730702,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39293,5730764,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39339,5730811,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39386,5730858,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39433,5730905,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39479,5730951,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39542,5731014,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39588,5731060,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39634,5731106,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39680,5731152,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39728,5731200,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39790,5731262,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39837,5731309,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39883,5731355,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39930,5731402,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,39993,5731464,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40040,5731512,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40087,5731559,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40134,5731606,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40181,5731652,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40228,5731700,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40290,5731762,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40337,5731809,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40383,5731855,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40430,5731902,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40492,5731964,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40539,5732011,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40586,5732058,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40633,5732105,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40679,5732151,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40727,5732199,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40777,5732249,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40827,5732299,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40882,5732354,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40928,5732400,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,40981,5732453,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,41029,5732501,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,41078,5732550,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,41128,5732600,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,41178,5732650,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,41240,5732712,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,41287,5732759,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,41333,5732805,1429,202,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,41378,5732850,1380,378,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,41431,5732903,920,349,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,41479,5732950,747,316,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,70, how ,41529,5733001,694,286,270,673.0972290039062,289.55555534362793,711.1250076293945,6,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,70, how ,41579,5733051,692,277,270,673.0972290039062,289.55555534362793,711.1250076293945,6,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,70, how ,41631,5733103,692,277,270,673.0972290039062,289.55555534362793,711.1250076293945,6,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,70, how ,41693,5733165,692,277,270,673.0972290039062,289.55555534362793,711.1250076293945,6,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,70, how ,41740,5733212,692,277,270,673.0972290039062,289.55555534362793,711.1250076293945,6,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,41778,5733250,692,277,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,41830,5733302,630,133,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,1, The ,41879,5733351,609,73,70,604.0694580078125,89.55555534362793,640.0972366333008,1,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,41929,5733401,602,51,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,41979,5733451,600,43,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,42036,5733508,600,40,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,42077,5733549,600,40,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,42130,5733602,600,42,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,42181,5733653,602,48,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,1, The ,42230,5733702,614,77,70,604.0694580078125,89.55555534362793,640.0972366333008,1,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,42279,5733751,624,96,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,42334,5733806,626,100,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,42377,5733849,629,100,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,42440,5733911,630,99,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,42486,5733958,630,96,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,42532,5734004,630,92,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,42583,5734055,630,89,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,1, The ,42635,5734107,628,86,70,604.0694580078125,89.55555534362793,640.0972366333008,1,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,1, The ,42679,5734151,626,83,70,604.0694580078125,89.55555534362793,640.0972366333008,1,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,1, The ,42737,5734209,625,81,70,604.0694580078125,89.55555534362793,640.0972366333008,1,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,1, The ,42781,5734253,626,82,70,604.0694580078125,89.55555534362793,640.0972366333008,1,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,1, The ,42830,5734302,628,84,70,604.0694580078125,89.55555534362793,640.0972366333008,1,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,1, The ,42879,5734351,632,85,70,604.0694580078125,89.55555534362793,640.0972366333008,1,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,1, The ,42929,5734401,636,85,70,604.0694580078125,89.55555534362793,640.0972366333008,1,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,2, Japanese ,42981,5734453,646,85,70,640.0972290039062,89.55555534362793,723.1666717529297,1,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,2, Japanese ,43028,5734500,664,85,70,640.0972290039062,89.55555534362793,723.1666717529297,1,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,2, Japanese ,43079,5734551,687,85,70,640.0972290039062,89.55555534362793,723.1666717529297,1,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,2, Japanese ,43133,5734605,703,85,70,640.0972290039062,89.55555534362793,723.1666717529297,1,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,2, Japanese ,43180,5734652,714,84,70,640.0972290039062,89.55555534362793,723.1666717529297,1,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,3, team ,43233,5734705,727,81,70,723.1666870117188,89.55555534362793,768.194465637207,1,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,3, team ,43283,5734755,744,80,70,723.1666870117188,89.55555534362793,768.194465637207,1,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,3, team ,43331,5734803,767,80,70,723.1666870117188,89.55555534362793,768.194465637207,1,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,5, considering ,43382,5734854,791,82,70,786.1944580078125,89.55555534362793,883.2639007568359,1,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,5, considering ,43431,5734903,811,82,70,786.1944580078125,89.55555534362793,883.2639007568359,1,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,5, considering ,43481,5734953,831,82,70,786.1944580078125,89.55555534362793,883.2639007568359,1,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,5, considering ,43532,5735004,848,82,70,786.1944580078125,89.55555534362793,883.2639007568359,1,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,5, considering ,43580,5735052,864,82,70,786.1944580078125,89.55555534362793,883.2639007568359,1,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,5, considering ,43630,5735102,873,82,70,786.1944580078125,89.55555534362793,883.2639007568359,1,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,5, considering ,43685,5735157,877,82,70,786.1944580078125,89.55555534362793,883.2639007568359,1,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,5, considering ,43732,5735204,877,82,70,786.1944580078125,89.55555534362793,883.2639007568359,1,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,5, considering ,43778,5735250,877,82,70,786.1944580078125,89.55555534362793,883.2639007568359,1,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,5, considering ,43841,5735312,877,82,70,786.1944580078125,89.55555534362793,883.2639007568359,1,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,5, considering ,43888,5735360,877,82,70,786.1944580078125,89.55555534362793,883.2639007568359,1,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,5, considering ,43936,5735408,877,82,70,786.1944580078125,89.55555534362793,883.2639007568359,1,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,5, considering ,43982,5735454,877,82,70,786.1944580078125,89.55555534362793,883.2639007568359,1,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,5, considering ,44028,5735500,877,82,70,786.1944580078125,89.55555534362793,883.2639007568359,1,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,5, considering ,44091,5735563,877,82,70,786.1944580078125,89.55555534362793,883.2639007568359,1,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,6, three ,44131,5735603,903,80,70,883.263916015625,89.55555534362793,929.3055839538574,1,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,6, three ,44181,5735653,923,80,70,883.263916015625,89.55555534362793,929.3055839538574,1,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,7, names ,44230,5735702,944,78,70,929.3055419921875,89.55555534362793,988.3333206176758,1,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,7, names ,44280,5735751,959,76,70,929.3055419921875,89.55555534362793,988.3333206176758,1,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,7, names ,44328,5735800,972,75,70,929.3055419921875,89.55555534362793,988.3333206176758,1,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,7, names ,44381,5735853,982,74,70,929.3055419921875,89.55555534362793,988.3333206176758,1,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,8, for ,44429,5735901,989,74,70,988.3333129882812,89.55555534362793,1014.3472023010254,1,8,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,8, for ,44477,5735949,994,74,70,988.3333129882812,89.55555534362793,1014.3472023010254,1,8,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,8, for ,44527,5735999,999,75,70,988.3333129882812,89.55555534362793,1014.3472023010254,1,8,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,8, for ,44578,5736050,1005,76,70,988.3333129882812,89.55555534362793,1014.3472023010254,1,8,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,8, for ,44628,5736100,1012,77,70,988.3333129882812,89.55555534362793,1014.3472023010254,1,8,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,9, ununtrium: ,44683,5736155,1022,77,70,1014.3472290039062,89.55555534362793,1104.4027862548828,1,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,9, ununtrium: ,44733,5736205,1040,77,70,1014.3472290039062,89.55555534362793,1104.4027862548828,1,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,9, ununtrium: ,44783,5736255,1060,78,70,1014.3472290039062,89.55555534362793,1104.4027862548828,1,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,9, ununtrium: ,44830,5736302,1079,79,70,1014.3472290039062,89.55555534362793,1104.4027862548828,1,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,10," japonium, ",44881,5736353,1110,80,70,1104.40283203125,89.55555534362793,1187.4583892822266,1,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,10," japonium, ",44931,5736403,1134,81,70,1104.40283203125,89.55555534362793,1187.4583892822266,1,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,10," japonium, ",44981,5736453,1153,82,70,1104.40283203125,89.55555534362793,1187.4583892822266,1,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,10," japonium, ",45032,5736504,1166,82,70,1104.40283203125,89.55555534362793,1187.4583892822266,1,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,10," japonium, ",45079,5736551,1176,83,70,1104.40283203125,89.55555534362793,1187.4583892822266,1,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,11, rikenium ,45129,5736601,1189,85,70,1187.4583740234375,89.55555534362793,1260.4861526489258,1,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,11, rikenium ,45178,5736650,1200,85,70,1187.4583740234375,89.55555534362793,1260.4861526489258,1,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,11, rikenium ,45229,5736701,1209,87,70,1187.4583740234375,89.55555534362793,1260.4861526489258,1,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,11, rikenium ,45280,5736752,1216,87,70,1187.4583740234375,89.55555534362793,1260.4861526489258,1,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,11, rikenium ,45328,5736800,1221,87,70,1187.4583740234375,89.55555534362793,1260.4861526489258,1,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,11, rikenium ,45380,5736852,1226,87,70,1187.4583740234375,89.55555534362793,1260.4861526489258,1,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,11, rikenium ,45431,5736903,1229,87,70,1187.4583740234375,89.55555534362793,1260.4861526489258,1,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,11, rikenium ,45478,5736950,1232,87,70,1187.4583740234375,89.55555534362793,1260.4861526489258,1,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,11, rikenium ,45539,5737011,1234,87,70,1187.4583740234375,89.55555534362793,1260.4861526489258,1,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,11, rikenium ,45588,5737060,1236,87,70,1187.4583740234375,89.55555534362793,1260.4861526489258,1,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,45631,5737103,1236,87,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,45679,5737151,1128,86,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,45729,5737201,898,110,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,16, Nishina ,45780,5737252,836,120,110,777.1666870117188,129.55555534362793,842.2083511352539,2,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,15, the ,45833,5737305,776,120,110,747.138916015625,129.55555534362793,777.1666946411133,2,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,14, after ,45883,5737355,720,120,110,706.1111450195312,129.55555534362793,747.1389236450195,2,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,13," nishinarium, ",45932,5737404,666,122,110,604.0694580078125,129.55555534362793,706.1111221313477,2,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,45982,5737454,622,128,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,46032,5737504,600,132,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,46079,5737551,585,135,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,46130,5737602,579,135,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,46177,5737649,576,135,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,46229,5737701,575,132,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,46278,5737750,576,130,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,46329,5737801,581,128,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,46379,5737851,590,126,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,46429,5737901,602,124,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,13," nishinarium, ",46480,5737952,616,121,110,604.0694580078125,129.55555534362793,706.1111221313477,2,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,13," nishinarium, ",46528,5738000,626,121,110,604.0694580078125,129.55555534362793,706.1111221313477,2,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,13," nishinarium, ",46578,5738050,634,121,110,604.0694580078125,129.55555534362793,706.1111221313477,2,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,13," nishinarium, ",46628,5738100,642,121,110,604.0694580078125,129.55555534362793,706.1111221313477,2,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,13," nishinarium, ",46682,5738154,650,123,110,604.0694580078125,129.55555534362793,706.1111221313477,2,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,13," nishinarium, ",46729,5738201,657,123,110,604.0694580078125,129.55555534362793,706.1111221313477,2,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,13," nishinarium, ",46782,5738254,665,123,110,604.0694580078125,129.55555534362793,706.1111221313477,2,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,13," nishinarium, ",46828,5738300,675,123,110,604.0694580078125,129.55555534362793,706.1111221313477,2,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,13," nishinarium, ",46880,5738352,685,122,110,604.0694580078125,129.55555534362793,706.1111221313477,2,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,13," nishinarium, ",46929,5738401,695,122,110,604.0694580078125,129.55555534362793,706.1111221313477,2,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,14, after ,46979,5738451,707,121,110,706.1111450195312,129.55555534362793,747.1389236450195,2,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,14, after ,47028,5738500,718,120,110,706.1111450195312,129.55555534362793,747.1389236450195,2,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,14, after ,47079,5738551,727,120,110,706.1111450195312,129.55555534362793,747.1389236450195,2,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,14, after ,47128,5738600,736,120,110,706.1111450195312,129.55555534362793,747.1389236450195,2,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,14, after ,47179,5738651,745,119,110,706.1111450195312,129.55555534362793,747.1389236450195,2,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,15, the ,47228,5738700,759,117,110,747.138916015625,129.55555534362793,777.1666946411133,2,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,15, the ,47279,5738751,772,116,110,747.138916015625,129.55555534362793,777.1666946411133,2,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,16, Nishina ,47328,5738800,784,115,110,777.1666870117188,129.55555534362793,842.2083511352539,2,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,16, Nishina ,47378,5738850,800,114,110,777.1666870117188,129.55555534362793,842.2083511352539,2,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,16, Nishina ,47429,5738901,811,113,110,777.1666870117188,129.55555534362793,842.2083511352539,2,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,16, Nishina ,47479,5738951,822,112,110,777.1666870117188,129.55555534362793,842.2083511352539,2,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,16, Nishina ,47530,5739002,831,112,110,777.1666870117188,129.55555534362793,842.2083511352539,2,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,47582,5739054,835,110,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,47627,5739099,837,108,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,47688,5739160,837,108,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,47735,5739207,837,108,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,47782,5739254,837,108,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,47829,5739301,837,108,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,47877,5739349,837,108,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,47928,5739400,837,108,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,47984,5739456,837,108,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,48031,5739503,840,108,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,48079,5739551,848,109,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,48129,5739601,856,110,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,48179,5739651,863,110,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,48229,5739701,869,110,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,48280,5739752,874,110,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,48329,5739801,881,110,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,17, Center ,48379,5739851,888,112,110,842.2083129882812,129.55555534362793,901.2360916137695,2,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,17, Center ,48429,5739901,894,113,110,842.2083129882812,129.55555534362793,901.2360916137695,2,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,18, for ,48479,5739951,902,114,110,901.2361450195312,129.55555534362793,926.2500343322754,2,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,18, for ,48529,5740001,908,117,110,901.2361450195312,129.55555534362793,926.2500343322754,2,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,18, for ,48579,5740051,914,117,110,901.2361450195312,129.55555534362793,926.2500343322754,2,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,18, for ,48629,5740101,920,119,110,901.2361450195312,129.55555534362793,926.2500343322754,2,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,18, for ,48679,5740151,925,119,110,901.2361450195312,129.55555534362793,926.2500343322754,2,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,19, Accelerator-Based ,48729,5740201,932,119,110,926.25,129.55555534362793,1079.3333282470703,2,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,19, Accelerator-Based ,48779,5740251,938,119,110,926.25,129.55555534362793,1079.3333282470703,2,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,19, Accelerator-Based ,48828,5740300,946,119,110,926.25,129.55555534362793,1079.3333282470703,2,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,19, Accelerator-Based ,48880,5740351,954,119,110,926.25,129.55555534362793,1079.3333282470703,2,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,19, Accelerator-Based ,48929,5740401,962,118,110,926.25,129.55555534362793,1079.3333282470703,2,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,19, Accelerator-Based ,48979,5740451,970,118,110,926.25,129.55555534362793,1079.3333282470703,2,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,19, Accelerator-Based ,49031,5740503,978,117,110,926.25,129.55555534362793,1079.3333282470703,2,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,19, Accelerator-Based ,49078,5740550,984,117,110,926.25,129.55555534362793,1079.3333282470703,2,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,19, Accelerator-Based ,49129,5740601,992,117,110,926.25,129.55555534362793,1079.3333282470703,2,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,19, Accelerator-Based ,49179,5740651,1000,117,110,926.25,129.55555534362793,1079.3333282470703,2,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,19, Accelerator-Based ,49228,5740700,1009,117,110,926.25,129.55555534362793,1079.3333282470703,2,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,19, Accelerator-Based ,49279,5740751,1020,117,110,926.25,129.55555534362793,1079.3333282470703,2,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,19, Accelerator-Based ,49329,5740801,1033,117,110,926.25,129.55555534362793,1079.3333282470703,2,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,19, Accelerator-Based ,49380,5740852,1046,117,110,926.25,129.55555534362793,1079.3333282470703,2,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,19, Accelerator-Based ,49429,5740901,1059,117,110,926.25,129.55555534362793,1079.3333282470703,2,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,19, Accelerator-Based ,49479,5740951,1072,117,110,926.25,129.55555534362793,1079.3333282470703,2,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,20," Science, ",49529,5741001,1084,117,110,1079.3333740234375,129.55555534362793,1153.3750381469727,2,8,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,20," Science, ",49578,5741050,1096,117,110,1079.3333740234375,129.55555534362793,1153.3750381469727,2,8,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,20," Science, ",49628,5741100,1106,117,110,1079.3333740234375,129.55555534362793,1153.3750381469727,2,8,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,20," Science, ",49679,5741151,1119,117,110,1079.3333740234375,129.55555534362793,1153.3750381469727,2,8,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,20," Science, ",49728,5741200,1129,117,110,1079.3333740234375,129.55555534362793,1153.3750381469727,2,8,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,20," Science, ",49778,5741250,1139,117,110,1079.3333740234375,129.55555534362793,1153.3750381469727,2,8,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,20," Science, ",49829,5741301,1149,117,110,1079.3333740234375,129.55555534362793,1153.3750381469727,2,8,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,21, where ,49881,5741352,1158,119,110,1153.375,129.55555534362793,1207.4027786254883,2,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,21, where ,49929,5741401,1167,120,110,1153.375,129.55555534362793,1207.4027786254883,2,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,21, where ,49978,5741450,1178,120,110,1153.375,129.55555534362793,1207.4027786254883,2,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,21, where ,50029,5741501,1193,120,110,1153.375,129.55555534362793,1207.4027786254883,2,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,22, the ,50078,5741550,1213,121,110,1207.40283203125,129.55555534362793,1237.4306106567383,2,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,22, the ,50128,5741600,1233,123,110,1207.40283203125,129.55555534362793,1237.4306106567383,2,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,23, element ,50179,5741651,1248,125,110,1237.4305419921875,129.55555534362793,1306.4722061157227,2,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,23, element ,50228,5741700,1258,127,110,1237.4305419921875,129.55555534362793,1306.4722061157227,2,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,50280,5741752,1264,128,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,50329,5741801,1268,128,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,50377,5741849,1271,129,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,50427,5741899,1271,129,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,50481,5741953,1271,129,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,50527,5741999,1268,131,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,50579,5742051,1200,158,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,50629,5742101,1106,180,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,50679,5742151,1054,178,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,50729,5742201,970,174,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,30, about ,50780,5742252,888,166,150,866.2916870117188,169.55555534362793,916.3472442626953,3,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,29, thinking ,50831,5742303,837,157,150,799.2361450195312,169.55555534362793,866.2917022705078,3,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,28, been ,50879,5742351,781,152,150,754.1805419921875,169.55555534362793,799.2360992431641,3,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,50929,5742401,733,150,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,50978,5742450,711,150,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,26, “They ,51028,5742500,702,152,150,659.125,169.55555534362793,710.1388893127441,3,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,26, “They ,51079,5742551,696,152,150,659.125,169.55555534362793,710.1388893127441,3,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,26, “They ,51129,5742601,688,154,150,659.125,169.55555534362793,710.1388893127441,3,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,26, “They ,51178,5742650,675,155,150,659.125,169.55555534362793,710.1388893127441,3,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,26, “They ,51228,5742700,663,155,150,659.125,169.55555534362793,710.1388893127441,3,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,25, found. ,51278,5742750,655,155,150,604.0694580078125,169.55555534362793,659.1250152587891,3,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,25, found. ,51330,5742801,651,155,150,604.0694580078125,169.55555534362793,659.1250152587891,3,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,25, found. ,51378,5742850,649,155,150,604.0694580078125,169.55555534362793,659.1250152587891,3,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,25, found. ,51429,5742901,649,155,150,604.0694580078125,169.55555534362793,659.1250152587891,3,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,25, found. ,51490,5742962,649,155,150,604.0694580078125,169.55555534362793,659.1250152587891,3,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,25, found. ,51536,5743008,649,155,150,604.0694580078125,169.55555534362793,659.1250152587891,3,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,25, found. ,51583,5743055,649,155,150,604.0694580078125,169.55555534362793,659.1250152587891,3,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,25, found. ,51629,5743101,649,155,150,604.0694580078125,169.55555534362793,659.1250152587891,3,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,25, found. ,51694,5743166,649,155,150,604.0694580078125,169.55555534362793,659.1250152587891,3,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,25, found. ,51741,5743213,649,155,150,604.0694580078125,169.55555534362793,659.1250152587891,3,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,25, found. ,51790,5743262,649,155,150,604.0694580078125,169.55555534362793,659.1250152587891,3,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,25, found. ,51835,5743307,649,155,150,604.0694580078125,169.55555534362793,659.1250152587891,3,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,25, found. ,51881,5743353,649,155,150,604.0694580078125,169.55555534362793,659.1250152587891,3,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,25, found. ,51928,5743400,649,155,150,604.0694580078125,169.55555534362793,659.1250152587891,3,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,26, “They ,51978,5743450,671,155,150,659.125,169.55555534362793,710.1388893127441,3,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,26, “They ,52029,5743501,692,155,150,659.125,169.55555534362793,710.1388893127441,3,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,27, have ,52079,5743551,712,155,150,710.138916015625,169.55555534362793,754.1805839538574,3,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,27, have ,52129,5743601,728,155,150,710.138916015625,169.55555534362793,754.1805839538574,3,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,27, have ,52180,5743652,747,157,150,710.138916015625,169.55555534362793,754.1805839538574,3,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,28, been ,52229,5743701,767,160,150,754.1805419921875,169.55555534362793,799.2360992431641,3,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,28, been ,52279,5743751,786,161,150,754.1805419921875,169.55555534362793,799.2360992431641,3,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,29, thinking ,52329,5743800,800,162,150,799.2361450195312,169.55555534362793,866.2917022705078,3,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,29, thinking ,52378,5743850,809,162,150,799.2361450195312,169.55555534362793,866.2917022705078,3,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,29, thinking ,52428,5743900,819,162,150,799.2361450195312,169.55555534362793,866.2917022705078,3,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,29, thinking ,52478,5743950,824,163,150,799.2361450195312,169.55555534362793,866.2917022705078,3,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,29, thinking ,52529,5744001,828,164,150,799.2361450195312,169.55555534362793,866.2917022705078,3,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,29, thinking ,52579,5744051,832,164,150,799.2361450195312,169.55555534362793,866.2917022705078,3,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,29, thinking ,52629,5744101,833,164,150,799.2361450195312,169.55555534362793,866.2917022705078,3,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,29, thinking ,52680,5744152,834,164,150,799.2361450195312,169.55555534362793,866.2917022705078,3,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,29, thinking ,52729,5744201,837,165,150,799.2361450195312,169.55555534362793,866.2917022705078,3,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,29, thinking ,52787,5744258,837,165,150,799.2361450195312,169.55555534362793,866.2917022705078,3,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,29, thinking ,52831,5744303,839,165,150,799.2361450195312,169.55555534362793,866.2917022705078,3,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,29, thinking ,52881,5744353,841,166,150,799.2361450195312,169.55555534362793,866.2917022705078,3,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,29, thinking ,52933,5744405,842,166,150,799.2361450195312,169.55555534362793,866.2917022705078,3,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,29, thinking ,52979,5744451,845,166,150,799.2361450195312,169.55555534362793,866.2917022705078,3,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,29, thinking ,53030,5744502,849,166,150,799.2361450195312,169.55555534362793,866.2917022705078,3,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,29, thinking ,53081,5744553,856,166,150,799.2361450195312,169.55555534362793,866.2917022705078,3,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,29, thinking ,53129,5744601,863,166,150,799.2361450195312,169.55555534362793,866.2917022705078,3,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,30, about ,53180,5744652,869,166,150,866.2916870117188,169.55555534362793,916.3472442626953,3,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,30, about ,53234,5744706,872,166,150,866.2916870117188,169.55555534362793,916.3472442626953,3,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,30, about ,53284,5744756,874,166,150,866.2916870117188,169.55555534362793,916.3472442626953,3,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,30, about ,53331,5744803,877,166,150,866.2916870117188,169.55555534362793,916.3472442626953,3,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,30, about ,53393,5744865,877,166,150,866.2916870117188,169.55555534362793,916.3472442626953,3,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,30, about ,53431,5744903,877,166,150,866.2916870117188,169.55555534362793,916.3472442626953,3,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,30, about ,53479,5744951,880,166,150,866.2916870117188,169.55555534362793,916.3472442626953,3,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,30, about ,53530,5745002,882,166,150,866.2916870117188,169.55555534362793,916.3472442626953,3,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,30, about ,53580,5745052,890,166,150,866.2916870117188,169.55555534362793,916.3472442626953,3,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,30, about ,53629,5745101,901,166,150,866.2916870117188,169.55555534362793,916.3472442626953,3,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,30, about ,53678,5745150,911,166,150,866.2916870117188,169.55555534362793,916.3472442626953,3,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,31, it ,53729,5745201,920,167,150,916.3472290039062,169.55555534362793,930.3611183166504,3,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,53779,5745251,928,168,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,53829,5745301,939,169,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,53880,5745352,945,169,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,53938,5745410,946,169,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,53985,5745457,946,169,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,54032,5745504,946,169,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,54078,5745550,946,169,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,54140,5745612,946,169,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,54187,5745659,946,169,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,54233,5745705,946,169,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,54280,5745752,946,169,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,54327,5745799,946,169,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,34, while ,54380,5745852,975,154,150,971.388916015625,169.55555534362793,1017.4166946411133,3,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,54430,5745902,992,148,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,54480,5745952,1007,145,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,54531,5746003,1019,146,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,54583,5746055,1030,148,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,54631,5746103,1037,150,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,35," already,” ",54679,5746151,1044,153,150,1017.4166870117188,169.55555534362793,1091.1250228881836,3,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,35," already,” ",54728,5746200,1048,157,150,1017.4166870117188,169.55555534362793,1091.1250228881836,3,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,35," already,” ",54779,5746251,1052,160,150,1017.4166870117188,169.55555534362793,1091.1250228881836,3,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,35," already,” ",54829,5746301,1056,161,150,1017.4166870117188,169.55555534362793,1091.1250228881836,3,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,35," already,” ",54879,5746351,1059,162,150,1017.4166870117188,169.55555534362793,1091.1250228881836,3,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,35," already,” ",54930,5746402,1063,164,150,1017.4166870117188,169.55555534362793,1091.1250228881836,3,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,35," already,” ",54979,5746451,1064,165,150,1017.4166870117188,169.55555534362793,1091.1250228881836,3,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,35," already,” ",55029,5746501,1066,165,150,1017.4166870117188,169.55555534362793,1091.1250228881836,3,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,35," already,” ",55079,5746551,1071,165,150,1017.4166870117188,169.55555534362793,1091.1250228881836,3,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,35," already,” ",55130,5746601,1077,165,150,1017.4166870117188,169.55555534362793,1091.1250228881836,3,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,35," already,” ",55178,5746650,1090,164,150,1017.4166870117188,169.55555534362793,1091.1250228881836,3,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,36, said ,55230,5746701,1104,161,150,1091.125,169.55555534362793,1129.1527786254883,3,12,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,36, said ,55280,5746751,1116,161,150,1091.125,169.55555534362793,1129.1527786254883,3,12,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,36, said ,55328,5746800,1125,160,150,1091.125,169.55555534362793,1129.1527786254883,3,12,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,37, Polly ,55379,5746851,1135,160,150,1129.15283203125,169.55555534362793,1172.1806106567383,3,13,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,37, Polly ,55429,5746901,1141,160,150,1129.15283203125,169.55555534362793,1172.1806106567383,3,13,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,37, Polly ,55479,5746951,1146,160,150,1129.15283203125,169.55555534362793,1172.1806106567383,3,13,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,37, Polly ,55528,5747000,1149,160,150,1129.15283203125,169.55555534362793,1172.1806106567383,3,13,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,37, Polly ,55584,5747056,1152,160,150,1129.15283203125,169.55555534362793,1172.1806106567383,3,13,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,37, Polly ,55631,5747103,1154,160,150,1129.15283203125,169.55555534362793,1172.1806106567383,3,13,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,37, Polly ,55678,5747150,1160,160,150,1129.15283203125,169.55555534362793,1172.1806106567383,3,13,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,37, Polly ,55728,5747200,1164,161,150,1129.15283203125,169.55555534362793,1172.1806106567383,3,13,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,37, Polly ,55780,5747252,1170,161,150,1129.15283203125,169.55555534362793,1172.1806106567383,3,13,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,38," Arnold, ",55831,5747303,1178,162,150,1172.1805419921875,169.55555534362793,1234.22220993042,3,14,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,38," Arnold, ",55880,5747352,1187,163,150,1172.1805419921875,169.55555534362793,1234.22220993042,3,14,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,38," Arnold, ",55931,5747402,1196,164,150,1172.1805419921875,169.55555534362793,1234.22220993042,3,14,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,38," Arnold, ",55979,5747451,1205,165,150,1172.1805419921875,169.55555534362793,1234.22220993042,3,14,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,38," Arnold, ",56029,5747501,1212,165,150,1172.1805419921875,169.55555534362793,1234.22220993042,3,14,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,38," Arnold, ",56078,5747550,1218,165,150,1172.1805419921875,169.55555534362793,1234.22220993042,3,14,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,38," Arnold, ",56129,5747601,1226,166,150,1172.1805419921875,169.55555534362793,1234.22220993042,3,14,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,38," Arnold, ",56179,5747651,1234,167,150,1172.1805419921875,169.55555534362793,1234.22220993042,3,14,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,56228,5747700,1242,168,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,56280,5747752,1250,169,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,56329,5747801,1258,169,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,56380,5747852,1265,171,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,56429,5747901,1273,171,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,56479,5747951,1280,172,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,56527,5747999,1285,172,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,56577,5748049,1289,173,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,56628,5748100,1290,173,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,56677,5748149,1290,172,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,56729,5748201,1285,168,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,39, professor ,56778,5748250,1246,158,150,1234.2222900390625,169.55555534362793,1314.2639541625977,3,15,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,37, Polly ,56829,5748301,1145,154,150,1129.15283203125,169.55555534362793,1172.1806106567383,3,13,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,56878,5748350,1072,156,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,56929,5748401,936,171,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,56978,5748450,860,175,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,57028,5748500,813,177,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,57078,5748550,770,183,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,57130,5748602,729,191,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,42, at ,57179,5748651,698,192,190,686.0833129882812,209.55555534362793,706.0972023010254,4,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,57228,5748700,679,190,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,57279,5748751,670,186,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,57329,5748801,664,184,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,57378,5748850,662,183,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,57428,5748900,657,183,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,57479,5748951,655,183,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,57527,5748999,652,183,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,57578,5749050,651,183,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,57627,5749099,651,182,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,57680,5749152,656,183,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,57728,5749200,664,186,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,41, chemistry ,57779,5749251,679,192,190,604.0694580078125,209.55555534362793,686.0833511352539,4,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,42, at ,57828,5749300,690,198,190,686.0833129882812,209.55555534362793,706.0972023010254,4,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,42, at ,57878,5749350,702,201,190,686.0833129882812,209.55555534362793,706.0972023010254,4,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,43, Edinburgh ,57928,5749400,712,206,190,706.0972290039062,209.55555534362793,793.1666717529297,4,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,57979,5749451,721,210,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,58030,5749502,728,215,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,58078,5749550,734,217,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,58132,5749604,737,219,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,58178,5749650,741,220,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,58228,5749700,744,222,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,58280,5749752,749,222,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,58329,5749801,753,220,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,58379,5749851,760,216,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,58431,5749903,769,212,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,58482,5749954,782,208,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,43, Edinburgh ,58533,5750005,791,204,190,706.0972290039062,209.55555534362793,793.1666717529297,4,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,44, University. ,58581,5750053,798,201,190,793.1666870117188,209.55555534362793,880.8472442626953,4,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,44, University. ,58631,5750103,802,200,190,793.1666870117188,209.55555534362793,880.8472442626953,4,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,44, University. ,58679,5750151,805,200,190,793.1666870117188,209.55555534362793,880.8472442626953,4,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,44, University. ,58728,5750200,809,200,190,793.1666870117188,209.55555534362793,880.8472442626953,4,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,44, University. ,58780,5750252,810,200,190,793.1666870117188,209.55555534362793,880.8472442626953,4,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,44, University. ,58834,5750306,813,200,190,793.1666870117188,209.55555534362793,880.8472442626953,4,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,44, University. ,58879,5750351,818,200,190,793.1666870117188,209.55555534362793,880.8472442626953,4,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,44, University. ,58929,5750401,825,199,190,793.1666870117188,209.55555534362793,880.8472442626953,4,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,44, University. ,58979,5750451,833,197,190,793.1666870117188,209.55555534362793,880.8472442626953,4,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,44, University. ,59029,5750501,842,195,190,793.1666870117188,209.55555534362793,880.8472442626953,4,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,44, University. ,59081,5750553,853,195,190,793.1666870117188,209.55555534362793,880.8472442626953,4,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,44, University. ,59131,5750603,864,195,190,793.1666870117188,209.55555534362793,880.8472442626953,4,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,44, University. ,59179,5750651,874,195,190,793.1666870117188,209.55555534362793,880.8472442626953,4,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,45, “This ,59230,5750702,882,195,190,880.8472290039062,209.55555534362793,925.8472290039062,4,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,45, “This ,59279,5750751,890,195,190,880.8472290039062,209.55555534362793,925.8472290039062,4,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,45, “This ,59329,5750801,895,193,190,880.8472290039062,209.55555534362793,925.8472290039062,4,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,45, “This ,59391,5750863,896,192,190,880.8472290039062,209.55555534362793,925.8472290039062,4,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,45, “This ,59437,5750909,896,192,190,880.8472290039062,209.55555534362793,925.8472290039062,4,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,45, “This ,59483,5750955,896,192,190,880.8472290039062,209.55555534362793,925.8472290039062,4,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,45, “This ,59529,5751001,896,192,190,880.8472290039062,209.55555534362793,925.8472290039062,4,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,45, “This ,59591,5751063,896,192,190,880.8472290039062,209.55555534362793,925.8472290039062,4,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,45, “This ,59637,5751109,896,192,190,880.8472290039062,209.55555534362793,925.8472290039062,4,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,45, “This ,59684,5751156,896,192,190,880.8472290039062,209.55555534362793,925.8472290039062,4,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,45, “This ,59733,5751205,896,192,190,880.8472290039062,209.55555534362793,925.8472290039062,4,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,45, “This ,59779,5751251,909,192,190,880.8472290039062,209.55555534362793,925.8472290039062,4,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,47, painstaking ,59831,5751303,948,198,190,943.8472290039062,209.55555534362793,1039.9166717529297,4,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,47, painstaking ,59881,5751353,979,202,190,943.8472290039062,209.55555534362793,1039.9166717529297,4,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,47, painstaking ,59931,5751403,1000,206,190,943.8472290039062,209.55555534362793,1039.9166717529297,4,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,59982,5751454,1010,208,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60031,5751503,1017,209,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60081,5751553,1023,211,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60129,5751601,1028,212,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60180,5751652,1032,213,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60229,5751701,1036,214,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60280,5751752,1040,215,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60330,5751802,1041,216,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60380,5751852,1044,216,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60428,5751900,1047,216,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60481,5751953,1053,218,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60530,5752002,1066,222,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60581,5752053,1083,224,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60629,5752101,1099,225,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60679,5752151,1116,224,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60729,5752201,1132,223,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60779,5752251,1148,222,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60830,5752302,1164,220,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60880,5752352,1178,218,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60932,5752404,1191,216,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,60980,5752452,1200,215,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,61030,5752502,1207,213,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,61079,5752551,1212,211,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,61130,5752602,1216,209,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,52, us ,61179,5752651,1222,207,190,1214.6944580078125,209.55555534362793,1238.7083473205566,4,12,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,52, us ,61229,5752701,1226,206,190,1214.6944580078125,209.55555534362793,1238.7083473205566,4,12,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,52, us ,61280,5752752,1232,205,190,1214.6944580078125,209.55555534362793,1238.7083473205566,4,12,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,53, with ,61329,5752801,1240,205,190,1238.7083740234375,209.55555534362793,1275.7222633361816,4,13,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,53, with ,61379,5752851,1248,205,190,1238.7083740234375,209.55555534362793,1275.7222633361816,4,13,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,53, with ,61429,5752901,1256,205,190,1238.7083740234375,209.55555534362793,1275.7222633361816,4,13,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,53, with ,61479,5752951,1264,205,190,1238.7083740234375,209.55555534362793,1275.7222633361816,4,13,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,53, with ,61528,5753000,1269,205,190,1238.7083740234375,209.55555534362793,1275.7222633361816,4,13,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,53, with ,61579,5753051,1273,205,190,1238.7083740234375,209.55555534362793,1275.7222633361816,4,13,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,53, with ,61636,5753108,1274,205,190,1238.7083740234375,209.55555534362793,1275.7222633361816,4,13,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,53, with ,61680,5753152,1273,207,190,1238.7083740234375,209.55555534362793,1275.7222633361816,4,13,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,61730,5753202,997,226,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,61778,5753250,788,240,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,55, models ,61829,5753301,627,239,230,604.0694580078125,249.55555534362793,667.0972366333008,5,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,61878,5753350,586,234,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,61928,5753400,563,234,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,61978,5753450,552,234,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,62027,5753499,545,234,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,62077,5753549,543,234,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,62133,5753605,543,233,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,62177,5753649,550,233,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,62228,5753700,575,233,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,62278,5753750,599,232,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,62330,5753802,615,232,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,62378,5753850,642,230,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,62429,5753901,664,229,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,62480,5753952,680,228,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,62528,5754001,696,228,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,62579,5754051,709,228,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,62630,5754102,722,228,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,62680,5754152,734,229,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,62730,5754202,744,230,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,62781,5754253,754,231,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,62829,5754301,762,232,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,62878,5754350,770,233,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,62928,5754400,777,234,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,62978,5754450,790,236,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63028,5754500,797,236,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63079,5754551,805,238,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63128,5754600,812,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63178,5754650,816,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63242,5754714,817,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63287,5754759,817,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63334,5754806,817,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63381,5754853,817,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63427,5754899,817,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63490,5754961,817,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63536,5755008,817,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63582,5755054,817,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63629,5755101,817,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63690,5755162,817,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63736,5755208,817,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63783,5755255,817,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63830,5755302,817,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63893,5755365,817,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63940,5755412,820,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,63982,5755454,821,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64033,5755505,824,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64081,5755553,825,239,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64130,5755602,827,240,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64178,5755650,829,240,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64235,5755707,831,240,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64284,5755756,832,240,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64331,5755803,832,240,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64378,5755850,833,240,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64428,5755900,833,240,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64486,5755958,834,240,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64532,5756004,834,241,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64580,5756052,834,241,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64642,5756114,835,242,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64689,5756161,836,242,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64736,5756208,837,242,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64782,5756254,837,242,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64829,5756301,840,242,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64879,5756351,840,242,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64928,5756400,845,244,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,64980,5756452,848,245,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,58, understanding ,65029,5756501,853,246,230,739.1527709960938,249.55555534362793,858.2499923706055,5,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,65081,5756553,859,248,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,65130,5756602,865,248,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,65179,5756651,871,250,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,65230,5756702,877,251,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,65278,5756750,884,252,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,65330,5756802,890,254,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,65379,5756851,896,255,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,65432,5756904,901,255,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,65481,5756953,909,255,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,65531,5757003,921,254,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,65580,5757052,933,251,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,65629,5757101,946,248,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,60, decay. ,65681,5757153,955,244,230,950.3055419921875,249.55555534362793,1007.0138740539551,5,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,60, decay. ,65727,5757199,959,242,230,950.3055419921875,249.55555534362793,1007.0138740539551,5,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,60, decay. ,65778,5757250,959,242,230,950.3055419921875,249.55555534362793,1007.0138740539551,5,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,60, decay. ,65841,5757313,959,242,230,950.3055419921875,249.55555534362793,1007.0138740539551,5,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,60, decay. ,65887,5757359,959,242,230,950.3055419921875,249.55555534362793,1007.0138740539551,5,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,60, decay. ,65928,5757400,959,242,230,950.3055419921875,249.55555534362793,1007.0138740539551,5,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,60, decay. ,65979,5757451,959,242,230,950.3055419921875,249.55555534362793,1007.0138740539551,5,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,60, decay. ,66042,5757514,959,242,230,950.3055419921875,249.55555534362793,1007.0138740539551,5,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,60, decay. ,66084,5757556,959,242,230,950.3055419921875,249.55555534362793,1007.0138740539551,5,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,60, decay. ,66129,5757601,968,242,230,950.3055419921875,249.55555534362793,1007.0138740539551,5,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,60, decay. ,66178,5757650,985,244,230,950.3055419921875,249.55555534362793,1007.0138740539551,5,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,60, decay. ,66229,5757701,1002,247,230,950.3055419921875,249.55555534362793,1007.0138740539551,5,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,66281,5757753,1013,248,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,66328,5757800,1024,251,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,66380,5757852,1035,252,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,66431,5757903,1042,254,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,66481,5757953,1051,256,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,66530,5758002,1059,257,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,66579,5758051,1066,258,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,66629,5758101,1072,259,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,66680,5758152,1076,259,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,66727,5758199,1079,259,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,66782,5758254,1082,261,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,66831,5758303,1088,262,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,66878,5758350,1090,262,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,66930,5758402,1095,263,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,66977,5758449,1097,263,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67028,5758500,1099,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67081,5758554,1100,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67128,5758600,1101,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67190,5758662,1101,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67236,5758708,1101,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67283,5758755,1101,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67328,5758800,1101,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67390,5758862,1103,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67437,5758909,1103,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67485,5758956,1103,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67531,5759003,1103,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67579,5759051,1103,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67642,5759113,1103,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67689,5759161,1103,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67735,5759207,1103,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67782,5759254,1103,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67828,5759300,1103,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67892,5759364,1103,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67939,5759411,1103,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,67986,5759458,1103,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68031,5759503,1110,262,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68079,5759551,1122,259,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68130,5759602,1133,259,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68183,5759655,1145,259,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68229,5759701,1159,258,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68280,5759752,1174,258,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68330,5759802,1190,257,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68379,5759851,1206,257,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68429,5759901,1223,257,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68478,5759950,1241,259,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68529,5760001,1257,260,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68579,5760051,1272,262,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68631,5760103,1283,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68679,5760151,1290,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68727,5760199,1292,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68780,5760252,1292,264,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68830,5760302,1176,261,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68881,5760353,960,252,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68928,5760400,879,259,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,68979,5760451,822,266,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,69029,5760501,785,267,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,69079,5760551,752,268,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,69129,5760601,718,271,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,70, how ,69180,5760652,687,276,270,673.0972290039062,289.55555534362793,711.1250076293945,6,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,69, improve ,69229,5760701,668,278,270,604.0694580078125,289.55555534362793,673.0972366333008,6,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,69, improve ,69280,5760752,648,279,270,604.0694580078125,289.55555534362793,673.0972366333008,6,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,69, improve ,69329,5760801,636,279,270,604.0694580078125,289.55555534362793,673.0972366333008,6,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,69, improve ,69379,5760851,628,279,270,604.0694580078125,289.55555534362793,673.0972366333008,6,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,69, improve ,69431,5760903,623,279,270,604.0694580078125,289.55555534362793,673.0972366333008,6,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,69, improve ,69480,5760952,622,279,270,604.0694580078125,289.55555534362793,673.0972366333008,6,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,69, improve ,69543,5761015,620,278,270,604.0694580078125,289.55555534362793,673.0972366333008,6,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,69, improve ,69580,5761052,620,278,270,604.0694580078125,289.55555534362793,673.0972366333008,6,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,69, improve ,69628,5761100,626,277,270,604.0694580078125,289.55555534362793,673.0972366333008,6,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,69, improve ,69679,5761150,638,277,270,604.0694580078125,289.55555534362793,673.0972366333008,6,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,69, improve ,69730,5761202,649,277,270,604.0694580078125,289.55555534362793,673.0972366333008,6,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,69, improve ,69779,5761251,663,277,270,604.0694580078125,289.55555534362793,673.0972366333008,6,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,70, how ,69829,5761301,674,277,270,673.0972290039062,289.55555534362793,711.1250076293945,6,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,70, how ,69879,5761351,684,277,270,673.0972290039062,289.55555534362793,711.1250076293945,6,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,70, how ,69930,5761402,692,277,270,673.0972290039062,289.55555534362793,711.1250076293945,6,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,70, how ,69979,5761451,700,277,270,673.0972290039062,289.55555534362793,711.1250076293945,6,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,70, how ,70029,5761501,706,279,270,673.0972290039062,289.55555534362793,711.1250076293945,6,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,71, we ,70081,5761553,712,280,270,711.125,289.55555534362793,739.1388893127441,6,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,71, we ,70129,5761601,717,280,270,711.125,289.55555534362793,739.1388893127441,6,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,71, we ,70179,5761651,722,280,270,711.125,289.55555534362793,739.1388893127441,6,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,71, we ,70229,5761701,728,280,270,711.125,289.55555534362793,739.1388893127441,6,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,71, we ,70280,5761752,735,280,270,711.125,289.55555534362793,739.1388893127441,6,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,72, deal ,70329,5761801,741,281,270,739.138916015625,289.55555534362793,778.1805839538574,6,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,72, deal ,70378,5761850,751,282,270,739.138916015625,289.55555534362793,778.1805839538574,6,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,72, deal ,70429,5761901,759,283,270,739.138916015625,289.55555534362793,778.1805839538574,6,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,72, deal ,70479,5761951,767,285,270,739.138916015625,289.55555534362793,778.1805839538574,6,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,72, deal ,70532,5762004,775,287,270,739.138916015625,289.55555534362793,778.1805839538574,6,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,70584,5762056,783,288,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,70631,5762103,791,288,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,70679,5762151,802,288,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,74, nuclear ,70730,5762202,816,285,270,815.1944580078125,289.55555534362793,879.2361221313477,6,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,74, nuclear ,70779,5762251,831,282,270,815.1944580078125,289.55555534362793,879.2361221313477,6,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,74, nuclear ,70829,5762301,848,281,270,815.1944580078125,289.55555534362793,879.2361221313477,6,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,74, nuclear ,70879,5762351,861,281,270,815.1944580078125,289.55555534362793,879.2361221313477,6,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,74, nuclear ,70928,5762400,873,281,270,815.1944580078125,289.55555534362793,879.2361221313477,6,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,75, waste ,70979,5762451,885,281,270,879.2361450195312,289.55555534362793,931.2639236450195,6,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,75, waste ,71031,5762503,896,281,270,879.2361450195312,289.55555534362793,931.2639236450195,6,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,75, waste ,71080,5762552,905,281,270,879.2361450195312,289.55555534362793,931.2639236450195,6,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,75, waste ,71132,5762604,912,281,270,879.2361450195312,289.55555534362793,931.2639236450195,6,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,75, waste ,71179,5762651,919,281,270,879.2361450195312,289.55555534362793,931.2639236450195,6,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,75, waste ,71229,5762701,927,281,270,879.2361450195312,289.55555534362793,931.2639236450195,6,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,76, and ,71282,5762754,933,281,270,931.263916015625,289.55555534362793,966.3055839538574,6,8,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,76, and ,71329,5762801,943,281,270,931.263916015625,289.55555534362793,966.3055839538574,6,8,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,76, and ,71381,5762853,951,281,270,931.263916015625,289.55555534362793,966.3055839538574,6,8,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,76, and ,71431,5762903,957,281,270,931.263916015625,289.55555534362793,966.3055839538574,6,8,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,77, things ,71479,5762951,968,282,270,966.3055419921875,289.55555534362793,1019.3472099304199,6,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,77, things ,71529,5763001,976,283,270,966.3055419921875,289.55555534362793,1019.3472099304199,6,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,77, things ,71580,5763052,984,283,270,966.3055419921875,289.55555534362793,1019.3472099304199,6,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,77, things ,71629,5763101,996,284,270,966.3055419921875,289.55555534362793,1019.3472099304199,6,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,77, things ,71679,5763151,1009,285,270,966.3055419921875,289.55555534362793,1019.3472099304199,6,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,78, that ,71728,5763200,1024,285,270,1019.3472290039062,289.55555534362793,1054.3750076293945,6,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,78, that ,71780,5763252,1031,285,270,1019.3472290039062,289.55555534362793,1054.3750076293945,6,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,78, that ,71838,5763310,1032,285,270,1019.3472290039062,289.55555534362793,1054.3750076293945,6,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,78, that ,71887,5763359,1032,284,270,1019.3472290039062,289.55555534362793,1054.3750076293945,6,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,78, that ,71934,5763406,1032,284,270,1019.3472290039062,289.55555534362793,1054.3750076293945,6,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,78, that ,71980,5763452,1032,284,270,1019.3472290039062,289.55555534362793,1054.3750076293945,6,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,78, that ,72043,5763515,1032,284,270,1019.3472290039062,289.55555534362793,1054.3750076293945,6,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,78, that ,72089,5763561,1032,284,270,1019.3472290039062,289.55555534362793,1054.3750076293945,6,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,78, that ,72135,5763607,1032,284,270,1019.3472290039062,289.55555534362793,1054.3750076293945,6,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,78, that ,72182,5763654,1032,284,270,1019.3472290039062,289.55555534362793,1054.3750076293945,6,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,78, that ,72228,5763700,1032,284,270,1019.3472290039062,289.55555534362793,1054.3750076293945,6,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,78, that ,72279,5763751,1032,284,270,1019.3472290039062,289.55555534362793,1054.3750076293945,6,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,78, that ,72331,5763803,1037,284,270,1019.3472290039062,289.55555534362793,1054.3750076293945,6,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,78, that ,72379,5763850,1054,284,270,1019.3472290039062,289.55555534362793,1054.3750076293945,6,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,79, are ,72430,5763902,1070,283,270,1054.375,289.55555534362793,1085.4027786254883,6,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,80, important ,72481,5763953,1088,282,270,1085.40283203125,289.55555534362793,1165.4444961547852,6,12,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,80, important ,72530,5764002,1104,281,270,1085.40283203125,289.55555534362793,1165.4444961547852,6,12,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,80, important ,72579,5764051,1123,280,270,1085.40283203125,289.55555534362793,1165.4444961547852,6,12,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,80, important ,72631,5764103,1147,280,270,1085.40283203125,289.55555534362793,1165.4444961547852,6,12,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,81, in ,72680,5764152,1171,282,270,1165.4444580078125,289.55555534362793,1184.4583473205566,6,13,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,82, the ,72729,5764201,1192,283,270,1184.4583740234375,289.55555534362793,1214.4861526489258,6,14,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,82, the ,72780,5764252,1212,286,270,1184.4583740234375,289.55555534362793,1214.4861526489258,6,14,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,72830,5764302,1231,288,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,72880,5764352,1248,290,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,72930,5764402,1261,291,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,72981,5764453,1272,292,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,73033,5764504,1282,292,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,73083,5764555,1290,292,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,73132,5764604,1298,292,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,73183,5764655,1309,292,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,73230,5764702,1320,289,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,86, also ,73282,5764754,1332,286,270,1317.5555419921875,289.55555534362793,1350.5833206176758,6,18,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,86, also ,73331,5764803,1343,283,270,1317.5555419921875,289.55555534362793,1350.5833206176758,6,18,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,73379,5764851,1351,281,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,73429,5764901,1356,281,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,73478,5764950,1359,281,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,73539,5765011,1360,281,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,73586,5765058,1360,281,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,73629,5765100,1355,283,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,73678,5765150,1341,284,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,73729,5765201,1069,314,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,73780,5765252,761,360,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,73834,5765306,628,344,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,73882,5765354,576,323,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,73928,5765401,560,316,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,73981,5765452,552,312,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,74031,5765503,547,310,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,74080,5765552,544,308,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,74128,5765600,544,305,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,74179,5765651,550,305,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,74229,5765701,564,305,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,74280,5765752,589,306,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,74329,5765801,611,309,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,87, leads ,74380,5765852,628,312,310,604.0694580078125,329.55555534362793,652.1111259460449,7,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,87, leads ,74429,5765901,644,313,310,604.0694580078125,329.55555534362793,652.1111259460449,7,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,88, to ,74479,5765951,656,315,310,652.1111450195312,329.55555534362793,672.1250343322754,7,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,88, to ,74533,5766005,669,316,310,652.1111450195312,329.55555534362793,672.1250343322754,7,2,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,89, fantastic ,74582,5766054,685,316,310,672.125,329.55555534362793,744.1666641235352,7,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,89, fantastic ,74633,5766105,697,316,310,672.125,329.55555534362793,744.1666641235352,7,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,89, fantastic ,74682,5766154,709,316,310,672.125,329.55555534362793,744.1666641235352,7,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,89, fantastic ,74732,5766204,722,316,310,672.125,329.55555534362793,744.1666641235352,7,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,89, fantastic ,74782,5766254,736,316,310,672.125,329.55555534362793,744.1666641235352,7,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,90, technological ,74832,5766304,748,316,310,744.1666870117188,329.55555534362793,854.2500228881836,7,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,90, technological ,74879,5766351,760,316,310,744.1666870117188,329.55555534362793,854.2500228881836,7,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,90, technological ,74928,5766400,773,316,310,744.1666870117188,329.55555534362793,854.2500228881836,7,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,90, technological ,74979,5766451,786,316,310,744.1666870117188,329.55555534362793,854.2500228881836,7,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,90, technological ,75029,5766501,799,318,310,744.1666870117188,329.55555534362793,854.2500228881836,7,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,90, technological ,75079,5766551,814,320,310,744.1666870117188,329.55555534362793,854.2500228881836,7,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,90, technological ,75131,5766603,830,320,310,744.1666870117188,329.55555534362793,854.2500228881836,7,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,90, technological ,75179,5766651,848,320,310,744.1666870117188,329.55555534362793,854.2500228881836,7,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,91, advances ,75232,5766704,869,320,310,854.25,329.55555534362793,936.3055572509766,7,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,91, advances ,75283,5766755,892,320,310,854.25,329.55555534362793,936.3055572509766,7,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,91, advances ,75333,5766805,914,321,310,854.25,329.55555534362793,936.3055572509766,7,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,91, advances ,75381,5766853,936,323,310,854.25,329.55555534362793,936.3055572509766,7,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,92, in ,75431,5766903,955,324,310,936.3055419921875,329.55555534362793,955.3194313049316,7,6,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,93, building ,75482,5766954,965,324,310,955.3194580078125,329.55555534362793,1022.3750152587891,7,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,93, building ,75532,5767004,975,325,310,955.3194580078125,329.55555534362793,1022.3750152587891,7,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,93, building ,75582,5767054,981,325,310,955.3194580078125,329.55555534362793,1022.3750152587891,7,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,93, building ,75629,5767101,986,326,310,955.3194580078125,329.55555534362793,1022.3750152587891,7,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,93, building ,75679,5767151,992,326,310,955.3194580078125,329.55555534362793,1022.3750152587891,7,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,93, building ,75732,5767204,994,326,310,955.3194580078125,329.55555534362793,1022.3750152587891,7,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,93, building ,75779,5767251,997,326,310,955.3194580078125,329.55555534362793,1022.3750152587891,7,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,93, building ,75842,5767314,996,326,310,955.3194580078125,329.55555534362793,1022.3750152587891,7,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,93, building ,75888,5767360,996,326,310,955.3194580078125,329.55555534362793,1022.3750152587891,7,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,93, building ,75934,5767406,996,326,310,955.3194580078125,329.55555534362793,1022.3750152587891,7,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,93, building ,75981,5767453,996,326,310,955.3194580078125,329.55555534362793,1022.3750152587891,7,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,93, building ,76028,5767500,996,326,310,955.3194580078125,329.55555534362793,1022.3750152587891,7,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,93, building ,76091,5767563,996,326,310,955.3194580078125,329.55555534362793,1022.3750152587891,7,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,93, building ,76138,5767610,996,326,310,955.3194580078125,329.55555534362793,1022.3750152587891,7,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,93, building ,76185,5767657,996,326,310,955.3194580078125,329.55555534362793,1022.3750152587891,7,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,93, building ,76232,5767704,996,326,310,955.3194580078125,329.55555534362793,1022.3750152587891,7,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,93, building ,76278,5767750,996,326,310,955.3194580078125,329.55555534362793,1022.3750152587891,7,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,93, building ,76329,5767801,997,326,310,955.3194580078125,329.55555534362793,1022.3750152587891,7,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,93, building ,76379,5767851,1010,325,310,955.3194580078125,329.55555534362793,1022.3750152587891,7,7,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,94, the ,76431,5767903,1026,324,310,1022.375,329.55555534362793,1052.4027786254883,7,8,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,94, the ,76480,5767952,1040,322,310,1022.375,329.55555534362793,1052.4027786254883,7,8,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,95, equipment ,76530,5768002,1054,321,310,1052.40283203125,329.55555534362793,1141.4722747802734,7,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,95, equipment ,76579,5768051,1070,320,310,1052.40283203125,329.55555534362793,1141.4722747802734,7,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,95, equipment ,76629,5768101,1085,318,310,1052.40283203125,329.55555534362793,1141.4722747802734,7,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,95, equipment ,76680,5768152,1100,317,310,1052.40283203125,329.55555534362793,1141.4722747802734,7,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,95, equipment ,76733,5768205,1112,315,310,1052.40283203125,329.55555534362793,1141.4722747802734,7,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,95, equipment ,76783,5768255,1122,312,310,1052.40283203125,329.55555534362793,1141.4722747802734,7,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,95, equipment ,76832,5768304,1132,312,310,1052.40283203125,329.55555534362793,1141.4722747802734,7,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,95, equipment ,76882,5768354,1141,312,310,1052.40283203125,329.55555534362793,1141.4722747802734,7,9,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,96, to ,76931,5768403,1152,312,310,1141.4722900390625,329.55555534362793,1161.4861793518066,7,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,96, to ,76981,5768453,1160,312,310,1141.4722900390625,329.55555534362793,1161.4861793518066,7,10,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,97, make ,77032,5768504,1167,312,310,1161.486083984375,329.55555534362793,1210.5138626098633,7,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,97, make ,77082,5768554,1170,312,310,1161.486083984375,329.55555534362793,1210.5138626098633,7,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,97, make ,77129,5768601,1170,312,310,1161.486083984375,329.55555534362793,1210.5138626098633,7,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,97, make ,77192,5768664,1170,312,310,1161.486083984375,329.55555534362793,1210.5138626098633,7,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,97, make ,77238,5768710,1170,312,310,1161.486083984375,329.55555534362793,1210.5138626098633,7,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,97, make ,77284,5768756,1170,312,310,1161.486083984375,329.55555534362793,1210.5138626098633,7,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,97, make ,77331,5768803,1170,312,310,1161.486083984375,329.55555534362793,1210.5138626098633,7,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,97, make ,77392,5768864,1170,312,310,1161.486083984375,329.55555534362793,1210.5138626098633,7,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,97, make ,77431,5768903,1170,312,310,1161.486083984375,329.55555534362793,1210.5138626098633,7,11,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,94, the ,77482,5768954,1027,320,310,1022.375,329.55555534362793,1052.4027786254883,7,8,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,91, advances ,77530,5769002,934,321,310,854.25,329.55555534362793,936.3055572509766,7,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,91, advances ,77579,5769051,881,318,310,854.25,329.55555534362793,936.3055572509766,7,5,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,90, technological ,77630,5769102,838,316,310,744.1666870117188,329.55555534362793,854.2500228881836,7,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,90, technological ,77678,5769150,784,316,310,744.1666870117188,329.55555534362793,854.2500228881836,7,4,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,89, fantastic ,77728,5769200,744,320,310,672.125,329.55555534362793,744.1666641235352,7,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,89, fantastic ,77779,5769251,718,324,310,672.125,329.55555534362793,744.1666641235352,7,3,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,77831,5769303,699,329,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,77880,5769352,684,337,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,77929,5769401,673,344,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,77982,5769454,668,349,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,99, observations.” ,78029,5769501,664,352,350,604.0694580078125,369.55555534362793,717.1250152587891,8,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,99, observations.” ,78080,5769552,662,353,350,604.0694580078125,369.55555534362793,717.1250152587891,8,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,99, observations.” ,78128,5769600,660,353,350,604.0694580078125,369.55555534362793,717.1250152587891,8,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,99, observations.” ,78181,5769653,659,353,350,604.0694580078125,369.55555534362793,717.1250152587891,8,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,99, observations.” ,78229,5769701,657,352,350,604.0694580078125,369.55555534362793,717.1250152587891,8,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,78282,5769753,663,351,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,99, observations.” ,78332,5769804,704,355,350,604.0694580078125,369.55555534362793,717.1250152587891,8,1,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,78378,5769850,763,360,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,78428,5769900,806,367,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,78479,5769951,880,382,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,78532,5770004,927,397,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,78578,5770050,927,397,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,78628,5770100,927,397,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,78677,5770149,927,397,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,78727,5770199,927,397,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,78780,5770252,927,397,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,78842,5770314,927,397,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,78880,5770352,927,397,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,78928,5770400,927,397,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,78977,5770449,927,397,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,79042,5770514,927,397,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,79077,5770549,927,397,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,79137,5770609,927,397,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,79183,5770655,927,397,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,79230,5770702,927,397,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,79292,5770764,927,397,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,2,int,8,5,37,38,-1,999,79327,5770799,927,397,,,,,,,It is hard and requires a lot of effort,1,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
