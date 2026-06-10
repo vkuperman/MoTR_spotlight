@@ -6,6 +6,20 @@ import {
 /** Wilcox et al. (2024) MoTR raw sampling rate: 20 Hz (50 ms). */
 export const RAW_SAMPLE_INTERVAL_MS = 50;
 
+/** Word-column marker when the cursor is outside text interest areas. */
+export const OUT_OF_BOUNDS_WORD_CODE = '999';
+
+const OUT_OF_BOUNDS_WORD_LEGACY = '114';
+
+export function outOfBoundsWordForIndex(index, word) {
+  const idx = index != null && index !== '' ? Number(index) : null;
+  if (idx != null && Number.isFinite(idx) && idx < 1) return OUT_OF_BOUNDS_WORD_CODE;
+  if (word === OUT_OF_BOUNDS_WORD_LEGACY || word === Number(OUT_OF_BOUNDS_WORD_LEGACY)) {
+    return OUT_OF_BOUNDS_WORD_CODE;
+  }
+  return word;
+}
+
 export function installRawPositionSampling(vm) {
   if (!vm || vm._motrRawSampleIntervalId) return;
   vm._motrRawSampleIntervalId = setInterval(() => saveRawPositionSample(vm), RAW_SAMPLE_INTERVAL_MS);
@@ -69,7 +83,7 @@ export function saveRawPositionSample(vm) {
     ItemId: itemEl.value,
     presentation_order: presentationOrder,
     Index: index,
-    Word: word,
+    Word: outOfBoundsWordForIndex(index, word),
     mousePositionX: Math.round(x),
     mousePositionY: Math.round(y),
     sampleTimeMs: performance.now(),

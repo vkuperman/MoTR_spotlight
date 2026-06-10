@@ -14,6 +14,7 @@ import {
   getOneStopMetadataByItem,
   orderRawTrialColumns,
 } from './oneStopExportFields';
+import { outOfBoundsWordForIndex } from './motrRawSampling';
 
 function generateUniqueAlphanumericId() {
   const chars = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789';
@@ -197,7 +198,7 @@ const INTEREST_AREA_CSV_COLUMNS = columnsWithOneStopAfterCondition([
   'word_index', 'WordIndex', 'word', 'response', 'response_correct', 'line_number', 'position_in_line',
   'click_count', 'skipped',
   'IA_FIRST_RUN_DWELL_TIME', 'IA_DWELL_TIME', 'IA_FIRST_FIXATION_DURATION',
-  'go_past_time_ms', 'Wilcox first pass', 'IA_REGRESSION_IN', 'IA_REGRESSION_OUT',
+  'go_past_time_ms', 'Wilcox go past', 'IA_REGRESSION_IN', 'IA_REGRESSION_OUT',
   'text_total_viewing_time_ms',
   'first_click_x', 'first_click_duration_ms', 'total_duration_ms', 'next_click_regression',
   'first_click_y',
@@ -230,7 +231,7 @@ function buildRawPositionReport(allRows, participantId, expData, sessionTimes) {
       ItemId: val('ItemId'),
       text_presentation_order: row.presentation_order != null && row.presentation_order !== '' ? Number(row.presentation_order) : '',
       WordIndex: row.Index != null && row.Index !== '' ? row.Index : '',
-      Word: val('Word'),
+      Word: outOfBoundsWordForIndex(row.Index, val('Word')),
       responseTime: val('responseTime'),
       sampleTimeMs: row.sampleTimeMs != null && row.sampleTimeMs !== '' ? Math.round(Number(row.sampleTimeMs)) : '',
       mousePositionX: val('mousePositionX'),
@@ -359,7 +360,7 @@ function buildFixationReport(allRows, participantId, expData, sessionTimes) {
     out.ItemId = val('ItemId');
     out.text_presentation_order = row.presentation_order != null && row.presentation_order !== '' ? Number(row.presentation_order) : '';
     out.WordIndex = row.Index != null && row.Index !== '' ? row.Index : '';
-    out.Word = val('Word');
+    out.Word = outOfBoundsWordForIndex(row.Index, val('Word'));
     out.responseTime = val('responseTime');
     out.mousePositionX = val('mousePositionX');
     out.mousePositionY = val('mousePositionY');
@@ -696,7 +697,7 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
         IA_DWELL_TIME: totalDurationMs,
         IA_FIRST_FIXATION_DURATION: firstClickDurationMs,
         go_past_time_ms: goPastTimeMs,
-        'Wilcox first pass': wilcoxFirstPassMs,
+        'Wilcox go past': wilcoxFirstPassMs,
         IA_REGRESSION_IN: regressionIn,
         IA_REGRESSION_OUT: regressionOut,
         text_total_viewing_time_ms: textTotalViewingMs === '' ? '' : String(textTotalViewingMs),
@@ -744,7 +745,7 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
       IA_DWELL_TIME: val('IA_DWELL_TIME'),
       IA_FIRST_FIXATION_DURATION: val('IA_FIRST_FIXATION_DURATION'),
       go_past_time_ms: val('go_past_time_ms'),
-      'Wilcox first pass': val('Wilcox first pass'),
+      'Wilcox go past': val('Wilcox go past'),
       IA_REGRESSION_IN: val('IA_REGRESSION_IN'),
       IA_REGRESSION_OUT: val('IA_REGRESSION_OUT'),
       text_total_viewing_time_ms: val('text_total_viewing_time_ms'),
@@ -818,6 +819,9 @@ function buildRawTrialDataCsv(allRows) {
     const out = {};
     for (const key of orderedColumns) {
       out[key] = row[key];
+    }
+    if (Object.prototype.hasOwnProperty.call(out, 'Word')) {
+      out.Word = outOfBoundsWordForIndex(out.Index, out.Word);
     }
     applyOneStopExportFields(out, row, oneStopByItem);
     return out;
