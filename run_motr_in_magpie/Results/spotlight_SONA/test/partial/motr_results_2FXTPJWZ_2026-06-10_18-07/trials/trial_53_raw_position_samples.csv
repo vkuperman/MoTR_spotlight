@@ -1,0 +1,32 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,333,716456,540,377,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,68, droughts ,384,716507,560,277,271.2734375,488.4453125,291.7734375,563.5,5,4,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,433,716556,584,254,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,483,716606,670,266,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,534,716656,756,353,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,583,716706,756,353,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,633,716756,756,353,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,683,716806,756,353,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,100," solar,” ",733,716856,573,360,351.2734375,563.5234375,371.7734375,617.5546875,7,6,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,784,716907,583,189,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,834,716956,617,132,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,8, energy ,883,717006,674,124,111.2734375,668.9140625,131.7734375,728.953125,1,8,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,934,717057,794,298,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,984,717107,808,364,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,1033,717156,808,364,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,1083,717206,808,364,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,1133,717256,808,364,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,1183,717306,808,364,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,1233,717356,808,364,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,1283,717406,808,364,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,1333,717456,808,364,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,1383,717506,808,364,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,1433,717556,808,364,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,1483,717606,808,364,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,1533,717656,808,364,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,1584,717706,808,364,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,1633,717756,808,364,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,1683,717806,808,364,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,1733,717856,808,364,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,1783,717906,808,364,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,17,5,52,53,-1,999,1833,717956,808,364,,,,,,,Morocco might export energy to Europe,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
