@@ -1,0 +1,27 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,1,ele,23,4,4,5,98, northern ,502,554956,561,358,351.2734375,505.484375,371.7734375,577.53125,7,5,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,552,555006,492,272,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,601,555056,492,272,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,652,555107,492,272,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,702,555156,492,272,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,66, the ,752,555206,492,274,271.2734375,491.4453125,291.7734375,521.46875,5,3,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,802,555256,480,282,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,853,555307,400,292,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,902,555357,323,250,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,951,555406,316,223,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,1002,555456,323,216,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,1052,555507,396,213,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,1102,555557,506,278,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,1153,555607,506,278,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,1202,555656,506,278,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,1253,555707,506,278,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,1302,555756,506,278,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,1351,555805,506,278,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,1401,555856,506,278,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,1451,555906,506,278,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,1502,555956,506,278,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,1551,556006,506,278,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,1601,556056,506,278,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,1651,556106,506,278,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,1702,556157,506,278,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,23,4,4,5,-1,999,1752,556207,506,278,,,,,,,Northern European,1,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
