@@ -1,0 +1,18 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,19,2,39,40,86, wolves’ ,302,672157,485,323,311.2734375,456.453125,331.7734375,519.8203125,6,2,They use cameras mounted on drones,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,2,39,40,-1,999,350,672206,478,246,,,,,,,They use cameras mounted on drones,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,2,39,40,-1,999,400,672256,494,193,,,,,,,They use cameras mounted on drones,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,2,39,40,24, nine ,451,672306,621,154,151.2734375,596.515625,171.7734375,635.5546875,2,8,They use cameras mounted on drones,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,2,39,40,-1,999,501,672356,783,211,,,,,,,They use cameras mounted on drones,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,2,39,40,-1,999,552,672407,849,290,,,,,,,They use cameras mounted on drones,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,2,39,40,-1,999,602,672457,856,430,,,,,,,They use cameras mounted on drones,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,2,39,40,-1,999,651,672506,856,430,,,,,,,They use cameras mounted on drones,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,2,39,40,-1,999,700,672556,856,430,,,,,,,They use cameras mounted on drones,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,2,39,40,-1,999,750,672606,856,430,,,,,,,They use cameras mounted on drones,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,2,39,40,-1,999,800,672656,856,430,,,,,,,They use cameras mounted on drones,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,2,39,40,-1,999,851,672706,856,430,,,,,,,They use cameras mounted on drones,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,2,39,40,-1,999,900,672756,856,430,,,,,,,They use cameras mounted on drones,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,2,39,40,-1,999,950,672806,856,430,,,,,,,They use cameras mounted on drones,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,2,39,40,-1,999,1002,672857,856,430,,,,,,,They use cameras mounted on drones,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,2,39,40,-1,999,1050,672905,856,430,,,,,,,They use cameras mounted on drones,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,2,39,40,-1,999,1102,672957,856,430,,,,,,,They use cameras mounted on drones,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
