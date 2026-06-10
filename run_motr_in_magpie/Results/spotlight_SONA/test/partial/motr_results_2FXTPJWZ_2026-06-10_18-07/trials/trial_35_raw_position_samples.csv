@@ -1,0 +1,21 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,30,2,34,35,130, which ,468,655907,667,434,431.2734375,646.5390625,451.7734375,697.5625,9,7,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,2,34,35,-1,999,517,655956,666,356,,,,,,,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,2,34,35,-1,999,568,656007,677,295,,,,,,,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,2,34,35,66, they’re ,617,656056,690,278,271.2734375,646.609375,291.7734375,705.640625,5,6,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,2,34,35,-1,999,668,656107,705,264,,,,,,,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,2,34,35,67, going ,718,656157,748,285,271.2734375,705.640625,291.7734375,754.6875,5,7,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,2,34,35,-1,999,768,656207,793,355,,,,,,,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,2,34,35,-1,999,818,656257,827,507,,,,,,,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,2,34,35,-1,999,867,656306,827,507,,,,,,,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,2,34,35,-1,999,917,656355,827,507,,,,,,,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,2,34,35,-1,999,967,656405,827,507,,,,,,,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,2,34,35,-1,999,1017,656456,827,507,,,,,,,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,2,34,35,-1,999,1067,656506,827,507,,,,,,,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,2,34,35,-1,999,1117,656556,827,507,,,,,,,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,2,34,35,-1,999,1167,656606,827,507,,,,,,,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,2,34,35,-1,999,1218,656657,827,507,,,,,,,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,2,34,35,-1,999,1268,656706,827,507,,,,,,,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,2,34,35,-1,999,1317,656756,827,507,,,,,,,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,2,34,35,-1,999,1368,656807,827,507,,,,,,,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,30,2,34,35,-1,999,1418,656857,827,507,,,,,,,He thinks that it is possible to resolve these problems,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
