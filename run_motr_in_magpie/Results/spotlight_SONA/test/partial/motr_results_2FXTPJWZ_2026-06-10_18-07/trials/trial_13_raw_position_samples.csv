@@ -1,0 +1,16 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,1,ele,27,2,12,13,-1,999,368,581356,483,231,,,,,,,Occupy Wall Street,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,2,12,13,23," are,” ",418,581406,538,167,151.2734375,516.4609375,171.7734375,558.4765625,2,4,Occupy Wall Street,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,2,12,13,-1,999,468,581456,624,156,,,,,,,Occupy Wall Street,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,2,12,13,-1,999,518,581506,787,263,,,,,,,Occupy Wall Street,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,2,12,13,-1,999,568,581557,816,320,,,,,,,Occupy Wall Street,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,2,12,13,-1,999,617,581606,816,320,,,,,,,Occupy Wall Street,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,2,12,13,-1,999,667,581656,816,320,,,,,,,Occupy Wall Street,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,2,12,13,-1,999,718,581706,816,320,,,,,,,Occupy Wall Street,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,2,12,13,-1,999,768,581757,816,320,,,,,,,Occupy Wall Street,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,2,12,13,-1,999,818,581806,816,320,,,,,,,Occupy Wall Street,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,2,12,13,-1,999,868,581857,816,320,,,,,,,Occupy Wall Street,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,2,12,13,-1,999,918,581907,816,320,,,,,,,Occupy Wall Street,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,2,12,13,-1,999,968,581956,816,320,,,,,,,Occupy Wall Street,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,2,12,13,-1,999,1019,582007,816,320,,,,,,,Occupy Wall Street,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,2,12,13,-1,999,1068,582057,816,320,,,,,,,Occupy Wall Street,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
