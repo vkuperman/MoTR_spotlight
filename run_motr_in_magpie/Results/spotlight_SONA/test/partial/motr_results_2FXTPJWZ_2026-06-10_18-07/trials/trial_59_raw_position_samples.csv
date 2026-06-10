@@ -1,0 +1,17 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,24,6,58,59,-1,999,350,736656,345,301,,,,,,,It is one of the richest islands in Greece,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,6,58,59,-1,999,400,736706,392,205,,,,,,,It is one of the richest islands in Greece,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,6,58,59,-1,999,451,736757,535,91,,,,,,,It is one of the richest islands in Greece,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,6,58,59,-1,999,501,736807,688,135,,,,,,,It is one of the richest islands in Greece,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,6,58,59,91," Mayor, ",551,736857,792,315,311.2734375,755.25,331.7734375,814.28125,6,10,It is one of the richest islands in Greece,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,6,58,59,-1,999,601,736906,800,395,,,,,,,It is one of the richest islands in Greece,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,6,58,59,-1,999,650,736956,800,395,,,,,,,It is one of the richest islands in Greece,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,6,58,59,-1,999,700,737006,800,395,,,,,,,It is one of the richest islands in Greece,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,6,58,59,-1,999,750,737056,800,395,,,,,,,It is one of the richest islands in Greece,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,6,58,59,-1,999,800,737106,800,395,,,,,,,It is one of the richest islands in Greece,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,6,58,59,-1,999,850,737156,800,395,,,,,,,It is one of the richest islands in Greece,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,6,58,59,-1,999,901,737207,800,395,,,,,,,It is one of the richest islands in Greece,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,6,58,59,-1,999,950,737256,800,395,,,,,,,It is one of the richest islands in Greece,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,6,58,59,-1,999,1000,737306,800,395,,,,,,,It is one of the richest islands in Greece,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,6,58,59,-1,999,1050,737356,800,395,,,,,,,It is one of the richest islands in Greece,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,6,58,59,-1,999,1100,737406,800,395,,,,,,,It is one of the richest islands in Greece,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
