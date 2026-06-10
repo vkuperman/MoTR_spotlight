@@ -90,9 +90,10 @@
             <input v-if="trial.onestop_article_selection_mode" type="hidden" class="onestop_article_selection_mode" :value="trial.onestop_article_selection_mode">
             <input v-if="trial.onestop_manual_article_numbers" type="hidden" class="onestop_manual_article_numbers" :value="trial.onestop_manual_article_numbers">
           </form>
+          <div class="oval-cursor"></div>
           <div class="trial-slide-layout">
             <div class="trial-text-region">
-              <div class="oval-cursor"></div>
+              <div class="text-height-spacer" aria-hidden="true">{{ trial.text }}</div>
               <div v-if="showFirstDiv" class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
                 <template v-for="(word, index) of trial.text.split(' ')">
                   <span :key="index" :data-index="index + 1">
@@ -767,6 +768,7 @@ export default {
     align-items: stretch;
   }
   .main_screen {
+    isolation: isolate;
     position: relative;
     width: 100%;
     height: auto;
@@ -788,7 +790,19 @@ export default {
     flex: 0 0 auto;
     width: 100%;
     background-color: #fff;
-    isolation: isolate;
+  }
+  .text-height-spacer {
+    visibility: hidden;
+    pointer-events: none;
+    color: black;
+    text-align: left;
+    font-weight: 450;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 11%;
+    padding-right: 11%;
+    width: 100%;
+    box-sizing: border-box;
   }
   .trial-actions {
     flex: 0 0 auto;
@@ -873,7 +887,10 @@ export default {
     border-radius: 50%;
 }
   .blurry-layer {
-    position: relative;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
     pointer-events: none;
     color: black;
     text-align: left;
