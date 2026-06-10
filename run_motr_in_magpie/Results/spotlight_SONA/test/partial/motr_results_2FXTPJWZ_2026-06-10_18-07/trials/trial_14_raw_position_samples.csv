@@ -1,0 +1,19 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,1,ele,27,3,13,14,36, rich ,419,583906,602,199,191.2734375,585.5,211.7734375,619.5078125,3,6,They say wealthy people shame the media,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,3,13,14,25, Jamie ,469,583956,702,156,151.2734375,675.5859375,171.7734375,728.4453125,2,9,They say wealthy people shame the media,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,3,13,14,-1,999,519,584007,815,214,,,,,,,They say wealthy people shame the media,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,3,13,14,-1,999,569,584056,839,316,,,,,,,They say wealthy people shame the media,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,3,13,14,-1,999,618,584106,839,316,,,,,,,They say wealthy people shame the media,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,3,13,14,-1,999,668,584156,839,316,,,,,,,They say wealthy people shame the media,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,3,13,14,-1,999,719,584206,839,316,,,,,,,They say wealthy people shame the media,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,3,13,14,-1,999,769,584257,839,316,,,,,,,They say wealthy people shame the media,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,3,13,14,-1,999,820,584307,839,316,,,,,,,They say wealthy people shame the media,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,3,13,14,-1,999,869,584356,839,316,,,,,,,They say wealthy people shame the media,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,3,13,14,-1,999,919,584406,839,316,,,,,,,They say wealthy people shame the media,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,3,13,14,-1,999,968,584456,839,316,,,,,,,They say wealthy people shame the media,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,3,13,14,-1,999,1018,584505,839,316,,,,,,,They say wealthy people shame the media,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,3,13,14,-1,999,1069,584556,839,316,,,,,,,They say wealthy people shame the media,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,3,13,14,-1,999,1120,584607,839,316,,,,,,,They say wealthy people shame the media,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,3,13,14,-1,999,1169,584656,839,316,,,,,,,They say wealthy people shame the media,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,3,13,14,-1,999,1220,584707,839,316,,,,,,,They say wealthy people shame the media,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,27,3,13,14,-1,999,1269,584756,839,316,,,,,,,They say wealthy people shame the media,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
