@@ -1,0 +1,833 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+64FUZCW2,,3,adv,2,3,3,4,-1,999,1511,1401631,713,298,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,1534,1401655,713,298,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,1585,1401706,713,298,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,1628,1401749,713,298,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,1679,1401800,713,298,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,1740,1401861,713,298,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,1787,1401908,713,298,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,1829,1401949,713,298,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,1879,1401999,713,298,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,1928,1402049,713,298,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,1991,1402112,713,298,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2029,1402150,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2080,1402201,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2130,1402251,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2179,1402300,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2239,1402360,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2286,1402407,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2332,1402453,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2379,1402500,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2442,1402563,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2488,1402609,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2534,1402655,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2581,1402702,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2629,1402750,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2691,1402812,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2738,1402859,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2779,1402900,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2832,1402953,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2878,1402999,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2929,1403050,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,2979,1403100,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3028,1403149,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3079,1403200,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3129,1403250,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3179,1403300,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3237,1403358,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3284,1403405,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3330,1403451,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3393,1403514,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3440,1403561,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3479,1403600,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3530,1403651,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3579,1403700,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3642,1403763,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3681,1403802,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3732,1403853,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3781,1403902,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3832,1403953,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3882,1404003,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3931,1404052,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,3982,1404103,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,4030,1404151,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,4093,1404214,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,4140,1404261,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,4186,1404307,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,4233,1404354,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,4280,1404401,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,4341,1404462,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,4388,1404509,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,4434,1404555,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,4481,1404602,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,4543,1404664,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,4590,1404711,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,4637,1404758,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,4685,1404806,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,4731,1404852,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,4778,1404899,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,4840,1404961,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,4878,1405000,726,316,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,64, by ,4930,1405050,727,275,272.22918701171875,721.375,292.22918701171875,745.3958339691162,5,7,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,4979,1405100,759,127,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,5028,1405149,759,127,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,5078,1405199,759,127,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,5130,1405251,759,127,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,5179,1405300,769,116,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,5229,1405350,744,215,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,5279,1405400,736,245,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,64, by ,5329,1405450,726,288,272.22918701171875,721.375,292.22918701171875,745.3958339691162,5,7,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,5379,1405500,722,311,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,5430,1405551,721,321,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,5479,1405600,721,321,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,5528,1405649,721,321,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,5581,1405702,721,321,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,5633,1405754,721,321,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,5679,1405800,721,321,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,5729,1405850,721,321,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,63, supported ,5780,1405901,710,284,272.22918701171875,636.3125,292.22918701171875,721.375,5,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,48," ruled, ",5829,1405950,710,238,232.2291717529297,696.28125,252.2291717529297,746.3125,4,7,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,34, is ,5879,1406000,710,205,192.2291717529297,698.34375,212.2291717529297,716.34375,3,7,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,5928,1406049,711,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,5979,1406100,713,180,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,21, changes ,6028,1406149,720,168,152.2291717529297,696.25,172.2291717529297,769.3125,2,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,21, changes ,6086,1406207,720,168,152.2291717529297,696.25,172.2291717529297,769.3125,2,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,21, changes ,6129,1406250,720,168,152.2291717529297,696.25,172.2291717529297,769.3125,2,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,21, changes ,6180,1406301,720,168,152.2291717529297,696.25,172.2291717529297,769.3125,2,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,21, changes ,6241,1406362,720,168,152.2291717529297,696.25,172.2291717529297,769.3125,2,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,21, changes ,6280,1406401,720,168,152.2291717529297,696.25,172.2291717529297,769.3125,2,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,18, Marston. ,6330,1406451,608,166,152.2291717529297,541.1771240234375,172.2291717529297,616.2083740234375,2,3,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,6379,1406500,531,162,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,6430,1406551,473,146,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,6480,1406601,464,145,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,6530,1406650,457,145,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,6580,1406701,451,144,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,6628,1406749,444,142,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,6680,1406801,437,138,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,6730,1406851,431,133,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,2, polygraph ,6779,1406900,425,128,112.22917175292969,410.13543701171875,132.2291717529297,494.19793701171875,1,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,2, polygraph ,6829,1406950,423,126,112.22917175292969,410.13543701171875,132.2291717529297,494.19793701171875,1,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,2, polygraph ,6880,1407001,422,124,112.22917175292969,410.13543701171875,132.2291717529297,494.19793701171875,1,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,2, polygraph ,6930,1407051,422,122,112.22917175292969,410.13543701171875,132.2291717529297,494.19793701171875,1,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,2, polygraph ,6979,1407100,422,121,112.22917175292969,410.13543701171875,132.2291717529297,494.19793701171875,1,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,2, polygraph ,7030,1407151,422,120,112.22917175292969,410.13543701171875,132.2291717529297,494.19793701171875,1,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,2, polygraph ,7082,1407203,422,119,112.22917175292969,410.13543701171875,132.2291717529297,494.19793701171875,1,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,2, polygraph ,7129,1407250,422,119,112.22917175292969,410.13543701171875,132.2291717529297,494.19793701171875,1,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,2, polygraph ,7191,1407312,422,119,112.22917175292969,410.13543701171875,132.2291717529297,494.19793701171875,1,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,2, polygraph ,7238,1407359,422,119,112.22917175292969,410.13543701171875,132.2291717529297,494.19793701171875,1,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,2, polygraph ,7284,1407405,422,119,112.22917175292969,410.13543701171875,132.2291717529297,494.19793701171875,1,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,2, polygraph ,7331,1407452,423,118,112.22917175292969,410.13543701171875,132.2291717529297,494.19793701171875,1,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,2, polygraph ,7380,1407501,424,117,112.22917175292969,410.13543701171875,132.2291717529297,494.19793701171875,1,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,2, polygraph ,7429,1407550,425,117,112.22917175292969,410.13543701171875,132.2291717529297,494.19793701171875,1,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,2, polygraph ,7481,1407602,427,117,112.22917175292969,410.13543701171875,132.2291717529297,494.19793701171875,1,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,2, polygraph ,7529,1407650,441,121,112.22917175292969,410.13543701171875,132.2291717529297,494.19793701171875,1,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,7580,1407701,476,138,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,7628,1407749,491,145,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,7679,1407800,496,146,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,7730,1407851,497,145,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,7780,1407901,499,144,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,7828,1407949,500,143,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,7881,1408002,504,139,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,7931,1408052,516,132,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,3, was ,7980,1408101,525,126,112.22917175292969,494.19793701171875,132.2291717529297,531.2187728881836,1,3,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,3, was ,8029,1408150,531,124,112.22917175292969,494.19793701171875,132.2291717529297,531.2187728881836,1,3,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,4, created ,8080,1408201,536,122,112.22917175292969,531.21875,132.2291717529297,596.2604217529297,1,4,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,4, created ,8129,1408250,540,122,112.22917175292969,531.21875,132.2291717529297,596.2604217529297,1,4,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,4, created ,8178,1408299,544,122,112.22917175292969,531.21875,132.2291717529297,596.2604217529297,1,4,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,4, created ,8229,1408350,545,122,112.22917175292969,531.21875,132.2291717529297,596.2604217529297,1,4,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,4, created ,8279,1408400,547,122,112.22917175292969,531.21875,132.2291717529297,596.2604217529297,1,4,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,4, created ,8328,1408449,548,122,112.22917175292969,531.21875,132.2291717529297,596.2604217529297,1,4,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,4, created ,8380,1408500,550,122,112.22917175292969,531.21875,132.2291717529297,596.2604217529297,1,4,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,4, created ,8429,1408550,558,125,112.22917175292969,531.21875,132.2291717529297,596.2604217529297,1,4,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,8482,1408603,579,133,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,8532,1408653,597,136,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,8582,1408703,610,137,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,8630,1408752,616,136,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,8680,1408801,626,134,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,8729,1408850,630,133,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,8780,1408901,633,132,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,8830,1408951,635,131,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,8885,1409006,635,131,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,8930,1409051,635,131,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,8993,1409114,635,131,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,9039,1409160,635,131,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,9086,1409207,635,131,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,9133,1409254,635,131,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,6, 1921 ,9179,1409300,639,128,112.22917175292969,615.28125,132.2291717529297,660.3333358764648,1,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,6, 1921 ,9229,1409350,645,125,112.22917175292969,615.28125,132.2291717529297,660.3333358764648,1,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,6, 1921 ,9279,1409400,649,122,112.22917175292969,615.28125,132.2291717529297,660.3333358764648,1,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,6, 1921 ,9329,1409450,651,122,112.22917175292969,615.28125,132.2291717529297,660.3333358764648,1,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,6, 1921 ,9379,1409500,653,121,112.22917175292969,615.28125,132.2291717529297,660.3333358764648,1,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,6, 1921 ,9429,1409550,655,121,112.22917175292969,615.28125,132.2291717529297,660.3333358764648,1,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,6, 1921 ,9494,1409615,655,121,112.22917175292969,615.28125,132.2291717529297,660.3333358764648,1,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,6, 1921 ,9529,1409650,656,121,112.22917175292969,615.28125,132.2291717529297,660.3333358764648,1,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,6, 1921 ,9579,1409700,658,121,112.22917175292969,615.28125,132.2291717529297,660.3333358764648,1,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,7, by ,9628,1409749,663,121,112.22917175292969,660.3333740234375,132.2291717529297,684.3542079925537,1,7,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,7, by ,9680,1409801,675,121,112.22917175292969,660.3333740234375,132.2291717529297,684.3542079925537,1,7,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,7, by ,9730,1409851,684,121,112.22917175292969,660.3333740234375,132.2291717529297,684.3542079925537,1,7,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,9780,1409901,691,121,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,9829,1409950,697,121,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,9880,1410001,702,121,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,9930,1410051,706,121,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,9992,1410113,707,121,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,10039,1410160,707,121,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,10086,1410207,707,121,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,10133,1410254,707,121,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,10180,1410301,707,121,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,10241,1410362,707,121,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,10288,1410409,707,121,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,10332,1410453,713,121,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,10380,1410501,721,122,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,10430,1410551,729,124,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,10479,1410600,736,127,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,10529,1410650,743,129,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,10579,1410700,750,129,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,10629,1410750,757,129,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,8, policeman ,10681,1410802,769,127,112.22917175292969,684.3541870117188,132.2291717529297,771.4062728881836,1,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,9, John ,10729,1410850,775,125,112.22917175292969,771.40625,132.2291717529297,815.4479179382324,1,9,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,9, John ,10778,1410899,781,124,112.22917175292969,771.40625,132.2291717529297,815.4479179382324,1,9,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,9, John ,10828,1410949,786,123,112.22917175292969,771.40625,132.2291717529297,815.4479179382324,1,9,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,9, John ,10879,1411000,792,122,112.22917175292969,771.40625,132.2291717529297,815.4479179382324,1,9,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,9, John ,10929,1411050,795,121,112.22917175292969,771.40625,132.2291717529297,815.4479179382324,1,9,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,9, John ,10979,1411100,798,121,112.22917175292969,771.40625,132.2291717529297,815.4479179382324,1,9,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,9, John ,11030,1411151,798,121,112.22917175292969,771.40625,132.2291717529297,815.4479179382324,1,9,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,9, John ,11083,1411204,798,121,112.22917175292969,771.40625,132.2291717529297,815.4479179382324,1,9,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,9, John ,11130,1411251,798,121,112.22917175292969,771.40625,132.2291717529297,815.4479179382324,1,9,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,9, John ,11192,1411313,798,121,112.22917175292969,771.40625,132.2291717529297,815.4479179382324,1,9,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,9, John ,11239,1411360,798,121,112.22917175292969,771.40625,132.2291717529297,815.4479179382324,1,9,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,9, John ,11286,1411407,798,121,112.22917175292969,771.40625,132.2291717529297,815.4479179382324,1,9,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,9, John ,11331,1411452,808,119,112.22917175292969,771.40625,132.2291717529297,815.4479179382324,1,9,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,10," Larson, ",11379,1411500,822,117,112.22917175292969,815.4479370117188,132.2291717529297,880.4896087646484,1,10,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,10," Larson, ",11429,1411550,839,116,112.22917175292969,815.4479370117188,132.2291717529297,880.4896087646484,1,10,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,10," Larson, ",11478,1411599,855,117,112.22917175292969,815.4479370117188,132.2291717529297,880.4896087646484,1,10,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,10," Larson, ",11528,1411649,867,117,112.22917175292969,815.4479370117188,132.2291717529297,880.4896087646484,1,10,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,10," Larson, ",11579,1411700,878,118,112.22917175292969,815.4479370117188,132.2291717529297,880.4896087646484,1,10,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,11, based ,11629,1411750,887,119,112.22917175292969,880.4896240234375,132.2291717529297,934.5417098999023,1,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,11, based ,11679,1411800,892,119,112.22917175292969,880.4896240234375,132.2291717529297,934.5417098999023,1,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,11, based ,11730,1411851,897,119,112.22917175292969,880.4896240234375,132.2291717529297,934.5417098999023,1,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,11, based ,11779,1411900,902,119,112.22917175292969,880.4896240234375,132.2291717529297,934.5417098999023,1,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,11, based ,11829,1411950,906,119,112.22917175292969,880.4896240234375,132.2291717529297,934.5417098999023,1,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,11, based ,11880,1412001,910,119,112.22917175292969,880.4896240234375,132.2291717529297,934.5417098999023,1,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,11, based ,11929,1412050,913,119,112.22917175292969,880.4896240234375,132.2291717529297,934.5417098999023,1,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,11, based ,11979,1412100,918,119,112.22917175292969,880.4896240234375,132.2291717529297,934.5417098999023,1,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,11, based ,12028,1412149,921,119,112.22917175292969,880.4896240234375,132.2291717529297,934.5417098999023,1,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,11, based ,12079,1412200,925,120,112.22917175292969,880.4896240234375,132.2291717529297,934.5417098999023,1,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,11, based ,12129,1412250,931,121,112.22917175292969,880.4896240234375,132.2291717529297,934.5417098999023,1,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,12, on ,12179,1412300,938,122,112.22917175292969,934.5416870117188,132.2291717529297,959.5729370117188,1,12,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,12, on ,12229,1412350,944,122,112.22917175292969,934.5416870117188,132.2291717529297,959.5729370117188,1,12,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,12, on ,12278,1412399,950,122,112.22917175292969,934.5416870117188,132.2291717529297,959.5729370117188,1,12,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,12, on ,12328,1412449,955,122,112.22917175292969,934.5416870117188,132.2291717529297,959.5729370117188,1,12,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,13, research ,12380,1412501,960,123,112.22917175292969,959.5729370117188,132.2291717529297,1034.6146087646484,1,13,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,13, research ,12429,1412550,964,123,112.22917175292969,959.5729370117188,132.2291717529297,1034.6146087646484,1,13,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,13, research ,12479,1412600,967,124,112.22917175292969,959.5729370117188,132.2291717529297,1034.6146087646484,1,13,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,13, research ,12530,1412651,969,125,112.22917175292969,959.5729370117188,132.2291717529297,1034.6146087646484,1,13,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,13, research ,12579,1412700,973,126,112.22917175292969,959.5729370117188,132.2291717529297,1034.6146087646484,1,13,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,13, research ,12629,1412750,977,127,112.22917175292969,959.5729370117188,132.2291717529297,1034.6146087646484,1,13,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,13, research ,12678,1412799,984,128,112.22917175292969,959.5729370117188,132.2291717529297,1034.6146087646484,1,13,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,13, research ,12729,1412850,990,128,112.22917175292969,959.5729370117188,132.2291717529297,1034.6146087646484,1,13,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,13, research ,12779,1412900,994,129,112.22917175292969,959.5729370117188,132.2291717529297,1034.6146087646484,1,13,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,13, research ,12829,1412950,997,129,112.22917175292969,959.5729370117188,132.2291717529297,1034.6146087646484,1,13,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,13, research ,12879,1412999,998,129,112.22917175292969,959.5729370117188,132.2291717529297,1034.6146087646484,1,13,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,13, research ,12929,1413050,999,129,112.22917175292969,959.5729370117188,132.2291717529297,1034.6146087646484,1,13,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,13, research ,12981,1413102,999,129,112.22917175292969,959.5729370117188,132.2291717529297,1034.6146087646484,1,13,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,13, research ,13028,1413149,993,129,112.22917175292969,959.5729370117188,132.2291717529297,1034.6146087646484,1,13,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,13081,1413202,859,132,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,13128,1413249,729,138,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,13180,1413301,611,138,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,13229,1413350,556,131,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,4, created ,13278,1413399,532,128,112.22917175292969,531.21875,132.2291717529297,596.2604217529297,1,4,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,13330,1413451,511,134,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,13380,1413501,495,138,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,13429,1413550,487,140,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,13479,1413600,482,142,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,13529,1413649,481,142,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,13592,1413713,481,142,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,13639,1413760,481,142,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,13685,1413806,481,142,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,13729,1413850,481,142,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,13779,1413900,468,148,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,13830,1413951,451,152,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,16, psychologist ,13880,1414001,437,155,152.2291717529297,374.1145935058594,172.2291717529297,478.1770935058594,2,1,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,16, psychologist ,13928,1414049,429,159,152.2291717529297,374.1145935058594,172.2291717529297,478.1770935058594,2,1,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,16, psychologist ,13978,1414099,425,162,152.2291717529297,374.1145935058594,172.2291717529297,478.1770935058594,2,1,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,16, psychologist ,14029,1414150,422,165,152.2291717529297,374.1145935058594,172.2291717529297,478.1770935058594,2,1,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,16, psychologist ,14079,1414200,419,169,152.2291717529297,374.1145935058594,172.2291717529297,478.1770935058594,2,1,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,14129,1414250,417,171,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,14179,1414300,415,174,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,14230,1414351,415,175,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,14279,1414400,415,175,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,14328,1414449,415,175,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,14379,1414499,416,175,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,14430,1414551,418,173,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,14480,1414601,422,171,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,16, psychologist ,14529,1414650,431,168,152.2291717529297,374.1145935058594,172.2291717529297,478.1770935058594,2,1,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,16, psychologist ,14579,1414700,438,165,152.2291717529297,374.1145935058594,172.2291717529297,478.1770935058594,2,1,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,16, psychologist ,14628,1414749,442,163,152.2291717529297,374.1145935058594,172.2291717529297,478.1770935058594,2,1,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,16, psychologist ,14679,1414800,446,162,152.2291717529297,374.1145935058594,172.2291717529297,478.1770935058594,2,1,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,16, psychologist ,14729,1414850,449,162,152.2291717529297,374.1145935058594,172.2291717529297,478.1770935058594,2,1,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,16, psychologist ,14778,1414899,453,162,152.2291717529297,374.1145935058594,172.2291717529297,478.1770935058594,2,1,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,16, psychologist ,14830,1414951,456,162,152.2291717529297,374.1145935058594,172.2291717529297,478.1770935058594,2,1,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,16, psychologist ,14880,1415001,460,162,152.2291717529297,374.1145935058594,172.2291717529297,478.1770935058594,2,1,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,16, psychologist ,14928,1415049,465,163,152.2291717529297,374.1145935058594,172.2291717529297,478.1770935058594,2,1,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,16, psychologist ,14978,1415099,469,163,152.2291717529297,374.1145935058594,172.2291717529297,478.1770935058594,2,1,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,16, psychologist ,15029,1415150,472,163,152.2291717529297,374.1145935058594,172.2291717529297,478.1770935058594,2,1,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,16, psychologist ,15078,1415199,474,164,152.2291717529297,374.1145935058594,172.2291717529297,478.1770935058594,2,1,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,16, psychologist ,15129,1415250,477,165,152.2291717529297,374.1145935058594,172.2291717529297,478.1770935058594,2,1,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,17, William ,15180,1415301,480,165,152.2291717529297,478.1770935058594,172.2291717529297,541.1770935058594,2,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,17, William ,15228,1415349,483,166,152.2291717529297,478.1770935058594,172.2291717529297,541.1770935058594,2,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,17, William ,15279,1415400,486,166,152.2291717529297,478.1770935058594,172.2291717529297,541.1770935058594,2,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,17, William ,15330,1415451,489,166,152.2291717529297,478.1770935058594,172.2291717529297,541.1770935058594,2,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,17, William ,15379,1415500,493,166,152.2291717529297,478.1770935058594,172.2291717529297,541.1770935058594,2,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,17, William ,15429,1415550,497,166,152.2291717529297,478.1770935058594,172.2291717529297,541.1770935058594,2,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,17, William ,15478,1415599,509,167,152.2291717529297,478.1770935058594,172.2291717529297,541.1770935058594,2,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,17, William ,15529,1415650,527,167,152.2291717529297,478.1770935058594,172.2291717529297,541.1770935058594,2,2,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,18, Marston. ,15579,1415700,560,165,152.2291717529297,541.1771240234375,172.2291717529297,616.2083740234375,2,3,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,18, Marston. ,15628,1415749,581,163,152.2291717529297,541.1771240234375,172.2291717529297,616.2083740234375,2,3,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,18, Marston. ,15679,1415800,603,160,152.2291717529297,541.1771240234375,172.2291717529297,616.2083740234375,2,3,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,18, Marston. ,15729,1415850,615,159,152.2291717529297,541.1771240234375,172.2291717529297,616.2083740234375,2,3,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,19, It ,15778,1415899,625,159,152.2291717529297,616.2083740234375,172.2291717529297,631.2187910079956,2,4,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,19, It ,15829,1415950,631,159,152.2291717529297,616.2083740234375,172.2291717529297,631.2187910079956,2,4,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,15879,1416000,637,159,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,15928,1416049,643,159,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,15978,1416099,647,160,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16029,1416150,651,160,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16079,1416200,656,160,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16128,1416249,661,160,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16179,1416300,667,160,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16229,1416350,671,160,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16279,1416399,674,160,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16340,1416461,675,160,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16386,1416507,675,160,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16434,1416555,675,159,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16481,1416602,675,159,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16543,1416664,675,159,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16589,1416709,675,159,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16637,1416758,675,159,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16685,1416806,675,159,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16729,1416850,675,159,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16782,1416903,672,159,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16832,1416953,666,157,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16879,1417000,660,157,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16930,1417051,654,158,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,16979,1417100,649,159,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,17030,1417151,646,159,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,17090,1417211,645,159,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,17139,1417260,645,159,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,17185,1417306,645,159,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,17231,1417352,645,159,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,17280,1417401,643,160,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,17331,1417452,637,162,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,19, It ,17379,1417500,624,164,152.2291717529297,616.2083740234375,172.2291717529297,631.2187910079956,2,4,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,19, It ,17429,1417550,617,164,152.2291717529297,616.2083740234375,172.2291717529297,631.2187910079956,2,4,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,18, Marston. ,17479,1417600,613,164,152.2291717529297,541.1771240234375,172.2291717529297,616.2083740234375,2,3,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,18, Marston. ,17543,1417664,612,163,152.2291717529297,541.1771240234375,172.2291717529297,616.2083740234375,2,3,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,18, Marston. ,17590,1417711,611,163,152.2291717529297,541.1771240234375,172.2291717529297,616.2083740234375,2,3,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,18, Marston. ,17637,1417758,612,163,152.2291717529297,541.1771240234375,172.2291717529297,616.2083740234375,2,3,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,18, Marston. ,17680,1417800,616,162,152.2291717529297,541.1771240234375,172.2291717529297,616.2083740234375,2,3,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,19, It ,17729,1417850,622,162,152.2291717529297,616.2083740234375,172.2291717529297,631.2187910079956,2,4,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,17780,1417901,633,161,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,17829,1417950,647,160,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,17879,1418000,663,160,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,20, records ,17929,1418050,684,159,152.2291717529297,631.21875,172.2291717529297,696.25,2,5,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,21, changes ,17979,1418100,703,159,152.2291717529297,696.25,172.2291717529297,769.3125,2,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,21, changes ,18029,1418150,721,159,152.2291717529297,696.25,172.2291717529297,769.3125,2,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,21, changes ,18079,1418200,739,160,152.2291717529297,696.25,172.2291717529297,769.3125,2,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,21, changes ,18130,1418251,757,161,152.2291717529297,696.25,172.2291717529297,769.3125,2,6,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,22, in ,18179,1418300,771,161,152.2291717529297,769.3125,172.2291717529297,788.3333339691162,2,7,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,22, in ,18229,1418350,780,160,152.2291717529297,769.3125,172.2291717529297,788.3333339691162,2,7,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,22, in ,18280,1418401,788,160,152.2291717529297,769.3125,172.2291717529297,788.3333339691162,2,7,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,22, in ,18343,1418464,788,160,152.2291717529297,769.3125,172.2291717529297,788.3333339691162,2,7,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,22, in ,18390,1418511,788,160,152.2291717529297,769.3125,172.2291717529297,788.3333339691162,2,7,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,22, in ,18437,1418558,788,160,152.2291717529297,769.3125,172.2291717529297,788.3333339691162,2,7,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,22, in ,18484,1418605,788,160,152.2291717529297,769.3125,172.2291717529297,788.3333339691162,2,7,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,22, in ,18530,1418651,788,160,152.2291717529297,769.3125,172.2291717529297,788.3333339691162,2,7,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,22, in ,18593,1418714,788,160,152.2291717529297,769.3125,172.2291717529297,788.3333339691162,2,7,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,22, in ,18639,1418760,788,160,152.2291717529297,769.3125,172.2291717529297,788.3333339691162,2,7,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",18680,1418801,798,160,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",18730,1418851,826,162,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,24, blood ,18779,1418900,851,162,152.2291717529297,841.375,172.2291717529297,890.4270858764648,2,9,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,24, blood ,18830,1418950,864,162,152.2291717529297,841.375,172.2291717529297,890.4270858764648,2,9,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,24, blood ,18879,1419000,873,161,152.2291717529297,841.375,172.2291717529297,890.4270858764648,2,9,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,24, blood ,18929,1419050,883,159,152.2291717529297,841.375,172.2291717529297,890.4270858764648,2,9,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,25," pressure, ",18979,1419099,900,156,152.2291717529297,890.4271240234375,172.2291717529297,970.4687957763672,2,10,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,25," pressure, ",19029,1419150,918,154,152.2291717529297,890.4271240234375,172.2291717529297,970.4687957763672,2,10,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,25," pressure, ",19080,1419201,927,154,152.2291717529297,890.4271240234375,172.2291717529297,970.4687957763672,2,10,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,19131,1419252,934,153,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,19179,1419300,943,153,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,25," pressure, ",19230,1419351,965,154,152.2291717529297,890.4271240234375,172.2291717529297,970.4687957763672,2,10,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,26, sweating ,19279,1419400,987,157,152.2291717529297,970.46875,172.2291717529297,1046.5208358764648,2,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,26, sweating ,19337,1419458,989,158,152.2291717529297,970.46875,172.2291717529297,1046.5208358764648,2,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,26, sweating ,19383,1419504,989,158,152.2291717529297,970.46875,172.2291717529297,1046.5208358764648,2,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,26, sweating ,19430,1419551,989,158,152.2291717529297,970.46875,172.2291717529297,1046.5208358764648,2,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,26, sweating ,19493,1419614,989,158,152.2291717529297,970.46875,172.2291717529297,1046.5208358764648,2,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,26, sweating ,19538,1419659,989,158,152.2291717529297,970.46875,172.2291717529297,1046.5208358764648,2,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,26, sweating ,19586,1419707,989,158,152.2291717529297,970.46875,172.2291717529297,1046.5208358764648,2,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,26, sweating ,19631,1419752,989,158,152.2291717529297,970.46875,172.2291717529297,1046.5208358764648,2,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,26, sweating ,19679,1419800,989,158,152.2291717529297,970.46875,172.2291717529297,1046.5208358764648,2,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,26, sweating ,19740,1419861,989,158,152.2291717529297,970.46875,172.2291717529297,1046.5208358764648,2,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,26, sweating ,19787,1419908,989,158,152.2291717529297,970.46875,172.2291717529297,1046.5208358764648,2,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,26, sweating ,19833,1419954,989,158,152.2291717529297,970.46875,172.2291717529297,1046.5208358764648,2,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,26, sweating ,19881,1420001,991,158,152.2291717529297,970.46875,172.2291717529297,1046.5208358764648,2,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,26, sweating ,19933,1420054,1007,161,152.2291717529297,970.46875,172.2291717529297,1046.5208358764648,2,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,26, sweating ,19982,1420103,1016,163,152.2291717529297,970.46875,172.2291717529297,1046.5208358764648,2,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,26, sweating ,20031,1420152,1034,169,152.2291717529297,970.46875,172.2291717529297,1046.5208358764648,2,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,20079,1420200,1047,173,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,20129,1420250,1055,175,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,20179,1420300,1060,178,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,20229,1420350,1064,179,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,20280,1420401,1068,182,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,20331,1420451,1070,184,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,20381,1420502,1073,186,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,20431,1420552,1076,188,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,20481,1420602,1078,190,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,20528,1420649,1081,191,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,20580,1420701,1082,193,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,41, device ,20631,1420752,1082,195,192.2291717529297,1060.5625,212.2291717529297,1112.59375,3,14,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,41, device ,20695,1420816,1082,195,192.2291717529297,1060.5625,212.2291717529297,1112.59375,3,14,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,41, device ,20729,1420850,1082,195,192.2291717529297,1060.5625,212.2291717529297,1112.59375,3,14,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,41, device ,20789,1420910,1082,195,192.2291717529297,1060.5625,212.2291717529297,1112.59375,3,14,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,41, device ,20830,1420951,1080,197,192.2291717529297,1060.5625,212.2291717529297,1112.59375,3,14,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,20878,1420999,1076,206,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,20928,1421049,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,20979,1421099,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21030,1421151,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21080,1421201,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21134,1421255,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21180,1421301,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21243,1421364,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21290,1421411,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21329,1421450,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21383,1421504,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21429,1421550,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21492,1421613,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21529,1421650,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21587,1421708,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21633,1421754,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21680,1421801,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21743,1421864,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21788,1421909,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21828,1421949,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21878,1421999,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21929,1422050,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,21979,1422100,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22039,1422160,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22085,1422206,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22133,1422254,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22180,1422301,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22243,1422364,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22290,1422411,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22338,1422459,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22384,1422505,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22429,1422550,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22492,1422613,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22539,1422660,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22585,1422706,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22631,1422752,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22679,1422800,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22741,1422862,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22787,1422908,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22833,1422954,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22881,1423002,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22929,1423050,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,22978,1423099,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23038,1423159,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23085,1423206,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23133,1423254,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23181,1423302,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23228,1423349,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23292,1423412,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23339,1423460,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23386,1423507,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23434,1423555,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23481,1423602,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23528,1423649,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23591,1423712,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23639,1423760,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23686,1423807,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23733,1423853,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23779,1423900,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23843,1423964,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23890,1424011,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23937,1424058,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,23985,1424106,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24031,1424152,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24079,1424200,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24142,1424263,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24189,1424310,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24235,1424356,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24282,1424403,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24330,1424451,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24392,1424513,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24429,1424550,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24485,1424606,1024,314,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24530,1424652,927,254,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24581,1424702,904,156,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24628,1424749,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24678,1424799,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24728,1424849,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24785,1424906,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24832,1424953,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24880,1425001,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24943,1425064,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,24989,1425110,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25036,1425157,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25083,1425204,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25130,1425250,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25191,1425312,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25238,1425359,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25285,1425406,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25333,1425454,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25379,1425501,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25442,1425563,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25489,1425610,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25535,1425656,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25583,1425704,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25629,1425750,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25692,1425813,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25741,1425862,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25788,1425909,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25836,1425956,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25882,1426003,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25930,1426051,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,25992,1426113,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,26038,1426159,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,26085,1426206,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,26129,1426250,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,26771,1426892,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,27764,1427885,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,28774,1428895,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,29771,1429892,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,30762,1430883,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,31762,1431883,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,32763,1432884,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,33807,1433927,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,34768,1434889,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,35768,1435889,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,36771,1436892,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,37766,1437887,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,38765,1438886,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,39762,1439883,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,40774,1440895,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,41770,1441891,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,42769,1442890,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,43764,1443885,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,44762,1444883,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,45770,1445891,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,46769,1446890,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,47764,1447885,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,48771,1448892,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,49768,1449889,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,50762,1450883,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,51773,1451894,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,52766,1452887,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,53763,1453884,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,54772,1454893,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,55773,1455894,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,56767,1456888,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,57777,1457898,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,58775,1458896,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,59769,1459890,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,60767,1460888,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,61771,1461892,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,62763,1462884,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,63773,1463894,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,64772,1464892,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,65771,1465892,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,66773,1466894,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,67775,1467896,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,68773,1468894,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,69771,1469892,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,70766,1470887,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,71763,1471884,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,72774,1472895,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,73768,1473889,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,74766,1474887,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,75767,1475888,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,76762,1476883,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,77769,1477890,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,78765,1478886,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,79761,1479882,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,80761,1480882,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,81763,1481884,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,82770,1482891,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,83763,1483884,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,84774,1484895,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,85771,1485892,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,93932,1494053,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,93979,1494100,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,94035,1494156,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,94081,1494202,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,94143,1494264,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,94190,1494311,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,94236,1494357,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,94284,1494405,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,94331,1494452,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,94393,1494514,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,94439,1494560,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,94486,1494607,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,94533,1494654,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,94580,1494701,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,94642,1494763,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,94690,1494811,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,94736,1494857,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,94783,1494904,895,90,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,10," Larson, ",94830,1494951,852,124,112.22917175292969,815.4479370117188,132.2291717529297,880.4896087646484,1,10,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,94878,1494999,762,318,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,94928,1495049,762,318,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,94980,1495101,762,318,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,95028,1495149,762,318,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,95081,1495202,762,318,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,95128,1495249,762,318,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,95178,1495299,762,318,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,95229,1495350,762,318,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,95280,1495401,854,317,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,95330,1495451,867,296,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,95381,1495502,886,255,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,95431,1495552,897,230,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,95480,1495601,904,215,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,38, depictions ,95530,1495651,906,208,192.2291717529297,876.4166870117188,212.2291717529297,962.4791870117188,3,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,38, depictions ,95581,1495702,908,206,192.2291717529297,876.4166870117188,212.2291717529297,962.4791870117188,3,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,38, depictions ,95628,1495749,908,206,192.2291717529297,876.4166870117188,212.2291717529297,962.4791870117188,3,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,38, depictions ,95679,1495800,908,206,192.2291717529297,876.4166870117188,212.2291717529297,962.4791870117188,3,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,38, depictions ,95731,1495852,907,207,192.2291717529297,876.4166870117188,212.2291717529297,962.4791870117188,3,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,38, depictions ,95779,1495900,907,208,192.2291717529297,876.4166870117188,212.2291717529297,962.4791870117188,3,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,38, depictions ,95831,1495952,906,208,192.2291717529297,876.4166870117188,212.2291717529297,962.4791870117188,3,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,95880,1496001,900,216,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,95928,1496049,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,95980,1496101,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96028,1496149,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96078,1496199,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96129,1496250,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96190,1496311,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96229,1496350,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96283,1496404,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96328,1496449,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96378,1496499,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96428,1496549,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96486,1496607,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96532,1496653,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96578,1496699,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96640,1496761,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96687,1496808,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96735,1496856,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96781,1496902,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96842,1496963,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96890,1497011,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96939,1497059,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,96986,1497107,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97033,1497154,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97080,1497201,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97143,1497264,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97182,1497303,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97228,1497349,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97279,1497400,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97328,1497449,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97378,1497499,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97439,1497560,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97483,1497604,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97531,1497652,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97578,1497699,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97628,1497749,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97680,1497801,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97728,1497849,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97778,1497899,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97843,1497964,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97891,1498012,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97937,1498058,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,97984,1498105,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98033,1498154,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98079,1498200,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98144,1498265,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98178,1498299,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98239,1498360,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98287,1498408,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98336,1498456,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98382,1498503,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98444,1498565,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98490,1498611,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98538,1498659,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98584,1498705,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98631,1498752,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98678,1498799,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98740,1498861,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98788,1498909,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98835,1498956,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98881,1499002,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98943,1499064,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,98990,1499111,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99039,1499160,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99085,1499206,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99129,1499250,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99178,1499299,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99238,1499359,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99285,1499406,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99328,1499449,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99378,1499499,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99428,1499549,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99490,1499611,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99536,1499657,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99583,1499704,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99628,1499749,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99678,1499799,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99736,1499857,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99783,1499904,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99829,1499950,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99883,1500004,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99928,1500049,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,99978,1500099,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100028,1500149,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100081,1500202,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100136,1500257,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100185,1500306,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100232,1500353,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100279,1500400,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100341,1500462,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100388,1500509,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100435,1500556,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100482,1500603,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100529,1500650,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100591,1500712,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100638,1500759,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100685,1500806,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100731,1500851,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100792,1500913,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100841,1500962,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100888,1501009,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100935,1501056,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,100982,1501103,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101029,1501150,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101092,1501213,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101139,1501260,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101187,1501308,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101233,1501353,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101279,1501400,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101343,1501463,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101390,1501510,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101435,1501556,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101482,1501603,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101529,1501650,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101590,1501711,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101637,1501758,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101683,1501804,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101730,1501851,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101791,1501912,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101837,1501958,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101884,1502005,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101931,1502052,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,101993,1502114,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102039,1502160,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102087,1502208,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102134,1502255,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102180,1502301,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102243,1502364,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102290,1502411,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102337,1502458,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102383,1502504,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102429,1502550,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102492,1502613,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102539,1502660,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102585,1502706,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102632,1502753,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102679,1502799,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102741,1502862,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102787,1502908,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102834,1502955,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102881,1503002,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102928,1503049,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,102990,1503111,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,103037,1503158,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,103080,1503201,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,103128,1503249,884,238,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,103181,1503301,847,98,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,103228,1503349,847,98,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,103278,1503399,847,98,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,103335,1503456,847,98,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,103381,1503502,847,98,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,103428,1503549,847,98,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,103480,1503601,847,98,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,103528,1503649,847,98,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,103580,1503701,833,105,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,10," Larson, ",103630,1503751,827,118,112.22917175292969,815.4479370117188,132.2291717529297,880.4896087646484,1,10,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,10," Larson, ",103681,1503802,823,127,112.22917175292969,815.4479370117188,132.2291717529297,880.4896087646484,1,10,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,103730,1503851,819,136,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,103780,1503901,815,146,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",103830,1503951,810,157,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",103881,1504002,807,166,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,103932,1504053,804,174,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,103981,1504102,802,180,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,104031,1504152,800,187,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,104081,1504202,799,190,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,104129,1504250,799,192,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,104187,1504308,799,192,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,104228,1504349,799,192,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,104281,1504402,799,192,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,104329,1504450,799,192,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,104379,1504500,799,192,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,104436,1504557,799,192,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,104482,1504603,799,192,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,104530,1504651,799,192,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,104592,1504713,799,192,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,104639,1504760,799,192,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,104680,1504801,803,184,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,104731,1504852,810,174,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,104781,1504902,811,170,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",104831,1504952,813,169,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",104891,1505012,813,168,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",104938,1505059,813,167,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",104983,1505104,813,167,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",105030,1505150,813,166,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",105092,1505213,813,166,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",105139,1505260,813,166,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",105187,1505308,813,166,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",105233,1505354,813,166,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",105279,1505400,813,166,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",105341,1505462,813,166,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",105388,1505509,813,166,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",105434,1505555,813,166,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",105482,1505603,813,166,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",105544,1505665,813,166,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,23," pulse, ",105590,1505711,813,166,152.2291717529297,788.3333740234375,172.2291717529297,841.3750419616699,2,8,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,24, blood ,105631,1505752,864,158,152.2291717529297,841.375,172.2291717529297,890.4270858764648,2,9,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,105681,1505802,910,152,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,105731,1505852,926,150,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,105781,1505902,930,150,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,105831,1505952,934,151,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,105880,1506001,940,152,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,25," pressure, ",105930,1506051,947,155,152.2291717529297,890.4271240234375,172.2291717529297,970.4687957763672,2,10,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,25," pressure, ",105980,1506101,955,158,152.2291717529297,890.4271240234375,172.2291717529297,970.4687957763672,2,10,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,25," pressure, ",106031,1506152,961,161,152.2291717529297,890.4271240234375,172.2291717529297,970.4687957763672,2,10,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,25," pressure, ",106080,1506201,966,163,152.2291717529297,890.4271240234375,172.2291717529297,970.4687957763672,2,10,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,25," pressure, ",106130,1506251,970,166,152.2291717529297,890.4271240234375,172.2291717529297,970.4687957763672,2,10,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,26, sweating ,106180,1506301,974,168,152.2291717529297,970.46875,172.2291717529297,1046.5208358764648,2,11,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,106230,1506351,976,170,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,106280,1506401,980,172,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,106331,1506451,982,174,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,106380,1506501,981,177,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,106428,1506549,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,106478,1506599,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,106528,1506649,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,106582,1506703,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,106628,1506749,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,106678,1506799,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,106728,1506849,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,106778,1506899,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,106828,1506949,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,106884,1507005,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,106929,1507050,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,106979,1507100,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,107028,1507149,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,107087,1507208,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,107132,1507253,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,107179,1507300,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,107243,1507364,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,107288,1507409,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,107328,1507449,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,107378,1507499,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,107429,1507550,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,107479,1507600,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,107528,1507649,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,107584,1507704,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,107630,1507751,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,107694,1507815,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,107742,1507863,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
+64FUZCW2,,3,adv,2,3,3,4,-1,999,107779,1507900,967,195,,,,,,,The European Union decided that polygraphs are not reliable,0,,,,,1970-01-01T00:00:00.955Z,,,,,,,,,spotlight-sona
