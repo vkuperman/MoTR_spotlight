@@ -1,0 +1,18 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,24,2,54,55,-1,999,401,724007,524,327,,,,,,,To the post office,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,2,54,55,-1,999,450,724056,562,276,,,,,,,To the post office,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,2,54,55,54, said ,501,724107,651,248,231.2734375,623.5625,251.7734375,661.5859375,4,7,To the post office,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,2,54,55,75, “Even ,551,724156,759,287,271.2734375,755.6875,291.7734375,807.7109375,5,10,To the post office,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,2,54,55,-1,999,601,724207,821,336,,,,,,,To the post office,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,2,54,55,-1,999,650,724256,821,336,,,,,,,To the post office,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,2,54,55,-1,999,700,724306,821,336,,,,,,,To the post office,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,2,54,55,-1,999,750,724356,821,336,,,,,,,To the post office,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,2,54,55,-1,999,800,724406,821,336,,,,,,,To the post office,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,2,54,55,-1,999,850,724456,821,336,,,,,,,To the post office,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,2,54,55,-1,999,900,724506,821,336,,,,,,,To the post office,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,2,54,55,-1,999,950,724556,821,336,,,,,,,To the post office,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,2,54,55,-1,999,1000,724606,821,336,,,,,,,To the post office,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,2,54,55,-1,999,1050,724656,821,336,,,,,,,To the post office,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,2,54,55,-1,999,1100,724706,821,336,,,,,,,To the post office,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,2,54,55,-1,999,1150,724756,821,336,,,,,,,To the post office,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,2,54,55,-1,999,1200,724806,821,336,,,,,,,To the post office,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
