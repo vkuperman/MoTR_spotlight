@@ -1,0 +1,19 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,24,3,55,56,-1,999,600,727206,461,336,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,3,55,56,52, calling ,651,727257,444,243,231.2734375,420.4296875,251.7734375,476.4609375,4,2,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,3,55,56,-1,999,701,727306,463,204,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,3,55,56,-1,999,751,727357,570,172,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,3,55,56,-1,999,801,727407,699,215,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,3,55,56,-1,999,850,727456,787,294,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,3,55,56,-1,999,900,727506,809,377,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,3,55,56,-1,999,950,727556,809,377,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,3,55,56,-1,999,1000,727606,809,377,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,3,55,56,-1,999,1050,727656,809,377,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,3,55,56,-1,999,1100,727706,809,377,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,3,55,56,-1,999,1150,727756,809,377,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,3,55,56,-1,999,1200,727806,809,377,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,3,55,56,-1,999,1250,727856,809,377,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,3,55,56,-1,999,1301,727907,809,377,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,3,55,56,-1,999,1350,727956,809,377,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,3,55,56,-1,999,1401,728006,809,377,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,3,55,56,-1,999,1451,728057,809,377,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
