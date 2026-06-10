@@ -1,0 +1,26 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,7,7,66,67,56, two ,1502,802157,728,245,231.2734375,719.890625,251.7734375,752.90625,4,9,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,23, that ,1551,802207,738,161,151.2734375,728.546875,171.7734375,763.578125,2,9,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,1601,802257,741,141,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,1651,802307,741,140,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,1701,802357,741,140,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,1751,802407,741,140,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,1800,802456,741,151,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,1850,802505,737,232,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,1900,802556,737,232,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,1950,802606,737,232,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,2000,802656,737,232,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,2050,802705,737,232,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,2100,802755,737,232,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,2150,802805,737,232,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,2201,802857,737,232,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,2250,802905,737,232,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,2300,802955,737,232,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,2350,803006,737,232,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,2400,803056,737,232,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,2451,803107,737,232,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,2500,803155,737,232,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,2550,803205,737,232,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,2601,803257,737,232,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,2651,803307,737,232,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,7,7,66,67,-1,999,2701,803356,737,232,,,,,,,It is more expensive than regular e-bikes,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
