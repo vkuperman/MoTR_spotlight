@@ -1,0 +1,18 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,1,ele,20,1,23,24,-1,999,335,618806,496,287,,,,,,,He thinks it depends on the user’s financial situation,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,1,23,24,-1,999,385,618857,550,223,,,,,,,He thinks it depends on the user’s financial situation,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,1,23,24,-1,999,435,618907,629,224,,,,,,,He thinks it depends on the user’s financial situation,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,1,23,24,-1,999,485,618957,699,273,,,,,,,He thinks it depends on the user’s financial situation,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,1,23,24,-1,999,535,619007,699,273,,,,,,,He thinks it depends on the user’s financial situation,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,1,23,24,-1,999,585,619056,699,273,,,,,,,He thinks it depends on the user’s financial situation,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,1,23,24,-1,999,635,619106,699,273,,,,,,,He thinks it depends on the user’s financial situation,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,1,23,24,-1,999,685,619156,699,273,,,,,,,He thinks it depends on the user’s financial situation,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,1,23,24,-1,999,735,619206,699,273,,,,,,,He thinks it depends on the user’s financial situation,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,1,23,24,-1,999,785,619256,699,273,,,,,,,He thinks it depends on the user’s financial situation,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,1,23,24,-1,999,835,619306,699,273,,,,,,,He thinks it depends on the user’s financial situation,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,1,23,24,-1,999,885,619356,699,273,,,,,,,He thinks it depends on the user’s financial situation,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,1,23,24,-1,999,934,619406,699,273,,,,,,,He thinks it depends on the user’s financial situation,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,1,23,24,-1,999,985,619456,699,273,,,,,,,He thinks it depends on the user’s financial situation,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,1,23,24,-1,999,1034,619505,699,273,,,,,,,He thinks it depends on the user’s financial situation,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,1,23,24,-1,999,1085,619556,699,273,,,,,,,He thinks it depends on the user’s financial situation,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,1,23,24,-1,999,1135,619606,699,273,,,,,,,He thinks it depends on the user’s financial situation,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
