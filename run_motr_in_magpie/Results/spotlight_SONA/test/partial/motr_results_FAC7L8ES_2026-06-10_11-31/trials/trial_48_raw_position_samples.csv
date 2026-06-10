@@ -1,0 +1,805 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+FAC7L8ES,,3,adv,6,3,47,48,125, at ,4069,1972183,597,466,469.2734375,592.484375,489.7734375,612.5,10,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,124, man ,4116,1972229,580,484,469.2734375,552.4609375,489.7734375,592.484375,10,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,124, man ,4166,1972280,568,488,469.2734375,552.4609375,489.7734375,592.484375,10,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,105, its ,4217,1972330,513,441,429.2734375,512.4453125,449.7734375,535.453125,9,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,52, collecting ,4267,1972380,466,286,269.2734375,400.375,289.7734375,480.421875,5,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,25, landscape ,4317,1972430,437,187,189.2734375,420.390625,209.7734375,507.4609375,3,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,11," Authority, ",4367,1972480,413,162,149.2734375,400.375,169.7734375,480.0859375,2,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,4417,1972530,400,155,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,4467,1972581,396,146,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,4516,1972630,396,139,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,1, Duncan ,4566,1972680,397,130,109.2734375,400.375,129.7734375,467.421875,1,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,1, Duncan ,4617,1972730,399,119,109.2734375,400.375,129.7734375,467.421875,1,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,1, Duncan ,4666,1972780,402,111,109.2734375,400.375,129.7734375,467.421875,1,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,1, Duncan ,4717,1972831,403,110,109.2734375,400.375,129.7734375,467.421875,1,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,1, Duncan ,4766,1972880,403,110,109.2734375,400.375,129.7734375,467.421875,1,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,1, Duncan ,4816,1972930,403,110,109.2734375,400.375,129.7734375,467.421875,1,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,1, Duncan ,4866,1972980,403,110,109.2734375,400.375,129.7734375,467.421875,1,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,1, Duncan ,4917,1973030,403,110,109.2734375,400.375,129.7734375,467.421875,1,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,1, Duncan ,4966,1973079,403,110,109.2734375,400.375,129.7734375,467.421875,1,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,1, Duncan ,5017,1973131,418,110,109.2734375,400.375,129.7734375,467.421875,1,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,1, Duncan ,5067,1973180,436,112,109.2734375,400.375,129.7734375,467.421875,1,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,1, Duncan ,5117,1973230,447,113,109.2734375,400.375,129.7734375,467.421875,1,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,1, Duncan ,5167,1973280,451,112,109.2734375,400.375,129.7734375,467.421875,1,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,1, Duncan ,5218,1973331,454,112,109.2734375,400.375,129.7734375,467.421875,1,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,1, Duncan ,5266,1973380,457,112,109.2734375,400.375,129.7734375,467.421875,1,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,2," Wise, ",5317,1973430,469,112,109.2734375,467.421875,129.7734375,517.4296875,1,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,2," Wise, ",5367,1973480,500,112,109.2734375,467.421875,129.7734375,517.4296875,1,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,3, visitor ,5417,1973530,541,108,109.2734375,517.4296875,129.7734375,569.4375,1,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,4, development ,5467,1973580,586,110,109.2734375,569.4375,129.7734375,677.5078125,1,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,4, development ,5517,1973631,601,124,109.2734375,569.4375,129.7734375,677.5078125,1,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,4, development ,5567,1973680,601,124,109.2734375,569.4375,129.7734375,677.5078125,1,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,4, development ,5618,1973731,601,124,109.2734375,569.4375,129.7734375,677.5078125,1,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,4, development ,5668,1973781,601,124,109.2734375,569.4375,129.7734375,677.5078125,1,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,4, development ,5718,1973831,601,124,109.2734375,569.4375,129.7734375,677.5078125,1,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,4, development ,5766,1973880,601,124,109.2734375,569.4375,129.7734375,677.5078125,1,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,4, development ,5816,1973930,601,124,109.2734375,569.4375,129.7734375,677.5078125,1,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,4, development ,5867,1973980,601,124,109.2734375,569.4375,129.7734375,677.5078125,1,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,4, development ,5916,1974030,612,122,109.2734375,569.4375,129.7734375,677.5078125,1,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,4, development ,5967,1974080,641,119,109.2734375,569.4375,129.7734375,677.5078125,1,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,4, development ,6017,1974130,674,121,109.2734375,569.4375,129.7734375,677.5078125,1,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,5, officer ,6067,1974180,700,128,109.2734375,677.5078125,129.7734375,731.53125,1,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,5, officer ,6118,1974231,722,130,109.2734375,677.5078125,129.7734375,731.53125,1,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,6, for ,6167,1974280,755,129,109.2734375,731.53125,129.7734375,757.5390625,1,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,7, the ,6217,1974331,784,128,109.2734375,757.5390625,129.7734375,787.5625,1,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,8, Northumberland ,6267,1974380,793,127,109.2734375,787.5625,129.7734375,921.6328125,1,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,8, Northumberland ,6317,1974430,794,127,109.2734375,787.5625,129.7734375,921.6328125,1,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,8, Northumberland ,6367,1974480,794,127,109.2734375,787.5625,129.7734375,921.6328125,1,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,8, Northumberland ,6417,1974530,794,127,109.2734375,787.5625,129.7734375,921.6328125,1,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,8, Northumberland ,6468,1974581,794,127,109.2734375,787.5625,129.7734375,921.6328125,1,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,8, Northumberland ,6517,1974631,801,127,109.2734375,787.5625,129.7734375,921.6328125,1,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,8, Northumberland ,6567,1974681,824,122,109.2734375,787.5625,129.7734375,921.6328125,1,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,8, Northumberland ,6617,1974731,862,116,109.2734375,787.5625,129.7734375,921.6328125,1,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,8, Northumberland ,6666,1974780,900,116,109.2734375,787.5625,129.7734375,921.6328125,1,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,9, National ,6717,1974831,922,116,109.2734375,921.6328125,129.7734375,992.6796875,1,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,9, National ,6767,1974881,946,116,109.2734375,921.6328125,129.7734375,992.6796875,1,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,9, National ,6816,1974929,965,116,109.2734375,921.6328125,129.7734375,992.6796875,1,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,9, National ,6867,1974980,983,119,109.2734375,921.6328125,129.7734375,992.6796875,1,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,10, Park ,6916,1975030,996,121,109.2734375,992.6796875,129.7734375,1029.6953125,1,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,10, Park ,6967,1975081,1009,122,109.2734375,992.6796875,129.7734375,1029.6953125,1,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,10, Park ,7017,1975130,1015,122,109.2734375,992.6796875,129.7734375,1029.6953125,1,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,10, Park ,7067,1975180,1017,122,109.2734375,992.6796875,129.7734375,1029.6953125,1,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,10, Park ,7117,1975231,1015,122,109.2734375,992.6796875,129.7734375,1029.6953125,1,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,9, National ,7166,1975280,949,133,109.2734375,921.6328125,129.7734375,992.6796875,1,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,17, for ,7217,1975330,774,143,149.2734375,762.3046875,169.7734375,788.3125,2,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,14, spearhead ,7267,1975380,584,144,149.2734375,559.15625,169.7734375,649.2265625,2,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,11," Authority, ",7317,1975430,448,144,149.2734375,400.375,169.7734375,480.0859375,2,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,7367,1975480,398,147,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,7417,1975530,376,149,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,7466,1975580,371,149,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,7515,1975629,369,147,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,7567,1975680,369,147,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,7615,1975729,371,147,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,7667,1975780,383,147,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,11," Authority, ",7717,1975831,413,146,149.2734375,400.375,169.7734375,480.0859375,2,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,11," Authority, ",7767,1975881,442,146,149.2734375,400.375,169.7734375,480.0859375,2,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,11," Authority, ",7817,1975931,467,148,149.2734375,400.375,169.7734375,480.0859375,2,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,12, helped ,7867,1975980,484,151,149.2734375,480.0859375,169.7734375,539.140625,2,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,12, helped ,7917,1976031,509,153,149.2734375,480.0859375,169.7734375,539.140625,2,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,12, helped ,7967,1976081,535,153,149.2734375,480.0859375,169.7734375,539.140625,2,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,12, helped ,8017,1976130,536,152,149.2734375,480.0859375,169.7734375,539.140625,2,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,12, helped ,8068,1976181,536,152,149.2734375,480.0859375,169.7734375,539.140625,2,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,12, helped ,8117,1976231,536,152,149.2734375,480.0859375,169.7734375,539.140625,2,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,12, helped ,8167,1976281,536,152,149.2734375,480.0859375,169.7734375,539.140625,2,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,12, helped ,8218,1976331,536,152,149.2734375,480.0859375,169.7734375,539.140625,2,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,12, helped ,8267,1976380,539,152,149.2734375,480.0859375,169.7734375,539.140625,2,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,13, to ,8317,1976430,557,152,149.2734375,539.140625,169.7734375,559.15625,2,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,14, spearhead ,8366,1976479,584,147,149.2734375,559.15625,169.7734375,649.2265625,2,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,14, spearhead ,8417,1976530,616,141,149.2734375,559.15625,169.7734375,649.2265625,2,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,14, spearhead ,8467,1976581,634,141,149.2734375,559.15625,169.7734375,649.2265625,2,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,15, the ,8517,1976631,651,143,149.2734375,649.2265625,169.7734375,679.25,2,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,15, the ,8567,1976680,669,144,149.2734375,649.2265625,169.7734375,679.25,2,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,16, campaign ,8617,1976730,685,145,149.2734375,679.25,169.7734375,762.3046875,2,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,16, campaign ,8667,1976780,696,145,149.2734375,679.25,169.7734375,762.3046875,2,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,16, campaign ,8717,1976830,713,147,149.2734375,679.25,169.7734375,762.3046875,2,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,16, campaign ,8767,1976880,728,149,149.2734375,679.25,169.7734375,762.3046875,2,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,16, campaign ,8816,1976930,732,150,149.2734375,679.25,169.7734375,762.3046875,2,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,16, campaign ,8867,1976980,732,150,149.2734375,679.25,169.7734375,762.3046875,2,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,16, campaign ,8917,1977030,732,150,149.2734375,679.25,169.7734375,762.3046875,2,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,16, campaign ,8967,1977081,732,150,149.2734375,679.25,169.7734375,762.3046875,2,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,16, campaign ,9016,1977130,732,150,149.2734375,679.25,169.7734375,762.3046875,2,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,16, campaign ,9068,1977181,748,150,149.2734375,679.25,169.7734375,762.3046875,2,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,17, for ,9118,1977231,777,148,149.2734375,762.3046875,169.7734375,788.3125,2,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,18, dark-sky ,9167,1977281,824,147,149.2734375,788.3125,169.7734375,861.328125,2,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,18, dark-sky ,9217,1977331,855,147,149.2734375,788.3125,169.7734375,861.328125,2,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,19, status. ,9267,1977381,876,149,149.2734375,861.328125,169.7734375,919.359375,2,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,19, status. ,9318,1977431,896,152,149.2734375,861.328125,169.7734375,919.359375,2,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,19, status. ,9367,1977480,911,153,149.2734375,861.328125,169.7734375,919.359375,2,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,20, “We ,9417,1977531,929,157,149.2734375,919.359375,169.7734375,957.0390625,2,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,20, “We ,9466,1977580,949,160,149.2734375,919.359375,169.7734375,957.0390625,2,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,21, tend ,9517,1977630,975,161,149.2734375,957.0390625,169.7734375,997.078125,2,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,21, tend ,9567,1977680,993,161,149.2734375,957.0390625,169.7734375,997.078125,2,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,22, to ,9617,1977730,1008,161,149.2734375,997.078125,169.7734375,1017.09375,2,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,22, to ,9666,1977780,1016,160,149.2734375,997.078125,169.7734375,1017.09375,2,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,23, look ,9717,1977830,1021,160,149.2734375,1017.09375,169.7734375,1050.1171875,2,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,23, look ,9767,1977881,1021,160,149.2734375,1017.09375,169.7734375,1050.1171875,2,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,23, look ,9817,1977931,1021,160,149.2734375,1017.09375,169.7734375,1050.1171875,2,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,22, to ,9867,1977981,1014,160,149.2734375,997.078125,169.7734375,1017.09375,2,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,20, “We ,9917,1978031,931,172,149.2734375,919.359375,169.7734375,957.0390625,2,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,16, campaign ,9967,1978080,731,177,149.2734375,679.25,169.7734375,762.3046875,2,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,27, everything ,10018,1978131,615,189,189.2734375,531.4765625,209.7734375,619.53125,3,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,27, everything ,10067,1978180,567,197,189.2734375,531.4765625,209.7734375,619.53125,3,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,26, as ,10116,1978230,512,208,189.2734375,507.4609375,209.7734375,531.4765625,3,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,25, landscape ,10167,1978280,466,212,189.2734375,420.390625,209.7734375,507.4609375,3,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,25, landscape ,10218,1978331,442,214,189.2734375,420.390625,209.7734375,507.4609375,3,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,25, landscape ,10267,1978380,428,215,189.2734375,420.390625,209.7734375,507.4609375,3,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,24, at ,10317,1978430,413,217,189.2734375,400.375,209.7734375,420.390625,3,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,10366,1978480,398,217,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,10417,1978530,389,214,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,10466,1978580,387,212,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,10517,1978630,387,212,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,10566,1978679,387,212,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,10617,1978730,389,210,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,24, at ,10667,1978781,401,207,189.2734375,400.375,209.7734375,420.390625,3,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,24, at ,10717,1978830,418,202,189.2734375,400.375,209.7734375,420.390625,3,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,25, landscape ,10767,1978881,436,200,189.2734375,420.390625,209.7734375,507.4609375,3,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,25, landscape ,10817,1978931,458,197,189.2734375,420.390625,209.7734375,507.4609375,3,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,25, landscape ,10866,1978980,486,196,189.2734375,420.390625,209.7734375,507.4609375,3,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,26, as ,10916,1979030,514,195,189.2734375,507.4609375,209.7734375,531.4765625,3,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,27, everything ,10967,1979080,544,189,189.2734375,531.4765625,209.7734375,619.53125,3,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,27, everything ,11017,1979131,572,187,189.2734375,531.4765625,209.7734375,619.53125,3,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,27, everything ,11066,1979180,597,189,189.2734375,531.4765625,209.7734375,619.53125,3,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,27, everything ,11117,1979231,605,189,189.2734375,531.4765625,209.7734375,619.53125,3,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,27, everything ,11167,1979280,605,189,189.2734375,531.4765625,209.7734375,619.53125,3,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,27, everything ,11218,1979331,605,189,189.2734375,531.4765625,209.7734375,619.53125,3,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,27, everything ,11267,1979381,605,189,189.2734375,531.4765625,209.7734375,619.53125,3,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,27, everything ,11317,1979430,605,189,189.2734375,531.4765625,209.7734375,619.53125,3,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,27, everything ,11366,1979480,605,189,189.2734375,531.4765625,209.7734375,619.53125,3,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,27, everything ,11415,1979529,605,189,189.2734375,531.4765625,209.7734375,619.53125,3,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,27, everything ,11467,1979581,618,189,189.2734375,531.4765625,209.7734375,619.53125,3,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,29, to ,11517,1979630,647,189,189.2734375,644.5546875,209.7734375,664.5703125,3,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,30, the ,11567,1979680,669,188,189.2734375,664.5703125,209.7734375,694.59375,3,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,30, the ,11616,1979730,691,190,189.2734375,664.5703125,209.7734375,694.59375,3,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,31," horizon,” ",11666,1979780,710,191,189.2734375,694.59375,209.7734375,769.6328125,3,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,31," horizon,” ",11718,1979831,736,192,189.2734375,694.59375,209.7734375,769.6328125,3,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,31," horizon,” ",11767,1979881,757,194,189.2734375,694.59375,209.7734375,769.6328125,3,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,32, Wise ,11817,1979930,778,195,189.2734375,769.6328125,209.7734375,814.6328125,3,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,32, Wise ,11867,1979980,802,196,189.2734375,769.6328125,209.7734375,814.6328125,3,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,33, said. ,11917,1980030,820,196,189.2734375,814.6328125,209.7734375,857.65625,3,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,33, said. ,11967,1980080,835,197,189.2734375,814.6328125,209.7734375,857.65625,3,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,33, said. ,12017,1980130,837,203,189.2734375,814.6328125,209.7734375,857.65625,3,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,33, said. ,12068,1980181,837,203,189.2734375,814.6328125,209.7734375,857.65625,3,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,33, said. ,12117,1980231,837,203,189.2734375,814.6328125,209.7734375,857.65625,3,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,33, said. ,12168,1980281,837,203,189.2734375,814.6328125,209.7734375,857.65625,3,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,33, said. ,12217,1980331,845,203,189.2734375,814.6328125,209.7734375,857.65625,3,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,34, “But ,12267,1980381,882,200,189.2734375,857.65625,209.7734375,895.671875,3,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,35, what ,12317,1980431,925,197,189.2734375,895.671875,209.7734375,938.6953125,3,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,36, about ,12367,1980481,952,197,189.2734375,938.6953125,209.7734375,988.7421875,3,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,36, about ,12417,1980530,970,198,189.2734375,938.6953125,209.7734375,988.7421875,3,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,36, about ,12468,1980581,978,199,189.2734375,938.6953125,209.7734375,988.7421875,3,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,36, about ,12517,1980631,983,200,189.2734375,938.6953125,209.7734375,988.7421875,3,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,37, what’s ,12567,1980680,989,200,189.2734375,988.7421875,209.7734375,1039.453125,3,14,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,37, what’s ,12617,1980730,999,201,189.2734375,988.7421875,209.7734375,1039.453125,3,14,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,37, what’s ,12667,1980781,1007,201,189.2734375,988.7421875,209.7734375,1039.453125,3,14,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,37, what’s ,12715,1980829,1010,201,189.2734375,988.7421875,209.7734375,1039.453125,3,14,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,37, what’s ,12767,1980880,1011,201,189.2734375,988.7421875,209.7734375,1039.453125,3,14,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,37, what’s ,12817,1980931,1011,201,189.2734375,988.7421875,209.7734375,1039.453125,3,14,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,36, about ,12867,1980981,943,204,189.2734375,938.6953125,209.7734375,988.7421875,3,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,32, Wise ,12917,1981030,798,211,189.2734375,769.6328125,209.7734375,814.6328125,3,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,44, years ,12967,1981081,702,226,229.2734375,668.5390625,249.7734375,717.5625,4,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,43, spent ,13017,1981131,634,236,229.2734375,619.5,249.7734375,668.5390625,4,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,41, and ,13066,1981180,559,242,229.2734375,529.4296875,249.7734375,564.46875,4,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,40, Wise ,13117,1981230,506,244,229.2734375,484.4296875,249.7734375,529.4296875,4,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,39, it?” ,13167,1981281,472,245,229.2734375,454.421875,249.7734375,484.4296875,4,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,38, above ,13217,1981331,450,247,229.2734375,400.375,249.7734375,454.421875,4,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,38, above ,13267,1981381,424,249,229.2734375,400.375,249.7734375,454.421875,4,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,38, above ,13317,1981431,410,250,229.2734375,400.375,249.7734375,454.421875,4,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,38, above ,13367,1981481,401,250,229.2734375,400.375,249.7734375,454.421875,4,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,13417,1981530,396,250,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,13467,1981580,393,250,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,13516,1981630,391,250,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,13567,1981680,391,250,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,13616,1981729,391,249,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,13667,1981780,393,249,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,38, above ,13717,1981831,404,247,229.2734375,400.375,249.7734375,454.421875,4,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,38, above ,13767,1981880,413,245,229.2734375,400.375,249.7734375,454.421875,4,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,38, above ,13817,1981930,421,244,229.2734375,400.375,249.7734375,454.421875,4,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,38, above ,13867,1981980,435,244,229.2734375,400.375,249.7734375,454.421875,4,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,38, above ,13917,1982030,451,244,229.2734375,400.375,249.7734375,454.421875,4,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,39, it?” ,13967,1982081,467,244,229.2734375,454.421875,249.7734375,484.4296875,4,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,39, it?” ,14017,1982130,484,244,229.2734375,454.421875,249.7734375,484.4296875,4,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,40, Wise ,14067,1982181,500,244,229.2734375,484.4296875,249.7734375,529.4296875,4,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,40, Wise ,14117,1982230,512,243,229.2734375,484.4296875,249.7734375,529.4296875,4,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,40, Wise ,14167,1982281,525,242,229.2734375,484.4296875,249.7734375,529.4296875,4,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,41, and ,14216,1982330,541,242,229.2734375,529.4296875,249.7734375,564.46875,4,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,41, and ,14266,1982380,560,241,229.2734375,529.4296875,249.7734375,564.46875,4,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,42, others ,14316,1982430,572,241,229.2734375,564.46875,249.7734375,619.5,4,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,42, others ,14367,1982481,573,241,229.2734375,564.46875,249.7734375,619.5,4,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,42, others ,14417,1982530,570,241,229.2734375,564.46875,249.7734375,619.5,4,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,42, others ,14468,1982581,570,241,229.2734375,564.46875,249.7734375,619.5,4,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,42, others ,14518,1982631,570,241,229.2734375,564.46875,249.7734375,619.5,4,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,42, others ,14567,1982681,570,241,229.2734375,564.46875,249.7734375,619.5,4,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,42, others ,14617,1982731,570,241,229.2734375,564.46875,249.7734375,619.5,4,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,42, others ,14667,1982780,578,241,229.2734375,564.46875,249.7734375,619.5,4,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,42, others ,14716,1982830,604,240,229.2734375,564.46875,249.7734375,619.5,4,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,43, spent ,14767,1982880,638,240,229.2734375,619.5,249.7734375,668.5390625,4,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,44, years ,14817,1982930,671,242,229.2734375,668.5390625,249.7734375,717.5625,4,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,44, years ,14867,1982980,691,244,229.2734375,668.5390625,249.7734375,717.5625,4,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,44, years ,14917,1983030,708,244,229.2734375,668.5390625,249.7734375,717.5625,4,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,45, drawing ,14967,1983080,719,245,229.2734375,717.5625,249.7734375,785.6015625,4,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,45, drawing ,15017,1983131,731,245,229.2734375,717.5625,249.7734375,785.6015625,4,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,45, drawing ,15067,1983180,740,244,229.2734375,717.5625,249.7734375,785.6015625,4,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,45, drawing ,15117,1983231,740,244,229.2734375,717.5625,249.7734375,785.6015625,4,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,45, drawing ,15168,1983281,740,244,229.2734375,717.5625,249.7734375,785.6015625,4,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,45, drawing ,15218,1983331,740,244,229.2734375,717.5625,249.7734375,785.6015625,4,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,45, drawing ,15268,1983381,740,244,229.2734375,717.5625,249.7734375,785.6015625,4,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,45, drawing ,15317,1983431,740,244,229.2734375,717.5625,249.7734375,785.6015625,4,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,45, drawing ,15367,1983481,740,244,229.2734375,717.5625,249.7734375,785.6015625,4,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,45, drawing ,15417,1983530,740,244,229.2734375,717.5625,249.7734375,785.6015625,4,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,45, drawing ,15468,1983582,740,244,229.2734375,717.5625,249.7734375,785.6015625,4,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,45, drawing ,15519,1983632,740,244,229.2734375,717.5625,249.7734375,785.6015625,4,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,45, drawing ,15567,1983680,740,244,229.2734375,717.5625,249.7734375,785.6015625,4,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,45, drawing ,15617,1983730,745,244,229.2734375,717.5625,249.7734375,785.6015625,4,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,45, drawing ,15667,1983781,767,241,229.2734375,717.5625,249.7734375,785.6015625,4,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,46, up ,15717,1983830,799,234,229.2734375,785.6015625,249.7734375,810.625,4,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,47, their ,15767,1983880,820,230,229.2734375,810.625,249.7734375,850.6484375,4,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,47, their ,15817,1983930,835,230,229.2734375,810.625,249.7734375,850.6484375,4,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,47, their ,15867,1983980,850,230,229.2734375,810.625,249.7734375,850.6484375,4,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,48, submission ,15917,1984031,867,230,229.2734375,850.6484375,249.7734375,945.6875,4,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,48, submission ,15967,1984081,885,232,229.2734375,850.6484375,249.7734375,945.6875,4,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,48, submission ,16017,1984131,897,237,229.2734375,850.6484375,249.7734375,945.6875,4,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,48, submission ,16066,1984180,907,240,229.2734375,850.6484375,249.7734375,945.6875,4,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,48, submission ,16117,1984230,918,242,229.2734375,850.6484375,249.7734375,945.6875,4,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,48, submission ,16167,1984280,929,243,229.2734375,850.6484375,249.7734375,945.6875,4,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,48, submission ,16217,1984331,935,243,229.2734375,850.6484375,249.7734375,945.6875,4,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,49, to ,16267,1984381,947,244,229.2734375,945.6875,249.7734375,965.703125,4,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,49, to ,16317,1984430,959,245,229.2734375,945.6875,249.7734375,965.703125,4,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,50, the ,16367,1984480,974,246,229.2734375,965.703125,249.7734375,995.7265625,4,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,50, the ,16417,1984530,985,244,229.2734375,965.703125,249.7734375,995.7265625,4,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,50, the ,16467,1984580,994,241,229.2734375,965.703125,249.7734375,995.7265625,4,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,51," IDA, ",16517,1984630,1003,238,229.2734375,995.7265625,249.7734375,1030.734375,4,14,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,51," IDA, ",16567,1984680,1013,234,229.2734375,995.7265625,249.7734375,1030.734375,4,14,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,51," IDA, ",16617,1984730,1017,233,229.2734375,995.7265625,249.7734375,1030.734375,4,14,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,51," IDA, ",16667,1984780,1016,233,229.2734375,995.7265625,249.7734375,1030.734375,4,14,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,50, the ,16716,1984830,989,233,229.2734375,965.703125,249.7734375,995.7265625,4,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,48, submission ,16767,1984880,919,233,229.2734375,850.6484375,249.7734375,945.6875,4,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,46, up ,16817,1984930,792,229,229.2734375,785.6015625,249.7734375,810.625,4,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,44, years ,16867,1984980,682,235,229.2734375,668.5390625,249.7734375,717.5625,4,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,42, others ,16917,1985030,591,253,229.2734375,564.46875,249.7734375,619.5,4,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,53, reams ,16967,1985080,526,268,269.2734375,480.421875,289.7734375,535.4375,5,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,53, reams ,17017,1985130,484,279,269.2734375,480.421875,289.7734375,535.4375,5,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,52, collecting ,17067,1985180,456,284,269.2734375,400.375,289.7734375,480.421875,5,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,52, collecting ,17117,1985230,433,291,269.2734375,400.375,289.7734375,480.421875,5,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,52, collecting ,17167,1985280,423,294,269.2734375,400.375,289.7734375,480.421875,5,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,52, collecting ,17216,1985330,418,295,269.2734375,400.375,289.7734375,480.421875,5,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,52, collecting ,17266,1985380,413,295,269.2734375,400.375,289.7734375,480.421875,5,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,52, collecting ,17317,1985430,409,295,269.2734375,400.375,289.7734375,480.421875,5,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,52, collecting ,17366,1985480,407,294,269.2734375,400.375,289.7734375,480.421875,5,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,52, collecting ,17416,1985530,405,291,269.2734375,400.375,289.7734375,480.421875,5,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,52, collecting ,17467,1985580,403,290,269.2734375,400.375,289.7734375,480.421875,5,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,52, collecting ,17517,1985630,403,290,269.2734375,400.375,289.7734375,480.421875,5,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,52, collecting ,17566,1985680,409,289,269.2734375,400.375,289.7734375,480.421875,5,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,52, collecting ,17617,1985730,421,287,269.2734375,400.375,289.7734375,480.421875,5,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,52, collecting ,17667,1985780,436,285,269.2734375,400.375,289.7734375,480.421875,5,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,52, collecting ,17716,1985830,458,285,269.2734375,400.375,289.7734375,480.421875,5,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,52, collecting ,17767,1985880,480,285,269.2734375,400.375,289.7734375,480.421875,5,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,53, reams ,17817,1985931,503,284,269.2734375,480.421875,289.7734375,535.4375,5,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,53, reams ,17867,1985981,528,284,269.2734375,480.421875,289.7734375,535.4375,5,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,54, of ,17917,1986031,539,283,269.2734375,535.4375,289.7734375,555.453125,5,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,54, of ,17967,1986080,539,283,269.2734375,535.4375,289.7734375,555.453125,5,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,54, of ,18017,1986131,539,283,269.2734375,535.4375,289.7734375,555.453125,5,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,54, of ,18067,1986181,539,283,269.2734375,535.4375,289.7734375,555.453125,5,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,54, of ,18117,1986231,539,283,269.2734375,535.4375,289.7734375,555.453125,5,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,54, of ,18167,1986280,543,283,269.2734375,535.4375,289.7734375,555.453125,5,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,55, light ,18217,1986331,560,283,269.2734375,555.453125,289.7734375,593.4765625,5,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,56, readings ,18267,1986381,606,283,269.2734375,593.4765625,289.7734375,667.53125,5,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,56, readings ,18317,1986430,656,283,269.2734375,593.4765625,289.7734375,667.53125,5,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,58, forming ,18367,1986480,710,278,269.2734375,702.5703125,289.7734375,767.59375,5,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,58, forming ,18417,1986531,747,274,269.2734375,702.5703125,289.7734375,767.59375,5,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,58, forming ,18467,1986580,765,274,269.2734375,702.5703125,289.7734375,767.59375,5,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,59, an ,18517,1986630,776,278,269.2734375,767.59375,289.7734375,792.6171875,5,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,59, an ,18566,1986680,778,279,269.2734375,767.59375,289.7734375,792.6171875,5,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,59, an ,18616,1986730,777,279,269.2734375,767.59375,289.7734375,792.6171875,5,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,59, an ,18666,1986780,777,279,269.2734375,767.59375,289.7734375,792.6171875,5,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,59, an ,18717,1986831,777,279,269.2734375,767.59375,289.7734375,792.6171875,5,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,59, an ,18767,1986881,777,279,269.2734375,767.59375,289.7734375,792.6171875,5,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,59, an ,18817,1986931,777,279,269.2734375,767.59375,289.7734375,792.6171875,5,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,59, an ,18866,1986980,777,279,269.2734375,767.59375,289.7734375,792.6171875,5,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,60, alliance ,18917,1987031,804,273,269.2734375,792.6171875,289.7734375,858.6640625,5,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,60, alliance ,18967,1987081,841,268,269.2734375,792.6171875,289.7734375,858.6640625,5,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,61, of ,19017,1987130,875,267,269.2734375,858.6640625,289.7734375,878.6796875,5,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,62, local ,19067,1987180,901,270,269.2734375,878.6796875,289.7734375,920.703125,5,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,63," councils, ",19117,1987231,922,276,269.2734375,920.703125,289.7734375,995.7421875,5,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,63," councils, ",19167,1987281,946,279,269.2734375,920.703125,289.7734375,995.7421875,5,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,63," councils, ",19217,1987330,964,281,269.2734375,920.703125,289.7734375,995.7421875,5,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,63," councils, ",19266,1987380,976,287,269.2734375,920.703125,289.7734375,995.7421875,5,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,63," councils, ",19316,1987430,982,290,269.2734375,920.703125,289.7734375,995.7421875,5,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,63," councils, ",19367,1987480,991,292,269.2734375,920.703125,289.7734375,995.7421875,5,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,64, parks’ ,19417,1987531,997,292,269.2734375,995.7421875,289.7734375,1043.4296875,5,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,64, parks’ ,19467,1987581,1009,292,269.2734375,995.7421875,289.7734375,1043.4296875,5,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,64, parks’ ,19516,1987630,1018,292,269.2734375,995.7421875,289.7734375,1043.4296875,5,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,64, parks’ ,19567,1987680,1023,292,269.2734375,995.7421875,289.7734375,1043.4296875,5,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,64, parks’ ,19617,1987730,1024,292,269.2734375,995.7421875,289.7734375,1043.4296875,5,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,64, parks’ ,19667,1987781,1020,291,269.2734375,995.7421875,289.7734375,1043.4296875,5,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,63," councils, ",19717,1987830,958,289,269.2734375,920.703125,289.7734375,995.7421875,5,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,61, of ,19766,1987880,870,291,269.2734375,858.6640625,289.7734375,878.6796875,5,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,71, an ,19817,1987931,754,308,309.2734375,735.59375,329.7734375,760.6171875,6,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,68, groups ,19867,1987980,644,322,309.2734375,585.484375,329.7734375,645.5234375,6,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,67, community ,19917,1988031,562,332,309.2734375,493.4609375,329.7734375,585.484375,6,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,67, community ,19967,1988081,524,335,309.2734375,493.4609375,329.7734375,585.484375,6,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,67, community ,20017,1988130,500,336,309.2734375,493.4609375,329.7734375,585.484375,6,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,66, and ,20067,1988180,477,331,309.2734375,458.421875,329.7734375,493.4609375,6,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,65, bodies ,20117,1988231,454,324,309.2734375,400.375,329.7734375,458.421875,6,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,65, bodies ,20167,1988281,435,318,309.2734375,400.375,329.7734375,458.421875,6,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,65, bodies ,20217,1988330,421,315,309.2734375,400.375,329.7734375,458.421875,6,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,65, bodies ,20267,1988380,410,314,309.2734375,400.375,329.7734375,458.421875,6,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,65, bodies ,20317,1988430,404,314,309.2734375,400.375,329.7734375,458.421875,6,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,65, bodies ,20367,1988480,403,314,309.2734375,400.375,329.7734375,458.421875,6,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,65, bodies ,20418,1988531,403,314,309.2734375,400.375,329.7734375,458.421875,6,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,65, bodies ,20468,1988582,403,314,309.2734375,400.375,329.7734375,458.421875,6,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,65, bodies ,20517,1988631,404,315,309.2734375,400.375,329.7734375,458.421875,6,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,65, bodies ,20568,1988681,412,317,309.2734375,400.375,329.7734375,458.421875,6,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,65, bodies ,20617,1988731,421,319,309.2734375,400.375,329.7734375,458.421875,6,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,65, bodies ,20667,1988780,433,319,309.2734375,400.375,329.7734375,458.421875,6,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,65, bodies ,20717,1988830,449,319,309.2734375,400.375,329.7734375,458.421875,6,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,66, and ,20767,1988881,463,319,309.2734375,458.421875,329.7734375,493.4609375,6,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,66, and ,20817,1988931,480,319,309.2734375,458.421875,329.7734375,493.4609375,6,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,67, community ,20867,1988981,496,320,309.2734375,493.4609375,329.7734375,585.484375,6,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,67, community ,20917,1989030,512,321,309.2734375,493.4609375,329.7734375,585.484375,6,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,67, community ,20967,1989080,528,322,309.2734375,493.4609375,329.7734375,585.484375,6,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,67, community ,21016,1989129,535,323,309.2734375,493.4609375,329.7734375,585.484375,6,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,67, community ,21067,1989180,535,323,309.2734375,493.4609375,329.7734375,585.484375,6,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,67, community ,21117,1989231,535,323,309.2734375,493.4609375,329.7734375,585.484375,6,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,67, community ,21167,1989281,535,323,309.2734375,493.4609375,329.7734375,585.484375,6,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,67, community ,21217,1989331,535,323,309.2734375,493.4609375,329.7734375,585.484375,6,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,67, community ,21267,1989380,536,323,309.2734375,493.4609375,329.7734375,585.484375,6,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,67, community ,21317,1989430,554,320,309.2734375,493.4609375,329.7734375,585.484375,6,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,67, community ,21367,1989480,575,319,309.2734375,493.4609375,329.7734375,585.484375,6,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,68, groups ,21417,1989531,598,320,309.2734375,585.484375,329.7734375,645.5234375,6,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,68, groups ,21467,1989581,618,323,309.2734375,585.484375,329.7734375,645.5234375,6,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,68, groups ,21517,1989630,634,324,309.2734375,585.484375,329.7734375,645.5234375,6,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,69, to ,21567,1989680,647,326,309.2734375,645.5234375,329.7734375,665.5390625,6,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,69, to ,21617,1989731,659,328,309.2734375,645.5234375,329.7734375,665.5390625,6,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,70, produce ,21667,1989780,673,329,309.2734375,665.5390625,329.7734375,735.59375,6,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,70, produce ,21717,1989831,674,328,309.2734375,665.5390625,329.7734375,735.59375,6,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,70, produce ,21767,1989881,674,328,309.2734375,665.5390625,329.7734375,735.59375,6,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,70, produce ,21817,1989930,674,328,309.2734375,665.5390625,329.7734375,735.59375,6,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,70, produce ,21867,1989981,674,328,309.2734375,665.5390625,329.7734375,735.59375,6,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,70, produce ,21916,1990030,674,328,309.2734375,665.5390625,329.7734375,735.59375,6,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,70, produce ,21967,1990081,695,325,309.2734375,665.5390625,329.7734375,735.59375,6,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,70, produce ,22017,1990131,723,322,309.2734375,665.5390625,329.7734375,735.59375,6,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,71, an ,22066,1990180,752,322,309.2734375,735.59375,329.7734375,760.6171875,6,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,72, exterior ,22117,1990231,774,323,309.2734375,760.6171875,329.7734375,825.640625,6,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,72, exterior ,22167,1990280,789,325,309.2734375,760.6171875,329.7734375,825.640625,6,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,72, exterior ,22217,1990330,799,325,309.2734375,760.6171875,329.7734375,825.640625,6,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,72, exterior ,22267,1990381,809,326,309.2734375,760.6171875,329.7734375,825.640625,6,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,72, exterior ,22317,1990430,823,327,309.2734375,760.6171875,329.7734375,825.640625,6,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,73, lighting ,22366,1990480,839,328,309.2734375,825.640625,329.7734375,887.6875,6,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,73, lighting ,22417,1990531,855,328,309.2734375,825.640625,329.7734375,887.6875,6,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,73, lighting ,22467,1990581,869,328,309.2734375,825.640625,329.7734375,887.6875,6,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,73, lighting ,22517,1990630,882,328,309.2734375,825.640625,329.7734375,887.6875,6,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,74, master ,22567,1990680,898,330,309.2734375,887.6875,329.7734375,947.703125,6,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,74, master ,22617,1990731,919,330,309.2734375,887.6875,329.7734375,947.703125,6,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,74, master ,22667,1990781,942,330,309.2734375,887.6875,329.7734375,947.703125,6,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,75, plan ,22717,1990830,956,330,309.2734375,947.703125,329.7734375,986.7421875,6,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,75, plan ,22767,1990880,973,330,309.2734375,947.703125,329.7734375,986.7421875,6,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,75, plan ,22817,1990931,984,330,309.2734375,947.703125,329.7734375,986.7421875,6,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,76, that ,22866,1990979,989,330,309.2734375,986.7421875,329.7734375,1016.765625,6,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,76, that ,22917,1991030,988,330,309.2734375,986.7421875,329.7734375,1016.765625,6,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,74, master ,22967,1991080,940,324,309.2734375,887.6875,329.7734375,947.703125,6,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,72, exterior ,23017,1991130,799,311,309.2734375,760.6171875,329.7734375,825.640625,6,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,70, produce ,23067,1991180,667,322,309.2734375,665.5390625,329.7734375,735.59375,6,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,79, construction ,23117,1991230,563,341,349.2734375,516.453125,369.7734375,618.5078125,7,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,78, the ,23167,1991280,488,355,349.2734375,486.4296875,369.7734375,516.453125,7,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,77, influences ,23216,1991330,435,363,349.2734375,400.375,369.7734375,486.4296875,7,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,77, influences ,23267,1991380,415,364,349.2734375,400.375,369.7734375,486.4296875,7,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,77, influences ,23317,1991430,406,362,349.2734375,400.375,369.7734375,486.4296875,7,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,23367,1991480,399,362,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,23416,1991530,393,362,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,23466,1991580,390,362,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,23516,1991630,390,361,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,23566,1991680,394,360,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,77, influences ,23617,1991730,408,358,349.2734375,400.375,369.7734375,486.4296875,7,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,77, influences ,23667,1991780,431,355,349.2734375,400.375,369.7734375,486.4296875,7,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,77, influences ,23717,1991831,457,355,349.2734375,400.375,369.7734375,486.4296875,7,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,77, influences ,23767,1991880,483,360,349.2734375,400.375,369.7734375,486.4296875,7,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,78, the ,23817,1991930,499,363,349.2734375,486.4296875,369.7734375,516.453125,7,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,78, the ,23867,1991980,507,363,349.2734375,486.4296875,369.7734375,516.453125,7,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,78, the ,23916,1992030,512,363,349.2734375,486.4296875,369.7734375,516.453125,7,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,78, the ,23967,1992080,509,361,349.2734375,486.4296875,369.7734375,516.453125,7,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,78, the ,24017,1992130,509,361,349.2734375,486.4296875,369.7734375,516.453125,7,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,78, the ,24068,1992181,509,361,349.2734375,486.4296875,369.7734375,516.453125,7,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,78, the ,24117,1992230,509,361,349.2734375,486.4296875,369.7734375,516.453125,7,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,78, the ,24167,1992281,509,361,349.2734375,486.4296875,369.7734375,516.453125,7,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,78, the ,24217,1992331,509,361,349.2734375,486.4296875,369.7734375,516.453125,7,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,79, construction ,24267,1992381,525,360,349.2734375,516.453125,369.7734375,618.5078125,7,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,79, construction ,24318,1992431,563,360,349.2734375,516.453125,369.7734375,618.5078125,7,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,79, construction ,24367,1992480,591,363,349.2734375,516.453125,369.7734375,618.5078125,7,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,79, construction ,24417,1992530,611,367,349.2734375,516.453125,369.7734375,618.5078125,7,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,80, of ,24467,1992580,628,370,349.2734375,618.5078125,369.7734375,638.5234375,7,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,81, new ,24517,1992630,639,371,349.2734375,638.5234375,369.7734375,676.546875,7,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,81, new ,24567,1992681,639,371,349.2734375,638.5234375,369.7734375,676.546875,7,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,81, new ,24617,1992731,639,371,349.2734375,638.5234375,369.7734375,676.546875,7,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,81, new ,24667,1992780,639,371,349.2734375,638.5234375,369.7734375,676.546875,7,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,81, new ,24718,1992831,639,371,349.2734375,638.5234375,369.7734375,676.546875,7,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,81, new ,24767,1992881,639,371,349.2734375,638.5234375,369.7734375,676.546875,7,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,81, new ,24817,1992931,639,371,349.2734375,638.5234375,369.7734375,676.546875,7,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,81, new ,24866,1992980,646,369,349.2734375,638.5234375,369.7734375,676.546875,7,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,81, new ,24916,1993030,667,365,349.2734375,638.5234375,369.7734375,676.546875,7,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,82, developments ,24967,1993080,691,363,349.2734375,676.546875,369.7734375,793.6171875,7,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,82, developments ,25017,1993131,711,364,349.2734375,676.546875,369.7734375,793.6171875,7,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,82, developments ,25067,1993181,726,368,349.2734375,676.546875,369.7734375,793.6171875,7,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,82, developments ,25117,1993231,737,371,349.2734375,676.546875,369.7734375,793.6171875,7,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,82, developments ,25167,1993280,749,372,349.2734375,676.546875,369.7734375,793.6171875,7,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,82, developments ,25217,1993330,769,373,349.2734375,676.546875,369.7734375,793.6171875,7,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,82, developments ,25266,1993380,788,374,349.2734375,676.546875,369.7734375,793.6171875,7,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,84, the ,25316,1993430,815,373,349.2734375,812.6328125,369.7734375,842.65625,7,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,84, the ,25366,1993479,839,371,349.2734375,812.6328125,369.7734375,842.65625,7,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,85, area. ,25416,1993530,864,371,349.2734375,842.65625,369.7734375,888.53125,7,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,85, area. ,25466,1993580,881,374,349.2734375,842.65625,369.7734375,888.53125,7,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,86, Their ,25517,1993631,899,377,349.2734375,888.53125,369.7734375,934.390625,7,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,86, Their ,25567,1993681,916,377,349.2734375,888.53125,369.7734375,934.390625,7,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,86, Their ,25617,1993730,934,377,349.2734375,888.53125,369.7734375,934.390625,7,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,87, efforts ,25667,1993780,950,376,349.2734375,934.390625,369.7734375,989.09375,7,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,87, efforts ,25717,1993831,960,375,349.2734375,934.390625,369.7734375,989.09375,7,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,87, efforts ,25766,1993880,969,373,349.2734375,934.390625,369.7734375,989.09375,7,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,87, efforts ,25817,1993930,980,373,349.2734375,934.390625,369.7734375,989.09375,7,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,88, have ,25867,1993981,995,371,349.2734375,989.09375,369.7734375,1028.1328125,7,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,88, have ,25917,1994030,1002,371,349.2734375,989.09375,369.7734375,1028.1328125,7,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,88, have ,25967,1994080,1003,371,349.2734375,989.09375,369.7734375,1028.1328125,7,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,88, have ,26015,1994129,1000,371,349.2734375,989.09375,369.7734375,1028.1328125,7,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,87, efforts ,26067,1994180,972,366,349.2734375,934.390625,369.7734375,989.09375,7,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,85, area. ,26117,1994230,886,348,349.2734375,842.65625,369.7734375,888.53125,7,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,82, developments ,26167,1994280,787,346,349.2734375,676.546875,369.7734375,793.6171875,7,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,82, developments ,26217,1994330,687,359,349.2734375,676.546875,369.7734375,793.6171875,7,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,79, construction ,26267,1994380,604,379,349.2734375,516.453125,369.7734375,618.5078125,7,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,91, Many ,26316,1994430,542,389,389.2734375,536.4765625,409.7734375,585.5,8,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,90, vindicated. ,26366,1994480,507,390,389.2734375,445.421875,409.7734375,536.4765625,8,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,90, vindicated. ,26417,1994530,486,387,389.2734375,445.421875,409.7734375,536.4765625,8,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,90, vindicated. ,26467,1994580,465,386,389.2734375,445.421875,409.7734375,536.4765625,8,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,89, been ,26516,1994630,436,388,389.2734375,400.375,409.7734375,445.421875,8,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,89, been ,26567,1994680,408,391,389.2734375,400.375,409.7734375,445.421875,8,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,26616,1994730,390,391,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,26666,1994780,382,392,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,26716,1994830,379,393,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,26767,1994881,379,393,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,26817,1994930,381,393,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,26866,1994980,388,394,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,26917,1995030,399,394,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,89, been ,26967,1995081,414,393,389.2734375,400.375,409.7734375,445.421875,8,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,89, been ,27016,1995130,428,393,389.2734375,400.375,409.7734375,445.421875,8,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,89, been ,27067,1995181,442,393,389.2734375,400.375,409.7734375,445.421875,8,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,90, vindicated. ,27116,1995230,461,395,389.2734375,445.421875,409.7734375,536.4765625,8,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,90, vindicated. ,27167,1995280,492,395,389.2734375,445.421875,409.7734375,536.4765625,8,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,90, vindicated. ,27217,1995331,527,395,389.2734375,445.421875,409.7734375,536.4765625,8,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,91, Many ,27266,1995380,554,396,389.2734375,536.4765625,409.7734375,585.5,8,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,91, Many ,27316,1995430,567,398,389.2734375,536.4765625,409.7734375,585.5,8,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,91, Many ,27366,1995480,565,397,389.2734375,536.4765625,409.7734375,585.5,8,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,91, Many ,27418,1995531,565,397,389.2734375,536.4765625,409.7734375,585.5,8,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,91, Many ,27467,1995581,565,397,389.2734375,536.4765625,409.7734375,585.5,8,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,91, Many ,27518,1995631,565,397,389.2734375,536.4765625,409.7734375,585.5,8,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,91, Many ,27568,1995681,565,397,389.2734375,536.4765625,409.7734375,585.5,8,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,91, Many ,27618,1995731,565,397,389.2734375,536.4765625,409.7734375,585.5,8,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,91, Many ,27668,1995781,565,397,389.2734375,536.4765625,409.7734375,585.5,8,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,91, Many ,27717,1995831,573,394,389.2734375,536.4765625,409.7734375,585.5,8,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,92, of ,27767,1995880,588,391,389.2734375,585.5,409.7734375,605.515625,8,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,92, of ,27817,1995930,604,391,389.2734375,585.5,409.7734375,605.515625,8,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,93, the ,27867,1995981,618,392,389.2734375,605.515625,409.7734375,635.5390625,8,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,93, the ,27917,1996030,634,395,389.2734375,605.515625,409.7734375,635.5390625,8,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,94, 1.5 ,27967,1996080,650,399,389.2734375,635.5390625,409.7734375,665.5625,8,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,95, million ,28017,1996131,669,403,389.2734375,665.5625,409.7734375,721.578125,8,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,95, million ,28066,1996180,684,407,389.2734375,665.5625,409.7734375,721.578125,8,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,95, million ,28117,1996230,700,408,389.2734375,665.5625,409.7734375,721.578125,8,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,95, million ,28167,1996280,715,408,389.2734375,665.5625,409.7734375,721.578125,8,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,96, who ,28216,1996330,728,408,389.2734375,721.578125,409.7734375,759.6015625,8,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,96, who ,28266,1996380,737,408,389.2734375,721.578125,409.7734375,759.6015625,8,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,96, who ,28317,1996430,746,409,389.2734375,721.578125,409.7734375,759.6015625,8,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,97, visit ,28366,1996480,766,409,389.2734375,759.6015625,409.7734375,795.6015625,8,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,97, visit ,28416,1996530,786,411,389.2734375,759.6015625,409.7734375,795.6015625,8,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,98, Northumberland ,28467,1996580,798,411,389.2734375,795.6015625,409.7734375,929.671875,8,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,97, visit ,28517,1996630,785,400,389.2734375,759.6015625,409.7734375,795.6015625,8,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,97, visit ,28567,1996680,785,400,389.2734375,759.6015625,409.7734375,795.6015625,8,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,97, visit ,28617,1996731,785,400,389.2734375,759.6015625,409.7734375,795.6015625,8,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,97, visit ,28667,1996780,785,400,389.2734375,759.6015625,409.7734375,795.6015625,8,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,97, visit ,28717,1996830,785,400,389.2734375,759.6015625,409.7734375,795.6015625,8,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,97, visit ,28767,1996881,789,400,389.2734375,759.6015625,409.7734375,795.6015625,8,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,98, Northumberland ,28817,1996930,809,398,389.2734375,795.6015625,409.7734375,929.671875,8,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,98, Northumberland ,28867,1996980,848,398,389.2734375,795.6015625,409.7734375,929.671875,8,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,98, Northumberland ,28916,1997030,873,404,389.2734375,795.6015625,409.7734375,929.671875,8,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,98, Northumberland ,28967,1997080,900,411,389.2734375,795.6015625,409.7734375,929.671875,8,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,98, Northumberland ,29016,1997130,920,413,389.2734375,795.6015625,409.7734375,929.671875,8,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,99, each ,29066,1997180,938,415,389.2734375,929.671875,409.7734375,973.7109375,8,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,99, each ,29116,1997230,954,416,389.2734375,929.671875,409.7734375,973.7109375,8,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,99, each ,29166,1997280,973,418,389.2734375,929.671875,409.7734375,973.7109375,8,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,100, year ,29216,1997330,986,418,389.2734375,973.7109375,409.7734375,1013.734375,8,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,100, year ,29267,1997380,999,418,389.2734375,973.7109375,409.7734375,1013.734375,8,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,100, year ,29317,1997431,1009,418,389.2734375,973.7109375,409.7734375,1013.734375,8,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,101, are ,29367,1997480,1015,418,389.2734375,1013.734375,409.7734375,1039.75,8,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,119, the ,29417,1997530,1021,420,429.2734375,1015.40625,449.7734375,1040.4296875,9,18,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,119, the ,29467,1997580,1023,420,429.2734375,1015.40625,449.7734375,1040.4296875,9,18,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,119, the ,29517,1997631,1023,420,429.2734375,1015.40625,449.7734375,1040.4296875,9,18,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,119, the ,29568,1997681,1022,420,429.2734375,1015.40625,449.7734375,1040.4296875,9,18,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,118, see ,29616,1997730,988,420,429.2734375,981.3828125,449.7734375,1015.40625,9,17,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,99, each ,29667,1997781,931,413,389.2734375,929.671875,409.7734375,973.7109375,8,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,98, Northumberland ,29717,1997831,872,411,389.2734375,795.6015625,409.7734375,929.671875,8,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,98, Northumberland ,29767,1997880,816,412,389.2734375,795.6015625,409.7734375,929.671875,8,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,111, a ,29817,1997930,754,421,429.2734375,739.203125,449.7734375,754.21875,9,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,109, “We ,29867,1997980,677,432,429.2734375,671.5,449.7734375,709.1796875,9,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,108, status. ,29917,1998030,622,441,429.2734375,613.46875,449.7734375,671.5,9,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,106, Dark ,29967,1998081,573,448,429.2734375,535.453125,449.7734375,578.4609375,9,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,106, Dark ,30017,1998130,540,451,429.2734375,535.453125,449.7734375,578.4609375,9,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,104, of ,30067,1998181,509,454,429.2734375,492.4296875,449.7734375,512.4453125,9,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,103, aware ,30117,1998231,480,457,429.2734375,438.3984375,449.7734375,492.4296875,9,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,121," now,” ",30167,1998281,457,461,469.2734375,432.3828125,489.7734375,480.421875,10,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,121," now,” ",30217,1998331,439,463,469.2734375,432.3828125,489.7734375,480.421875,10,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,120, sky ,30267,1998380,425,465,469.2734375,400.375,489.7734375,432.3828125,10,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,120, sky ,30317,1998430,411,467,469.2734375,400.375,489.7734375,432.3828125,10,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,120, sky ,30366,1998480,405,468,469.2734375,400.375,489.7734375,432.3828125,10,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,120, sky ,30417,1998530,404,468,469.2734375,400.375,489.7734375,432.3828125,10,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,120, sky ,30467,1998580,404,468,469.2734375,400.375,489.7734375,432.3828125,10,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,120, sky ,30517,1998631,404,467,469.2734375,400.375,489.7734375,432.3828125,10,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,120, sky ,30566,1998680,404,467,469.2734375,400.375,489.7734375,432.3828125,10,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,120, sky ,30616,1998730,404,466,469.2734375,400.375,489.7734375,432.3828125,10,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,120, sky ,30666,1998780,404,464,469.2734375,400.375,489.7734375,432.3828125,10,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,30717,1998831,409,455,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,30767,1998880,412,449,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,30816,1998930,413,448,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,30867,1998981,413,448,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,30918,1999031,413,448,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,30967,1999081,413,448,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,31018,1999131,413,448,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,31068,1999181,413,448,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,31117,1999231,413,448,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,31167,1999280,413,448,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,31217,1999331,413,448,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,31266,1999380,413,448,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,31316,1999430,416,448,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,31366,1999480,418,447,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,31418,1999531,418,447,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,31467,1999581,418,447,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,31517,1999631,418,447,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,31567,1999681,418,447,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,31617,1999730,418,448,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,31667,1999781,416,453,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,31715,1999829,415,459,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,120, sky ,31768,1999881,414,460,469.2734375,400.375,489.7734375,432.3828125,10,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,120, sky ,31817,1999931,414,460,469.2734375,400.375,489.7734375,432.3828125,10,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,31866,1999980,414,458,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,31917,2000030,414,454,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,31967,2000081,414,453,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,32017,2000130,414,452,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,32066,2000180,415,447,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,32116,2000230,416,446,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,32167,2000280,416,446,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,32217,2000330,417,446,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,102, now ,32267,2000380,426,446,429.2734375,400.375,449.7734375,438.3984375,9,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,103, aware ,32316,2000430,446,444,429.2734375,438.3984375,449.7734375,492.4296875,9,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,103, aware ,32367,2000480,474,440,429.2734375,438.3984375,449.7734375,492.4296875,9,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,104, of ,32417,2000530,506,436,429.2734375,492.4296875,449.7734375,512.4453125,9,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,106, Dark ,32467,2000580,536,429,429.2734375,535.453125,449.7734375,578.4609375,9,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,106, Dark ,32516,2000630,559,423,429.2734375,535.453125,449.7734375,578.4609375,9,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,106, Dark ,32566,2000680,570,421,429.2734375,535.453125,449.7734375,578.4609375,9,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,107, Sky ,32617,2000730,579,421,429.2734375,578.4609375,449.7734375,613.46875,9,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,107, Sky ,32667,2000780,590,421,429.2734375,578.4609375,449.7734375,613.46875,9,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,107, Sky ,32717,2000830,611,426,429.2734375,578.4609375,449.7734375,613.46875,9,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,108, status. ,32767,2000880,643,428,429.2734375,613.46875,449.7734375,671.5,9,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,109, “We ,32817,2000930,691,425,429.2734375,671.5,449.7734375,709.1796875,9,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,110, get ,32867,2000980,732,421,429.2734375,709.1796875,449.7734375,739.203125,9,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,111, a ,32917,2001031,754,421,429.2734375,739.203125,449.7734375,754.21875,9,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,112, lot ,32967,2001080,761,424,429.2734375,754.21875,449.7734375,778.234375,9,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,112, lot ,33016,2001130,764,426,429.2734375,754.21875,449.7734375,778.234375,9,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,112, lot ,33067,2001180,766,427,429.2734375,754.21875,449.7734375,778.234375,9,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,112, lot ,33117,2001230,771,429,429.2734375,754.21875,449.7734375,778.234375,9,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,113, of ,33167,2001280,791,429,429.2734375,778.234375,449.7734375,798.25,9,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,114, people ,33217,2001330,829,429,429.2734375,798.25,449.7734375,857.3046875,9,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,115, coming ,33266,2001380,879,422,429.2734375,857.3046875,449.7734375,920.3359375,9,14,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,98, Northumberland ,33317,2001430,915,417,389.2734375,795.6015625,409.7734375,929.671875,8,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,99, each ,33366,2001480,934,415,389.2734375,929.671875,409.7734375,973.7109375,8,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,99, each ,33416,2001530,935,415,389.2734375,929.671875,409.7734375,973.7109375,8,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,99, each ,33467,2001580,938,415,389.2734375,929.671875,409.7734375,973.7109375,8,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,99, each ,33517,2001630,943,415,389.2734375,929.671875,409.7734375,973.7109375,8,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,99, each ,33566,2001680,947,417,389.2734375,929.671875,409.7734375,973.7109375,8,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,116, here ,33617,2001730,956,421,429.2734375,920.3359375,449.7734375,961.3671875,9,15,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,116, here ,33666,2001780,959,422,429.2734375,920.3359375,449.7734375,961.3671875,9,15,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,116, here ,33717,2001831,959,422,429.2734375,920.3359375,449.7734375,961.3671875,9,15,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,116, here ,33767,2001880,959,422,429.2734375,920.3359375,449.7734375,961.3671875,9,15,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,116, here ,33817,2001930,959,422,429.2734375,920.3359375,449.7734375,961.3671875,9,15,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,116, here ,33866,2001980,957,424,429.2734375,920.3359375,449.7734375,961.3671875,9,15,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,116, here ,33918,2002031,957,425,429.2734375,920.3359375,449.7734375,961.3671875,9,15,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,116, here ,33967,2002081,957,425,429.2734375,920.3359375,449.7734375,961.3671875,9,15,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,116, here ,34017,2002130,961,428,429.2734375,920.3359375,449.7734375,961.3671875,9,15,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,117, to ,34067,2002180,967,431,429.2734375,961.3671875,449.7734375,981.3828125,9,16,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,117, to ,34116,2002230,969,432,429.2734375,961.3671875,449.7734375,981.3828125,9,16,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,117, to ,34167,2002280,970,432,429.2734375,961.3671875,449.7734375,981.3828125,9,16,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,117, to ,34217,2002331,970,432,429.2734375,961.3671875,449.7734375,981.3828125,9,16,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,117, to ,34267,2002381,966,434,429.2734375,961.3671875,449.7734375,981.3828125,9,16,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,115, coming ,34317,2002431,920,435,429.2734375,857.3046875,449.7734375,920.3359375,9,14,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,98, Northumberland ,34367,2002480,824,417,389.2734375,795.6015625,409.7734375,929.671875,8,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,96, who ,34417,2002531,732,411,389.2734375,721.578125,409.7734375,759.6015625,8,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,108, status. ,34466,2002580,638,424,429.2734375,613.46875,449.7734375,671.5,9,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,106, Dark ,34517,2002631,571,441,429.2734375,535.453125,449.7734375,578.4609375,9,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,105, its ,34567,2002680,527,449,429.2734375,512.4453125,449.7734375,535.453125,9,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,104, of ,34617,2002730,499,454,429.2734375,492.4296875,449.7734375,512.4453125,9,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,121," now,” ",34667,2002781,471,463,469.2734375,432.3828125,489.7734375,480.421875,10,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,121," now,” ",34717,2002831,436,477,469.2734375,432.3828125,489.7734375,480.421875,10,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,120, sky ,34767,2002881,416,486,469.2734375,400.375,489.7734375,432.3828125,10,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,120, sky ,34817,2002930,404,490,469.2734375,400.375,489.7734375,432.3828125,10,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,120, sky ,34866,2002979,401,491,469.2734375,400.375,489.7734375,432.3828125,10,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,120, sky ,34917,2003030,401,491,469.2734375,400.375,489.7734375,432.3828125,10,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,34967,2003080,400,489,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,35017,2003130,398,488,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,35066,2003180,398,488,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,35116,2003230,398,488,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,35166,2003280,398,488,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,35215,2003329,398,488,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,35267,2003380,398,488,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,35317,2003430,399,488,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,120, sky ,35367,2003480,411,485,469.2734375,400.375,489.7734375,432.3828125,10,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,120, sky ,35416,2003530,421,483,469.2734375,400.375,489.7734375,432.3828125,10,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,120, sky ,35467,2003580,431,481,469.2734375,400.375,489.7734375,432.3828125,10,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,121," now,” ",35517,2003630,440,481,469.2734375,432.3828125,489.7734375,480.421875,10,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,121," now,” ",35566,2003680,449,480,469.2734375,432.3828125,489.7734375,480.421875,10,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,121," now,” ",35616,2003730,461,479,469.2734375,432.3828125,489.7734375,480.421875,10,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,121," now,” ",35667,2003780,473,478,469.2734375,432.3828125,489.7734375,480.421875,10,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,122, says ,35717,2003831,485,476,469.2734375,480.421875,489.7734375,522.4375,10,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,122, says ,35767,2003881,497,476,469.2734375,480.421875,489.7734375,522.4375,10,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,122, says ,35817,2003930,511,475,469.2734375,480.421875,489.7734375,522.4375,10,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,123, the ,35867,2003980,525,474,469.2734375,522.4375,489.7734375,552.4609375,10,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,123, the ,35917,2004030,535,472,469.2734375,522.4375,489.7734375,552.4609375,10,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,123, the ,35967,2004081,536,472,469.2734375,522.4375,489.7734375,552.4609375,10,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,123, the ,36017,2004131,536,472,469.2734375,522.4375,489.7734375,552.4609375,10,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,123, the ,36067,2004181,536,472,469.2734375,522.4375,489.7734375,552.4609375,10,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,123, the ,36118,2004231,536,472,469.2734375,522.4375,489.7734375,552.4609375,10,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,123, the ,36168,2004281,536,472,469.2734375,522.4375,489.7734375,552.4609375,10,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,123, the ,36217,2004330,545,471,469.2734375,522.4375,489.7734375,552.4609375,10,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,124, man ,36267,2004380,573,469,469.2734375,552.4609375,489.7734375,592.484375,10,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,125, at ,36317,2004431,600,469,469.2734375,592.484375,489.7734375,612.5,10,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,126, the ,36367,2004480,625,470,469.2734375,612.5,489.7734375,642.5234375,10,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,126, the ,36417,2004531,642,474,469.2734375,612.5,489.7734375,642.5234375,10,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,127, car-hire ,36467,2004580,653,476,469.2734375,642.5234375,489.7734375,708.5390625,10,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,127, car-hire ,36517,2004631,661,478,469.2734375,642.5234375,489.7734375,708.5390625,10,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,127, car-hire ,36567,2004680,674,478,469.2734375,642.5234375,489.7734375,708.5390625,10,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,127, car-hire ,36617,2004730,690,479,469.2734375,642.5234375,489.7734375,708.5390625,10,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,128, firm ,36667,2004780,709,479,469.2734375,708.5390625,489.7734375,743.53125,10,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,128, firm ,36717,2004830,714,479,469.2734375,708.5390625,489.7734375,743.53125,10,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,128, firm ,36767,2004881,714,479,469.2734375,708.5390625,489.7734375,743.53125,10,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,128, firm ,36817,2004931,714,479,469.2734375,708.5390625,489.7734375,743.53125,10,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,128, firm ,36868,2004981,714,479,469.2734375,708.5390625,489.7734375,743.53125,10,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,128, firm ,36917,2005031,714,479,469.2734375,708.5390625,489.7734375,743.53125,10,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,128, firm ,36966,2005080,726,477,469.2734375,708.5390625,489.7734375,743.53125,10,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,129, in ,37017,2005130,747,473,469.2734375,743.53125,489.7734375,762.546875,10,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,130, Newcastle. ,37067,2005181,785,472,469.2734375,762.546875,489.7734375,855.5859375,10,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,130, Newcastle. ,37117,2005230,815,475,469.2734375,762.546875,489.7734375,855.5859375,10,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,130, Newcastle. ,37167,2005280,841,478,469.2734375,762.546875,489.7734375,855.5859375,10,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,131, “They ,37216,2005330,859,479,469.2734375,855.5859375,489.7734375,906.6015625,10,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,131, “They ,37267,2005380,873,479,469.2734375,855.5859375,489.7734375,906.6015625,10,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,131, “They ,37318,2005432,889,479,469.2734375,855.5859375,489.7734375,906.6015625,10,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,131, “They ,37367,2005481,903,479,469.2734375,855.5859375,489.7734375,906.6015625,10,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,132, come ,37417,2005530,915,479,469.2734375,906.6015625,489.7734375,955.625,10,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,132, come ,37466,2005580,930,480,469.2734375,906.6015625,489.7734375,955.625,10,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,132, come ,37516,2005630,943,481,469.2734375,906.6015625,489.7734375,955.625,10,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,132, come ,37566,2005680,955,482,469.2734375,906.6015625,489.7734375,955.625,10,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,133, in ,37617,2005731,967,484,469.2734375,955.625,489.7734375,974.640625,10,14,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,134, autumn ,37667,2005780,978,486,469.2734375,974.640625,489.7734375,1034.6796875,10,15,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,134, autumn ,37717,2005831,989,487,469.2734375,974.640625,489.7734375,1034.6796875,10,15,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,134, autumn ,37766,2005880,1000,488,469.2734375,974.640625,489.7734375,1034.6796875,10,15,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,134, autumn ,37816,2005930,1009,490,469.2734375,974.640625,489.7734375,1034.6796875,10,15,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,134, autumn ,37866,2005980,1014,491,469.2734375,974.640625,489.7734375,1034.6796875,10,15,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,134, autumn ,37917,2006031,1016,491,469.2734375,974.640625,489.7734375,1034.6796875,10,15,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,134, autumn ,37968,2006081,1016,492,469.2734375,974.640625,489.7734375,1034.6796875,10,15,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,134, autumn ,38017,2006130,1001,492,469.2734375,974.640625,489.7734375,1034.6796875,10,15,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,133, in ,38067,2006181,957,492,469.2734375,955.625,489.7734375,974.640625,10,14,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,131, “They ,38117,2006230,873,493,469.2734375,855.5859375,489.7734375,906.6015625,10,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,143, local ,38167,2006280,758,506,509.2734375,741.28125,529.7734375,783.3046875,11,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,140, Good ,38216,2006330,648,520,509.2734375,636.2109375,529.7734375,685.25,11,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,138, it’s ,38267,2006380,551,529,509.2734375,540.4921875,529.7734375,567.1796875,11,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,136," winter, ",38316,2006430,488,538,509.2734375,435.4140625,529.7734375,492.453125,11,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,152, now.” ,38366,2006480,452,544,549.2734375,451.4140625,569.7734375,494.4453125,12,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,151, round ,38416,2006530,431,546,549.2734375,400.375,569.7734375,451.4140625,12,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,151, round ,38466,2006580,408,546,549.2734375,400.375,569.7734375,451.4140625,12,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,38516,2006630,395,545,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,38566,2006680,387,538,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,38616,2006730,383,532,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,38666,2006780,383,528,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,38716,2006830,389,525,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,38766,2006880,395,524,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,38816,2006930,399,523,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,135, and ,38866,2006980,404,523,509.2734375,400.375,529.7734375,435.4140625,11,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,135, and ,38916,2007030,421,523,509.2734375,400.375,529.7734375,435.4140625,11,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,136," winter, ",38966,2007080,461,523,509.2734375,435.4140625,529.7734375,492.453125,11,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,137, when ,39017,2007130,505,521,509.2734375,492.453125,529.7734375,540.4921875,11,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,137, when ,39066,2007180,527,521,509.2734375,492.453125,529.7734375,540.4921875,11,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,137, when ,39117,2007230,537,521,509.2734375,492.453125,529.7734375,540.4921875,11,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,137, when ,39166,2007280,540,521,509.2734375,492.453125,529.7734375,540.4921875,11,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,138, it’s ,39216,2007330,542,521,509.2734375,540.4921875,529.7734375,567.1796875,11,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,138, it’s ,39266,2007380,542,521,509.2734375,540.4921875,529.7734375,567.1796875,11,4,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,137, when ,39317,2007430,535,521,509.2734375,492.453125,529.7734375,540.4921875,11,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,137, when ,39368,2007481,535,521,509.2734375,492.453125,529.7734375,540.4921875,11,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,137, when ,39417,2007531,535,521,509.2734375,492.453125,529.7734375,540.4921875,11,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,137, when ,39467,2007581,535,521,509.2734375,492.453125,529.7734375,540.4921875,11,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,137, when ,39518,2007632,538,521,509.2734375,492.453125,529.7734375,540.4921875,11,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,139, darkest. ,39567,2007681,571,517,509.2734375,567.1796875,529.7734375,636.2109375,11,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,139, darkest. ,39617,2007731,621,517,509.2734375,567.1796875,529.7734375,636.2109375,11,5,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,140, Good ,39667,2007781,649,523,509.2734375,636.2109375,529.7734375,685.25,11,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,140, Good ,39717,2007830,665,526,509.2734375,636.2109375,529.7734375,685.25,11,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,140, Good ,39766,2007880,676,527,509.2734375,636.2109375,529.7734375,685.25,11,6,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,141, for ,39817,2007930,686,527,509.2734375,685.25,529.7734375,711.2578125,11,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,141, for ,39867,2007980,697,528,509.2734375,685.25,529.7734375,711.2578125,11,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,141, for ,39917,2008030,710,529,509.2734375,685.25,529.7734375,711.2578125,11,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,142, the ,39967,2008080,727,529,509.2734375,711.2578125,529.7734375,741.28125,11,8,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,143, local ,40017,2008131,750,531,509.2734375,741.28125,529.7734375,783.3046875,11,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,143, local ,40066,2008180,777,535,509.2734375,741.28125,529.7734375,783.3046875,11,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,144, hotels ,40117,2008230,799,539,509.2734375,783.3046875,529.7734375,836.34375,11,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,40166,2008280,813,540,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,40216,2008330,814,540,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,40267,2008380,814,540,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,40316,2008430,814,540,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,40367,2008481,814,540,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,40416,2008530,814,540,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,40466,2008580,814,540,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,40517,2008631,814,540,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,144, hotels ,40567,2008681,814,539,509.2734375,783.3046875,529.7734375,836.34375,11,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,144, hotels ,40616,2008730,806,534,509.2734375,783.3046875,529.7734375,836.34375,11,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,144, hotels ,40666,2008780,799,531,509.2734375,783.3046875,529.7734375,836.34375,11,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,144, hotels ,40716,2008830,792,529,509.2734375,783.3046875,529.7734375,836.34375,11,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,144, hotels ,40767,2008880,784,526,509.2734375,783.3046875,529.7734375,836.34375,11,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,143, local ,40816,2008930,781,525,509.2734375,741.28125,529.7734375,783.3046875,11,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,143, local ,40867,2008981,781,524,509.2734375,741.28125,529.7734375,783.3046875,11,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,143, local ,40917,2009030,781,524,509.2734375,741.28125,529.7734375,783.3046875,11,9,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,144, hotels ,40967,2009080,788,523,509.2734375,783.3046875,529.7734375,836.34375,11,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,144, hotels ,41017,2009130,809,521,509.2734375,783.3046875,529.7734375,836.34375,11,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,144, hotels ,41067,2009180,829,521,509.2734375,783.3046875,529.7734375,836.34375,11,10,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,145, as ,41117,2009230,852,521,509.2734375,836.34375,529.7734375,860.359375,11,11,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,146, they ,41167,2009281,877,521,509.2734375,860.359375,529.7734375,899.3828125,11,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,146, they ,41217,2009330,894,521,509.2734375,860.359375,529.7734375,899.3828125,11,12,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,147, get ,41267,2009381,907,521,509.2734375,899.3828125,529.7734375,929.40625,11,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,147, get ,41317,2009431,917,522,509.2734375,899.3828125,529.7734375,929.40625,11,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,147, get ,41367,2009480,928,523,509.2734375,899.3828125,529.7734375,929.40625,11,13,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,148, business ,41416,2009530,939,525,509.2734375,929.40625,529.7734375,1005.453125,11,14,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,148, business ,41467,2009580,952,525,509.2734375,929.40625,529.7734375,1005.453125,11,14,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,148, business ,41517,2009630,970,525,509.2734375,929.40625,529.7734375,1005.453125,11,14,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,148, business ,41567,2009680,999,521,509.2734375,929.40625,529.7734375,1005.453125,11,14,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,149, all ,41617,2009730,1021,519,509.2734375,1005.453125,529.7734375,1028.46875,11,15,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,150, year ,41667,2009780,1039,518,509.2734375,1028.46875,529.7734375,1063.484375,11,16,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,150, year ,41717,2009830,1054,518,509.2734375,1028.46875,529.7734375,1063.484375,11,16,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,41766,2009880,1066,518,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,41816,2009930,1071,518,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,41867,2009980,1071,518,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,41917,2010030,1071,519,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,150, year ,41967,2010081,1062,525,509.2734375,1028.46875,529.7734375,1063.484375,11,16,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,148, business ,42017,2010131,944,527,509.2734375,929.40625,529.7734375,1005.453125,11,14,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,141, for ,42067,2010180,704,513,509.2734375,685.25,529.7734375,711.2578125,11,7,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,137, when ,42117,2010230,511,516,509.2734375,492.453125,529.7734375,540.4921875,11,3,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,136," winter, ",42166,2010280,437,522,509.2734375,435.4140625,529.7734375,492.453125,11,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,135, and ,42216,2010330,419,522,509.2734375,400.375,529.7734375,435.4140625,11,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,135, and ,42266,2010380,415,522,509.2734375,400.375,529.7734375,435.4140625,11,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,135, and ,42317,2010431,410,523,509.2734375,400.375,529.7734375,435.4140625,11,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,135, and ,42367,2010480,406,528,509.2734375,400.375,529.7734375,435.4140625,11,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,135, and ,42416,2010530,405,538,509.2734375,400.375,529.7734375,435.4140625,11,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,151, round ,42466,2010580,409,547,549.2734375,400.375,569.7734375,451.4140625,12,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,151, round ,42516,2010630,412,550,549.2734375,400.375,569.7734375,451.4140625,12,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,151, round ,42566,2010680,413,552,549.2734375,400.375,569.7734375,451.4140625,12,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,151, round ,42617,2010730,415,553,549.2734375,400.375,569.7734375,451.4140625,12,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,151, round ,42667,2010780,419,555,549.2734375,400.375,569.7734375,451.4140625,12,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,151, round ,42716,2010830,420,555,549.2734375,400.375,569.7734375,451.4140625,12,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,151, round ,42766,2010880,424,555,549.2734375,400.375,569.7734375,451.4140625,12,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,151, round ,42817,2010930,437,555,549.2734375,400.375,569.7734375,451.4140625,12,1,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,152, now.” ,42867,2010980,457,555,549.2734375,451.4140625,569.7734375,494.4453125,12,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,152, now.” ,42916,2011030,470,559,549.2734375,451.4140625,569.7734375,494.4453125,12,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,152, now.” ,42966,2011080,478,560,549.2734375,451.4140625,569.7734375,494.4453125,12,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,152, now.” ,43016,2011130,484,561,549.2734375,451.4140625,569.7734375,494.4453125,12,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,152, now.” ,43066,2011180,488,562,549.2734375,451.4140625,569.7734375,494.4453125,12,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,152, now.” ,43116,2011230,498,565,549.2734375,451.4140625,569.7734375,494.4453125,12,2,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,43166,2011280,512,568,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,43216,2011330,519,570,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,43267,2011381,518,570,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,43317,2011431,518,570,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,43366,2011480,518,570,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,43417,2011530,518,570,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,43467,2011580,523,570,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,43516,2011630,551,573,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,43567,2011680,605,587,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,43616,2011730,630,595,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,43665,2011779,630,595,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,43717,2011830,630,595,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,43766,2011880,630,595,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,43816,2011930,630,595,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,43867,2011980,630,595,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,43916,2012030,630,595,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,43966,2012080,630,595,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,44016,2012130,630,595,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,44066,2012180,630,595,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,44117,2012230,630,595,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,44166,2012280,630,595,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,6,3,47,48,-1,,44216,2012330,630,595,,,,,,,Local hotels are cheaper then,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
