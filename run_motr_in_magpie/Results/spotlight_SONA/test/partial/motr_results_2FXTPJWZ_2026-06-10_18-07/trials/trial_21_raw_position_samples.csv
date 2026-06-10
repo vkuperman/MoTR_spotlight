@@ -1,0 +1,15 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,1,ele,15,4,20,21,54, don’t ,302,604906,569,247,231.2734375,562.1640625,251.7734375,606.203125,4,5,People might buy the wrong product,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,4,20,21,-1,999,352,604956,589,196,,,,,,,People might buy the wrong product,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,4,20,21,-1,999,402,605006,645,179,,,,,,,People might buy the wrong product,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,4,20,21,-1,999,452,605057,696,204,,,,,,,People might buy the wrong product,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,4,20,21,-1,999,501,605105,815,361,,,,,,,People might buy the wrong product,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,4,20,21,-1,999,552,605156,815,361,,,,,,,People might buy the wrong product,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,4,20,21,-1,999,602,605206,815,361,,,,,,,People might buy the wrong product,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,4,20,21,-1,999,652,605256,815,361,,,,,,,People might buy the wrong product,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,4,20,21,-1,999,702,605306,815,361,,,,,,,People might buy the wrong product,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,4,20,21,-1,999,752,605356,815,361,,,,,,,People might buy the wrong product,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,4,20,21,-1,999,802,605406,815,361,,,,,,,People might buy the wrong product,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,4,20,21,-1,999,852,605456,815,361,,,,,,,People might buy the wrong product,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,4,20,21,-1,999,903,605507,815,361,,,,,,,People might buy the wrong product,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,15,4,20,21,-1,999,952,605557,815,361,,,,,,,People might buy the wrong product,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
