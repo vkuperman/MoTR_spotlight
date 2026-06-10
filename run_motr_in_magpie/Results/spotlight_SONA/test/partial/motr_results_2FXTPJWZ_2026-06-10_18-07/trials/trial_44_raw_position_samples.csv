@@ -1,0 +1,22 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,19,6,43,44,49, wolves ,385,684607,532,237,231.2734375,480.453125,251.7734375,540.4765625,4,3,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,435,684657,612,219,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,484,684707,660,245,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,534,684756,660,245,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,584,684806,660,245,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,634,684856,660,245,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,684,684906,660,245,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,734,684956,660,245,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,784,685006,660,245,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,834,685056,660,245,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,884,685106,660,245,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,934,685156,660,245,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,984,685206,660,245,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,1034,685257,660,245,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,1084,685306,660,245,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,1134,685356,660,245,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,1183,685405,660,245,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,1234,685456,660,245,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,1285,685507,660,245,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,1333,685555,660,245,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,19,6,43,44,-1,999,1384,685606,660,245,,,,,,,Other wild animals are more interesting to tourists,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
