@@ -1,0 +1,23 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,1,ele,20,2,24,25,82, musicians ,301,622457,558,327,311.2734375,503.46875,331.7734375,588.5,6,4,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,350,622505,553,240,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,400,622555,570,195,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,451,622607,651,180,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,501,622657,742,252,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,551,622706,810,452,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,600,622755,810,452,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,650,622805,810,452,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,701,622856,810,452,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,751,622906,810,452,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,800,622955,810,452,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,850,623005,810,452,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,901,623056,810,452,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,952,623107,810,452,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,1000,623155,810,452,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,1052,623207,810,452,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,1101,623256,810,452,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,1151,623307,810,452,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,1200,623355,810,452,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,1250,623405,810,452,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,1301,623456,810,452,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,20,2,24,25,-1,999,1351,623507,810,452,,,,,,,Many don’t have financial success for many years,1,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
