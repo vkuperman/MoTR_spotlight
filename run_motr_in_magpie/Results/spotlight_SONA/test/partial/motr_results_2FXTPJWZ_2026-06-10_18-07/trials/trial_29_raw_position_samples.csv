@@ -1,0 +1,19 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,1,ele,2,1,28,29,-1,999,302,636007,559,349,,,,,,,It is already in use in many police stations,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,1,28,29,81, lying. ,352,636057,574,329,311.2734375,540.484375,331.7734375,587.3515625,6,5,It is already in use in many police stations,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,1,28,29,-1,999,402,636106,650,364,,,,,,,It is already in use in many police stations,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,1,28,29,-1,999,451,636155,650,364,,,,,,,It is already in use in many police stations,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,1,28,29,-1,999,501,636206,650,364,,,,,,,It is already in use in many police stations,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,1,28,29,-1,999,552,636256,680,325,,,,,,,It is already in use in many police stations,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,1,28,29,21, catch ,602,636307,670,153,151.2734375,657.5703125,171.7734375,705.59375,2,7,It is already in use in many police stations,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,1,28,29,6, the ,652,636357,707,124,111.2734375,683.6171875,131.7734375,713.640625,1,6,It is already in use in many police stations,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,1,28,29,-1,999,702,636406,828,261,,,,,,,It is already in use in many police stations,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,1,28,29,-1,999,752,636457,844,400,,,,,,,It is already in use in many police stations,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,1,28,29,-1,999,802,636506,844,400,,,,,,,It is already in use in many police stations,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,1,28,29,-1,999,851,636555,844,400,,,,,,,It is already in use in many police stations,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,1,28,29,-1,999,901,636605,844,400,,,,,,,It is already in use in many police stations,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,1,28,29,-1,999,952,636656,844,400,,,,,,,It is already in use in many police stations,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,1,28,29,-1,999,1001,636705,844,400,,,,,,,It is already in use in many police stations,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,1,28,29,-1,999,1051,636755,844,400,,,,,,,It is already in use in many police stations,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,1,28,29,-1,999,1101,636805,844,400,,,,,,,It is already in use in many police stations,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,2,1,28,29,-1,999,1152,636856,844,400,,,,,,,It is already in use in many police stations,0,,,,,1970-01-01T00:00:00.253Z,,,,,,,,,spotlight-sona
