@@ -1,0 +1,20 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,2,int,24,1,53,54,-1,999,501,721006,570,264,,,,,,,Tourists overcrowded Agios Efstratios,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,1,53,54,38, crisis ,552,721056,596,205,191.2734375,588.515625,211.7734375,634.515625,3,5,Tourists overcrowded Agios Efstratios,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,1,53,54,-1,999,602,721107,647,184,,,,,,,Tourists overcrowded Agios Efstratios,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,1,53,54,-1,999,651,721156,725,191,,,,,,,Tourists overcrowded Agios Efstratios,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,1,53,54,-1,999,702,721207,778,224,,,,,,,Tourists overcrowded Agios Efstratios,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,1,53,54,-1,999,751,721256,798,245,,,,,,,Tourists overcrowded Agios Efstratios,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,1,53,54,-1,999,802,721307,811,340,,,,,,,Tourists overcrowded Agios Efstratios,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,1,53,54,-1,999,851,721356,811,340,,,,,,,Tourists overcrowded Agios Efstratios,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,1,53,54,-1,999,901,721406,811,340,,,,,,,Tourists overcrowded Agios Efstratios,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,1,53,54,-1,999,951,721456,811,340,,,,,,,Tourists overcrowded Agios Efstratios,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,1,53,54,-1,999,1001,721506,811,340,,,,,,,Tourists overcrowded Agios Efstratios,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,1,53,54,-1,999,1051,721556,811,340,,,,,,,Tourists overcrowded Agios Efstratios,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,1,53,54,-1,999,1101,721606,811,340,,,,,,,Tourists overcrowded Agios Efstratios,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,1,53,54,-1,999,1151,721656,811,340,,,,,,,Tourists overcrowded Agios Efstratios,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,1,53,54,-1,999,1201,721706,811,340,,,,,,,Tourists overcrowded Agios Efstratios,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,1,53,54,-1,999,1251,721756,811,340,,,,,,,Tourists overcrowded Agios Efstratios,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,1,53,54,-1,999,1302,721807,811,340,,,,,,,Tourists overcrowded Agios Efstratios,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,1,53,54,-1,999,1352,721857,811,340,,,,,,,Tourists overcrowded Agios Efstratios,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,2,int,24,1,53,54,-1,999,1402,721907,811,340,,,,,,,Tourists overcrowded Agios Efstratios,0,,,,,1970-01-01T00:00:00.247Z,,,,,,,,,spotlight-sona
