@@ -1,0 +1,717 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+FAC7L8ES,,3,adv,28,4,69,70,-1,,5678,2898790,745,509,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,5718,2898830,745,509,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,5768,2898880,745,509,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,5818,2898930,745,509,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,5868,2898980,745,509,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,5918,2899030,745,509,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,5968,2899080,745,509,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,6018,2899130,725,509,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,105," But, ",6068,2899180,498,454,429.2734375,469.4375,449.7734375,506.4609375,9,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,6117,2899229,321,315,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,6167,2899279,308,203,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,6217,2899329,328,171,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,6267,2899379,329,167,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,6318,2899430,328,157,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,6368,2899480,352,139,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,6418,2899530,393,117,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,6468,2899580,409,111,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,6518,2899630,411,111,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,6568,2899680,411,111,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,6619,2899731,411,111,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,6668,2899780,411,111,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,6719,2899831,411,111,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,6768,2899880,411,111,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,6817,2899929,411,111,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,6868,2899980,411,111,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,6919,2900031,411,111,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,6968,2900080,411,111,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7019,2900131,413,111,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7069,2900181,418,111,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7118,2900230,435,111,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7168,2900280,459,108,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7218,2900330,476,107,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7268,2900380,493,107,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7318,2900430,516,105,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7368,2900480,566,103,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7418,2900530,613,99,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7469,2900581,613,99,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7518,2900630,613,99,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7568,2900680,613,99,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7619,2900731,613,99,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7669,2900781,614,99,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7719,2900831,625,99,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7768,2900880,643,104,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7818,2900930,666,108,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7868,2900980,686,111,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7917,2901029,703,113,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,7968,2901080,721,115,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,8017,2901129,751,118,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,9, numbers ,8067,2901179,788,121,109.2734375,724.578125,129.7734375,799.6171875,1,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,10, might ,8118,2901230,807,121,109.2734375,799.6171875,129.7734375,848.640625,1,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,10, might ,8169,2901281,807,121,109.2734375,799.6171875,129.7734375,848.640625,1,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,10, might ,8219,2901331,807,121,109.2734375,799.6171875,129.7734375,848.640625,1,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,10, might ,8270,2901381,807,121,109.2734375,799.6171875,129.7734375,848.640625,1,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,10, might ,8319,2901431,807,121,109.2734375,799.6171875,129.7734375,848.640625,1,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,10, might ,8367,2901479,808,121,109.2734375,799.6171875,129.7734375,848.640625,1,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,10, might ,8418,2901530,830,121,109.2734375,799.6171875,129.7734375,848.640625,1,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,11, be ,8468,2901580,854,121,109.2734375,848.640625,129.7734375,873.6640625,1,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,11, be ,8518,2901630,872,121,109.2734375,848.640625,129.7734375,873.6640625,1,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,12, the ,8568,2901680,895,122,109.2734375,873.6640625,129.7734375,903.6875,1,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,13, amount ,8619,2901731,920,123,109.2734375,903.6875,129.7734375,968.7265625,1,14,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,13, amount ,8668,2901780,946,124,109.2734375,903.6875,129.7734375,968.7265625,1,14,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,14, of ,8718,2901830,974,125,109.2734375,968.7265625,129.7734375,988.7421875,1,15,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,8769,2901881,996,127,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,8817,2901929,1012,129,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,8868,2901980,1024,129,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,8919,2902031,1027,129,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,8968,2902080,1027,129,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,9018,2902130,1027,129,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,9068,2902180,1027,129,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,9118,2902230,1027,129,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,9168,2902280,997,129,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,10, might ,9218,2902330,826,142,109.2734375,799.6171875,129.7734375,848.640625,1,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,17, available ,9268,2902380,543,175,149.2734375,519.4453125,169.7734375,595.5,2,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,9318,2902430,386,198,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,9368,2902480,320,209,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,9418,2902530,306,209,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,9468,2902580,306,209,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,9517,2902629,306,209,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,9568,2902680,312,189,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,9618,2902730,342,174,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,9668,2902780,363,170,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,9718,2902830,381,167,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,1, One ,9768,2902880,404,159,109.2734375,400.375,129.7734375,439.3984375,1,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,15, post-prison ,9818,2902930,420,153,109.2734375,400.375,169.7734375,1028.765625,1,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,15, post-prison ,9868,2902980,423,153,109.2734375,400.375,169.7734375,1028.765625,1,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,15, post-prison ,9919,2903031,423,153,109.2734375,400.375,169.7734375,1028.765625,1,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,15, post-prison ,9969,2903081,423,153,109.2734375,400.375,169.7734375,1028.765625,1,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,15, post-prison ,10018,2903130,423,153,109.2734375,400.375,169.7734375,1028.765625,1,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,15, post-prison ,10069,2903181,423,153,109.2734375,400.375,169.7734375,1028.765625,1,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,15, post-prison ,10118,2903230,428,153,109.2734375,400.375,169.7734375,1028.765625,1,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,15, post-prison ,10168,2903279,449,153,109.2734375,400.375,169.7734375,1028.765625,1,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,15, post-prison ,10218,2903330,480,155,109.2734375,400.375,169.7734375,1028.765625,1,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,3, reason ,10268,2903380,517,156,109.2734375,494.4296875,129.7734375,554.46875,1,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,3, reason ,10318,2903430,544,158,109.2734375,494.4296875,129.7734375,554.46875,1,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,4, for ,10367,2903479,563,159,109.2734375,554.46875,129.7734375,580.4765625,1,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,17, available ,10419,2903531,582,160,149.2734375,519.4453125,169.7734375,595.5,2,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,17, available ,10469,2903581,584,160,149.2734375,519.4453125,169.7734375,595.5,2,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,17, available ,10519,2903630,584,160,149.2734375,519.4453125,169.7734375,595.5,2,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,17, available ,10569,2903681,584,160,149.2734375,519.4453125,169.7734375,595.5,2,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,17, available ,10619,2903731,584,160,149.2734375,519.4453125,169.7734375,595.5,2,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,5, the ,10668,2903780,591,159,109.2734375,580.4765625,129.7734375,610.5,1,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,6, drop ,10717,2903829,624,154,109.2734375,610.5,129.7734375,651.53125,1,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,8, prison ,10768,2903880,674,150,109.2734375,670.546875,129.7734375,724.578125,1,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,8, prison ,10818,2903930,688,150,109.2734375,670.546875,129.7734375,724.578125,1,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,8, prison ,10868,2903980,704,151,109.2734375,670.546875,129.7734375,724.578125,1,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,8, prison ,10919,2904031,718,152,109.2734375,670.546875,129.7734375,724.578125,1,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,9, numbers ,10968,2904080,726,153,109.2734375,724.578125,129.7734375,799.6171875,1,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,9, numbers ,11018,2904130,734,154,109.2734375,724.578125,129.7734375,799.6171875,1,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,9, numbers ,11068,2904180,745,155,109.2734375,724.578125,129.7734375,799.6171875,1,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,9, numbers ,11118,2904230,762,158,109.2734375,724.578125,129.7734375,799.6171875,1,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,9, numbers ,11168,2904280,778,158,109.2734375,724.578125,129.7734375,799.6171875,1,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,22, probation ,11218,2904329,796,160,149.2734375,782.671875,169.7734375,862.734375,2,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,22, probation ,11267,2904379,813,161,149.2734375,782.671875,169.7734375,862.734375,2,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,22, probation ,11318,2904430,832,163,149.2734375,782.671875,169.7734375,862.734375,2,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,23, service ,11368,2904480,875,167,149.2734375,862.734375,169.7734375,924.75,2,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,23, service ,11418,2904529,892,167,149.2734375,862.734375,169.7734375,924.75,2,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,23, service ,11468,2904580,909,167,149.2734375,862.734375,169.7734375,924.75,2,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,23, service ,11517,2904629,920,167,149.2734375,862.734375,169.7734375,924.75,2,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,25, a ,11568,2904680,941,167,149.2734375,939.765625,169.7734375,954.78125,2,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,26, government ,11618,2904730,959,164,149.2734375,954.78125,169.7734375,1049.8359375,2,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,26, government ,11668,2904780,978,163,149.2734375,954.78125,169.7734375,1049.8359375,2,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,26, government ,11718,2904830,987,163,149.2734375,954.78125,169.7734375,1049.8359375,2,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,26, government ,11768,2904880,1006,163,149.2734375,954.78125,169.7734375,1049.8359375,2,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,26, government ,11818,2904930,1026,163,149.2734375,954.78125,169.7734375,1049.8359375,2,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,26, government ,11868,2904980,1031,162,149.2734375,954.78125,169.7734375,1049.8359375,2,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,26, government ,11918,2905030,1033,161,149.2734375,954.78125,169.7734375,1049.8359375,2,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,26, government ,11968,2905080,1033,161,149.2734375,954.78125,169.7734375,1049.8359375,2,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,26, government ,12019,2905131,1033,161,149.2734375,954.78125,169.7734375,1049.8359375,2,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,26, government ,12069,2905181,1028,162,149.2734375,954.78125,169.7734375,1049.8359375,2,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,26, government ,12119,2905231,991,163,149.2734375,954.78125,169.7734375,1049.8359375,2,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,23, service ,12169,2905281,923,166,149.2734375,862.734375,169.7734375,924.75,2,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,22, probation ,12218,2905330,859,167,149.2734375,782.671875,169.7734375,862.734375,2,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,21, confident ,12269,2905381,753,174,149.2734375,704.609375,169.7734375,782.671875,2,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,19, Sweden. ,12318,2905430,647,176,149.2734375,614.515625,169.7734375,689.078125,2,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,17, available ,12369,2905481,538,179,149.2734375,519.4453125,169.7734375,595.5,2,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,16, support ,12419,2905531,462,179,149.2734375,454.40625,169.7734375,519.4453125,2,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,27, agency ,12468,2905580,425,181,189.2734375,400.375,209.7734375,463.421875,3,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,27, agency ,12518,2905630,413,185,189.2734375,400.375,209.7734375,463.421875,3,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,27, agency ,12568,2905680,406,188,189.2734375,400.375,209.7734375,463.421875,3,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,27, agency ,12619,2905730,402,191,189.2734375,400.375,209.7734375,463.421875,3,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,12667,2905779,400,195,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,27, agency ,12719,2905831,402,198,189.2734375,400.375,209.7734375,463.421875,3,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,27, agency ,12769,2905881,411,200,189.2734375,400.375,209.7734375,463.421875,3,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,27, agency ,12819,2905930,417,200,189.2734375,400.375,209.7734375,463.421875,3,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,27, agency ,12868,2905980,422,200,189.2734375,400.375,209.7734375,463.421875,3,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,27, agency ,12918,2906030,422,200,189.2734375,400.375,209.7734375,463.421875,3,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,27, agency ,12969,2906081,422,200,189.2734375,400.375,209.7734375,463.421875,3,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,27, agency ,13019,2906131,422,200,189.2734375,400.375,209.7734375,463.421875,3,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,27, agency ,13069,2906181,422,200,189.2734375,400.375,209.7734375,463.421875,3,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,27, agency ,13118,2906230,427,200,189.2734375,400.375,209.7734375,463.421875,3,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,27, agency ,13168,2906280,443,200,189.2734375,400.375,209.7734375,463.421875,3,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,27, agency ,13217,2906329,451,201,189.2734375,400.375,209.7734375,463.421875,3,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,27, agency ,13268,2906380,460,203,189.2734375,400.375,209.7734375,463.421875,3,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,28, – ,13318,2906430,473,205,189.2734375,463.421875,209.7734375,478.4375,3,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,29, is ,13368,2906480,495,205,189.2734375,478.4375,209.7734375,496.4375,3,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,30, tasked ,13418,2906530,523,205,189.2734375,496.4375,209.7734375,554.4765625,3,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,30, tasked ,13468,2906580,546,205,189.2734375,496.4375,209.7734375,554.4765625,3,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,31, not ,13517,2906629,576,202,189.2734375,554.4765625,209.7734375,584.5,3,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,31, not ,13569,2906681,584,202,189.2734375,554.4765625,209.7734375,584.5,3,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,31, not ,13619,2906731,584,202,189.2734375,554.4765625,209.7734375,584.5,3,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,31, not ,13669,2906781,584,202,189.2734375,554.4765625,209.7734375,584.5,3,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,31, not ,13719,2906831,584,202,189.2734375,554.4765625,209.7734375,584.5,3,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,31, not ,13769,2906881,584,202,189.2734375,554.4765625,209.7734375,584.5,3,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,32, only ,13818,2906930,589,202,189.2734375,584.5,209.7734375,622.5234375,3,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,32, only ,13868,2906980,599,202,189.2734375,584.5,209.7734375,622.5234375,3,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,32, only ,13919,2907031,614,202,189.2734375,584.5,209.7734375,622.5234375,3,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,33, with ,13968,2907080,634,200,189.2734375,622.5234375,209.7734375,659.5390625,3,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,34, supervising ,14017,2907129,663,199,189.2734375,659.5390625,209.7734375,755.5859375,3,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,34, supervising ,14067,2907179,682,199,189.2734375,659.5390625,209.7734375,755.5859375,3,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,34, supervising ,14118,2907230,706,198,189.2734375,659.5390625,209.7734375,755.5859375,3,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,34, supervising ,14168,2907280,737,198,189.2734375,659.5390625,209.7734375,755.5859375,3,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,34, supervising ,14218,2907330,751,196,189.2734375,659.5390625,209.7734375,755.5859375,3,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,34, supervising ,14269,2907380,750,196,189.2734375,659.5390625,209.7734375,755.5859375,3,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,34, supervising ,14319,2907431,750,196,189.2734375,659.5390625,209.7734375,755.5859375,3,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,34, supervising ,14369,2907481,750,196,189.2734375,659.5390625,209.7734375,755.5859375,3,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,35, those ,14419,2907531,758,196,189.2734375,755.5859375,209.7734375,804.625,3,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,35, those ,14468,2907580,774,195,189.2734375,755.5859375,209.7734375,804.625,3,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,35, those ,14517,2907629,797,195,189.2734375,755.5859375,209.7734375,804.625,3,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,37, probation ,14568,2907680,830,194,189.2734375,829.6484375,209.7734375,909.7109375,3,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,37, probation ,14617,2907729,841,194,189.2734375,829.6484375,209.7734375,909.7109375,3,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,37, probation ,14668,2907780,859,193,189.2734375,829.6484375,209.7734375,909.7109375,3,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,37, probation ,14718,2907830,872,193,189.2734375,829.6484375,209.7734375,909.7109375,3,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,37, probation ,14768,2907880,885,193,189.2734375,829.6484375,209.7734375,909.7109375,3,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,37, probation ,14818,2907930,897,193,189.2734375,829.6484375,209.7734375,909.7109375,3,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,38, but ,14868,2907980,912,193,189.2734375,909.7109375,209.7734375,939.734375,3,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,38, but ,14918,2908030,926,195,189.2734375,909.7109375,209.7734375,939.734375,3,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,38, but ,14969,2908081,926,195,189.2734375,909.7109375,209.7734375,939.734375,3,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,38, but ,15019,2908131,926,195,189.2734375,909.7109375,209.7734375,939.734375,3,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,38, but ,15069,2908181,926,195,189.2734375,909.7109375,209.7734375,939.734375,3,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,38, but ,15119,2908231,926,195,189.2734375,909.7109375,209.7734375,939.734375,3,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,38, but ,15167,2908279,927,195,189.2734375,909.7109375,209.7734375,939.734375,3,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,38, but ,15217,2908329,939,195,189.2734375,909.7109375,209.7734375,939.734375,3,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,40, also ,15268,2908380,967,194,189.2734375,957.734375,209.7734375,990.7578125,3,14,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,15318,2908430,991,194,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,15367,2908479,995,195,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,40, also ,15418,2908530,970,197,189.2734375,957.734375,209.7734375,990.7578125,3,14,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,37, probation ,15468,2908580,875,201,189.2734375,829.6484375,209.7734375,909.7109375,3,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,34, supervising ,15519,2908631,737,199,189.2734375,659.5390625,209.7734375,755.5859375,3,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,32, only ,15568,2908680,621,197,189.2734375,584.5,209.7734375,622.5234375,3,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,31, not ,15618,2908730,569,200,189.2734375,554.4765625,209.7734375,584.5,3,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,30, tasked ,15668,2908780,534,209,189.2734375,496.4375,209.7734375,554.4765625,3,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,30, tasked ,15718,2908830,497,217,189.2734375,496.4375,209.7734375,554.4765625,3,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,41, guaranteed ,15768,2908880,461,221,229.2734375,400.375,249.7734375,496.4609375,4,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,41, guaranteed ,15818,2908930,435,222,229.2734375,400.375,249.7734375,496.4609375,4,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,41, guaranteed ,15868,2908980,415,226,229.2734375,400.375,249.7734375,496.4609375,4,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,41, guaranteed ,15919,2909030,403,232,229.2734375,400.375,249.7734375,496.4609375,4,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,15968,2909080,397,236,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,16018,2909130,396,236,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,16068,2909180,398,236,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,41, guaranteed ,16117,2909229,409,236,229.2734375,400.375,249.7734375,496.4609375,4,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,41, guaranteed ,16167,2909279,422,238,229.2734375,400.375,249.7734375,496.4609375,4,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,41, guaranteed ,16217,2909329,454,238,229.2734375,400.375,249.7734375,496.4609375,4,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,41, guaranteed ,16268,2909379,483,238,229.2734375,400.375,249.7734375,496.4609375,4,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,43, provide ,16318,2909430,517,238,229.2734375,516.4765625,249.7734375,580.515625,4,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,43, provide ,16368,2909480,527,237,229.2734375,516.4765625,249.7734375,580.515625,4,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,43, provide ,16419,2909531,527,237,229.2734375,516.4765625,249.7734375,580.515625,4,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,43, provide ,16469,2909581,527,237,229.2734375,516.4765625,249.7734375,580.515625,4,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,43, provide ,16519,2909631,527,237,229.2734375,516.4765625,249.7734375,580.515625,4,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,43, provide ,16569,2909681,527,237,229.2734375,516.4765625,249.7734375,580.515625,4,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,43, provide ,16618,2909730,527,237,229.2734375,516.4765625,249.7734375,580.515625,4,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,43, provide ,16668,2909780,541,237,229.2734375,516.4765625,249.7734375,580.515625,4,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,43, provide ,16718,2909830,562,239,229.2734375,516.4765625,249.7734375,580.515625,4,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,44, treatment ,16767,2909879,588,241,229.2734375,580.515625,249.7734375,661.5546875,4,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,44, treatment ,16818,2909930,614,243,229.2734375,580.515625,249.7734375,661.5546875,4,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,44, treatment ,16867,2909979,643,246,229.2734375,580.515625,249.7734375,661.5546875,4,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,44, treatment ,16917,2910029,660,248,229.2734375,580.515625,249.7734375,661.5546875,4,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,45, programs ,16968,2910080,667,248,229.2734375,661.5546875,249.7734375,742.5859375,4,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,45, programs ,17019,2910131,667,248,229.2734375,661.5546875,249.7734375,742.5859375,4,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,45, programs ,17069,2910180,667,248,229.2734375,661.5546875,249.7734375,742.5859375,4,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,45, programs ,17119,2910231,667,248,229.2734375,661.5546875,249.7734375,742.5859375,4,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,45, programs ,17169,2910281,670,248,229.2734375,661.5546875,249.7734375,742.5859375,4,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,45, programs ,17217,2910329,691,247,229.2734375,661.5546875,249.7734375,742.5859375,4,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,45, programs ,17267,2910379,715,250,229.2734375,661.5546875,249.7734375,742.5859375,4,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,46, for ,17318,2910430,744,253,229.2734375,742.5859375,249.7734375,768.59375,4,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,46, for ,17368,2910480,768,253,229.2734375,742.5859375,249.7734375,768.59375,4,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,47, offenders ,17418,2910530,795,253,229.2734375,768.59375,249.7734375,848.328125,4,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,47, offenders ,17467,2910579,810,253,229.2734375,768.59375,249.7734375,848.328125,4,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,47, offenders ,17517,2910629,826,253,229.2734375,768.59375,249.7734375,848.328125,4,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,47, offenders ,17568,2910680,846,252,229.2734375,768.59375,249.7734375,848.328125,4,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,48, with ,17618,2910730,864,248,229.2734375,848.328125,249.7734375,885.34375,4,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,48, with ,17668,2910780,882,247,229.2734375,848.328125,249.7734375,885.34375,4,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,49," drug, ",17718,2910830,897,245,229.2734375,885.34375,249.7734375,931.375,4,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,49," drug, ",17768,2910880,912,245,229.2734375,885.34375,249.7734375,931.375,4,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,49," drug, ",17818,2910930,925,243,229.2734375,885.34375,249.7734375,931.375,4,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,50, alcohol ,17868,2910980,938,243,229.2734375,931.375,249.7734375,993.421875,4,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,50, alcohol ,17918,2911030,954,243,229.2734375,931.375,249.7734375,993.421875,4,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,50, alcohol ,17968,2911080,968,241,229.2734375,931.375,249.7734375,993.421875,4,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,50, alcohol ,18018,2911130,979,239,229.2734375,931.375,249.7734375,993.421875,4,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,50, alcohol ,18068,2911180,984,237,229.2734375,931.375,249.7734375,993.421875,4,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,50, alcohol ,18118,2911230,986,237,229.2734375,931.375,249.7734375,993.421875,4,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,50, alcohol ,18168,2911280,986,237,229.2734375,931.375,249.7734375,993.421875,4,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,50, alcohol ,18219,2911331,986,237,229.2734375,931.375,249.7734375,993.421875,4,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,50, alcohol ,18268,2911380,985,237,229.2734375,931.375,249.7734375,993.421875,4,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,50, alcohol ,18318,2911430,969,238,229.2734375,931.375,249.7734375,993.421875,4,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,49," drug, ",18369,2911481,925,238,229.2734375,885.34375,249.7734375,931.375,4,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,48, with ,18418,2911530,851,239,229.2734375,848.328125,249.7734375,885.34375,4,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,47, offenders ,18468,2911580,790,239,229.2734375,768.59375,249.7734375,848.328125,4,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,45, programs ,18519,2911631,721,238,229.2734375,661.5546875,249.7734375,742.5859375,4,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,44, treatment ,18568,2911680,638,239,229.2734375,580.515625,249.7734375,661.5546875,4,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,43, provide ,18618,2911730,556,248,229.2734375,516.4765625,249.7734375,580.515625,4,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,41, guaranteed ,18668,2911780,466,258,229.2734375,400.375,249.7734375,496.4609375,4,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,52, violence ,18718,2911830,427,262,269.2734375,400.375,289.7734375,471.421875,5,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,52, violence ,18768,2911880,411,264,269.2734375,400.375,289.7734375,471.421875,5,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,18818,2911930,398,268,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,18868,2911980,386,272,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,18918,2912030,384,273,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,18967,2912079,386,274,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,19018,2912130,394,274,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,52, violence ,19068,2912180,413,275,269.2734375,400.375,289.7734375,471.421875,5,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,52, violence ,19118,2912230,436,276,269.2734375,400.375,289.7734375,471.421875,5,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,52, violence ,19168,2912280,456,278,269.2734375,400.375,289.7734375,471.421875,5,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,53, issues. ,19218,2912330,486,278,269.2734375,471.421875,289.7734375,532.2890625,5,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,53, issues. ,19268,2912380,512,278,269.2734375,471.421875,289.7734375,532.2890625,5,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,53, issues. ,19319,2912431,513,278,269.2734375,471.421875,289.7734375,532.2890625,5,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,53, issues. ,19368,2912480,513,278,269.2734375,471.421875,289.7734375,532.2890625,5,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,53, issues. ,19418,2912530,513,278,269.2734375,471.421875,289.7734375,532.2890625,5,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,53, issues. ,19468,2912580,513,278,269.2734375,471.421875,289.7734375,532.2890625,5,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,53, issues. ,19519,2912631,513,278,269.2734375,471.421875,289.7734375,532.2890625,5,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,53, issues. ,19568,2912680,518,278,269.2734375,471.421875,289.7734375,532.2890625,5,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,53, issues. ,19619,2912731,531,279,269.2734375,471.421875,289.7734375,532.2890625,5,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,54, The ,19669,2912781,545,280,269.2734375,532.2890625,289.7734375,568.1484375,5,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,54, The ,19719,2912831,561,281,269.2734375,532.2890625,289.7734375,568.1484375,5,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,55, service ,19769,2912881,575,283,269.2734375,568.1484375,289.7734375,630.1640625,5,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,55, service ,19818,2912930,589,283,269.2734375,568.1484375,289.7734375,630.1640625,5,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,55, service ,19867,2912979,609,283,269.2734375,568.1484375,289.7734375,630.1640625,5,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,56, is ,19918,2913030,634,283,269.2734375,630.1640625,289.7734375,648.1640625,5,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,57, assisted ,19968,2913080,666,282,269.2734375,648.1640625,289.7734375,719.203125,5,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,57, assisted ,20019,2913131,695,282,269.2734375,648.1640625,289.7734375,719.203125,5,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,57, assisted ,20068,2913180,717,282,269.2734375,648.1640625,289.7734375,719.203125,5,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,58, by ,20118,2913230,732,283,269.2734375,719.203125,289.7734375,743.21875,5,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,59, around ,20168,2913280,750,283,269.2734375,743.21875,289.7734375,804.2734375,5,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,59, around ,20218,2913330,774,283,269.2734375,743.21875,289.7734375,804.2734375,5,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,59, around ,20268,2913380,790,282,269.2734375,743.21875,289.7734375,804.2734375,5,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,59, around ,20318,2913430,803,281,269.2734375,743.21875,289.7734375,804.2734375,5,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,60," 4,500 ",20368,2913480,813,280,269.2734375,804.2734375,289.7734375,854.3203125,5,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,60," 4,500 ",20419,2913531,824,280,269.2734375,804.2734375,289.7734375,854.3203125,5,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,60," 4,500 ",20468,2913580,835,280,269.2734375,804.2734375,289.7734375,854.3203125,5,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,60," 4,500 ",20518,2913630,849,279,269.2734375,804.2734375,289.7734375,854.3203125,5,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,61, lay ,20568,2913680,862,278,269.2734375,854.3203125,289.7734375,882.3359375,5,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,61, lay ,20618,2913730,879,277,269.2734375,854.3203125,289.7734375,882.3359375,5,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,62, supervisors ,20668,2913780,908,275,269.2734375,882.3359375,289.7734375,979.3671875,5,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,62, supervisors ,20718,2913830,930,273,269.2734375,882.3359375,289.7734375,979.3671875,5,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,62, supervisors ,20768,2913880,933,272,269.2734375,882.3359375,289.7734375,979.3671875,5,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,62, supervisors ,20819,2913931,933,272,269.2734375,882.3359375,289.7734375,979.3671875,5,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,62, supervisors ,20869,2913981,933,272,269.2734375,882.3359375,289.7734375,979.3671875,5,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,62, supervisors ,20919,2914031,933,272,269.2734375,882.3359375,289.7734375,979.3671875,5,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,62, supervisors ,20968,2914080,933,272,269.2734375,882.3359375,289.7734375,979.3671875,5,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,62, supervisors ,21017,2914129,938,272,269.2734375,882.3359375,289.7734375,979.3671875,5,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,62, supervisors ,21068,2914180,957,272,269.2734375,882.3359375,289.7734375,979.3671875,5,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,63, – ,21118,2914230,983,271,269.2734375,979.3671875,289.7734375,994.3828125,5,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,64, members ,21167,2914279,995,271,269.2734375,994.3828125,289.7734375,1069.3984375,5,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,64, members ,21218,2914330,1004,271,269.2734375,994.3828125,289.7734375,1069.3984375,5,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,64, members ,21267,2914379,1011,271,269.2734375,994.3828125,289.7734375,1069.3984375,5,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,64, members ,21318,2914430,1018,271,269.2734375,994.3828125,289.7734375,1069.3984375,5,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,64, members ,21369,2914481,1024,271,269.2734375,994.3828125,289.7734375,1069.3984375,5,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,64, members ,21419,2914531,1024,271,269.2734375,994.3828125,289.7734375,1069.3984375,5,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,64, members ,21469,2914581,1024,271,269.2734375,994.3828125,289.7734375,1069.3984375,5,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,64, members ,21519,2914631,1024,271,269.2734375,994.3828125,289.7734375,1069.3984375,5,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,64, members ,21568,2914680,1024,271,269.2734375,994.3828125,289.7734375,1069.3984375,5,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,64, members ,21619,2914731,1021,271,269.2734375,994.3828125,289.7734375,1069.3984375,5,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,62, supervisors ,21668,2914780,979,273,269.2734375,882.3359375,289.7734375,979.3671875,5,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,61, lay ,21718,2914830,870,278,269.2734375,854.3203125,289.7734375,882.3359375,5,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,59, around ,21768,2914880,747,286,269.2734375,743.21875,289.7734375,804.2734375,5,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,57, assisted ,21818,2914930,688,294,269.2734375,648.1640625,289.7734375,719.203125,5,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,70, to ,21868,2914980,630,302,309.2734375,619.5234375,329.7734375,639.5390625,6,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,69, volunteer ,21919,2915031,573,308,309.2734375,540.46875,329.7734375,619.5234375,6,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,68, who ,21968,2915080,515,311,309.2734375,502.4453125,329.7734375,540.46875,6,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,67, public ,22018,2915130,489,313,309.2734375,450.4140625,329.7734375,502.4453125,6,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,67, public ,22068,2915180,471,314,309.2734375,450.4140625,329.7734375,502.4453125,6,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,66, the ,22117,2915229,449,316,309.2734375,420.390625,329.7734375,450.4140625,6,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,66, the ,22167,2915279,428,317,309.2734375,420.390625,329.7734375,450.4140625,6,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,65, of ,22218,2915330,404,320,309.2734375,400.375,329.7734375,420.390625,6,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,22268,2915380,387,323,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,22317,2915429,381,324,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,22368,2915480,381,324,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,22419,2915531,387,323,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,65, of ,22467,2915579,405,321,309.2734375,400.375,329.7734375,420.390625,6,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,66, the ,22518,2915630,425,321,309.2734375,420.390625,329.7734375,450.4140625,6,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,66, the ,22568,2915680,441,321,309.2734375,420.390625,329.7734375,450.4140625,6,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,67, public ,22617,2915729,458,325,309.2734375,450.4140625,329.7734375,502.4453125,6,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,67, public ,22667,2915779,478,327,309.2734375,450.4140625,329.7734375,502.4453125,6,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,67, public ,22718,2915830,500,327,309.2734375,450.4140625,329.7734375,502.4453125,6,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,68, who ,22767,2915879,534,325,309.2734375,502.4453125,329.7734375,540.46875,6,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,69, volunteer ,22818,2915930,591,320,309.2734375,540.46875,329.7734375,619.5234375,6,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,70, to ,22868,2915980,629,321,309.2734375,619.5234375,329.7734375,639.5390625,6,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,70, to ,22917,2916029,637,324,309.2734375,619.5234375,329.7734375,639.5390625,6,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,71, befriend ,22967,2916079,640,326,309.2734375,639.5390625,329.7734375,709.59375,6,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,71, befriend ,23018,2916130,640,326,309.2734375,639.5390625,329.7734375,709.59375,6,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,71, befriend ,23069,2916181,640,326,309.2734375,639.5390625,329.7734375,709.59375,6,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,71, befriend ,23119,2916231,640,326,309.2734375,639.5390625,329.7734375,709.59375,6,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,71, befriend ,23169,2916281,640,326,309.2734375,639.5390625,329.7734375,709.59375,6,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,71, befriend ,23218,2916330,643,326,309.2734375,639.5390625,329.7734375,709.59375,6,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,71, befriend ,23267,2916379,656,323,309.2734375,639.5390625,329.7734375,709.59375,6,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,71, befriend ,23318,2916430,671,322,309.2734375,639.5390625,329.7734375,709.59375,6,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,71, befriend ,23367,2916479,684,322,309.2734375,639.5390625,329.7734375,709.59375,6,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,71, befriend ,23418,2916530,697,322,309.2734375,639.5390625,329.7734375,709.59375,6,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,71, befriend ,23469,2916580,709,323,309.2734375,639.5390625,329.7734375,709.59375,6,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,72, and ,23518,2916630,737,324,309.2734375,709.59375,329.7734375,744.6328125,6,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,73, support ,23568,2916680,752,324,309.2734375,744.6328125,329.7734375,809.671875,6,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,73, support ,23617,2916729,778,324,309.2734375,744.6328125,329.7734375,809.671875,6,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,74, offenders ,23668,2916780,810,322,309.2734375,809.671875,329.7734375,889.40625,6,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,74, offenders ,23717,2916829,834,322,309.2734375,809.671875,329.7734375,889.40625,6,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,74, offenders ,23767,2916879,849,322,309.2734375,809.671875,329.7734375,889.40625,6,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,74, offenders ,23817,2916929,856,322,309.2734375,809.671875,329.7734375,889.40625,6,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,74, offenders ,23868,2916980,864,323,309.2734375,809.671875,329.7734375,889.40625,6,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,74, offenders ,23918,2917030,878,324,309.2734375,809.671875,329.7734375,889.40625,6,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,75, under ,23968,2917080,904,324,309.2734375,889.40625,329.7734375,940.4453125,6,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,75, under ,24018,2917130,929,324,309.2734375,889.40625,329.7734375,940.4453125,6,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,75, under ,24068,2917180,938,319,309.2734375,889.40625,329.7734375,940.4453125,6,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,75, under ,24118,2917230,938,319,309.2734375,889.40625,329.7734375,940.4453125,6,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,75, under ,24169,2917281,938,319,309.2734375,889.40625,329.7734375,940.4453125,6,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,75, under ,24218,2917330,938,319,309.2734375,889.40625,329.7734375,940.4453125,6,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,75, under ,24269,2917381,938,319,309.2734375,889.40625,329.7734375,940.4453125,6,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,75, under ,24319,2917431,938,319,309.2734375,889.40625,329.7734375,940.4453125,6,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,76, supervision. ,24368,2917480,948,319,309.2734375,940.4453125,329.7734375,1041.5,6,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,76, supervision. ,24418,2917530,966,323,309.2734375,940.4453125,329.7734375,1041.5,6,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,76, supervision. ,24468,2917580,976,325,309.2734375,940.4453125,329.7734375,1041.5,6,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,76, supervision. ,24518,2917630,982,326,309.2734375,940.4453125,329.7734375,1041.5,6,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,76, supervision. ,24567,2917679,984,327,309.2734375,940.4453125,329.7734375,1041.5,6,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,76, supervision. ,24618,2917730,965,329,309.2734375,940.4453125,329.7734375,1041.5,6,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,74, offenders ,24668,2917780,858,333,309.2734375,809.671875,329.7734375,889.40625,6,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,72, and ,24718,2917830,712,337,309.2734375,709.59375,329.7734375,744.6328125,6,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,81, very ,24769,2917881,573,344,349.2734375,565.4921875,369.7734375,604.5,7,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,79, we ,24818,2917930,490,344,349.2734375,475.4296875,369.7734375,503.4453125,7,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,78," Sweden, ",24868,2917980,468,343,349.2734375,400.375,369.7734375,475.4296875,7,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,78," Sweden, ",24917,2918029,466,343,349.2734375,400.375,369.7734375,475.4296875,7,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,78," Sweden, ",24968,2918080,462,343,349.2734375,400.375,369.7734375,475.4296875,7,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,78," Sweden, ",25018,2918130,458,343,349.2734375,400.375,369.7734375,475.4296875,7,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,67, public ,25068,2918180,468,338,309.2734375,450.4140625,329.7734375,502.4453125,6,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,68, who ,25118,2918230,533,320,309.2734375,502.4453125,329.7734375,540.46875,6,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,69, volunteer ,25168,2918280,599,311,309.2734375,540.46875,329.7734375,619.5234375,6,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,71, befriend ,25218,2918330,678,308,309.2734375,639.5390625,329.7734375,709.59375,6,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,73, support ,25267,2918379,772,308,309.2734375,744.6328125,329.7734375,809.671875,6,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,74, offenders ,25318,2918430,861,307,309.2734375,809.671875,329.7734375,889.40625,6,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,75, under ,25368,2918480,901,307,309.2734375,889.40625,329.7734375,940.4453125,6,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,75, under ,25419,2918531,920,309,309.2734375,889.40625,329.7734375,940.4453125,6,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,75, under ,25468,2918580,931,311,309.2734375,889.40625,329.7734375,940.4453125,6,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,76, supervision. ,25518,2918630,948,311,309.2734375,940.4453125,329.7734375,1041.5,6,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,76, supervision. ,25568,2918680,971,311,309.2734375,940.4453125,329.7734375,1041.5,6,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,76, supervision. ,25618,2918730,992,311,309.2734375,940.4453125,329.7734375,1041.5,6,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,76, supervision. ,25668,2918781,1007,312,309.2734375,940.4453125,329.7734375,1041.5,6,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,76, supervision. ,25718,2918830,1016,315,309.2734375,940.4453125,329.7734375,1041.5,6,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,76, supervision. ,25768,2918880,1018,316,309.2734375,940.4453125,329.7734375,1041.5,6,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,76, supervision. ,25818,2918930,1019,317,309.2734375,940.4453125,329.7734375,1041.5,6,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,76, supervision. ,25868,2918980,1024,318,309.2734375,940.4453125,329.7734375,1041.5,6,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,76, supervision. ,25918,2919030,1025,319,309.2734375,940.4453125,329.7734375,1041.5,6,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,76, supervision. ,25967,2919079,1006,319,309.2734375,940.4453125,329.7734375,1041.5,6,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,75, under ,26018,2919130,924,317,309.2734375,889.40625,329.7734375,940.4453125,6,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,73, support ,26068,2919180,804,316,309.2734375,744.6328125,329.7734375,809.671875,6,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,71, befriend ,26119,2919231,662,328,309.2734375,639.5390625,329.7734375,709.59375,6,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,68, who ,26168,2919280,526,337,309.2734375,502.4453125,329.7734375,540.46875,6,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,78," Sweden, ",26218,2919330,437,343,349.2734375,400.375,369.7734375,475.4296875,7,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,26268,2919380,382,351,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,26318,2919430,336,358,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,26368,2919480,322,360,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,26417,2919529,320,360,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,26468,2919580,328,360,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,26518,2919630,353,360,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,26568,2919680,387,358,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,78," Sweden, ",26618,2919730,423,357,349.2734375,400.375,369.7734375,475.4296875,7,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,78," Sweden, ",26668,2919780,447,357,349.2734375,400.375,369.7734375,475.4296875,7,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,79, we ,26719,2919830,476,357,349.2734375,475.4296875,369.7734375,503.4453125,7,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,79, we ,26768,2919880,495,357,349.2734375,475.4296875,369.7734375,503.4453125,7,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,79, we ,26818,2919930,502,357,349.2734375,475.4296875,369.7734375,503.4453125,7,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,79, we ,26868,2919980,503,357,349.2734375,475.4296875,369.7734375,503.4453125,7,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,79, we ,26919,2920031,503,357,349.2734375,475.4296875,369.7734375,503.4453125,7,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,79, we ,26969,2920081,503,357,349.2734375,475.4296875,369.7734375,503.4453125,7,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,79, we ,27019,2920131,503,357,349.2734375,475.4296875,369.7734375,503.4453125,7,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,79, we ,27069,2920181,503,357,349.2734375,475.4296875,369.7734375,503.4453125,7,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,80, believe ,27118,2920230,507,357,349.2734375,503.4453125,369.7734375,565.4921875,7,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,80, believe ,27168,2920280,523,357,349.2734375,503.4453125,369.7734375,565.4921875,7,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,80, believe ,27217,2920329,549,360,349.2734375,503.4453125,369.7734375,565.4921875,7,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,81, very ,27267,2920379,567,361,349.2734375,565.4921875,369.7734375,604.5,7,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,81, very ,27319,2920431,585,362,349.2734375,565.4921875,369.7734375,604.5,7,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,81, very ,27367,2920479,595,363,349.2734375,565.4921875,369.7734375,604.5,7,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,82, much ,27418,2920530,611,363,349.2734375,604.5,369.7734375,653.5234375,7,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,82, much ,27468,2920580,631,364,349.2734375,604.5,369.7734375,653.5234375,7,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,83, in ,27518,2920630,656,364,349.2734375,653.5234375,369.7734375,672.5390625,7,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,84, the ,27568,2920680,674,365,349.2734375,672.5390625,369.7734375,702.5625,7,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,84, the ,27618,2920730,689,365,349.2734375,672.5390625,369.7734375,702.5625,7,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,84, the ,27669,2920781,702,365,349.2734375,672.5390625,369.7734375,702.5625,7,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,85, concept ,27718,2920830,718,365,349.2734375,702.5625,369.7734375,770.609375,7,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,85, concept ,27768,2920880,738,365,349.2734375,702.5625,369.7734375,770.609375,7,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,85, concept ,27818,2920930,761,365,349.2734375,702.5625,369.7734375,770.609375,7,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,86, of ,27868,2920980,784,364,349.2734375,770.609375,369.7734375,790.625,7,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,87," rehabilitation, ",27918,2921030,798,364,349.2734375,790.625,369.7734375,902.6953125,7,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,87," rehabilitation, ",27968,2921080,808,364,349.2734375,790.625,369.7734375,902.6953125,7,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,87," rehabilitation, ",28018,2921131,813,364,349.2734375,790.625,369.7734375,902.6953125,7,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,87," rehabilitation, ",28069,2921181,813,364,349.2734375,790.625,369.7734375,902.6953125,7,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,87," rehabilitation, ",28119,2921230,813,364,349.2734375,790.625,369.7734375,902.6953125,7,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,87," rehabilitation, ",28169,2921281,813,364,349.2734375,790.625,369.7734375,902.6953125,7,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,87," rehabilitation, ",28219,2921331,813,364,349.2734375,790.625,369.7734375,902.6953125,7,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,87," rehabilitation, ",28268,2921380,823,364,349.2734375,790.625,369.7734375,902.6953125,7,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,87," rehabilitation, ",28318,2921430,846,364,349.2734375,790.625,369.7734375,902.6953125,7,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,87," rehabilitation, ",28368,2921480,867,364,349.2734375,790.625,369.7734375,902.6953125,7,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,87," rehabilitation, ",28418,2921530,881,365,349.2734375,790.625,369.7734375,902.6953125,7,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,87," rehabilitation, ",28467,2921579,890,366,349.2734375,790.625,369.7734375,902.6953125,7,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,88, without ,28518,2921630,903,366,349.2734375,902.6953125,369.7734375,964.734375,7,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,88, without ,28568,2921680,923,370,349.2734375,902.6953125,369.7734375,964.734375,7,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,88, without ,28617,2921729,932,371,349.2734375,902.6953125,369.7734375,964.734375,7,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,88, without ,28668,2921780,952,372,349.2734375,902.6953125,369.7734375,964.734375,7,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,89, being ,28718,2921830,968,372,349.2734375,964.734375,369.7734375,1013.78125,7,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,89, being ,28767,2921879,978,372,349.2734375,964.734375,369.7734375,1013.78125,7,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,89, being ,28817,2921929,995,372,349.2734375,964.734375,369.7734375,1013.78125,7,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,89, being ,28868,2921980,1011,372,349.2734375,964.734375,369.7734375,1013.78125,7,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,90, naive ,28918,2922030,1024,372,349.2734375,1013.78125,369.7734375,1056.8125,7,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,90, naive ,28967,2922079,1034,372,349.2734375,1013.78125,369.7734375,1056.8125,7,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,90, naive ,29017,2922129,1043,370,349.2734375,1013.78125,369.7734375,1056.8125,7,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,90, naive ,29068,2922180,1045,370,349.2734375,1013.78125,369.7734375,1056.8125,7,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,90, naive ,29119,2922231,1042,370,349.2734375,1013.78125,369.7734375,1056.8125,7,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,90, naive ,29168,2922280,1020,370,349.2734375,1013.78125,369.7734375,1056.8125,7,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,88, without ,29218,2922330,947,369,349.2734375,902.6953125,369.7734375,964.734375,7,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,98, people ,29268,2922380,796,385,389.2734375,771.5546875,409.7734375,830.609375,8,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,95, “There ,29318,2922430,676,402,389.2734375,633.484375,409.7734375,691.5078125,8,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,94, Gustafsson. ,29368,2922480,570,417,389.2734375,532.4296875,409.7734375,633.484375,8,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,105," But, ",29418,2922530,496,422,429.2734375,469.4375,449.7734375,506.4609375,9,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,29468,2922580,455,422,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,29518,2922630,439,422,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,29568,2922680,429,423,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,29618,2922730,418,425,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,29668,2922780,413,426,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,29718,2922830,413,426,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,29768,2922880,413,427,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,29818,2922930,413,427,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,29869,2922981,413,427,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,29918,2923030,417,428,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,29968,2923080,424,430,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,30018,2923130,432,431,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,30068,2923180,440,432,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,30117,2923229,451,433,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,30168,2923280,464,434,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,105," But, ",30218,2923330,475,436,429.2734375,469.4375,449.7734375,506.4609375,9,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,105," But, ",30268,2923380,498,438,429.2734375,469.4375,449.7734375,506.4609375,9,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,106, in ,30319,2923431,513,440,429.2734375,506.4609375,449.7734375,525.4765625,9,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,106, in ,30369,2923481,514,440,429.2734375,506.4609375,449.7734375,525.4765625,9,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,106, in ,30419,2923531,514,440,429.2734375,506.4609375,449.7734375,525.4765625,9,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,106, in ,30469,2923581,514,440,429.2734375,506.4609375,449.7734375,525.4765625,9,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,106, in ,30519,2923631,514,440,429.2734375,506.4609375,449.7734375,525.4765625,9,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,106, in ,30568,2923680,514,440,429.2734375,506.4609375,449.7734375,525.4765625,9,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,106, in ,30619,2923731,514,440,429.2734375,506.4609375,449.7734375,525.4765625,9,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,106, in ,30670,2923782,515,440,429.2734375,506.4609375,449.7734375,525.4765625,9,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,106, in ,30718,2923830,519,440,429.2734375,506.4609375,449.7734375,525.4765625,9,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,106, in ,30768,2923880,525,440,429.2734375,506.4609375,449.7734375,525.4765625,9,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,107, my ,30818,2923930,529,440,429.2734375,525.4765625,449.7734375,554.4765625,9,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,107, my ,30869,2923981,526,438,429.2734375,525.4765625,449.7734375,554.4765625,9,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,105," But, ",30917,2924029,493,423,429.2734375,469.4375,449.7734375,506.4609375,9,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,92," course,” ",30968,2924080,429,387,389.2734375,420.390625,409.7734375,490.4140625,8,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,78," Sweden, ",31017,2924129,407,374,349.2734375,400.375,369.7734375,475.4296875,7,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,78," Sweden, ",31069,2924181,405,372,349.2734375,400.375,369.7734375,475.4296875,7,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,78," Sweden, ",31119,2924231,405,372,349.2734375,400.375,369.7734375,475.4296875,7,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,78," Sweden, ",31168,2924280,405,373,349.2734375,400.375,369.7734375,475.4296875,7,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,78," Sweden, ",31218,2924330,405,379,349.2734375,400.375,369.7734375,475.4296875,7,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,91, of ,31267,2924379,404,387,389.2734375,400.375,409.7734375,420.390625,8,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,91, of ,31318,2924430,404,393,389.2734375,400.375,409.7734375,420.390625,8,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,91, of ,31369,2924481,404,398,389.2734375,400.375,409.7734375,420.390625,8,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,91, of ,31419,2924531,405,400,389.2734375,400.375,409.7734375,420.390625,8,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,91, of ,31468,2924580,406,401,389.2734375,400.375,409.7734375,420.390625,8,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,91, of ,31519,2924631,406,401,389.2734375,400.375,409.7734375,420.390625,8,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,91, of ,31569,2924681,407,401,389.2734375,400.375,409.7734375,420.390625,8,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,91, of ,31618,2924730,414,401,389.2734375,400.375,409.7734375,420.390625,8,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,92," course,” ",31667,2924779,436,401,389.2734375,420.390625,409.7734375,490.4140625,8,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,92," course,” ",31718,2924830,462,401,389.2734375,420.390625,409.7734375,490.4140625,8,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,92," course,” ",31767,2924879,484,401,389.2734375,420.390625,409.7734375,490.4140625,8,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,93, says ,31819,2924931,503,402,389.2734375,490.4140625,409.7734375,532.4296875,8,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,93, says ,31868,2924980,522,403,389.2734375,490.4140625,409.7734375,532.4296875,8,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,94, Gustafsson. ,31918,2925030,552,404,389.2734375,532.4296875,409.7734375,633.484375,8,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,94, Gustafsson. ,31968,2925080,581,404,389.2734375,532.4296875,409.7734375,633.484375,8,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,94, Gustafsson. ,32017,2925129,598,404,389.2734375,532.4296875,409.7734375,633.484375,8,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,94, Gustafsson. ,32067,2925179,607,404,389.2734375,532.4296875,409.7734375,633.484375,8,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,94, Gustafsson. ,32118,2925230,608,404,389.2734375,532.4296875,409.7734375,633.484375,8,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,94, Gustafsson. ,32169,2925281,608,404,389.2734375,532.4296875,409.7734375,633.484375,8,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,94, Gustafsson. ,32218,2925330,608,404,389.2734375,532.4296875,409.7734375,633.484375,8,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,94, Gustafsson. ,32269,2925381,608,404,389.2734375,532.4296875,409.7734375,633.484375,8,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,94, Gustafsson. ,32318,2925430,616,404,389.2734375,532.4296875,409.7734375,633.484375,8,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,94, Gustafsson. ,32368,2925480,631,404,389.2734375,532.4296875,409.7734375,633.484375,8,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,95, “There ,32418,2925530,644,404,389.2734375,633.484375,409.7734375,691.5078125,8,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,95, “There ,32468,2925580,656,405,389.2734375,633.484375,409.7734375,691.5078125,8,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,95, “There ,32518,2925630,672,406,389.2734375,633.484375,409.7734375,691.5078125,8,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,95, “There ,32568,2925680,691,406,389.2734375,633.484375,409.7734375,691.5078125,8,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,96, are ,32618,2925730,719,407,389.2734375,691.5078125,409.7734375,722.53125,8,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,97, some ,32668,2925780,748,407,389.2734375,722.53125,409.7734375,771.5546875,8,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,98, people ,32718,2925830,777,407,389.2734375,771.5546875,409.7734375,830.609375,8,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,98, people ,32768,2925880,800,406,389.2734375,771.5546875,409.7734375,830.609375,8,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,98, people ,32818,2925930,818,403,389.2734375,771.5546875,409.7734375,830.609375,8,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,98, people ,32868,2925980,828,402,389.2734375,771.5546875,409.7734375,830.609375,8,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,99, who ,32918,2926030,840,402,389.2734375,830.609375,409.7734375,868.6328125,8,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,99, who ,32968,2926080,856,402,389.2734375,830.609375,409.7734375,868.6328125,8,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,100, will ,33018,2926130,870,402,389.2734375,868.6328125,409.7734375,898.6328125,8,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,100, will ,33068,2926180,889,402,389.2734375,868.6328125,409.7734375,898.6328125,8,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,101, not ,33117,2926229,906,402,389.2734375,898.6328125,409.7734375,928.65625,8,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,101, not ,33168,2926280,924,401,389.2734375,898.6328125,409.7734375,928.65625,8,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,102, or ,33217,2926329,939,400,389.2734375,928.65625,409.7734375,949.6640625,8,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,103, cannot ,33268,2926380,951,399,389.2734375,949.6640625,409.7734375,1003.7109375,8,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,103, cannot ,33318,2926430,957,399,389.2734375,949.6640625,409.7734375,1003.7109375,8,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,103, cannot ,33368,2926480,962,398,389.2734375,949.6640625,409.7734375,1003.7109375,8,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,103, cannot ,33418,2926530,966,398,389.2734375,949.6640625,409.7734375,1003.7109375,8,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,103, cannot ,33469,2926581,966,398,389.2734375,949.6640625,409.7734375,1003.7109375,8,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,103, cannot ,33518,2926630,966,398,389.2734375,949.6640625,409.7734375,1003.7109375,8,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,103, cannot ,33569,2926681,960,398,389.2734375,949.6640625,409.7734375,1003.7109375,8,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,101, not ,33618,2926730,916,402,389.2734375,898.6328125,409.7734375,928.65625,8,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,99, who ,33668,2926780,835,407,389.2734375,830.609375,409.7734375,868.6328125,8,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,110, majority ,33718,2926830,712,426,429.2734375,682.5625,449.7734375,750.578125,9,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,108," experience, ",33768,2926880,606,444,429.2734375,554.4765625,449.7734375,652.5390625,9,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,106, in ,33818,2926931,514,453,429.2734375,506.4609375,449.7734375,525.4765625,9,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,33868,2926980,454,457,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,33918,2927030,410,457,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,33968,2927080,392,457,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,34018,2927130,381,459,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,34068,2927180,377,459,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,34118,2927230,377,459,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,34168,2927280,378,458,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,34217,2927329,385,456,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,34268,2927380,396,453,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,34318,2927430,400,452,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,34367,2927479,402,452,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,34418,2927531,415,451,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,104, change. ,34467,2927579,443,449,429.2734375,400.375,449.7734375,469.4375,9,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,105," But, ",34518,2927630,482,448,429.2734375,469.4375,449.7734375,506.4609375,9,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,106, in ,34568,2927680,511,446,429.2734375,506.4609375,449.7734375,525.4765625,9,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,106, in ,34619,2927731,520,445,429.2734375,506.4609375,449.7734375,525.4765625,9,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,106, in ,34669,2927781,520,445,429.2734375,506.4609375,449.7734375,525.4765625,9,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,106, in ,34719,2927831,520,445,429.2734375,506.4609375,449.7734375,525.4765625,9,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,106, in ,34769,2927881,520,445,429.2734375,506.4609375,449.7734375,525.4765625,9,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,106, in ,34819,2927931,520,445,429.2734375,506.4609375,449.7734375,525.4765625,9,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,106, in ,34869,2927981,520,445,429.2734375,506.4609375,449.7734375,525.4765625,9,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,107, my ,34918,2928030,526,445,429.2734375,525.4765625,449.7734375,554.4765625,9,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,107, my ,34968,2928080,537,445,429.2734375,525.4765625,449.7734375,554.4765625,9,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,107, my ,35018,2928130,550,445,429.2734375,525.4765625,449.7734375,554.4765625,9,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,108," experience, ",35068,2928180,559,445,429.2734375,554.4765625,449.7734375,652.5390625,9,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,108," experience, ",35118,2928231,572,445,429.2734375,554.4765625,449.7734375,652.5390625,9,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,108," experience, ",35168,2928280,587,445,429.2734375,554.4765625,449.7734375,652.5390625,9,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,108," experience, ",35218,2928330,606,445,429.2734375,554.4765625,449.7734375,652.5390625,9,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,108," experience, ",35268,2928380,633,446,429.2734375,554.4765625,449.7734375,652.5390625,9,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,109, the ,35318,2928431,657,446,429.2734375,652.5390625,449.7734375,682.5625,9,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,109, the ,35368,2928480,675,446,429.2734375,652.5390625,449.7734375,682.5625,9,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,110, majority ,35419,2928531,684,446,429.2734375,682.5625,449.7734375,750.578125,9,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,110, majority ,35468,2928580,694,446,429.2734375,682.5625,449.7734375,750.578125,9,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,110, majority ,35517,2928629,707,446,429.2734375,682.5625,449.7734375,750.578125,9,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,110, majority ,35567,2928679,724,446,429.2734375,682.5625,449.7734375,750.578125,9,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,111, of ,35618,2928730,753,446,429.2734375,750.578125,449.7734375,770.59375,9,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,112, prisoners ,35667,2928779,786,446,429.2734375,770.59375,449.7734375,849.625,9,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,112, prisoners ,35718,2928830,797,446,429.2734375,770.59375,449.7734375,849.625,9,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,112, prisoners ,35769,2928881,797,446,429.2734375,770.59375,449.7734375,849.625,9,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,112, prisoners ,35818,2928930,797,446,429.2734375,770.59375,449.7734375,849.625,9,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,112, prisoners ,35868,2928980,797,446,429.2734375,770.59375,449.7734375,849.625,9,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,112, prisoners ,35918,2929030,797,446,429.2734375,770.59375,449.7734375,849.625,9,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,112, prisoners ,35969,2929080,799,446,429.2734375,770.59375,449.7734375,849.625,9,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,112, prisoners ,36018,2929130,803,446,429.2734375,770.59375,449.7734375,849.625,9,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,112, prisoners ,36067,2929179,812,446,429.2734375,770.59375,449.7734375,849.625,9,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,112, prisoners ,36118,2929230,823,446,429.2734375,770.59375,449.7734375,849.625,9,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,112, prisoners ,36168,2929280,841,446,429.2734375,770.59375,449.7734375,849.625,9,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,113, want ,36217,2929329,859,446,429.2734375,849.625,449.7734375,892.6484375,9,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,113, want ,36268,2929380,875,446,429.2734375,849.625,449.7734375,892.6484375,9,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,114, to ,36317,2929429,895,446,429.2734375,892.6484375,449.7734375,912.6640625,9,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,115," change, ",36367,2929479,914,442,429.2734375,912.6640625,449.7734375,981.7265625,9,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,115," change, ",36417,2929529,929,441,429.2734375,912.6640625,449.7734375,981.7265625,9,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,115," change, ",36468,2929580,944,440,429.2734375,912.6640625,449.7734375,981.7265625,9,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,115," change, ",36518,2929630,960,440,429.2734375,912.6640625,449.7734375,981.7265625,9,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,115," change, ",36568,2929680,975,439,429.2734375,912.6640625,449.7734375,981.7265625,9,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,116, and ,36618,2929730,985,439,429.2734375,981.7265625,449.7734375,1016.765625,9,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,116, and ,36668,2929780,998,439,429.2734375,981.7265625,449.7734375,1016.765625,9,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,116, and ,36718,2929830,1011,439,429.2734375,981.7265625,449.7734375,1016.765625,9,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,117, we ,36768,2929880,1020,439,429.2734375,1016.765625,449.7734375,1039.78125,9,14,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,117, we ,36818,2929930,1026,439,429.2734375,1016.765625,449.7734375,1039.78125,9,14,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,117, we ,36868,2929980,1031,439,429.2734375,1016.765625,449.7734375,1039.78125,9,14,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,117, we ,36917,2930029,1031,439,429.2734375,1016.765625,449.7734375,1039.78125,9,14,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,116, and ,36969,2930081,1006,442,429.2734375,981.7265625,449.7734375,1016.765625,9,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,115," change, ",37018,2930130,915,451,429.2734375,912.6640625,449.7734375,981.7265625,9,12,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,128, It ,37068,2930180,767,473,469.2734375,764.609375,489.7734375,779.6171875,10,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,125, to ,37118,2930230,637,495,469.2734375,633.5234375,489.7734375,653.5390625,10,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,139, sentence.” ,37168,2930280,545,512,509.2734375,541.4765625,529.7734375,625.53125,11,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,138, prison ,37218,2930330,497,519,509.2734375,487.4453125,529.7734375,541.4765625,11,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,137, one ,37268,2930380,469,518,509.2734375,452.40625,529.7734375,487.4453125,11,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,137, one ,37318,2930430,454,514,509.2734375,452.40625,529.7734375,487.4453125,11,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,136, in ,37368,2930480,438,509,509.2734375,433.390625,529.7734375,452.40625,11,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,135, this ,37418,2930530,423,503,509.2734375,400.375,529.7734375,433.390625,11,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,118, must ,37468,2930580,414,497,469.2734375,400.375,489.7734375,444.3828125,10,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,118, must ,37518,2930630,410,492,469.2734375,400.375,489.7734375,444.3828125,10,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,118, must ,37567,2930679,408,489,469.2734375,400.375,489.7734375,444.3828125,10,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,118, must ,37617,2930729,408,487,469.2734375,400.375,489.7734375,444.3828125,10,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,118, must ,37668,2930780,408,487,469.2734375,400.375,489.7734375,444.3828125,10,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,118, must ,37718,2930830,410,486,469.2734375,400.375,489.7734375,444.3828125,10,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,118, must ,37768,2930880,411,486,469.2734375,400.375,489.7734375,444.3828125,10,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,118, must ,37819,2930931,421,486,469.2734375,400.375,489.7734375,444.3828125,10,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,118, must ,37868,2930980,443,483,469.2734375,400.375,489.7734375,444.3828125,10,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,120, what ,37917,2931029,477,481,469.2734375,469.40625,489.7734375,512.4296875,10,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,120, what ,37968,2931080,503,481,469.2734375,469.40625,489.7734375,512.4296875,10,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,121, we ,38017,2931129,527,481,469.2734375,512.4296875,489.7734375,540.4453125,10,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,121, we ,38068,2931180,533,483,469.2734375,512.4296875,489.7734375,540.4453125,10,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,121, we ,38118,2931230,533,483,469.2734375,512.4296875,489.7734375,540.4453125,10,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,121, we ,38169,2931281,533,483,469.2734375,512.4296875,489.7734375,540.4453125,10,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,121, we ,38218,2931330,533,483,469.2734375,512.4296875,489.7734375,540.4453125,10,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,121, we ,38269,2931381,533,483,469.2734375,512.4296875,489.7734375,540.4453125,10,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,121, we ,38319,2931431,534,483,469.2734375,512.4296875,489.7734375,540.4453125,10,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,122, can ,38368,2931480,544,483,469.2734375,540.4453125,489.7734375,574.46875,10,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,122, can ,38418,2931530,569,483,469.2734375,540.4453125,489.7734375,574.46875,10,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,123, to ,38468,2931580,590,483,469.2734375,574.46875,489.7734375,594.484375,10,6,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,124, help ,38518,2931630,609,483,469.2734375,594.484375,489.7734375,633.5234375,10,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,124, help ,38568,2931680,623,484,469.2734375,594.484375,489.7734375,633.5234375,10,7,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,125, to ,38618,2931730,635,485,469.2734375,633.5234375,489.7734375,653.5390625,10,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,125, to ,38668,2931780,651,486,469.2734375,633.5234375,489.7734375,653.5390625,10,8,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,126, facilitate ,38718,2931830,671,486,469.2734375,653.5390625,489.7734375,724.578125,10,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,126, facilitate ,38768,2931880,696,486,469.2734375,653.5390625,489.7734375,724.578125,10,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,127, that. ,38818,2931930,732,486,469.2734375,724.578125,489.7734375,764.609375,10,10,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,128, It ,38868,2931980,766,486,469.2734375,764.609375,489.7734375,779.6171875,10,11,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,130, not ,38919,2932031,800,486,469.2734375,797.6171875,489.7734375,827.640625,10,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,130, not ,38968,2932080,817,486,469.2734375,797.6171875,489.7734375,827.640625,10,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,131, always ,39018,2932130,830,486,469.2734375,827.640625,489.7734375,887.6640625,10,14,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,131, always ,39068,2932180,839,484,469.2734375,827.640625,489.7734375,887.6640625,10,14,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,131, always ,39118,2932230,839,484,469.2734375,827.640625,489.7734375,887.6640625,10,14,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,131, always ,39168,2932280,839,484,469.2734375,827.640625,489.7734375,887.6640625,10,14,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,131, always ,39219,2932331,839,484,469.2734375,827.640625,489.7734375,887.6640625,10,14,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,131, always ,39269,2932381,839,484,469.2734375,827.640625,489.7734375,887.6640625,10,14,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,131, always ,39318,2932430,839,484,469.2734375,827.640625,489.7734375,887.6640625,10,14,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,131, always ,39368,2932480,848,484,469.2734375,827.640625,489.7734375,887.6640625,10,14,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,131, always ,39417,2932529,863,483,469.2734375,827.640625,489.7734375,887.6640625,10,14,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,131, always ,39467,2932580,885,481,469.2734375,827.640625,489.7734375,887.6640625,10,14,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,132, possible ,39517,2932630,908,481,469.2734375,887.6640625,489.7734375,958.7109375,10,15,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,132, possible ,39569,2932681,927,481,469.2734375,887.6640625,489.7734375,958.7109375,10,15,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,132, possible ,39619,2932731,948,481,469.2734375,887.6640625,489.7734375,958.7109375,10,15,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,133, to ,39668,2932780,975,481,469.2734375,958.7109375,489.7734375,978.7265625,10,16,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,134, achieve ,39718,2932830,994,483,469.2734375,978.7265625,489.7734375,1040.7734375,10,17,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,134, achieve ,39768,2932880,1008,484,469.2734375,978.7265625,489.7734375,1040.7734375,10,17,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,134, achieve ,39818,2932930,1017,485,469.2734375,978.7265625,489.7734375,1040.7734375,10,17,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,134, achieve ,39867,2932979,1020,486,469.2734375,978.7265625,489.7734375,1040.7734375,10,17,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,134, achieve ,39917,2933029,1021,486,469.2734375,978.7265625,489.7734375,1040.7734375,10,17,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,133, to ,39968,2933080,975,486,469.2734375,958.7109375,489.7734375,978.7265625,10,16,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,130, not ,40019,2933131,822,486,469.2734375,797.6171875,489.7734375,827.640625,10,13,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,126, facilitate ,40068,2933180,657,490,469.2734375,653.5390625,489.7734375,724.578125,10,9,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,122, can ,40118,2933230,541,497,469.2734375,540.4453125,489.7734375,574.46875,10,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,138, prison ,40168,2933280,497,501,509.2734375,487.4453125,529.7734375,541.4765625,11,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,137, one ,40218,2933330,467,501,509.2734375,452.40625,529.7734375,487.4453125,11,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,136, in ,40267,2933380,441,503,509.2734375,433.390625,529.7734375,452.40625,11,2,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,135, this ,40318,2933430,421,506,509.2734375,400.375,529.7734375,433.390625,11,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,135, this ,40368,2933480,405,511,509.2734375,400.375,529.7734375,433.390625,11,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,40418,2933530,398,514,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,40468,2933580,396,515,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,40518,2933630,397,515,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,135, this ,40568,2933680,408,516,509.2734375,400.375,529.7734375,433.390625,11,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,135, this ,40618,2933730,428,517,509.2734375,400.375,529.7734375,433.390625,11,1,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,137, one ,40668,2933780,460,518,509.2734375,452.40625,529.7734375,487.4453125,11,3,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,138, prison ,40717,2933829,496,520,509.2734375,487.4453125,529.7734375,541.4765625,11,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,138, prison ,40768,2933880,528,526,509.2734375,487.4453125,529.7734375,541.4765625,11,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,138, prison ,40817,2933929,540,527,509.2734375,487.4453125,529.7734375,541.4765625,11,4,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,139, sentence.” ,40867,2933979,557,530,509.2734375,541.4765625,529.7734375,625.53125,11,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,139, sentence.” ,40918,2934030,572,533,509.2734375,541.4765625,529.7734375,625.53125,11,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,139, sentence.” ,40968,2934080,589,535,509.2734375,541.4765625,529.7734375,625.53125,11,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,139, sentence.” ,41018,2934130,620,536,509.2734375,541.4765625,529.7734375,625.53125,11,5,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,41068,2934180,649,537,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,41118,2934230,672,544,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,41167,2934279,680,549,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,41218,2934330,680,549,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,41267,2934379,680,549,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,41317,2934429,680,549,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,41368,2934480,680,549,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
+FAC7L8ES,,3,adv,28,4,69,70,-1,,41418,2934531,680,549,,,,,,,Support programs for violence victims,0,,,,,1970-01-01T00:00:00.395Z,,,,,,,,,spotlight-sona
