@@ -1,0 +1,25 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+2FXTPJWZ,,1,ele,21,1,5,6,-1,999,986,559006,514,360,,,,,,,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,-1,999,1036,559056,514,360,,,,,,,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,-1,999,1086,559107,514,360,,,,,,,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,-1,999,1136,559156,514,360,,,,,,,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,-1,999,1186,559207,514,351,,,,,,,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,-1,999,1236,559256,519,330,,,,,,,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,77, chips ,1285,559306,523,321,311.2734375,501.1484375,331.7734375,548.171875,6,3,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,77, chips ,1337,559357,523,321,311.2734375,501.1484375,331.7734375,548.171875,6,3,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,77, chips ,1386,559406,523,321,311.2734375,501.1484375,331.7734375,548.171875,6,3,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,77, chips ,1435,559456,522,322,311.2734375,501.1484375,331.7734375,548.171875,6,3,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,77, chips ,1485,559506,522,322,311.2734375,501.1484375,331.7734375,548.171875,6,3,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,77, chips ,1536,559557,522,322,311.2734375,501.1484375,331.7734375,548.171875,6,3,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,-1,999,1585,559606,522,322,,,,,,,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,-1,999,1636,559656,522,322,,,,,,,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,-1,999,1686,559706,522,322,,,,,,,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,-1,999,1736,559756,522,322,,,,,,,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,-1,999,1786,559806,522,322,,,,,,,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,-1,999,1836,559856,522,322,,,,,,,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,-1,999,1885,559906,522,322,,,,,,,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,-1,999,1936,559956,522,322,,,,,,,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,-1,999,1985,560006,522,322,,,,,,,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,-1,999,2035,560056,522,322,,,,,,,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,-1,999,2085,560106,522,322,,,,,,,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
+2FXTPJWZ,,1,ele,21,1,5,6,-1,999,2135,560156,522,322,,,,,,,Inzozi Nziza,0,,,,,1970-01-01T00:00:00.368Z,,,,,,,,,spotlight-sona
