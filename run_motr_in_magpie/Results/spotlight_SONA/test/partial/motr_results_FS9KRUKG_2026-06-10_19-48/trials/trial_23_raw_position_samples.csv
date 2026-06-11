@@ -1,0 +1,35 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+FS9KRUKG,,2,int,24,5,22,23,-1,999,12393,1858305,721,351,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,12429,1858341,716,335,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,12479,1858390,707,333,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,12530,1858441,705,332,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,12579,1858491,703,324,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,12630,1858541,704,269,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,12679,1858591,707,250,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,53, this ,12729,1858641,709,247,231.2734375,687.59375,251.7734375,720.609375,4,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,53, this ,12779,1858690,717,247,231.2734375,687.59375,251.7734375,720.609375,4,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,53, this ,12830,1858742,720,247,231.2734375,687.59375,251.7734375,720.609375,4,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,69, hit. ,12879,1858791,725,273,271.2734375,718.921875,291.7734375,747.9375,5,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,69, hit. ,12930,1858842,725,288,271.2734375,718.921875,291.7734375,747.9375,5,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,12979,1858891,725,297,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,13029,1858941,725,297,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,13079,1858990,724,300,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,87," worst,” ",13130,1859041,722,314,311.2734375,694.609375,331.7734375,753.6171875,6,10,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,13179,1859090,711,363,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,13230,1859141,711,363,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,13279,1859191,711,363,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,13329,1859241,711,363,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,13379,1859291,711,363,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,13430,1859342,711,363,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,13479,1859391,711,363,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,13529,1859441,711,363,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,13579,1859491,711,363,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,13629,1859541,711,363,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,13679,1859591,711,363,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,13729,1859641,711,363,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,13779,1859691,711,363,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,13830,1859742,711,363,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,13878,1859790,711,363,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,13929,1859841,711,363,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,13979,1859891,711,363,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,5,22,23,-1,999,14028,1859940,711,363,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
