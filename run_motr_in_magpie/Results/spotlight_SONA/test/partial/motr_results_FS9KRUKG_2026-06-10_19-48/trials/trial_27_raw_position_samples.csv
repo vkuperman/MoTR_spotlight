@@ -1,0 +1,552 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+FS9KRUKG,,2,int,13,2,26,27,-1,999,11246,2160107,523,430,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,11280,2160141,406,261,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,11329,2160190,356,163,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,11381,2160241,325,113,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,11430,2160290,325,113,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,11481,2160342,325,113,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,11530,2160391,325,113,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,11580,2160441,327,113,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,11630,2160490,349,111,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,11681,2160542,359,111,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,1, Japanese ,11730,2160591,385,120,111.2734375,361.375,131.7734375,444.4453125,1,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,1, Japanese ,11781,2160641,399,123,111.2734375,361.375,131.7734375,444.4453125,1,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,1, Japanese ,11830,2160690,418,126,111.2734375,361.375,131.7734375,444.4453125,1,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,1, Japanese ,11881,2160742,419,127,111.2734375,361.375,131.7734375,444.4453125,1,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,1, Japanese ,11930,2160791,419,127,111.2734375,361.375,131.7734375,444.4453125,1,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,1, Japanese ,11981,2160841,419,127,111.2734375,361.375,131.7734375,444.4453125,1,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,1, Japanese ,12031,2160891,419,127,111.2734375,361.375,131.7734375,444.4453125,1,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,1, Japanese ,12081,2160942,431,125,111.2734375,361.375,131.7734375,444.4453125,1,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,2, employees ,12131,2160991,506,113,111.2734375,444.4453125,131.7734375,536.5,1,2,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,12181,2161041,547,111,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,12230,2161090,595,112,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,4, currently ,12281,2161142,603,115,111.2734375,567.5234375,131.7734375,641.546875,1,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,4, currently ,12331,2161191,603,116,111.2734375,567.5234375,131.7734375,641.546875,1,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,4, currently ,12382,2161242,603,116,111.2734375,567.5234375,131.7734375,641.546875,1,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,4, currently ,12431,2161291,603,116,111.2734375,567.5234375,131.7734375,641.546875,1,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,4, currently ,12480,2161341,603,116,111.2734375,567.5234375,131.7734375,641.546875,1,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,4, currently ,12530,2161391,604,116,111.2734375,567.5234375,131.7734375,641.546875,1,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,5, entitled ,12580,2161441,654,118,111.2734375,641.546875,131.7734375,704.59375,1,5,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,5, entitled ,12632,2161492,683,122,111.2734375,641.546875,131.7734375,704.59375,1,5,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,6, to ,12680,2161540,720,127,111.2734375,704.59375,131.7734375,724.609375,1,6,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,7, an ,12731,2161591,729,128,111.2734375,724.609375,131.7734375,749.6328125,1,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,7, an ,12780,2161640,733,128,111.2734375,724.609375,131.7734375,749.6328125,1,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,7, an ,12830,2161690,733,128,111.2734375,724.609375,131.7734375,749.6328125,1,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,7, an ,12880,2161741,733,128,111.2734375,724.609375,131.7734375,749.6328125,1,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,7, an ,12931,2161791,733,128,111.2734375,724.609375,131.7734375,749.6328125,1,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,7, an ,12981,2161842,733,128,111.2734375,724.609375,131.7734375,749.6328125,1,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,7, an ,13032,2161892,733,128,111.2734375,724.609375,131.7734375,749.6328125,1,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,7, an ,13081,2161941,748,127,111.2734375,724.609375,131.7734375,749.6328125,1,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,8, average ,13131,2161991,772,125,111.2734375,749.6328125,131.7734375,819.6875,1,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,9, 18.5 ,13180,2162040,846,122,111.2734375,819.6875,131.7734375,859.7265625,1,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,10, days’ ,13232,2162092,867,123,111.2734375,859.7265625,131.7734375,906.09375,1,10,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,10, days’ ,13280,2162140,886,129,111.2734375,859.7265625,131.7734375,906.09375,1,10,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,13330,2162190,886,129,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,13379,2162240,904,131,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,13431,2162291,912,131,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,13480,2162340,915,130,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,13530,2162391,915,130,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,13580,2162441,915,130,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,13631,2162491,915,130,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,13681,2162541,915,130,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,13731,2162591,915,130,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,13781,2162641,915,130,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,13831,2162692,915,130,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,13881,2162741,915,130,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,13931,2162791,915,130,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,13981,2162842,915,130,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,14031,2162891,915,130,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,14080,2162941,918,130,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,11, paid ,14131,2162991,921,129,111.2734375,906.09375,131.7734375,945.1328125,1,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,11, paid ,14180,2163040,925,128,111.2734375,906.09375,131.7734375,945.1328125,1,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,11, paid ,14231,2163091,926,128,111.2734375,906.09375,131.7734375,945.1328125,1,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,11, paid ,14281,2163141,927,127,111.2734375,906.09375,131.7734375,945.1328125,1,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,11, paid ,14331,2163191,928,127,111.2734375,906.09375,131.7734375,945.1328125,1,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,11, paid ,14380,2163240,930,127,111.2734375,906.09375,131.7734375,945.1328125,1,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,11, paid ,14431,2163291,931,127,111.2734375,906.09375,131.7734375,945.1328125,1,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,11, paid ,14480,2163341,936,127,111.2734375,906.09375,131.7734375,945.1328125,1,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,11, paid ,14531,2163391,940,127,111.2734375,906.09375,131.7734375,945.1328125,1,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,11, paid ,14580,2163441,945,127,111.2734375,906.09375,131.7734375,945.1328125,1,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,12, holiday ,14631,2163491,946,128,111.2734375,945.1328125,131.7734375,1007.1796875,1,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,12, holiday ,14680,2163540,947,128,111.2734375,945.1328125,131.7734375,1007.1796875,1,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,12, holiday ,14731,2163591,949,128,111.2734375,945.1328125,131.7734375,1007.1796875,1,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,12, holiday ,14780,2163640,952,129,111.2734375,945.1328125,131.7734375,1007.1796875,1,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,12, holiday ,14832,2163692,953,129,111.2734375,945.1328125,131.7734375,1007.1796875,1,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,12, holiday ,14880,2163740,957,129,111.2734375,945.1328125,131.7734375,1007.1796875,1,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,12, holiday ,14931,2163791,958,129,111.2734375,945.1328125,131.7734375,1007.1796875,1,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,12, holiday ,14980,2163840,961,129,111.2734375,945.1328125,131.7734375,1007.1796875,1,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,12, holiday ,15031,2163891,962,129,111.2734375,945.1328125,131.7734375,1007.1796875,1,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,12, holiday ,15080,2163940,958,129,111.2734375,945.1328125,131.7734375,1007.1796875,1,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,15131,2163991,958,129,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,15180,2164040,796,161,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,15231,2164091,468,172,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,15280,2164140,407,158,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,15330,2164191,375,135,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,15380,2164241,375,140,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,15431,2164291,375,147,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,16, only ,15480,2164341,376,155,151.2734375,361.375,171.7734375,399.3984375,2,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,16, only ,15531,2164392,377,156,151.2734375,361.375,171.7734375,399.3984375,2,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,16, only ,15580,2164440,379,158,151.2734375,361.375,171.7734375,399.3984375,2,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,16, only ,15631,2164492,379,159,151.2734375,361.375,171.7734375,399.3984375,2,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,16, only ,15680,2164540,386,156,151.2734375,361.375,171.7734375,399.3984375,2,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,15731,2164591,386,156,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,15780,2164640,539,145,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,15831,2164691,618,148,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,24, with ,15880,2164741,708,166,151.2734375,689.6171875,171.7734375,726.6328125,2,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,24, with ,15931,2164792,716,167,151.2734375,689.6171875,171.7734375,726.6328125,2,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,24, with ,15980,2164840,716,167,151.2734375,689.6171875,171.7734375,726.6328125,2,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,24, with ,16030,2164891,716,167,151.2734375,689.6171875,171.7734375,726.6328125,2,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,24, with ,16081,2164942,716,167,151.2734375,689.6171875,171.7734375,726.6328125,2,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,24, with ,16132,2164992,716,167,151.2734375,689.6171875,171.7734375,726.6328125,2,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,24, with ,16181,2165041,716,167,151.2734375,689.6171875,171.7734375,726.6328125,2,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,24, with ,16231,2165091,716,167,151.2734375,689.6171875,171.7734375,726.6328125,2,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,16280,2165140,730,167,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,16331,2165191,826,183,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,45, Most ,16380,2165241,905,207,191.2734375,882.3515625,211.7734375,926.359375,3,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,16431,2165292,905,207,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,16480,2165340,923,226,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,16531,2165392,923,228,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,16580,2165440,924,221,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,46, use ,16631,2165491,929,206,191.2734375,926.359375,211.7734375,960.3828125,3,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,16680,2165541,950,182,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,16731,2165592,964,177,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,16780,2165641,976,174,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,16831,2165692,978,172,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,32, as ,16880,2165740,979,167,151.2734375,977.75,171.7734375,1001.765625,2,17,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,32, as ,16931,2165792,979,166,151.2734375,977.75,171.7734375,1001.765625,2,17,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,32, as ,16980,2165841,979,166,151.2734375,977.75,171.7734375,1001.765625,2,17,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,32, as ,17030,2165890,979,166,151.2734375,977.75,171.7734375,1001.765625,2,17,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,32, as ,17080,2165941,981,165,151.2734375,977.75,171.7734375,1001.765625,2,17,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,32, as ,17132,2165992,982,165,151.2734375,977.75,171.7734375,1001.765625,2,17,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,32, as ,17180,2166040,990,165,151.2734375,977.75,171.7734375,1001.765625,2,17,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,32, as ,17231,2166091,993,166,151.2734375,977.75,171.7734375,1001.765625,2,17,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,17280,2166140,994,169,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,17331,2166191,899,190,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,17380,2166241,774,203,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,17431,2166291,570,217,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,37, In ,17480,2166341,509,204,191.2734375,505.4765625,211.7734375,525.4921875,3,3,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,36, holidays. ,17531,2166391,502,194,191.2734375,429.4296875,211.7734375,505.4765625,3,2,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,17580,2166441,496,184,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,17631,2166491,494,184,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,36, holidays. ,17680,2166541,480,196,191.2734375,429.4296875,211.7734375,505.4765625,3,2,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,17731,2166591,480,196,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,17781,2166641,429,225,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,17831,2166691,423,225,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,17880,2166740,419,221,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,17930,2166791,419,221,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,17980,2166841,427,215,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,36, holidays. ,18031,2166892,447,208,191.2734375,429.4296875,211.7734375,505.4765625,3,2,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,36, holidays. ,18080,2166940,502,203,191.2734375,429.4296875,211.7734375,505.4765625,3,2,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,38," reality, ",18131,2166991,530,204,191.2734375,525.4921875,211.7734375,582.1875,3,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,18180,2167040,544,208,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,18231,2167091,558,213,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,18280,2167140,559,213,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,18331,2167191,559,213,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,18380,2167240,558,213,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,18431,2167291,557,213,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,18480,2167340,554,211,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,18530,2167390,552,210,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,38," reality, ",18580,2167440,545,208,191.2734375,525.4921875,211.7734375,582.1875,3,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,38," reality, ",18631,2167491,540,207,191.2734375,525.4921875,211.7734375,582.1875,3,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,38," reality, ",18680,2167540,526,206,191.2734375,525.4921875,211.7734375,582.1875,3,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,37, In ,18731,2167592,519,206,191.2734375,505.4765625,211.7734375,525.4921875,3,3,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,37, In ,18780,2167640,511,206,191.2734375,505.4765625,211.7734375,525.4921875,3,3,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,37, In ,18831,2167691,510,206,191.2734375,505.4765625,211.7734375,525.4921875,3,3,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,37, In ,18881,2167741,510,207,191.2734375,505.4765625,211.7734375,525.4921875,3,3,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,37, In ,18931,2167792,510,208,191.2734375,505.4765625,211.7734375,525.4921875,3,3,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,18980,2167841,521,223,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,53, entitlement. ,19031,2167892,534,236,231.2734375,506.484375,251.7734375,604.5390625,4,3,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,53, entitlement. ,19080,2167941,590,247,231.2734375,506.484375,251.7734375,604.5390625,4,3,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,19132,2167992,618,246,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,19180,2168040,638,243,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,19231,2168091,639,243,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,19280,2168140,639,243,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,19331,2168191,638,243,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,19380,2168241,637,241,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,19431,2168292,636,240,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,19481,2168341,636,240,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,19532,2168392,636,240,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,19582,2168442,636,240,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,19631,2168491,636,240,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,19681,2168541,641,240,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,19731,2168591,653,240,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,56, British ,19780,2168641,709,240,231.2734375,703.578125,251.7734375,758.59375,4,6,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,56, British ,19831,2168692,730,242,231.2734375,703.578125,251.7734375,758.59375,4,6,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,19880,2168740,770,243,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,19931,2168792,786,243,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,19980,2168840,809,243,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,20031,2168891,817,243,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,20080,2168940,826,244,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,58, see ,20132,2168992,828,245,231.2734375,826.609375,251.7734375,860.6328125,4,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,58, see ,20180,2169040,829,245,231.2734375,826.609375,251.7734375,860.6328125,4,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,58, see ,20231,2169091,829,245,231.2734375,826.609375,251.7734375,860.6328125,4,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,20280,2169141,802,245,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,20331,2169191,802,245,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,38," reality, ",20380,2169241,566,194,191.2734375,525.4921875,211.7734375,582.1875,3,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,20430,2169291,566,194,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,20, the ,20480,2169340,549,168,151.2734375,521.4765625,171.7734375,551.5,2,5,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,20, the ,20530,2169390,549,168,151.2734375,521.4765625,171.7734375,551.5,2,5,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,20580,2169440,547,175,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,20630,2169490,546,182,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,38," reality, ",20680,2169541,543,196,191.2734375,525.4921875,211.7734375,582.1875,3,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,38," reality, ",20731,2169591,541,198,191.2734375,525.4921875,211.7734375,582.1875,3,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,38," reality, ",20781,2169641,538,199,191.2734375,525.4921875,211.7734375,582.1875,3,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,38," reality, ",20831,2169691,537,199,191.2734375,525.4921875,211.7734375,582.1875,3,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,38," reality, ",20881,2169741,537,199,191.2734375,525.4921875,211.7734375,582.1875,3,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,38," reality, ",20930,2169790,541,200,191.2734375,525.4921875,211.7734375,582.1875,3,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,40, few ,20980,2169841,627,199,191.2734375,621.1953125,211.7734375,654.2109375,3,6,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,41, employees ,21031,2169891,675,199,191.2734375,654.2109375,211.7734375,746.265625,3,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,41, employees ,21080,2169940,745,201,191.2734375,654.2109375,211.7734375,746.265625,3,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,42, take ,21131,2169992,758,202,191.2734375,746.265625,211.7734375,785.2890625,3,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,42, take ,21180,2170040,761,201,191.2734375,746.265625,211.7734375,785.2890625,3,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,42, take ,21231,2170091,761,201,191.2734375,746.265625,211.7734375,785.2890625,3,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,42, take ,21281,2170142,761,201,191.2734375,746.265625,211.7734375,785.2890625,3,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,42, take ,21332,2170192,761,201,191.2734375,746.265625,211.7734375,785.2890625,3,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,42, take ,21381,2170241,761,201,191.2734375,746.265625,211.7734375,785.2890625,3,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,42, take ,21432,2170292,761,201,191.2734375,746.265625,211.7734375,785.2890625,3,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,42, take ,21481,2170341,766,201,191.2734375,746.265625,211.7734375,785.2890625,3,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,43, these ,21530,2170391,798,201,191.2734375,785.2890625,211.7734375,834.328125,3,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,43, these ,21581,2170442,826,202,191.2734375,785.2890625,211.7734375,834.328125,3,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,44, days. ,21630,2170490,863,203,191.2734375,834.328125,211.7734375,882.3515625,3,10,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,44, days. ,21681,2170541,876,203,191.2734375,834.328125,211.7734375,882.3515625,3,10,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,45, Most ,21730,2170591,890,205,191.2734375,882.3515625,211.7734375,926.359375,3,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,45, Most ,21781,2170642,891,206,191.2734375,882.3515625,211.7734375,926.359375,3,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,45, Most ,21830,2170690,887,206,191.2734375,882.3515625,211.7734375,926.359375,3,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,21881,2170741,887,206,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,21930,2170791,761,241,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,21981,2170842,761,241,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,22030,2170890,707,262,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,22081,2170941,685,263,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,22130,2170990,647,263,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,22180,2171040,636,260,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,22230,2171090,623,256,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,22281,2171141,619,254,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,22330,2171190,617,251,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,22381,2171241,617,249,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,22431,2171291,617,245,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,22482,2171342,617,244,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,22530,2171390,627,242,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,22581,2171442,633,242,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,22630,2171490,650,241,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,55, many ,22681,2171541,660,240,231.2734375,654.5546875,251.7734375,703.578125,4,5,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,55, many ,22730,2171590,686,238,231.2734375,654.5546875,251.7734375,703.578125,4,5,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,55, many ,22781,2171641,701,237,231.2734375,654.5546875,251.7734375,703.578125,4,5,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,56, British ,22830,2171690,740,235,231.2734375,703.578125,251.7734375,758.59375,4,6,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,56, British ,22881,2171742,756,234,231.2734375,703.578125,251.7734375,758.59375,4,6,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,22931,2171791,784,234,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,22981,2171842,796,234,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,23030,2171890,811,234,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,23081,2171941,819,234,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,58, see ,23130,2171991,834,235,231.2734375,826.609375,251.7734375,860.6328125,4,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,58, see ,23180,2172041,843,235,231.2734375,826.609375,251.7734375,860.6328125,4,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,58, see ,23230,2172090,860,236,231.2734375,826.609375,251.7734375,860.6328125,4,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,59, a ,23281,2172141,863,236,231.2734375,860.6328125,251.7734375,875.6484375,4,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,23330,2172190,820,218,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,41, employees ,23381,2172241,725,202,191.2734375,654.2109375,211.7734375,746.265625,3,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,23430,2172290,625,184,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,23481,2172341,614,180,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,23530,2172391,612,179,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,23581,2172442,618,180,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,23630,2172490,654,185,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,23681,2172541,676,190,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,41, employees ,23730,2172590,728,201,191.2734375,654.2109375,211.7734375,746.265625,3,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,42, take ,23781,2172642,753,206,191.2734375,746.265625,211.7734375,785.2890625,3,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,23830,2172691,785,210,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,23881,2172741,837,211,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,23930,2172790,866,214,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,23980,2172841,874,216,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,24030,2172891,875,216,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,24081,2172941,875,216,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,24131,2172991,875,216,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,24181,2173042,875,216,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,24230,2173090,886,213,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,45, Most ,24280,2173140,901,208,191.2734375,882.3515625,211.7734375,926.359375,3,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,46, use ,24330,2173191,933,202,191.2734375,926.359375,211.7734375,960.3828125,3,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,46, use ,24381,2173241,947,201,191.2734375,926.359375,211.7734375,960.3828125,3,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,47, only ,24430,2173290,980,200,191.2734375,960.3828125,211.7734375,998.40625,3,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,48, nine ,24482,2173342,999,200,191.2734375,998.40625,211.7734375,1037.4453125,3,14,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,48, nine ,24530,2173391,1036,200,191.2734375,998.40625,211.7734375,1037.4453125,3,14,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,49, of ,24581,2173441,1044,201,191.2734375,1037.4453125,211.7734375,1057.4609375,3,15,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,49, of ,24631,2173491,1047,201,191.2734375,1037.4453125,211.7734375,1057.4609375,3,15,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,49, of ,24680,2173540,1047,201,191.2734375,1037.4453125,211.7734375,1057.4609375,3,15,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,49, of ,24731,2173591,1047,201,191.2734375,1037.4453125,211.7734375,1057.4609375,3,15,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,49, of ,24781,2173641,1047,201,191.2734375,1037.4453125,211.7734375,1057.4609375,3,15,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,49, of ,24831,2173691,1044,201,191.2734375,1037.4453125,211.7734375,1057.4609375,3,15,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,49, of ,24881,2173742,1041,202,191.2734375,1037.4453125,211.7734375,1057.4609375,3,15,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,49, of ,24930,2173790,1038,202,191.2734375,1037.4453125,211.7734375,1057.4609375,3,15,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,49, of ,24981,2173841,1038,202,191.2734375,1037.4453125,211.7734375,1057.4609375,3,15,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,48, nine ,25031,2173891,1037,203,191.2734375,998.40625,211.7734375,1037.4453125,3,14,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,48, nine ,25081,2173941,1036,203,191.2734375,998.40625,211.7734375,1037.4453125,3,14,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,25130,2173991,1031,205,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,25181,2174041,992,218,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,25230,2174091,907,225,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,25281,2174141,874,225,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,25330,2174190,815,222,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,25380,2174241,797,221,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,25430,2174290,781,221,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,25481,2174341,780,221,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,25530,2174390,779,226,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,25582,2174442,779,237,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,72, four-night ,25630,2174491,758,285,271.2734375,680.5703125,291.7734375,761.6171875,5,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,25681,2174542,758,285,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,85, hopes ,25730,2174591,707,323,311.2734375,675.6171875,331.7734375,729.6640625,6,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,85, hopes ,25781,2174641,707,323,311.2734375,675.6171875,331.7734375,729.6640625,6,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,85, hopes ,25831,2174691,707,323,311.2734375,675.6171875,331.7734375,729.6640625,6,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,85, hopes ,25881,2174741,707,323,311.2734375,675.6171875,331.7734375,729.6640625,6,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,85, hopes ,25930,2174790,704,323,311.2734375,675.6171875,331.7734375,729.6640625,6,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,85, hopes ,25981,2174841,679,321,311.2734375,675.6171875,331.7734375,729.6640625,6,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,84, government ,26031,2174891,608,319,311.2734375,575.5625,331.7734375,675.6171875,6,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,84, government ,26081,2174941,592,317,311.2734375,575.5625,331.7734375,675.6171875,6,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,84, government ,26130,2174990,586,316,311.2734375,575.5625,331.7734375,675.6171875,6,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,84, government ,26181,2175042,586,316,311.2734375,575.5625,331.7734375,675.6171875,6,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,84, government ,26230,2175090,605,327,311.2734375,575.5625,331.7734375,675.6171875,6,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,26281,2175142,605,327,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,26330,2175190,642,386,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,114," France, ",26381,2175241,642,396,391.2734375,576.5625,411.7734375,642.5859375,8,6,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,114," France, ",26430,2175290,608,405,391.2734375,576.5625,411.7734375,642.5859375,8,6,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,114," France, ",26481,2175342,582,404,391.2734375,576.5625,411.7734375,642.5859375,8,6,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,26530,2175391,567,395,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,26581,2175442,556,371,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,96, example ,26630,2175491,556,357,351.2734375,534.4765625,371.7734375,607.515625,7,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,96, example ,26681,2175542,558,355,351.2734375,534.4765625,371.7734375,607.515625,7,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,26730,2175591,561,354,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,26781,2175641,571,344,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,84, government ,26831,2175691,579,328,311.2734375,575.5625,331.7734375,675.6171875,6,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,84, government ,26882,2175742,580,316,311.2734375,575.5625,331.7734375,675.6171875,6,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,26930,2175791,580,291,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,68, Japan ,26982,2175842,579,284,271.2734375,533.453125,291.7734375,587.5,5,5,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,68, Japan ,27030,2175890,578,277,271.2734375,533.453125,291.7734375,587.5,5,5,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,27081,2175942,578,277,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,53, entitlement. ,27130,2175991,602,244,231.2734375,506.484375,251.7734375,604.5390625,4,3,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,27181,2176042,608,235,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,27230,2176090,618,226,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,27281,2176141,621,226,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,27330,2176190,627,238,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,27381,2176242,631,243,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,27430,2176290,639,246,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,54, While ,27481,2176341,645,245,231.2734375,604.5390625,251.7734375,654.5546875,4,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,55, many ,27530,2176390,669,244,231.2734375,654.5546875,251.7734375,703.578125,4,5,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,55, many ,27581,2176441,701,244,231.2734375,654.5546875,251.7734375,703.578125,4,5,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,56, British ,27630,2176490,749,248,231.2734375,703.578125,251.7734375,758.59375,4,6,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,27681,2176541,759,249,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,27730,2176591,761,249,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,27782,2176642,761,249,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,27831,2176691,761,249,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,27882,2176742,761,249,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,27931,2176791,761,249,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,27981,2176841,770,248,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,57, workers ,28031,2176891,789,247,231.2734375,758.59375,251.7734375,826.609375,4,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,58, see ,28081,2176941,846,246,231.2734375,826.609375,251.7734375,860.6328125,4,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,59, a ,28132,2176992,872,246,231.2734375,860.6328125,251.7734375,875.6484375,4,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,60, two-week ,28180,2177040,937,246,231.2734375,875.6484375,251.7734375,956.6796875,4,10,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,61, summer ,28231,2177091,961,245,231.2734375,956.6796875,251.7734375,1026.6875,4,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,61, summer ,28280,2177140,994,243,231.2734375,956.6796875,251.7734375,1026.6875,4,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,61, summer ,28331,2177191,1007,243,231.2734375,956.6796875,251.7734375,1026.6875,4,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,62, holiday ,28380,2177241,1027,247,231.2734375,1026.6875,251.7734375,1088.734375,4,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,62, holiday ,28430,2177290,1038,249,231.2734375,1026.6875,251.7734375,1088.734375,4,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,62, holiday ,28480,2177340,1054,249,231.2734375,1026.6875,251.7734375,1088.734375,4,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,62, holiday ,28531,2177392,1056,249,231.2734375,1026.6875,251.7734375,1088.734375,4,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,28580,2177441,1055,249,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,58, see ,28630,2177490,854,245,231.2734375,826.609375,251.7734375,860.6328125,4,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,28680,2177541,550,268,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,28731,2177591,470,269,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,51, 18.5-day ,28780,2177640,419,247,231.2734375,361.375,251.7734375,436.4296875,4,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,51, 18.5-day ,28831,2177691,413,241,231.2734375,361.375,251.7734375,436.4296875,4,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,51, 18.5-day ,28880,2177740,409,240,231.2734375,361.375,251.7734375,436.4296875,4,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,51, 18.5-day ,28931,2177791,406,245,231.2734375,361.375,251.7734375,436.4296875,4,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,28981,2177841,397,262,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,29031,2177891,393,269,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,64, their ,29080,2177940,388,275,271.2734375,361.375,291.7734375,401.3984375,5,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,64, their ,29131,2177992,387,276,271.2734375,361.375,291.7734375,401.3984375,5,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,64, their ,29181,2178041,387,277,271.2734375,361.375,291.7734375,401.3984375,5,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,64, their ,29231,2178091,391,277,271.2734375,361.375,291.7734375,401.3984375,5,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,29280,2178140,423,272,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,29331,2178191,449,268,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,29380,2178241,508,264,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,29431,2178291,546,264,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,29480,2178340,616,264,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,29531,2178391,644,265,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,29580,2178440,685,272,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,72, four-night ,29631,2178491,700,275,271.2734375,680.5703125,291.7734375,761.6171875,5,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,72, four-night ,29680,2178540,722,282,271.2734375,680.5703125,291.7734375,761.6171875,5,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,72, four-night ,29732,2178592,731,285,271.2734375,680.5703125,291.7734375,761.6171875,5,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,72, four-night ,29780,2178640,740,288,271.2734375,680.5703125,291.7734375,761.6171875,5,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,72, four-night ,29831,2178691,742,288,271.2734375,680.5703125,291.7734375,761.6171875,5,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,72, four-night ,29880,2178741,741,288,271.2734375,680.5703125,291.7734375,761.6171875,5,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,72, four-night ,29931,2178791,741,288,271.2734375,680.5703125,291.7734375,761.6171875,5,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,72, four-night ,29981,2178841,741,288,271.2734375,680.5703125,291.7734375,761.6171875,5,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,72, four-night ,30032,2178892,741,288,271.2734375,680.5703125,291.7734375,761.6171875,5,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,72, four-night ,30081,2178941,741,288,271.2734375,680.5703125,291.7734375,761.6171875,5,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,72, four-night ,30132,2178992,755,284,271.2734375,680.5703125,291.7734375,761.6171875,5,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,30180,2179040,799,274,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,30230,2179091,904,269,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,30280,2179140,963,276,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,30331,2179191,982,280,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,30380,2179240,999,285,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,30431,2179291,1002,286,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,30480,2179340,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,30531,2179391,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,30581,2179441,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,30632,2179492,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,30682,2179542,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,30731,2179591,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,30782,2179642,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,30831,2179691,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,30882,2179742,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,30932,2179792,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,30981,2179841,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31031,2179891,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31082,2179942,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31131,2179991,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31181,2180041,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31231,2180091,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31280,2180141,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31332,2180192,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31381,2180242,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31432,2180292,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31482,2180342,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31531,2180392,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31581,2180441,1005,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31631,2180491,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31681,2180542,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31732,2180592,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31781,2180641,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31830,2180690,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31881,2180741,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31931,2180791,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,31982,2180842,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32031,2180891,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32083,2180943,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32131,2180992,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32182,2181042,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32232,2181092,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32282,2181142,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32332,2181192,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32381,2181241,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32432,2181292,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32482,2181342,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32531,2181391,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32581,2181441,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32631,2181492,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32681,2181541,1004,287,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32731,2181591,994,283,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32781,2181641,992,281,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32830,2181691,988,280,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32881,2181741,986,280,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32930,2181790,979,281,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,76, self-indulgence. ,32982,2181842,976,282,271.2734375,929.703125,291.7734375,1060.7890625,5,13,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,33030,2181890,905,304,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,89, will ,33081,2181941,838,318,311.2734375,826.734375,331.7734375,856.734375,6,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,33130,2181991,632,350,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,96, example ,33181,2182041,560,361,351.2734375,534.4765625,371.7734375,607.515625,7,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,95, the ,33231,2182091,510,364,351.2734375,504.453125,371.7734375,534.4765625,7,3,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,95, the ,33281,2182142,505,362,351.2734375,504.453125,371.7734375,534.4765625,7,3,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,95, the ,33331,2182191,505,362,351.2734375,504.453125,371.7734375,534.4765625,7,3,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,95, the ,33382,2182242,505,362,351.2734375,504.453125,371.7734375,534.4765625,7,3,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,95, the ,33431,2182291,505,362,351.2734375,504.453125,371.7734375,534.4765625,7,3,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,95, the ,33480,2182340,506,362,351.2734375,504.453125,371.7734375,534.4765625,7,3,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,33530,2182390,520,352,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,33581,2182441,536,346,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,33630,2182491,569,344,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,33681,2182541,581,344,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,33730,2182590,592,342,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,33781,2182642,592,342,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,33830,2182690,592,342,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,33881,2182741,592,342,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,33930,2182790,592,342,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,84, government ,33981,2182841,608,327,311.2734375,575.5625,331.7734375,675.6171875,6,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,70, that ,34030,2182891,654,289,271.2734375,630.5234375,291.7734375,665.5546875,5,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,71, a ,34081,2182941,674,280,271.2734375,665.5546875,291.7734375,680.5703125,5,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,72, four-night ,34130,2182990,688,283,271.2734375,680.5703125,291.7734375,761.6171875,5,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,34182,2183042,698,290,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,34231,2183091,742,310,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,87, the ,34282,2183142,768,319,311.2734375,764.6953125,331.7734375,794.71875,6,10,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,88, law ,34330,2183191,799,328,311.2734375,794.71875,331.7734375,826.734375,6,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,88, law ,34381,2183241,804,328,311.2734375,794.71875,331.7734375,826.734375,6,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,88, law ,34431,2183291,804,328,311.2734375,794.71875,331.7734375,826.734375,6,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,88, law ,34481,2183341,804,328,311.2734375,794.71875,331.7734375,826.734375,6,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,88, law ,34531,2183391,804,328,311.2734375,794.71875,331.7734375,826.734375,6,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,88, law ,34582,2183442,804,328,311.2734375,794.71875,331.7734375,826.734375,6,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,88, law ,34631,2183491,815,323,311.2734375,794.71875,331.7734375,826.734375,6,11,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,89, will ,34681,2183541,844,316,311.2734375,826.734375,331.7734375,856.734375,6,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,91, Japanese ,34730,2183590,920,316,311.2734375,900.7734375,331.7734375,983.84375,6,14,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,91, Japanese ,34782,2183642,951,322,311.2734375,900.7734375,331.7734375,983.84375,6,14,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,91, Japanese ,34830,2183690,976,327,311.2734375,900.7734375,331.7734375,983.84375,6,14,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,91, Japanese ,34882,2183742,979,329,311.2734375,900.7734375,331.7734375,983.84375,6,14,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,34930,2183790,979,329,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,34981,2183842,838,332,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,95, the ,35030,2183891,506,367,351.2734375,504.453125,371.7734375,534.4765625,7,3,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,35081,2183942,506,367,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,35130,2183990,405,371,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,93, towards ,35181,2184041,402,367,351.2734375,361.375,371.7734375,429.40625,7,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,93, towards ,35231,2184091,402,364,351.2734375,361.375,371.7734375,429.40625,7,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,93, towards ,35282,2184142,402,364,351.2734375,361.375,371.7734375,429.40625,7,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,93, towards ,35330,2184191,402,363,351.2734375,361.375,371.7734375,429.40625,7,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,93, towards ,35381,2184241,403,363,351.2734375,361.375,371.7734375,429.40625,7,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,93, towards ,35430,2184291,405,363,351.2734375,361.375,371.7734375,429.40625,7,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,93, towards ,35482,2184342,406,363,351.2734375,361.375,371.7734375,429.40625,7,1,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,35530,2184391,416,358,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,35580,2184440,491,341,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,35630,2184491,575,344,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,35681,2184541,623,348,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,35730,2184590,714,349,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,100," workers, ",35782,2184642,741,353,351.2734375,715.5625,371.7734375,788.578125,7,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,100," workers, ",35830,2184690,762,360,351.2734375,715.5625,371.7734375,788.578125,7,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,100," workers, ",35882,2184742,764,363,351.2734375,715.5625,371.7734375,788.578125,7,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,100," workers, ",35930,2184790,766,368,351.2734375,715.5625,371.7734375,788.578125,7,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,100," workers, ",35981,2184841,766,369,351.2734375,715.5625,371.7734375,788.578125,7,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,100," workers, ",36031,2184891,766,369,351.2734375,715.5625,371.7734375,788.578125,7,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,100," workers, ",36081,2184941,770,368,351.2734375,715.5625,371.7734375,788.578125,7,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,101, who ,36130,2184990,810,362,351.2734375,788.578125,371.7734375,826.6015625,7,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,102, use ,36182,2185042,836,362,351.2734375,826.6015625,371.7734375,860.625,7,10,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,102, use ,36230,2185090,851,362,351.2734375,826.6015625,371.7734375,860.625,7,10,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,102, use ,36281,2185141,851,362,351.2734375,826.6015625,371.7734375,860.625,7,10,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,102, use ,36331,2185191,851,362,351.2734375,826.6015625,371.7734375,860.625,7,10,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,102, use ,36382,2185242,851,362,351.2734375,826.6015625,371.7734375,860.625,7,10,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,102, use ,36430,2185291,854,362,351.2734375,826.6015625,371.7734375,860.625,7,10,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,104, average ,36481,2185341,899,358,351.2734375,885.6484375,371.7734375,955.703125,7,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,104, average ,36530,2185391,940,358,351.2734375,885.6484375,371.7734375,955.703125,7,12,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,106, 20 ,36580,2185440,988,364,351.2734375,975.71875,371.7734375,1000.7421875,7,14,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,106, 20 ,36631,2185491,999,367,351.2734375,975.71875,371.7734375,1000.7421875,7,14,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,107, days’ ,36680,2185540,1011,370,351.2734375,1000.7421875,371.7734375,1047.109375,7,15,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,36731,2185591,1014,370,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,36780,2185640,1001,373,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,36831,2185691,869,387,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,36880,2185740,723,401,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,113, in ,36932,2185792,559,409,391.2734375,557.546875,411.7734375,576.5625,8,5,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,112, those ,36980,2185840,521,402,391.2734375,508.5078125,411.7734375,557.546875,8,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,112, those ,37031,2185891,514,400,391.2734375,508.5078125,411.7734375,557.546875,8,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,111, and ,37080,2185940,506,400,391.2734375,473.46875,411.7734375,508.5078125,8,3,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,111, and ,37131,2185991,506,400,391.2734375,473.46875,411.7734375,508.5078125,8,3,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,111, and ,37180,2186041,506,401,391.2734375,473.46875,411.7734375,508.5078125,8,3,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,112, those ,37232,2186092,509,401,391.2734375,508.5078125,411.7734375,557.546875,8,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,112, those ,37280,2186140,535,395,391.2734375,508.5078125,411.7734375,557.546875,8,4,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,37331,2186192,560,392,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,37380,2186240,595,391,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,37431,2186291,606,391,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,37480,2186340,622,392,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,114," France, ",37532,2186392,629,393,391.2734375,576.5625,411.7734375,642.5859375,8,6,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,115, who ,37580,2186440,647,395,391.2734375,642.5859375,411.7734375,680.609375,8,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,115, who ,37631,2186491,658,397,391.2734375,642.5859375,411.7734375,680.609375,8,7,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,116, take ,37680,2186541,686,399,391.2734375,680.609375,411.7734375,719.6328125,8,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,116, take ,37731,2186591,700,400,391.2734375,680.609375,411.7734375,719.6328125,8,8,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,117, an ,37780,2186641,727,403,391.2734375,719.6328125,411.7734375,744.65625,8,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,117, an ,37832,2186692,737,405,391.2734375,719.6328125,411.7734375,744.65625,8,9,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,118, average ,37880,2186740,745,406,391.2734375,744.65625,411.7734375,814.7109375,8,10,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,118, average ,37931,2186791,746,406,391.2734375,744.65625,411.7734375,814.7109375,8,10,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,118, average ,37980,2186840,755,408,391.2734375,744.65625,411.7734375,814.7109375,8,10,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,38031,2186891,755,408,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,38080,2186941,780,418,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,38131,2186991,783,424,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,38180,2187040,783,436,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,38231,2187091,783,436,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,38280,2187140,783,436,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,38330,2187190,783,436,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,38380,2187241,783,436,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,38432,2187292,783,436,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,38481,2187341,783,436,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,38530,2187390,783,436,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,38580,2187441,783,436,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,38630,2187490,783,436,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,38680,2187541,783,436,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,2,26,27,-1,999,38731,2187591,783,436,,,,,,,That it is unnecessarily long,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
