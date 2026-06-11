@@ -1,0 +1,285 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,2067,1276696,786,392,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,2118,1276747,777,240,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,2168,1276797,689,118,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,2218,1276847,689,118,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,2267,1276896,367,95,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,1, A ,2318,1276947,346,108,102.375,346.375,122.875,362.3984375,1,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,2368,1276997,333,113,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,2417,1277046,323,115,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,2468,1277097,321,115,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,2517,1277146,327,114,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,2, surprising ,2568,1277197,375,110,102.375,362.3984375,122.875,445.4296875,1,2,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,2, surprising ,2617,1277246,427,110,102.375,362.3984375,122.875,445.4296875,1,2,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,3," finding, ",2668,1277297,462,112,102.375,445.4296875,122.875,508.4765625,1,3,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,3," finding, ",2717,1277347,481,114,102.375,445.4296875,122.875,508.4765625,1,3,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,3," finding, ",2768,1277397,507,116,102.375,445.4296875,122.875,508.4765625,1,3,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,4," however, ",2818,1277447,537,116,102.375,508.4765625,122.875,585.53125,1,4,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,4," however, ",2868,1277497,565,116,102.375,508.4765625,122.875,585.53125,1,4,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,4," however, ",2917,1277546,577,115,102.375,508.4765625,122.875,585.53125,1,4,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,4," however, ",2968,1277597,577,115,102.375,508.4765625,122.875,585.53125,1,4,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,4," however, ",3017,1277647,577,115,102.375,508.4765625,122.875,585.53125,1,4,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,4," however, ",3068,1277697,577,115,102.375,508.4765625,122.875,585.53125,1,4,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,5, is ,3118,1277747,598,115,102.375,585.53125,122.875,603.53125,1,5,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,7, oxytocin ,3168,1277797,672,115,102.375,638.5625,122.875,709.6015625,1,7,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,8, nasal ,3218,1277847,723,115,102.375,709.6015625,122.875,757.640625,1,8,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,8, nasal ,3268,1277897,742,116,102.375,709.6015625,122.875,757.640625,1,8,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,8, nasal ,3318,1277947,755,118,102.375,709.6015625,122.875,757.640625,1,8,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,8, nasal ,3368,1277997,755,118,102.375,709.6015625,122.875,757.640625,1,8,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,8, nasal ,3418,1278047,755,118,102.375,709.6015625,122.875,757.640625,1,8,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,8, nasal ,3468,1278097,755,118,102.375,709.6015625,122.875,757.640625,1,8,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,8, nasal ,3518,1278147,757,118,102.375,709.6015625,122.875,757.640625,1,8,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,10, did ,3568,1278197,807,117,102.375,806.6640625,122.875,835.6875,1,10,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,12, change ,3618,1278247,871,115,102.375,865.7109375,122.875,929.765625,1,12,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,12, change ,3668,1278297,893,115,102.375,865.7109375,122.875,929.765625,1,12,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,12, change ,3718,1278347,905,115,102.375,865.7109375,122.875,929.765625,1,12,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,13, performance ,3768,1278397,932,116,102.375,929.765625,122.875,1035.8203125,1,13,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,13, performance ,3818,1278447,983,116,102.375,929.765625,122.875,1035.8203125,1,13,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,13, performance ,3868,1278497,1033,115,102.375,929.765625,122.875,1035.8203125,1,13,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,15, the ,3918,1278547,1061,112,102.375,1060.84375,122.875,1085.8671875,1,15,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,15, the ,3968,1278597,1075,111,102.375,1060.84375,122.875,1085.8671875,1,15,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,15, the ,4018,1278647,1079,111,102.375,1060.84375,122.875,1085.8671875,1,15,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,15, the ,4068,1278697,1080,111,102.375,1060.84375,122.875,1085.8671875,1,15,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,15, the ,4118,1278747,1066,112,102.375,1060.84375,122.875,1085.8671875,1,15,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,4168,1278797,960,113,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,6, that ,4218,1278847,615,113,102.375,603.53125,122.875,638.5625,1,6,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,4267,1278896,471,117,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,4318,1278947,351,130,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,4368,1278997,325,134,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,4417,1279046,317,136,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,4468,1279097,316,137,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,4518,1279147,334,146,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,16, social ,4568,1279197,377,157,142.375,346.375,162.875,397.3984375,2,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,16, social ,4618,1279247,391,158,142.375,346.375,162.875,397.3984375,2,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,16, social ,4668,1279297,397,158,142.375,346.375,162.875,397.3984375,2,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,17, cognitive ,4718,1279347,413,158,142.375,397.3984375,162.875,473.4453125,2,2,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,17, cognitive ,4768,1279397,446,158,142.375,397.3984375,162.875,473.4453125,2,2,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,18, task. ,4818,1279447,487,152,142.375,473.4453125,162.875,516.4609375,2,3,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,19, Nor ,4868,1279497,545,150,142.375,516.4609375,162.875,550.46875,2,4,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,21, it ,4918,1279547,576,150,142.375,568.46875,162.875,582.4765625,2,6,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,21, it ,4968,1279597,579,150,142.375,568.46875,162.875,582.4765625,2,6,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,21, it ,5019,1279648,579,150,142.375,568.46875,162.875,582.4765625,2,6,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,21, it ,5069,1279698,579,150,142.375,568.46875,162.875,582.4765625,2,6,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,21, it ,5118,1279747,579,150,142.375,568.46875,162.875,582.4765625,2,6,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,22, clear ,5168,1279797,608,147,142.375,582.4765625,162.875,626.4921875,2,7,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,5217,1279847,656,142,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,5268,1279897,686,142,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,25, oxytocin ,5318,1279947,701,146,142.375,669.515625,162.875,740.5546875,2,10,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,25, oxytocin ,5368,1279997,716,151,142.375,669.515625,162.875,740.5546875,2,10,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,25, oxytocin ,5418,1280047,725,152,142.375,669.515625,162.875,740.5546875,2,10,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,25, oxytocin ,5468,1280097,725,152,142.375,669.515625,162.875,740.5546875,2,10,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,25, oxytocin ,5518,1280147,725,152,142.375,669.515625,162.875,740.5546875,2,10,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,25, oxytocin ,5569,1280198,725,152,142.375,669.515625,162.875,740.5546875,2,10,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,25, oxytocin ,5618,1280247,732,152,142.375,669.515625,162.875,740.5546875,2,10,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,27, has ,5668,1280297,780,148,142.375,778.578125,162.875,812.6015625,2,12,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,5717,1280346,871,143,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,5767,1280397,894,143,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,5818,1280447,909,143,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,30, people ,5868,1280497,929,146,142.375,906.65625,162.875,965.7109375,2,15,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,30, people ,5918,1280547,955,149,142.375,906.65625,162.875,965.7109375,2,15,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,31, with ,5967,1280596,993,157,142.375,965.7109375,162.875,1002.7265625,2,16,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,32, autism ,6018,1280647,1019,159,142.375,1002.7265625,162.875,1060.75,2,17,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,32, autism ,6068,1280697,1037,159,142.375,1002.7265625,162.875,1060.75,2,17,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,32, autism ,6118,1280747,1052,159,142.375,1002.7265625,162.875,1060.75,2,17,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,33, or ,6168,1280797,1066,159,142.375,1060.75,162.875,1076.7578125,2,18,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,33, or ,6218,1280847,1076,158,142.375,1060.75,162.875,1076.7578125,2,18,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,6267,1280896,1079,157,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,33, or ,6317,1280947,1066,157,142.375,1060.75,162.875,1076.7578125,2,18,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,6368,1280997,994,151,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,24, if ,6418,1281047,660,156,142.375,655.5078125,162.875,669.515625,2,9,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,6468,1281097,517,181,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,6517,1281147,471,196,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,6567,1281197,440,203,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,6617,1281246,431,203,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,6667,1281296,420,203,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,6717,1281346,393,201,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,6767,1281396,373,201,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,6817,1281446,359,201,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,6867,1281497,356,201,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,34, has ,6918,1281547,354,200,182.375,346.375,202.875,380.3984375,3,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,34, has ,6968,1281597,354,197,182.375,346.375,202.875,380.3984375,3,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,34, has ,7017,1281647,362,193,182.375,346.375,202.875,380.3984375,3,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,34, has ,7068,1281697,375,191,182.375,346.375,202.875,380.3984375,3,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,35, any ,7117,1281746,398,189,182.375,380.3984375,202.875,414.421875,3,2,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,36, unwanted ,7168,1281797,427,189,182.375,414.421875,202.875,497.4921875,3,3,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,36, unwanted ,7218,1281847,470,189,182.375,414.421875,202.875,497.4921875,3,3,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,37, side ,7268,1281897,529,189,182.375,497.4921875,202.875,535.515625,3,4,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,39," Finally, ",7318,1281947,604,189,182.375,598.2265625,202.875,658.921875,3,6,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,39," Finally, ",7367,1281997,655,187,182.375,598.2265625,202.875,658.921875,3,6,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,40, oxytocin ,7418,1282047,667,186,182.375,658.921875,202.875,729.9609375,3,7,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,40, oxytocin ,7468,1282097,667,186,182.375,658.921875,202.875,729.9609375,3,7,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,40, oxytocin ,7518,1282147,667,186,182.375,658.921875,202.875,729.9609375,3,7,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,40, oxytocin ,7568,1282197,667,186,182.375,658.921875,202.875,729.9609375,3,7,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,40, oxytocin ,7618,1282247,669,186,182.375,658.921875,202.875,729.9609375,3,7,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,40, oxytocin ,7667,1282297,727,184,182.375,658.921875,202.875,729.9609375,3,7,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,7717,1282347,807,183,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,7767,1282397,857,182,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,7817,1282446,885,181,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,7868,1282497,906,182,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,7917,1282546,918,183,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,7968,1282597,921,183,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,8017,1282647,921,183,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,8068,1282697,921,183,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,8118,1282747,922,183,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,46," minutes, ",8167,1282796,942,185,182.375,933.78125,202.875,1006.8125,3,13,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,46," minutes, ",8218,1282847,980,190,182.375,933.78125,202.875,1006.8125,3,13,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,47, so ,8268,1282897,1008,190,182.375,1006.8125,202.875,1030.828125,3,14,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,47, so ,8317,1282947,1026,194,182.375,1006.8125,202.875,1030.828125,3,14,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,48, there ,8367,1282997,1039,198,182.375,1030.828125,202.875,1071.859375,3,15,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,48, there ,8417,1283046,1043,199,182.375,1030.828125,202.875,1071.859375,3,15,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,48, there ,8467,1283096,1043,200,182.375,1030.828125,202.875,1071.859375,3,15,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,46," minutes, ",8518,1283147,995,200,182.375,933.78125,202.875,1006.8125,3,13,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,8567,1283196,831,196,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,38, effects. ,8617,1283247,544,201,182.375,535.515625,202.875,598.2265625,3,5,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,8668,1283297,445,222,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,50, be ,8717,1283346,397,236,222.375,385.3828125,242.875,410.40625,4,2,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,49, may ,8768,1283397,383,239,222.375,346.375,242.875,385.3828125,4,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,49, may ,8817,1283447,379,240,222.375,346.375,242.875,385.3828125,4,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,49, may ,8868,1283497,377,240,222.375,346.375,242.875,385.3828125,4,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,49, may ,8917,1283547,372,239,222.375,346.375,242.875,385.3828125,4,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,49, may ,8967,1283596,368,238,222.375,346.375,242.875,385.3828125,4,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,49, may ,9017,1283646,368,237,222.375,346.375,242.875,385.3828125,4,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,50, be ,9068,1283697,406,229,222.375,385.3828125,242.875,410.40625,4,2,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,9118,1283747,506,223,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,52, considerations ,9168,1283797,580,224,222.375,482.4375,242.875,603.5078125,4,4,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,54, to ,9217,1283846,631,231,222.375,627.5234375,242.875,647.5390625,4,6,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,55, whether ,9268,1283897,682,236,222.375,647.5390625,242.875,716.578125,4,7,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,56, this ,9317,1283947,721,239,222.375,716.578125,242.875,749.59375,4,8,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,56, this ,9368,1283997,747,239,222.375,716.578125,242.875,749.59375,4,8,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,57, could ,9418,1284047,764,237,222.375,749.59375,242.875,797.6328125,4,9,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,57, could ,9467,1284097,777,236,222.375,749.59375,242.875,797.6328125,4,9,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,57, could ,9517,1284147,795,236,222.375,749.59375,242.875,797.6328125,4,9,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,9567,1284196,815,239,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,9618,1284247,841,246,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,9667,1284297,841,246,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,9718,1284347,841,246,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,9768,1284397,841,246,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,9817,1284446,843,246,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,9867,1284496,885,246,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,9917,1284547,947,245,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,62, treatment. ,9967,1284596,990,241,222.375,905.7265625,242.875,991.765625,4,14,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,63, “From ,10018,1284647,1011,240,222.375,991.765625,242.875,1044.7578125,4,15,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,63, “From ,10067,1284696,1030,240,222.375,991.765625,242.875,1044.7578125,4,15,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,63, “From ,10118,1284747,1039,240,222.375,991.765625,242.875,1044.7578125,4,15,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,10167,1284796,1046,241,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,10217,1284846,1063,246,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,10267,1284897,1059,248,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,10317,1284947,860,242,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,10368,1284997,508,250,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,10418,1285047,406,266,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,10467,1285096,346,278,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,10517,1285146,330,283,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,10568,1285197,330,285,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,10618,1285247,336,288,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,10667,1285297,368,287,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,65, scientific ,10718,1285347,419,276,262.375,346.375,282.875,420.3984375,5,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,66," perspective, ",10767,1285397,465,271,262.375,420.3984375,282.875,522.453125,5,2,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,66," perspective, ",10818,1285447,498,271,262.375,420.3984375,282.875,522.453125,5,2,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,67, this ,10868,1285497,548,272,262.375,522.453125,282.875,555.46875,5,3,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,69, has ,10918,1285547,615,279,262.375,603.4921875,282.875,637.515625,5,5,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,70, a ,10968,1285597,647,280,262.375,637.515625,282.875,652.53125,5,6,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,70, a ,11018,1285647,647,280,262.375,637.515625,282.875,652.53125,5,6,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,70, a ,11069,1285698,647,280,262.375,637.515625,282.875,652.53125,5,6,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,70, a ,11118,1285747,647,280,262.375,637.515625,282.875,652.53125,5,6,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,70, a ,11169,1285798,647,280,262.375,637.515625,282.875,652.53125,5,6,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,72, of ,11217,1285847,678,277,262.375,676.546875,282.875,696.5625,5,8,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,74, from ,11268,1285897,778,274,262.375,773.6171875,282.875,814.625,5,10,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,75, animal ,11317,1285947,856,278,262.375,814.625,282.875,872.65625,5,11,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,76, and ,11368,1285997,890,279,262.375,872.65625,282.875,907.6953125,5,12,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,76, and ,11418,1286047,890,279,262.375,872.65625,282.875,907.6953125,5,12,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,76, and ,11468,1286098,890,279,262.375,872.65625,282.875,907.6953125,5,12,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,78, work ,11518,1286147,1002,278,262.375,967.734375,282.875,1010.7421875,5,14,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,11567,1286196,1024,281,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,11617,1286246,1033,282,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,11667,1286296,1035,284,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,11718,1286347,1036,285,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,11767,1286396,1026,284,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,77, human ,11818,1286447,944,270,262.375,907.6953125,282.875,967.734375,5,13,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,11868,1286497,828,266,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,11917,1286547,567,284,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,82," attention, ",11967,1286597,431,305,302.375,409.40625,322.875,488.46875,6,2,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,81, serious ,12018,1286647,389,315,302.375,346.375,322.875,409.40625,6,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,81, serious ,12067,1286697,376,318,302.375,346.375,322.875,409.40625,6,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,81, serious ,12118,1286747,372,320,302.375,346.375,322.875,409.40625,6,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,12167,1286796,368,321,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,81, serious ,12218,1286847,363,320,302.375,346.375,322.875,409.40625,6,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,81, serious ,12267,1286897,362,318,302.375,346.375,322.875,409.40625,6,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,81, serious ,12317,1286946,372,314,302.375,346.375,322.875,409.40625,6,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,82," attention, ",12367,1286997,475,310,302.375,409.40625,322.875,488.46875,6,2,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,85, research ,12418,1287047,593,318,302.375,564.5078125,322.875,639.546875,6,5,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,12468,1287097,650,321,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,12517,1287146,666,321,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,87, needed. ,12567,1287197,667,321,302.375,657.546875,322.875,727.6171875,6,7,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,87, needed. ,12617,1287247,671,319,302.375,657.546875,322.875,727.6171875,6,7,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,87, needed. ,12668,1287297,696,314,302.375,657.546875,322.875,727.6171875,6,7,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,88, Doctors ,12718,1287347,755,308,302.375,727.6171875,322.875,794.640625,6,8,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,89, should ,12768,1287397,800,308,302.375,794.640625,322.875,852.6875,6,9,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,89, should ,12817,1287446,824,309,302.375,794.640625,322.875,852.6875,6,9,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,89, should ,12868,1287497,825,310,302.375,794.640625,322.875,852.6875,6,9,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,89, should ,12918,1287548,825,310,302.375,794.640625,322.875,852.6875,6,9,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,89, should ,12969,1287598,825,310,302.375,794.640625,322.875,852.6875,6,9,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,89, should ,13020,1287649,826,310,302.375,794.640625,322.875,852.6875,6,9,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,90, be ,13067,1287697,855,310,302.375,852.6875,322.875,877.7109375,6,10,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,92, about ,13118,1287747,951,311,302.375,949.7578125,322.875,999.8046875,6,12,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,92, about ,13167,1287797,996,311,302.375,949.7578125,322.875,999.8046875,6,12,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,93, the ,13218,1287847,1014,311,302.375,999.8046875,322.875,1029.828125,6,13,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,93, the ,13268,1287897,1026,311,302.375,999.8046875,322.875,1029.828125,6,13,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,94, clinical ,13318,1287947,1040,312,302.375,1029.828125,322.875,1083.8515625,6,14,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,94, clinical ,13368,1287997,1052,312,302.375,1029.828125,322.875,1083.8515625,6,14,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,94, clinical ,13417,1288046,1063,312,302.375,1029.828125,322.875,1083.8515625,6,14,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,94, clinical ,13467,1288097,1066,312,302.375,1029.828125,322.875,1083.8515625,6,14,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,93, the ,13518,1288147,1029,312,302.375,999.8046875,322.875,1029.828125,6,13,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,13567,1288197,1029,312,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,13617,1288247,578,330,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,97, this ,13667,1288296,453,351,342.375,439.4453125,362.875,472.4609375,7,3,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,13717,1288347,416,359,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,13767,1288397,380,363,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,13818,1288447,365,363,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,13868,1288497,355,362,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,13947,1288576,349,362,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,13968,1288598,350,362,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,95, potential ,14017,1288647,377,361,342.375,346.375,362.875,419.4296875,7,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,98, hormone ,14067,1288696,476,352,342.375,472.4609375,362.875,548.5078125,7,4,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,100, we ,14117,1288747,594,350,342.375,586.53125,362.875,614.546875,7,6,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,102, much ,14167,1288797,681,345,342.375,661.5703125,362.875,710.59375,7,8,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,14217,1288847,764,341,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,14267,1288896,815,337,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,14317,1288946,857,336,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,14368,1288997,887,336,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,14418,1289047,911,336,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,14467,1289097,930,339,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,14517,1289147,951,342,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,108," risks, ",14568,1289197,974,350,342.375,932.75,362.875,979.75,7,14,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,109, in ,14618,1289247,991,352,342.375,979.75,362.875,998.765625,7,15,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,110, much ,14668,1289297,1003,351,342.375,998.765625,362.875,1042.78125,7,16,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,110, much ,14717,1289347,1009,349,342.375,998.765625,362.875,1042.78125,7,16,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,14768,1289397,996,347,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,88, Doctors ,14817,1289447,740,320,302.375,727.6171875,322.875,794.640625,6,8,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,14867,1289497,603,320,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,97, this ,14917,1289547,468,348,342.375,439.4453125,362.875,472.4609375,7,3,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,14968,1289597,442,358,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,15018,1289647,417,366,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,15067,1289696,404,367,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,15117,1289747,382,372,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,15167,1289796,370,381,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,111, larger ,15217,1289847,367,387,382.375,346.375,402.875,397.3984375,8,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,111, larger ,15268,1289897,377,392,382.375,346.375,402.875,397.3984375,8,1,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,112," studies,” ",15317,1289947,450,396,382.375,397.3984375,402.875,470.4296875,8,2,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,114, Simon ,15367,1289997,527,393,382.375,508.453125,402.875,564.4765625,8,4,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,115, Baron-Cohen. ,15418,1290047,591,385,382.375,564.4765625,402.875,676.546875,8,5,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,15468,1290097,622,380,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,15517,1290146,633,379,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,15567,1290197,645,382,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,115, Baron-Cohen. ,15618,1290247,665,390,382.375,564.4765625,402.875,676.546875,8,5,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,15667,1290296,683,398,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,15717,1290347,683,398,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,15768,1290397,683,398,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,15817,1290446,683,398,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,15867,1290497,691,415,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,15917,1290546,691,415,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,15968,1290597,691,415,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,16017,1290647,691,415,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,16068,1290697,691,415,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,16117,1290746,691,415,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,16168,1290797,691,415,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,5,38,39,-1,999,16217,1290847,691,415,,,,,,,It may have harmful side effects,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
