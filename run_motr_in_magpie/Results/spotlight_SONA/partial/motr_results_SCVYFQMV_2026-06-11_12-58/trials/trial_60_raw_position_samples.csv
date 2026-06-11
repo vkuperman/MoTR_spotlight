@@ -1,0 +1,457 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,3300,1825396,585,423,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,59, crossings ,3351,1825447,481,271,262.375,426.4375,282.875,507.46875,5,2,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,59, crossings ,3401,1825497,481,271,262.375,426.4375,282.875,507.46875,5,2,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,59, crossings ,3452,1825547,481,271,262.375,426.4375,282.875,507.46875,5,2,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,59, crossings ,3502,1825598,481,271,262.375,426.4375,282.875,507.46875,5,2,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,59, crossings ,3552,1825647,481,271,262.375,426.4375,282.875,507.46875,5,2,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,59, crossings ,3601,1825697,481,271,262.375,426.4375,282.875,507.46875,5,2,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,59, crossings ,3652,1825747,481,271,262.375,426.4375,282.875,507.46875,5,2,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,59, crossings ,3701,1825796,481,271,262.375,426.4375,282.875,507.46875,5,2,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,59, crossings ,3751,1825846,481,271,262.375,426.4375,282.875,507.46875,5,2,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,59, crossings ,3802,1825898,481,271,262.375,426.4375,282.875,507.46875,5,2,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,59, crossings ,3851,1825947,481,270,262.375,426.4375,282.875,507.46875,5,2,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,3901,1825996,478,266,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,3951,1826047,431,206,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,4000,1826096,396,172,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,14, development. ,4050,1826146,373,158,142.375,346.375,162.875,459.453125,2,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,14, development. ,4101,1826197,362,150,142.375,346.375,162.875,459.453125,2,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,14, development. ,4151,1826247,364,149,142.375,346.375,162.875,459.453125,2,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,14, development. ,4201,1826297,401,155,142.375,346.375,162.875,459.453125,2,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,14, development. ,4251,1826347,425,159,142.375,346.375,162.875,459.453125,2,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,14, development. ,4301,1826397,423,149,142.375,346.375,162.875,459.453125,2,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,4351,1826447,398,130,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,4401,1826497,376,125,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,4451,1826547,361,125,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,1, The ,4501,1826596,350,116,102.375,346.375,122.875,382.3984375,1,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,1, The ,4552,1826647,349,109,102.375,346.375,122.875,382.3984375,1,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,1, The ,4601,1826697,350,108,102.375,346.375,122.875,382.3984375,1,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,1, The ,4651,1826747,363,110,102.375,346.375,122.875,382.3984375,1,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,1, The ,4701,1826797,378,119,102.375,346.375,122.875,382.3984375,1,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,4750,1826846,419,123,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,4, Poland’s ,4801,1826897,477,119,102.375,468.4296875,122.875,542.1640625,1,4,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,4, Poland’s ,4851,1826947,540,107,102.375,468.4296875,122.875,542.1640625,1,4,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,5, wolves ,4901,1826997,599,105,102.375,542.1640625,122.875,602.1875,1,5,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,6, has ,4951,1827047,634,106,102.375,602.1875,122.875,636.2109375,1,6,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,7, been ,5001,1827097,657,105,102.375,636.2109375,122.875,681.2578125,1,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,5051,1827147,675,102,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,5100,1827196,684,100,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,5150,1827246,694,99,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,5201,1827297,704,99,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,5251,1827347,704,99,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,5301,1827397,704,99,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,5351,1827447,704,99,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,5401,1827496,713,99,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,5451,1827547,812,99,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,5501,1827597,893,98,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,5551,1827647,935,95,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,5601,1827697,952,95,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,5651,1827747,966,93,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,5701,1827796,984,93,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,5751,1827847,1004,93,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,5800,1827896,1008,93,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,5850,1827946,1036,101,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,5901,1827997,1044,103,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,5950,1828046,1049,107,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,6001,1828097,1042,110,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,6051,1828147,905,97,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,6101,1828197,621,84,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,6150,1828246,429,96,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,6199,1828295,373,114,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,6251,1828347,333,134,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,6301,1828397,314,144,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,6351,1828447,305,154,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,6401,1828497,315,166,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,6451,1828546,350,170,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,6500,1828596,395,167,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,6551,1828646,436,161,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,16," 1989, ",6601,1828697,480,152,142.375,479.46875,162.875,529.515625,2,3,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,16," 1989, ",6651,1828747,520,146,142.375,479.46875,162.875,529.515625,2,3,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,17, when ,6702,1828797,540,145,142.375,529.515625,162.875,577.5546875,2,4,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,17, when ,6750,1828846,562,147,142.375,529.515625,162.875,577.5546875,2,4,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,18, the ,6801,1828897,600,150,142.375,577.5546875,162.875,607.578125,2,5,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,19, communists ,6852,1828947,639,148,142.375,607.578125,162.875,708.6015625,2,6,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,19, communists ,6902,1828997,656,146,142.375,607.578125,162.875,708.6015625,2,6,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,19, communists ,6952,1829048,656,146,142.375,607.578125,162.875,708.6015625,2,6,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,19, communists ,7002,1829098,656,146,142.375,607.578125,162.875,708.6015625,2,6,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,19, communists ,7052,1829147,656,146,142.375,607.578125,162.875,708.6015625,2,6,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,19, communists ,7101,1829197,658,146,142.375,607.578125,162.875,708.6015625,2,6,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,20, relinquished ,7151,1829247,714,151,142.375,708.6015625,162.875,810.671875,2,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,21," power, ",7201,1829297,819,161,142.375,810.671875,162.875,868.71875,2,8,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,7251,1829347,849,164,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,7301,1829397,866,165,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,7350,1829446,881,165,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,22, Poland ,7402,1829498,901,160,142.375,868.71875,162.875,929.7734375,2,9,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,22, Poland ,7451,1829547,920,152,142.375,868.71875,162.875,929.7734375,2,9,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,23, had ,7501,1829597,941,147,142.375,929.7734375,162.875,964.8125,2,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,23, had ,7551,1829647,957,144,142.375,929.7734375,162.875,964.8125,2,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,7601,1829697,973,143,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,7651,1829747,987,143,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,24, only ,7702,1829798,998,144,142.375,964.8125,162.875,1002.8359375,2,11,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,25, one ,7750,1829846,1013,145,142.375,1002.8359375,162.875,1032.875,2,12,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,25, one ,7801,1829897,1018,146,142.375,1002.8359375,162.875,1032.875,2,12,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,7851,1829947,1004,148,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,20, relinquished ,7901,1829997,720,155,142.375,708.6015625,162.875,810.671875,2,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,28, road ,7952,1830047,517,188,182.375,483.0859375,202.875,524.1171875,3,3,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,8001,1830096,388,208,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,8050,1830146,354,212,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,8101,1830197,350,212,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,8151,1830247,350,212,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,8200,1830296,349,212,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,8251,1830347,349,207,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,26, motorway. ,8301,1830397,379,193,182.375,346.375,202.875,433.0703125,3,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,26, motorway. ,8351,1830447,422,190,182.375,346.375,202.875,433.0703125,3,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,27, Major ,8401,1830497,442,190,182.375,433.0703125,202.875,483.0859375,3,2,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,27, Major ,8451,1830547,459,190,182.375,433.0703125,202.875,483.0859375,3,2,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,28, road ,8502,1830598,486,190,182.375,483.0859375,202.875,524.1171875,3,3,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,28, road ,8551,1830647,521,188,182.375,483.0859375,202.875,524.1171875,3,3,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,29, projects ,8601,1830697,534,185,182.375,524.1171875,202.875,592.1484375,3,4,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,29, projects ,8652,1830747,534,185,182.375,524.1171875,202.875,592.1484375,3,4,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,29, projects ,8702,1830797,534,185,182.375,524.1171875,202.875,592.1484375,3,4,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,29, projects ,8751,1830847,534,185,182.375,524.1171875,202.875,592.1484375,3,4,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,29, projects ,8800,1830896,535,185,182.375,524.1171875,202.875,592.1484375,3,4,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,29, projects ,8850,1830946,581,186,182.375,524.1171875,202.875,592.1484375,3,4,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,31, requiring ,8901,1830997,649,186,182.375,607.1640625,202.875,682.2109375,3,6,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,8951,1831047,677,183,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,9000,1831096,688,183,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,9050,1831146,699,183,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,32, wildlife ,9101,1831197,711,185,182.375,682.2109375,202.875,741.234375,3,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,32, wildlife ,9151,1831247,712,185,182.375,682.2109375,202.875,741.234375,3,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,32, wildlife ,9202,1831298,712,185,182.375,682.2109375,202.875,741.234375,3,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,32, wildlife ,9250,1831346,712,185,182.375,682.2109375,202.875,741.234375,3,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,32, wildlife ,9301,1831397,722,185,182.375,682.2109375,202.875,741.234375,3,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,33, impact ,9352,1831447,794,185,182.375,741.234375,202.875,799.2578125,3,8,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,35, – ,9401,1831496,871,184,182.375,861.296875,202.875,876.3125,3,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,36, began ,9451,1831547,910,184,182.375,876.3125,202.875,931.3671875,3,11,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,37, after ,9502,1831598,934,188,182.375,931.3671875,202.875,972.390625,3,12,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,37, after ,9571,1831667,970,190,182.375,931.3671875,202.875,972.390625,3,12,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,38, Poland ,9605,1831701,994,187,182.375,972.390625,202.875,1033.4453125,3,13,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,38, Poland ,9651,1831747,1007,187,182.375,972.390625,202.875,1033.4453125,3,13,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,38, Poland ,9701,1831797,1027,186,182.375,972.390625,202.875,1033.4453125,3,13,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,39, joined ,9750,1831846,1038,188,182.375,1033.4453125,202.875,1081.4921875,3,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,39, joined ,9801,1831897,1042,189,182.375,1033.4453125,202.875,1081.4921875,3,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,39, joined ,9851,1831947,1041,190,182.375,1033.4453125,202.875,1081.4921875,3,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,38, Poland ,9901,1831997,1033,193,182.375,972.390625,202.875,1033.4453125,3,13,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,9951,1832047,968,204,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,10001,1832097,830,211,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,10051,1832147,628,211,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,10100,1832196,457,211,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,10151,1832246,349,221,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,10200,1832296,314,232,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,10250,1832346,306,235,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,10301,1832397,306,235,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,10350,1832446,314,235,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,40, the ,10401,1832497,355,236,222.375,346.375,242.875,376.3984375,4,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,41, European ,10452,1832548,397,237,222.375,376.3984375,242.875,459.46875,4,2,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,41, European ,10501,1832597,439,238,222.375,376.3984375,242.875,459.46875,4,2,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,42, Union ,10551,1832647,471,236,222.375,459.46875,242.875,511.5,4,3,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,42, Union ,10601,1832697,502,231,222.375,459.46875,242.875,511.5,4,3,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,44, 2004. ,10651,1832747,531,228,222.375,530.515625,242.875,580.40625,4,5,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,44, 2004. ,10701,1832797,560,227,222.375,530.515625,242.875,580.40625,4,5,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,45, The ,10751,1832847,582,226,222.375,580.40625,242.875,616.265625,4,6,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,45, The ,10800,1832896,607,226,222.375,580.40625,242.875,616.265625,4,6,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,46, country ,10851,1832947,619,228,222.375,616.265625,242.875,680.296875,4,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,46, country ,10901,1832997,619,228,222.375,616.265625,242.875,680.296875,4,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,46, country ,10951,1833047,619,228,222.375,616.265625,242.875,680.296875,4,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,46, country ,11001,1833097,619,228,222.375,616.265625,242.875,680.296875,4,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,46, country ,11051,1833147,619,228,222.375,616.265625,242.875,680.296875,4,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,46, country ,11102,1833198,619,228,222.375,616.265625,242.875,680.296875,4,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,46, country ,11151,1833247,647,228,222.375,616.265625,242.875,680.296875,4,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,46, country ,11201,1833297,677,228,222.375,616.265625,242.875,680.296875,4,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,47, now ,11251,1833347,706,233,222.375,680.296875,242.875,718.3203125,4,8,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,48, has ,11301,1833397,736,239,222.375,718.3203125,242.875,752.34375,4,9,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,11351,1833447,789,243,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,11400,1833496,832,243,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,11451,1833547,863,243,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,11500,1833596,881,242,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,52, highest ,11551,1833647,890,239,222.375,837.421875,242.875,900.46875,4,13,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,53, densities ,11601,1833697,902,235,222.375,900.46875,242.875,976.515625,4,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,53, densities ,11651,1833747,916,236,222.375,900.46875,242.875,976.515625,4,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,53, densities ,11701,1833797,926,240,222.375,900.46875,242.875,976.515625,4,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,53, densities ,11752,1833848,926,240,222.375,900.46875,242.875,976.515625,4,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,53, densities ,11802,1833898,926,240,222.375,900.46875,242.875,976.515625,4,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,53, densities ,11850,1833946,926,240,222.375,900.46875,242.875,976.515625,4,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,53, densities ,11900,1833996,953,238,222.375,900.46875,242.875,976.515625,4,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,55, the ,11951,1834047,1007,235,222.375,995.53125,242.875,1025.5546875,4,16,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,56, world ,12001,1834097,1034,233,222.375,1025.5546875,242.875,1073.5703125,4,17,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,56, world ,12051,1834147,1047,233,222.375,1025.5546875,242.875,1073.5703125,4,17,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,56, world ,12101,1834197,1058,237,222.375,1025.5546875,242.875,1073.5703125,4,17,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,56, world ,12150,1834246,1066,239,222.375,1025.5546875,242.875,1073.5703125,4,17,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,56, world ,12201,1834297,1068,239,222.375,1025.5546875,242.875,1073.5703125,4,17,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,12251,1834347,1056,239,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,50, of ,12302,1834398,806,229,222.375,787.3828125,242.875,807.3984375,4,11,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,12351,1834447,643,234,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,12401,1834497,455,252,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,12451,1834547,384,257,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,12501,1834597,361,260,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,12550,1834646,347,262,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,12601,1834697,341,264,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,12651,1834747,340,267,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,12701,1834797,346,274,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,12750,1834846,373,283,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,12800,1834896,412,282,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,59, crossings ,12851,1834947,466,275,262.375,426.4375,282.875,507.46875,5,2,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,60, and ,12901,1834997,515,274,262.375,507.46875,282.875,542.5078125,5,3,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,61, underpasses ,12951,1835047,551,274,262.375,542.5078125,282.875,650.578125,5,4,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,61, underpasses ,13001,1835097,587,274,262.375,542.5078125,282.875,650.578125,5,4,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,61, underpasses ,13051,1835147,610,274,262.375,542.5078125,282.875,650.578125,5,4,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,61, underpasses ,13101,1835197,629,274,262.375,542.5078125,282.875,650.578125,5,4,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,62, for ,13150,1835246,658,271,262.375,650.578125,282.875,676.5859375,5,5,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,63, wild ,13201,1835297,706,274,262.375,676.5859375,282.875,712.6015625,5,6,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,64, animals. ,13251,1835347,730,279,262.375,712.6015625,282.875,784.140625,5,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,64, animals. ,13302,1835398,730,279,262.375,712.6015625,282.875,784.140625,5,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,64, animals. ,13351,1835447,730,279,262.375,712.6015625,282.875,784.140625,5,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,64, animals. ,13402,1835498,730,279,262.375,712.6015625,282.875,784.140625,5,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,64, animals. ,13450,1835546,736,279,262.375,712.6015625,282.875,784.140625,5,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,64, animals. ,13501,1835597,778,276,262.375,712.6015625,282.875,784.140625,5,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,66, have ,13551,1835647,863,269,262.375,858.6953125,282.875,902.734375,5,9,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,66, have ,13601,1835697,892,267,262.375,858.6953125,282.875,902.734375,5,9,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,67, also ,13651,1835747,904,267,262.375,902.734375,282.875,940.7578125,5,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,67, also ,13701,1835797,909,269,262.375,902.734375,282.875,940.7578125,5,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,67, also ,13751,1835848,911,270,262.375,902.734375,282.875,940.7578125,5,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,67, also ,13801,1835897,924,270,262.375,902.734375,282.875,940.7578125,5,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,68, changed. ,13851,1835947,958,270,262.375,940.7578125,282.875,1019.828125,5,11,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,68, changed. ,13901,1835997,992,271,262.375,940.7578125,282.875,1019.828125,5,11,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,68, changed. ,13951,1836047,1013,274,262.375,940.7578125,282.875,1019.828125,5,11,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,69, “For ,14001,1836097,1022,276,262.375,1019.828125,282.875,1052.828125,5,12,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,69, “For ,14051,1836147,1024,276,262.375,1019.828125,282.875,1052.828125,5,12,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,68, changed. ,14101,1836197,1013,274,262.375,940.7578125,282.875,1019.828125,5,11,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,14150,1836246,933,261,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,14201,1836297,659,252,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,14250,1836346,509,256,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,14301,1836397,406,276,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,14351,1836447,349,298,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,14401,1836497,338,305,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,14450,1836547,328,312,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,14500,1836597,316,319,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,14551,1836647,314,320,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,70, many ,14600,1836696,368,314,302.375,346.375,322.875,395.3984375,6,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,71," years, ",14651,1836747,441,309,302.375,395.3984375,322.875,449.421875,6,2,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,72, hunting ,14701,1836797,478,307,302.375,449.421875,322.875,513.4765625,6,3,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,72, hunting ,14751,1836847,503,306,302.375,449.421875,322.875,513.4765625,6,3,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,73, was ,14801,1836897,538,306,302.375,513.4765625,322.875,550.4921875,6,4,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,74, cultural. ,14851,1836947,596,308,302.375,550.4921875,322.875,618.5234375,6,5,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,76," 1975, ",14901,1836997,640,311,302.375,638.5390625,322.875,688.5859375,6,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,76," 1975, ",14951,1837047,645,311,302.375,638.5390625,322.875,688.5859375,6,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,76," 1975, ",15001,1837097,645,311,302.375,638.5390625,322.875,688.5859375,6,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,76," 1975, ",15052,1837148,645,311,302.375,638.5390625,322.875,688.5859375,6,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,76," 1975, ",15102,1837198,647,311,302.375,638.5390625,322.875,688.5859375,6,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,76," 1975, ",15151,1837248,674,311,302.375,638.5390625,322.875,688.5859375,6,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,78, were ,15201,1837297,761,311,302.375,734.6171875,322.875,778.6328125,6,9,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,79, fewer ,15251,1837347,790,311,302.375,778.6328125,322.875,827.65625,6,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,79, fewer ,15301,1837397,802,311,302.375,778.6328125,322.875,827.65625,6,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,79, fewer ,15351,1837447,804,312,302.375,778.6328125,322.875,827.65625,6,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,79, fewer ,15401,1837498,804,312,302.375,778.6328125,322.875,827.65625,6,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,79, fewer ,15452,1837548,804,312,302.375,778.6328125,322.875,827.65625,6,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,79, fewer ,15501,1837597,815,312,302.375,778.6328125,322.875,827.65625,6,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,81, 100 ,15551,1837647,897,315,302.375,867.6953125,322.875,902.734375,6,12,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,82, wolves ,15601,1837697,951,315,302.375,902.734375,322.875,962.7578125,6,13,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,83, in ,15651,1837748,971,312,302.375,962.7578125,322.875,981.7734375,6,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,84, Poland. ,15700,1837796,985,311,302.375,981.7734375,322.875,1042.828125,6,15,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,84, Poland. ,15751,1837847,1002,311,302.375,981.7734375,322.875,1042.828125,6,15,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,84, Poland. ,15801,1837898,1023,311,302.375,981.7734375,322.875,1042.828125,6,15,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,84, Poland. ,15851,1837947,1032,314,302.375,981.7734375,322.875,1042.828125,6,15,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,84, Poland. ,15901,1837997,1032,315,302.375,981.7734375,322.875,1042.828125,6,15,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,84, Poland. ,15951,1838047,1013,315,302.375,981.7734375,322.875,1042.828125,6,15,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,16000,1838096,888,310,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,16051,1838147,566,328,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,86, in ,16100,1838197,450,348,342.375,431.4453125,362.875,450.4609375,7,2,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,16151,1838247,401,362,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,16201,1838297,379,370,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,16251,1838347,357,376,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,16301,1838397,343,381,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,16351,1838447,338,381,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,16401,1838497,338,378,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,16450,1838546,343,373,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,16500,1838596,357,368,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,16551,1838647,385,362,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,16601,1838697,412,361,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,16650,1838746,446,361,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,88," 1950s, ",16701,1838797,492,361,342.375,480.484375,362.875,539.53125,7,4,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,88," 1950s, ",16750,1838847,531,357,342.375,480.484375,362.875,539.53125,7,4,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,89, hunting ,16801,1838897,584,355,342.375,539.53125,362.875,603.5859375,7,5,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,90, wolves ,16851,1838947,617,354,342.375,603.5859375,362.875,663.609375,7,6,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,90, wolves ,16900,1838997,641,352,342.375,603.5859375,362.875,663.609375,7,6,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,90, wolves ,16951,1839047,662,352,342.375,603.5859375,362.875,663.609375,7,6,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,91, had ,17001,1839097,676,353,342.375,663.609375,362.875,698.6484375,7,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,91, had ,17051,1839147,678,353,342.375,663.609375,362.875,698.6484375,7,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,91, had ,17102,1839198,678,353,342.375,663.609375,362.875,698.6484375,7,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,91, had ,17152,1839248,678,353,342.375,663.609375,362.875,698.6484375,7,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,91, had ,17201,1839297,693,353,342.375,663.609375,362.875,698.6484375,7,7,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,93, encouraged ,17251,1839347,770,352,342.375,743.6953125,362.875,843.78125,7,9,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,94, by ,17301,1839397,863,352,342.375,843.78125,362.875,867.796875,7,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,96, authorities. ,17351,1839447,901,354,342.375,897.8203125,362.875,990.71875,7,12,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,96, authorities. ,17400,1839497,916,357,342.375,897.8203125,362.875,990.71875,7,12,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,96, authorities. ,17451,1839547,916,357,342.375,897.8203125,362.875,990.71875,7,12,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,96, authorities. ,17501,1839597,916,357,342.375,897.8203125,362.875,990.71875,7,12,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,96, authorities. ,17552,1839648,916,357,342.375,897.8203125,362.875,990.71875,7,12,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,96, authorities. ,17600,1839696,924,357,342.375,897.8203125,362.875,990.71875,7,12,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,96, authorities. ,17650,1839746,971,357,342.375,897.8203125,362.875,990.71875,7,12,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,97, They ,17701,1839797,1014,354,342.375,990.71875,362.875,1035.578125,7,13,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,97, They ,17751,1839847,1031,350,342.375,990.71875,362.875,1035.578125,7,13,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,98, paid ,17800,1839897,1039,348,342.375,1035.578125,362.875,1074.6171875,7,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,98, paid ,17852,1839948,1043,348,342.375,1035.578125,362.875,1074.6171875,7,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,98, paid ,17901,1839997,1036,348,342.375,1035.578125,362.875,1074.6171875,7,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,94, by ,17951,1840047,847,354,342.375,843.78125,362.875,867.796875,7,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,18000,1840096,485,371,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,18051,1840147,381,387,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,18101,1840197,346,395,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,18150,1840246,346,395,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,18201,1840297,346,395,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,18251,1840347,346,395,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,100, reward ,18301,1840397,354,395,382.375,346.375,402.875,406.3984375,8,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,102, killing ,18351,1840447,436,392,382.375,432.40625,402.875,482.4296875,8,3,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,104, wolf ,18401,1840497,522,392,382.375,497.4453125,402.875,534.4609375,8,5,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,105, worth ,18451,1840547,565,392,382.375,534.4609375,402.875,583.484375,8,6,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,105, worth ,18501,1840597,576,390,382.375,534.4609375,402.875,583.484375,8,6,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,105, worth ,18552,1840648,576,390,382.375,534.4609375,402.875,583.484375,8,6,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,105, worth ,18602,1840698,576,390,382.375,534.4609375,402.875,583.484375,8,6,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,105, worth ,18651,1840747,576,390,382.375,534.4609375,402.875,583.484375,8,6,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,107, month’s ,18701,1840797,603,394,382.375,598.5,402.875,666.2109375,8,8,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,108, salary. ,18751,1840847,683,401,382.375,666.2109375,402.875,722.90625,8,9,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,109, It ,18801,1840897,728,400,382.375,722.90625,402.875,737.9140625,8,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,109, It ,18851,1840947,734,398,382.375,722.90625,402.875,737.9140625,8,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,109, It ,18902,1840998,734,398,382.375,722.90625,402.875,737.9140625,8,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,109, It ,18951,1841047,734,398,382.375,722.90625,402.875,737.9140625,8,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,109, It ,19001,1841098,734,398,382.375,722.90625,402.875,737.9140625,8,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,109, It ,19051,1841147,735,398,382.375,722.90625,402.875,737.9140625,8,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,110, was ,19100,1841197,765,385,382.375,737.9140625,402.875,774.9296875,8,11,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,19150,1841246,812,376,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,19201,1841297,845,376,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,19250,1841346,871,376,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,19300,1841396,887,376,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,19351,1841447,902,376,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,19400,1841496,914,378,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,112, Myslajek ,19451,1841547,925,385,382.375,855.9765625,402.875,930.9921875,8,13,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,113, says ,19501,1841597,934,390,382.375,930.9921875,402.875,973.0078125,8,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,113, says ,19550,1841647,948,393,382.375,930.9921875,402.875,973.0078125,8,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,113, says ,19601,1841697,960,394,382.375,930.9921875,402.875,973.0078125,8,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,113, says ,19651,1841747,970,394,382.375,930.9921875,402.875,973.0078125,8,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,114, the ,19701,1841797,980,398,382.375,973.0078125,402.875,998.03125,8,15,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,114, the ,19751,1841847,987,399,382.375,973.0078125,402.875,998.03125,8,15,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,114, the ,19800,1841897,991,399,382.375,973.0078125,402.875,998.03125,8,15,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,114, the ,19850,1841946,987,400,382.375,973.0078125,402.875,998.03125,8,15,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,19900,1841997,898,403,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,19950,1842047,660,405,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,20001,1842097,522,419,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,116, in ,20050,1842147,469,429,422.375,455.4140625,442.875,474.4296875,9,2,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,115, improvement ,20100,1842196,440,433,422.375,346.375,442.875,455.4140625,9,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,115, improvement ,20151,1842247,419,435,422.375,346.375,442.875,455.4140625,9,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,20201,1842297,406,439,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,20251,1842347,384,446,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,20301,1842397,379,446,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,20351,1842447,379,445,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,115, improvement ,20401,1842497,420,435,422.375,346.375,442.875,455.4140625,9,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,117, Polish ,20451,1842547,493,428,422.375,474.4296875,442.875,528.4609375,9,3,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,20500,1842597,542,424,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,20550,1842647,560,421,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,20599,1842696,571,421,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,119, survival ,20650,1842746,603,432,422.375,591.828125,442.875,657.84375,9,5,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,119, survival ,20700,1842796,638,434,422.375,591.828125,442.875,657.84375,9,5,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,119, survival ,20750,1842847,655,427,422.375,591.828125,442.875,657.84375,9,5,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,20801,1842897,662,421,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,20850,1842946,662,421,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,20901,1842997,662,421,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,20951,1843047,662,421,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,21000,1843096,662,421,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,21051,1843147,664,421,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,21100,1843197,707,421,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,21150,1843246,758,418,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,21200,1843296,772,418,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,21249,1843345,785,418,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,21300,1843397,803,418,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,21350,1843446,829,418,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,21401,1843497,844,418,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,21451,1843547,847,417,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,21501,1843597,847,417,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,21551,1843647,847,417,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,21600,1843696,851,418,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,21650,1843746,877,423,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,124, but ,21700,1843797,926,426,422.375,916.03125,442.875,946.0546875,9,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,125, remains ,21751,1843847,959,426,422.375,946.0546875,442.875,1015.078125,9,11,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,125, remains ,21800,1843897,988,436,422.375,946.0546875,442.875,1015.078125,9,11,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,21850,1843947,1008,441,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,21900,1843996,1021,441,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,21951,1844047,1035,441,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,126, fragile. ,22000,1844097,1046,439,422.375,1015.078125,442.875,1069.109375,9,12,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,126, fragile. ,22050,1844146,1054,437,422.375,1015.078125,442.875,1069.109375,9,12,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,126, fragile. ,22100,1844197,1057,437,422.375,1015.078125,442.875,1069.109375,9,12,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,126, fragile. ,22150,1844247,1033,434,422.375,1015.078125,442.875,1069.109375,9,12,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,22200,1844297,804,403,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,22250,1844347,554,407,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,22300,1844396,438,435,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,22350,1844446,366,456,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,22401,1844497,346,464,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,22450,1844546,334,469,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,22501,1844597,327,474,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,22549,1844645,328,475,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,127, Packs ,22601,1844697,353,471,462.375,346.375,482.875,400.3984375,10,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,127, Packs ,22651,1844747,393,464,462.375,346.375,482.875,400.3984375,10,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,22701,1844797,411,462,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,22750,1844846,419,461,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,22801,1844897,438,460,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,129, mobile ,22851,1844947,488,465,462.375,431.421875,482.875,489.453125,10,3,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,130, across ,22900,1844997,533,466,462.375,489.453125,482.875,547.4765625,10,4,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,131, borders ,22951,1845047,563,464,462.375,547.4765625,482.875,613.515625,10,5,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,131, borders ,23001,1845097,589,467,462.375,547.4765625,482.875,613.515625,10,5,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,131, borders ,23051,1845147,612,477,462.375,547.4765625,482.875,613.515625,10,5,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,23100,1845196,633,488,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,23151,1845247,648,495,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,23200,1845297,649,496,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,23250,1845346,649,496,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,23301,1845397,649,496,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,23351,1845447,649,496,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,23399,1845495,650,496,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,23450,1845546,680,491,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,23500,1845597,739,482,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,135, goes ,23550,1845647,775,476,462.375,743.609375,482.875,787.6484375,10,9,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,136, on ,23601,1845697,805,481,462.375,787.6484375,482.875,812.671875,10,10,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,23650,1845746,823,488,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,23701,1845797,825,489,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,23751,1845847,825,489,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,23801,1845897,825,489,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,23850,1845946,825,489,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,23900,1845997,835,487,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,138, neighboring ,23951,1846047,911,478,462.375,831.6875,482.875,930.7734375,10,12,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,139," Russia, ",24001,1846098,957,475,462.375,930.7734375,482.875,995.796875,10,13,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,139," Russia, ",24051,1846147,981,473,462.375,930.7734375,482.875,995.796875,10,13,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,139," Russia, ",24100,1846197,994,473,462.375,930.7734375,482.875,995.796875,10,13,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,140, Lithuania ,24150,1846247,1009,473,462.375,995.796875,482.875,1068.8671875,10,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,140, Lithuania ,24200,1846297,1025,473,462.375,995.796875,482.875,1068.8671875,10,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,140, Lithuania ,24250,1846347,1041,473,462.375,995.796875,482.875,1068.8671875,10,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,140, Lithuania ,24300,1846397,1057,473,462.375,995.796875,482.875,1068.8671875,10,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,140, Lithuania ,24350,1846447,1062,474,462.375,995.796875,482.875,1068.8671875,10,14,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,24401,1846497,1007,482,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,24450,1846546,713,487,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,24500,1846596,509,506,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,141, and ,24550,1846646,378,520,502.375,346.375,522.875,381.4140625,11,1,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,24600,1846697,349,522,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,24650,1846746,332,522,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,24701,1846797,325,523,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,24751,1846847,324,523,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,24801,1846897,340,521,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,24851,1846947,368,521,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,24900,1846996,401,523,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,24950,1847047,424,523,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25001,1847097,434,523,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25050,1847147,450,522,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25100,1847197,528,521,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25151,1847247,609,543,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25200,1847296,609,543,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25250,1847347,609,543,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25300,1847396,609,543,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25350,1847446,609,543,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25400,1847497,609,543,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25451,1847547,609,543,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25500,1847597,609,543,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25550,1847647,609,543,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25600,1847697,609,543,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25650,1847747,609,543,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25700,1847797,609,543,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25751,1847847,609,543,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25800,1847896,609,543,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25850,1847947,609,543,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25900,1847996,609,543,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,25951,1848047,609,543,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,26001,1848097,609,543,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,5,59,60,-1,999,26051,1848147,609,543,,,,,,,The wolf population was smaller than 100,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
