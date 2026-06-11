@@ -1,0 +1,278 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,3,adv,9,2,62,63,63, transportation ,3330,1903646,461,278,262.375,346.375,282.875,461.4453125,5,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,48, the ,3381,1903697,419,233,222.375,411.4296875,242.875,441.453125,4,3,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,48, the ,3432,1903747,419,233,222.375,411.4296875,242.875,441.453125,4,3,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,48, the ,3481,1903797,419,233,222.375,411.4296875,242.875,441.453125,4,3,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,48, the ,3531,1903847,419,233,222.375,411.4296875,242.875,441.453125,4,3,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,48, the ,3581,1903897,419,232,222.375,411.4296875,242.875,441.453125,4,3,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,3631,1903946,400,205,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,17, company ,3681,1903997,359,146,142.375,346.375,162.875,424.4140625,2,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,3731,1904047,347,131,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,3781,1904097,342,126,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,3831,1904146,341,123,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,3880,1904196,341,120,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,1, The ,3931,1904247,343,113,102.375,346.375,122.875,382.3984375,1,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,1, The ,3981,1904297,343,107,102.375,346.375,122.875,382.3984375,1,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,1, The ,4031,1904347,343,106,102.375,346.375,122.875,382.3984375,1,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,1, The ,4081,1904397,352,106,102.375,346.375,122.875,382.3984375,1,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,2," car, ",4130,1904446,392,112,102.375,382.3984375,122.875,416.421875,1,2,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,3, in ,4181,1904497,433,114,102.375,416.421875,122.875,435.4375,1,3,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,4," fact, ",4231,1904547,469,114,102.375,435.4375,122.875,474.453125,1,4,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,5, takes ,4281,1904597,500,114,102.375,474.453125,122.875,522.4765625,1,5,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,6, over ,4331,1904647,532,114,102.375,522.4765625,122.875,562.5,1,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,6, over ,4381,1904697,554,117,102.375,522.4765625,122.875,562.5,1,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,6, over ,4431,1904747,554,117,102.375,522.4765625,122.875,562.5,1,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,6, over ,4482,1904798,554,117,102.375,522.4765625,122.875,562.5,1,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,6, over ,4531,1904847,554,117,102.375,522.4765625,122.875,562.5,1,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,6, over ,4580,1904896,555,117,102.375,522.4765625,122.875,562.5,1,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,8, the ,4631,1904947,586,116,102.375,585.515625,122.875,615.5390625,1,8,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,11," navigation, ",4681,1904997,696,116,102.375,682.5703125,122.875,774.640625,1,11,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,11," navigation, ",4731,1905047,738,115,102.375,682.5703125,122.875,774.640625,1,11,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,11," navigation, ",4781,1905097,758,115,102.375,682.5703125,122.875,774.640625,1,11,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,11," navigation, ",4832,1905148,759,115,102.375,682.5703125,122.875,774.640625,1,11,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,11," navigation, ",4881,1905197,759,115,102.375,682.5703125,122.875,774.640625,1,11,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,11," navigation, ",4932,1905248,759,115,102.375,682.5703125,122.875,774.640625,1,11,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,11," navigation, ",4981,1905297,761,115,102.375,682.5703125,122.875,774.640625,1,11,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,12," steering, ",5031,1905347,807,115,102.375,774.640625,122.875,848.6796875,1,12,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,13, acceleration ,5080,1905396,872,115,102.375,848.6796875,122.875,950.7421875,1,13,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,13, acceleration ,5131,1905447,905,112,102.375,848.6796875,122.875,950.7421875,1,13,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,13, acceleration ,5182,1905497,931,111,102.375,848.6796875,122.875,950.7421875,1,13,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,14, and ,5230,1905546,958,110,102.375,950.7421875,122.875,985.78125,1,14,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,5280,1905596,987,103,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,5331,1905647,1019,101,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,5381,1905696,1039,101,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,5431,1905747,1050,101,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,5481,1905797,1052,101,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,5530,1905846,1030,101,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,5581,1905897,850,100,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,7, all ,5631,1905947,581,105,102.375,562.5,122.875,585.515625,1,7,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,5681,1905997,460,116,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,5731,1906047,350,135,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,5781,1906097,321,139,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,5831,1906147,313,141,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,5881,1906197,319,142,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,17, company ,5931,1906247,359,151,142.375,346.375,162.875,424.4140625,2,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,17, company ,5982,1906298,399,160,142.375,346.375,162.875,424.4140625,2,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,6030,1906346,433,165,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,6080,1906396,464,166,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,6131,1906446,515,164,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,21, 100 ,6181,1906497,573,157,142.375,559.515625,162.875,594.5546875,2,5,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,22, prototypes ,6231,1906547,606,154,142.375,594.5546875,162.875,683.609375,2,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,22, prototypes ,6281,1906597,621,154,142.375,594.5546875,162.875,683.609375,2,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,22, prototypes ,6331,1906647,624,154,142.375,594.5546875,162.875,683.609375,2,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,22, prototypes ,6382,1906698,624,154,142.375,594.5546875,162.875,683.609375,2,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,22, prototypes ,6432,1906747,624,154,142.375,594.5546875,162.875,683.609375,2,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,22, prototypes ,6481,1906797,624,154,142.375,594.5546875,162.875,683.609375,2,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,22, prototypes ,6531,1906847,679,154,142.375,594.5546875,162.875,683.609375,2,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,25, two-year ,6581,1906897,773,157,142.375,724.6328125,162.875,798.65625,2,9,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,26, test. ,6631,1906947,829,159,142.375,798.65625,162.875,837.515625,2,10,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,6681,1906996,841,162,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,6731,1907047,841,162,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,6781,1907097,841,162,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,6831,1907147,841,162,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,6880,1907196,842,162,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,28, company’s ,6930,1907246,884,159,142.375,873.375,162.875,964.1015625,2,12,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,28, company’s ,6981,1907296,935,156,142.375,873.375,162.875,964.1015625,2,12,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,28, company’s ,7031,1907347,960,156,142.375,873.375,162.875,964.1015625,2,12,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,29," co-founder, ",7081,1907397,975,156,142.375,964.1015625,162.875,1054.171875,2,13,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,29," co-founder, ",7130,1907446,991,156,142.375,964.1015625,162.875,1054.171875,2,13,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,29," co-founder, ",7181,1907497,1003,156,142.375,964.1015625,162.875,1054.171875,2,13,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,29," co-founder, ",7231,1907547,1007,156,142.375,964.1015625,162.875,1054.171875,2,13,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,29," co-founder, ",7282,1907598,973,155,142.375,964.1015625,162.875,1054.171875,2,13,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,7331,1907646,829,155,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,7381,1907697,458,170,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,30, Sergey ,7431,1907747,365,185,182.375,346.375,202.875,408.4140625,3,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,30, Sergey ,7481,1907797,353,187,182.375,346.375,202.875,408.4140625,3,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,30, Sergey ,7530,1907846,354,187,182.375,346.375,202.875,408.4140625,3,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,30, Sergey ,7581,1907897,358,190,182.375,346.375,202.875,408.4140625,3,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,30, Sergey ,7631,1907947,368,193,182.375,346.375,202.875,408.4140625,3,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,31," Brin, ",7680,1907996,427,196,182.375,408.4140625,202.875,450.4296875,3,2,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,33, a ,7731,1908047,487,196,182.375,484.453125,202.875,499.46875,3,4,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,34, conference ,7781,1908097,535,192,182.375,499.46875,202.875,593.53125,3,5,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,34, conference ,7831,1908147,574,192,182.375,499.46875,202.875,593.53125,3,5,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,35, in ,7881,1908197,597,193,182.375,593.53125,202.875,612.546875,3,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,35, in ,7931,1908247,597,193,182.375,593.53125,202.875,612.546875,3,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,35, in ,7982,1908298,597,193,182.375,593.53125,202.875,612.546875,3,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,35, in ,8031,1908347,597,193,182.375,593.53125,202.875,612.546875,3,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,35, in ,8081,1908397,611,192,182.375,593.53125,202.875,612.546875,3,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,37, that ,8131,1908447,696,190,182.375,693.5859375,202.875,728.6171875,3,8,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,39, vehicle ,8181,1908497,773,188,182.375,758.640625,202.875,819.671875,3,10,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,39, vehicle ,8231,1908547,794,186,182.375,758.640625,202.875,819.671875,3,10,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,39, vehicle ,8281,1908597,794,186,182.375,758.640625,202.875,819.671875,3,10,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,39, vehicle ,8332,1908648,794,186,182.375,758.640625,202.875,819.671875,3,10,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,39, vehicle ,8381,1908697,794,186,182.375,758.640625,202.875,819.671875,3,10,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,39, vehicle ,8431,1908747,806,186,182.375,758.640625,202.875,819.671875,3,10,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,41, “still ,8481,1908797,870,186,182.375,856.6875,202.875,893.6875,3,12,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,44, prototype ,8530,1908846,976,186,182.375,942.7265625,202.875,1022.78125,3,15,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,44, prototype ,8580,1908896,997,186,182.375,942.7265625,202.875,1022.78125,3,15,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,44, prototype ,8631,1908947,1012,189,182.375,942.7265625,202.875,1022.78125,3,15,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,45, stage” ,8681,1908997,1028,192,182.375,1022.78125,202.875,1072.8125,3,16,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,45, stage” ,8731,1909047,1037,189,182.375,1022.78125,202.875,1072.8125,3,16,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,45, stage” ,8782,1909098,1039,188,182.375,1022.78125,202.875,1072.8125,3,16,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,45, stage” ,8831,1909147,1024,188,182.375,1022.78125,202.875,1072.8125,3,16,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,41, “still ,8881,1909197,881,196,182.375,856.6875,202.875,893.6875,3,12,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,8931,1909247,652,212,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,8981,1909297,493,221,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,9031,1909347,425,221,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,47, that ,9081,1909397,393,224,222.375,376.3984375,242.875,411.4296875,4,2,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,47, that ,9131,1909447,382,228,222.375,376.3984375,242.875,411.4296875,4,2,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,46, but ,9181,1909497,371,231,222.375,346.375,242.875,376.3984375,4,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,46, but ,9231,1909547,360,234,222.375,346.375,242.875,376.3984375,4,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,46, but ,9280,1909596,353,236,222.375,346.375,242.875,376.3984375,4,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,46, but ,9331,1909647,350,237,222.375,346.375,242.875,376.3984375,4,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,46, but ,9380,1909696,350,236,222.375,346.375,242.875,376.3984375,4,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,46, but ,9431,1909747,374,232,222.375,346.375,242.875,376.3984375,4,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,48, the ,9481,1909796,412,231,222.375,411.4296875,242.875,441.453125,4,3,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,49, project ,9530,1909846,448,231,222.375,441.453125,242.875,500.484375,4,4,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,49, project ,9580,1909896,485,231,222.375,441.453125,242.875,500.484375,4,4,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,50, was ,9631,1909947,537,231,222.375,500.484375,242.875,537.5,4,5,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,52, changing ,9681,1909997,594,231,222.375,593.5390625,242.875,671.609375,4,7,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,52, changing ,9731,1910047,656,226,222.375,593.5390625,242.875,671.609375,4,7,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,54, world ,9782,1910097,725,232,222.375,701.6328125,242.875,749.6484375,4,9,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,9831,1910147,766,250,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,9881,1910197,773,254,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,9931,1910247,773,254,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,9981,1910297,773,254,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,10031,1910347,773,254,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,10080,1910396,773,253,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,56, people ,10132,1910447,799,238,222.375,775.65625,242.875,834.7109375,4,11,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,57, who ,10181,1910497,858,229,222.375,834.7109375,242.875,872.734375,4,12,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,59, not ,10231,1910547,909,229,222.375,903.7578125,242.875,933.78125,4,14,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,60, well ,10281,1910597,946,229,222.375,933.78125,242.875,969.796875,4,15,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,60, well ,10331,1910647,963,230,222.375,933.78125,242.875,969.796875,4,15,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,61, served ,10381,1910697,983,230,222.375,969.796875,242.875,1028.828125,4,16,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,61, served ,10430,1910746,1004,230,222.375,969.796875,242.875,1028.828125,4,16,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,61, served ,10481,1910797,1018,230,222.375,969.796875,242.875,1028.828125,4,16,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,62, by ,10531,1910847,1031,232,222.375,1028.828125,242.875,1047.84375,4,17,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,62, by ,10581,1910897,1037,237,222.375,1028.828125,242.875,1047.84375,4,17,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,62, by ,10631,1910947,1033,239,222.375,1028.828125,242.875,1047.84375,4,17,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,10680,1910996,978,240,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,68, the ,10731,1911046,619,274,262.375,606.203125,282.875,636.2265625,5,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,10780,1911096,440,289,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,10831,1911147,345,293,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,10881,1911197,309,292,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,10931,1911247,294,290,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,10981,1911297,290,289,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,11031,1911347,312,280,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,63, transportation ,11081,1911397,367,269,262.375,346.375,282.875,461.4453125,5,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,63, transportation ,11131,1911447,404,268,262.375,346.375,282.875,461.4453125,5,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,63, transportation ,11181,1911497,426,274,262.375,346.375,282.875,461.4453125,5,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,63, transportation ,11230,1911546,452,276,262.375,346.375,282.875,461.4453125,5,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,64, today.” ,11280,1911596,501,268,262.375,461.4453125,282.875,520.1484375,5,2,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,11331,1911647,555,260,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,11381,1911697,594,253,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,11431,1911747,615,248,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,11481,1911797,618,247,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,11531,1911846,618,247,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,11581,1911897,618,247,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,11631,1911947,618,247,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,11681,1911997,625,249,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,11731,1912047,667,259,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,11781,1912097,708,262,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,11831,1912147,749,262,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,72, sitting ,11881,1912197,789,265,262.375,765.625,282.875,817.6484375,5,10,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,72, sitting ,11931,1912247,795,265,262.375,765.625,282.875,817.6484375,5,10,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,72, sitting ,11982,1912298,795,265,262.375,765.625,282.875,817.6484375,5,10,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,72, sitting ,12032,1912348,795,265,262.375,765.625,282.875,817.6484375,5,10,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,72, sitting ,12081,1912397,795,265,262.375,765.625,282.875,817.6484375,5,10,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,73, there; ,12131,1912447,831,265,262.375,817.6484375,282.875,868.6796875,5,11,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,75, steering ,12181,1912497,923,267,262.375,893.703125,282.875,962.7421875,5,13,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,76," wheel, ",12231,1912547,968,269,262.375,962.7421875,282.875,1019.78125,5,14,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,76," wheel, ",12280,1912596,985,272,262.375,962.7421875,282.875,1019.78125,5,14,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,76," wheel, ",12331,1912647,997,274,262.375,962.7421875,282.875,1019.78125,5,14,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,76," wheel, ",12380,1912696,1007,270,262.375,962.7421875,282.875,1019.78125,5,14,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,12430,1912746,1014,265,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,12481,1912797,1026,262,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,12531,1912847,1028,262,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,12581,1912897,1019,262,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,12631,1912947,759,261,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,12681,1912997,450,261,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,12730,1913046,329,263,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,12781,1913097,304,265,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,12831,1913147,304,266,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,12881,1913197,317,272,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,12930,1913246,336,280,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,12981,1913297,374,291,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,13030,1913346,405,298,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,79, For ,13081,1913397,431,304,302.375,409.421875,322.875,441.4296875,6,2,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,80," me, ",13131,1913447,446,306,302.375,441.4296875,322.875,476.4375,6,3,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,13180,1913496,466,303,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,13230,1913546,488,301,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,13280,1913596,512,300,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,13331,1913647,536,300,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,13381,1913697,545,300,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,13431,1913747,545,300,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,13481,1913797,545,300,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,13531,1913847,545,300,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,13581,1913897,557,301,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,84, relaxing. ,13631,1913947,607,309,302.375,566.46875,322.875,639.015625,6,7,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,85, About ,13681,1913997,649,312,302.375,639.015625,322.875,690.5703125,6,8,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,85, About ,13730,1914046,668,313,302.375,639.015625,322.875,690.5703125,6,8,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,85, About ,13782,1914098,668,313,302.375,639.015625,322.875,690.5703125,6,8,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,85, About ,13831,1914147,668,313,302.375,639.015625,322.875,690.5703125,6,8,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,85, About ,13881,1914197,668,313,302.375,639.015625,322.875,690.5703125,6,8,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,85, About ,13931,1914247,680,313,302.375,639.015625,322.875,690.5703125,6,8,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,13981,1914297,710,315,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,14031,1914347,813,325,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,14081,1914397,841,322,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,89, getting ,14131,1914447,855,318,302.375,833.6640625,322.875,892.7109375,6,12,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,89, getting ,14182,1914498,857,318,302.375,833.6640625,322.875,892.7109375,6,12,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,89, getting ,14232,1914548,857,318,302.375,833.6640625,322.875,892.7109375,6,12,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,89, getting ,14281,1914597,857,318,302.375,833.6640625,322.875,892.7109375,6,12,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,89, getting ,14331,1914647,858,318,302.375,833.6640625,322.875,892.7109375,6,12,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,89, getting ,14380,1914696,888,318,302.375,833.6640625,322.875,892.7109375,6,12,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,92, forgot ,14431,1914747,959,320,302.375,926.734375,322.875,977.765625,6,15,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,94, was ,14481,1914797,995,320,302.375,987.7734375,322.875,1024.7890625,6,17,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,94, was ,14530,1914846,1013,315,302.375,987.7734375,322.875,1024.7890625,6,17,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,95, there. ,14581,1914897,1027,313,302.375,1024.7890625,322.875,1075.8203125,6,18,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,95, there. ,14631,1914947,1043,313,302.375,1024.7890625,322.875,1075.8203125,6,18,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,95, there. ,14681,1914997,1054,315,302.375,1024.7890625,322.875,1075.8203125,6,18,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,95, there. ,14731,1915047,1060,315,302.375,1024.7890625,322.875,1075.8203125,6,18,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,95, there. ,14781,1915097,1061,315,302.375,1024.7890625,322.875,1075.8203125,6,18,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,92, forgot ,14831,1915147,927,317,302.375,926.734375,322.875,977.765625,6,15,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,14880,1915196,711,317,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,98, me ,14930,1915246,442,346,342.375,426.421875,362.875,456.4296875,7,2,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,97, reminded ,14981,1915297,399,358,342.375,346.375,362.875,426.421875,7,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,15030,1915346,391,362,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,15080,1915396,390,364,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,15130,1915446,385,365,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,15180,1915496,375,363,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,97, reminded ,15231,1915547,369,359,342.375,346.375,362.875,426.421875,7,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,97, reminded ,15281,1915597,368,357,342.375,346.375,362.875,426.421875,7,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,97, reminded ,15331,1915647,372,357,342.375,346.375,362.875,426.421875,7,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,97, reminded ,15380,1915696,425,355,342.375,346.375,362.875,426.421875,7,1,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,100, catching ,15431,1915747,501,354,342.375,476.4453125,362.875,548.4921875,7,4,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,101, a ,15493,1915809,556,355,342.375,548.4921875,362.875,563.5078125,7,5,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,102, chairlift ,15531,1915847,593,359,342.375,563.5078125,362.875,625.5234375,7,6,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,15581,1915897,625,363,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,15630,1915946,654,364,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,104, yourself ,15681,1915997,687,356,342.375,649.5390625,362.875,717.5703125,7,8,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,104, yourself ,15731,1916047,707,351,342.375,649.5390625,362.875,717.5703125,7,8,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,105, – ,15781,1916097,726,346,342.375,717.5703125,362.875,732.5859375,7,9,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,107, bit ,15831,1916147,749,346,342.375,747.6015625,362.875,771.6171875,7,11,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,107, bit ,15881,1916197,767,347,342.375,747.6015625,362.875,771.6171875,7,11,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,108, of ,15931,1916247,772,349,342.375,771.6171875,362.875,791.6328125,7,12,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,108, of ,15981,1916297,772,349,342.375,771.6171875,362.875,791.6328125,7,12,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,108, of ,16032,1916348,772,349,342.375,771.6171875,362.875,791.6328125,7,12,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,108, of ,16082,1916398,772,349,342.375,771.6171875,362.875,791.6328125,7,12,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,108, of ,16130,1916446,776,349,342.375,771.6171875,362.875,791.6328125,7,12,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,110, I ,16180,1916497,859,346,342.375,858.6796875,362.875,868.6875,7,14,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,112, really ,16231,1916547,931,345,342.375,918.734375,362.875,966.75,7,16,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,112, really ,16281,1916597,961,345,342.375,918.734375,362.875,966.75,7,16,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,113, enjoyable.” ,16331,1916647,977,344,342.375,966.75,362.875,1054.8125,7,17,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,16381,1916697,990,342,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,16430,1916746,1007,342,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,16480,1916796,1021,342,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,16530,1916846,1030,343,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,113, enjoyable.” ,16580,1916896,1031,351,342.375,966.75,362.875,1054.8125,7,17,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,16630,1916946,982,378,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,16681,1916997,982,378,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,16731,1917047,982,378,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,16780,1917096,982,378,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,16831,1917147,982,378,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,16880,1917196,982,378,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,16930,1917246,982,378,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,16981,1917297,982,378,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,17030,1917346,982,378,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,17081,1917397,982,378,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,2,62,63,-1,999,17131,1917447,982,378,,,,,,,People who find it difficult to travel around,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
