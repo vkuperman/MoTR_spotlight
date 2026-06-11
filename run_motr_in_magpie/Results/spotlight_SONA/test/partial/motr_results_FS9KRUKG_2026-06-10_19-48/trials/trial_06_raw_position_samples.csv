@@ -1,0 +1,41 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+FS9KRUKG,,2,int,22,5,5,6,122, population ,36086,856341,787,393,391.2734375,740.65625,411.7734375,828.734375,8,9,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,36135,856391,787,393,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,122, population ,36186,856441,787,398,391.2734375,740.65625,411.7734375,828.734375,8,9,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,36235,856491,787,398,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,36285,856541,787,398,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,36336,856591,787,398,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,36386,856642,787,398,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,36436,856692,787,398,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,36486,856742,787,398,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,36535,856791,787,398,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,36585,856841,787,398,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,36636,856892,787,398,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,36685,856941,787,398,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,36735,856991,787,398,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,36786,857041,787,398,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,36835,857091,787,398,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,36885,857141,764,425,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,36935,857191,765,424,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,36984,857240,765,424,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,37035,857291,765,425,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,37085,857341,765,425,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,37136,857391,765,425,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,37185,857441,764,419,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,37235,857491,763,414,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,122, population ,37286,857542,762,410,391.2734375,740.65625,411.7734375,828.734375,8,9,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,122, population ,37336,857592,762,409,391.2734375,740.65625,411.7734375,828.734375,8,9,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,37384,857640,762,409,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,37435,857691,756,425,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,37486,857741,756,425,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,37535,857791,756,425,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,37585,857841,756,425,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,37636,857891,756,425,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,37686,857942,756,425,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,37735,857991,756,425,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,37785,858041,756,425,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,37836,858091,756,425,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,37886,858141,756,425,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,37938,858193,756,425,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,37986,858241,756,425,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,22,5,5,6,-1,999,38035,858291,756,425,,,,,,,Through books that he read,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
