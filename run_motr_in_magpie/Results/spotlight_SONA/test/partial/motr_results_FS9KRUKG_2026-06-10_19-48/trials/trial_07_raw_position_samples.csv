@@ -1,0 +1,971 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+FS9KRUKG,,2,int,16,1,6,7,-1,999,1114,869841,736,470,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,119, Bowie ,1164,869891,739,448,431.2734375,718.265625,451.7734375,772.296875,9,7,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,119, Bowie ,1215,869942,741,440,431.2734375,718.265625,451.7734375,772.296875,9,7,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,119, Bowie ,1265,869992,741,440,431.2734375,718.265625,451.7734375,772.296875,9,7,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,119, Bowie ,1315,870042,741,440,431.2734375,718.265625,451.7734375,772.296875,9,7,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,119, Bowie ,1366,870092,741,440,431.2734375,718.265625,451.7734375,772.296875,9,7,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,119, Bowie ,1415,870142,741,440,431.2734375,718.265625,451.7734375,772.296875,9,7,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,119, Bowie ,1465,870191,741,440,431.2734375,718.265625,451.7734375,772.296875,9,7,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,119, Bowie ,1515,870242,737,433,431.2734375,718.265625,451.7734375,772.296875,9,7,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,63, He ,1564,870291,568,279,271.2734375,554.15625,291.7734375,582.171875,5,3,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,1614,870341,568,279,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,1664,870391,420,120,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,1715,870442,420,120,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,1765,870492,420,120,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,1814,870541,420,120,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,1865,870592,420,120,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,1915,870642,420,120,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,1964,870691,420,120,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,2015,870742,420,120,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,2065,870792,420,120,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,2114,870841,420,120,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,2165,870891,420,120,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,2215,870942,420,120,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,2265,870991,351,91,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,2314,871041,351,94,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,2365,871092,351,96,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,2414,871141,352,96,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,2464,871191,356,99,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,2514,871241,357,99,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,2564,871291,359,102,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,2615,871342,361,105,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,2664,871391,364,109,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,2714,871441,365,110,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,2765,871491,365,112,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,1, Benjamin ,2815,871541,365,113,111.2734375,361.375,131.7734375,441.421875,1,1,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,1, Benjamin ,2864,871591,365,114,111.2734375,361.375,131.7734375,441.421875,1,1,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,1, Benjamin ,2915,871642,365,114,111.2734375,361.375,131.7734375,441.421875,1,1,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,1, Benjamin ,2964,871691,364,116,111.2734375,361.375,131.7734375,441.421875,1,1,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,1, Benjamin ,3014,871741,364,116,111.2734375,361.375,131.7734375,441.421875,1,1,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,1, Benjamin ,3065,871792,364,117,111.2734375,361.375,131.7734375,441.421875,1,1,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,1, Benjamin ,3115,871842,364,117,111.2734375,361.375,131.7734375,441.421875,1,1,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,1, Benjamin ,3165,871891,358,121,111.2734375,361.375,131.7734375,441.421875,1,1,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,3215,871941,344,127,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,3265,871991,325,134,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,3314,872041,317,139,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,3364,872091,312,143,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,3415,872142,311,143,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,3465,872191,311,143,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,3515,872241,312,143,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,3564,872291,314,143,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,3614,872341,315,143,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,3665,872391,316,143,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,3715,872441,317,143,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,3765,872491,317,142,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,3814,872541,317,142,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,3865,872591,318,142,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,3914,872641,318,142,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,3964,872691,319,142,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4014,872741,320,142,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4064,872791,323,141,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4114,872841,325,140,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4165,872892,327,138,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4215,872941,328,137,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4265,872991,329,137,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4314,873041,329,137,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4365,873091,329,136,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4414,873141,329,136,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4465,873191,331,134,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4515,873241,331,134,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4564,873291,332,133,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4614,873341,333,133,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4664,873391,333,133,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4715,873441,334,133,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4764,873491,335,136,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4815,873541,336,140,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4865,873591,336,151,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4915,873641,336,156,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,4965,873692,336,159,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5015,873741,336,159,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5065,873792,336,160,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5114,873841,336,161,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5164,873891,336,161,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5214,873941,336,161,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5264,873991,336,161,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5315,874041,336,161,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5365,874092,336,161,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5415,874141,336,161,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5465,874191,336,167,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5515,874241,332,189,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5565,874291,328,204,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5615,874342,323,229,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5665,874391,321,240,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5714,874441,321,243,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5764,874491,321,249,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5814,874541,321,249,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5865,874591,321,249,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5914,874641,321,249,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,5964,874690,321,249,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6014,874741,321,247,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6065,874791,321,242,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6114,874841,321,239,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6165,874891,322,239,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6214,874941,322,239,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6265,874991,322,244,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6314,875041,322,270,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6365,875091,322,284,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6415,875141,321,298,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6465,875192,321,291,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6514,875241,323,206,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6564,875291,323,206,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6614,875341,331,161,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6665,875391,331,160,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6715,875442,332,159,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6764,875491,332,159,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6815,875542,332,159,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6864,875591,332,159,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6914,875641,332,163,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,6965,875692,332,163,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7014,875741,325,270,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7065,875792,321,309,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7115,875841,319,350,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7165,875892,319,351,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7215,875942,319,339,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7265,875991,319,306,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7314,876041,323,248,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7364,876091,339,123,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7415,876141,339,123,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7465,876192,339,123,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7515,876241,347,118,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7565,876291,313,418,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7614,876341,307,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7665,876391,307,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7714,876441,310,490,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7765,876491,319,322,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7814,876541,319,322,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7864,876591,319,322,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7914,876641,328,410,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,7965,876691,328,410,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,8014,876741,328,410,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,8064,876791,328,410,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,8114,876841,327,363,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,8164,876891,327,363,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,8214,876941,358,163,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,8265,876992,358,163,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,8314,877041,358,163,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,8363,877090,358,163,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,8415,877141,358,163,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,8465,877191,356,295,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,8515,877242,356,295,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,8565,877291,356,295,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,8614,877341,341,438,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,8664,877390,341,438,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,8715,877441,341,438,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,8765,877492,312,503,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,1, Benjamin ,8815,877541,391,120,111.2734375,361.375,131.7734375,441.421875,1,1,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,8865,877591,391,120,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,8914,877641,367,310,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,8965,877691,367,310,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,9014,877741,367,310,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,9064,877791,367,310,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,9115,877841,357,276,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,9164,877891,357,276,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,88, production ,9214,877941,377,362,351.2734375,361.375,371.7734375,450.4375,7,1,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,9264,877991,377,362,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,9315,878042,377,362,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,9365,878091,394,412,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,9414,878141,503,162,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,9465,878191,503,162,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,9514,878241,558,198,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,9565,878291,558,198,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,9615,878342,558,198,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,9665,878391,569,304,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,9714,878441,652,155,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,9765,878492,700,97,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,9815,878542,607,374,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,9865,878591,607,374,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,9914,878641,607,374,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,9964,878691,677,331,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,10014,878741,744,215,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,35, is ,10065,878791,747,209,191.2734375,737.6328125,211.7734375,755.6328125,3,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,10115,878841,747,209,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,10165,878891,747,209,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,10215,878942,747,209,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,52, French-made ,10264,878991,663,236,231.2734375,635.546875,251.7734375,747.59375,4,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,10315,879042,663,236,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,10365,879091,663,236,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,10415,879141,602,377,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,10465,879192,602,377,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,10514,879241,602,377,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,10565,879292,524,456,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,10614,879341,674,162,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,10665,879391,674,162,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,10715,879441,641,197,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,10764,879491,641,197,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,10814,879541,641,197,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,10865,879591,529,349,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,10914,879641,638,106,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,10965,879692,638,106,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,103, made ,11014,879741,510,395,391.2734375,483.421875,411.7734375,533.453125,8,3,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,11064,879790,510,395,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,11114,879841,510,395,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,127," cat, ",11165,879891,453,485,471.2734375,452.4453125,491.7734375,486.4609375,10,3,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,11215,879941,453,485,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,11264,879991,453,485,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,11314,880041,535,310,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,126, and ,11365,880092,450,488,471.2734375,417.40625,491.7734375,452.4453125,10,2,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,11415,880141,450,488,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,11464,880191,413,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,11515,880241,487,327,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,11565,880291,487,327,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,11615,880342,561,223,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,11664,880391,561,223,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,11714,880441,561,223,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,11764,880491,561,223,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,11815,880542,582,160,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,11865,880592,582,160,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,11914,880641,582,160,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,11965,880691,520,458,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,12015,880742,520,458,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,12064,880791,520,458,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,12114,880841,572,333,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,12164,880891,641,184,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,19, Chinese ,12215,880941,671,163,151.2734375,607.15625,171.7734375,678.203125,2,6,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,12265,880992,671,163,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,12315,881041,524,463,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,12364,881091,524,463,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,12415,881141,548,408,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,12465,881192,694,103,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,34, nobody ,12514,881241,685,209,191.2734375,673.578125,211.7734375,737.6328125,3,7,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,12565,881291,685,209,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,12615,881342,685,209,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,12665,881391,685,209,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,12715,881441,624,230,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,12764,881491,624,230,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,12815,881542,624,230,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,12865,881592,624,230,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,12914,881641,599,345,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,12964,881691,599,345,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13015,881741,527,510,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13064,881791,527,510,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13115,881841,527,510,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13165,881891,527,510,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13215,881941,663,342,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13265,881992,663,342,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13315,882041,663,342,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13365,882092,686,376,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13414,882141,729,265,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13465,882191,724,312,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13514,882241,666,447,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13564,882291,666,447,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13615,882342,666,447,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13665,882392,666,447,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13714,882441,666,447,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13765,882492,666,447,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13815,882542,666,447,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13864,882590,666,447,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13915,882642,666,447,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,13963,882690,628,514,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,14015,882741,628,516,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,14064,882791,628,516,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,14114,882841,628,516,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,14164,882891,628,516,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,14215,882941,628,516,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,14264,882991,656,473,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,14315,883042,807,192,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,14365,883091,827,154,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,14415,883141,810,219,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,14464,883191,727,430,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,14515,883242,727,430,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,14564,883291,727,430,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,14615,883342,727,430,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,22, unsourced ,14664,883391,845,166,151.2734375,763.2734375,171.7734375,852.3359375,2,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,14714,883441,845,166,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,14765,883491,853,160,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,14815,883541,853,160,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,14864,883591,853,160,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,14914,883640,853,160,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,14965,883692,862,261,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,15015,883742,862,261,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,15064,883790,862,261,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,15115,883841,862,261,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,15165,883891,787,425,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,15214,883941,787,425,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,15264,883991,787,425,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,15315,884041,779,520,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,39," decided, ",15364,884091,922,202,191.2734375,903.703125,211.7734375,976.7578125,3,12,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,15414,884141,922,202,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,15464,884191,883,310,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,15514,884241,883,310,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,15565,884292,883,310,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,15614,884341,883,310,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,15665,884391,850,392,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,25, stopped ,15715,884441,946,169,151.2734375,932.390625,171.7734375,1001.453125,2,12,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,15764,884491,857,386,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,15815,884541,857,386,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,15865,884591,857,386,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,15915,884642,857,386,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,15965,884692,897,300,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,12, and ,16015,884741,966,126,111.2734375,941.734375,131.7734375,976.7734375,1,12,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,16064,884791,974,130,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,16115,884841,870,378,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,16164,884891,870,378,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,16215,884942,870,378,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,16265,884991,870,378,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,16315,885041,819,471,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,16365,885091,858,391,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,121, (British). ,16415,885141,853,437,431.2734375,824.3046875,451.7734375,896.3046875,9,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,16465,885191,853,437,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,16514,885241,853,437,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,16564,885291,812,478,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,16615,885341,812,478,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,16665,885392,959,137,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,25, stopped ,16715,885441,958,156,151.2734375,932.390625,171.7734375,1001.453125,2,12,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,16765,885491,958,156,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,16815,885541,958,156,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,16865,885591,958,156,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,16915,885641,958,156,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,16965,885691,849,362,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17015,885741,941,146,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17064,885791,865,390,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17115,885842,865,390,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17165,885891,865,390,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17214,885941,865,390,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17264,885991,812,482,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17315,886041,812,482,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17364,886091,812,482,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17415,886141,984,89,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17465,886192,811,501,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17514,886241,811,501,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17565,886291,811,501,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17614,886341,811,501,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17664,886391,894,315,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17715,886441,938,188,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17764,886491,936,208,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17815,886541,812,520,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17864,886591,812,520,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17915,886641,812,520,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,17965,886691,850,445,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,18015,886741,850,445,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,18065,886791,850,445,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,39," decided, ",18114,886841,935,200,191.2734375,903.703125,211.7734375,976.7578125,3,12,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,18165,886891,935,200,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,18214,886941,935,200,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,18264,886991,935,200,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,121, (British). ,18315,887041,842,443,431.2734375,824.3046875,451.7734375,896.3046875,9,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,18365,887091,937,170,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,18414,887141,948,131,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,84, save ,18465,887192,881,316,311.2734375,879.703125,331.7734375,922.7265625,6,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,18515,887241,881,316,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,18564,887291,808,472,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,18615,887341,813,459,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,18665,887392,928,211,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,25, stopped ,18715,887441,951,153,151.2734375,932.390625,171.7734375,1001.453125,2,12,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,56, months ,18765,887492,939,234,231.2734375,877.6640625,251.7734375,941.6953125,4,13,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,18815,887541,939,234,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,18865,887591,844,474,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,18914,887641,821,512,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,18964,887691,879,306,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,19015,887741,918,188,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,25, stopped ,19065,887791,933,157,151.2734375,932.390625,171.7734375,1001.453125,2,12,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,19115,887842,933,157,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,19165,887891,821,489,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,19214,887941,821,489,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,19265,887991,820,483,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,19314,888041,820,483,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,19365,888091,930,183,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,19415,888141,931,214,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,19464,888191,892,355,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,19515,888242,892,355,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,19564,888291,892,355,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,110, underpants ,19615,888342,861,402,391.2734375,807.59375,411.7734375,902.671875,8,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,12, and ,19665,888391,959,125,111.2734375,941.734375,131.7734375,976.7734375,1,12,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,19715,888441,959,125,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,19765,888492,958,161,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,121, (British). ,19815,888541,858,437,431.2734375,824.3046875,451.7734375,896.3046875,9,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,19865,888591,858,437,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,19914,888641,858,437,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,19965,888691,830,477,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,20015,888741,887,304,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,20064,888791,898,277,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,20114,888841,878,373,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,20164,888891,849,441,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,20214,888941,830,475,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,20265,888992,867,346,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,20315,889042,912,191,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,24, paint ,20365,889091,925,168,151.2734375,888.3515625,171.7734375,932.390625,2,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,20414,889141,925,168,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,20465,889191,847,401,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,20515,889242,813,469,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,20564,889291,836,374,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,20615,889341,886,220,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,20664,889391,923,83,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,20715,889441,907,177,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,20765,889491,815,461,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,20815,889542,800,493,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,20864,889591,792,490,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,20914,889641,800,390,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,20965,889691,842,217,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,21014,889741,848,213,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,21065,889791,812,371,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,109, his ,21115,889841,801,396,391.2734375,779.578125,411.7734375,807.59375,8,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,109, his ,21165,889891,795,397,391.2734375,779.578125,411.7734375,807.59375,8,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,21215,889941,795,397,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,21265,889991,817,273,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,21315,890042,830,272,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,21364,890091,792,454,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,21414,890141,784,473,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,21465,890191,781,475,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,82, products ,21515,890242,804,320,311.2734375,785.6484375,331.7734375,859.6875,6,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,21565,890292,830,226,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,21615,890341,825,291,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,21665,890391,761,504,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,21715,890441,761,504,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,119, Bowie ,21765,890491,756,449,431.2734375,718.265625,451.7734375,772.296875,9,7,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,21815,890541,756,449,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,21864,890591,847,141,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,22, unsourced ,21914,890641,849,154,151.2734375,763.2734375,171.7734375,852.3359375,2,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,21964,890691,810,311,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,22015,890742,799,338,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,82, products ,22064,890791,795,329,311.2734375,785.6484375,331.7734375,859.6875,6,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,82, products ,22115,890841,796,319,311.2734375,785.6484375,331.7734375,859.6875,6,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,22164,890891,799,321,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,22214,890941,784,413,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,22265,890991,775,429,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,22315,891041,781,374,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,22365,891091,831,213,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,22415,891142,838,213,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,22465,891191,804,389,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,22514,891241,791,417,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,22565,891291,784,410,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,22615,891341,788,337,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,53, products ,22665,891391,812,234,231.2734375,747.59375,251.7734375,821.6328125,4,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,22714,891441,812,234,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,22765,891491,784,423,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,120, music ,22815,891541,778,435,431.2734375,772.296875,451.7734375,824.3046875,9,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,96, give ,22864,891591,784,363,351.2734375,772.625,371.7734375,810.6484375,7,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,22915,891642,784,363,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,22964,891691,801,314,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,23015,891741,783,429,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,23065,891791,768,459,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,23115,891841,768,415,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,23165,891891,806,259,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,53, products ,23215,891941,818,239,231.2734375,747.59375,251.7734375,821.6328125,4,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,120, music ,23264,891991,785,437,431.2734375,772.296875,451.7734375,824.3046875,9,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,23314,892041,785,437,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,23365,892091,767,474,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,23415,892142,790,341,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,23464,892190,813,295,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,23515,892241,803,370,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,120, music ,23565,892291,776,440,431.2734375,772.296875,451.7734375,824.3046875,9,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,120, music ,23615,892341,773,442,431.2734375,772.296875,451.7734375,824.3046875,9,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,82, products ,23664,892391,788,322,311.2734375,785.6484375,331.7734375,859.6875,6,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,23714,892441,788,322,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,96, give ,23765,892491,802,369,351.2734375,772.625,371.7734375,810.6484375,7,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,23815,892541,802,369,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,23865,892592,763,470,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,23914,892641,763,432,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,53, products ,23965,892691,810,234,231.2734375,747.59375,251.7734375,821.6328125,4,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,24015,892741,810,234,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,24064,892790,823,277,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,24114,892841,766,473,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,24165,892891,754,481,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,24215,892941,754,481,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,24265,892992,806,269,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,24315,893041,811,303,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,120, music ,24365,893091,777,437,431.2734375,772.296875,451.7734375,824.3046875,9,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,24415,893141,777,437,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,109, his ,24465,893192,781,394,391.2734375,779.578125,411.7734375,807.59375,8,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,24515,893241,781,394,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,24564,893291,800,365,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,24615,893342,800,365,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,24665,893391,800,365,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,24714,893441,754,504,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,82, products ,24764,893491,802,316,311.2734375,785.6484375,331.7734375,859.6875,6,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,24814,893541,802,316,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,24865,893591,809,402,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,24914,893640,809,402,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,24964,893691,769,488,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,25015,893741,769,488,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,25065,893791,809,364,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,25115,893841,796,520,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,25165,893891,796,520,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,25214,893941,796,520,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,69, Minister ,25265,893992,815,280,271.2734375,752.3046875,291.7734375,820.3203125,5,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,25315,894041,815,280,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,25364,894090,837,328,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,25415,894141,837,328,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,25465,894191,837,328,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,25515,894241,788,430,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,82, products ,25565,894291,830,315,311.2734375,785.6484375,331.7734375,859.6875,6,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,25615,894341,830,315,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,25665,894392,783,508,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,25715,894441,777,513,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,25765,894491,813,331,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,70, for ,25815,894541,832,287,271.2734375,820.3203125,291.7734375,846.328125,5,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,120, music ,25865,894591,816,442,431.2734375,772.296875,451.7734375,824.3046875,9,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,25914,894641,816,442,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,25965,894691,785,479,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,26014,894741,785,479,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,26065,894791,835,329,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,26115,894841,821,467,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,26165,894891,801,515,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,26215,894942,788,484,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,26264,894991,862,231,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,38," 26, ",26315,895041,879,204,191.2734375,873.6796875,211.7734375,903.703125,3,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,26365,895092,839,413,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,26415,895141,819,458,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,120, music ,26464,895191,809,446,431.2734375,772.296875,451.7734375,824.3046875,9,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,26514,895240,809,446,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,26565,895291,871,271,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,110, underpants ,26615,895341,847,408,391.2734375,807.59375,411.7734375,902.671875,8,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,26665,895391,800,512,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,26715,895441,796,504,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,26764,895491,812,401,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,37," Carle, ",26816,895542,870,201,191.2734375,820.6640625,211.7734375,873.6796875,3,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,82, products ,26865,895591,856,315,311.2734375,785.6484375,331.7734375,859.6875,6,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,26913,895640,856,315,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,26964,895691,814,411,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,27014,895741,822,350,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,71, Economic ,27064,895791,858,275,271.2734375,846.328125,291.7734375,930.3671875,5,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,27115,895842,858,275,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,27164,895891,806,500,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,27215,895941,798,501,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,27264,895990,808,402,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,23, wall ,27315,896041,878,163,151.2734375,852.3359375,171.7734375,888.3515625,2,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,27365,896091,860,309,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,27415,896141,835,376,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,110, underpants ,27465,896192,818,400,391.2734375,807.59375,411.7734375,902.671875,8,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,27514,896241,818,400,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,27565,896292,843,282,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,27615,896342,850,392,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,27664,896391,810,477,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,27714,896441,810,477,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,27765,896491,827,324,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,23, wall ,27815,896541,886,160,151.2734375,852.3359375,171.7734375,888.3515625,2,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,27865,896591,872,303,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,27915,896641,847,381,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,27965,896691,827,417,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,97, up ,28015,896741,833,367,351.2734375,810.6484375,371.7734375,835.671875,7,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,71, Economic ,28065,896791,869,283,271.2734375,846.328125,291.7734375,930.3671875,5,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,28115,896841,869,283,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,121, (British). ,28164,896891,833,447,431.2734375,824.3046875,451.7734375,896.3046875,9,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,28214,896941,833,447,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,28264,896991,826,405,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,28315,897041,881,219,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,28364,897091,888,234,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,28415,897141,851,380,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,110, underpants ,28465,897192,839,401,391.2734375,807.59375,411.7734375,902.671875,8,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,28515,897241,839,401,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,28565,897291,862,284,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,28615,897341,887,293,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,28665,897391,841,457,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,28715,897441,834,466,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,71, Economic ,28764,897491,863,277,271.2734375,846.328125,291.7734375,930.3671875,5,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,28814,897541,863,277,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,39," decided, ",28864,897591,906,199,191.2734375,903.703125,211.7734375,976.7578125,3,12,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,28915,897641,906,199,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,98, his ,28965,897691,853,353,351.2734375,835.671875,371.7734375,863.6875,7,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,29015,897742,853,353,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,29064,897791,881,214,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,29114,897841,891,218,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,110, underpants ,29164,897891,855,400,391.2734375,807.59375,411.7734375,902.671875,8,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,29215,897942,855,400,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,29265,897992,846,335,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,29314,898041,882,187,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,24, paint ,29364,898091,906,166,151.2734375,888.3515625,171.7734375,932.390625,2,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,29414,898141,906,166,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,29465,898191,851,371,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,29515,898241,848,374,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,29565,898291,851,329,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,29615,898341,877,258,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,29665,898391,861,374,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,110, underpants ,29715,898441,850,393,391.2734375,807.59375,411.7734375,902.671875,8,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,29764,898491,846,394,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,55, ten ,29815,898542,870,249,231.2734375,847.640625,251.7734375,877.6640625,4,12,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,29864,898591,895,221,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,84, save ,29915,898641,884,323,311.2734375,879.703125,331.7734375,922.7265625,6,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,110, underpants ,29964,898691,853,402,391.2734375,807.59375,411.7734375,902.671875,8,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,110, underpants ,30015,898741,850,398,391.2734375,807.59375,411.7734375,902.671875,8,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,38," 26, ",30065,898791,891,198,191.2734375,873.6796875,211.7734375,903.703125,3,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,30114,898841,891,198,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,30164,898891,908,199,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,30215,898942,860,350,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,98, his ,30265,898992,849,354,351.2734375,835.671875,371.7734375,863.6875,7,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,30315,899041,849,354,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,30365,899091,884,205,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,30415,899141,892,298,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,30465,899191,849,414,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,30515,899242,844,413,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,56, months ,30564,899291,878,246,231.2734375,877.6640625,251.7734375,941.6953125,4,13,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,30615,899341,878,246,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,30663,899390,898,233,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,30715,899441,861,375,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,30765,899491,849,395,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,71, Economic ,30815,899541,861,280,271.2734375,846.328125,291.7734375,930.3671875,5,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,30865,899591,895,191,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,71, Economic ,30915,899641,893,283,271.2734375,846.328125,291.7734375,930.3671875,5,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,30964,899691,846,419,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,31015,899741,837,427,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,31064,899791,877,224,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,31115,899842,895,177,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,71, Economic ,31165,899892,882,289,271.2734375,846.328125,291.7734375,930.3671875,5,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,31214,899941,882,289,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,31265,899991,843,373,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,82, products ,31315,900042,848,314,311.2734375,785.6484375,331.7734375,859.6875,6,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,31365,900092,886,213,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,84, save ,31415,900141,881,317,311.2734375,879.703125,331.7734375,922.7265625,6,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,31464,900191,838,428,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,31515,900241,833,425,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,31564,900291,847,324,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,11, underpants ,31615,900341,910,129,111.2734375,846.65625,131.7734375,941.734375,1,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,56, months ,31665,900391,894,246,231.2734375,877.6640625,251.7734375,941.6953125,4,13,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,31715,900441,894,246,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,31765,900491,857,328,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,31815,900541,876,222,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,31864,900591,902,184,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,71, Economic ,31915,900641,887,282,271.2734375,846.328125,291.7734375,930.3671875,5,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,98, his ,31965,900692,856,360,351.2734375,835.671875,371.7734375,863.6875,7,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,98, his ,32015,900742,854,355,351.2734375,835.671875,371.7734375,863.6875,7,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,32064,900791,893,183,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,24, paint ,32115,900841,905,153,151.2734375,888.3515625,171.7734375,932.390625,2,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,71, Economic ,32165,900891,878,287,271.2734375,846.328125,291.7734375,930.3671875,5,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,32215,900941,878,287,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,32265,900991,853,340,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,71, Economic ,32315,901041,864,274,271.2734375,846.328125,291.7734375,930.3671875,5,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,38," 26, ",32365,901091,891,205,191.2734375,873.6796875,211.7734375,903.703125,3,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,32415,901141,891,205,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,32464,901191,835,426,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,110, underpants ,32515,901242,833,405,391.2734375,807.59375,411.7734375,902.671875,8,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,55, ten ,32564,901291,871,248,231.2734375,847.640625,251.7734375,877.6640625,4,12,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,32614,901341,871,248,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,32665,901391,890,200,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,110, underpants ,32715,901441,851,402,391.2734375,807.59375,411.7734375,902.671875,8,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,32765,901491,829,456,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,32815,901542,830,421,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,98, his ,32865,901591,848,355,351.2734375,835.671875,371.7734375,863.6875,7,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,32914,901641,848,355,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,32965,901691,840,439,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,33015,901741,825,469,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,33064,901791,848,334,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,33114,901841,861,297,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,33164,901891,858,379,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,33215,901941,841,427,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,121, (British). ,33265,901992,829,439,431.2734375,824.3046875,451.7734375,896.3046875,9,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,33315,902041,829,439,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,33365,902092,883,221,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,33415,902142,892,213,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,33465,902191,859,378,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,110, underpants ,33515,902241,845,409,391.2734375,807.59375,411.7734375,902.671875,8,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,33565,902291,843,407,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,56, months ,33615,902341,879,235,231.2734375,877.6640625,251.7734375,941.6953125,4,13,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,38," 26, ",33665,902391,898,205,191.2734375,873.6796875,211.7734375,903.703125,3,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,33715,902442,898,205,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,33763,902490,850,391,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,33815,902541,847,391,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,33864,902590,882,224,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,33915,902641,896,188,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,33965,902691,879,305,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,34014,902741,862,350,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,34064,902791,855,363,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,71, Economic ,34115,902842,870,277,271.2734375,846.328125,291.7734375,930.3671875,5,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,56, months ,34165,902892,893,234,231.2734375,877.6640625,251.7734375,941.6953125,4,13,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,34215,902942,893,234,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,34264,902991,862,369,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,34314,903041,852,381,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,34365,903091,859,326,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,34415,903141,898,188,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,56, months ,34465,903191,895,246,231.2734375,877.6640625,251.7734375,941.6953125,4,13,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,34515,903241,895,246,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,98, his ,34565,903292,856,357,351.2734375,835.671875,371.7734375,863.6875,7,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,34615,903342,856,357,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,38," 26, ",34664,903391,892,200,191.2734375,873.6796875,211.7734375,903.703125,3,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,38," 26, ",34715,903441,898,206,191.2734375,873.6796875,211.7734375,903.703125,3,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,34764,903490,869,342,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,98, his ,34815,903541,860,362,351.2734375,835.671875,371.7734375,863.6875,7,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,34865,903592,858,357,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,56, months ,34915,903641,891,234,231.2734375,877.6640625,251.7734375,941.6953125,4,13,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,34963,903690,891,296,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,35014,903741,874,348,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,99," smartphone, ",35065,903791,865,367,351.2734375,863.6875,371.7734375,968.75,7,12,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,35115,903842,865,367,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,35164,903891,905,192,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,39," decided, ",35215,903941,913,198,191.2734375,903.703125,211.7734375,976.7578125,3,12,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,35265,903991,870,374,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,35315,904041,862,392,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,83, to ,35365,904091,868,325,311.2734375,859.6875,331.7734375,879.703125,6,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,35415,904142,868,325,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,24, paint ,35465,904191,922,156,151.2734375,888.3515625,171.7734375,932.390625,2,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,35514,904241,922,156,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,99," smartphone, ",35565,904291,868,363,351.2734375,863.6875,371.7734375,968.75,7,12,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,99," smartphone, ",35615,904341,866,361,351.2734375,863.6875,371.7734375,968.75,7,12,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,35664,904391,897,215,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,35715,904442,912,180,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,35765,904491,882,346,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,35815,904541,864,392,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,110, underpants ,35865,904591,852,403,391.2734375,807.59375,411.7734375,902.671875,8,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,35915,904642,852,403,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,35965,904691,910,191,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,56, months ,36015,904741,907,248,231.2734375,877.6640625,251.7734375,941.6953125,4,13,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,36065,904791,854,410,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,36114,904841,846,423,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,36164,904891,846,397,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,56, months ,36215,904941,890,246,231.2734375,877.6640625,251.7734375,941.6953125,4,13,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,84, save ,36264,904991,886,327,311.2734375,879.703125,331.7734375,922.7265625,6,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,36315,905041,886,327,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,36364,905090,857,395,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,36415,905141,870,310,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,39," decided, ",36465,905191,909,210,191.2734375,903.703125,211.7734375,976.7578125,3,12,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,36515,905241,909,210,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,36565,905291,876,362,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,110, underpants ,36615,905341,856,399,391.2734375,807.59375,411.7734375,902.671875,8,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,36665,905391,899,220,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,36715,905441,912,187,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,36765,905492,900,292,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,99," smartphone, ",36815,905542,875,366,351.2734375,863.6875,371.7734375,968.75,7,12,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,36865,905592,859,392,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,36915,905641,866,335,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,36965,905691,920,176,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,56, months ,37015,905741,919,238,231.2734375,877.6640625,251.7734375,941.6953125,4,13,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,37065,905791,872,386,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,110, underpants ,37115,905841,863,400,391.2734375,807.59375,411.7734375,902.671875,8,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,37164,905891,891,251,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,24, paint ,37215,905941,918,165,151.2734375,888.3515625,171.7734375,932.390625,2,11,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,37265,905992,928,232,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,110, underpants ,37315,906041,876,401,391.2734375,807.59375,411.7734375,902.671875,8,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,121, (British). ,37365,906091,854,443,431.2734375,824.3046875,451.7734375,896.3046875,9,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,37415,906141,854,443,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,37465,906192,915,218,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,37515,906241,919,231,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,37565,906291,895,359,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,37615,906341,856,459,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,37665,906391,854,434,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,37714,906441,898,291,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,37765,906492,908,279,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,37814,906541,908,279,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,37865,906591,908,279,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,37915,906641,908,279,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,37965,906691,908,279,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,38015,906741,908,279,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,38065,906791,908,279,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,38114,906841,907,295,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,38164,906891,867,342,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,38215,906941,811,418,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,38264,906991,753,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,38315,907042,753,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,38364,907091,753,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,120, music ,38415,907141,778,448,431.2734375,772.296875,451.7734375,824.3046875,9,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,55, ten ,38465,907191,868,243,231.2734375,847.640625,251.7734375,877.6640625,4,12,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,38514,907241,868,243,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,38565,907291,870,278,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,38614,907341,784,476,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,38664,907391,760,507,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,38715,907441,759,457,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,38765,907491,801,302,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,69, Minister ,38815,907541,811,289,271.2734375,752.3046875,291.7734375,820.3203125,5,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,38865,907591,775,476,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,38914,907641,775,476,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,38965,907691,775,476,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,39015,907742,756,431,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,69, Minister ,39064,907791,804,277,271.2734375,752.3046875,291.7734375,820.3203125,5,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,39114,907841,804,277,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,39165,907891,754,482,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,39214,907941,754,482,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,39265,907991,740,430,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,39315,908041,765,251,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,39365,908091,782,193,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,39415,908141,776,291,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,39464,908190,746,396,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,119, Bowie ,39515,908242,730,433,431.2734375,718.265625,451.7734375,772.296875,9,7,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,69, Minister ,39565,908291,761,273,271.2734375,752.3046875,291.7734375,820.3203125,5,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,39615,908341,761,273,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,39665,908391,794,194,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,95, to ,39715,908442,755,370,351.2734375,752.609375,371.7734375,772.625,7,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,39764,908491,734,413,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,94, had ,39815,908541,736,367,351.2734375,717.5703125,371.7734375,752.609375,7,7,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,39865,908591,771,250,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,39915,908641,775,268,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,39965,908691,756,368,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,119, Bowie ,40015,908741,725,445,431.2734375,718.265625,451.7734375,772.296875,9,7,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,40065,908791,723,442,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,53, products ,40115,908841,771,240,231.2734375,747.59375,251.7734375,821.6328125,4,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,40164,908891,792,210,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,40215,908941,771,310,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,108, (Italian); ,40265,908992,738,396,391.2734375,709.5546875,411.7734375,779.578125,8,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,108, (Italian); ,40316,909042,734,397,391.2734375,709.5546875,411.7734375,779.578125,8,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,53, products ,40365,909091,769,242,231.2734375,747.59375,251.7734375,821.6328125,4,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,40414,909141,769,242,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,40465,909191,787,249,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,108, (Italian); ,40515,909241,739,399,391.2734375,709.5546875,411.7734375,779.578125,8,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,108, (Italian); ,40564,909291,730,401,391.2734375,709.5546875,411.7734375,779.578125,8,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,40615,909341,730,401,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,40665,909391,780,208,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,40715,909441,800,191,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,40764,909490,773,319,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,119, Bowie ,40815,909542,727,445,431.2734375,718.265625,451.7734375,772.296875,9,7,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,40865,909591,725,434,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,40915,909641,776,257,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,53, products ,40964,909691,796,234,231.2734375,747.59375,251.7734375,821.6328125,4,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,41014,909741,796,234,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,41065,909791,731,451,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,119, Bowie ,41115,909841,728,448,431.2734375,718.265625,451.7734375,772.296875,9,7,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,81, French ,41165,909891,763,314,311.2734375,724.625,331.7734375,785.6484375,6,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,41215,909941,763,314,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,41264,909991,762,369,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,41315,910041,729,464,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,41365,910092,731,427,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,81, French ,41415,910141,760,323,311.2734375,724.625,331.7734375,785.6484375,6,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,69, Minister ,41465,910191,787,273,271.2734375,752.3046875,291.7734375,820.3203125,5,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,41515,910241,787,273,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,41565,910291,725,496,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,41615,910341,723,492,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,81, French ,41665,910391,768,322,311.2734375,724.625,331.7734375,785.6484375,6,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,41715,910441,768,322,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,41765,910492,784,320,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,41815,910541,739,459,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,41865,910591,731,474,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,81, French ,41915,910642,769,322,311.2734375,724.625,331.7734375,785.6484375,6,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,53, products ,41965,910692,798,248,231.2734375,747.59375,251.7734375,821.6328125,4,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,42015,910742,798,248,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,42064,910791,739,461,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,42115,910841,733,471,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,42164,910890,733,446,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,53, products ,42215,910941,795,237,231.2734375,747.59375,251.7734375,821.6328125,4,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,42265,910992,799,303,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,42315,911041,763,427,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,42365,911091,742,484,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,42415,911141,733,474,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,69, Minister ,42465,911191,784,288,271.2734375,752.3046875,291.7734375,820.3203125,5,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,42515,911241,784,288,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,119, Bowie ,42565,911291,752,443,431.2734375,718.265625,451.7734375,772.296875,9,7,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,42615,911341,752,443,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,42665,911392,730,459,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,81, French ,42715,911441,768,326,311.2734375,724.625,331.7734375,785.6484375,6,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,36, perfect. ,42765,911491,812,206,191.2734375,755.6328125,211.7734375,820.6640625,3,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,42815,911542,812,206,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,108, (Italian); ,42865,911591,760,402,391.2734375,709.5546875,411.7734375,779.578125,8,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,42915,911641,760,402,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,95, to ,42965,911691,760,356,351.2734375,752.609375,371.7734375,772.625,7,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,43015,911742,760,356,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,82, products ,43064,911791,789,316,311.2734375,785.6484375,331.7734375,859.6875,6,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,43115,911841,789,316,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,43164,911890,745,448,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,43215,911942,742,411,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,43265,911991,779,280,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,43315,912041,808,227,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,43365,912091,790,319,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,43415,912141,751,423,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,43465,912192,751,384,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,81, French ,43515,912241,769,327,311.2734375,724.625,331.7734375,785.6484375,6,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,43564,912291,772,381,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,43615,912341,748,453,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,43665,912391,730,486,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,43715,912441,730,486,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,43764,912491,779,282,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,22, unsourced ,43815,912542,824,167,151.2734375,763.2734375,171.7734375,852.3359375,2,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,108, (Italian); ,43864,912590,771,398,391.2734375,709.5546875,411.7734375,779.578125,8,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,43915,912642,771,398,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,43965,912691,745,429,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,95, to ,44015,912742,765,357,351.2734375,752.609375,371.7734375,772.625,7,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,82, products ,44065,912792,790,313,311.2734375,785.6484375,331.7734375,859.6875,6,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,44115,912841,790,313,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,44165,912891,749,451,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,119, Bowie ,44215,912941,748,446,431.2734375,718.265625,451.7734375,772.296875,9,7,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,44264,912991,798,268,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,53, products ,44316,913042,813,244,231.2734375,747.59375,251.7734375,821.6328125,4,10,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,108, (Italian); ,44365,913091,775,398,391.2734375,709.5546875,411.7734375,779.578125,8,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,44415,913141,775,398,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,44465,913191,756,441,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,44515,913241,787,311,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,44565,913292,820,250,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,44615,913341,783,429,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,44665,913391,753,511,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,44714,913441,740,520,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,44764,913490,759,441,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,44815,913541,819,254,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,44865,913591,828,244,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,44915,913642,778,420,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,44964,913691,762,454,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,108, (Italian); ,45015,913741,767,408,391.2734375,709.5546875,411.7734375,779.578125,8,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,69, Minister ,45064,913791,806,279,271.2734375,752.3046875,291.7734375,820.3203125,5,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,69, Minister ,45115,913841,812,284,271.2734375,752.3046875,291.7734375,820.3203125,5,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,45165,913892,761,452,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,45215,913941,752,471,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,45265,913992,765,391,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,45315,914042,796,293,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,45364,914091,804,342,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,45415,914142,764,474,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,45465,914191,764,474,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,45515,914241,736,518,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,45565,914291,788,340,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,45615,914341,806,301,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,45664,914391,792,400,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,45715,914441,792,400,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,45765,914491,745,490,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,108, (Italian); ,45816,914542,774,396,391.2734375,709.5546875,411.7734375,779.578125,8,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,45864,914590,792,372,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,120, music ,45915,914641,774,449,431.2734375,772.296875,451.7734375,824.3046875,9,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,45965,914692,774,449,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,46015,914741,774,449,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,119, Bowie ,46064,914791,762,443,431.2734375,718.265625,451.7734375,772.296875,9,7,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,46114,914841,762,443,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,46165,914891,763,487,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,46215,914941,763,487,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,46265,914991,763,487,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,46315,915041,754,478,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,46365,915091,777,418,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,46414,915141,770,476,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,46465,915191,770,476,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,46515,915241,770,476,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,46565,915291,768,432,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,109, his ,46615,915341,780,393,391.2734375,779.578125,411.7734375,807.59375,8,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,46665,915391,776,465,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,46715,915441,776,465,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,46765,915491,776,465,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,46815,915542,753,491,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,46865,915591,804,332,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,82, products ,46915,915641,812,316,311.2734375,785.6484375,331.7734375,859.6875,6,9,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,120, music ,46965,915692,783,437,431.2734375,772.296875,451.7734375,824.3046875,9,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,47015,915741,783,437,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,108, (Italian); ,47065,915791,776,408,391.2734375,709.5546875,411.7734375,779.578125,8,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,47115,915841,776,408,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,47165,915891,801,372,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,47215,915942,778,451,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,47264,915990,765,484,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,47315,916041,761,466,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,47365,916091,803,342,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,47415,916142,806,351,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,120, music ,47465,916192,782,433,431.2734375,772.296875,451.7734375,824.3046875,9,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,120, music ,47515,916241,782,433,431.2734375,772.296875,451.7734375,824.3046875,9,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,120, music ,47565,916292,782,433,431.2734375,772.296875,451.7734375,824.3046875,9,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,120, music ,47616,916342,782,433,431.2734375,772.296875,451.7734375,824.3046875,9,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,120, music ,47666,916392,782,433,431.2734375,772.296875,451.7734375,824.3046875,9,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,120, music ,47715,916441,782,433,431.2734375,772.296875,451.7734375,824.3046875,9,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,120, music ,47765,916492,782,433,431.2734375,772.296875,451.7734375,824.3046875,9,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,120, music ,47815,916542,780,439,431.2734375,772.296875,451.7734375,824.3046875,9,8,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,47865,916591,780,439,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,47915,916641,749,478,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,47965,916691,724,504,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48015,916741,717,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48065,916791,717,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48114,916841,717,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48165,916892,717,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48215,916942,717,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48265,916991,717,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48315,917041,717,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48365,917092,725,516,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48415,917141,728,512,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48464,917191,728,512,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48514,917241,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48565,917291,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48615,917341,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48664,917390,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48715,917441,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48765,917492,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48815,917541,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48865,917591,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48915,917641,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,48965,917691,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,49015,917741,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,49065,917792,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,49115,917842,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,49164,917891,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,49215,917942,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,49265,917991,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,49315,918041,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,49365,918091,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,49415,918141,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,49465,918191,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,49517,918243,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,1,6,7,-1,999,49564,918290,729,519,,,,,,,They are 96.9% made in France,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
