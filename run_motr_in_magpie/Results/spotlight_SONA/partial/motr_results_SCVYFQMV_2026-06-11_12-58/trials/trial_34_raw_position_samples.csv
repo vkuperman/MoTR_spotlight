@@ -1,0 +1,286 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,2004,1140245,325,290,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,2054,1140295,292,217,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,2104,1140345,291,200,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,2154,1140395,294,199,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,2204,1140445,301,198,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,2254,1140495,309,184,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,2304,1140545,328,158,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,2354,1140596,339,144,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,2404,1140645,357,128,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,2455,1140696,368,122,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,2506,1140747,371,121,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,2555,1140797,371,121,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,2604,1140845,373,124,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,2654,1140895,384,128,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,2704,1140945,421,125,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,3, probably ,2754,1140996,463,120,102.375,450.4296875,122.875,524.484375,1,3,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,2804,1141046,493,121,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,2855,1141096,509,123,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,2904,1141146,509,123,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,2956,1141197,509,123,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,3004,1141245,509,123,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,3055,1141297,509,123,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,4, be ,3104,1141346,533,117,102.375,524.484375,122.875,549.5078125,1,4,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,3154,1141395,587,106,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,3204,1141446,703,102,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,7, because ,3254,1141496,731,104,102.375,679.578125,122.875,752.6328125,1,7,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,7, because ,3304,1141546,751,108,102.375,679.578125,122.875,752.6328125,1,7,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,8, drivers ,3354,1141596,787,109,102.375,752.6328125,122.875,811.6484375,1,8,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,9, would ,3404,1141646,827,108,102.375,811.6484375,122.875,863.6796875,1,9,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,10, be ,3454,1141696,876,109,102.375,863.6796875,122.875,888.703125,1,10,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,11, more ,3505,1141747,891,112,102.375,888.703125,122.875,934.71875,1,11,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,11, more ,3556,1141797,891,112,102.375,888.703125,122.875,934.71875,1,11,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,11, more ,3606,1141848,891,112,102.375,888.703125,122.875,934.71875,1,11,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,11, more ,3657,1141899,891,112,102.375,888.703125,122.875,934.71875,1,11,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,11, more ,3704,1141946,916,112,102.375,888.703125,122.875,934.71875,1,11,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,12," alert, ",3754,1141996,974,115,102.375,934.71875,122.875,979.7421875,1,12,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,14, says. ,3804,1142046,1006,115,102.375,1004.765625,122.875,1051.78125,1,14,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,14, says. ,3854,1142096,1021,115,102.375,1004.765625,122.875,1051.78125,1,14,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,14, says. ,3904,1142146,1025,115,102.375,1004.765625,122.875,1051.78125,1,14,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,14, says. ,3956,1142197,1026,115,102.375,1004.765625,122.875,1051.78125,1,14,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,14, says. ,4006,1142247,1026,115,102.375,1004.765625,122.875,1051.78125,1,14,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,14, says. ,4054,1142296,1019,115,102.375,1004.765625,122.875,1051.78125,1,14,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,4105,1142346,879,121,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,4154,1142396,583,124,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,4204,1142445,432,133,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,4254,1142496,386,133,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,4304,1142546,373,129,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,4354,1142595,368,128,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,4404,1142646,365,133,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,16, could ,4454,1142696,359,147,142.375,346.375,162.875,394.4140625,2,1,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,16, could ,4504,1142746,354,155,142.375,346.375,162.875,394.4140625,2,1,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,16, could ,4554,1142796,352,156,142.375,346.375,162.875,394.4140625,2,1,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,16, could ,4604,1142846,352,156,142.375,346.375,162.875,394.4140625,2,1,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,16, could ,4654,1142896,374,152,142.375,346.375,162.875,394.4140625,2,1,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,17, mean ,4704,1142946,438,150,142.375,394.4140625,162.875,444.4453125,2,2,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,19, end ,4754,1142996,492,150,142.375,474.46875,162.875,509.5078125,2,4,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,20, of ,4804,1143046,526,151,142.375,509.5078125,162.875,529.5234375,2,5,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,21, rush ,4854,1143096,553,153,142.375,529.5234375,162.875,569.546875,2,6,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,22, hour ,4904,1143146,572,153,142.375,569.546875,162.875,610.578125,2,7,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,22, hour ,4954,1143196,586,151,142.375,569.546875,162.875,610.578125,2,7,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,22, hour ,5005,1143247,586,151,142.375,569.546875,162.875,610.578125,2,7,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,22, hour ,5056,1143297,586,151,142.375,569.546875,162.875,610.578125,2,7,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,22, hour ,5106,1143347,586,151,142.375,569.546875,162.875,610.578125,2,7,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,22, hour ,5154,1143396,608,151,142.375,569.546875,162.875,610.578125,2,7,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,24, people ,5204,1143446,678,149,142.375,634.59375,162.875,693.6484375,2,9,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,25, staggered ,5254,1143496,732,149,142.375,693.6484375,162.875,778.7109375,2,10,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,25, staggered ,5304,1143546,759,150,142.375,693.6484375,162.875,778.7109375,2,10,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,25, staggered ,5355,1143597,773,152,142.375,693.6484375,162.875,778.7109375,2,10,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,25, staggered ,5406,1143647,773,152,142.375,693.6484375,162.875,778.7109375,2,10,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,25, staggered ,5455,1143697,773,152,142.375,693.6484375,162.875,778.7109375,2,10,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,25, staggered ,5506,1143748,773,152,142.375,693.6484375,162.875,778.7109375,2,10,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,26, their ,5554,1143796,800,152,142.375,778.7109375,162.875,818.734375,2,11,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,28, and ,5604,1143846,869,153,142.375,861.7421875,162.875,896.78125,2,13,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,29, school-run ,5654,1143896,913,155,142.375,896.78125,162.875,985.828125,2,14,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,29, school-run ,5704,1143945,929,157,142.375,896.78125,162.875,985.828125,2,14,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,29, school-run ,5754,1143996,939,159,142.375,896.78125,162.875,985.828125,2,14,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,5804,1144046,954,161,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,29, school-run ,5854,1144095,973,160,142.375,896.78125,162.875,985.828125,2,14,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,30, times. ,5904,1144146,998,159,142.375,985.828125,162.875,1038.34375,2,15,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,30, times. ,5954,1144196,1016,157,142.375,985.828125,162.875,1038.34375,2,15,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,30, times. ,6004,1144246,1026,157,142.375,985.828125,162.875,1038.34375,2,15,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,30, times. ,6055,1144296,1029,157,142.375,985.828125,162.875,1038.34375,2,15,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,30, times. ,6105,1144346,1029,157,142.375,985.828125,162.875,1038.34375,2,15,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,30, times. ,6154,1144396,1011,152,142.375,985.828125,162.875,1038.34375,2,15,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,6204,1144446,948,147,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,25, staggered ,6254,1144496,698,156,142.375,693.6484375,162.875,778.7109375,2,10,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,6304,1144546,583,166,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,6354,1144596,513,172,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,6404,1144646,495,173,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,6454,1144695,475,174,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,6504,1144746,459,179,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,35, the ,6554,1144795,431,184,182.375,406.3984375,202.875,436.421875,3,3,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,35, the ,6604,1144846,409,188,182.375,406.3984375,202.875,436.421875,3,3,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,33, start ,6654,1144896,384,197,182.375,346.375,202.875,386.3828125,3,1,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,33, start ,6704,1144946,376,200,182.375,346.375,202.875,386.3828125,3,1,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,33, start ,6754,1144996,375,200,182.375,346.375,202.875,386.3828125,3,1,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,33, start ,6805,1145046,375,200,182.375,346.375,202.875,386.3828125,3,1,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,34, to ,6854,1145096,389,195,182.375,386.3828125,202.875,406.3984375,3,2,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,36, day ,6904,1145146,461,185,182.375,436.421875,202.875,470.4453125,3,4,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,38," many, ",6954,1145196,517,185,182.375,496.453125,202.875,549.1484375,3,6,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,39, says ,7005,1145246,560,186,182.375,549.1484375,202.875,591.1640625,3,7,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,39, says ,7054,1145296,588,188,182.375,549.1484375,202.875,591.1640625,3,7,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,40," Kelley, ",7104,1145346,606,188,182.375,591.1640625,202.875,648.8671875,3,8,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,40," Kelley, ",7154,1145396,630,188,182.375,591.1640625,202.875,648.8671875,3,8,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,42, something ,7204,1145446,682,187,182.375,672.8671875,202.875,760.921875,3,10,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,7254,1145496,757,182,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,7304,1145546,830,180,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,7354,1145595,864,179,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,7405,1145647,866,178,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,7454,1145696,866,178,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,7505,1145747,866,178,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,7556,1145797,866,178,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,7604,1145846,868,178,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,7654,1145896,891,182,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,46, all ,7704,1145946,927,189,182.375,907.03125,202.875,930.046875,3,14,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,47," people, ",7754,1145996,949,193,182.375,930.046875,202.875,994.1015625,3,15,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,47," people, ",7804,1146046,967,196,182.375,930.046875,202.875,994.1015625,3,15,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,47," people, ",7854,1146096,987,199,182.375,930.046875,202.875,994.1015625,3,15,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,7904,1146146,1009,204,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,7954,1146196,1026,207,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,8004,1146246,1040,206,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,8054,1146296,1043,202,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,48, particularly ,8104,1146346,1035,197,182.375,994.1015625,202.875,1081.1328125,3,16,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,8154,1146396,926,175,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,8204,1146446,665,167,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,35, the ,8254,1146496,436,184,182.375,406.3984375,202.875,436.421875,3,3,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,33, start ,8304,1146546,370,190,182.375,346.375,202.875,386.3828125,3,1,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,33, start ,8354,1146596,349,193,182.375,346.375,202.875,386.3828125,3,1,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,8404,1146645,337,196,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,8454,1146696,323,203,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,8505,1146746,315,213,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,49, families. ,8554,1146796,348,236,222.375,346.375,242.875,417.390625,4,1,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,8604,1146846,400,243,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,8654,1146896,417,242,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,50, Parents ,8704,1146946,420,240,222.375,417.390625,242.875,484.4296875,4,2,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,50, Parents ,8754,1146995,422,239,222.375,417.390625,242.875,484.4296875,4,2,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,50, Parents ,8804,1147046,431,236,222.375,417.390625,242.875,484.4296875,4,2,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,50, Parents ,8854,1147096,449,230,222.375,417.390625,242.875,484.4296875,4,2,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,50, Parents ,8904,1147146,468,229,222.375,417.390625,242.875,484.4296875,4,2,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,51, go ,8954,1147196,494,231,222.375,484.4296875,242.875,509.453125,4,3,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,53, try ,9004,1147246,545,232,222.375,544.4921875,242.875,569.4921875,4,5,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,54, to ,9054,1147296,589,230,222.375,569.4921875,242.875,589.5078125,4,6,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,54, to ,9106,1147348,589,230,222.375,569.4921875,242.875,589.5078125,4,6,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,54, to ,9155,1147397,589,230,222.375,569.4921875,242.875,589.5078125,4,6,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,54, to ,9206,1147448,589,230,222.375,569.4921875,242.875,589.5078125,4,6,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,54, to ,9256,1147498,589,230,222.375,569.4921875,242.875,589.5078125,4,6,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,55, wake ,9304,1147546,612,229,222.375,589.5078125,242.875,636.53125,4,7,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,57, teenagers ,9354,1147596,723,224,222.375,661.5546875,242.875,746.6171875,4,9,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,9405,1147647,790,224,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,59, are ,9454,1147696,811,225,222.375,784.640625,242.875,815.6640625,4,11,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,59, are ,9505,1147747,811,225,222.375,784.640625,242.875,815.6640625,4,11,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,59, are ,9556,1147797,811,225,222.375,784.640625,242.875,815.6640625,4,11,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,59, are ,9606,1147848,811,225,222.375,784.640625,242.875,815.6640625,4,11,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,59, are ,9656,1147898,813,225,222.375,784.640625,242.875,815.6640625,4,11,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,60, waking ,9704,1147946,842,227,222.375,815.6640625,242.875,876.6953125,4,12,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,61, up ,9755,1147996,877,229,222.375,876.6953125,242.875,901.71875,4,13,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,62, three ,9804,1148046,902,229,222.375,901.71875,242.875,947.75,4,14,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,62, three ,9854,1148096,924,229,222.375,901.71875,242.875,947.75,4,14,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,63, hours ,9904,1148146,948,229,222.375,947.75,242.875,997.78125,4,15,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,63, hours ,9954,1148196,968,226,222.375,947.75,242.875,997.78125,4,15,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,63, hours ,10004,1148246,995,226,222.375,947.75,242.875,997.78125,4,15,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,64, too ,10054,1148296,1025,225,222.375,997.78125,242.875,1027.8046875,4,16,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,65, early. ,10104,1148346,1048,225,222.375,1027.8046875,242.875,1075.5,4,17,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,65, early. ,10154,1148396,1062,230,222.375,1027.8046875,242.875,1075.5,4,17,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,65, early. ,10205,1148446,1064,231,222.375,1027.8046875,242.875,1075.5,4,17,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,65, early. ,10254,1148496,1057,231,222.375,1027.8046875,242.875,1075.5,4,17,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,64, too ,10304,1148546,1002,231,222.375,997.78125,242.875,1027.8046875,4,16,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,10354,1148596,903,230,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,10404,1148646,674,220,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,53, try ,10454,1148695,559,233,222.375,544.4921875,242.875,569.4921875,4,5,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,10503,1148745,516,241,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,10554,1148795,466,248,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,10604,1148846,426,254,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,10654,1148896,384,259,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,10704,1148945,357,264,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,67, creates ,10755,1148996,348,268,262.375,346.375,282.875,410.40625,5,1,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,10804,1149046,346,276,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,10854,1149096,347,283,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,10903,1149145,358,284,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,10954,1149195,379,281,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,68, tensions ,11004,1149246,418,278,262.375,410.40625,282.875,482.453125,5,2,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,68, tensions ,11054,1149296,460,274,262.375,410.40625,282.875,482.453125,5,2,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,69, for ,11104,1149346,498,272,262.375,482.453125,282.875,508.4609375,5,3,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,70, everybody.” ,11154,1149396,534,272,262.375,508.4609375,282.875,606.1796875,5,4,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,70, everybody.” ,11204,1149446,575,273,262.375,508.4609375,282.875,606.1796875,5,4,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,71," So, ",11254,1149496,626,278,262.375,606.1796875,282.875,638.203125,5,5,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,11304,1149546,659,284,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,11355,1149597,659,284,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,11405,1149647,659,284,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,11455,1149697,659,284,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,11504,1149746,666,284,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,74, does ,11554,1149796,731,279,262.375,720.234375,282.875,764.2734375,5,8,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,75, Kelley ,11604,1149846,799,272,262.375,764.2734375,282.875,818.3046875,5,9,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,76, start ,11654,1149896,834,270,262.375,818.3046875,282.875,858.3125,5,10,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,76, start ,11704,1149946,853,272,262.375,818.3046875,282.875,858.3125,5,10,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,77, work? ,11754,1149996,871,273,262.375,858.3125,282.875,911.328125,5,11,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,77, work? ,11804,1150046,899,273,262.375,858.3125,282.875,911.328125,5,11,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,79, am ,11854,1150096,932,273,262.375,927.328125,282.875,957.3359375,5,13,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,80, 67 ,11904,1150146,971,276,262.375,957.3359375,282.875,982.359375,5,14,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,81, so ,11954,1150196,998,277,262.375,982.359375,282.875,1006.375,5,15,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,82, that ,12004,1150246,1010,277,262.375,1006.375,282.875,1036.3984375,5,16,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,82, that ,12054,1150296,1013,276,262.375,1006.375,282.875,1036.3984375,5,16,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,82, that ,12104,1150346,1010,276,262.375,1006.375,282.875,1036.3984375,5,16,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,12154,1150396,991,271,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,75, Kelley ,12204,1150446,798,268,262.375,764.2734375,282.875,818.3046875,5,9,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,12254,1150496,645,269,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,12304,1150546,482,288,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,12354,1150596,421,293,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,12404,1150646,391,294,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,12454,1150696,366,296,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,12504,1150746,352,301,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,12554,1150796,343,307,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,12604,1150846,341,309,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,83, means ,12654,1150896,347,311,302.375,346.375,322.875,405.40625,6,1,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,83, means ,12704,1150946,387,319,302.375,346.375,322.875,405.40625,6,1,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,12754,1150996,429,326,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,12804,1151046,467,326,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,12854,1151096,518,326,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,87, 10-year-old ,12904,1151146,559,320,302.375,481.4375,322.875,577.484375,6,5,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,87, 10-year-old ,12954,1151196,568,318,302.375,481.4375,322.875,577.484375,6,5,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,87, 10-year-old ,13005,1151247,568,318,302.375,481.4375,322.875,577.484375,6,5,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,87, 10-year-old ,13056,1151298,568,318,302.375,481.4375,322.875,577.484375,6,5,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,87, 10-year-old ,13106,1151348,568,318,302.375,481.4375,322.875,577.484375,6,5,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,88, and ,13155,1151396,578,317,302.375,577.484375,322.875,612.5234375,6,6,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,91, up ,13204,1151446,654,311,302.375,652.5546875,322.875,677.578125,6,9,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,93, after ,13254,1151496,712,310,302.375,710.59375,322.875,751.6171875,6,11,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,93, after ,13304,1151545,746,308,302.375,710.59375,322.875,751.6171875,6,11,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,94, six. ,13354,1151596,766,308,302.375,751.6171875,322.875,783.625,6,12,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,94, six. ,13404,1151646,773,311,302.375,751.6171875,322.875,783.625,6,12,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,94, six. ,13455,1151697,773,311,302.375,751.6171875,322.875,783.625,6,12,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,94, six. ,13506,1151748,773,311,302.375,751.6171875,322.875,783.625,6,12,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,94, six. ,13556,1151798,773,311,302.375,751.6171875,322.875,783.625,6,12,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,96, wake ,13604,1151846,798,311,302.375,793.6328125,322.875,840.65625,6,14,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,97, naturally.” ,13654,1151896,873,316,302.375,840.65625,322.875,922.875,6,15,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,97, naturally.” ,13704,1151946,918,316,302.375,840.65625,322.875,922.875,6,15,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,98," And, ",13754,1151996,933,313,302.375,922.875,322.875,964.4140625,6,16,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,98," And, ",13804,1152046,941,313,302.375,922.875,322.875,964.4140625,6,16,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,98," And, ",13854,1152096,950,311,302.375,922.875,322.875,964.4140625,6,16,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,99," yes, ",13904,1152146,965,309,302.375,964.4140625,322.875,1002.4296875,6,17,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,99," yes, ",13954,1152196,987,312,302.375,964.4140625,322.875,1002.4296875,6,17,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,14004,1152246,1005,320,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,14054,1152296,1024,324,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,14104,1152346,1033,323,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,14154,1152396,1036,323,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,99," yes, ",14204,1152446,997,316,302.375,964.4140625,322.875,1002.4296875,6,17,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,14254,1152496,902,311,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,14304,1152546,544,338,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,104, the ,14354,1152596,419,355,342.375,389.3984375,362.875,419.421875,7,2,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,103, finds ,14404,1152646,376,358,342.375,346.375,362.875,389.3984375,7,1,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,103, finds ,14454,1152696,357,357,342.375,346.375,362.875,389.3984375,7,1,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,103, finds ,14504,1152746,347,354,342.375,346.375,362.875,389.3984375,7,1,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,14553,1152795,333,354,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,14603,1152845,325,353,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,14653,1152895,335,350,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,104, the ,14704,1152946,396,348,342.375,389.3984375,362.875,419.421875,7,2,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,106, of ,14754,1152996,475,348,342.375,459.4296875,362.875,479.4453125,7,4,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,108, working ,14804,1153046,569,348,342.375,507.4609375,362.875,574.4921875,7,6,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,14854,1153096,643,341,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,14904,1153146,698,340,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,14954,1153196,719,342,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,15005,1153247,722,343,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,15055,1153297,722,343,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,15105,1153347,722,343,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,15155,1153397,722,343,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,15204,1153446,722,343,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,112, now ,15254,1153496,746,344,342.375,711.5703125,362.875,749.59375,7,10,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,114, he ,15304,1153546,794,345,342.375,789.6328125,362.875,814.65625,7,12,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,115, did ,15354,1153596,832,345,342.375,814.65625,362.875,843.6796875,7,13,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,116, when ,15404,1153646,856,346,342.375,843.6796875,362.875,891.71875,7,14,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,116, when ,15454,1153696,881,346,342.375,843.6796875,362.875,891.71875,7,14,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,117, he ,15504,1153746,914,348,342.375,891.71875,362.875,916.7421875,7,15,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,118, was ,15554,1153796,942,350,342.375,916.7421875,362.875,953.7578125,7,16,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,119, younger. ,15604,1153846,958,349,342.375,953.7578125,362.875,1022.828125,7,17,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,119, younger. ,15654,1153896,967,348,342.375,953.7578125,362.875,1022.828125,7,17,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,119, younger. ,15704,1153946,962,351,342.375,953.7578125,362.875,1022.828125,7,17,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,15754,1153996,951,356,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,15804,1154046,951,356,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,15853,1154095,951,356,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,15904,1154146,951,356,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,15954,1154196,951,356,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,16004,1154246,951,356,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,16054,1154296,951,356,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,16104,1154346,951,356,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,16154,1154396,951,356,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,6,33,34,-1,999,16203,1154445,951,356,,,,,,,Waking up their teenage kids,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
