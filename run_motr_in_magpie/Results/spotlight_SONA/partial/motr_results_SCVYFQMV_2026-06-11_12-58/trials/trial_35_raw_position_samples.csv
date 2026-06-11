@@ -1,0 +1,408 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,1871,1161046,626,375,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,1921,1161096,615,309,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,1972,1161147,615,309,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,2022,1161197,615,309,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,2071,1161246,615,309,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,2122,1161297,530,212,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,2, nasal ,2171,1161346,388,112,102.375,362.3984375,122.875,410.4375,1,2,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,2221,1161396,332,87,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,2271,1161446,324,86,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,2321,1161497,324,86,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,2372,1161547,324,86,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,2422,1161597,324,85,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,2471,1161646,338,93,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,2, nasal ,2521,1161697,367,110,102.375,362.3984375,122.875,410.4375,1,2,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,2, nasal ,2571,1161746,379,116,102.375,362.3984375,122.875,410.4375,1,2,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,2, nasal ,2620,1161796,379,117,102.375,362.3984375,122.875,410.4375,1,2,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,2, nasal ,2672,1161847,380,117,102.375,362.3984375,122.875,410.4375,1,2,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,2, nasal ,2721,1161896,391,116,102.375,362.3984375,122.875,410.4375,1,2,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,3, spray ,2771,1161947,429,114,102.375,410.4375,122.875,459.4609375,1,3,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,4, laced ,2821,1161996,468,113,102.375,459.4609375,122.875,507.5,1,4,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,4, laced ,2871,1162046,504,113,102.375,459.4609375,122.875,507.5,1,4,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,6, the ,2921,1162096,550,116,102.375,544.515625,122.875,574.5390625,1,6,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,6, the ,2971,1162146,569,117,102.375,544.515625,122.875,574.5390625,1,6,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,6, the ,3022,1162197,569,117,102.375,544.515625,122.875,574.5390625,1,6,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,6, the ,3071,1162247,569,117,102.375,544.515625,122.875,574.5390625,1,6,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,6, the ,3123,1162298,569,117,102.375,544.515625,122.875,574.5390625,1,6,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,7, ‘Love ,3173,1162348,575,117,102.375,574.5390625,122.875,622.578125,1,7,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,8, hormone’ ,3221,1162397,644,116,102.375,622.578125,122.875,701.9609375,1,8,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,8, hormone’ ,3271,1162446,700,113,102.375,622.578125,122.875,701.9609375,1,8,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,9, oxytocin ,3321,1162496,726,111,102.375,701.9609375,122.875,773,1,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,9, oxytocin ,3371,1162547,736,111,102.375,701.9609375,122.875,773,1,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,9, oxytocin ,3422,1162597,736,110,102.375,701.9609375,122.875,773,1,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,9, oxytocin ,3472,1162647,736,110,102.375,701.9609375,122.875,773,1,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,9, oxytocin ,3522,1162697,736,110,102.375,701.9609375,122.875,773,1,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,9, oxytocin ,3572,1162748,736,110,102.375,701.9609375,122.875,773,1,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,9, oxytocin ,3621,1162796,754,112,102.375,701.9609375,122.875,773,1,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,10, could ,3671,1162846,795,113,102.375,773,122.875,821.0390625,1,10,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,10, could ,3721,1162896,813,113,102.375,773,122.875,821.0390625,1,10,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,11, help ,3771,1162946,831,113,102.375,821.0390625,122.875,860.078125,1,11,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,11, help ,3821,1162996,860,113,102.375,821.0390625,122.875,860.078125,1,11,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,12, children ,3871,1163046,908,110,102.375,860.078125,122.875,928.1171875,1,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,13, with ,3921,1163097,950,108,102.375,928.1171875,122.875,965.1328125,1,13,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,14, autism ,3971,1163146,976,107,102.375,965.1328125,122.875,1023.15625,1,14,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,4022,1163197,992,103,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,4071,1163246,1003,100,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,4122,1163297,1014,99,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,4171,1163347,1021,99,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,4221,1163397,1027,99,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,15, learn ,4271,1163446,1040,107,102.375,1023.15625,122.875,1068.1875,1,15,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,15, learn ,4321,1163496,1050,112,102.375,1023.15625,122.875,1068.1875,1,15,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,15, learn ,4372,1163547,1051,112,102.375,1023.15625,122.875,1068.1875,1,15,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,15, learn ,4421,1163596,1038,112,102.375,1023.15625,122.875,1068.1875,1,15,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,4471,1163646,971,106,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,4521,1163696,671,89,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,5, with ,4571,1163747,531,110,102.375,507.5,122.875,544.515625,1,5,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,4621,1163796,495,121,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,4671,1163846,467,129,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,4721,1163897,449,133,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,4771,1163947,430,140,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,18, social ,4821,1163996,407,145,142.375,405.4296875,162.875,456.453125,2,2,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,17, handle ,4871,1164046,386,149,142.375,346.375,162.875,405.4296875,2,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,17, handle ,4921,1164096,376,150,142.375,346.375,162.875,405.4296875,2,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,17, handle ,4971,1164146,374,150,142.375,346.375,162.875,405.4296875,2,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,17, handle ,5022,1164197,374,150,142.375,346.375,162.875,405.4296875,2,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,17, handle ,5071,1164247,394,150,142.375,346.375,162.875,405.4296875,2,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,19, situations ,5122,1164297,462,151,142.375,456.453125,162.875,537.5,2,3,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,19, situations ,5171,1164346,517,151,142.375,456.453125,162.875,537.5,2,3,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,20," better, ",5221,1164396,573,151,142.375,537.5,162.875,592.546875,2,4,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,22, researchers ,5271,1164447,630,152,142.375,622.5546875,162.875,722.59375,2,6,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,22, researchers ,5321,1164496,680,156,142.375,622.5546875,162.875,722.59375,2,6,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,22, researchers ,5371,1164546,693,157,142.375,622.5546875,162.875,722.59375,2,6,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,22, researchers ,5421,1164597,693,157,142.375,622.5546875,162.875,722.59375,2,6,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,22, researchers ,5472,1164648,693,157,142.375,622.5546875,162.875,722.59375,2,6,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,22, researchers ,5522,1164697,693,157,142.375,622.5546875,162.875,722.59375,2,6,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,22, researchers ,5571,1164746,695,157,142.375,622.5546875,162.875,722.59375,2,6,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,23, claim. ,5621,1164797,747,157,142.375,722.59375,162.875,774.6015625,2,7,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,24, Scans ,5671,1164847,822,157,142.375,774.6015625,162.875,829.6328125,2,8,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,25, of ,5721,1164896,842,154,142.375,829.6328125,162.875,849.6484375,2,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,26, children ,5771,1164946,857,153,142.375,849.6484375,162.875,917.6875,2,10,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,26, children ,5821,1164997,875,153,142.375,849.6484375,162.875,917.6875,2,10,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,26, children ,5871,1165046,884,155,142.375,849.6484375,162.875,917.6875,2,10,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,26, children ,5922,1165097,884,155,142.375,849.6484375,162.875,917.6875,2,10,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,26, children ,5973,1165148,884,155,142.375,849.6484375,162.875,917.6875,2,10,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,26, children ,6023,1165198,884,155,142.375,849.6484375,162.875,917.6875,2,10,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,26, children ,6071,1165247,913,155,142.375,849.6484375,162.875,917.6875,2,10,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,28, autistic ,6122,1165297,964,155,142.375,954.703125,162.875,1015.7265625,2,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,28, autistic ,6171,1165347,996,154,142.375,954.703125,162.875,1015.7265625,2,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,29, spectrum ,6221,1165397,1022,153,142.375,1015.7265625,162.875,1089.75,2,13,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,29, spectrum ,6271,1165446,1040,153,142.375,1015.7265625,162.875,1089.75,2,13,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,29, spectrum ,6321,1165496,1056,153,142.375,1015.7265625,162.875,1089.75,2,13,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,29, spectrum ,6371,1165547,1068,153,142.375,1015.7265625,162.875,1089.75,2,13,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,29, spectrum ,6421,1165596,1073,153,142.375,1015.7265625,162.875,1089.75,2,13,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,29, spectrum ,6472,1165647,1066,153,142.375,1015.7265625,162.875,1089.75,2,13,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,6521,1165696,969,153,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,6571,1165747,653,166,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,6621,1165796,508,183,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,31, showed ,6671,1165847,457,193,182.375,416.40625,202.875,483.453125,3,2,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,31, showed ,6721,1165896,430,198,182.375,416.40625,202.875,483.453125,3,2,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,31, showed ,6771,1165946,424,198,182.375,416.40625,202.875,483.453125,3,2,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,31, showed ,6821,1165996,418,198,182.375,416.40625,202.875,483.453125,3,2,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,30, disorder ,6871,1166046,398,196,182.375,346.375,202.875,416.40625,3,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,30, disorder ,6921,1166096,380,195,182.375,346.375,202.875,416.40625,3,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,30, disorder ,6971,1166147,374,195,182.375,346.375,202.875,416.40625,3,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,30, disorder ,7021,1166196,372,196,182.375,346.375,202.875,416.40625,3,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,30, disorder ,7071,1166246,371,196,182.375,346.375,202.875,416.40625,3,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,30, disorder ,7121,1166297,398,196,182.375,346.375,202.875,416.40625,3,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,31, showed ,7171,1166347,479,196,182.375,416.40625,202.875,483.453125,3,2,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,34, single ,7221,1166397,536,196,182.375,533.5,202.875,585.53125,3,5,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,34, single ,7271,1166447,564,198,182.375,533.5,202.875,585.53125,3,5,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,34, single ,7322,1166498,583,200,182.375,533.5,202.875,585.53125,3,5,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,35, dose ,7371,1166546,608,200,182.375,585.53125,202.875,629.5703125,3,6,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,36, of ,7422,1166597,634,200,182.375,629.5703125,202.875,649.5859375,3,7,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,37, the ,7471,1166647,666,199,182.375,649.5859375,202.875,679.609375,3,8,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,38, chemical ,7520,1166696,698,200,182.375,679.609375,202.875,755.640625,3,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,7571,1166746,704,201,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,7622,1166797,704,201,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,7671,1166847,704,201,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,7722,1166897,704,201,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,7772,1166947,734,202,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,39, improved ,7821,1166996,790,196,182.375,755.640625,202.875,834.671875,3,10,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,39, improved ,7871,1167047,825,191,182.375,755.640625,202.875,834.671875,3,10,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,40, brain ,7921,1167097,837,190,182.375,834.671875,202.875,879.703125,3,11,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,40, brain ,7971,1167146,852,190,182.375,834.671875,202.875,879.703125,3,11,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,40, brain ,8021,1167197,871,190,182.375,834.671875,202.875,879.703125,3,11,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,41, responses ,8071,1167246,901,190,182.375,879.703125,202.875,967.7578125,3,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,41, responses ,8121,1167296,939,191,182.375,879.703125,202.875,967.7578125,3,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,41, responses ,8171,1167347,966,193,182.375,879.703125,202.875,967.7578125,3,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,42, to ,8221,1167397,981,194,182.375,967.7578125,202.875,987.7734375,3,13,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,43, facial ,8271,1167447,988,194,182.375,987.7734375,202.875,1029.796875,3,14,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,43, facial ,8321,1167497,992,194,182.375,987.7734375,202.875,1029.796875,3,14,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,43, facial ,8372,1167547,992,194,182.375,987.7734375,202.875,1029.796875,3,14,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,43, facial ,8421,1167596,992,194,182.375,987.7734375,202.875,1029.796875,3,14,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,41, responses ,8472,1167647,922,199,182.375,879.703125,202.875,967.7578125,3,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,8521,1167696,752,200,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,31, showed ,8572,1167747,442,188,182.375,416.40625,202.875,483.453125,3,2,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,8621,1167796,364,189,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,8670,1167846,326,196,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,8721,1167896,309,201,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,8771,1167946,310,204,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,8821,1167997,331,225,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,44," expressions, ",8871,1168047,349,239,222.375,346.375,242.875,452.4296875,4,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,8922,1168097,362,243,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,8971,1168146,382,245,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,9021,1168196,398,247,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,9071,1168246,417,245,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,44," expressions, ",9122,1168297,434,240,222.375,346.375,242.875,452.4296875,4,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,46, shift ,9171,1168346,479,237,222.375,467.4453125,242.875,505.4609375,4,3,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,47, that ,9221,1168396,508,232,222.375,505.4609375,242.875,540.4921875,4,4,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,47, that ,9270,1168446,522,231,222.375,505.4609375,242.875,540.4921875,4,4,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,47, that ,9321,1168496,539,234,222.375,505.4609375,242.875,540.4921875,4,4,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,48, could ,9371,1168546,547,237,222.375,540.4921875,242.875,588.53125,4,5,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,48, could ,9423,1168598,547,237,222.375,540.4921875,242.875,588.53125,4,5,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,48, could ,9470,1168646,547,237,222.375,540.4921875,242.875,588.53125,4,5,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,48, could ,9521,1168697,547,237,222.375,540.4921875,242.875,588.53125,4,5,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,48, could ,9570,1168746,554,237,222.375,540.4921875,242.875,588.53125,4,5,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,50, social ,9640,1168815,638,235,222.375,637.5546875,242.875,688.578125,4,7,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,51, interactions ,9671,1168846,724,235,222.375,688.578125,242.875,785.6328125,4,8,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,51, interactions ,9720,1168896,773,237,222.375,688.578125,242.875,785.6328125,4,8,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,52, feel ,9770,1168946,792,237,222.375,785.6328125,242.875,819.65625,4,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,52, feel ,9820,1168996,797,237,222.375,785.6328125,242.875,819.65625,4,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,52, feel ,9870,1169046,801,237,222.375,785.6328125,242.875,819.65625,4,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,52, feel ,9921,1169097,803,238,222.375,785.6328125,242.875,819.65625,4,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,52, feel ,9971,1169147,803,238,222.375,785.6328125,242.875,819.65625,4,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,52, feel ,10022,1169197,803,238,222.375,785.6328125,242.875,819.65625,4,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,52, feel ,10070,1169245,804,238,222.375,785.6328125,242.875,819.65625,4,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,53, more ,10121,1169296,861,238,222.375,819.65625,242.875,865.671875,4,10,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,55, and ,10171,1169346,946,240,222.375,925.7109375,242.875,960.75,4,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,56, rewarding ,10221,1169396,972,240,222.375,960.75,242.875,1044.796875,4,13,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,56, rewarding ,10271,1169446,979,239,222.375,960.75,242.875,1044.796875,4,13,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,56, rewarding ,10321,1169496,983,239,222.375,960.75,242.875,1044.796875,4,13,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,56, rewarding ,10371,1169546,996,239,222.375,960.75,242.875,1044.796875,4,13,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,56, rewarding ,10421,1169596,1017,239,222.375,960.75,242.875,1044.796875,4,13,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,56, rewarding ,10471,1169647,1037,240,222.375,960.75,242.875,1044.796875,4,13,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,57, for ,10521,1169697,1045,239,222.375,1044.796875,242.875,1065.8046875,4,14,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,57, for ,10572,1169747,1046,239,222.375,1044.796875,242.875,1065.8046875,4,14,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,10621,1169796,1041,239,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,54, natural ,10671,1169847,913,240,222.375,865.671875,242.875,925.7109375,4,11,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,10721,1169896,783,240,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,10771,1169946,609,245,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,10821,1169996,517,248,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,10871,1170046,462,251,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,10921,1170096,442,254,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,10972,1170147,427,257,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,59, The ,11021,1170196,409,264,262.375,396.2421875,282.875,432.1015625,5,2,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,58, them. ,11071,1170247,388,274,262.375,346.375,282.875,396.2421875,5,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,11122,1170297,368,283,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,11171,1170347,362,284,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,11221,1170396,360,284,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,11270,1170446,360,284,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,11320,1170496,365,281,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,59, The ,11370,1170546,402,276,262.375,396.2421875,282.875,432.1015625,5,2,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,60, scientists ,11420,1170596,467,271,262.375,432.1015625,282.875,511.125,5,3,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,60, scientists ,11470,1170646,493,271,262.375,432.1015625,282.875,511.125,5,3,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,60, scientists ,11520,1170696,505,271,262.375,432.1015625,282.875,511.125,5,3,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,61, behind ,11570,1170746,515,272,262.375,511.125,282.875,570.1796875,5,4,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,61, behind ,11621,1170796,535,272,262.375,511.125,282.875,570.1796875,5,4,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,61, behind ,11671,1170846,568,272,262.375,511.125,282.875,570.1796875,5,4,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,63, research ,11721,1170896,636,270,262.375,600.203125,282.875,675.2421875,5,6,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,64, said ,11771,1170946,694,269,262.375,675.2421875,282.875,713.265625,5,7,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,66, course ,11821,1170996,735,269,262.375,728.28125,282.875,787.3125,5,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,66, course ,11871,1171046,748,269,262.375,728.28125,282.875,787.3125,5,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,66, course ,11921,1171097,749,270,262.375,728.28125,282.875,787.3125,5,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,66, course ,11972,1171147,749,270,262.375,728.28125,282.875,787.3125,5,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,66, course ,12022,1171198,749,270,262.375,728.28125,282.875,787.3125,5,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,66, course ,12072,1171247,750,270,262.375,728.28125,282.875,787.3125,5,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,66, course ,12122,1171297,777,270,262.375,728.28125,282.875,787.3125,5,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,68, oxytocin ,12172,1171347,834,273,262.375,807.328125,282.875,878.3671875,5,11,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,68, oxytocin ,12221,1171396,863,273,262.375,807.328125,282.875,878.3671875,5,11,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,69, might ,12272,1171447,880,272,262.375,878.3671875,282.875,927.390625,5,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,69, might ,12321,1171497,891,271,262.375,878.3671875,282.875,927.390625,5,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,69, might ,12371,1171546,896,271,262.375,878.3671875,282.875,927.390625,5,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,69, might ,12422,1171597,896,271,262.375,878.3671875,282.875,927.390625,5,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,69, might ,12472,1171647,896,271,262.375,878.3671875,282.875,927.390625,5,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,69, might ,12522,1171697,896,271,262.375,878.3671875,282.875,927.390625,5,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,70, boost ,12572,1171747,931,275,262.375,927.390625,282.875,976.4296875,5,13,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,12622,1171797,979,281,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,12671,1171847,1002,282,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,72, success ,12721,1171896,1011,280,262.375,1006.453125,282.875,1076.4765625,5,15,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,72, success ,12771,1171947,1017,275,262.375,1006.453125,282.875,1076.4765625,5,15,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,72, success ,12821,1171997,1029,274,262.375,1006.453125,282.875,1076.4765625,5,15,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,72, success ,12871,1172047,1042,274,262.375,1006.453125,282.875,1076.4765625,5,15,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,72, success ,12921,1172097,1056,279,262.375,1006.453125,282.875,1076.4765625,5,15,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,12972,1172147,1064,281,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,13020,1172196,1066,281,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,13071,1172246,1033,276,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,13121,1172297,751,256,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,13171,1172346,540,252,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,13221,1172396,456,257,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,59, The ,13271,1172446,425,270,262.375,396.2421875,282.875,432.1015625,5,2,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,13321,1172496,416,277,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,13371,1172547,402,292,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,13421,1172596,396,300,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,74, behavioral ,13471,1172647,385,310,302.375,346.375,322.875,434.4375,6,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,74, behavioral ,13521,1172697,375,315,302.375,346.375,322.875,434.4375,6,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,74, behavioral ,13570,1172746,374,316,302.375,346.375,322.875,434.4375,6,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,74, behavioral ,13621,1172796,374,316,302.375,346.375,322.875,434.4375,6,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,74, behavioral ,13672,1172847,374,316,302.375,346.375,322.875,434.4375,6,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,74, behavioral ,13722,1172898,374,316,302.375,346.375,322.875,434.4375,6,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,74, behavioral ,13771,1172947,377,316,302.375,346.375,322.875,434.4375,6,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,74, behavioral ,13821,1172997,384,317,302.375,346.375,322.875,434.4375,6,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,74, behavioral ,13871,1173047,413,319,302.375,346.375,322.875,434.4375,6,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,75, therapies ,13922,1173097,477,319,302.375,434.4375,322.875,513.4921875,6,2,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,76, that ,13971,1173147,524,319,302.375,513.4921875,322.875,548.5234375,6,3,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,14022,1173198,546,321,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,14071,1173247,565,323,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,14121,1173297,581,326,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,14171,1173347,614,328,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,14221,1173397,659,332,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,14271,1173447,679,334,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,14321,1173497,683,334,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,14371,1173547,684,334,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,14421,1173597,696,326,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,81, help ,14471,1173647,726,319,302.375,707.640625,322.875,746.6796875,6,8,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,82, people ,14522,1173697,747,317,302.375,746.6796875,322.875,805.734375,6,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,82, people ,14571,1173746,754,317,302.375,746.6796875,322.875,805.734375,6,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,82, people ,14622,1173797,754,317,302.375,746.6796875,322.875,805.734375,6,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,82, people ,14672,1173848,754,317,302.375,746.6796875,322.875,805.734375,6,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,82, people ,14722,1173898,754,317,302.375,746.6796875,322.875,805.734375,6,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,82, people ,14772,1173947,780,317,302.375,746.6796875,322.875,805.734375,6,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,14822,1173997,874,324,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,14871,1174047,963,331,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,14921,1174097,1004,336,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,14971,1174147,1026,341,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,103," responding, ",15021,1174197,1041,346,342.375,978.703125,362.875,1072.7734375,7,14,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,103," responding, ",15071,1174247,1052,348,342.375,978.703125,362.875,1072.7734375,7,14,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,15120,1174296,1058,344,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,15171,1174346,1069,335,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,15221,1174396,1077,329,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,15271,1174446,1087,326,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,15321,1174496,1067,325,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,15371,1174547,806,330,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,15421,1174596,517,330,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,15471,1174646,392,330,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,15521,1174696,350,326,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,15571,1174746,337,324,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,15621,1174796,331,324,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,15671,1174846,327,324,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,15721,1174896,333,326,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,90, situations. ,15771,1174946,422,345,342.375,346.375,362.875,432.421875,7,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,15821,1174996,527,360,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,15871,1175047,599,368,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,15921,1175097,616,370,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,15971,1175147,624,371,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,16021,1175197,637,371,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,16071,1175247,654,365,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,96, expect ,16121,1175297,675,357,342.375,655.515625,362.875,713.5546875,7,7,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,96, expect ,16171,1175346,689,354,342.375,655.515625,362.875,713.5546875,7,7,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,96, expect ,16221,1175397,698,354,342.375,655.515625,362.875,713.5546875,7,7,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,96, expect ,16271,1175447,706,354,342.375,655.515625,362.875,713.5546875,7,7,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,96, expect ,16321,1175497,712,355,342.375,655.515625,362.875,713.5546875,7,7,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,97, to ,16371,1175547,718,355,342.375,713.5546875,362.875,733.5703125,7,8,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,97, to ,16421,1175597,725,353,342.375,713.5546875,362.875,733.5703125,7,8,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,98, see ,16471,1175647,734,352,342.375,733.5703125,362.875,767.59375,7,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,98, see ,16521,1175697,756,351,342.375,733.5703125,362.875,767.59375,7,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,100, more ,16571,1175747,804,351,342.375,785.59375,362.875,831.609375,7,11,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,101, appropriate ,16621,1175797,832,353,342.375,831.609375,362.875,927.6796875,7,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,101, appropriate ,16672,1175848,832,353,342.375,831.609375,362.875,927.6796875,7,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,101, appropriate ,16722,1175898,832,353,342.375,831.609375,362.875,927.6796875,7,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,101, appropriate ,16772,1175948,832,353,342.375,831.609375,362.875,927.6796875,7,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,101, appropriate ,16822,1175997,832,353,342.375,831.609375,362.875,927.6796875,7,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,101, appropriate ,16870,1176046,839,353,342.375,831.609375,362.875,927.6796875,7,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,101, appropriate ,16920,1176096,924,354,342.375,831.609375,362.875,927.6796875,7,12,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,103," responding, ",16970,1176146,1002,356,342.375,978.703125,362.875,1072.7734375,7,14,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,103," responding, ",17021,1176196,1021,354,342.375,978.703125,362.875,1072.7734375,7,14,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,103," responding, ",17070,1176246,1025,353,342.375,978.703125,362.875,1072.7734375,7,14,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,103," responding, ",17121,1176296,1029,353,342.375,978.703125,362.875,1072.7734375,7,14,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,103," responding, ",17171,1176347,1036,354,342.375,978.703125,362.875,1072.7734375,7,14,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,103," responding, ",17221,1176397,1017,356,342.375,978.703125,362.875,1072.7734375,7,14,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,17271,1176446,915,358,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,93, what ,17321,1176497,562,360,342.375,526.4375,362.875,569.4609375,7,4,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,17371,1176547,449,382,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,17421,1176596,407,394,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,17471,1176646,364,410,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,17521,1176697,354,413,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,17571,1176746,346,409,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,17621,1176797,342,405,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,17671,1176846,343,400,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,104, being ,17721,1176897,349,397,382.375,346.375,402.875,395.421875,8,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,104, being ,17771,1176947,353,396,382.375,346.375,402.875,395.421875,8,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,104, being ,17821,1176997,357,396,382.375,346.375,402.875,395.421875,8,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,104, being ,17871,1177047,364,395,382.375,346.375,402.875,395.421875,8,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,104, being ,17921,1177097,373,395,382.375,346.375,402.875,395.421875,8,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,104, being ,17971,1177147,386,395,382.375,346.375,402.875,395.421875,8,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,105, more ,18021,1177197,430,392,382.375,395.421875,402.875,441.4375,8,2,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,18072,1177247,512,379,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,18121,1177297,561,375,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,18171,1177347,581,373,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,18221,1177397,588,373,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,18271,1177447,594,373,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,18321,1177497,598,373,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,18371,1177547,600,374,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,18421,1177597,603,379,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,108, interacting ,18471,1177647,606,384,382.375,544.5078125,402.875,632.5625,8,5,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,108, interacting ,18521,1177697,613,388,382.375,544.5078125,402.875,632.5625,8,5,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,108, interacting ,18572,1177747,627,394,382.375,544.5078125,402.875,632.5625,8,5,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,109, with ,18621,1177797,646,400,382.375,632.5625,402.875,669.578125,8,6,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,18672,1177847,667,403,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,18721,1177897,692,406,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,18771,1177947,716,406,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,18821,1177996,733,406,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,18871,1178047,734,406,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,18921,1178097,734,406,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,18971,1178147,734,406,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,19021,1178197,735,406,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,111," people, ",19071,1178246,775,399,382.375,715.609375,402.875,779.6640625,8,8,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,112, more ,19121,1178296,818,392,382.375,779.6640625,402.875,825.6796875,8,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,113, eye ,19170,1178346,852,392,382.375,825.6796875,402.875,859.703125,8,10,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,114, contact ,19220,1178395,873,398,382.375,859.703125,402.875,922.7421875,8,11,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,19271,1178446,893,403,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,19321,1178496,915,406,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,19370,1178546,933,406,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,19420,1178596,939,407,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,19471,1178646,913,410,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,121," Pelphrey, ",19521,1178696,671,433,422.375,616.1953125,442.875,695.9140625,9,5,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,19571,1178746,438,454,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,19620,1178796,337,462,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,19670,1178846,319,464,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,19720,1178896,298,464,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,19770,1178946,296,464,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,19820,1178996,310,449,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,19870,1179046,340,434,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,117, conversational ,19920,1179096,378,434,422.375,346.375,442.875,467.4453125,9,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,117, conversational ,19971,1179146,404,436,422.375,346.375,442.875,467.4453125,9,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,117, conversational ,20021,1179196,420,435,422.375,346.375,442.875,467.4453125,9,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,117, conversational ,20071,1179246,428,434,422.375,346.375,442.875,467.4453125,9,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,117, conversational ,20122,1179297,428,434,422.375,346.375,442.875,467.4453125,9,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,117, conversational ,20171,1179347,428,434,422.375,346.375,442.875,467.4453125,9,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,117, conversational ,20222,1179397,428,434,422.375,346.375,442.875,467.4453125,9,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,117, conversational ,20271,1179446,455,430,422.375,346.375,442.875,467.4453125,9,1,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,120, Kevin ,20321,1179497,588,426,422.375,566.1640625,442.875,616.1953125,9,4,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,20373,1179548,690,418,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,20422,1179597,718,412,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,20471,1179647,728,411,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,20521,1179697,738,411,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,20571,1179747,755,413,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,124, the ,20621,1179797,787,428,422.375,780.953125,442.875,810.9765625,9,8,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,125, Child ,20671,1179847,831,438,422.375,810.9765625,442.875,857,9,9,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,126, Neuroscience ,20721,1179897,879,432,422.375,857,442.875,972.0625,9,10,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,126, Neuroscience ,20771,1179947,916,429,422.375,857,442.875,972.0625,9,10,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,126, Neuroscience ,20821,1179997,933,433,422.375,857,442.875,972.0625,9,10,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,126, Neuroscience ,20872,1180047,935,439,422.375,857,442.875,972.0625,9,10,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,20921,1180097,832,458,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,20971,1180147,590,502,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21020,1180195,590,502,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21070,1180245,590,502,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21120,1180295,590,502,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21170,1180345,590,502,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21220,1180395,590,502,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21271,1180447,276,502,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21321,1180497,297,491,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21371,1180547,345,487,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21421,1180597,419,500,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21471,1180646,432,501,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21521,1180697,432,501,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21571,1180747,432,501,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21621,1180797,432,501,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21671,1180847,487,488,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21721,1180897,639,495,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21770,1180945,689,509,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21820,1180996,689,509,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21870,1181046,689,509,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21920,1181096,689,509,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,21970,1181146,689,509,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,22020,1181195,689,509,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,22070,1181246,689,509,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,22120,1181296,689,509,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,1,34,35,-1,999,22170,1181346,689,509,,,,,,,The researchers think it is too early to know,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
