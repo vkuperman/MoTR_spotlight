@@ -1,0 +1,313 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,1449,889550,464,327,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,1495,889596,321,212,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,1545,889647,286,186,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,1596,889697,275,161,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,1645,889746,279,145,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,1694,889796,294,119,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,1745,889846,314,113,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,1, Japan’s ,1795,889896,345,113,102.375,346.375,122.875,413.1015625,1,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,1, Japan’s ,1846,889947,368,112,102.375,346.375,122.875,413.1015625,1,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,1, Japan’s ,1895,889997,375,112,102.375,346.375,122.875,413.1015625,1,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,1, Japan’s ,1944,890046,376,113,102.375,346.375,122.875,413.1015625,1,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,1, Japan’s ,1995,890096,378,114,102.375,346.375,122.875,413.1015625,1,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,1, Japan’s ,2046,890148,379,115,102.375,346.375,122.875,413.1015625,1,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,1, Japan’s ,2096,890197,379,115,102.375,346.375,122.875,413.1015625,1,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,1, Japan’s ,2146,890248,379,115,102.375,346.375,122.875,413.1015625,1,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,1, Japan’s ,2195,890296,389,112,102.375,346.375,122.875,413.1015625,1,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,2245,890346,471,88,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,2295,890396,553,74,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,2345,890446,568,73,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,2395,890496,568,73,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,2445,890546,568,73,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,2494,890596,586,78,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,2545,890646,586,88,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,2595,890697,586,94,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,2645,890746,587,99,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,5, helped ,2696,890797,598,105,102.375,565.1875,122.875,624.2421875,1,5,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,5, helped ,2745,890846,621,108,102.375,565.1875,122.875,624.2421875,1,5,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,6, turn ,2796,890897,628,108,102.375,624.2421875,122.875,660.265625,1,6,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,6, turn ,2845,890947,628,108,102.375,624.2421875,122.875,660.265625,1,6,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,6, turn ,2896,890998,628,108,102.375,624.2421875,122.875,660.265625,1,6,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,6, turn ,2945,891047,628,108,102.375,624.2421875,122.875,660.265625,1,6,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,6, turn ,2995,891097,629,108,102.375,624.2421875,122.875,660.265625,1,6,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,7, it ,3044,891146,673,105,102.375,660.265625,122.875,674.2734375,1,7,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,10, economic ,3095,891196,756,104,102.375,733.3203125,122.875,815.359375,1,10,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,10, economic ,3145,891246,796,110,102.375,733.3203125,122.875,815.359375,1,10,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,10, economic ,3195,891297,815,114,102.375,733.3203125,122.875,815.359375,1,10,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,11," superpower, ",3245,891347,832,114,102.375,815.359375,122.875,918.4296875,1,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,11," superpower, ",3296,891397,854,114,102.375,815.359375,122.875,918.4296875,1,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,11," superpower, ",3344,891446,876,112,102.375,815.359375,122.875,918.4296875,1,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,11," superpower, ",3395,891496,893,111,102.375,815.359375,122.875,918.4296875,1,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,11," superpower, ",3446,891547,916,110,102.375,815.359375,122.875,918.4296875,1,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,12, its ,3495,891597,936,110,102.375,918.4296875,122.875,941.4375,1,12,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,13, employees ,3546,891647,953,110,102.375,941.4375,122.875,1028.484375,1,13,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,13, employees ,3595,891696,964,109,102.375,941.4375,122.875,1028.484375,1,13,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,13, employees ,3646,891747,967,108,102.375,941.4375,122.875,1028.484375,1,13,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,3695,891797,960,107,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,3745,891846,767,86,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,3795,891897,557,95,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,3844,891946,421,133,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,3894,891996,379,142,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,14, respected ,3945,892046,369,144,142.375,346.375,162.875,430.4296875,2,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,14, respected ,3995,892096,369,144,142.375,346.375,162.875,430.4296875,2,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,14, respected ,4046,892147,369,144,142.375,346.375,162.875,430.4296875,2,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,14, respected ,4096,892198,368,144,142.375,346.375,162.875,430.4296875,2,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,14, respected ,4144,892246,371,146,142.375,346.375,162.875,430.4296875,2,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,14, respected ,4195,892297,416,154,142.375,346.375,162.875,430.4296875,2,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,16, admired ,4245,892346,478,158,142.375,465.46875,162.875,535.5,2,3,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,16, admired ,4295,892397,513,153,142.375,465.46875,162.875,535.5,2,3,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,17, in ,4345,892447,542,146,142.375,535.5,162.875,554.515625,2,4,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,18, the ,4395,892496,567,144,142.375,554.515625,162.875,584.5390625,2,5,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,18, the ,4445,892547,580,144,142.375,554.515625,162.875,584.5390625,2,5,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,19, rest ,4495,892596,590,145,142.375,584.5390625,162.875,619.546875,2,6,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,19, rest ,4545,892647,610,145,142.375,584.5390625,162.875,619.546875,2,6,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,21, the ,4595,892697,648,144,142.375,639.5625,162.875,669.5859375,2,8,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,22, world ,4646,892747,691,144,142.375,669.5859375,162.875,717.6015625,2,9,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,22, world ,4695,892797,704,144,142.375,669.5859375,162.875,717.6015625,2,9,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,22, world ,4746,892848,704,144,142.375,669.5859375,162.875,717.6015625,2,9,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,22, world ,4796,892897,704,144,142.375,669.5859375,162.875,717.6015625,2,9,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,22, world ,4845,892947,704,144,142.375,669.5859375,162.875,717.6015625,2,9,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,22, world ,4895,892997,704,144,142.375,669.5859375,162.875,717.6015625,2,9,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,23, for ,4945,893046,724,144,142.375,717.6015625,162.875,743.609375,2,10,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,25, commitment ,4995,893096,810,145,142.375,783.6328125,162.875,886.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,25, commitment ,5045,893146,873,145,142.375,783.6328125,162.875,886.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,26, to ,5095,893196,902,145,142.375,886.65625,162.875,906.671875,2,13,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,27, the ,5146,893247,911,147,142.375,906.671875,162.875,936.6953125,2,14,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,27, the ,5194,893296,919,149,142.375,906.671875,162.875,936.6953125,2,14,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,27, the ,5245,893346,933,151,142.375,906.671875,162.875,936.6953125,2,14,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,28," company, ",5295,893396,950,151,142.375,936.6953125,162.875,1018.4140625,2,15,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,28," company, ",5346,893447,969,151,142.375,936.6953125,162.875,1018.4140625,2,15,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,28," company, ",5395,893497,989,151,142.375,936.6953125,162.875,1018.4140625,2,15,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,28," company, ",5446,893547,1004,148,142.375,936.6953125,162.875,1018.4140625,2,15,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,28," company, ",5495,893596,1017,144,142.375,936.6953125,162.875,1018.4140625,2,15,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,29, but ,5546,893647,1024,144,142.375,1018.4140625,162.875,1048.4375,2,16,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,29, but ,5595,893697,1024,144,142.375,1018.4140625,162.875,1048.4375,2,16,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,5645,893747,968,141,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,5695,893797,804,140,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,5746,893847,620,161,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,5794,893896,514,176,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,33, time ,5845,893947,456,185,182.375,427.4296875,202.875,466.4375,3,3,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,32, little ,5896,893997,422,188,182.375,390.4140625,202.875,427.4296875,3,2,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,32, little ,5945,894047,397,188,182.375,390.4140625,202.875,427.4296875,3,2,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,31, have ,5995,894096,377,188,182.375,346.375,202.875,390.4140625,3,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,31, have ,6044,894146,357,188,182.375,346.375,202.875,390.4140625,3,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,31, have ,6095,894197,349,188,182.375,346.375,202.875,390.4140625,3,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,31, have ,6145,894247,348,189,182.375,346.375,202.875,390.4140625,3,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,31, have ,6195,894297,367,191,182.375,346.375,202.875,390.4140625,3,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,32, little ,6246,894347,404,191,182.375,390.4140625,202.875,427.4296875,3,2,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,33, time ,6296,894397,450,191,182.375,427.4296875,202.875,466.4375,3,3,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,34, to ,6345,894446,484,188,182.375,466.4375,202.875,486.453125,3,4,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,35, do ,6395,894496,504,186,182.375,486.453125,202.875,511.4765625,3,5,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,36, anything ,6445,894547,520,186,182.375,511.4765625,202.875,584.53125,3,6,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,36, anything ,6496,894597,538,187,182.375,511.4765625,202.875,584.53125,3,6,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,36, anything ,6546,894647,565,192,182.375,511.4765625,202.875,584.53125,3,6,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,37, except ,6595,894696,607,198,182.375,584.53125,202.875,642.5703125,3,7,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,37, except ,6645,894747,634,198,182.375,584.53125,202.875,642.5703125,3,7,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,38, work. ,6695,894796,649,198,182.375,642.5703125,202.875,690.578125,3,8,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,38, work. ,6746,894847,660,196,182.375,642.5703125,202.875,690.578125,3,8,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,38, work. ,6796,894897,673,195,182.375,642.5703125,202.875,690.578125,3,8,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,38, work. ,6846,894947,688,195,182.375,642.5703125,202.875,690.578125,3,8,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,39, Japan’s ,6895,894997,703,198,182.375,690.578125,202.875,757.3046875,3,9,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,6946,895047,712,202,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,6994,895096,712,202,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,7045,895147,712,202,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,7095,895196,712,202,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,7145,895246,712,202,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,39, Japan’s ,7195,895296,727,200,182.375,690.578125,202.875,757.3046875,3,9,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,40, low ,7245,895347,776,190,182.375,757.3046875,202.875,789.3203125,3,10,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,41, birth ,7295,895396,806,187,182.375,789.3203125,202.875,829.34375,3,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,41, birth ,7346,895448,815,187,182.375,789.3203125,202.875,829.34375,3,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,41, birth ,7394,895496,821,189,182.375,789.3203125,202.875,829.34375,3,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,41, birth ,7445,895547,828,193,182.375,789.3203125,202.875,829.34375,3,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,42, rate ,7495,895596,839,195,182.375,829.34375,202.875,865.3671875,3,12,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,42, rate ,7545,895647,852,196,182.375,829.34375,202.875,865.3671875,3,12,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,43, and ,7595,895697,867,199,182.375,865.3671875,202.875,900.40625,3,13,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,7645,895746,882,203,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,7694,895796,899,205,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,7745,895847,916,210,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,7794,895896,934,212,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,7845,895946,951,209,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,7895,895997,971,203,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,45, decline ,7944,896046,996,194,182.375,988.484375,202.875,1050.53125,3,15,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,45, decline ,7995,896096,1014,191,182.375,988.484375,202.875,1050.53125,3,15,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,45, decline ,8045,896146,1026,191,182.375,988.484375,202.875,1050.53125,3,15,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,45, decline ,8095,896197,1038,194,182.375,988.484375,202.875,1050.53125,3,15,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,45, decline ,8145,896247,1047,198,182.375,988.484375,202.875,1050.53125,3,15,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,8195,896297,1051,200,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,8245,896346,1060,204,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,8294,896396,1064,205,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,8347,896448,1057,207,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,8395,896497,1000,200,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,22, world ,8445,896547,678,161,142.375,669.5859375,162.875,717.6015625,2,9,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,8495,896596,474,168,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,8545,896646,400,176,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,8595,896696,364,182,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,31, have ,8645,896747,350,188,182.375,346.375,202.875,390.4140625,3,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,8695,896796,345,197,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,8745,896846,346,216,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,47, partly ,8795,896896,348,228,222.375,346.375,242.875,395.3984375,4,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,47, partly ,8845,896947,350,229,222.375,346.375,242.875,395.3984375,4,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,47, partly ,8896,896997,371,228,222.375,346.375,242.875,395.3984375,4,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,48, blamed ,8945,897046,403,228,222.375,395.3984375,242.875,459.4375,4,2,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,48, blamed ,8996,897097,422,229,222.375,395.3984375,242.875,459.4375,4,2,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,48, blamed ,9045,897147,453,235,222.375,395.3984375,242.875,459.4375,4,2,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,9094,897196,492,245,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,9145,897246,524,251,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,9195,897296,527,251,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,9246,897347,527,251,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,9295,897397,527,251,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,9345,897447,527,251,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,9395,897497,527,251,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,9445,897546,537,247,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,52, of ,9495,897597,567,238,222.375,551.5,242.875,571.515625,4,6,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,53, time ,9546,897647,605,236,222.375,571.515625,242.875,610.5234375,4,7,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,54, couples ,9595,897697,650,233,222.375,610.5234375,242.875,677.5703125,4,8,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,55, have ,9645,897746,690,230,222.375,677.5703125,242.875,721.609375,4,9,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,56, to ,9695,897797,727,230,222.375,721.609375,242.875,741.625,4,10,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,57, start ,9745,897847,745,234,222.375,741.625,242.875,781.6328125,4,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,57, start ,9795,897896,747,234,222.375,741.625,242.875,781.6328125,4,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,57, start ,9845,897946,747,234,222.375,741.625,242.875,781.6328125,4,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,57, start ,9896,897997,747,234,222.375,741.625,242.875,781.6328125,4,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,57, start ,9944,898046,762,234,222.375,741.625,242.875,781.6328125,4,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,9995,898096,828,248,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,10045,898147,889,253,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,10095,898197,911,253,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,10144,898246,924,253,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,10194,898296,937,254,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,10245,898346,952,251,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,10295,898397,969,245,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,61, are ,10345,898447,991,239,222.375,990.71875,242.875,1021.7421875,4,15,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,61, are ,10395,898497,1019,236,222.375,990.71875,242.875,1021.7421875,4,15,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,62, falling ,10445,898546,1037,234,222.375,1021.7421875,242.875,1073.7734375,4,16,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,62, falling ,10495,898597,1046,233,222.375,1021.7421875,242.875,1073.7734375,4,16,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,62, falling ,10545,898647,1046,233,222.375,1021.7421875,242.875,1073.7734375,4,16,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,10595,898696,1009,233,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,10645,898746,652,222,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,10695,898797,496,227,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,10745,898846,372,251,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,10795,898897,356,258,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,10845,898947,352,260,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,10895,898996,345,262,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,10945,899047,343,264,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,64, from ,10994,899096,365,271,262.375,346.375,282.875,387.3828125,5,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,64, from ,11045,899147,373,273,262.375,346.375,282.875,387.3828125,5,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,64, from ,11095,899197,378,273,262.375,346.375,282.875,387.3828125,5,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,65," stress, ",11145,899247,410,273,262.375,387.3828125,282.875,445.390625,5,2,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,67," worse, ",11195,899297,482,273,262.375,466.3984375,282.875,524.421875,5,4,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,68, succumbing ,11245,899346,543,274,262.375,524.421875,282.875,625.4765625,5,5,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,68, succumbing ,11295,899397,569,274,262.375,524.421875,282.875,625.4765625,5,5,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,68, succumbing ,11346,899447,582,275,262.375,524.421875,282.875,625.4765625,5,5,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,68, succumbing ,11395,899497,582,275,262.375,524.421875,282.875,625.4765625,5,5,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,68, succumbing ,11445,899547,582,275,262.375,524.421875,282.875,625.4765625,5,5,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,68, succumbing ,11495,899597,582,275,262.375,524.421875,282.875,625.4765625,5,5,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,68, succumbing ,11546,899647,582,275,262.375,524.421875,282.875,625.4765625,5,5,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,68, succumbing ,11595,899697,597,275,262.375,524.421875,282.875,625.4765625,5,5,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,11645,899747,681,282,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,11695,899797,751,283,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,72, through ,11745,899846,775,278,262.375,763.5703125,282.875,829.625,5,9,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,72, through ,11795,899896,788,277,262.375,763.5703125,282.875,829.625,5,9,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,72, through ,11845,899946,797,279,262.375,763.5703125,282.875,829.625,5,9,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,72, through ,11895,899996,809,279,262.375,763.5703125,282.875,829.625,5,9,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,72, through ,11945,900047,824,277,262.375,763.5703125,282.875,829.625,5,9,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,73, overwork. ,11995,900097,836,272,262.375,829.625,282.875,912.6484375,5,10,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,73, overwork. ,12045,900147,846,270,262.375,829.625,282.875,912.6484375,5,10,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,73, overwork. ,12094,900196,865,270,262.375,829.625,282.875,912.6484375,5,10,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,73, overwork. ,12145,900247,880,273,262.375,829.625,282.875,912.6484375,5,10,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,73, overwork. ,12195,900297,883,273,262.375,829.625,282.875,912.6484375,5,10,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,73, overwork. ,12246,900348,883,273,262.375,829.625,282.875,912.6484375,5,10,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,73, overwork. ,12296,900398,883,273,262.375,829.625,282.875,912.6484375,5,10,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,73, overwork. ,12345,900447,888,273,262.375,829.625,282.875,912.6484375,5,10,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,74, Japanese ,12395,900496,940,280,262.375,912.6484375,282.875,995.71875,5,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,12445,900547,1012,293,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,12495,900596,1031,293,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,12545,900647,1034,292,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,12595,900696,1031,292,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,12644,900746,1008,289,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,12695,900797,913,281,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,12745,900846,761,292,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,12795,900897,681,304,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,80, despite ,12845,900947,576,317,302.375,528.484375,322.875,591.53125,6,5,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,12895,900996,539,317,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,78, work ,12944,901046,446,315,302.375,439.4453125,322.875,482.453125,6,3,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,12994,901096,410,317,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,13045,901147,358,323,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,13094,901196,344,325,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,13145,901246,341,325,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,13195,901296,342,325,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,13244,901346,348,325,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,13295,901396,366,323,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,76, continue ,13345,901447,405,320,302.375,346.375,322.875,419.4296875,6,1,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,78, work ,13396,901497,459,314,302.375,439.4453125,322.875,482.453125,6,3,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,79," hard, ",13444,901546,511,309,302.375,482.453125,322.875,528.484375,6,4,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,80, despite ,13495,901597,536,308,302.375,528.484375,322.875,591.53125,6,5,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,80, despite ,13544,901646,558,307,302.375,528.484375,322.875,591.53125,6,5,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,81, studies ,13595,901696,593,306,302.375,591.53125,322.875,653.5703125,6,6,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,81, studies ,13645,901747,647,304,302.375,591.53125,322.875,653.5703125,6,6,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,13695,901797,699,303,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,13744,901846,748,303,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,13794,901896,781,303,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,13845,901947,807,303,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,13895,901997,820,303,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,13945,902047,828,303,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,13994,902096,838,303,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,86, hours ,14045,902146,855,305,302.375,846.71875,322.875,896.75,6,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,86, hours ,14095,902196,879,312,302.375,846.71875,322.875,896.75,6,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,87, in ,14145,902247,898,318,302.375,896.75,322.875,915.765625,6,12,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,87, in ,14195,902297,907,320,302.375,896.75,322.875,915.765625,6,12,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,87, in ,14246,902348,907,320,302.375,896.75,322.875,915.765625,6,12,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,87, in ,14296,902398,907,320,302.375,896.75,322.875,915.765625,6,12,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,87, in ,14345,902447,907,320,302.375,896.75,322.875,915.765625,6,12,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,87, in ,14395,902497,907,320,302.375,896.75,322.875,915.765625,6,12,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,88, the ,14445,902547,928,320,302.375,915.765625,322.875,945.7890625,6,13,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,89, office ,14496,902597,977,317,302.375,945.7890625,322.875,993.8125,6,14,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,91, workshop ,14544,902646,1027,309,302.375,1014.8203125,322.875,1091.859375,6,16,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,91, workshop ,14595,902696,1036,307,302.375,1014.8203125,322.875,1091.859375,6,16,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,91, workshop ,14645,902747,1037,307,302.375,1014.8203125,322.875,1091.859375,6,16,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,91, workshop ,14695,902796,1036,307,302.375,1014.8203125,322.875,1091.859375,6,16,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,91, workshop ,14745,902847,1016,307,302.375,1014.8203125,322.875,1091.859375,6,16,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,86, hours ,14794,902895,885,314,302.375,846.71875,322.875,896.75,6,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,14844,902946,683,317,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,14894,902996,474,334,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,94, the ,14945,903047,413,353,342.375,392.40625,362.875,422.4296875,7,3,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,14995,903097,388,362,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,15045,903147,378,366,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,15094,903196,373,366,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,15144,903246,366,367,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,15194,903296,361,367,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,15244,903346,361,366,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,15295,903396,366,363,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,93, on ,15345,903446,382,360,342.375,367.3828125,362.875,392.40625,7,2,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,94, the ,15394,903496,395,358,342.375,392.40625,362.875,422.4296875,7,3,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,94, the ,15445,903547,414,357,342.375,392.40625,362.875,422.4296875,7,3,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,95, factory ,15495,903597,437,356,342.375,422.4296875,362.875,481.453125,7,4,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,95, factory ,15545,903646,481,354,342.375,422.4296875,362.875,481.453125,7,4,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,97, do ,15595,903697,539,352,342.375,521.4765625,362.875,546.5,7,6,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,99, necessarily ,15645,903747,598,349,342.375,576.5234375,362.875,671.5625,7,8,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,99, necessarily ,15695,903797,633,349,342.375,576.5234375,362.875,671.5625,7,8,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,99, necessarily ,15744,903846,654,348,342.375,576.5234375,362.875,671.5625,7,8,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,100, make ,15795,903897,675,348,342.375,671.5625,362.875,720.5859375,7,9,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,100, make ,15846,903947,703,351,342.375,671.5625,362.875,720.5859375,7,9,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,101, people ,15896,903997,738,357,342.375,720.5859375,362.875,779.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,101, people ,15944,904046,776,357,342.375,720.5859375,362.875,779.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,102, more ,15995,904097,795,350,342.375,779.640625,362.875,825.65625,7,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,102, more ,16045,904147,810,345,342.375,779.640625,362.875,825.65625,7,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,102, more ,16094,904196,817,345,342.375,779.640625,362.875,825.65625,7,11,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,103, productive. ,16145,904247,827,347,342.375,825.65625,362.875,913.7109375,7,12,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,103, productive. ,16194,904296,838,359,342.375,825.65625,362.875,913.7109375,7,12,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,16245,904347,839,361,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,16295,904397,839,361,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,16345,904446,839,361,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,16395,904496,827,367,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,16445,904547,813,384,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,16494,904596,813,384,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,16544,904646,813,384,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,16595,904696,813,384,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,16645,904746,813,384,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,16695,904797,813,384,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,16744,904846,813,384,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,16794,904896,813,384,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,16844,904946,813,384,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,16895,904997,813,384,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,16945,905046,813,384,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,3,21,22,-1,999,16995,905096,813,384,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
