@@ -49,6 +49,7 @@ import {
   uploadCompleteResults,
 } from '@motr-shared/resultsSafeguard';
 import { deleteResultsSnapshot } from '@motr-shared/resultsIndexedDb';
+import { isNoUploadMode } from '@motr-shared/previewMode';
 
 export default {
   name: 'ExportReportsScreen',
@@ -72,6 +73,11 @@ export default {
     };
   },
   async mounted() {
+    if (isNoUploadMode()) {
+      this.submitted = true;
+      this.uploadComplete = true;
+      return;
+    }
     try {
       await retryPendingSnapshotUpload(this, null);
     } catch (err) {
@@ -92,6 +98,11 @@ export default {
       await this.submitDirectAndNext();
     },
     async exportAndNext() {
+      if (isNoUploadMode()) {
+        this.uploadComplete = true;
+        this.$magpie.nextSlide();
+        return;
+      }
       const context = resolveExportContext(this, null);
       const sessionTimes = buildCompleteSessionTimes(this);
       const files = buildCompleteResultsFiles(

@@ -19,6 +19,7 @@ import {
   saveResultsSnapshot,
 } from './resultsIndexedDb';
 import { getResultsUploadUrl, uploadResultsFiles } from './resultsUpload';
+import { isNoUploadMode } from './previewMode';
 
 function resolveParticipantId(vm, expData) {
   const exp = expData && typeof expData === 'object' ? expData : {};
@@ -148,6 +149,7 @@ export function buildCompleteResultsFiles(allRows, participantId, expData, sessi
 }
 
 export async function uploadCompleteResults(context, sessionTimes, resultsScope = 'complete') {
+  if (isNoUploadMode()) return [];
   const files = buildCompleteResultsFiles(
     context.allRows,
     context.participantId,
@@ -200,6 +202,7 @@ export async function downloadResultsFiles(files, folderName) {
 }
 
 export async function uploadReadingTrialCheckpoint(vm, trial, trialIndex, studyConfig) {
+  if (isNoUploadMode()) return;
   const context = resolveExportContext(vm, studyConfig);
   const session = getResultsSession(vm);
   if (!context.uploadUrl || !session) return;
@@ -254,6 +257,7 @@ export async function uploadReadingTrialCheckpoint(vm, trial, trialIndex, studyC
 
 /** Run checkpoint upload and IndexedDB snapshot after the UI advances (non-blocking). */
 export function deferReadingTrialSafeguards(vm, trial, trialIndex, studyConfig) {
+  if (isNoUploadMode()) return;
   queueMicrotask(() => {
     uploadReadingTrialCheckpoint(vm, trial, trialIndex, studyConfig).catch((err) => {
       console.warn('Trial checkpoint upload failed:', err);
@@ -265,6 +269,7 @@ export function deferReadingTrialSafeguards(vm, trial, trialIndex, studyConfig) 
 }
 
 export async function persistResultsSnapshot(vm, studyConfig) {
+  if (isNoUploadMode()) return;
   const context = resolveExportContext(vm, studyConfig);
   const session = getResultsSession(vm);
   if (!session) return;
@@ -319,6 +324,7 @@ async function uploadSnapshotPayload(snapshot) {
 }
 
 export async function retryPendingSnapshotUpload(vm, studyConfig) {
+  if (isNoUploadMode()) return false;
   const session = getResultsSession(vm);
   if (session) {
     const snapshot = await loadResultsSnapshot(session.sessionId);

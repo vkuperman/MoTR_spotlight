@@ -3,7 +3,11 @@ import VueKonva from 'vue-konva';
 import VueMagpie from 'magpie-base';
 import App from './App.vue';
 import DemographicsPreviewApp from '@motr-shared/components/DemographicsPreviewApp.vue';
-import { isDemographicsPreviewMode } from '@motr-shared/previewMode.js';
+import ReadingPreviewApp from './components/ReadingPreviewApp.vue';
+import {
+  isDemographicsPreviewMode,
+  isReadingPreviewMode,
+} from '@motr-shared/previewMode.js';
 import magpieConfig from './magpie.config.js';
 
 Vue.config.productionTip = false;
@@ -14,7 +18,13 @@ Vue.use(VueKonva, { prefix: 'Canvas' });
 // Load magpie components
 Vue.use(VueMagpie, magpieConfig);
 
-const RootComponent = isDemographicsPreviewMode() ? DemographicsPreviewApp : App;
+function resolveRootComponent() {
+  if (isReadingPreviewMode()) return ReadingPreviewApp;
+  if (isDemographicsPreviewMode()) return DemographicsPreviewApp;
+  return App;
+}
+
+const RootComponent = resolveRootComponent();
 
 // start app
 new Vue({

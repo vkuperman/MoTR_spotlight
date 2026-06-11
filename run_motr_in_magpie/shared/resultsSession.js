@@ -1,4 +1,5 @@
 import { generateUniqueAlphanumericId, resolveSonaId } from './resultsReports';
+import { isNoUploadMode } from './previewMode';
 
 function padDatePart(n) {
   return String(n).padStart(2, '0');
@@ -34,6 +35,7 @@ function resolveParticipantId(vm) {
 }
 
 export function initResultsSession(vm, studyConfig) {
+  if (isNoUploadMode()) return null;
   if (!vm || !vm.$root) return null;
   if (vm.$root._motrResultsSession) return vm.$root._motrResultsSession;
 
