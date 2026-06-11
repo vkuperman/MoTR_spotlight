@@ -1,0 +1,290 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,3426,2014146,631,303,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,3477,2014197,635,244,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,3527,2014247,635,244,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,3577,2014297,635,244,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,58, versions ,3627,2014346,609,232,222.375,586.5625,242.875,658.59375,4,7,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,3677,2014396,551,199,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,3727,2014447,408,126,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,1, Urmson ,3777,2014496,380,118,102.375,346.375,122.875,414.390625,1,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,1, Urmson ,3827,2014547,359,114,102.375,346.375,122.875,414.390625,1,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,1, Urmson ,3876,2014596,345,108,102.375,346.375,122.875,414.390625,1,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,3926,2014646,338,105,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,3978,2014697,337,105,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,1, Urmson ,4027,2014747,343,106,102.375,346.375,122.875,414.390625,1,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,1, Urmson ,4077,2014797,371,113,102.375,346.375,122.875,414.390625,1,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,2, said: ,4126,2014846,440,119,102.375,414.390625,122.875,457.4140625,1,2,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,4, vehicles ,4176,2014896,500,120,102.375,499.4296875,122.875,569.4609375,1,4,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,4, vehicles ,4227,2014947,548,120,102.375,499.4296875,122.875,569.4609375,1,4,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,4, vehicles ,4277,2014997,569,120,102.375,499.4296875,122.875,569.4609375,1,4,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,4327,2015046,582,123,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,4377,2015097,586,124,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,4427,2015147,586,124,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,4477,2015197,586,124,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,4527,2015247,587,124,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,7, very ,4578,2015297,632,117,102.375,624.484375,122.875,663.4921875,1,7,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,9, We ,4626,2015346,724,105,102.375,715.515625,122.875,747.203125,1,9,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,10, want ,4677,2015396,787,105,102.375,747.203125,122.875,790.2265625,1,10,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,11, to ,4727,2015447,806,109,102.375,790.2265625,122.875,810.2421875,1,11,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,11, to ,4778,2015498,808,109,102.375,790.2265625,122.875,810.2421875,1,11,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,11, to ,4828,2015547,808,109,102.375,790.2265625,122.875,810.2421875,1,11,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,11, to ,4878,2015597,808,109,102.375,790.2265625,122.875,810.2421875,1,11,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,11, to ,4927,2015646,809,109,102.375,790.2265625,122.875,810.2421875,1,11,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,13, from ,4977,2015697,869,107,102.375,855.2734375,122.875,896.28125,1,13,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,15, and ,5027,2015746,962,107,102.375,941.3046875,122.875,976.34375,1,15,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,16, adapt ,5077,2015796,1004,107,102.375,976.34375,122.875,1026.390625,1,16,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,16, adapt ,5127,2015847,1023,107,102.375,976.34375,122.875,1026.390625,1,16,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,17, them ,5177,2015897,1039,107,102.375,1026.390625,122.875,1071.4140625,1,17,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,17, them ,5226,2015946,1053,106,102.375,1026.390625,122.875,1071.4140625,1,17,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,17, them ,5277,2015997,1064,106,102.375,1026.390625,122.875,1071.4140625,1,17,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,17, them ,5327,2016046,1067,106,102.375,1026.390625,122.875,1071.4140625,1,17,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,17, them ,5377,2016097,1068,107,102.375,1026.390625,122.875,1071.4140625,1,17,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,5426,2016146,953,102,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,5477,2016197,608,76,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,5526,2016246,428,82,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,5576,2016296,368,98,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,1, Urmson ,5627,2016346,350,108,102.375,346.375,122.875,414.390625,1,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,5677,2016397,339,117,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,5727,2016446,334,125,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,5776,2016495,338,143,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,19, quickly ,5827,2016547,367,149,142.375,346.375,162.875,406.3984375,2,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,19, quickly ,5877,2016597,394,152,142.375,346.375,162.875,406.3984375,2,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,20, as ,5928,2016647,420,153,142.375,406.3984375,162.875,430.4140625,2,2,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,21, possible. ,5977,2016696,446,153,142.375,430.4140625,162.875,506.4609375,2,3,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,21, possible. ,6026,2016746,475,150,142.375,430.4140625,162.875,506.4609375,2,3,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,22, But ,6077,2016797,509,146,142.375,506.4609375,162.875,538.484375,2,4,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,6127,2016847,551,143,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,6177,2016896,612,142,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,26, you ,6227,2016947,654,144,142.375,646.53125,162.875,680.5546875,2,8,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,26, you ,6277,2016996,672,146,142.375,646.53125,162.875,680.5546875,2,8,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,26, you ,6327,2017047,672,146,142.375,646.53125,162.875,680.5546875,2,8,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,26, you ,6378,2017097,672,146,142.375,646.53125,162.875,680.5546875,2,8,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,26, you ,6427,2017147,672,146,142.375,646.53125,162.875,680.5546875,2,8,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,26, you ,6478,2017197,672,146,142.375,646.53125,162.875,680.5546875,2,8,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,27, where ,6527,2017247,698,144,142.375,680.5546875,162.875,734.5859375,2,9,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,6577,2017296,793,139,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,6626,2017346,839,139,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,6676,2017396,859,143,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,6727,2017447,861,143,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,6777,2017497,861,143,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,6827,2017546,861,143,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,6876,2017596,865,143,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,34, push ,6927,2017647,917,148,142.375,906.7109375,162.875,950.75,2,16,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,36, a ,6977,2017697,972,150,142.375,970.765625,162.875,985.78125,2,18,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,37, button. ,7028,2017747,997,151,142.375,985.78125,162.875,1045.3359375,2,19,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,37, button. ,7077,2017797,1010,153,142.375,985.78125,162.875,1045.3359375,2,19,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,37, button. ,7126,2017846,1026,154,142.375,985.78125,162.875,1045.3359375,2,19,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,37, button. ,7176,2017896,1040,158,142.375,985.78125,162.875,1045.3359375,2,19,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,38," And, ",7226,2017946,1049,160,142.375,1045.3359375,162.875,1081.875,2,20,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,38," And, ",7277,2017997,1051,160,142.375,1045.3359375,162.875,1081.875,2,20,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,37, button. ,7327,2018046,1037,157,142.375,985.78125,162.875,1045.3359375,2,19,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,7377,2018097,822,133,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,23, they ,7427,2018146,577,152,142.375,538.484375,162.875,577.5078125,2,5,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,7476,2018196,495,168,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,7526,2018246,453,173,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,7577,2018297,422,175,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,7627,2018347,401,179,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,7676,2018396,388,183,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,39, that’s ,7727,2018446,381,187,182.375,346.375,202.875,394.0859375,3,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,39, that’s ,7776,2018496,374,192,182.375,346.375,202.875,394.0859375,3,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,39, that’s ,7827,2018547,369,197,182.375,346.375,202.875,394.0859375,3,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,39, that’s ,7878,2018597,369,198,182.375,346.375,202.875,394.0859375,3,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,39, that’s ,7927,2018647,380,198,182.375,346.375,202.875,394.0859375,3,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,41, important ,7977,2018696,425,191,182.375,419.109375,202.875,499.1484375,3,3,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,41, important ,8027,2018747,471,190,182.375,419.109375,202.875,499.1484375,3,3,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,42, step ,8077,2018797,516,190,182.375,499.1484375,202.875,538.171875,3,4,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,43, towards ,8128,2018847,560,190,182.375,538.171875,202.875,606.203125,3,5,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,43, towards ,8177,2018896,604,189,182.375,538.171875,202.875,606.203125,3,5,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,44, improving ,8226,2018946,673,192,182.375,606.203125,202.875,689.234375,3,6,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,45, road ,8277,2018996,722,197,182.375,689.234375,202.875,730.265625,3,7,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,46, safety ,8327,2019047,737,199,182.375,730.265625,202.875,783.296875,3,8,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,46, safety ,8378,2019098,737,199,182.375,730.265625,202.875,783.296875,3,8,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,46, safety ,8428,2019147,737,199,182.375,730.265625,202.875,783.296875,3,8,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,46, safety ,8478,2019198,737,199,182.375,730.265625,202.875,783.296875,3,8,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,46, safety ,8526,2019246,748,199,182.375,730.265625,202.875,783.296875,3,8,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,48, transforming ,8577,2019297,831,199,182.375,818.3359375,202.875,923.375,3,10,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,8626,2019346,889,203,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,8676,2019396,923,206,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,8727,2019446,955,214,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,8776,2019496,993,214,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,8827,2019546,1022,212,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,8876,2019596,1039,212,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,8926,2019646,1052,213,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,8977,2019696,1061,214,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,9027,2019746,1063,214,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,9076,2019796,1015,206,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,9127,2019846,862,197,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,9176,2019896,570,202,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,9226,2019946,487,217,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,9277,2019997,454,223,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,9326,2020046,414,223,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,53, people.” ,9377,2020096,383,225,222.375,366.390625,242.875,436.4453125,4,2,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,52, of ,9427,2020147,363,232,222.375,346.375,242.875,366.390625,4,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,52, of ,9477,2020197,354,236,222.375,346.375,242.875,366.390625,4,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,52, of ,9527,2020247,352,238,222.375,346.375,242.875,366.390625,4,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,52, of ,9577,2020297,361,238,222.375,346.375,242.875,366.390625,4,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,53, people.” ,9627,2020346,429,228,222.375,366.390625,242.875,436.4453125,4,2,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,55," far, ",9677,2020397,485,224,222.375,463.46875,242.875,493.4921875,4,4,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,57, Google ,9727,2020447,561,224,222.375,523.515625,242.875,586.5625,4,6,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,9777,2020497,612,224,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,9827,2020547,694,220,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,9877,2020596,723,221,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,9927,2020646,729,223,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,9977,2020697,729,223,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,10027,2020746,729,223,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,10077,2020797,729,223,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,10126,2020846,742,222,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,10176,2020896,802,217,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,10226,2020946,859,217,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,64, covered ,10277,2020996,889,224,222.375,883.7109375,242.875,952.75,4,13,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,64, covered ,10327,2021047,912,229,222.375,883.7109375,242.875,952.75,4,13,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,64, covered ,10377,2021097,937,232,222.375,883.7109375,242.875,952.75,4,13,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,65," 700,000 ",10427,2021147,963,231,222.375,952.75,242.875,1022.8203125,4,14,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,65," 700,000 ",10476,2021196,983,228,222.375,952.75,242.875,1022.8203125,4,14,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,65," 700,000 ",10527,2021247,1007,225,222.375,952.75,242.875,1022.8203125,4,14,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,10577,2021296,1027,223,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,10627,2021346,1041,221,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,10676,2021396,1047,223,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,66, miles ,10726,2021446,1030,231,222.375,1022.8203125,242.875,1064.828125,4,15,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,10777,2021496,937,237,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,10826,2021546,592,255,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,69, accident ,10877,2021597,446,266,262.375,433.4375,282.875,505.484375,5,3,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,67, without ,10927,2021647,393,270,262.375,346.375,282.875,408.4140625,5,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,10976,2021696,344,273,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,11026,2021746,322,273,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,11076,2021796,309,274,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,11127,2021846,307,275,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,11176,2021896,318,275,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,67, without ,11227,2021946,380,269,262.375,346.375,282.875,408.4140625,5,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,69, accident ,11277,2021997,454,268,262.375,433.4375,282.875,505.484375,5,3,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,70, caused ,11326,2022046,511,271,262.375,505.484375,282.875,568.53125,5,4,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,71, by ,11376,2022096,591,273,262.375,568.53125,282.875,592.546875,5,5,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,73, computer. ,11427,2022147,650,272,262.375,622.5703125,282.875,706.46875,5,7,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,73, computer. ,11477,2022197,675,271,262.375,622.5703125,282.875,706.46875,5,7,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,73, computer. ,11527,2022247,679,271,262.375,622.5703125,282.875,706.46875,5,7,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,73, computer. ,11578,2022297,679,271,262.375,622.5703125,282.875,706.46875,5,7,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,73, computer. ,11628,2022347,679,271,262.375,622.5703125,282.875,706.46875,5,7,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,73, computer. ,11678,2022397,679,271,262.375,622.5703125,282.875,706.46875,5,7,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,73, computer. ,11727,2022447,693,269,262.375,622.5703125,282.875,706.46875,5,7,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,75, company ,11777,2022496,794,264,262.375,742.328125,282.875,820.3671875,5,9,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,76, points ,11826,2022546,865,264,262.375,820.3671875,282.875,873.40625,5,10,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,77, out ,11877,2022596,901,267,262.375,873.40625,282.875,903.4296875,5,11,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,78, that ,11927,2022646,930,275,262.375,903.4296875,282.875,938.4609375,5,12,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,79, thousands ,11977,2022697,960,275,262.375,938.4609375,282.875,1026.53125,5,13,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,79, thousands ,12027,2022747,1002,272,262.375,938.4609375,282.875,1026.53125,5,13,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,80, of ,12077,2022797,1037,273,262.375,1026.53125,282.875,1041.546875,5,14,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,12126,2022846,1046,275,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,12176,2022896,1045,275,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,79, thousands ,12227,2022947,1013,276,262.375,938.4609375,282.875,1026.53125,5,13,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,12277,2022996,924,268,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,12326,2023046,621,257,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,69, accident ,12377,2023097,498,266,262.375,433.4375,282.875,505.484375,5,3,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,69, accident ,12426,2023146,452,275,262.375,433.4375,282.875,505.484375,5,3,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,12476,2023196,417,283,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,12527,2023246,389,289,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,12577,2023296,372,296,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,12626,2023346,369,299,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,81, people ,12676,2023396,370,305,302.375,346.375,322.875,405.4296875,6,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,81, people ,12727,2023447,383,314,302.375,346.375,322.875,405.4296875,6,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,81, people ,12777,2023497,396,319,302.375,346.375,322.875,405.4296875,6,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,82, die ,12827,2023547,434,318,302.375,405.4296875,322.875,434.453125,6,2,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,85, on ,12876,2023596,522,314,302.375,518.515625,322.875,543.5390625,6,5,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,87, roads ,12926,2023646,587,318,302.375,573.5625,322.875,623.59375,6,7,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,12976,2023696,613,321,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,13027,2023747,646,323,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,13077,2023796,647,323,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,13127,2023846,647,323,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,13177,2023897,647,323,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,13227,2023947,647,323,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,89, that ,13276,2023996,674,318,302.375,658.6328125,322.875,693.6640625,6,9,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,91, 80% ,13326,2024046,755,313,302.375,743.7109375,322.875,784.7421875,6,11,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,92, of ,13377,2024097,799,313,302.375,784.7421875,322.875,804.7578125,6,12,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,93, crashes ,13426,2024146,832,318,302.375,804.7578125,322.875,872.7890625,6,13,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,13476,2024196,861,321,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,13526,2024246,890,322,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,13576,2024296,905,321,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,95, be ,13627,2024347,912,320,302.375,906.8125,322.875,931.8359375,6,15,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,95, be ,13677,2024397,931,315,302.375,906.8125,322.875,931.8359375,6,15,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,96, ascribed ,13726,2024446,967,315,302.375,931.8359375,322.875,1004.875,6,16,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,96, ascribed ,13782,2024502,982,315,302.375,931.8359375,322.875,1004.875,6,16,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,98, human ,13826,2024546,1029,313,302.375,1024.890625,322.875,1079.9296875,6,18,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,98, human ,13876,2024596,1046,311,302.375,1024.890625,322.875,1079.9296875,6,18,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,98, human ,13927,2024647,1054,311,302.375,1024.890625,322.875,1079.9296875,6,18,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,98, human ,13976,2024696,1053,313,302.375,1024.890625,322.875,1079.9296875,6,18,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,14026,2024746,1035,317,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,93, crashes ,14076,2024796,815,307,302.375,804.7578125,322.875,872.7890625,6,13,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,14127,2024846,674,304,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,84, year ,14177,2024897,492,314,302.375,478.4921875,322.875,518.515625,6,4,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,14226,2024946,429,322,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,14276,2024996,395,327,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,14326,2025046,378,334,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,99, error. ,14377,2025097,368,344,342.375,346.375,362.875,393.3984375,7,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,99, error. ,14427,2025147,357,351,342.375,346.375,362.875,393.3984375,7,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,14477,2025197,346,355,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,14526,2025246,341,358,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,99, error. ,14576,2025296,359,358,342.375,346.375,362.875,393.3984375,7,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,101, they ,14626,2025346,433,358,342.375,430.421875,362.875,469.4453125,7,3,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,103, have ,14677,2025397,519,356,342.375,517.484375,362.875,561.5234375,7,5,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,104, some ,14727,2025446,571,356,342.375,561.5234375,362.875,610.546875,7,6,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,104, some ,14777,2025497,604,356,342.375,561.5234375,362.875,610.546875,7,6,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,105, way ,14828,2025547,611,357,342.375,610.546875,362.875,647.5625,7,7,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,105, way ,14877,2025597,611,357,342.375,610.546875,362.875,647.5625,7,7,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,105, way ,14928,2025648,611,357,342.375,610.546875,362.875,647.5625,7,7,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,105, way ,14978,2025697,611,357,342.375,610.546875,362.875,647.5625,7,7,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,105, way ,15027,2025747,618,357,342.375,610.546875,362.875,647.5625,7,7,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,108, to ,15076,2025796,708,356,342.375,692.6015625,362.875,712.6171875,7,10,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,110, Conyon ,15127,2025847,791,356,342.375,766.640625,362.875,833.6875,7,12,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,110, Conyon ,15176,2025896,831,356,342.375,766.640625,362.875,833.6875,7,12,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,111, at ,15228,2025947,841,356,342.375,833.6875,362.875,853.703125,7,13,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,111, at ,15277,2025997,841,356,342.375,833.6875,362.875,853.703125,7,13,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,111, at ,15328,2026048,841,356,342.375,833.6875,362.875,853.703125,7,13,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,111, at ,15377,2026097,842,356,342.375,833.6875,362.875,853.703125,7,13,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,112, the ,15426,2026146,883,360,342.375,853.703125,362.875,883.7265625,7,14,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,15476,2026196,948,362,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,114, Taxi ,15527,2026247,980,358,342.375,954.6171875,362.875,990.984375,7,16,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,115, Association. ,15576,2026296,996,355,342.375,990.984375,362.875,1087.546875,7,17,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,115, Association. ,15626,2026346,1015,358,342.375,990.984375,362.875,1087.546875,7,17,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,15676,2026396,1027,363,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,15727,2026446,1029,364,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,15777,2026497,1022,364,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,15826,2026546,955,360,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,104, some ,15876,2026596,602,346,342.375,561.5234375,362.875,610.546875,7,6,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,15927,2026647,496,359,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,15976,2026696,400,383,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,116, Aged ,16026,2026746,382,391,382.375,346.375,402.875,393.4140625,8,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,116, Aged ,16077,2026797,374,394,382.375,346.375,402.875,393.4140625,8,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,116, Aged ,16127,2026847,364,396,382.375,346.375,402.875,393.4140625,8,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,116, Aged ,16177,2026896,356,397,382.375,346.375,402.875,393.4140625,8,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,116, Aged ,16227,2026947,354,397,382.375,346.375,402.875,393.4140625,8,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,116, Aged ,16276,2026996,363,396,382.375,346.375,402.875,393.4140625,8,1,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,118, he ,16327,2027047,428,388,382.375,423.4375,402.875,448.4609375,8,3,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,120, been ,16376,2027096,523,386,382.375,482.484375,402.875,527.53125,8,5,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,123, taxi ,16426,2027146,609,391,382.375,600.578125,402.875,633.59375,8,8,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,125, 50 ,16476,2027196,661,396,382.375,659.6015625,402.875,684.625,8,10,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,126, years ,16527,2027247,703,398,382.375,684.625,402.875,733.6484375,8,11,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,126, years ,16576,2027296,721,398,382.375,684.625,402.875,733.6484375,8,11,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,126, years ,16628,2027348,722,398,382.375,684.625,402.875,733.6484375,8,11,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,126, years ,16678,2027397,722,398,382.375,684.625,402.875,733.6484375,8,11,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,126, years ,16728,2027448,722,398,382.375,684.625,402.875,733.6484375,8,11,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,126, years ,16776,2027496,723,398,382.375,684.625,402.875,733.6484375,8,11,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,127, and ,16827,2027547,768,396,382.375,733.6484375,402.875,768.6875,8,12,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,129, never ,16877,2027597,844,396,382.375,824.6953125,402.875,874.7265625,8,14,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,130, to ,16927,2027647,891,396,382.375,874.7265625,402.875,894.7421875,8,15,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,16976,2027696,919,401,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,17026,2027746,936,403,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,132, had ,17077,2027797,956,399,382.375,938.78125,402.875,973.8203125,8,17,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,133, an ,17127,2027846,981,396,382.375,973.8203125,402.875,998.84375,8,18,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,134, accident. ,17177,2027897,1000,395,382.375,998.84375,402.875,1070.890625,8,19,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,134, accident. ,17227,2027947,1008,395,382.375,998.84375,402.875,1070.890625,8,19,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,134, accident. ,17277,2027997,1009,397,382.375,998.84375,402.875,1070.890625,8,19,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,17326,2028046,971,407,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,17376,2028096,879,429,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,17427,2028146,879,429,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,17477,2028197,879,429,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,17526,2028246,879,429,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,17576,2028296,879,429,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,17626,2028346,879,429,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,17676,2028396,879,429,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,17727,2028447,879,429,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,17777,2028497,879,429,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,7,67,68,-1,999,17827,2028546,879,429,,,,,,,Accidents that are caused by the car’s computer,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
