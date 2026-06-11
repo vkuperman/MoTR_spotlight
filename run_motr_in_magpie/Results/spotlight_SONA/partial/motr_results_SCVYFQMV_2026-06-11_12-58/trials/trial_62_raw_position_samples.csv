@@ -1,0 +1,308 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,3,adv,9,1,61,62,66, in ,3430,1880447,462,268,262.375,457.453125,282.875,476.46875,5,2,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,20, make ,3480,1880497,407,158,142.375,376.3984375,162.875,425.421875,2,2,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,3529,1880546,393,128,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,3579,1880596,389,128,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,3629,1880646,387,138,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,20, make ,3680,1880697,386,144,142.375,376.3984375,162.875,425.421875,2,2,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,3729,1880747,384,141,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,3779,1880796,375,128,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,3829,1880846,369,122,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,3880,1880897,366,121,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,1, Unveiling ,3929,1880946,377,121,102.375,346.375,122.875,425.421875,1,1,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,3, car ,3980,1880997,454,121,102.375,440.4375,122.875,470.4453125,1,3,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,7, speed ,4030,1881047,572,119,102.375,552.5,122.875,606.546875,1,7,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,9," 25mph, ",4080,1881097,632,119,102.375,626.5625,122.875,691.6015625,1,9,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,9," 25mph, ",4129,1881146,661,116,102.375,626.5625,122.875,691.6015625,1,9,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,9," 25mph, ",4180,1881197,676,114,102.375,626.5625,122.875,691.6015625,1,9,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,10, two ,4230,1881247,694,114,102.375,691.6015625,122.875,724.6171875,1,10,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,10, two ,4280,1881297,715,116,102.375,691.6015625,122.875,724.6171875,1,10,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,11, seats ,4329,1881347,738,119,102.375,724.6171875,122.875,772.640625,1,11,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,11, seats ,4380,1881397,741,119,102.375,724.6171875,122.875,772.640625,1,11,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,11, seats ,4429,1881447,741,119,102.375,724.6171875,122.875,772.640625,1,11,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,11, seats ,4480,1881497,741,119,102.375,724.6171875,122.875,772.640625,1,11,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,11, seats ,4529,1881546,747,119,102.375,724.6171875,122.875,772.640625,1,11,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,12, and ,4580,1881597,799,114,102.375,772.640625,122.875,807.6796875,1,12,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,14, pedals ,4630,1881647,878,109,102.375,832.703125,122.875,890.75,1,14,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,4680,1881697,908,105,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,4729,1881747,941,101,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,4779,1881796,958,100,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,4829,1881847,977,98,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,4880,1881897,996,99,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,17, wheel ,4929,1881946,1010,104,102.375,980.796875,122.875,1032.828125,1,17,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,17, wheel ,4980,1881997,1024,107,102.375,980.796875,122.875,1032.828125,1,17,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,18, might ,5029,1882046,1036,109,102.375,1032.828125,122.875,1076.84375,1,18,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,18, might ,5080,1882097,1047,110,102.375,1032.828125,122.875,1076.84375,1,18,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,18, might ,5130,1882147,1056,110,102.375,1032.828125,122.875,1076.84375,1,18,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,18, might ,5179,1882196,1060,110,102.375,1032.828125,122.875,1076.84375,1,18,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,18, might ,5229,1882246,1040,111,102.375,1032.828125,122.875,1076.84375,1,18,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,5279,1882297,951,116,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,5330,1882347,676,137,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,5379,1882396,521,138,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,5430,1882447,460,139,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,5479,1882496,423,143,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,20, make ,5530,1882547,398,149,142.375,376.3984375,162.875,425.421875,2,2,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,20, make ,5580,1882597,380,152,142.375,376.3984375,162.875,425.421875,2,2,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,19, not ,5630,1882647,364,155,142.375,346.375,162.875,376.3984375,2,1,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,19, not ,5680,1882697,352,157,142.375,346.375,162.875,376.3984375,2,1,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,19, not ,5730,1882748,347,157,142.375,346.375,162.875,376.3984375,2,1,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,19, not ,5779,1882796,353,157,142.375,346.375,162.875,376.3984375,2,1,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,20, make ,5829,1882847,392,157,142.375,376.3984375,162.875,425.421875,2,2,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,21, much ,5880,1882897,465,157,142.375,425.421875,162.875,474.4453125,2,3,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,23, an ,5930,1882947,517,157,142.375,494.4609375,162.875,519.484375,2,5,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,24, impression ,5979,1882997,559,157,142.375,519.484375,162.875,611.515625,2,6,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,24, impression ,6028,1883046,595,157,142.375,519.484375,162.875,611.515625,2,6,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,25, at ,6079,1883097,617,157,142.375,611.515625,162.875,631.53125,2,7,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,26, a ,6130,1883147,639,155,142.375,631.53125,162.875,646.546875,2,8,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,27, motor ,6180,1883197,665,155,142.375,646.546875,162.875,697.5625,2,9,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,28, show. ,6230,1883247,700,155,142.375,697.5625,162.875,748.6015625,2,10,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,28, show. ,6279,1883296,740,155,142.375,697.5625,162.875,748.6015625,2,10,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,29, But ,6330,1883347,762,155,142.375,748.6015625,162.875,780.625,2,11,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,29, But ,6380,1883397,769,155,142.375,748.6015625,162.875,780.625,2,11,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,29, But ,6430,1883447,769,155,142.375,748.6015625,162.875,780.625,2,11,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,29, But ,6480,1883498,769,155,142.375,748.6015625,162.875,780.625,2,11,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,29, But ,6530,1883547,769,155,142.375,748.6015625,162.875,780.625,2,11,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,29, But ,6579,1883597,769,155,142.375,748.6015625,162.875,780.625,2,11,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,30," Google, ",6629,1883647,793,155,142.375,780.625,162.875,848.671875,2,12,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,30," Google, ",6680,1883697,835,150,142.375,780.625,162.875,848.671875,2,12,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,31, in ,6730,1883747,857,146,142.375,848.671875,162.875,867.6875,2,13,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,32, the ,6779,1883797,878,144,142.375,867.6875,162.875,897.7109375,2,14,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,33," US, ",6830,1883847,909,144,142.375,897.7109375,162.875,932.71875,2,15,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,34, sent ,6880,1883897,947,145,142.375,932.71875,162.875,971.7421875,2,16,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,34, sent ,6929,1883947,971,152,142.375,932.71875,162.875,971.7421875,2,16,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,36, minor ,6979,1883996,987,153,142.375,986.7578125,162.875,1031.7734375,2,18,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,36, minor ,7029,1884047,999,151,142.375,986.7578125,162.875,1031.7734375,2,18,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,36, minor ,7079,1884096,1007,149,142.375,986.7578125,162.875,1031.7734375,2,18,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,36, minor ,7130,1884147,1012,149,142.375,986.7578125,162.875,1031.7734375,2,18,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,36, minor ,7179,1884196,1012,149,142.375,986.7578125,162.875,1031.7734375,2,18,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,35, a ,7230,1884247,979,152,142.375,971.7421875,162.875,986.7578125,2,17,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,7279,1884296,868,159,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,7329,1884347,579,174,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,38, through ,7379,1884396,449,186,182.375,441.453125,202.875,507.5078125,3,2,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,37, earthquake ,7429,1884447,390,189,182.375,346.375,202.875,441.453125,3,1,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,37, earthquake ,7479,1884496,367,190,182.375,346.375,202.875,441.453125,3,1,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,37, earthquake ,7529,1884547,348,194,182.375,346.375,202.875,441.453125,3,1,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,7580,1884597,333,197,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,7629,1884646,327,197,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,7679,1884697,330,197,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,37, earthquake ,7729,1884747,360,197,182.375,346.375,202.875,441.453125,3,1,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,37, earthquake ,7780,1884797,407,197,182.375,346.375,202.875,441.453125,3,1,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,38, through ,7830,1884847,450,197,182.375,441.453125,202.875,507.5078125,3,2,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,38, through ,7879,1884897,490,197,182.375,441.453125,202.875,507.5078125,3,2,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,39, the ,7930,1884947,528,193,182.375,507.5078125,202.875,537.53125,3,3,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,41, and ,7979,1884996,575,189,182.375,567.5390625,202.875,602.578125,3,5,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,42, taxi ,8029,1885047,628,190,182.375,602.578125,202.875,635.59375,3,6,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,43, industries ,8080,1885097,661,190,182.375,635.59375,202.875,717.6328125,3,7,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,43, industries ,8129,1885147,675,189,182.375,635.59375,202.875,717.6328125,3,7,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,43, industries ,8180,1885198,676,189,182.375,635.59375,202.875,717.6328125,3,7,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,43, industries ,8231,1885248,676,189,182.375,635.59375,202.875,717.6328125,3,7,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,43, industries ,8280,1885298,676,189,182.375,635.59375,202.875,717.6328125,3,7,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,43, industries ,8330,1885347,676,189,182.375,635.59375,202.875,717.6328125,3,7,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,43, industries ,8380,1885397,680,189,182.375,635.59375,202.875,717.6328125,3,7,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,44, as ,8430,1885447,731,192,182.375,717.6328125,202.875,741.6484375,3,8,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,8479,1885497,798,201,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,8529,1885546,835,206,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,8579,1885596,857,206,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,8630,1885647,891,204,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,8679,1885697,922,207,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,8729,1885746,942,207,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,8779,1885796,959,207,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,50, of ,8830,1885847,969,198,182.375,968.7890625,202.875,988.8046875,3,14,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,50, of ,8880,1885897,980,193,182.375,968.7890625,202.875,988.8046875,3,14,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,51, its ,8929,1885947,992,190,182.375,988.8046875,202.875,1011.8125,3,15,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,51, its ,8979,1885997,1004,190,182.375,988.8046875,202.875,1011.8125,3,15,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,51, its ,9030,1886047,1004,190,182.375,988.8046875,202.875,1011.8125,3,15,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,51, its ,9079,1886096,1004,190,182.375,988.8046875,202.875,1011.8125,3,15,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,52, driverless ,9130,1886147,1062,201,182.375,1011.8125,202.875,1088.8359375,3,16,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,52, driverless ,9180,1886197,1067,200,182.375,1011.8125,202.875,1088.8359375,3,16,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,52, driverless ,9229,1886247,1067,199,182.375,1011.8125,202.875,1088.8359375,3,16,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,52, driverless ,9280,1886297,1044,198,182.375,1011.8125,202.875,1088.8359375,3,16,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,9329,1886346,963,198,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,9379,1886396,637,212,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,56, powered ,9429,1886447,537,232,222.375,505.1328125,242.875,579.1875,4,4,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,9480,1886497,493,241,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,9529,1886546,456,241,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,55, electrically ,9580,1886597,420,240,222.375,416.1015625,242.875,505.1328125,4,3,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,54, The ,9629,1886647,392,236,222.375,380.2421875,242.875,416.1015625,4,2,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,53, car. ,9680,1886697,360,232,222.375,346.375,242.875,380.2421875,4,1,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,9730,1886747,344,232,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,9779,1886797,341,231,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,9829,1886846,343,231,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,53, car. ,9879,1886897,361,231,222.375,346.375,242.875,380.2421875,4,1,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,55, electrically ,9929,1886947,421,230,222.375,416.1015625,242.875,505.1328125,4,3,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,55, electrically ,9979,1886997,463,228,222.375,416.1015625,242.875,505.1328125,4,3,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,55, electrically ,10030,1887047,489,227,222.375,416.1015625,242.875,505.1328125,4,3,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,56, powered ,10080,1887097,512,225,222.375,505.1328125,242.875,579.1875,4,4,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,56, powered ,10129,1887147,535,225,222.375,505.1328125,242.875,579.1875,4,4,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,56, powered ,10179,1887197,579,229,222.375,505.1328125,242.875,579.1875,4,4,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,57," vehicle, ",10230,1887247,597,230,222.375,579.1875,242.875,645.2265625,4,5,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,57," vehicle, ",10280,1887297,597,230,222.375,579.1875,242.875,645.2265625,4,5,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,57," vehicle, ",10330,1887347,597,230,222.375,579.1875,242.875,645.2265625,4,5,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,57," vehicle, ",10380,1887398,597,230,222.375,579.1875,242.875,645.2265625,4,5,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,57," vehicle, ",10430,1887447,625,229,222.375,579.1875,242.875,645.2265625,4,5,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,58, which ,10480,1887497,690,229,222.375,645.2265625,242.875,696.25,4,6,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,59, Google ,10529,1887547,751,229,222.375,696.25,242.875,759.296875,4,7,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,60, has ,10579,1887597,775,230,222.375,759.296875,242.875,793.3203125,4,8,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,61, begun ,10630,1887647,794,233,222.375,793.3203125,242.875,848.375,4,9,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,61, begun ,10679,1887696,823,236,222.375,793.3203125,242.875,848.375,4,9,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,62, testing ,10730,1887747,858,231,222.375,848.375,242.875,906.4140625,4,10,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,62, testing ,10780,1887797,890,230,222.375,848.375,242.875,906.4140625,4,10,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,63, around ,10829,1887846,907,232,222.375,906.4140625,242.875,967.46875,4,11,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,63, around ,10880,1887897,917,232,222.375,906.4140625,242.875,967.46875,4,11,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,63, around ,10929,1887946,936,233,222.375,906.4140625,242.875,967.46875,4,11,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,63, around ,10979,1887996,944,233,222.375,906.4140625,242.875,967.46875,4,11,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,63, around ,11029,1888047,949,232,222.375,906.4140625,242.875,967.46875,4,11,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,63, around ,11080,1888097,948,232,222.375,906.4140625,242.875,967.46875,4,11,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,11129,1888146,891,220,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,11180,1888197,632,204,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,55, electrically ,11229,1888246,420,238,222.375,416.1015625,242.875,505.1328125,4,3,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,11279,1888296,345,257,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,11329,1888346,322,263,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,11379,1888397,314,265,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,11429,1888447,313,267,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,11480,1888497,320,279,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,11529,1888546,371,285,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,65, headquarters ,11580,1888597,422,275,262.375,346.375,282.875,457.453125,5,1,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,65, headquarters ,11629,1888647,456,272,262.375,346.375,282.875,457.453125,5,1,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,67, Mountain ,11679,1888697,479,271,262.375,476.46875,282.875,555.5234375,5,3,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,67, Mountain ,11730,1888747,503,271,262.375,476.46875,282.875,555.5234375,5,3,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,67, Mountain ,11779,1888797,527,271,262.375,476.46875,282.875,555.5234375,5,3,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,67, Mountain ,11830,1888847,534,271,262.375,476.46875,282.875,555.5234375,5,3,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,67, Mountain ,11879,1888897,534,271,262.375,476.46875,282.875,555.5234375,5,3,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,67, Mountain ,11931,1888948,534,271,262.375,476.46875,282.875,555.5234375,5,3,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,67, Mountain ,11981,1888998,534,271,262.375,476.46875,282.875,555.5234375,5,3,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,67, Mountain ,12030,1889047,535,271,262.375,476.46875,282.875,555.5234375,5,3,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,69," California, ",12079,1889097,630,271,262.375,603.2421875,282.875,689.28125,5,5,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,70, dispenses ,12130,1889147,731,274,262.375,689.28125,282.875,775.3359375,5,6,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,70, dispenses ,12179,1889197,759,275,262.375,689.28125,282.875,775.3359375,5,6,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,70, dispenses ,12229,1889247,760,275,262.375,689.28125,282.875,775.3359375,5,6,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,70, dispenses ,12280,1889298,760,275,262.375,689.28125,282.875,775.3359375,5,6,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,70, dispenses ,12331,1889348,760,275,262.375,689.28125,282.875,775.3359375,5,6,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,70, dispenses ,12380,1889398,760,275,262.375,689.28125,282.875,775.3359375,5,6,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,71, with ,12429,1889447,790,272,262.375,775.3359375,282.875,812.3515625,5,7,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,74, normal ,12480,1889497,910,268,262.375,865.390625,282.875,925.4140625,5,10,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,75," controls, ",12529,1889547,977,265,262.375,925.4140625,282.875,998.4453125,5,11,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,76, including ,12580,1889597,1001,265,262.375,998.4453125,282.875,1069.5,5,12,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,76, including ,12630,1889647,1004,265,262.375,998.4453125,282.875,1069.5,5,12,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,76, including ,12681,1889698,1004,265,262.375,998.4453125,282.875,1069.5,5,12,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,76, including ,12731,1889748,1004,265,262.375,998.4453125,282.875,1069.5,5,12,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,76, including ,12779,1889796,1007,265,262.375,998.4453125,282.875,1069.5,5,12,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,76, including ,12829,1889847,1025,265,262.375,998.4453125,282.875,1069.5,5,12,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,12879,1889896,1047,263,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,12929,1889946,1052,262,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,12979,1889997,949,262,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,13030,1890047,601,262,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,13079,1890096,441,289,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,13129,1890147,412,300,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,13179,1890197,412,300,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,13230,1890247,412,300,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,13279,1890296,410,300,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,13329,1890347,397,303,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,77, foot ,13380,1890397,360,309,302.375,346.375,322.875,381.40625,6,1,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,13429,1890447,344,311,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,13480,1890497,342,311,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,13529,1890546,346,311,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,77, foot ,13580,1890597,368,315,302.375,346.375,322.875,381.40625,6,1,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,78, pedals. ,13630,1890647,429,317,302.375,381.40625,322.875,444.453125,6,2,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,79," Instead, ",13680,1890698,485,317,302.375,444.453125,322.875,513.5,6,3,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,81, has ,13729,1890746,551,317,302.375,527.5078125,322.875,561.53125,6,5,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,83, smartphone ,13780,1890797,592,315,302.375,576.546875,322.875,676.6015625,6,7,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,83, smartphone ,13829,1890847,617,317,302.375,576.546875,322.875,676.6015625,6,7,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,83, smartphone ,13879,1890897,622,318,302.375,576.546875,322.875,676.6015625,6,7,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,83, smartphone ,13929,1890947,622,318,302.375,576.546875,322.875,676.6015625,6,7,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,83, smartphone ,13980,1890997,622,318,302.375,576.546875,322.875,676.6015625,6,7,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,83, smartphone ,14029,1891047,626,318,302.375,576.546875,322.875,676.6015625,6,7,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,85, that ,14079,1891097,718,314,302.375,711.640625,322.875,746.671875,6,9,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,86, summons ,14130,1891147,814,314,302.375,746.671875,322.875,829.6953125,6,10,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,88, and ,14179,1891197,845,315,302.375,843.703125,322.875,878.7421875,6,12,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,88, and ,14229,1891246,850,315,302.375,843.703125,322.875,878.7421875,6,12,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,88, and ,14279,1891296,852,315,302.375,843.703125,322.875,878.7421875,6,12,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,88, and ,14329,1891347,853,315,302.375,843.703125,322.875,878.7421875,6,12,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,88, and ,14380,1891397,853,315,302.375,843.703125,322.875,878.7421875,6,12,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,88, and ,14429,1891447,853,315,302.375,843.703125,322.875,878.7421875,6,12,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,88, and ,14480,1891497,861,316,302.375,843.703125,322.875,878.7421875,6,12,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,14530,1891547,910,326,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,14579,1891596,983,334,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,14629,1891646,1004,332,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,14679,1891696,1019,325,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,92," destination, ",14730,1891747,1035,321,302.375,959.7890625,322.875,1056.859375,6,16,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,92," destination, ",14779,1891797,1052,317,302.375,959.7890625,322.875,1056.859375,6,16,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,93, and ,14829,1891846,1065,317,302.375,1056.859375,322.875,1086.8984375,6,17,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,93, and ,14879,1891897,1074,319,302.375,1056.859375,322.875,1086.8984375,6,17,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,93, and ,14929,1891947,1084,320,302.375,1056.859375,322.875,1086.8984375,6,17,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,14979,1891997,1091,318,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,15029,1892047,1092,318,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,15079,1892097,1082,318,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,84, app ,15147,1892164,684,321,302.375,676.6015625,322.875,711.640625,6,8,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,82, a ,15180,1892197,571,321,302.375,561.53125,322.875,576.546875,6,6,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,15229,1892247,493,331,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,15279,1892297,458,337,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,15329,1892347,430,338,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,15379,1892396,401,341,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,95, single ,15429,1892446,382,349,342.375,361.390625,362.875,413.421875,7,2,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,95, single ,15479,1892496,366,358,342.375,361.390625,362.875,413.421875,7,2,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,15529,1892547,357,362,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,15579,1892596,352,363,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,15628,1892645,351,363,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,94, a ,15679,1892697,357,360,342.375,346.375,362.875,361.390625,7,1,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,95, single ,15729,1892746,398,359,342.375,361.390625,362.875,413.421875,7,2,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,96, STOP ,15779,1892796,454,358,342.375,413.421875,362.875,466.8046875,7,3,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,97, button ,15830,1892848,496,358,342.375,466.8046875,362.875,521.8515625,7,4,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,98, mounted ,15880,1892897,527,358,342.375,521.8515625,362.875,596.90625,7,5,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,98, mounted ,15929,1892946,556,358,342.375,521.8515625,362.875,596.90625,7,5,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,98, mounted ,15979,1892997,577,357,342.375,521.8515625,362.875,596.90625,7,5,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,99, between ,16029,1893047,603,352,342.375,596.90625,362.875,669.9609375,7,6,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,99, between ,16080,1893097,641,348,342.375,596.90625,362.875,669.9609375,7,6,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,100, the ,16130,1893147,696,345,342.375,669.9609375,362.875,699.984375,7,7,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,102, front-facing ,16179,1893197,755,344,342.375,733,362.875,828.046875,7,9,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,102, front-facing ,16229,1893246,777,350,342.375,733,362.875,828.046875,7,9,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,102, front-facing ,16280,1893297,779,351,342.375,733,362.875,828.046875,7,9,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,102, front-facing ,16330,1893348,779,351,342.375,733,362.875,828.046875,7,9,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,102, front-facing ,16380,1893397,779,351,342.375,733,362.875,828.046875,7,9,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,102, front-facing ,16429,1893447,779,351,342.375,733,362.875,828.046875,7,9,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,103, seats ,16479,1893496,837,351,342.375,828.046875,362.875,876.0703125,7,10,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,105, case ,16529,1893547,923,351,342.375,895.0859375,362.875,938.109375,7,12,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,106, the ,16579,1893597,955,346,342.375,938.109375,362.875,968.1328125,7,13,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,107, occupants ,16629,1893647,971,344,342.375,968.1328125,362.875,1050.1875,7,14,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,107, occupants ,16680,1893697,985,349,342.375,968.1328125,362.875,1050.1875,7,14,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,107, occupants ,16730,1893747,1005,356,342.375,968.1328125,362.875,1050.1875,7,14,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,107, occupants ,16779,1893796,1027,358,342.375,968.1328125,362.875,1050.1875,7,14,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,16829,1893847,1051,356,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,16879,1893896,1069,353,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,16929,1893946,1074,352,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,16980,1893997,1058,349,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,17029,1894046,720,321,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,17079,1894097,523,353,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,17129,1894147,370,393,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,17179,1894196,281,402,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,17229,1894247,260,405,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,17279,1894297,254,406,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,17329,1894346,271,406,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,17379,1894396,337,404,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,17429,1894447,380,404,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,17479,1894497,401,405,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,17529,1894547,418,406,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,17579,1894596,446,406,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,17629,1894646,470,405,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,17679,1894697,484,402,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,111, the ,17730,1894747,495,398,382.375,481.46875,402.875,511.4921875,8,4,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,111, the ,17780,1894797,507,392,382.375,481.46875,402.875,511.4921875,8,4,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,112, computer. ,17829,1894846,529,390,382.375,511.4921875,402.875,590.546875,8,5,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,112, computer. ,17879,1894896,563,390,382.375,511.4921875,402.875,590.546875,8,5,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,112, computer. ,17929,1894947,591,394,382.375,511.4921875,402.875,590.546875,8,5,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,17979,1894996,606,398,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,18029,1895046,611,399,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,18079,1895097,612,399,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,18129,1895147,612,399,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,18179,1895197,612,399,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,18229,1895247,622,417,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,18279,1895297,622,417,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,18329,1895346,622,417,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,18378,1895396,622,417,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,18429,1895447,622,417,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,18479,1895497,622,417,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,18529,1895546,622,417,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,18580,1895597,622,417,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,18629,1895647,622,417,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,18679,1895697,622,417,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,1,61,62,-1,999,18729,1895747,622,417,,,,,,,It drew strong attention from the industry,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
