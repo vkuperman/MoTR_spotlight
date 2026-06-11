@@ -3,6 +3,8 @@ name: Build and Deploy Spotlight apps to GitHub Pages
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - 'run_motr_in_magpie/Results/**'
 
 jobs:
   build-and-deploy:

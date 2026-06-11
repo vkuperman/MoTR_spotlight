@@ -101,6 +101,9 @@ async function uploadResultsFile(
       isTest: !!isTest,
       resultsScope: resultsScope === 'partial' ? 'partial' : 'complete',
     };
+    if (magpieConfig.studyKey) {
+      payload.studyKey = magpieConfig.studyKey;
+    }
     if (githubResultsPath && typeof githubResultsPath === 'string' && githubResultsPath.trim() !== '') {
       payload.githubResultsPath = githubResultsPath.trim();
     }

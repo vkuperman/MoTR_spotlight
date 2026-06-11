@@ -18,6 +18,22 @@
 
 import { gunzipSync } from 'zlib';
 
+const STUDY_KEY_BY_APP = {
+  SONA: 'spotlight_SONA',
+  PROLIFIC: 'spotlight_PROLIFIC',
+};
+
+function normalizeResultsPath(pathValue) {
+  return String(pathValue || '')
+    .replace(/\\/g, '/')
+    .replace(/\/+$/, '');
+}
+
+function expectedStudyKeyForDeployment() {
+  const app = String(process.env.SPOTLIGHT_APP || '').toUpperCase();
+  return STUDY_KEY_BY_APP[app] || '';
+}
+
 function safeParticipantId(id) {
   if (id == null || typeof id !== 'string') return 'unknown';
   return id.replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 64) || 'unknown';
@@ -140,7 +156,29 @@ export default async function handler(req, res) {
   }
 
   const participantId = safeParticipantId(body.participantId);
-  const resultsPath = String(body.githubResultsPath || defaultResultsPath).replace(/\/+$/, '');
+  const serverResultsPath = normalizeResultsPath(defaultResultsPath);
+  const requestedResultsPath = normalizeResultsPath(body.githubResultsPath || serverResultsPath);
+  const expectedStudyKey = expectedStudyKeyForDeployment();
+
+  if (body.studyKey && expectedStudyKey && body.studyKey !== expectedStudyKey) {
+    return res.status(403).json({
+      error: 'studyKey does not match this API deployment',
+      expectedStudyKey,
+      receivedStudyKey: body.studyKey,
+      spotlightApp: process.env.SPOTLIGHT_APP || '',
+    });
+  }
+
+  if (requestedResultsPath !== serverResultsPath) {
+    return res.status(403).json({
+      error: 'githubResultsPath does not match this API deployment',
+      expectedGithubResultsPath: serverResultsPath,
+      receivedGithubResultsPath: requestedResultsPath,
+      spotlightApp: process.env.SPOTLIGHT_APP || '',
+    });
+  }
+
+  const resultsPath = serverResultsPath;
   const timestamp = new Date().toISOString().replace(/[:.]/g, '-').slice(0, 19);
   const isTest = body.isTest === true || body.isTest === 'true';
   const resultsScope = body.resultsScope === 'partial' ? 'partial' : 'complete';
@@ -178,7 +216,7 @@ export default async function handler(req, res) {
           githubBranch,
           repoPath,
           fileBuffer,
-          commitMessage: `Add results file: ${folderName}/${fileName}`,
+          commitMessage: `[skip ci] Add results file: ${folderName}/${fileName}`,
         });
         result.path = repoPath;
       } else {
@@ -191,7 +229,7 @@ export default async function handler(req, res) {
           githubBranch,
           repoPath: filename,
           fileBuffer,
-          commitMessage: `Add results: ${participantId}_motr_results_${timestamp}.zip`,
+          commitMessage: `[skip ci] Add results: ${participantId}_motr_results_${timestamp}.zip`,
         });
         result.path = filename;
       }

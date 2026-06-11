@@ -54,7 +54,9 @@ Both need: `GITHUB_TOKEN`, `GITHUB_REPO=vkuperman/MoTR_spotlight`, `GITHUB_BRANC
 
 Set each app’s `resultsUploadUrl` in `studyConfig.js` to match its Vercel URL.
 
-Optional: POST body `githubResultsPath` overrides env (see `api/upload-results.js`).
+Each upload POST must include `studyKey` and `githubResultsPath` matching that deployment (`spotlight_SONA` vs `spotlight_PROLIFIC`). Cross-pipeline uploads are rejected with HTTP 403.
+
+Results commits use `[skip ci]` in the message. Vercel projects use `scripts/vercel-ignore-build.sh` so results-only pushes do not redeploy both apps.
 
 ### One-time Vercel setup
 

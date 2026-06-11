@@ -91,38 +91,36 @@
             <input v-if="trial.onestop_manual_article_numbers" type="hidden" class="onestop_manual_article_numbers" :value="trial.onestop_manual_article_numbers">
           </form>
           <div class="oval-cursor"></div>
-          <div class="trial-slide-layout">
-            <div class="trial-text-region">
-              <div class="text-height-spacer" aria-hidden="true">{{ trial.text }}</div>
-              <div v-if="showFirstDiv" class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
-                <template v-for="(word, index) of trial.text.split(' ')">
-                  <span :key="index" :data-index="index + 1">
-                    {{ word }}
-                  </span>
-                </template>
-              </div>
-              <div class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;">
-                {{ trial.text }}
-              </div>
+          <template v-if="showFirstDiv">
+            <div class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
+              <template v-for="(word, index) of trial.text.split(' ')">
+                <span :key="index" :data-index="index + 1">
+                  {{ word }}
+                </span>
+              </template>
             </div>
+            <div class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;">
+              {{ trial.text }}
+            </div>
+            <div class="reading-text-spacer" aria-hidden="true">{{ trial.text }}</div>
+          </template>
 
-            <div v-if="!showFirstDiv" class="trial-comprehension-panel">
-              <form>
-                <div>{{ (trial.question || '').replace(/ ?["]+/g, '') }}</div>
-                <template v-for="(word, index) of trial.response_options">
-                  <input :id="'opt_'+index" type="radio" :value="word" name="opt" v-model="$magpie.measurements.response"/>{{ word }}<br/>
-                </template>
-              </form>
-            </div>
+          <div v-if="!showFirstDiv" class="trial-comprehension-panel">
+            <form>
+              <div>{{ (trial.question || '').replace(/ ?["]+/g, '') }}</div>
+              <template v-for="(word, index) of trial.response_options">
+                <input :id="'opt_'+index" type="radio" :value="word" name="opt" v-model="$magpie.measurements.response"/>{{ word }}<br/>
+              </template>
+            </form>
+          </div>
 
-            <div class="trial-actions">
-              <button v-if="showFirstDiv" type="button" class="trial-done-btn" @click="toggleDivs" :disabled="!isCursorMoving">
-                Done
-              </button>
-              <button v-if="!showFirstDiv && $magpie.measurements.response" type="button" class="trial-next-btn" @click="submitTrialResponse(trial, i)">
-                Next
-              </button>
-            </div>
+          <div class="trial-actions">
+            <button v-if="showFirstDiv" type="button" class="trial-done-btn" @click="toggleDivs" :disabled="!isCursorMoving">
+              Done
+            </button>
+            <button v-if="!showFirstDiv && $magpie.measurements.response" type="button" class="trial-next-btn" @click="submitTrialResponse(trial, i)">
+              Next
+            </button>
           </div>
         </Slide>
       </Screen>
@@ -143,7 +141,10 @@
   <button style= "bottom:30%; transform: translate(-50%, -50%)" @click="$magpie.saveAndNextScreen();">Submit</button>
 </Screen>
 
-    <ExportReportsScreen :skip-sona-input="true" />
+    <ExportReportsScreen
+      :skip-sona-input="true"
+      :github-results-path="githubResultsPath"
+    />
     <CustomSubmitResultsScreen />
   </Experiment>
   </div>
@@ -171,6 +172,7 @@ import {
 } from '@motr-shared/resultsSafeguard';
 import {
   installRawPositionSampling,
+  outOfBoundsWordForIndex,
   uninstallRawPositionSampling,
 } from '@motr-shared/motrRawSampling';
 import {
@@ -193,6 +195,7 @@ export default {
   components: { ExportReportsScreen, CustomSubmitResultsScreen, ConsentSONA, DemographicsOneStopQuestionnaire },
   data() {
     return {
+      githubResultsPath: studyConfig.githubResultsPath,
       stimuliReady: false,
       isCursorMoving: false,
       isClickHeld: false,
@@ -453,10 +456,6 @@ export default {
         oval.style.width = '0px';
         oval.style.height = '0px';
       }
-      const readingText = this.$el.querySelector('.readingText');
-      if (readingText) {
-        readingText.style.clipPath = 'none';
-      }
       this.currentIndex = null;
       this.isClickHeld = false;
     },
@@ -480,21 +479,10 @@ export default {
       const ovalWidthPx = totalChars * charWidth;
       const ovalHeightPx = line ? line.lineHeight : 20;
       const ovalCenterY = line ? (line.lineTop + line.lineBottom) / 2 : y;
-      const ovalCenterX = x + (charsRight - charsLeft) / 2 * charWidth;
       oval.style.width = `${ovalWidthPx}px`;
       oval.style.height = `${ovalHeightPx}px`;
-      oval.style.left = `${ovalCenterX}px`;
+      oval.style.left = `${x + (charsRight - charsLeft) / 2 * charWidth}px`;
       oval.style.top = `${ovalCenterY}px`;
-
-      const readingText = this.$el.querySelector('.readingText');
-      if (readingText) {
-        const textRect = readingText.getBoundingClientRect();
-        const clipX = ovalCenterX - textRect.left;
-        const clipY = ovalCenterY - textRect.top;
-        const clipRx = ovalWidthPx / 2;
-        const clipRy = ovalHeightPx / 2;
-        readingText.style.clipPath = `ellipse(${clipRx}px ${clipRy}px at ${clipX}px ${clipY}px)`;
-      }
 
       // Detect new text (ItemId change) and reset interest areas.
       const itemInput = this.$el.querySelector(".item_id");
@@ -614,7 +602,7 @@ export default {
         ItemId: this.$el.querySelector(".item_id").value,
         presentation_order: presentationOrder,
         Index: this.clickWordIndex !== null && this.clickWordIndex !== -1 ? parseInt(this.clickWordIndex, 10) : this.clickWordIndex,
-        Word: this.clickWord,
+        Word: outOfBoundsWordForIndex(this.clickWordIndex, this.clickWord),
         mousePositionX: this.clickStartX,
         mousePositionY: this.clickStartY,
         revealMode: 'hover',
@@ -777,35 +765,15 @@ export default {
     align-items: center;
     justify-content: center;
   }
-  .motr-root .experiment:has(.main_screen) {
-    width: min(1000px, 94vw);
-    min-height: 88vh;
-    align-items: stretch;
-  }
   .main_screen {
+    isolation: isolate;
     position: relative;
     width: 100%;
     height: auto;
-    min-height: 80vh;
     font-size: 18px;
     line-height: 40px;
-    display: flex;
-    flex-direction: column;
   }
-  .trial-slide-layout {
-    display: flex;
-    flex-direction: column;
-    flex: 1 1 auto;
-    width: 100%;
-    min-height: 75vh;
-  }
-  .trial-text-region {
-    position: relative;
-    flex: 0 0 auto;
-    width: 100%;
-    background-color: #fff;
-  }
-  .text-height-spacer {
+  .reading-text-spacer {
     visibility: hidden;
     pointer-events: none;
     color: black;
@@ -815,12 +783,8 @@ export default {
     padding-bottom: 2%;
     padding-left: 11%;
     padding-right: 11%;
-    width: 100%;
-    box-sizing: border-box;
   }
   .trial-actions {
-    flex: 0 0 auto;
-    margin-top: auto;
     padding: 1.25rem 0 0.5rem;
     text-align: center;
   }
@@ -829,11 +793,7 @@ export default {
   }
   .readingText {
     position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 2;
-    color: black;
+    color: white;
     text-align: left;
     font-weight: 450;
     cursor: pointer;
@@ -842,7 +802,6 @@ export default {
     padding-left: 11%;
     padding-right: 11%;
     pointer-events: auto;
-    clip-path: none;
   }
   button {
     position: absolute;
@@ -860,7 +819,6 @@ export default {
     margin: 0 auto;
   }
   .trial-comprehension-panel {
-    flex: 0 0 auto;
     margin-top: 1.25rem;
     padding: 0.75rem 11% 0.25rem;
     text-align: center;
@@ -869,27 +827,38 @@ export default {
   }
   .oval-cursor {
     position: fixed;
-    z-index: 3;
+    z-index: 2;
     width: 0;
     height: 0;
     transform: translate(-50%, -50%);
-    background-color: transparent;
+    background-color: white;
+    mix-blend-mode: difference;
     border-radius: 50%;
     pointer-events: none;
     transition: none;
   }
   .oval-cursor.grow {
     border-radius: 50%;
-    box-shadow: 30px 0 8px -4px rgba(0, 0, 0, 0.06), -30px 0 8px -4px rgba(0, 0, 0, 0.06);
-    background-color: rgba(255, 255, 255, 0.12);
+    box-shadow: 30px 0 8px -4px rgba(255, 255, 255, 0.1), -30px 0 8px -4px rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.3);
+    background-blend-mode: screen;
     pointer-events: none;
+    filter: blur(3px);
+  }
+  .oval-cursor.grow::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+    height: 70%;
+    background-color: white;
+    mix-blend-mode: normal;
+    border-radius: 50%;
   }
   .blurry-layer {
     position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 1;
     pointer-events: none;
     color: black;
     text-align: left;
@@ -898,8 +867,6 @@ export default {
     padding-bottom: 2%;
     padding-left: 11%;
     padding-right: 11%;
-    width: 100%;
-    box-sizing: border-box;
   }
 
   * {

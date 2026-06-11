@@ -123,6 +123,7 @@ function Ensure-Project {
   Invoke-Vercel -Method PATCH -Path "/v9/projects/$projectId" -Body @{
     buildCommand      = "node scripts/vercel-build.cjs"
     outputDirectory   = ".vercel-build-output/dist"
+    ignoreCommand     = "sh scripts/vercel-ignore-build.sh"
     rootDirectory     = $null
     productionBranch  = "main"
   } | Out-Null
@@ -182,6 +183,7 @@ if ($legacy) {
   Invoke-Vercel -Method PATCH -Path "/v9/projects/$($legacy.id)" -Body @{
     buildCommand      = "node scripts/vercel-build.cjs"
     outputDirectory   = ".vercel-build-output/dist"
+    ignoreCommand     = "sh scripts/vercel-ignore-build.sh"
     productionBranch  = "main"
   } | Out-Null
   try {
