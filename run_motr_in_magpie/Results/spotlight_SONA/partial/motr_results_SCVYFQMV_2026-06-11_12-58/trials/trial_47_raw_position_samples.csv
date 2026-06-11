@@ -1,0 +1,329 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,3,adv,24,3,46,47,70, hard ,2661,1465847,559,279,262.375,527.5078125,282.875,568.5390625,5,6,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,2710,1465896,484,206,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,2761,1465947,431,168,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,2810,1465996,391,137,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,2861,1466046,350,131,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,2911,1466097,315,128,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,2961,1466147,305,121,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,3011,1466197,304,117,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,3060,1466246,316,112,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,1, Kakali ,3110,1466296,358,111,102.375,346.375,122.875,400.40625,1,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,1, Kakali ,3160,1466346,379,116,102.375,346.375,122.875,400.40625,1,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,1, Kakali ,3211,1466397,383,116,102.375,346.375,122.875,400.40625,1,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,1, Kakali ,3261,1466446,384,116,102.375,346.375,122.875,400.40625,1,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,1, Kakali ,3311,1466496,389,118,102.375,346.375,122.875,400.40625,1,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,2, has ,3360,1466546,417,120,102.375,400.40625,122.875,434.4296875,1,2,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,3, badgered ,3411,1466597,454,111,102.375,434.4296875,122.875,515.5,1,3,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,3, badgered ,3461,1466647,462,108,102.375,434.4296875,122.875,515.5,1,3,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,3, badgered ,3512,1466698,462,108,102.375,434.4296875,122.875,515.5,1,3,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,3, badgered ,3561,1466747,462,108,102.375,434.4296875,122.875,515.5,1,3,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,3, badgered ,3611,1466797,462,108,102.375,434.4296875,122.875,515.5,1,3,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,3, badgered ,3662,1466848,462,108,102.375,434.4296875,122.875,515.5,1,3,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,3, badgered ,3712,1466898,462,108,102.375,434.4296875,122.875,515.5,1,3,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,3761,1466946,480,103,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,3811,1466997,539,96,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,5, government ,3862,1467047,576,104,102.375,545.5234375,122.875,645.578125,1,5,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,5, government ,3911,1467097,586,110,102.375,545.5234375,122.875,645.578125,1,5,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,5, government ,3961,1467147,586,110,102.375,545.5234375,122.875,645.578125,1,5,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,5, government ,4010,1467196,587,110,102.375,545.5234375,122.875,645.578125,1,5,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,5, government ,4060,1467246,591,108,102.375,545.5234375,122.875,645.578125,1,5,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,5, government ,4111,1467296,606,105,102.375,545.5234375,122.875,645.578125,1,5,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,5, government ,4161,1467347,637,105,102.375,545.5234375,122.875,645.578125,1,5,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,4210,1467396,669,104,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,4261,1467447,684,99,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,4311,1467497,684,99,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,4361,1467546,684,99,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,4410,1467596,694,99,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,9, Greek ,4460,1467646,790,108,102.375,745.6484375,122.875,799.671875,1,9,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,4510,1467696,867,120,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,4560,1467746,915,124,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,4611,1467796,927,122,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,12, promising ,4660,1467846,938,120,102.375,877.734375,122.875,960.765625,1,12,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,12, promising ,4711,1467896,955,112,102.375,877.734375,122.875,960.765625,1,12,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,13, an ,4760,1467946,970,107,102.375,960.765625,122.875,985.296875,1,13,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,13, an ,4811,1467997,978,106,102.375,960.765625,122.875,985.296875,1,13,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,14, ATM ,4861,1468047,990,106,102.375,985.296875,122.875,1026.4765625,1,14,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,14, ATM ,4911,1468097,1007,106,102.375,985.296875,122.875,1026.4765625,1,14,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,15, within ,4961,1468147,1043,107,102.375,1026.4765625,122.875,1072.5,1,15,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,5010,1468196,1086,103,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,5060,1468246,1094,99,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,5110,1468296,1095,96,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,5160,1468346,1055,105,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,5210,1468395,659,129,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,17, but ,5260,1468446,412,149,142.375,402.3984375,162.875,432.421875,2,2,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,5310,1468496,356,166,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,5360,1468546,338,167,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,5410,1468596,333,167,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,5461,1468647,323,167,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,5510,1468696,316,166,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,5561,1468746,330,162,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,16, weeks ,5610,1468796,360,158,142.375,346.375,162.875,402.3984375,2,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,16, weeks ,5660,1468846,386,153,142.375,346.375,162.875,402.3984375,2,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,17, but ,5710,1468896,407,150,142.375,402.3984375,162.875,432.421875,2,2,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,17, but ,5761,1468947,417,147,142.375,402.3984375,162.875,432.421875,2,2,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,18, she ,5810,1468996,440,146,142.375,432.421875,162.875,466.4453125,2,3,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,19, still ,5861,1469047,476,149,142.375,466.4453125,162.875,497.4453125,2,4,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,19, still ,5911,1469097,488,150,142.375,466.4453125,162.875,497.4453125,2,4,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,19, still ,5961,1469147,488,150,142.375,466.4453125,162.875,497.4453125,2,4,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,19, still ,6010,1469196,488,150,142.375,466.4453125,162.875,497.4453125,2,4,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,19, still ,6062,1469248,488,150,142.375,466.4453125,162.875,497.4453125,2,4,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,20, feels ,6110,1469296,511,150,142.375,497.4453125,162.875,540.46875,2,5,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,23, come ,6160,1469346,600,146,142.375,593.484375,162.875,642.5078125,2,8,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,6211,1469397,643,142,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,6260,1469446,658,142,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,6311,1469496,669,143,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,25, late ,6361,1469547,679,144,142.375,672.53125,162.875,706.5546875,2,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,25, late ,6411,1469597,679,144,142.375,672.53125,162.875,706.5546875,2,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,25, late ,6461,1469647,679,144,142.375,672.53125,162.875,706.5546875,2,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,25, late ,6511,1469697,679,144,142.375,672.53125,162.875,706.5546875,2,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,25, late ,6561,1469747,682,144,142.375,672.53125,162.875,706.5546875,2,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,26, for ,6611,1469797,715,144,142.375,706.5546875,162.875,732.5625,2,11,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,28, season ,6661,1469847,778,144,142.375,765.578125,162.875,828.625,2,13,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,28, season ,6711,1469896,816,146,142.375,765.578125,162.875,828.625,2,13,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,29, on ,6760,1469946,846,152,142.375,828.625,162.875,853.6484375,2,14,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,30, an ,6811,1469997,875,153,142.375,853.6484375,162.875,878.671875,2,15,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,31, island ,6861,1470047,903,149,142.375,878.671875,162.875,930.703125,2,16,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,31, island ,6911,1470097,927,148,142.375,878.671875,162.875,930.703125,2,16,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,32, where ,6961,1470147,935,148,142.375,930.703125,162.875,984.734375,2,17,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,32, where ,7011,1470197,935,148,142.375,930.703125,162.875,984.734375,2,17,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,32, where ,7061,1470247,935,148,142.375,930.703125,162.875,984.734375,2,17,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,32, where ,7111,1470297,935,148,142.375,930.703125,162.875,984.734375,2,17,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,32, where ,7161,1470347,947,148,142.375,930.703125,162.875,984.734375,2,17,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,33, tourism ,7210,1470396,990,152,142.375,984.734375,162.875,1043.75,2,18,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,33, tourism ,7261,1470447,1014,152,142.375,984.734375,162.875,1043.75,2,18,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,33, tourism ,7311,1470497,1020,152,142.375,984.734375,162.875,1043.75,2,18,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,33, tourism ,7361,1470547,1010,156,142.375,984.734375,162.875,1043.75,2,18,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,7411,1470597,830,176,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,7460,1470646,636,188,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,7510,1470696,430,217,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,48, reservations ,7561,1470747,376,233,222.375,346.375,242.875,449.421875,4,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,48, reservations ,7611,1470797,362,239,222.375,346.375,242.875,449.421875,4,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,48, reservations ,7661,1470847,358,240,222.375,346.375,242.875,449.421875,4,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,48, reservations ,7709,1470895,358,237,222.375,346.375,242.875,449.421875,4,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,48, reservations ,7760,1470946,358,230,222.375,346.375,242.875,449.421875,4,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,7810,1470996,358,225,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,7860,1471046,358,210,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,7910,1471096,358,202,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,34, dwarfs ,7961,1471147,358,200,182.375,346.375,202.875,404.3984375,3,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,34, dwarfs ,8011,1471197,366,199,182.375,346.375,202.875,404.3984375,3,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,34, dwarfs ,8060,1471246,384,198,182.375,346.375,202.875,404.3984375,3,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,35, the ,8111,1471297,430,194,182.375,404.3984375,202.875,434.421875,3,2,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,37, other ,8160,1471346,488,193,182.375,467.4375,202.875,513.46875,3,4,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,38, sources ,8210,1471396,538,193,182.375,513.46875,202.875,581.5,3,5,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,38, sources ,8260,1471446,580,192,182.375,513.46875,202.875,581.5,3,5,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,39, of ,8311,1471497,601,191,182.375,581.5,202.875,601.515625,3,6,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,40, income: ,8360,1471546,622,191,182.375,601.515625,202.875,669.546875,3,7,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,40, income: ,8410,1471596,639,191,182.375,601.515625,202.875,669.546875,3,7,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,40, income: ,8461,1471647,645,191,182.375,601.515625,202.875,669.546875,3,7,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,40, income: ,8512,1471698,645,191,182.375,601.515625,202.875,669.546875,3,7,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,40, income: ,8561,1471747,645,191,182.375,601.515625,202.875,669.546875,3,7,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,40, income: ,8621,1471807,645,191,182.375,601.515625,202.875,669.546875,3,7,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,40, income: ,8661,1471847,656,191,182.375,601.515625,202.875,669.546875,3,7,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,42, and ,8710,1471896,732,188,182.375,726.5859375,202.875,761.625,3,9,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,43, agriculture: ,8761,1471947,768,186,182.375,761.625,202.875,855.671875,3,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,43, agriculture: ,8811,1471997,786,184,182.375,761.625,202.875,855.671875,3,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,43, agriculture: ,8861,1472047,792,184,182.375,761.625,202.875,855.671875,3,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,43, agriculture: ,8910,1472096,792,184,182.375,761.625,202.875,855.671875,3,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,43, agriculture: ,8960,1472146,792,184,182.375,761.625,202.875,855.671875,3,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,43, agriculture: ,9011,1472197,792,184,182.375,761.625,202.875,855.671875,3,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,43, agriculture: ,9061,1472247,805,184,182.375,761.625,202.875,855.671875,3,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,44, “We ,9110,1472296,870,186,182.375,855.671875,202.875,893.3515625,3,11,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,45, have ,9161,1472347,905,186,182.375,893.3515625,202.875,937.390625,3,12,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,45, have ,9211,1472397,920,188,182.375,893.3515625,202.875,937.390625,3,12,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,45, have ,9260,1472446,932,188,182.375,893.3515625,202.875,937.390625,3,12,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,46, almost ,9310,1472496,942,188,182.375,937.390625,202.875,995.4140625,3,13,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,46, almost ,9360,1472546,960,184,182.375,937.390625,202.875,995.4140625,3,13,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,46, almost ,9410,1472596,979,184,182.375,937.390625,202.875,995.4140625,3,13,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,47, no ,9460,1472646,997,186,182.375,995.4140625,202.875,1015.4375,3,14,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,47, no ,9511,1472697,1007,189,182.375,995.4140625,202.875,1015.4375,3,14,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,47, no ,9561,1472747,1007,190,182.375,995.4140625,202.875,1015.4375,3,14,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,9610,1472796,870,166,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,20, feels ,9660,1472846,522,153,142.375,497.4453125,162.875,540.46875,2,5,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,34, dwarfs ,9710,1472896,367,194,182.375,346.375,202.875,404.3984375,3,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,9760,1472946,328,213,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,9811,1472997,321,219,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,9861,1473047,323,221,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,9910,1473096,343,228,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,48, reservations ,9960,1473146,366,236,222.375,346.375,242.875,449.421875,4,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,48, reservations ,10010,1473196,388,239,222.375,346.375,242.875,449.421875,4,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,48, reservations ,10061,1473246,418,240,222.375,346.375,242.875,449.421875,4,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,48, reservations ,10110,1473296,442,236,222.375,346.375,242.875,449.421875,4,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,49, in ,10161,1473347,466,233,222.375,449.421875,242.875,467.9453125,4,2,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,50," August, ",10210,1473396,513,232,222.375,467.9453125,242.875,533.5,4,3,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,51, when ,10260,1473446,545,234,222.375,533.5,242.875,581.5390625,4,4,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,51, when ,10311,1473497,549,234,222.375,533.5,242.875,581.5390625,4,4,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,51, when ,10361,1473547,549,234,222.375,533.5,242.875,581.5390625,4,4,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,51, when ,10411,1473597,549,234,222.375,533.5,242.875,581.5390625,4,4,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,51, when ,10460,1473646,554,234,222.375,533.5,242.875,581.5390625,4,4,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,52, usually ,10510,1473696,610,224,222.375,581.5390625,242.875,642.5703125,4,5,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,10560,1473746,666,221,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,10610,1473796,687,221,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,54, have ,10661,1473847,694,224,222.375,670.5859375,242.875,714.625,4,7,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,54, have ,10710,1473896,694,224,222.375,670.5859375,242.875,714.625,4,7,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,54, have ,10760,1473946,694,224,222.375,670.5859375,242.875,714.625,4,7,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,54, have ,10811,1473997,694,224,222.375,670.5859375,242.875,714.625,4,7,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,54, have ,10861,1474047,700,224,222.375,670.5859375,242.875,714.625,4,7,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,55, people ,10910,1474096,743,224,222.375,714.625,242.875,773.6796875,4,8,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,56, calling ,10961,1474147,807,224,222.375,773.6796875,242.875,829.7109375,4,9,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,57, us ,11010,1474196,843,224,222.375,829.7109375,242.875,853.7265625,4,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,57, us ,11062,1474248,844,224,222.375,829.7109375,242.875,853.7265625,4,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,57, us ,11111,1474297,844,224,222.375,829.7109375,242.875,853.7265625,4,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,57, us ,11161,1474347,844,224,222.375,829.7109375,242.875,853.7265625,4,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,57, us ,11211,1474397,844,224,222.375,829.7109375,242.875,853.7265625,4,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,58, up ,11261,1474447,862,225,222.375,853.7265625,242.875,878.75,4,11,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,61, find ,11310,1474496,968,232,222.375,955.8046875,242.875,989.828125,4,14,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,63, room ,11361,1474547,1012,234,222.375,1004.84375,242.875,1050.859375,4,16,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,63, room ,11411,1474597,1026,235,222.375,1004.84375,242.875,1050.859375,4,16,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,63, room ,11461,1474647,1035,235,222.375,1004.84375,242.875,1050.859375,4,16,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,63, room ,11511,1474697,1041,235,222.375,1004.84375,242.875,1050.859375,4,16,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,63, room ,11560,1474746,1048,234,222.375,1004.84375,242.875,1050.859375,4,16,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,64, and ,11610,1474796,1055,234,222.375,1050.859375,242.875,1080.8984375,4,17,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,64, and ,11661,1474847,1063,235,222.375,1050.859375,242.875,1080.8984375,4,17,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,64, and ,11711,1474897,1054,235,222.375,1050.859375,242.875,1080.8984375,4,17,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,11760,1474946,939,233,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,50," August, ",11810,1474996,504,228,222.375,467.9453125,242.875,533.5,4,3,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,11860,1475046,393,252,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,11910,1475096,365,261,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,11960,1475146,358,263,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,65, we ,12011,1475197,356,265,262.375,346.375,282.875,374.390625,5,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,65, we ,12061,1475247,356,266,262.375,346.375,282.875,374.390625,5,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,65, we ,12110,1475297,361,269,262.375,346.375,282.875,374.390625,5,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,65, we ,12161,1475347,368,274,262.375,346.375,282.875,374.390625,5,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,66, can’t ,12210,1475396,376,278,262.375,374.390625,282.875,417.4140625,5,2,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,66, can’t ,12261,1475447,403,280,262.375,374.390625,282.875,417.4140625,5,2,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,67, help ,12311,1475497,449,275,262.375,417.4140625,282.875,456.453125,5,3,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,68, them.” ,12360,1475546,484,275,262.375,456.453125,282.875,511.9765625,5,4,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,69, A ,12410,1475596,524,277,262.375,511.9765625,282.875,527.5078125,5,5,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,12460,1475647,550,281,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,12510,1475696,557,281,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,12560,1475746,557,281,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,12611,1475797,557,281,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,12660,1475846,557,281,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,12710,1475896,565,281,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,71, winter ,12760,1475946,596,276,262.375,568.5390625,282.875,621.5546875,5,7,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,71, winter ,12810,1475996,616,271,262.375,568.5390625,282.875,621.5546875,5,7,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,72, ahead ,12860,1476047,626,270,262.375,621.5546875,282.875,676.609375,5,8,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,72, ahead ,12910,1476096,643,270,262.375,621.5546875,282.875,676.609375,5,8,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,72, ahead ,12960,1476146,657,272,262.375,621.5546875,282.875,676.609375,5,8,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,72, ahead ,13011,1476197,658,273,262.375,621.5546875,282.875,676.609375,5,8,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,72, ahead ,13060,1476247,658,273,262.375,621.5546875,282.875,676.609375,5,8,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,72, ahead ,13111,1476297,658,273,262.375,621.5546875,282.875,676.609375,5,8,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,72, ahead ,13160,1476346,661,273,262.375,621.5546875,282.875,676.609375,5,8,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,75, slightly ,13210,1476396,746,265,262.375,740.640625,282.875,800.6640625,5,11,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,76, improved ,13260,1476446,822,265,262.375,800.6640625,282.875,879.6953125,5,12,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,76, improved ,13310,1476496,851,265,262.375,800.6640625,282.875,879.6953125,5,12,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,76, improved ,13361,1476547,861,268,262.375,800.6640625,282.875,879.6953125,5,12,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,76, improved ,13412,1476598,861,269,262.375,800.6640625,282.875,879.6953125,5,12,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,76, improved ,13461,1476648,861,269,262.375,800.6640625,282.875,879.6953125,5,12,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,76, improved ,13511,1476697,861,269,262.375,800.6640625,282.875,879.6953125,5,12,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,76, improved ,13561,1476747,867,269,262.375,800.6640625,282.875,879.6953125,5,12,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,77, by ,13610,1476796,903,271,262.375,879.6953125,282.875,903.7109375,5,13,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,79, workers ,13661,1476847,937,267,262.375,928.734375,282.875,996.75,5,15,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,13710,1476896,954,262,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,13759,1476946,970,261,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,13810,1476996,987,261,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,13860,1477046,997,261,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,13910,1477096,1009,263,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,80, billeted ,13961,1477147,1026,276,262.375,996.75,282.875,1058.796875,5,16,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,14010,1477196,1040,286,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,14060,1477246,1040,286,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,80, billeted ,14110,1477296,1021,272,262.375,996.75,282.875,1058.796875,5,16,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,14160,1477346,951,251,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,14210,1477396,797,256,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,14260,1477446,632,285,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,86, the ,14310,1477496,527,315,302.375,516.5,322.875,546.5234375,6,5,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,14360,1477546,481,331,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,14410,1477596,452,336,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,14461,1477647,432,337,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,14510,1477696,411,337,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,14560,1477746,387,331,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,14610,1477796,372,322,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,82, the ,14660,1477846,364,318,302.375,346.375,322.875,376.3984375,6,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,82, the ,14710,1477897,362,316,302.375,346.375,322.875,376.3984375,6,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,82, the ,14761,1477947,363,315,302.375,346.375,322.875,376.3984375,6,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,82, the ,14811,1477997,372,312,302.375,346.375,322.875,376.3984375,6,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,14860,1478046,438,296,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,14910,1478096,515,290,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,14960,1478146,587,293,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,15011,1478197,641,299,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,15060,1478247,683,304,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,91, an ,15110,1478296,716,306,302.375,697.6171875,322.875,722.640625,6,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,92, even ,15160,1478346,731,309,302.375,722.640625,322.875,766.6796875,6,11,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,92, even ,15210,1478396,741,309,302.375,722.640625,322.875,766.6796875,6,11,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,92, even ,15261,1478447,762,310,302.375,722.640625,322.875,766.6796875,6,11,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,93, bigger ,15311,1478497,802,313,302.375,766.6796875,322.875,821.71875,6,12,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,94, crisis ,15360,1478546,837,313,302.375,821.71875,322.875,867.71875,6,13,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,94, crisis ,15410,1478596,862,313,302.375,821.71875,322.875,867.71875,6,13,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,95, looming ,15460,1478646,881,316,302.375,867.71875,322.875,935.7578125,6,14,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,95, looming ,15511,1478697,891,319,302.375,867.71875,322.875,935.7578125,6,14,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,95, looming ,15561,1478747,891,319,302.375,867.71875,322.875,935.7578125,6,14,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,95, looming ,15611,1478797,891,319,302.375,867.71875,322.875,935.7578125,6,14,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,95, looming ,15660,1478846,891,319,302.375,867.71875,322.875,935.7578125,6,14,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,95, looming ,15710,1478897,905,319,302.375,867.71875,322.875,935.7578125,6,14,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,15760,1478946,938,324,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,15810,1478996,954,325,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,15860,1479047,964,325,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,15911,1479097,971,325,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,15959,1479145,976,325,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,16010,1479196,976,325,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,16060,1479246,956,325,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,16110,1479296,837,321,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,16160,1479346,647,328,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,100, said ,16210,1479396,487,348,342.375,480.453125,362.875,518.4765625,7,3,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,16260,1479446,436,356,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,16310,1479496,388,363,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,16360,1479547,374,367,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,16411,1479597,364,369,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,16461,1479647,352,369,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,16509,1479695,344,368,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,16560,1479746,343,366,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,16610,1479797,345,362,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,98, government ,16660,1479847,368,356,342.375,346.375,362.875,446.4296875,7,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,98, government ,16711,1479897,408,352,342.375,346.375,362.875,446.4296875,7,1,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,99, has ,16760,1479946,453,351,342.375,446.4296875,362.875,480.453125,7,2,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,100, said ,16810,1479997,499,351,342.375,480.453125,362.875,518.4765625,7,3,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,102, will ,16860,1480046,549,352,342.375,532.484375,362.875,562.484375,7,5,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,105, decades-old ,16910,1480096,613,353,342.375,612.5390625,362.875,715.609375,7,8,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,105, decades-old ,16961,1480147,660,351,342.375,612.5390625,362.875,715.609375,7,8,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,105, decades-old ,17011,1480197,688,348,342.375,612.5390625,362.875,715.609375,7,8,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,105, decades-old ,17060,1480246,708,348,342.375,612.5390625,362.875,715.609375,7,8,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,106, tax ,17110,1480296,719,348,342.375,715.609375,362.875,744.625,7,9,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,106, tax ,17161,1480347,730,349,342.375,715.609375,362.875,744.625,7,9,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,106, tax ,17210,1480396,744,353,342.375,715.609375,362.875,744.625,7,9,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,107, break ,17261,1480447,755,357,342.375,744.625,362.875,794.65625,7,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,107, break ,17311,1480497,759,358,342.375,744.625,362.875,794.65625,7,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,107, break ,17361,1480547,759,358,342.375,744.625,362.875,794.65625,7,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,107, break ,17411,1480597,759,358,342.375,744.625,362.875,794.65625,7,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,107, break ,17461,1480647,759,358,342.375,744.625,362.875,794.65625,7,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,107, break ,17510,1480697,767,358,342.375,744.625,362.875,794.65625,7,10,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,108, for ,17561,1480747,806,358,342.375,794.65625,362.875,820.6640625,7,11,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,109, islands. ,17610,1480796,846,353,342.375,820.6640625,362.875,881.6953125,7,12,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,109, islands. ,17660,1480846,858,352,342.375,820.6640625,362.875,881.6953125,7,12,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,109, islands. ,17710,1480897,860,352,342.375,820.6640625,362.875,881.6953125,7,12,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,109, islands. ,17760,1480946,860,356,342.375,820.6640625,362.875,881.6953125,7,12,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,17810,1480996,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,17859,1481046,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,17909,1481095,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,17960,1481146,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18010,1481196,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18060,1481246,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18111,1481297,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18160,1481346,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18211,1481397,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18261,1481447,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18311,1481497,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18360,1481546,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18410,1481596,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18460,1481646,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18509,1481695,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18560,1481747,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18611,1481797,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18661,1481847,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18711,1481897,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18761,1481947,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18810,1481996,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18859,1482046,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18911,1482097,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,18960,1482146,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,3,46,47,-1,999,19011,1482197,855,382,,,,,,,Islands will have to pay additional taxes,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
