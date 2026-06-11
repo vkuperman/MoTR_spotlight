@@ -1,0 +1,379 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,3,adv,15,4,37,38,102," research,” ",2218,1247147,480,360,342.375,469.4296875,362.875,555.4609375,7,3,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,2, our ,2269,1247198,368,118,102.375,367.375,122.875,398.3984375,1,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,2317,1247246,368,118,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,2367,1247296,368,118,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,2417,1247347,368,118,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,2467,1247397,368,118,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,2518,1247447,368,118,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,2571,1247500,367,97,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,2617,1247546,367,103,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,1, “If ,2667,1247597,367,107,102.375,346.375,122.875,367.375,1,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,2, our ,2717,1247647,376,110,102.375,367.375,122.875,398.3984375,1,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,4, is ,2766,1247696,459,115,102.375,446.421875,122.875,464.421875,1,4,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,2819,1247748,572,124,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,2867,1247797,603,127,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,2917,1247847,629,129,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,2967,1247897,644,129,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,3018,1247947,646,128,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,3070,1247999,646,128,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,3118,1248047,646,128,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,3168,1248097,646,128,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,3217,1248146,664,125,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,9, oxytocin ,3267,1248196,738,113,102.375,678.5625,122.875,749.6015625,1,9,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,10, might ,3318,1248247,786,112,102.375,749.6015625,122.875,798.625,1,10,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,11, treat ,3367,1248297,825,115,102.375,798.625,122.875,839.6484375,1,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,12, something ,3418,1248348,857,116,102.375,839.6484375,122.875,927.703125,1,12,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,12, something ,3467,1248397,888,116,102.375,839.6484375,122.875,927.703125,1,12,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,12, something ,3517,1248447,912,116,102.375,839.6484375,122.875,927.703125,1,12,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,13, for ,3569,1248499,939,115,102.375,927.703125,122.875,953.7109375,1,13,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,13, for ,3618,1248547,951,115,102.375,927.703125,122.875,953.7109375,1,13,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,14, which ,3668,1248597,976,115,102.375,953.7109375,122.875,1004.734375,1,14,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,15, we ,3717,1248647,1006,116,102.375,1004.734375,122.875,1032.75,1,15,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,15, we ,3767,1248696,1030,119,102.375,1004.734375,122.875,1032.75,1,15,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,15, we ,3819,1248748,1032,119,102.375,1004.734375,122.875,1032.75,1,15,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,15, we ,3867,1248796,1032,119,102.375,1004.734375,122.875,1032.75,1,15,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,15, we ,3919,1248848,1032,119,102.375,1004.734375,122.875,1032.75,1,15,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,15, we ,3968,1248898,1032,119,102.375,1004.734375,122.875,1032.75,1,15,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,15, we ,4018,1248948,1032,119,102.375,1004.734375,122.875,1032.75,1,15,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,15, we ,4068,1248997,1023,118,102.375,1004.734375,122.875,1032.75,1,15,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,4118,1249047,755,75,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,4167,1249097,755,75,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,4217,1249147,464,91,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,3, study ,4268,1249197,415,111,102.375,398.3984375,122.875,446.421875,1,3,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,2, our ,4318,1249247,392,118,102.375,367.375,122.875,398.3984375,1,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,4367,1249297,378,125,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,4417,1249347,370,133,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,4467,1249396,363,140,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,4517,1249447,358,143,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,17, have ,4568,1249497,358,144,142.375,346.375,162.875,390.4140625,2,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,17, have ,4617,1249547,361,146,142.375,346.375,162.875,390.4140625,2,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,18, a ,4669,1249599,399,147,142.375,390.4140625,162.875,405.4296875,2,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,19, treatment ,4717,1249647,425,147,142.375,405.4296875,162.875,486.46875,2,3,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,19, treatment ,4767,1249696,479,147,142.375,405.4296875,162.875,486.46875,2,3,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,21," autism, ",4817,1249747,540,145,142.375,505.484375,162.875,568.5078125,2,5,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,23, that’s ,4867,1249797,615,145,142.375,603.546875,162.875,651.2578125,2,7,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,24, the ,4917,1249847,680,145,142.375,651.2578125,162.875,681.28125,2,8,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,4968,1249897,721,143,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,5017,1249947,760,143,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,27," motivation,” ",5067,1249997,787,146,142.375,772.328125,162.875,870.3671875,2,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,27," motivation,” ",5118,1250047,800,148,142.375,772.328125,162.875,870.3671875,2,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,27," motivation,” ",5168,1250097,800,148,142.375,772.328125,162.875,870.3671875,2,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,27," motivation,” ",5218,1250147,800,148,142.375,772.328125,162.875,870.3671875,2,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,27," motivation,” ",5268,1250197,800,148,142.375,772.328125,162.875,870.3671875,2,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,27," motivation,” ",5318,1250247,814,148,142.375,772.328125,162.875,870.3671875,2,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,27," motivation,” ",5367,1250297,855,148,142.375,772.328125,162.875,870.3671875,2,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,28, Pelphrey ,5419,1250348,904,148,142.375,870.3671875,162.875,946.4140625,2,12,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,28, Pelphrey ,5467,1250397,930,149,142.375,870.3671875,162.875,946.4140625,2,12,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,29, told ,5518,1250447,958,150,142.375,946.4140625,162.875,980.4375,2,13,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,30, the ,5567,1250497,982,150,142.375,980.4375,162.875,1010.4609375,2,14,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,30, the ,5618,1250547,1001,150,142.375,980.4375,162.875,1010.4609375,2,14,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,31, Guardian. ,5669,1250598,1020,149,142.375,1010.4609375,162.875,1089.515625,2,15,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,31, Guardian. ,5718,1250647,1029,148,142.375,1010.4609375,162.875,1089.515625,2,15,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,31, Guardian. ,5767,1250696,1039,146,142.375,1010.4609375,162.875,1089.515625,2,15,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,31, Guardian. ,5818,1250747,1047,146,142.375,1010.4609375,162.875,1089.515625,2,15,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,31, Guardian. ,5867,1250797,1050,146,142.375,1010.4609375,162.875,1089.515625,2,15,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,31, Guardian. ,5917,1250847,1038,146,142.375,1010.4609375,162.875,1089.515625,2,15,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,5968,1250897,859,134,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,22, and ,6017,1250946,585,153,142.375,568.5078125,162.875,603.546875,2,6,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,6067,1250997,456,176,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,6118,1251047,398,178,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,6167,1251097,373,176,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,6217,1251147,363,175,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,6267,1251196,361,175,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,6317,1251247,361,178,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,6367,1251296,359,181,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,32, He ,6418,1251347,355,185,182.375,346.375,202.875,374.390625,3,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,32, He ,6467,1251397,355,188,182.375,346.375,202.875,374.390625,3,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,33, warned ,6518,1251447,395,193,182.375,374.390625,202.875,438.4296875,3,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,36, was ,6568,1251497,497,194,182.375,487.46875,202.875,524.484375,3,5,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,38, early ,6617,1251547,594,194,182.375,554.5078125,202.875,598.5234375,3,7,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,40, use ,6667,1251597,646,192,182.375,618.5390625,202.875,652.5625,3,9,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,41, oxytocin ,6717,1251647,690,191,182.375,652.5625,202.875,723.6015625,3,10,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,41, oxytocin ,6768,1251697,706,191,182.375,652.5625,202.875,723.6015625,3,10,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,41, oxytocin ,6818,1251748,706,191,182.375,652.5625,202.875,723.6015625,3,10,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,41, oxytocin ,6867,1251797,706,191,182.375,652.5625,202.875,723.6015625,3,10,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,41, oxytocin ,6919,1251848,706,191,182.375,652.5625,202.875,723.6015625,3,10,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,42, as ,6967,1251897,734,185,182.375,723.6015625,202.875,747.6171875,3,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,7017,1251946,860,180,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,7067,1251997,934,180,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,7117,1252046,965,180,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,7168,1252097,976,182,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,48, difficulties ,7217,1252147,985,184,182.375,950.7265625,202.875,1034.765625,3,17,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,48, difficulties ,7268,1252198,1000,187,182.375,950.7265625,202.875,1034.765625,3,17,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,48, difficulties ,7318,1252247,1026,191,182.375,950.7265625,202.875,1034.765625,3,17,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,49, caused ,7367,1252297,1050,193,182.375,1034.765625,202.875,1092.8125,3,18,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,49, caused ,7417,1252347,1067,194,182.375,1034.765625,202.875,1092.8125,3,18,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,49, caused ,7468,1252397,1074,194,182.375,1034.765625,202.875,1092.8125,3,18,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,49, caused ,7517,1252447,1077,194,182.375,1034.765625,202.875,1092.8125,3,18,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,49, caused ,7567,1252496,1074,193,182.375,1034.765625,202.875,1092.8125,3,18,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,48, difficulties ,7617,1252547,999,185,182.375,950.7265625,202.875,1034.765625,3,17,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,41, oxytocin ,7667,1252597,713,192,182.375,652.5625,202.875,723.6015625,3,10,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,54, against ,7718,1252647,559,231,222.375,546.5234375,242.875,609.5703125,4,5,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,7767,1252697,488,254,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,7817,1252747,469,259,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,7867,1252796,461,259,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,7917,1252847,451,257,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,7968,1252897,430,251,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,8017,1252946,415,246,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,8067,1252997,405,242,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,8117,1253046,402,241,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,51, autism ,8167,1253097,405,239,222.375,370.390625,242.875,428.4140625,4,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,53, cautioned ,8217,1253147,488,230,222.375,463.453125,242.875,546.5234375,4,4,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,54, against ,8267,1253197,571,233,222.375,546.5234375,242.875,609.5703125,4,5,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,55, buying ,8317,1253247,624,240,222.375,609.5703125,242.875,667.6171875,4,6,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,8367,1253296,666,244,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,8417,1253347,703,244,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,8467,1253397,729,243,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,8517,1253447,748,242,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,8567,1253496,758,241,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,8617,1253546,765,241,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,8667,1253597,770,241,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,8717,1253646,773,243,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,8767,1253696,776,244,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,8817,1253747,783,242,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,58, suppliers ,8867,1253797,797,238,222.375,779.6640625,242.875,856.703125,4,9,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,58, suppliers ,8917,1253847,813,235,222.375,779.6640625,242.875,856.703125,4,9,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,58, suppliers ,8967,1253897,827,233,222.375,779.6640625,242.875,856.703125,4,9,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,58, suppliers ,9017,1253946,841,231,222.375,779.6640625,242.875,856.703125,4,9,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,58, suppliers ,9068,1253997,856,228,222.375,779.6640625,242.875,856.703125,4,9,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,59, online. ,9118,1254047,869,228,222.375,856.703125,242.875,914.75,4,10,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,59, online. ,9167,1254097,871,227,222.375,856.703125,242.875,914.75,4,10,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,59, online. ,9218,1254147,871,227,222.375,856.703125,242.875,914.75,4,10,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,59, online. ,9268,1254198,871,227,222.375,856.703125,242.875,914.75,4,10,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,59, online. ,9317,1254246,871,227,222.375,856.703125,242.875,914.75,4,10,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,59, online. ,9368,1254297,902,226,222.375,856.703125,242.875,914.75,4,10,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,9417,1254347,967,216,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,9467,1254397,1001,212,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,9517,1254447,1014,212,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,9567,1254496,1016,212,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,9616,1254546,1017,212,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,9667,1254597,1021,213,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,62, want ,9718,1254647,1036,225,222.375,996.46875,242.875,1039.4921875,4,13,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,63, them ,9767,1254697,1048,239,222.375,1039.4921875,242.875,1079.515625,4,14,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,9817,1254747,1046,244,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,9867,1254796,909,239,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,53, cautioned ,9917,1254846,471,232,222.375,463.453125,242.875,546.5234375,4,4,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,9967,1254897,353,259,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,10018,1254947,310,267,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,10067,1254997,295,266,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,10117,1255046,292,264,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,10167,1255096,291,264,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,10216,1255146,290,265,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,10268,1255197,310,272,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,64, running ,10317,1255247,356,281,262.375,346.375,282.875,411.4296875,5,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,10367,1255297,386,284,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,10417,1255346,410,285,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,10467,1255397,427,284,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,10517,1255446,447,284,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,10567,1255497,487,284,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,10617,1255547,541,284,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,10667,1255597,578,284,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,10717,1255647,580,284,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,10767,1255696,580,284,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,10817,1255747,580,284,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,10867,1255797,580,284,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,10916,1255846,586,281,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,71, study ,10967,1255897,630,267,262.375,596.5546875,282.875,644.578125,5,8,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,11017,1255947,662,263,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,73, any ,11067,1255997,688,264,262.375,665.5859375,282.875,699.609375,5,10,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,74, other ,11118,1256047,726,267,262.375,699.609375,282.875,745.640625,5,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,75, and ,11168,1256097,780,267,262.375,745.640625,282.875,780.6796875,5,12,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,77, oxytocin ,11218,1256147,845,267,262.375,829.703125,282.875,900.7421875,5,14,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,77, oxytocin ,11267,1256197,876,267,262.375,829.703125,282.875,900.7421875,5,14,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,77, oxytocin ,11318,1256247,893,267,262.375,829.703125,282.875,900.7421875,5,14,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,78, at ,11367,1256297,914,267,262.375,900.7421875,282.875,920.7578125,5,15,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,79, home. ,11417,1256347,940,269,262.375,920.7578125,282.875,975.6328125,5,16,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,79, home. ,11468,1256397,947,271,262.375,920.7578125,282.875,975.6328125,5,16,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,79, home. ,11518,1256447,947,271,262.375,920.7578125,282.875,975.6328125,5,16,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,79, home. ,11568,1256498,947,271,262.375,920.7578125,282.875,975.6328125,5,16,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,79, home. ,11617,1256547,948,271,262.375,920.7578125,282.875,975.6328125,5,16,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,79, home. ,11667,1256597,970,273,262.375,920.7578125,282.875,975.6328125,5,16,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,80, There ,11717,1256647,1021,273,262.375,975.6328125,282.875,1027.5,5,17,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,82, no ,11768,1256697,1050,273,262.375,1045.5,282.875,1065.5234375,5,19,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,82, no ,11817,1256747,1055,273,262.375,1045.5,282.875,1065.5234375,5,19,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,82, no ,11866,1256796,1053,273,262.375,1045.5,282.875,1065.5234375,5,19,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,11917,1256846,990,283,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,11967,1256897,737,294,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,12017,1256947,528,301,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,84, what ,12067,1256997,412,308,302.375,398.40625,322.875,441.4296875,6,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,83, telling ,12118,1257047,376,313,302.375,346.375,322.875,398.40625,6,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,83, telling ,12167,1257097,359,319,302.375,346.375,322.875,398.40625,6,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,12217,1257147,350,324,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,12267,1257197,345,327,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,12316,1257246,344,326,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,12367,1257296,349,323,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,83, telling ,12418,1257347,375,315,302.375,346.375,322.875,398.40625,6,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,84, what ,12467,1257397,419,309,302.375,398.40625,322.875,441.4296875,6,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,85, they ,12518,1257447,465,308,302.375,441.4296875,322.875,480.453125,6,3,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,86, are ,12568,1257497,505,307,302.375,480.453125,322.875,511.4765625,6,4,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,87, buying. ,12617,1257547,533,306,302.375,511.4765625,322.875,574.5234375,6,5,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,87, buying. ,12667,1257597,569,306,302.375,511.4765625,322.875,574.5234375,6,5,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,89, are ,12717,1257647,613,308,302.375,606.2109375,322.875,637.234375,6,7,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,90, nowhere ,12767,1257697,656,310,302.375,637.234375,322.875,711.2890625,6,8,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,90, nowhere ,12818,1257747,697,314,302.375,637.234375,322.875,711.2890625,6,8,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,90, nowhere ,12867,1257797,703,315,302.375,637.234375,322.875,711.2890625,6,8,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,90, nowhere ,12918,1257848,703,315,302.375,637.234375,322.875,711.2890625,6,8,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,90, nowhere ,12968,1257898,703,315,302.375,637.234375,322.875,711.2890625,6,8,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,90, nowhere ,13018,1257947,703,315,302.375,637.234375,322.875,711.2890625,6,8,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,91, near ,13074,1258003,742,315,302.375,711.2890625,322.875,752.3203125,6,9,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,92, thinking ,13117,1258047,794,311,302.375,752.3203125,322.875,819.3671875,6,10,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,93, this ,13167,1258097,845,309,302.375,819.3671875,322.875,852.3828125,6,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,94, is ,13217,1258146,868,309,302.375,852.3828125,322.875,870.3828125,6,12,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,95, a ,13267,1258197,883,309,302.375,870.3828125,322.875,885.3984375,6,13,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,96, ready ,13317,1258247,903,309,302.375,885.3984375,322.875,935.4296875,6,14,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,96, ready ,13367,1258297,933,309,302.375,885.3984375,322.875,935.4296875,6,14,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,97, treatment. ,13417,1258347,992,306,302.375,935.4296875,322.875,1021.46875,6,15,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,98, It ,13467,1258397,1029,304,302.375,1021.46875,322.875,1036.4765625,6,16,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,99, needs ,13517,1258447,1043,304,302.375,1036.4765625,322.875,1085.5234375,6,17,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,99, needs ,13567,1258497,1043,304,302.375,1036.4765625,322.875,1085.5234375,6,17,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,99, needs ,13618,1258547,1043,304,302.375,1036.4765625,322.875,1085.5234375,6,17,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,99, needs ,13668,1258597,1043,304,302.375,1036.4765625,322.875,1085.5234375,6,17,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,99, needs ,13718,1258647,1044,304,302.375,1036.4765625,322.875,1085.5234375,6,17,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,99, needs ,13767,1258697,1068,312,302.375,1036.4765625,322.875,1085.5234375,6,17,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,13817,1258747,1090,316,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,13867,1258797,1091,316,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,97, treatment. ,13917,1258847,1006,311,302.375,935.4296875,322.875,1021.46875,6,15,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,13967,1258897,769,299,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,89, are ,14017,1258947,622,306,302.375,606.2109375,322.875,637.234375,6,7,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,14067,1258997,560,318,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,14117,1259046,488,335,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,101, follow-up ,14168,1259097,456,344,342.375,392.390625,362.875,469.4296875,7,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,101, follow-up ,14217,1259147,437,349,342.375,392.390625,362.875,469.4296875,7,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,101, follow-up ,14268,1259197,416,357,342.375,392.390625,362.875,469.4296875,7,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,14317,1259246,402,363,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,14368,1259297,395,365,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,14417,1259347,394,365,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,14467,1259397,398,364,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,14516,1259446,416,361,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,101, follow-up ,14567,1259497,438,360,342.375,392.390625,362.875,469.4296875,7,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,101, follow-up ,14618,1259547,462,359,342.375,392.390625,362.875,469.4296875,7,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,102," research,” ",14667,1259597,480,359,342.375,469.4296875,362.875,555.4609375,7,3,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,102," research,” ",14717,1259647,498,359,342.375,469.4296875,362.875,555.4609375,7,3,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,102," research,” ",14768,1259697,531,359,342.375,469.4296875,362.875,555.4609375,7,3,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,103, said ,14818,1259748,590,354,342.375,555.4609375,362.875,593.484375,7,4,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,104, Pelphrey. ,14867,1259797,639,353,342.375,593.484375,362.875,673.203125,7,5,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,104, Pelphrey. ,14918,1259847,668,353,342.375,593.484375,362.875,673.203125,7,5,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,105, “This ,14967,1259897,685,355,342.375,673.203125,362.875,718.203125,7,6,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,105, “This ,15018,1259947,700,356,342.375,673.203125,362.875,718.203125,7,6,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,106, is ,15067,1259997,730,357,342.375,718.203125,362.875,736.203125,7,7,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,108, important ,15118,1260048,768,357,342.375,761.2265625,362.875,841.265625,7,9,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,108, important ,15167,1260097,809,352,342.375,761.2265625,362.875,841.265625,7,9,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,108, important ,15217,1260147,839,349,342.375,761.2265625,362.875,841.265625,7,9,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,109, new ,15267,1260197,858,347,342.375,841.265625,362.875,879.2890625,7,10,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,109, new ,15317,1260247,875,346,342.375,841.265625,362.875,879.2890625,7,10,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,110, study ,15367,1260297,888,347,342.375,879.2890625,362.875,927.3125,7,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,110, study ,15418,1260348,888,347,342.375,879.2890625,362.875,927.3125,7,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,110, study ,15468,1260398,888,347,342.375,879.2890625,362.875,927.3125,7,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,110, study ,15518,1260447,888,347,342.375,879.2890625,362.875,927.3125,7,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,110, study ,15567,1260497,896,347,342.375,879.2890625,362.875,927.3125,7,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,112, identifying ,15617,1260547,951,351,342.375,946.328125,362.875,1027.3828125,7,13,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,112, identifying ,15668,1260598,997,352,342.375,946.328125,362.875,1027.3828125,7,13,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,112, identifying ,15717,1260647,1014,350,342.375,946.328125,362.875,1027.3828125,7,13,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,112, identifying ,15767,1260697,1022,350,342.375,946.328125,362.875,1027.3828125,7,13,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,15817,1260747,1032,355,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,15867,1260797,1036,356,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,112, identifying ,15918,1260847,1022,356,342.375,946.328125,362.875,1027.3828125,7,13,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,15967,1260897,896,345,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,16017,1260947,540,331,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,16067,1260997,417,354,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,16118,1261047,297,383,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,16167,1261097,259,389,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,16217,1261147,253,389,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,16267,1261197,256,390,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,16317,1261247,303,391,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,113, changes ,16367,1261297,351,394,382.375,346.375,402.875,419.4296875,8,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,113, changes ,16417,1261347,375,396,382.375,346.375,402.875,419.4296875,8,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,113, changes ,16467,1261397,394,396,382.375,346.375,402.875,419.4296875,8,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,113, changes ,16517,1261447,410,396,382.375,346.375,402.875,419.4296875,8,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,114, in ,16569,1261499,438,396,382.375,419.4296875,402.875,438.4453125,8,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,115, brain ,16617,1261547,467,398,382.375,438.4453125,402.875,483.4765625,8,3,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,116, activity ,16667,1261597,522,400,382.375,483.4765625,402.875,543.4921875,8,4,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,118, key ,16718,1261647,585,396,382.375,562.5078125,402.875,595.5234375,8,6,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,119, regions ,16767,1261697,614,396,382.375,595.5234375,402.875,659.5625,8,7,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,119, regions ,16818,1261748,618,397,382.375,595.5234375,402.875,659.5625,8,7,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,119, regions ,16869,1261798,618,397,382.375,595.5234375,402.875,659.5625,8,7,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,119, regions ,16918,1261848,618,397,382.375,595.5234375,402.875,659.5625,8,7,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,119, regions ,16968,1261897,618,397,382.375,595.5234375,402.875,659.5625,8,7,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,119, regions ,17018,1261947,637,396,382.375,595.5234375,402.875,659.5625,8,7,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,122, brain ,17067,1261997,742,386,382.375,709.6015625,402.875,754.6328125,8,10,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,17117,1262047,823,380,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,17167,1262096,863,377,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,17217,1262147,881,376,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,17267,1262197,897,376,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,17317,1262247,916,376,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,17367,1262296,945,377,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,17417,1262346,976,382,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,128, autism ,17467,1262397,998,385,382.375,991.7890625,402.875,1044.8046875,8,16,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,128, autism ,17518,1262448,1021,393,382.375,991.7890625,402.875,1044.8046875,8,16,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,128, autism ,17568,1262497,1035,397,382.375,991.7890625,402.875,1044.8046875,8,16,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,128, autism ,17617,1262547,1040,397,382.375,991.7890625,402.875,1044.8046875,8,16,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,128, autism ,17667,1262597,1037,397,382.375,991.7890625,402.875,1044.8046875,8,16,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,126, cognition ,17717,1262647,942,385,382.375,895.71875,402.875,972.7734375,8,14,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,17767,1262696,634,362,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,17817,1262746,432,368,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,113, changes ,17867,1262797,373,388,382.375,346.375,402.875,419.4296875,8,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,113, changes ,17918,1262847,356,396,382.375,346.375,402.875,419.4296875,8,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,17967,1262897,341,404,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,18017,1262947,327,415,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,18067,1262997,322,419,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,18117,1263047,340,429,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,129, following ,18167,1263097,367,433,422.375,346.375,442.875,421.421875,9,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,129, following ,18219,1263148,391,432,422.375,346.375,442.875,421.421875,9,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,129, following ,18267,1263196,407,431,422.375,346.375,442.875,421.421875,9,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,130, oxytocin ,18317,1263247,452,432,422.375,421.421875,442.875,492.4609375,9,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,130, oxytocin ,18367,1263297,487,437,422.375,421.421875,442.875,492.4609375,9,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,130, oxytocin ,18417,1263347,487,437,422.375,421.421875,442.875,492.4609375,9,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,130, oxytocin ,18469,1263398,487,437,422.375,421.421875,442.875,492.4609375,9,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,130, oxytocin ,18517,1263447,487,437,422.375,421.421875,442.875,492.4609375,9,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,130, oxytocin ,18566,1263496,489,437,422.375,421.421875,442.875,492.4609375,9,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,131," administration,” ",18617,1263547,564,433,422.375,492.4609375,442.875,620.515625,9,3,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,133, Simon ,18667,1263597,687,433,422.375,658.5390625,442.875,714.5625,9,5,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,18717,1263647,766,441,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,18767,1263696,806,448,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,18817,1263747,815,450,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,18867,1263797,815,450,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,18917,1263847,815,450,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,18967,1263897,815,450,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,19017,1263947,815,450,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,19066,1263996,831,448,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,19116,1264046,915,442,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,138, Autism ,19167,1264097,977,434,422.375,946.203125,442.875,1005.7265625,9,10,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,139, Research ,19217,1264146,1011,431,422.375,1005.7265625,442.875,1082.765625,9,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,139, Research ,19267,1264197,1040,430,422.375,1005.7265625,442.875,1082.765625,9,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,139, Research ,19317,1264247,1058,433,422.375,1005.7265625,442.875,1082.765625,9,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,139, Research ,19368,1264297,1066,433,422.375,1005.7265625,442.875,1082.765625,9,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,139, Research ,19417,1264347,1063,435,422.375,1005.7265625,442.875,1082.765625,9,11,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,19467,1264397,948,450,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,19517,1264447,691,468,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,19567,1264496,532,476,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,140, Center ,19617,1264547,378,480,462.375,346.375,482.875,405.40625,10,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,19667,1264596,349,480,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,19717,1264646,330,479,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,19767,1264697,324,479,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,19817,1264747,322,479,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,19866,1264796,323,479,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,19917,1264846,343,475,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,140, Center ,19967,1264896,378,472,462.375,346.375,482.875,405.40625,10,1,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,141, at ,20018,1264947,406,472,462.375,405.40625,482.875,425.421875,10,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,141, at ,20067,1264997,425,474,462.375,405.40625,482.875,425.421875,10,2,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,142, Cambridge ,20117,1265047,445,476,462.375,425.421875,482.875,518.46875,10,3,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,142, Cambridge ,20167,1265097,475,477,462.375,425.421875,482.875,518.46875,10,3,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,142, Cambridge ,20217,1265147,502,477,462.375,425.421875,482.875,518.46875,10,3,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,143, University. ,20267,1265197,520,474,462.375,518.46875,482.875,601.15625,10,4,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,143, University. ,20317,1265247,536,472,462.375,518.46875,482.875,601.15625,10,4,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,143, University. ,20368,1265297,568,473,462.375,518.46875,482.875,601.15625,10,4,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,20417,1265347,634,490,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,20467,1265397,678,505,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,20517,1265447,678,505,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,20567,1265497,678,505,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,20618,1265548,678,505,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,20666,1265596,678,505,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,20717,1265647,678,505,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,20767,1265696,678,505,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,20817,1265747,678,505,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,20867,1265797,678,505,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,20917,1265847,678,505,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,20967,1265897,678,505,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,21017,1265947,678,505,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,15,4,37,38,-1,999,21068,1265997,678,505,,,,,,,More research still needs to be done,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
