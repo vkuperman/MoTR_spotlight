@@ -1,0 +1,272 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,3018,1678846,418,249,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,3068,1678896,340,117,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,3118,1678946,334,104,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,3167,1678996,335,102,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,3217,1679045,338,100,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,3268,1679096,337,97,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,3319,1679147,337,96,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,1, Over ,3368,1679196,349,105,102.375,346.375,122.875,390.3828125,1,1,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,1, Over ,3417,1679246,367,119,102.375,346.375,122.875,390.3828125,1,1,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,3468,1679296,375,123,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,3518,1679346,381,124,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,3, next ,3567,1679396,435,116,102.375,420.40625,122.875,459.4296875,1,3,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,5," years, ",3617,1679446,511,113,102.375,484.453125,122.875,538.4765625,1,5,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,6, the ,3667,1679496,551,113,102.375,538.4765625,122.875,568.5,1,6,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,6, the ,3719,1679547,554,113,102.375,538.4765625,122.875,568.5,1,6,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,6, the ,3769,1679598,554,113,102.375,538.4765625,122.875,568.5,1,6,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,6, the ,3819,1679647,554,113,102.375,538.4765625,122.875,568.5,1,6,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,6, the ,3869,1679697,554,113,102.375,538.4765625,122.875,568.5,1,6,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,7, planet’s ,3918,1679746,584,110,102.375,568.5,122.875,635.2265625,1,7,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,3968,1679796,682,97,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,4017,1679845,728,92,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,4067,1679896,750,93,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,4118,1679946,761,99,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,4168,1679996,762,99,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,4218,1680047,762,99,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,4269,1680097,762,99,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,4318,1680146,772,100,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,11, increase ,4368,1680196,832,108,102.375,813.34375,122.875,886.3828125,1,11,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,11, increase ,4418,1680246,885,111,102.375,813.34375,122.875,886.3828125,1,11,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,13, nine ,4468,1680296,907,113,102.375,906.3984375,122.875,945.4375,1,13,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,13, nine ,4519,1680347,917,118,102.375,906.3984375,122.875,945.4375,1,13,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,13, nine ,4569,1680397,917,118,102.375,906.3984375,122.875,945.4375,1,13,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,13, nine ,4619,1680447,917,118,102.375,906.3984375,122.875,945.4375,1,13,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,13, nine ,4669,1680498,917,118,102.375,906.3984375,122.875,945.4375,1,13,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,13, nine ,4718,1680546,926,118,102.375,906.3984375,122.875,945.4375,1,13,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,14, billion. ,4768,1680596,952,115,102.375,945.4375,122.875,1000.9765625,1,14,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,14, billion. ,4818,1680646,998,109,102.375,945.4375,122.875,1000.9765625,1,14,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,15, Already ,4868,1680696,1014,108,102.375,1000.9765625,122.875,1061.515625,1,15,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,15, Already ,4918,1680746,1021,107,102.375,1000.9765625,122.875,1061.515625,1,15,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,15, Already ,4969,1680797,1022,107,102.375,1000.9765625,122.875,1061.515625,1,15,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,5018,1680846,1009,107,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,5068,1680896,689,88,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,5117,1680945,456,85,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,5168,1680996,386,95,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,5218,1681046,376,99,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,5268,1681096,376,99,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,5318,1681147,376,99,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,5369,1681197,376,102,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,1, Over ,5418,1681246,372,114,102.375,346.375,122.875,390.3828125,1,1,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,5468,1681297,368,131,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,5517,1681346,368,142,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,16, one ,5568,1681396,378,149,142.375,346.375,162.875,381.4140625,2,1,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,17, billion ,5618,1681446,397,154,142.375,381.4140625,162.875,432.4453125,2,2,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,18, people ,5667,1681496,437,155,142.375,432.4453125,162.875,491.5,2,3,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,18, people ,5718,1681546,463,156,142.375,432.4453125,162.875,491.5,2,3,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,18, people ,5768,1681596,491,158,142.375,432.4453125,162.875,491.5,2,3,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,5818,1681646,515,162,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,5868,1681696,543,163,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,5918,1681746,560,162,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,5969,1681797,560,162,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,6019,1681847,560,162,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,6068,1681896,560,162,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,6117,1681946,561,162,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,22, enough ,6168,1681996,606,156,142.375,576.5703125,162.875,641.640625,2,7,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,23, food. ,6218,1682046,676,153,142.375,641.640625,162.875,686.5234375,2,8,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,24, The ,6268,1682096,719,153,142.375,686.5234375,162.875,722.3828125,2,9,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,25, increase ,6318,1682146,738,153,142.375,722.3828125,162.875,795.421875,2,10,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,25, increase ,6369,1682197,740,153,142.375,722.3828125,162.875,795.421875,2,10,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,25, increase ,6419,1682247,740,153,142.375,722.3828125,162.875,795.421875,2,10,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,25, increase ,6469,1682297,740,153,142.375,722.3828125,162.875,795.421875,2,10,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,25, increase ,6519,1682347,741,153,142.375,722.3828125,162.875,795.421875,2,10,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,25, increase ,6568,1682396,794,152,142.375,722.3828125,162.875,795.421875,2,10,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,28, more ,6618,1682446,885,151,142.375,875.453125,162.875,921.46875,2,13,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,28, more ,6668,1682496,912,149,142.375,875.453125,162.875,921.46875,2,13,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,29, pressure ,6718,1682546,929,149,142.375,921.46875,162.875,996.5078125,2,14,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,29, pressure ,6768,1682596,949,146,142.375,921.46875,162.875,996.5078125,2,14,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,29, pressure ,6818,1682646,966,145,142.375,921.46875,162.875,996.5078125,2,14,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,29, pressure ,6868,1682696,976,146,142.375,921.46875,162.875,996.5078125,2,14,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,29, pressure ,6918,1682746,978,148,142.375,921.46875,162.875,996.5078125,2,14,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,6967,1682796,950,150,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,23, food. ,7018,1682846,679,149,142.375,641.640625,162.875,686.5234375,2,8,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,7067,1682896,511,154,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,7118,1682946,375,168,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,7167,1682996,349,175,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,7218,1683046,341,178,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,7267,1683095,338,181,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,7317,1683145,344,183,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,31, agricultural ,7368,1683196,376,185,182.375,346.375,202.875,439.421875,3,1,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,31, agricultural ,7418,1683246,414,185,182.375,346.375,202.875,439.421875,3,1,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,32," land, ",7468,1683296,453,185,182.375,439.421875,202.875,483.4609375,3,2,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,33," water, ",7518,1683346,495,190,182.375,483.4609375,202.875,536.5,3,3,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,34," forests, ",7568,1683396,551,195,182.375,536.5,202.875,600.5234375,3,4,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,34," forests, ",7617,1683446,591,195,182.375,536.5,202.875,600.5234375,3,4,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,35, fisheries ,7668,1683496,601,193,182.375,600.5234375,202.875,672.5546875,3,5,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,35, fisheries ,7719,1683547,601,193,182.375,600.5234375,202.875,672.5546875,3,5,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,35, fisheries ,7769,1683597,601,193,182.375,600.5234375,202.875,672.5546875,3,5,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,35, fisheries ,7819,1683647,601,193,182.375,600.5234375,202.875,672.5546875,3,5,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,35, fisheries ,7868,1683696,635,193,182.375,600.5234375,202.875,672.5546875,3,5,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,37, biodiversity ,7918,1683746,743,198,182.375,707.59375,202.875,802.6328125,3,7,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,7968,1683796,831,208,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,8017,1683846,857,212,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,8068,1683896,870,213,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,8119,1683947,870,213,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,8169,1683997,870,213,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,8218,1684046,870,213,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,8269,1684097,870,213,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,8318,1684146,888,210,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,41, as ,8368,1684196,959,199,182.375,951.703125,202.875,975.71875,3,11,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,42, nutrients ,8417,1684246,1009,190,182.375,975.71875,202.875,1049.7578125,3,12,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,42, nutrients ,8468,1684296,1029,186,182.375,975.71875,202.875,1049.7578125,3,12,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,42, nutrients ,8518,1684346,1046,186,182.375,975.71875,202.875,1049.7578125,3,12,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,43, and ,8568,1684396,1056,189,182.375,1049.7578125,202.875,1079.796875,3,13,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,43, and ,8618,1684446,1060,193,182.375,1049.7578125,202.875,1079.796875,3,13,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,42, nutrients ,8668,1684496,1039,198,182.375,975.71875,202.875,1049.7578125,3,12,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,8717,1684545,950,200,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,34," forests, ",8768,1684596,538,200,182.375,536.5,202.875,600.5234375,3,4,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,8818,1684646,418,207,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,8868,1684696,394,212,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,8918,1684746,383,215,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,8968,1684796,374,218,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,44, energy ,9018,1684846,364,226,222.375,346.375,242.875,406.4140625,4,1,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,44, energy ,9067,1684896,359,234,222.375,346.375,242.875,406.4140625,4,1,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,44, energy ,9118,1684946,358,239,222.375,346.375,242.875,406.4140625,4,1,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,44, energy ,9168,1684996,365,239,222.375,346.375,242.875,406.4140625,4,1,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,45, supplies. ,9218,1685046,422,225,222.375,406.4140625,242.875,482.3046875,4,2,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,9268,1685096,504,216,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,9317,1685146,576,214,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,9368,1685196,646,220,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,51," rising, ",9418,1685246,683,228,222.375,639.21875,242.875,692.234375,4,8,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,52, not ,9468,1685296,706,229,222.375,692.234375,242.875,722.2578125,4,9,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,52, not ,9518,1685346,720,228,222.375,692.234375,242.875,722.2578125,4,9,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,52, not ,9568,1685397,722,228,222.375,692.234375,242.875,722.2578125,4,9,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,52, not ,9618,1685447,722,228,222.375,692.234375,242.875,722.2578125,4,9,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,52, not ,9669,1685498,722,228,222.375,692.234375,242.875,722.2578125,4,9,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,52, not ,9720,1685548,722,228,222.375,692.234375,242.875,722.2578125,4,9,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,55, terms ,9767,1685596,775,230,222.375,774.2890625,242.875,824.296875,4,12,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,9818,1685646,909,256,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,78, cattle. ,9868,1685696,965,265,262.375,953.40625,282.875,1006.2734375,5,15,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,78, cattle. ,9918,1685746,984,264,262.375,953.40625,282.875,1006.2734375,5,15,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,9967,1685796,1000,262,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,10018,1685846,1024,262,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,10067,1685896,1040,258,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,10117,1685946,1050,251,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,10168,1685996,1059,244,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,62, terms ,10218,1686046,1063,238,222.375,1015.4296875,242.875,1065.4375,4,19,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,63, of ,10268,1686096,1066,236,222.375,1065.4375,242.875,1080.453125,4,20,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,63, of ,10318,1686146,1067,235,222.375,1065.4375,242.875,1080.453125,4,20,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,63, of ,10369,1686197,1067,235,222.375,1065.4375,242.875,1080.453125,4,20,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,62, terms ,10418,1686246,1055,235,222.375,1015.4296875,242.875,1065.4375,4,19,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,56, of ,10468,1686296,842,235,222.375,824.296875,242.875,844.3125,4,13,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,10517,1686346,630,235,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,44, energy ,10568,1686396,377,235,222.375,346.375,242.875,406.4140625,4,1,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,10617,1686446,330,237,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,10668,1686496,323,244,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,10717,1686546,323,253,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,10767,1686595,325,263,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,10817,1686645,331,266,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,64, the ,10868,1686696,370,265,262.375,346.375,282.875,376.3984375,5,1,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,10917,1686746,430,259,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,10967,1686796,489,255,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,11017,1686846,527,254,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,11068,1686897,554,255,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,11118,1686946,576,256,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,11168,1686996,582,256,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,11218,1687047,582,256,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,11268,1687097,582,256,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,11319,1687147,582,256,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,11368,1687196,605,259,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,11419,1687247,683,263,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,72, grazing ,11468,1687296,735,268,262.375,704.5859375,282.875,768.625,5,9,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,72, grazing ,11518,1687346,750,272,262.375,704.5859375,282.875,768.625,5,9,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,72, grazing ,11569,1687398,750,272,262.375,704.5859375,282.875,768.625,5,9,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,72, grazing ,11619,1687448,750,272,262.375,704.5859375,282.875,768.625,5,9,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,72, grazing ,11670,1687498,750,272,262.375,704.5859375,282.875,768.625,5,9,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,72, grazing ,11718,1687546,755,272,262.375,704.5859375,282.875,768.625,5,9,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,75, grow ,11768,1687597,822,271,262.375,809.6484375,282.875,853.6640625,5,12,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,77, for ,11818,1687647,949,273,262.375,927.3984375,282.875,953.40625,5,14,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,78, cattle. ,11868,1687696,986,276,262.375,953.40625,282.875,1006.2734375,5,15,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,78, cattle. ,11918,1687746,997,276,262.375,953.40625,282.875,1006.2734375,5,15,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,78, cattle. ,11968,1687796,1005,275,262.375,953.40625,282.875,1006.2734375,5,15,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,79, There ,12018,1687846,1011,274,262.375,1006.2734375,282.875,1058.140625,5,16,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,79, There ,12068,1687896,1014,274,262.375,1006.2734375,282.875,1058.140625,5,16,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,79, There ,12118,1687946,1011,274,262.375,1006.2734375,282.875,1058.140625,5,16,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,75, grow ,12168,1687996,826,266,262.375,809.6484375,282.875,853.6640625,5,12,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,12218,1688046,629,266,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,12269,1688097,420,291,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,12318,1688146,390,293,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,12368,1688196,379,296,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,12417,1688246,375,299,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,12468,1688297,373,300,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,12519,1688347,372,302,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,12568,1688396,372,303,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,81, also ,12618,1688446,375,305,302.375,346.375,322.875,384.3984375,6,1,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,82, the ,12668,1688496,393,305,302.375,384.3984375,322.875,414.421875,6,2,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,83, issue ,12718,1688546,452,304,302.375,414.421875,322.875,461.4453125,6,3,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,12768,1688596,511,301,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,12818,1688646,555,300,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,12867,1688696,594,300,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,87, by ,12918,1688746,639,305,302.375,630.5546875,322.875,654.5703125,6,7,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,88, cows. ,12968,1688796,680,307,302.375,654.5703125,322.875,705.4296875,6,8,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,88, cows. ,13018,1688846,703,306,302.375,654.5703125,322.875,705.4296875,6,8,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,88, cows. ,13069,1688897,705,305,302.375,654.5703125,322.875,705.4296875,6,8,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,88, cows. ,13120,1688948,705,305,302.375,654.5703125,322.875,705.4296875,6,8,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,88, cows. ,13169,1688997,705,305,302.375,654.5703125,322.875,705.4296875,6,8,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,89, The ,13220,1689048,707,305,302.375,705.4296875,322.875,741.2890625,6,9,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,90, livestock ,13268,1689096,765,305,302.375,741.2890625,322.875,815.3125,6,10,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,91, farming ,13318,1689146,859,308,302.375,815.3125,322.875,880.3359375,6,11,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,92," contribution, ",13368,1689196,904,309,302.375,880.3359375,322.875,983.3984375,6,12,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,92," contribution, ",13418,1689246,923,310,302.375,880.3359375,322.875,983.3984375,6,12,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,92," contribution, ",13468,1689296,938,313,302.375,880.3359375,322.875,983.3984375,6,12,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,92," contribution, ",13518,1689346,957,316,302.375,880.3359375,322.875,983.3984375,6,12,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,92," contribution, ",13568,1689396,970,316,302.375,880.3359375,322.875,983.3984375,6,12,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,92," contribution, ",13618,1689446,979,316,302.375,880.3359375,322.875,983.3984375,6,12,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,93, in ,13668,1689496,985,317,302.375,983.3984375,322.875,1002.4140625,6,13,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,93, in ,13718,1689546,984,318,302.375,983.3984375,322.875,1002.4140625,6,13,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,13768,1689597,853,294,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,13817,1689646,666,275,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,83, issue ,13867,1689696,425,309,302.375,414.421875,322.875,461.4453125,6,3,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,13918,1689746,376,328,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,13967,1689796,353,337,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,14017,1689846,339,343,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,14067,1689895,330,348,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,14118,1689946,328,350,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,96, greenhouse ,14168,1689996,363,350,342.375,346.375,362.875,446.4609375,7,1,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,96, greenhouse ,14218,1690046,436,350,342.375,346.375,362.875,446.4609375,7,1,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,98," emissions, ",14268,1690096,511,351,342.375,480.484375,362.875,570.515625,7,3,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,99, is ,14318,1690146,572,352,342.375,570.515625,362.875,588.515625,7,4,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,99, is ,14369,1690197,579,352,342.375,570.515625,362.875,588.515625,7,4,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,99, is ,14419,1690247,579,352,342.375,570.515625,362.875,588.515625,7,4,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,99, is ,14468,1690297,579,352,342.375,570.515625,362.875,588.515625,7,4,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,99, is ,14518,1690346,580,352,342.375,570.515625,362.875,588.515625,7,4,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,100, enormous ,14568,1690396,661,352,342.375,588.515625,362.875,673.5625,7,5,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,105, planet’s ,14618,1690446,782,352,342.375,779.6484375,362.875,846.375,7,10,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,105, planet’s ,14668,1690496,839,352,342.375,779.6484375,362.875,846.375,7,10,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,106," methane, ",14718,1690546,865,352,342.375,846.375,362.875,926.4296875,7,11,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,106," methane, ",14768,1690596,882,353,342.375,846.375,362.875,926.4296875,7,11,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,106," methane, ",14818,1690646,902,352,342.375,846.375,362.875,926.4296875,7,11,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,106," methane, ",14868,1690696,917,348,342.375,846.375,362.875,926.4296875,7,11,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,107, 65% ,14918,1690746,930,345,342.375,926.4296875,362.875,967.4609375,7,12,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,107, 65% ,14968,1690796,939,348,342.375,926.4296875,362.875,967.4609375,7,12,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,107, 65% ,15018,1690846,943,355,342.375,926.4296875,362.875,967.4609375,7,12,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,107, 65% ,15068,1690897,943,358,342.375,926.4296875,362.875,967.4609375,7,12,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,107, 65% ,15118,1690946,933,359,342.375,926.4296875,362.875,967.4609375,7,12,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,105, planet’s ,15168,1690996,835,354,342.375,779.6484375,362.875,846.375,7,10,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,15217,1691046,707,349,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,15267,1691096,574,352,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,15318,1691147,510,370,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,15368,1691196,474,375,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,15418,1691246,436,377,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,15467,1691296,414,380,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,15518,1691346,410,382,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,15569,1691397,410,382,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,15618,1691446,423,383,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,114, of ,15668,1691496,477,387,382.375,460.4765625,402.875,480.4921875,8,4,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,116, carbon ,15718,1691546,521,394,382.375,510.515625,402.875,570.5546875,8,6,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,116, carbon ,15768,1691596,543,400,382.375,510.515625,402.875,570.5546875,8,6,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,15818,1691647,547,402,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,15868,1691696,562,402,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,15917,1691746,645,399,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,15968,1691796,698,408,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,16018,1691846,698,408,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,16068,1691897,698,408,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,16118,1691947,698,408,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,16167,1691996,705,429,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,16217,1692046,705,429,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,16267,1692096,705,429,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,16317,1692146,705,429,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,16367,1692196,705,429,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,16417,1692246,705,429,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,16467,1692296,705,429,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,3,53,54,-1,999,16518,1692346,705,429,,,,,,,The destruction of the rainforests,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
