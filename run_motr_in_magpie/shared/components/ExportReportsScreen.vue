@@ -45,6 +45,7 @@ import {
   downloadResultsFiles,
   getResultsSession,
   resolveExportContext,
+  retryPendingSnapshotUpload,
   uploadCompleteResults,
 } from '@motr-shared/resultsSafeguard';
 import { deleteResultsSnapshot } from '@motr-shared/resultsIndexedDb';
@@ -70,7 +71,12 @@ export default {
       downloadFolderName: '',
     };
   },
-  mounted() {
+  async mounted() {
+    try {
+      await retryPendingSnapshotUpload(this, null);
+    } catch (err) {
+      console.warn('Pending snapshot retry on mount failed:', err);
+    }
     if (this.skipSonaInput) {
       this.submitDirectAndNext();
     }
@@ -108,6 +114,12 @@ export default {
 
       this.saving = true;
       try {
+        try {
+          await retryPendingSnapshotUpload(this, null);
+        } catch (retryErr) {
+          console.warn('IndexedDB retry before complete upload failed:', retryErr);
+        }
+
         await uploadCompleteResults(context, sessionTimes, 'complete');
 
         const session = getResultsSession(this);
