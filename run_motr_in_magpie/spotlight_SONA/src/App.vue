@@ -260,7 +260,10 @@ export default {
     this.cambridgeScoring = prepareCambridgeScoring(cambridgeScoringCsv);
     this.cambridgeSelected = camQ.map(() => null);
     if (this.readingPreview) {
-      this.assignReadingTrials(studyConfig.previewCambridgeScore ?? 15);
+      const previewScore = studyConfig.previewCambridgeScore != null
+        ? studyConfig.previewCambridgeScore
+        : 15;
+      this.assignReadingTrials(previewScore);
     }
     this.stimuliReady = true;
   },
