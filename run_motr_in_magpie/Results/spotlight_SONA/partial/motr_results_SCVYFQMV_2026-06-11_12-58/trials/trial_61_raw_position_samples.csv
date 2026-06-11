@@ -1,0 +1,252 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,2900,1861248,497,152,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,2948,1861296,497,152,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,2998,1861347,497,152,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,3048,1861397,497,152,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,3098,1861447,497,152,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,3148,1861497,497,152,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,3198,1861547,497,152,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,68, see ,3248,1861597,524,274,262.375,516.4453125,282.875,550.46875,5,5,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,3298,1861647,524,274,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,3349,1861697,524,274,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,3398,1861747,524,274,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,3448,1861797,509,252,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,3498,1861847,444,202,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,1, He ,3548,1861897,347,117,102.375,346.375,122.875,374.390625,1,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,3597,1861946,315,84,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,3647,1861996,313,82,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,3697,1862046,314,81,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,3748,1862096,321,83,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,3798,1862147,335,90,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,1, He ,3849,1862197,364,106,102.375,346.375,122.875,374.390625,1,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,2, claims ,3898,1862247,384,111,102.375,374.390625,122.875,430.3984375,1,2,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,2, claims ,3948,1862297,393,111,102.375,374.390625,122.875,430.3984375,1,2,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,2, claims ,3998,1862347,405,112,102.375,374.390625,122.875,430.3984375,1,2,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,2, claims ,4048,1862397,409,112,102.375,374.390625,122.875,430.3984375,1,2,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,2, claims ,4098,1862447,409,112,102.375,374.390625,122.875,430.3984375,1,2,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,2, claims ,4148,1862497,409,112,102.375,374.390625,122.875,430.3984375,1,2,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,2, claims ,4198,1862547,409,112,102.375,374.390625,122.875,430.3984375,1,2,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,2, claims ,4249,1862597,413,112,102.375,374.390625,122.875,430.3984375,1,2,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,3, Poland’s ,4298,1862647,462,111,102.375,430.3984375,122.875,504.1328125,1,3,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,4, new ,4348,1862697,530,111,102.375,504.1328125,122.875,542.15625,1,4,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,5," government, ",4398,1862747,561,111,102.375,542.15625,122.875,647.21875,1,5,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,5," government, ",4448,1862796,573,111,102.375,542.15625,122.875,647.21875,1,5,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,5," government, ",4498,1862847,582,111,102.375,542.15625,122.875,647.21875,1,5,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,5," government, ",4548,1862897,582,111,102.375,542.15625,122.875,647.21875,1,5,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,5," government, ",4598,1862947,582,111,102.375,542.15625,122.875,647.21875,1,5,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,5," government, ",4648,1862997,582,111,102.375,542.15625,122.875,647.21875,1,5,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,5," government, ",4698,1863047,582,111,102.375,542.15625,122.875,647.21875,1,5,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,5," government, ",4748,1863097,630,108,102.375,542.15625,122.875,647.21875,1,5,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,7, in ,4798,1863147,711,105,102.375,710.265625,122.875,729.28125,1,7,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,8, October ,4848,1863196,738,105,102.375,729.28125,122.875,798.3125,1,8,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,8, October ,4898,1863247,739,105,102.375,729.28125,122.875,798.3125,1,8,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,8, October ,4949,1863297,739,105,102.375,729.28125,122.875,798.3125,1,8,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,8, October ,4999,1863348,739,105,102.375,729.28125,122.875,798.3125,1,8,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,8, October ,5048,1863396,740,105,102.375,729.28125,122.875,798.3125,1,8,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,8, October ,5098,1863447,785,106,102.375,729.28125,122.875,798.3125,1,8,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,5148,1863496,861,118,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,5198,1863547,963,139,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,28," 120,000 ",5248,1863596,1007,144,142.375,999.4453125,162.875,1064.515625,2,14,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,5297,1863646,1034,136,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,5347,1863696,1060,128,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,5398,1863746,1071,124,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,5448,1863797,1074,122,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,5498,1863847,1074,122,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,5548,1863897,1074,122,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,5598,1863946,1068,122,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,5648,1863997,1020,118,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,6, elected ,5698,1864047,661,106,102.375,647.21875,122.875,710.265625,1,6,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,5748,1864097,506,120,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,15, Environment ,5798,1864147,369,147,142.375,346.375,162.875,452.4296875,2,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,15, Environment ,5848,1864196,356,150,142.375,346.375,162.875,452.4296875,2,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,15, Environment ,5898,1864247,356,150,142.375,346.375,162.875,452.4296875,2,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,15, Environment ,5948,1864296,361,150,142.375,346.375,162.875,452.4296875,2,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,15, Environment ,5998,1864347,372,150,142.375,346.375,162.875,452.4296875,2,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,15, Environment ,6048,1864397,425,149,142.375,346.375,162.875,452.4296875,2,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,17, Jan ,6098,1864447,549,147,142.375,524.4609375,162.875,558.484375,2,3,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,18," Szyszko, ",6148,1864497,620,146,142.375,558.484375,162.875,635.5078125,2,4,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,19, makes ,6198,1864547,666,146,142.375,635.5078125,162.875,693.53125,2,5,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,19, makes ,6248,1864597,693,151,142.375,635.5078125,162.875,693.53125,2,5,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,20, no ,6298,1864647,707,152,142.375,693.53125,162.875,718.5546875,2,6,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,21, secret ,6348,1864697,720,151,142.375,718.5546875,162.875,772.578125,2,7,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,21, secret ,6398,1864747,724,149,142.375,718.5546875,162.875,772.578125,2,7,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,21, secret ,6448,1864797,724,149,142.375,718.5546875,162.875,772.578125,2,7,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,21, secret ,6498,1864847,724,149,142.375,718.5546875,162.875,772.578125,2,7,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,21, secret ,6547,1864896,725,149,142.375,718.5546875,162.875,772.578125,2,7,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,21, secret ,6598,1864947,765,150,142.375,718.5546875,162.875,772.578125,2,7,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,25, hunter. ,6648,1864997,872,153,142.375,856.65625,162.875,916.5546875,2,11,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,25, hunter. ,6698,1865047,914,156,142.375,856.65625,162.875,916.5546875,2,11,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,26, There ,6748,1865097,937,159,142.375,916.5546875,162.875,968.421875,2,12,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,26, There ,6798,1865147,953,160,142.375,916.5546875,162.875,968.421875,2,12,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,26, There ,6848,1865197,967,159,142.375,916.5546875,162.875,968.421875,2,12,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,27, are ,6897,1865246,978,158,142.375,968.421875,162.875,999.4453125,2,13,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,27, are ,6948,1865297,989,153,142.375,968.421875,162.875,999.4453125,2,13,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,28," 120,000 ",6998,1865346,1008,151,142.375,999.4453125,162.875,1064.515625,2,14,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,28," 120,000 ",7048,1865397,1026,149,142.375,999.4453125,162.875,1064.515625,2,14,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,28," 120,000 ",7098,1865447,1038,148,142.375,999.4453125,162.875,1064.515625,2,14,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,28," 120,000 ",7147,1865496,1040,148,142.375,999.4453125,162.875,1064.515625,2,14,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,7197,1865546,1019,149,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,21, secret ,7248,1865597,736,149,142.375,718.5546875,162.875,772.578125,2,7,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,7298,1865647,624,159,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,7348,1865697,472,180,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,30, hunters ,7398,1865747,422,184,182.375,417.421875,202.875,482.4609375,3,2,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,29, licensed ,7448,1865796,396,187,182.375,346.375,202.875,417.421875,3,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,29, licensed ,7498,1865846,377,191,182.375,346.375,202.875,417.421875,3,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,29, licensed ,7548,1865897,361,197,182.375,346.375,202.875,417.421875,3,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,29, licensed ,7598,1865947,349,199,182.375,346.375,202.875,417.421875,3,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,29, licensed ,7647,1865996,347,199,182.375,346.375,202.875,417.421875,3,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,29, licensed ,7698,1866047,369,194,182.375,346.375,202.875,417.421875,3,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,30, hunters ,7748,1866097,447,189,182.375,417.421875,202.875,482.4609375,3,2,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,32, Poland ,7798,1866147,504,188,182.375,501.4765625,202.875,562.53125,3,4,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,32, Poland ,7848,1866197,540,188,182.375,501.4765625,202.875,562.53125,3,4,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,33, and ,7898,1866247,578,185,182.375,562.53125,202.875,597.5703125,3,5,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,7948,1866297,620,182,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,7998,1866347,654,182,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,8048,1866397,654,182,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,8098,1866447,654,182,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,8148,1866497,654,182,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,8198,1866547,659,182,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,36, influential ,8248,1866597,694,188,182.375,667.6171875,202.875,748.671875,3,8,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,38, parliament. ,8298,1866647,781,194,182.375,767.6875,202.875,861.734375,3,10,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,38, parliament. ,8348,1866697,808,194,182.375,767.6875,202.875,861.734375,3,10,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,38, parliament. ,8398,1866747,830,194,182.375,767.6875,202.875,861.734375,3,10,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,38, parliament. ,8447,1866796,849,192,182.375,767.6875,202.875,861.734375,3,10,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,38, parliament. ,8498,1866847,860,187,182.375,767.6875,202.875,861.734375,3,10,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,38, parliament. ,8548,1866897,860,187,182.375,767.6875,202.875,861.734375,3,10,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,38, parliament. ,8598,1866947,860,187,182.375,767.6875,202.875,861.734375,3,10,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,38, parliament. ,8647,1866996,861,187,182.375,767.6875,202.875,861.734375,3,10,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,39, Being ,8698,1867047,897,189,182.375,861.734375,202.875,912.7734375,3,11,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,41, wolf ,8748,1867097,959,192,182.375,927.7890625,202.875,964.8046875,3,13,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,42, advocate ,8798,1867147,986,192,182.375,964.8046875,202.875,1042.8671875,3,14,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,42, advocate ,8848,1867197,1007,193,182.375,964.8046875,202.875,1042.8671875,3,14,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,42, advocate ,8898,1867247,1023,195,182.375,964.8046875,202.875,1042.8671875,3,14,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,42, advocate ,8948,1867297,1040,196,182.375,964.8046875,202.875,1042.8671875,3,14,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,43, is ,8998,1867347,1050,197,182.375,1042.8671875,202.875,1060.8671875,3,15,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,43, is ,9049,1867397,1053,197,182.375,1042.8671875,202.875,1060.8671875,3,15,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,43, is ,9098,1867447,1054,196,182.375,1042.8671875,202.875,1060.8671875,3,15,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,42, advocate ,9148,1867496,1040,199,182.375,964.8046875,202.875,1042.8671875,3,14,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,9198,1867547,829,203,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,9248,1867597,533,202,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,47, is ,9298,1867647,410,230,222.375,408.0859375,242.875,426.0859375,4,3,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,9348,1867697,368,245,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,9397,1867746,350,249,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,9448,1867797,344,250,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,9498,1867847,342,250,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,9548,1867897,341,245,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,9598,1867947,341,239,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,45, easy. ,9648,1867997,351,236,222.375,346.375,242.875,393.078125,4,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,45, easy. ,9697,1868046,378,236,222.375,346.375,242.875,393.078125,4,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,47, is ,9747,1868096,413,240,222.375,408.0859375,242.875,426.0859375,4,3,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,48, not ,9798,1868147,443,241,222.375,426.0859375,242.875,456.109375,4,4,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,49, as ,9847,1868196,480,241,222.375,456.109375,242.875,480.125,4,5,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,52, can ,9897,1868246,530,238,222.375,528.15625,242.875,562.1796875,4,8,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,53, argue ,9948,1868297,576,239,222.375,562.1796875,242.875,613.21875,4,9,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,9998,1868347,597,242,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,10048,1868397,597,242,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,10098,1868447,597,242,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,10148,1868497,597,242,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,54, to ,10198,1868547,619,238,222.375,613.21875,242.875,633.234375,4,10,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,56, politicians ,10248,1868597,681,225,222.375,663.2578125,242.875,747.3046875,4,12,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,10298,1868647,723,219,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,10348,1868697,746,219,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,57, that ,10398,1868747,766,224,222.375,747.3046875,242.875,782.3359375,4,13,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,58, wolves ,10447,1868796,791,225,222.375,782.3359375,242.875,842.359375,4,14,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,10498,1868847,816,223,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,10547,1868895,842,222,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,59, are ,10599,1868947,867,233,222.375,842.359375,242.875,873.3828125,4,15,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,59, are ,10648,1868997,869,234,222.375,842.359375,242.875,873.3828125,4,15,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,59, are ,10698,1869047,869,234,222.375,842.359375,242.875,873.3828125,4,15,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,59, are ,10748,1869097,869,234,222.375,842.359375,242.875,873.3828125,4,15,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,59, are ,10799,1869148,869,234,222.375,842.359375,242.875,873.3828125,4,15,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,61, big ,10848,1869197,897,233,222.375,888.3984375,242.875,917.421875,4,17,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,62, tourist ,10898,1869247,965,230,222.375,917.421875,242.875,971.4453125,4,18,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,63, attraction. ,10948,1869297,997,228,222.375,971.4453125,242.875,1050.4921875,4,19,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,63, attraction. ,10998,1869347,1008,227,222.375,971.4453125,242.875,1050.4921875,4,19,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,63, attraction. ,11048,1869396,1020,226,222.375,971.4453125,242.875,1050.4921875,4,19,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,63, attraction. ,11098,1869447,1025,226,222.375,971.4453125,242.875,1050.4921875,4,19,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,63, attraction. ,11148,1869497,1027,226,222.375,971.4453125,242.875,1050.4921875,4,19,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,63, attraction. ,11198,1869547,1026,226,222.375,971.4453125,242.875,1050.4921875,4,19,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,60, a ,11248,1869597,882,228,222.375,873.3828125,242.875,888.3984375,4,16,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,11298,1869647,668,228,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,11347,1869696,362,251,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,11397,1869746,353,254,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,11448,1869797,353,254,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,11497,1869846,353,254,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,11548,1869897,353,254,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,11598,1869947,353,254,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,11648,1869997,367,254,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,11698,1870047,400,261,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,65, tourists ,11748,1870096,429,267,262.375,390.3828125,282.875,453.40625,5,2,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,65, tourists ,11797,1870146,445,269,262.375,390.3828125,282.875,453.40625,5,2,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,66, want ,11848,1870197,458,269,262.375,453.40625,282.875,496.4296875,5,3,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,66, want ,11898,1870247,466,268,262.375,453.40625,282.875,496.4296875,5,3,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,66, want ,11948,1870296,468,267,262.375,453.40625,282.875,496.4296875,5,3,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,66, want ,11998,1870347,474,266,262.375,453.40625,282.875,496.4296875,5,3,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,67, to ,12048,1870397,504,265,262.375,496.4296875,282.875,516.4453125,5,4,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,69, the ,12097,1870446,563,265,262.375,550.46875,282.875,580.4921875,5,6,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,70, animals ,12148,1870497,581,265,262.375,580.4921875,282.875,647.5234375,5,7,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,70, animals ,12198,1870547,581,265,262.375,580.4921875,282.875,647.5234375,5,7,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,70, animals ,12249,1870598,581,265,262.375,580.4921875,282.875,647.5234375,5,7,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,70, animals ,12299,1870648,581,265,262.375,580.4921875,282.875,647.5234375,5,7,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,70, animals ,12348,1870697,585,265,262.375,580.4921875,282.875,647.5234375,5,7,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,71, but ,12398,1870747,654,268,262.375,647.5234375,282.875,677.546875,5,8,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,72, wolves ,12447,1870796,721,269,262.375,677.546875,282.875,737.5703125,5,9,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,73, stay ,12498,1870847,746,269,262.375,737.5703125,282.875,775.5859375,5,10,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,73, stay ,12548,1870897,754,269,262.375,737.5703125,282.875,775.5859375,5,10,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,73, stay ,12599,1870948,754,269,262.375,737.5703125,282.875,775.5859375,5,10,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,73, stay ,12649,1870997,754,269,262.375,737.5703125,282.875,775.5859375,5,10,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,73, stay ,12698,1871047,754,269,262.375,737.5703125,282.875,775.5859375,5,10,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,73, stay ,12748,1871097,767,269,262.375,737.5703125,282.875,775.5859375,5,10,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,75, from ,12798,1871147,834,273,262.375,822.609375,282.875,863.6171875,5,12,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,76, humans. ,12848,1871197,891,274,262.375,863.6171875,282.875,937.5,5,13,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,76, humans. ,12898,1871247,909,272,262.375,863.6171875,282.875,937.5,5,13,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,76, humans. ,12948,1871297,923,265,262.375,863.6171875,282.875,937.5,5,13,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,12998,1871347,939,263,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,77, They ,13048,1871397,957,266,262.375,937.5,282.875,982.359375,5,14,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,77, They ,13098,1871447,970,271,262.375,937.5,282.875,982.359375,5,14,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,78, have ,13148,1871497,987,274,262.375,982.359375,282.875,1026.3984375,5,15,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,78, have ,13197,1871546,1002,278,262.375,982.359375,282.875,1026.3984375,5,15,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,78, have ,13248,1871597,1005,281,262.375,982.359375,282.875,1026.3984375,5,15,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,78, have ,13298,1871647,994,279,262.375,982.359375,282.875,1026.3984375,5,15,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,13348,1871697,897,256,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,13397,1871746,694,253,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,13448,1871797,590,269,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,13498,1871847,464,295,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,80, tremendously ,13547,1871896,428,304,302.375,346.375,322.875,459.4296875,6,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,80, tremendously ,13598,1871946,396,311,302.375,346.375,322.875,459.4296875,6,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,80, tremendously ,13648,1871997,376,317,302.375,346.375,322.875,459.4296875,6,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,80, tremendously ,13697,1872046,369,319,302.375,346.375,322.875,459.4296875,6,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,80, tremendously ,13747,1872095,369,319,302.375,346.375,322.875,459.4296875,6,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,80, tremendously ,13798,1872147,372,319,302.375,346.375,322.875,459.4296875,6,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,80, tremendously ,13848,1872197,396,315,302.375,346.375,322.875,459.4296875,6,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,80, tremendously ,13897,1872246,445,314,302.375,346.375,322.875,459.4296875,6,1,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,81, sensitive ,13948,1872297,481,316,302.375,459.4296875,322.875,534.46875,6,2,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,13998,1872347,504,323,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,14047,1872396,526,327,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,14098,1872447,549,328,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,14148,1872497,578,328,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,14197,1872546,607,325,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,14247,1872596,629,324,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,14297,1872646,639,322,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,14347,1872696,641,322,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,84, smell.” ,14397,1872746,643,320,302.375,607.5234375,322.875,660.5234375,6,5,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,84, smell.” ,14448,1872797,653,316,302.375,607.5234375,322.875,660.5234375,6,5,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,14498,1872847,666,311,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,14548,1872897,675,307,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,14597,1872946,678,307,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,14648,1872997,678,309,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,14698,1873047,677,316,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,14748,1873097,685,331,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,14798,1873147,685,331,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,14848,1873197,685,331,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,14898,1873247,685,331,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,14947,1873296,685,331,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,14998,1873347,685,331,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,15047,1873396,685,331,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,15098,1873447,685,331,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,15147,1873496,685,331,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,15197,1873546,685,331,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,15248,1873597,685,331,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,15298,1873647,685,331,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,15348,1873697,685,331,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,6,60,61,-1,999,15398,1873747,685,331,,,,,,,A minister in the new Polish government,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
