@@ -1,0 +1,459 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,2789,1643796,487,312,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,2," March, ",2839,1643846,370,106,102.375,366.390625,122.875,426.40625,1,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,2889,1643896,360,94,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,1, In ,2939,1643946,355,105,102.375,346.375,122.875,366.390625,1,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,1, In ,2989,1643996,354,114,102.375,346.375,122.875,366.390625,1,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,1, In ,3039,1644046,356,116,102.375,346.375,122.875,366.390625,1,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,1, In ,3089,1644096,358,116,102.375,346.375,122.875,366.390625,1,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,1, In ,3139,1644146,359,116,102.375,346.375,122.875,366.390625,1,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,2," March, ",3189,1644196,379,111,102.375,366.390625,122.875,426.40625,1,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,4, BBC ,3239,1644246,452,106,102.375,441.421875,122.875,483.4375,1,4,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,5, documentary ,3289,1644296,549,106,102.375,483.4375,122.875,592.4921875,1,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,5, documentary ,3338,1644346,588,109,102.375,483.4375,122.875,592.4921875,1,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,6, will ,3389,1644396,605,113,102.375,592.4921875,122.875,622.4921875,1,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,6, will ,3439,1644447,609,115,102.375,592.4921875,122.875,622.4921875,1,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,6, will ,3488,1644496,609,115,102.375,592.4921875,122.875,622.4921875,1,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,6, will ,3541,1644548,609,115,102.375,592.4921875,122.875,622.4921875,1,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,6, will ,3590,1644597,609,115,102.375,592.4921875,122.875,622.4921875,1,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,7, feature ,3639,1644646,648,108,102.375,622.4921875,122.875,683.5390625,1,7,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,3688,1644695,739,102,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,3739,1644746,788,102,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,3789,1644796,807,103,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,10, Stefan ,3838,1644846,815,106,102.375,772.578125,122.875,829.625,1,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,10, Stefan ,3889,1644896,815,106,102.375,772.578125,122.875,829.625,1,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,10, Stefan ,3939,1644946,815,106,102.375,772.578125,122.875,829.625,1,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,10, Stefan ,3989,1644997,815,106,102.375,772.578125,122.875,829.625,1,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,10, Stefan ,4038,1645046,817,106,102.375,772.578125,122.875,829.625,1,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,4088,1645096,859,103,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,4139,1645146,915,96,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,4188,1645196,938,94,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,4239,1645246,957,94,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,4288,1645295,978,94,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,4338,1645346,1002,94,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,4388,1645396,1029,98,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,4438,1645446,1050,101,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,4488,1645496,1066,101,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,4539,1645546,1075,101,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,4589,1645596,1078,101,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,4639,1645646,1079,102,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,15, eating ,4690,1645698,1075,107,102.375,1030.7734375,122.875,1079.8203125,1,15,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,4739,1645746,1053,112,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,4789,1645796,761,101,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,4838,1645846,452,87,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,4888,1645895,324,102,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,4938,1645946,291,114,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,4988,1645995,275,123,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,5038,1646045,272,129,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,5088,1646095,301,138,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,5139,1646146,344,145,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,16, deep-fried ,5189,1646197,366,147,142.375,346.375,162.875,432.4296875,2,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,16, deep-fried ,5239,1646246,376,151,142.375,346.375,162.875,432.4296875,2,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,16, deep-fried ,5289,1646296,390,154,142.375,346.375,162.875,432.4296875,2,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,16, deep-fried ,5339,1646346,415,155,142.375,346.375,162.875,432.4296875,2,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,17, locusts ,5389,1646396,449,155,142.375,432.4296875,162.875,493.453125,2,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,17, locusts ,5439,1646447,482,154,142.375,432.4296875,162.875,493.453125,2,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,18, and ,5488,1646496,495,153,142.375,493.453125,162.875,528.4921875,2,3,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,18, and ,5540,1646548,495,153,142.375,493.453125,162.875,528.4921875,2,3,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,18, and ,5590,1646598,495,153,142.375,493.453125,162.875,528.4921875,2,3,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,18, and ,5640,1646648,495,153,142.375,493.453125,162.875,528.4921875,2,3,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,18, and ,5689,1646697,511,152,142.375,493.453125,162.875,528.4921875,2,3,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,19, barbecued ,5739,1646747,588,148,142.375,528.4921875,162.875,618.5625,2,4,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,20, tarantulas. ,5788,1646796,647,148,142.375,618.5625,162.875,707.6171875,2,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,20, tarantulas. ,5839,1646846,665,148,142.375,618.5625,162.875,707.6171875,2,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,20, tarantulas. ,5889,1646896,675,151,142.375,618.5625,162.875,707.6171875,2,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,20, tarantulas. ,5939,1646946,686,154,142.375,618.5625,162.875,707.6171875,2,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,20, tarantulas. ,5989,1646996,698,155,142.375,618.5625,162.875,707.6171875,2,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,21," But, ",6039,1647046,721,157,142.375,707.6171875,162.875,744.640625,2,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,21," But, ",6089,1647096,741,157,142.375,707.6171875,162.875,744.640625,2,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,22, behind ,6139,1647146,756,157,142.375,744.640625,162.875,803.6953125,2,7,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,22, behind ,6189,1647196,765,158,142.375,744.640625,162.875,803.6953125,2,7,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,22, behind ,6239,1647246,765,158,142.375,744.640625,162.875,803.6953125,2,7,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,22, behind ,6290,1647297,765,158,142.375,744.640625,162.875,803.6953125,2,7,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,22, behind ,6340,1647347,765,158,142.375,744.640625,162.875,803.6953125,2,7,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,22, behind ,6390,1647397,766,158,142.375,744.640625,162.875,803.6953125,2,7,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,23, all ,6439,1647447,807,155,142.375,803.6953125,162.875,826.7109375,2,8,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,25, gimmicks ,6489,1647497,863,150,142.375,856.734375,162.875,936.734375,2,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,25, gimmicks ,6539,1647546,892,150,142.375,856.734375,162.875,936.734375,2,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,25, gimmicks ,6589,1647596,912,150,142.375,856.734375,162.875,936.734375,2,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,25, gimmicks ,6639,1647646,930,150,142.375,856.734375,162.875,936.734375,2,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,26, and ,6689,1647696,946,151,142.375,936.734375,162.875,971.7734375,2,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,26, and ,6739,1647746,960,151,142.375,936.734375,162.875,971.7734375,2,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,27, jokes ,6788,1647796,977,150,142.375,971.7734375,162.875,1018.796875,2,12,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,27, jokes ,6839,1647847,990,149,142.375,971.7734375,162.875,1018.796875,2,12,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,27, jokes ,6889,1647896,1001,146,142.375,971.7734375,162.875,1018.796875,2,12,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,27, jokes ,6938,1647946,1009,146,142.375,971.7734375,162.875,1018.796875,2,12,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,27, jokes ,6988,1647996,1016,149,142.375,971.7734375,162.875,1018.796875,2,12,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,28, about ,7039,1648046,1019,152,142.375,1018.796875,162.875,1063.84375,2,13,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,27, jokes ,7088,1648095,1015,154,142.375,971.7734375,162.875,1018.796875,2,12,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,7138,1648145,942,155,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,20, tarantulas. ,7188,1648196,685,147,142.375,618.5625,162.875,707.6171875,2,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,7238,1648246,551,156,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,7289,1648296,469,168,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,7339,1648346,441,171,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,7388,1648396,417,175,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,7438,1648445,393,181,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,29, flies ,7489,1648497,378,186,182.375,346.375,202.875,383.390625,3,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,29, flies ,7539,1648547,367,189,182.375,346.375,202.875,383.390625,3,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,29, flies ,7588,1648596,359,193,182.375,346.375,202.875,383.390625,3,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,29, flies ,7639,1648647,357,194,182.375,346.375,202.875,383.390625,3,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,29, flies ,7688,1648696,360,194,182.375,346.375,202.875,383.390625,3,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,30, in ,7739,1648746,400,194,182.375,383.390625,202.875,402.40625,3,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,32," soup, ",7789,1648796,448,190,182.375,432.4296875,202.875,481.46875,3,4,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,33, there ,7839,1648847,489,189,182.375,481.46875,202.875,527.5,3,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,33, there ,7889,1648896,523,189,182.375,481.46875,202.875,527.5,3,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,35, a ,7939,1648947,546,189,182.375,545.5,202.875,560.515625,3,7,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,36, deeply ,7989,1648996,566,189,182.375,560.515625,202.875,618.5625,3,8,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,36, deeply ,8039,1649046,585,189,182.375,560.515625,202.875,618.5625,3,8,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,36, deeply ,8089,1649096,607,193,182.375,560.515625,202.875,618.5625,3,8,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,37, serious ,8139,1649146,631,194,182.375,618.5625,202.875,681.59375,3,9,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,37, serious ,8189,1649196,654,194,182.375,618.5625,202.875,681.59375,3,9,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,37, serious ,8238,1649246,676,194,182.375,618.5625,202.875,681.59375,3,9,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,38, message. ,8289,1649296,684,195,182.375,681.59375,202.875,764.6328125,3,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,38, message. ,8339,1649346,684,195,182.375,681.59375,202.875,764.6328125,3,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,38, message. ,8391,1649398,684,195,182.375,681.59375,202.875,764.6328125,3,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,38, message. ,8441,1649448,684,195,182.375,681.59375,202.875,764.6328125,3,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,38, message. ,8490,1649497,684,195,182.375,681.59375,202.875,764.6328125,3,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,38, message. ,8540,1649548,684,195,182.375,681.59375,202.875,764.6328125,3,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,38, message. ,8589,1649596,684,195,182.375,681.59375,202.875,764.6328125,3,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,38, message. ,8639,1649647,702,194,182.375,681.59375,202.875,764.6328125,3,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,38, message. ,8688,1649696,722,192,182.375,681.59375,202.875,764.6328125,3,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,38, message. ,8738,1649746,740,190,182.375,681.59375,202.875,764.6328125,3,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,38, message. ,8788,1649796,762,190,182.375,681.59375,202.875,764.6328125,3,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,39, Many ,8839,1649846,775,194,182.375,764.6328125,202.875,813.65625,3,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,39, Many ,8889,1649896,788,197,182.375,764.6328125,202.875,813.65625,3,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,39, Many ,8939,1649946,804,200,182.375,764.6328125,202.875,813.65625,3,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,8989,1649996,817,201,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,9040,1650047,817,201,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,9089,1650097,817,201,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,9139,1650147,817,201,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,9189,1650197,817,201,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,9238,1650245,830,201,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,9289,1650296,870,202,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,9339,1650346,910,207,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,9388,1650396,932,207,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,9439,1650446,948,204,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,42, there ,9489,1650496,967,198,182.375,939.734375,202.875,985.765625,3,14,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,43, is ,9539,1650546,988,196,182.375,985.765625,202.875,1003.765625,3,15,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,44, a ,9589,1650596,1017,196,182.375,1003.765625,202.875,1018.78125,3,16,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,45, clear ,9639,1650646,1035,196,182.375,1018.78125,202.875,1057.796875,3,17,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,45, clear ,9689,1650696,1044,197,182.375,1018.78125,202.875,1057.796875,3,17,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,45, clear ,9739,1650746,1050,197,182.375,1018.78125,202.875,1057.796875,3,17,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,45, clear ,9788,1650796,1056,197,182.375,1018.78125,202.875,1057.796875,3,17,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,9839,1650846,1060,198,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,45, clear ,9888,1650896,1057,199,182.375,1018.78125,202.875,1057.796875,3,17,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,9938,1650945,1029,199,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,9989,1650996,813,209,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,10038,1651046,659,213,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,10089,1651097,535,211,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,10139,1651146,425,201,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,30, in ,10190,1651197,393,201,182.375,383.390625,202.875,402.40625,3,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,30, in ,10240,1651248,393,201,182.375,383.390625,202.875,402.40625,3,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,30, in ,10290,1651297,393,201,182.375,383.390625,202.875,402.40625,3,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,30, in ,10340,1651347,393,201,182.375,383.390625,202.875,402.40625,3,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,10388,1651395,383,207,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,10439,1651446,356,218,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,10488,1651496,344,222,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,10567,1651574,342,223,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,10588,1651595,342,225,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,10638,1651646,340,227,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,10688,1651696,339,228,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,10738,1651746,338,229,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,46, environmental ,10789,1651796,348,231,222.375,346.375,242.875,464.4453125,4,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,46, environmental ,10839,1651846,370,233,222.375,346.375,242.875,464.4453125,4,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,46, environmental ,10888,1651896,406,234,222.375,346.375,242.875,464.4453125,4,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,46, environmental ,10939,1651946,442,234,222.375,346.375,242.875,464.4453125,4,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,47, benefit ,10989,1651996,475,238,222.375,464.4453125,242.875,523.4921875,4,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,47, benefit ,11038,1652046,494,238,222.375,464.4453125,242.875,523.4921875,4,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,47, benefit ,11088,1652096,505,236,222.375,464.4453125,242.875,523.4921875,4,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,47, benefit ,11139,1652147,514,236,222.375,464.4453125,242.875,523.4921875,4,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,47, benefit ,11189,1652197,517,236,222.375,464.4453125,242.875,523.4921875,4,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,47, benefit ,11239,1652247,518,236,222.375,464.4453125,242.875,523.4921875,4,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,47, benefit ,11289,1652297,519,235,222.375,464.4453125,242.875,523.4921875,4,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,48, to ,11338,1652346,524,235,222.375,523.4921875,242.875,543.5078125,4,3,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,48, to ,11389,1652397,539,237,222.375,523.4921875,242.875,543.5078125,4,3,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,49, humans ,11439,1652447,551,240,222.375,543.5078125,242.875,612.546875,4,4,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,49, humans ,11489,1652497,551,240,222.375,543.5078125,242.875,612.546875,4,4,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,49, humans ,11540,1652548,551,240,222.375,543.5078125,242.875,612.546875,4,4,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,49, humans ,11590,1652598,551,240,222.375,543.5078125,242.875,612.546875,4,4,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,49, humans ,11640,1652647,551,240,222.375,543.5078125,242.875,612.546875,4,4,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,49, humans ,11689,1652697,562,239,222.375,543.5078125,242.875,612.546875,4,4,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,49, humans ,11739,1652747,606,232,222.375,543.5078125,242.875,612.546875,4,4,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,50, eating ,11788,1652796,647,226,222.375,612.546875,242.875,666.59375,4,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,11838,1652845,668,222,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,11888,1652895,680,219,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,11939,1652946,691,218,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,11989,1652996,707,218,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,12038,1653046,724,220,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,12088,1653096,734,222,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,12139,1653147,735,222,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,12189,1653197,735,222,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,12240,1653247,735,222,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,12289,1653297,735,222,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,12338,1653345,737,222,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,12389,1653396,768,222,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,12439,1653446,788,222,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,12488,1653495,799,223,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,12539,1653546,813,223,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,12588,1653596,837,223,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,53, UN’s ,12639,1653647,864,224,222.375,837.3359375,242.875,881.0234375,4,8,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,53, UN’s ,12689,1653696,880,230,222.375,837.3359375,242.875,881.0234375,4,8,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,54, Food ,12739,1653747,883,230,222.375,881.0234375,242.875,927.0546875,4,9,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,54, Food ,12790,1653798,883,230,222.375,881.0234375,242.875,927.0546875,4,9,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,54, Food ,12840,1653848,883,230,222.375,881.0234375,242.875,927.0546875,4,9,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,54, Food ,12890,1653898,883,230,222.375,881.0234375,242.875,927.0546875,4,9,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,54, Food ,12938,1653946,889,230,222.375,881.0234375,242.875,927.0546875,4,9,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,54, Food ,12989,1653997,923,229,222.375,881.0234375,242.875,927.0546875,4,9,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,55, and ,13038,1654046,959,229,222.375,927.0546875,242.875,961.6015625,4,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,56, Agriculture ,13088,1654096,976,231,222.375,961.6015625,242.875,1047.1484375,4,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,56, Agriculture ,13139,1654147,985,231,222.375,961.6015625,242.875,1047.1484375,4,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,56, Agriculture ,13188,1654195,1000,231,222.375,961.6015625,242.875,1047.1484375,4,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,56, Agriculture ,13238,1654246,1012,232,222.375,961.6015625,242.875,1047.1484375,4,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,56, Agriculture ,13289,1654296,1022,232,222.375,961.6015625,242.875,1047.1484375,4,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,56, Agriculture ,13339,1654346,1031,234,222.375,961.6015625,242.875,1047.1484375,4,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,56, Agriculture ,13389,1654396,1034,235,222.375,961.6015625,242.875,1047.1484375,4,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,13438,1654446,1025,237,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,51, creepy-crawlies. ,13488,1654496,796,239,222.375,666.59375,242.875,801.4765625,4,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,13538,1654545,635,234,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,13588,1654595,459,241,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,13638,1654646,412,251,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,13689,1654697,412,251,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,13738,1654746,412,251,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,13789,1654797,412,251,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,13838,1654846,378,256,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,13888,1654895,335,266,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,13938,1654945,315,273,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,13988,1654996,318,277,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,14039,1655046,340,283,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,14089,1655096,361,285,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,14139,1655146,381,284,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,57, Organization ,14189,1655196,404,280,262.375,346.375,282.875,453.4375,5,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,57, Organization ,14238,1655246,435,277,262.375,346.375,282.875,453.4375,5,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,58, (FAO) ,14288,1655296,462,276,262.375,453.4375,282.875,506.4453125,5,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,58, (FAO) ,14339,1655347,482,276,262.375,453.4375,282.875,506.4453125,5,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,58, (FAO) ,14388,1655396,493,277,262.375,453.4375,282.875,506.4453125,5,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,58, (FAO) ,14439,1655446,504,278,262.375,453.4375,282.875,506.4453125,5,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,14488,1655495,517,281,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,14539,1655546,519,281,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,14590,1655597,519,281,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,14639,1655646,519,281,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,14689,1655697,519,281,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,14738,1655745,542,281,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,14789,1655796,601,281,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,62, projects ,14838,1655846,655,277,262.375,649.5703125,282.875,717.6015625,5,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,62, projects ,14889,1655896,675,275,262.375,649.5703125,282.875,717.6015625,5,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,62, projects ,14939,1655946,691,278,262.375,649.5703125,282.875,717.6015625,5,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,62, projects ,14989,1655996,700,279,262.375,649.5703125,282.875,717.6015625,5,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,62, projects ,15039,1656046,707,278,262.375,649.5703125,282.875,717.6015625,5,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,63, since ,15088,1656095,718,276,262.375,717.6015625,282.875,764.625,5,7,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,63, since ,15139,1656146,733,275,262.375,717.6015625,282.875,764.625,5,7,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,63, since ,15189,1656197,746,275,262.375,717.6015625,282.875,764.625,5,7,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,63, since ,15239,1656246,749,275,262.375,717.6015625,282.875,764.625,5,7,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,63, since ,15290,1656297,749,275,262.375,717.6015625,282.875,764.625,5,7,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,63, since ,15340,1656348,749,275,262.375,717.6015625,282.875,764.625,5,7,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,63, since ,15390,1656398,749,275,262.375,717.6015625,282.875,764.625,5,7,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,63, since ,15440,1656447,750,275,262.375,717.6015625,282.875,764.625,5,7,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,64, 2011 ,15488,1656495,784,267,262.375,764.625,282.875,808.34375,5,8,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,15538,1656545,833,261,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,15589,1656596,849,259,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,15639,1656646,852,259,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,15688,1656696,855,258,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,15738,1656746,866,258,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,15789,1656796,882,259,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,15838,1656846,896,263,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,67, promoting ,15889,1656896,907,265,262.375,882.390625,282.875,967.4375,5,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,67, promoting ,15939,1656947,924,266,262.375,882.390625,282.875,967.4375,5,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,67, promoting ,15989,1656996,939,268,262.375,882.390625,282.875,967.4375,5,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,67, promoting ,16039,1657046,955,270,262.375,882.390625,282.875,967.4375,5,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,68, the ,16089,1657097,975,272,262.375,967.4375,282.875,997.4609375,5,12,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,68, the ,16139,1657146,995,273,262.375,967.4375,282.875,997.4609375,5,12,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,69, eating ,16188,1657195,1017,273,262.375,997.4609375,282.875,1051.5078125,5,13,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,69, eating ,16239,1657246,1029,270,262.375,997.4609375,282.875,1051.5078125,5,13,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,69, eating ,16289,1657297,1034,267,262.375,997.4609375,282.875,1051.5078125,5,13,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,16339,1657346,1023,260,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,16388,1657395,920,243,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,16438,1657446,679,242,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,57, Organization ,16489,1657496,419,267,262.375,346.375,282.875,453.4375,5,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,16538,1657546,325,288,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,16588,1657596,298,301,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,16638,1657646,294,305,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,16689,1657696,295,309,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,16739,1657746,312,311,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,71, farming ,16788,1657796,386,309,302.375,346.375,322.875,411.3984375,6,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,72, of ,16838,1657846,414,307,302.375,411.3984375,322.875,431.4140625,6,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,72, of ,16889,1657897,428,307,302.375,411.3984375,322.875,431.4140625,6,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,73, insects ,16938,1657946,443,309,302.375,431.4140625,322.875,492.4375,6,3,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,73, insects ,16989,1657997,464,314,302.375,431.4140625,322.875,492.4375,6,3,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,75, south-east ,17038,1658046,515,317,302.375,511.453125,322.875,600.015625,6,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,75, south-east ,17088,1658096,559,317,302.375,511.453125,322.875,600.015625,6,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,75, south-east ,17139,1658146,573,316,302.375,511.453125,322.875,600.015625,6,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,75, south-east ,17188,1658196,573,316,302.375,511.453125,322.875,600.015625,6,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,75, south-east ,17240,1658248,573,316,302.375,511.453125,322.875,600.015625,6,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,75, south-east ,17290,1658298,573,316,302.375,511.453125,322.875,600.015625,6,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,75, south-east ,17340,1658347,573,316,302.375,511.453125,322.875,600.015625,6,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,76, Asia ,17388,1658396,605,316,302.375,600.015625,322.875,639.546875,6,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,78," Africa, ",17438,1658446,677,316,302.375,674.09375,322.875,729.6171875,6,8,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,78," Africa, ",17489,1658497,714,320,302.375,674.09375,322.875,729.6171875,6,8,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,17538,1658545,731,322,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,17588,1658596,737,322,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,17639,1658646,737,322,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,17689,1658697,737,322,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,17739,1658746,737,322,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,17789,1658797,737,322,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,17840,1658848,739,322,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,80, an ,17888,1658896,792,310,302.375,783.6484375,322.875,808.671875,6,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,81, estimated ,17939,1658946,864,306,302.375,808.671875,322.875,891.7109375,6,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,82, two ,17989,1658996,903,306,302.375,891.7109375,322.875,924.7265625,6,12,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,83, billion ,18038,1659046,933,307,302.375,924.7265625,322.875,975.7578125,6,13,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,83, billion ,18089,1659097,966,309,302.375,924.7265625,322.875,975.7578125,6,13,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,84, people ,18139,1659146,992,306,302.375,975.7578125,322.875,1029.8125,6,14,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,84, people ,18189,1659196,1005,306,302.375,975.7578125,322.875,1029.8125,6,14,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,84, people ,18239,1659247,1011,306,302.375,975.7578125,322.875,1029.8125,6,14,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,84, people ,18289,1659296,1016,306,302.375,975.7578125,322.875,1029.8125,6,14,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,84, people ,18338,1659346,1018,311,302.375,975.7578125,322.875,1029.8125,6,14,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,18388,1659396,913,321,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,18439,1659446,593,327,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,18488,1659496,392,333,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,18538,1659546,338,338,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,18589,1659596,330,343,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,18639,1659646,331,347,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,18689,1659696,337,350,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,85, already ,18739,1659747,354,351,342.375,346.375,362.875,410.4140625,7,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,85, already ,18789,1659796,377,350,342.375,346.375,362.875,410.4140625,7,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,86, eat ,18838,1659846,420,350,342.375,410.4140625,362.875,440.4375,7,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,87, insects ,18889,1659896,470,350,342.375,440.4375,362.875,501.4609375,7,3,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,88, and ,18938,1659946,514,350,342.375,501.4609375,362.875,536.5,7,4,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,89, caterpillar ,18989,1659996,549,350,342.375,536.5,362.875,619.53125,7,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,89, caterpillar ,19039,1660046,578,350,342.375,536.5,362.875,619.53125,7,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,89, caterpillar ,19088,1660096,586,352,342.375,536.5,362.875,619.53125,7,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,89, caterpillar ,19140,1660148,586,352,342.375,536.5,362.875,619.53125,7,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,89, caterpillar ,19190,1660198,586,352,342.375,536.5,362.875,619.53125,7,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,89, caterpillar ,19239,1660247,586,352,342.375,536.5,362.875,619.53125,7,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,89, caterpillar ,19288,1660296,617,350,342.375,536.5,362.875,619.53125,7,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,19338,1660346,705,343,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,19388,1660396,748,343,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,93, regular ,19438,1660446,761,345,342.375,712.59375,362.875,773.625,7,9,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,93, regular ,19489,1660496,761,345,342.375,712.59375,362.875,773.625,7,9,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,93, regular ,19540,1660548,761,345,342.375,712.59375,362.875,773.625,7,9,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,93, regular ,19590,1660598,761,345,342.375,712.59375,362.875,773.625,7,9,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,93, regular ,19639,1660647,762,345,342.375,712.59375,362.875,773.625,7,9,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,94, part ,19688,1660696,791,344,342.375,773.625,362.875,809.6484375,7,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,19738,1660745,867,340,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,19789,1660796,897,338,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,19838,1660846,921,339,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,19888,1660895,939,341,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,19938,1660945,960,342,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,100, the ,19988,1660996,981,345,342.375,978.7734375,362.875,1008.796875,7,16,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,100, the ,20038,1661045,1001,346,342.375,978.7734375,362.875,1008.796875,7,16,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,101, FAO ,20089,1661096,1017,349,342.375,1008.796875,362.875,1044.8203125,7,17,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,101, FAO ,20138,1661146,1033,355,342.375,1008.796875,362.875,1044.8203125,7,17,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,101, FAO ,20188,1661196,1044,356,342.375,1008.796875,362.875,1044.8203125,7,17,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,20238,1661246,1054,356,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,20289,1661296,1056,353,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,20338,1661346,1008,338,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,20388,1661395,830,328,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,90, larvae ,20438,1661446,647,348,342.375,619.53125,362.875,673.5625,7,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,20488,1661496,545,382,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,20538,1661545,494,404,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,20588,1661596,467,413,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,20639,1661646,446,417,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,20689,1661696,421,419,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,20738,1661746,396,410,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,20788,1661796,377,402,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,20838,1661846,361,402,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,20888,1661896,350,402,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,102, published ,20939,1661947,347,400,382.375,346.375,402.875,428.4453125,8,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,20988,1661996,346,398,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,21039,1662046,346,398,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,102, published ,21088,1662096,358,398,382.375,346.375,402.875,428.4453125,8,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,102, published ,21139,1662147,391,393,382.375,346.375,402.875,428.4453125,8,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,102, published ,21189,1662197,423,389,382.375,346.375,402.875,428.4453125,8,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,104, list ,21238,1662246,452,387,382.375,443.4609375,402.875,470.4609375,8,3,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,105, of ,21289,1662297,484,386,382.375,470.4609375,402.875,490.4765625,8,4,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,106," 1,909 ",21338,1662346,522,386,382.375,490.4765625,402.875,540.5234375,8,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,107, edible ,21389,1662396,568,389,382.375,540.5234375,402.875,593.5703125,8,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,108, species ,21438,1662446,602,393,382.375,593.5703125,402.875,659.609375,8,7,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,108, species ,21489,1662496,627,396,382.375,593.5703125,402.875,659.609375,8,7,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,108, species ,21538,1662546,652,399,382.375,593.5703125,402.875,659.609375,8,7,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,109, of ,21588,1662596,670,399,382.375,659.609375,402.875,679.625,8,8,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,109, of ,21639,1662646,676,399,382.375,659.609375,402.875,679.625,8,8,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,109, of ,21690,1662697,676,399,382.375,659.609375,402.875,679.625,8,8,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,109, of ,21740,1662747,676,399,382.375,659.609375,402.875,679.625,8,8,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,109, of ,21790,1662798,676,399,382.375,659.609375,402.875,679.625,8,8,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,110, insect ,21838,1662846,690,397,382.375,679.625,402.875,731.6484375,8,9,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,111," and, ",21888,1662896,751,385,382.375,731.6484375,402.875,771.6875,8,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,21938,1662946,807,377,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,21989,1662996,832,377,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,22039,1663046,852,379,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,22089,1663096,871,381,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,113, sponsorship ,22138,1663146,891,384,382.375,808.703125,402.875,910.765625,8,12,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,113, sponsorship ,22189,1663197,909,387,382.375,808.703125,402.875,910.765625,8,12,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,114, from ,22238,1663245,935,391,382.375,910.765625,402.875,951.7734375,8,13,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,114, from ,22288,1663295,949,391,382.375,910.765625,402.875,951.7734375,8,13,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,115, the ,22338,1663346,963,393,382.375,951.7734375,402.875,981.796875,8,14,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,115, the ,22388,1663396,978,395,382.375,951.7734375,402.875,981.796875,8,14,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,116, Dutch ,22438,1663446,994,396,382.375,981.796875,402.875,1028.8203125,8,15,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,116, Dutch ,22488,1663496,1010,397,382.375,981.796875,402.875,1028.8203125,8,15,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,116, Dutch ,22538,1663546,1018,397,382.375,981.796875,402.875,1028.8203125,8,15,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,116, Dutch ,22589,1663597,1021,397,382.375,981.796875,402.875,1028.8203125,8,15,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,116, Dutch ,22638,1663646,1007,397,382.375,981.796875,402.875,1028.8203125,8,15,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,22688,1663695,942,397,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,22740,1663748,723,428,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,22788,1663796,593,466,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,22838,1663846,593,466,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,22888,1663896,593,466,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,22938,1663946,593,466,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,22988,1663996,354,459,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,23039,1664046,340,447,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,23088,1664095,336,439,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,23139,1664146,336,435,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,23188,1664195,341,430,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,117," government, ",23238,1664246,362,428,422.375,346.375,442.875,451.4375,9,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,117," government, ",23288,1664296,403,428,422.375,346.375,442.875,451.4375,9,1,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,118, plans ,23338,1664346,461,428,422.375,451.4375,442.875,499.4765625,9,2,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,119, a ,23388,1664396,514,428,422.375,499.4765625,442.875,514.4921875,9,3,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,120, major ,23438,1664446,554,428,422.375,514.4921875,442.875,564.5078125,9,4,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,121, international ,23488,1664496,586,427,422.375,564.5078125,442.875,667.578125,9,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,121, international ,23538,1664545,611,427,422.375,564.5078125,442.875,667.578125,9,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,121, international ,23588,1664596,632,427,422.375,564.5078125,442.875,667.578125,9,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,121, international ,23638,1664645,647,427,422.375,564.5078125,442.875,667.578125,9,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,121, international ,23688,1664696,666,428,422.375,564.5078125,442.875,667.578125,9,5,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,122, conference ,23738,1664745,687,430,422.375,667.578125,442.875,761.640625,9,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,122, conference ,23789,1664796,696,430,422.375,667.578125,442.875,761.640625,9,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,122, conference ,23840,1664847,696,430,422.375,667.578125,442.875,761.640625,9,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,122, conference ,23889,1664896,696,430,422.375,667.578125,442.875,761.640625,9,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,122, conference ,23940,1664947,696,430,422.375,667.578125,442.875,761.640625,9,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,122, conference ,23990,1664998,696,430,422.375,667.578125,442.875,761.640625,9,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,122, conference ,24038,1665046,717,425,422.375,667.578125,442.875,761.640625,9,6,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,24088,1665096,771,417,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,24138,1665145,803,414,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,24188,1665196,815,414,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,24239,1665246,821,413,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,24288,1665296,831,412,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,24338,1665345,845,413,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,24388,1665396,862,418,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,125, valuable ,24438,1665446,886,425,422.375,825.671875,442.875,897.7265625,9,9,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,126, food ,24488,1665496,904,428,422.375,897.7265625,442.875,937.765625,9,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,126, food ,24538,1665546,918,428,422.375,897.7265625,442.875,937.765625,9,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,126, food ,24588,1665596,932,428,422.375,897.7265625,442.875,937.765625,9,10,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,127, source” ,24638,1665645,946,428,422.375,937.765625,442.875,1002.7890625,9,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,127, source” ,24688,1665696,963,430,422.375,937.765625,442.875,1002.7890625,9,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,127, source” ,24738,1665746,972,430,422.375,937.765625,442.875,1002.7890625,9,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,127, source” ,24788,1665796,983,429,422.375,937.765625,442.875,1002.7890625,9,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,127, source” ,24838,1665846,1002,427,422.375,937.765625,442.875,1002.7890625,9,11,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,129, 2013. ,24888,1665895,1022,425,422.375,1021.8046875,442.875,1066.8515625,9,13,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,129, 2013. ,24938,1665946,1038,424,422.375,1021.8046875,442.875,1066.8515625,9,13,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,129, 2013. ,24988,1665996,1050,430,422.375,1021.8046875,442.875,1066.8515625,9,13,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,25038,1666046,1050,436,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,25088,1666096,965,458,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,25138,1666146,965,458,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,25188,1666196,965,458,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,25238,1666246,965,458,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,25288,1666296,965,458,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,25338,1666346,965,458,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,25388,1666396,965,458,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,25438,1666446,965,458,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,25488,1666496,965,458,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,25538,1666546,965,458,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,25588,1666596,965,458,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,12,2,52,53,-1,999,25639,1666646,965,458,,,,,,,To make people healthier for relatively little cost,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
