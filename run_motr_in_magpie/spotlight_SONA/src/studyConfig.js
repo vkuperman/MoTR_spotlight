@@ -17,6 +17,6 @@ export default {
   ],
   completionUrl: 'https://app.prolific.com/submissions/complete?cc=C1FQEQTP',
   contactEmail: 'hendele@mcmaster.ca',
-  mode: 'debug',
+  mode: 'sona',
   language: 'en',
 };
