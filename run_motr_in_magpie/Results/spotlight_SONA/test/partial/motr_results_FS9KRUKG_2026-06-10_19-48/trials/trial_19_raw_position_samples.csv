@@ -1,0 +1,304 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+FS9KRUKG,,2,int,24,1,18,19,-1,999,2142,1495541,509,252,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,2192,1495591,492,184,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,2243,1495641,488,153,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,2292,1495691,487,143,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,2342,1495741,492,152,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,2392,1495791,503,181,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,2442,1495841,521,236,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,2492,1495891,521,236,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,2542,1495941,521,236,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,2592,1495991,521,236,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,2642,1496041,521,236,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,2692,1496091,521,236,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,86, spectacular ,2742,1496141,554,316,311.2734375,474.4453125,331.7734375,571.5,6,5,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,2793,1496192,555,250,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,52, well. ,2842,1496241,555,245,231.2734375,552.5390625,251.7734375,593.390625,4,4,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,2892,1496291,555,245,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,2942,1496341,540,289,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,2992,1496391,540,289,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,3042,1496441,540,289,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,3092,1496491,540,289,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,3142,1496541,540,289,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,3192,1496591,540,289,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,3243,1496641,540,289,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,3292,1496691,540,289,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,3342,1496741,540,289,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,3392,1496791,540,289,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,3442,1496841,540,289,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,3492,1496891,540,289,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,3542,1496941,540,289,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,3592,1496991,540,289,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,3643,1497042,540,289,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,73, with ,3692,1497091,750,275,271.2734375,736.546875,291.7734375,773.5625,5,9,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,11, forgotten ,3742,1497141,786,113,111.2734375,784.6015625,131.7734375,860.65625,1,11,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,3792,1497191,786,113,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,3842,1497241,877,101,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,77, heard ,3893,1497292,947,282,271.2734375,905.6796875,291.7734375,956.71875,5,13,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,3942,1497341,947,282,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,3992,1497391,947,282,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,4042,1497441,947,282,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,4092,1497491,947,282,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,4143,1497542,534,345,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,4192,1497591,534,345,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,4242,1497641,534,345,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,4292,1497691,534,345,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,63, few ,4343,1497742,1007,244,231.2734375,977.5,251.7734375,1010.515625,4,15,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,4393,1497791,1007,244,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,4442,1497841,1007,244,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,4493,1497892,650,288,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,4542,1497941,650,288,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,4592,1497991,650,288,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,4642,1498041,938,113,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,4692,1498091,886,269,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,4742,1498141,699,259,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,4792,1498191,690,179,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,11, forgotten ,4842,1498241,832,120,111.2734375,784.6015625,131.7734375,860.65625,1,11,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,4892,1498291,832,120,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,4942,1498341,863,248,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,4992,1498391,710,272,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,5042,1498441,761,96,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,5092,1498491,834,85,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,5142,1498541,879,118,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,5192,1498591,857,252,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,5242,1498641,745,231,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,5293,1498692,794,187,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,5343,1498742,818,227,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,74, people ,5392,1498791,823,287,271.2734375,773.5625,291.7734375,832.6171875,5,10,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,5443,1498842,808,360,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,5492,1498891,808,360,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,5542,1498941,808,360,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,5592,1498991,808,360,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,5642,1499041,808,360,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,5692,1499091,808,360,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,5742,1499141,808,360,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,5792,1499191,808,360,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,5842,1499241,808,360,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,5892,1499291,808,360,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,5942,1499341,808,360,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,5992,1499391,694,345,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,26, a ,6042,1499441,732,158,151.2734375,722.59375,171.7734375,737.609375,2,10,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,6092,1499491,732,158,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,6142,1499541,834,151,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,6192,1499591,864,284,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,6242,1499641,864,284,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,6292,1499691,639,331,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,53, They ,6342,1499741,638,233,231.2734375,593.390625,251.7734375,638.25,4,5,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,6392,1499791,750,211,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,6442,1499841,796,263,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,90, seas ,6492,1499891,787,316,311.2734375,747.6015625,331.7734375,790.625,6,9,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,6542,1499941,787,316,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,24, there ,6592,1499991,640,169,151.2734375,639.546875,171.7734375,685.578125,2,8,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,6643,1500041,676,154,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,73, with ,6692,1500091,756,281,271.2734375,736.546875,291.7734375,773.5625,5,9,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,6742,1500141,756,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,6792,1500191,698,213,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,6842,1500241,705,150,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,6892,1500291,803,177,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,59, post ,6942,1500341,830,233,231.2734375,825.390625,251.7734375,864.4140625,4,11,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,72, summer ,6992,1500391,723,283,271.2734375,666.5390625,291.7734375,736.546875,5,8,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,7042,1500441,723,283,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,40," Greece, ",7092,1500491,697,199,191.2734375,653.53125,211.7734375,722.5625,3,7,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,7142,1500541,697,199,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,7193,1500591,789,288,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,7242,1500641,766,335,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,7292,1500691,668,213,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,24, there ,7342,1500741,677,164,151.2734375,639.546875,171.7734375,685.578125,2,8,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,7392,1500791,768,269,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,90, seas ,7442,1500841,777,320,311.2734375,747.6015625,331.7734375,790.625,6,9,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,88," beaches, ",7492,1500891,684,317,311.2734375,625.5234375,331.7734375,703.5859375,6,7,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,7542,1500941,684,317,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,56, banking ,7592,1500991,722,240,231.2734375,707.296875,251.7734375,775.3515625,4,8,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,7642,1501041,722,240,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,90, seas ,7692,1501091,766,315,311.2734375,747.6015625,331.7734375,790.625,6,9,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,7742,1501141,766,315,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,7792,1501191,652,214,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,7842,1501241,701,253,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,89, clear ,7892,1501291,743,315,311.2734375,703.5859375,331.7734375,747.6015625,6,8,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,7943,1501342,666,271,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,53, They ,7992,1501391,631,247,231.2734375,593.390625,251.7734375,638.25,4,5,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,53, They ,8042,1501441,616,243,231.2734375,593.390625,251.7734375,638.25,4,5,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,8092,1501491,604,263,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,8143,1501542,580,252,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,8192,1501591,567,228,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,37, economic ,8242,1501641,558,209,191.2734375,506.4765625,211.7734375,588.515625,3,4,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,8293,1501692,554,197,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,8343,1501742,651,191,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,8393,1501792,692,212,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,56, banking ,8443,1501842,716,236,231.2734375,707.296875,251.7734375,775.3515625,4,8,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,56, banking ,8492,1501891,711,237,231.2734375,707.296875,251.7734375,775.3515625,4,8,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,38, crisis ,8543,1501942,615,204,191.2734375,588.515625,211.7734375,634.515625,3,5,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,8593,1501991,615,204,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,37, economic ,8642,1502041,574,196,191.2734375,506.4765625,211.7734375,588.515625,3,4,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,8692,1502091,572,196,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,40," Greece, ",8743,1502141,709,203,191.2734375,653.53125,211.7734375,722.5625,3,7,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,8792,1502191,709,203,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,8843,1502242,676,213,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,8892,1502291,617,211,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,8942,1502341,583,216,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,53, They ,8993,1502391,607,236,231.2734375,593.390625,251.7734375,638.25,4,5,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,55, their ,9042,1502441,679,240,231.2734375,667.2734375,251.7734375,707.296875,4,7,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,9093,1502491,752,236,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,41, residents ,9141,1502540,785,200,191.2734375,722.5625,211.7734375,800.6015625,3,8,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,24, there ,9192,1502591,672,153,151.2734375,639.546875,171.7734375,685.578125,2,8,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,37, economic ,9243,1502642,586,203,191.2734375,506.4765625,211.7734375,588.515625,3,4,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,9292,1502691,586,203,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,9342,1502741,568,267,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,9392,1502791,592,287,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,9443,1502841,761,277,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,59, post ,9493,1502892,838,245,231.2734375,825.390625,251.7734375,864.4140625,4,11,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,9542,1502941,838,245,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,9592,1502991,771,169,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,9642,1503041,610,190,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,9692,1503091,585,248,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,9743,1503141,692,354,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,9792,1503191,782,347,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,9843,1503241,848,329,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,9893,1503291,889,260,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,9942,1503341,835,185,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,9992,1503391,716,115,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,10043,1503441,611,162,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,10092,1503491,623,297,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,89, clear ,10143,1503542,723,322,311.2734375,703.5859375,331.7734375,747.6015625,6,8,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,10193,1503591,723,322,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,10243,1503642,812,277,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,10293,1503691,785,172,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,10342,1503741,735,152,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,10392,1503791,630,255,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,88," beaches, ",10442,1503841,629,328,311.2734375,625.5234375,331.7734375,703.5859375,6,7,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,10493,1503891,629,328,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,10543,1503942,814,291,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,10593,1503991,807,217,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,10642,1504041,768,173,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,54, did ,10692,1504091,656,239,231.2734375,638.25,251.7734375,667.2734375,4,6,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,10743,1504142,676,349,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,10792,1504190,735,352,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,10843,1504241,790,323,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,10892,1504291,819,179,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,10943,1504342,779,124,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,10993,1504392,615,183,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,11043,1504441,592,234,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,70, booked ,11092,1504491,614,274,271.2734375,553.4609375,291.7734375,617.515625,5,6,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,11142,1504541,614,274,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,56, banking ,11192,1504591,737,240,231.2734375,707.296875,251.7734375,775.3515625,4,8,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,11242,1504641,737,240,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,23, that ,11293,1504692,628,165,151.2734375,604.515625,171.7734375,639.546875,2,7,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,52, well. ,11343,1504742,565,234,231.2734375,552.5390625,251.7734375,593.390625,4,4,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,11393,1504791,565,234,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,11443,1504841,659,326,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,90, seas ,11493,1504891,772,320,311.2734375,747.6015625,331.7734375,790.625,6,9,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,11543,1504942,762,180,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,9," remote, ",11593,1504991,716,118,111.2734375,694.5625,131.7734375,760.5859375,1,9,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,22, world ,11643,1505042,596,164,151.2734375,556.5,171.7734375,604.515625,2,6,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,11692,1505091,596,164,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,11743,1505142,620,340,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,11792,1505191,687,345,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,11843,1505241,733,315,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,11892,1505291,751,185,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,11943,1505342,717,122,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,11992,1505391,619,90,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,12043,1505441,560,156,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,12092,1505491,541,294,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,86, spectacular ,12142,1505541,562,320,311.2734375,474.4453125,331.7734375,571.5,6,5,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,88," beaches, ",12193,1505591,668,317,311.2734375,625.5234375,331.7734375,703.5859375,6,7,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,12243,1505642,732,260,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,12292,1505691,728,217,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,12343,1505741,693,168,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,12392,1505791,564,220,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,12443,1505841,542,285,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,12492,1505891,598,355,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,12542,1505941,658,350,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,12592,1505991,715,321,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,12643,1506042,747,246,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,24, there ,12693,1506091,673,153,151.2734375,639.546875,171.7734375,685.578125,2,8,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,12742,1506141,673,153,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,12792,1506191,569,253,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,12842,1506241,617,268,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,56, banking ,12892,1506291,708,245,231.2734375,707.296875,251.7734375,775.3515625,4,8,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,12942,1506341,708,245,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,12992,1506391,730,198,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,13043,1506442,613,158,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,69, fully ,13092,1506491,517,276,271.2734375,516.4453125,291.7734375,553.4609375,5,5,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,13142,1506541,517,276,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,13192,1506591,517,276,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,13243,1506642,742,312,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,56, banking ,13293,1506691,752,241,231.2734375,707.296875,251.7734375,775.3515625,4,8,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,13342,1506741,752,241,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,13392,1506791,652,140,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,13443,1506842,616,203,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,13492,1506891,617,291,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,13543,1506942,705,306,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,13592,1506991,740,295,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,13643,1507042,762,278,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,13692,1507091,739,183,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,13742,1507141,677,146,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,13793,1507191,609,156,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,13842,1507241,575,227,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,71, every ,13892,1507291,650,276,271.2734375,617.515625,291.7734375,666.5390625,5,7,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,13943,1507342,721,272,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,13992,1507391,733,252,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,14042,1507441,724,210,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,14092,1507491,668,167,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,14142,1507541,550,213,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,14192,1507591,558,304,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,87, empty ,14243,1507642,604,323,311.2734375,571.5,331.7734375,625.5234375,6,6,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,14292,1507691,604,323,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,54, did ,14342,1507741,647,243,231.2734375,638.25,251.7734375,667.2734375,4,6,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,14392,1507791,606,100,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,14442,1507841,606,100,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,14492,1507891,506,121,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,14543,1507941,507,234,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,70, booked ,14593,1507992,596,288,271.2734375,553.4609375,291.7734375,617.515625,5,6,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,14643,1508042,623,280,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,14692,1508091,619,189,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,14743,1508142,528,150,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,36, the ,14792,1508191,494,206,191.2734375,476.453125,211.7734375,506.4765625,3,3,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,14843,1508242,514,330,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,14892,1508291,573,356,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,14942,1508341,618,352,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,14993,1508392,646,320,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,15042,1508441,623,175,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,21, modern ,15093,1508492,526,154,151.2734375,490.4609375,171.7734375,556.5,2,5,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,15142,1508541,526,154,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,15192,1508591,515,356,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,15242,1508641,515,356,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,15292,1508691,626,354,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,15343,1508741,641,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,6, Efstratios ,15393,1508791,589,126,111.2734375,572.515625,131.7734375,652.546875,1,6,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,15442,1508841,589,126,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,15493,1508891,560,153,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,15542,1508941,560,255,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,15592,1508991,604,253,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,38, crisis ,15642,1509041,613,203,191.2734375,588.515625,211.7734375,634.515625,3,5,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,15692,1509091,590,104,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,5, Agios ,15742,1509141,569,116,111.2734375,522.9765625,131.7734375,572.515625,1,5,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,15792,1509191,525,262,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,15842,1509241,524,310,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,86, spectacular ,15892,1509291,565,320,311.2734375,474.4453125,331.7734375,571.5,6,5,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,15942,1509341,565,320,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,15992,1509391,630,254,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,53, They ,16042,1509441,626,243,231.2734375,593.390625,251.7734375,638.25,4,5,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,68, were ,16092,1509491,484,281,271.2734375,472.4296875,291.7734375,516.4453125,5,4,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,16143,1509541,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,16192,1509591,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,16242,1509641,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,16292,1509691,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,16342,1509741,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,16393,1509791,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,16442,1509841,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,16492,1509891,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,16542,1509941,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,16593,1509992,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,16642,1510041,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,16692,1510091,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,16742,1510141,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,16792,1510191,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,16842,1510241,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,16893,1510292,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,16942,1510341,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,16992,1510391,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,17042,1510441,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,17092,1510491,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,17142,1510541,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,17192,1510591,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,1,18,19,-1,999,17242,1510641,484,281,,,,,,,"Yes, the island has several 5-star resorts",0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
