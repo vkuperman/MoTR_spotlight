@@ -1,0 +1,33 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+FS9KRUKG,,2,int,30,2,14,15,-1,999,2305,1269751,715,503,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,115, equipment ,2345,1269791,715,408,391.2734375,686.9375,411.7734375,776,8,6,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,2396,1269842,715,408,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,2445,1269891,722,328,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,67, going ,2495,1269941,729,289,271.2734375,705.640625,291.7734375,754.6875,5,7,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,2546,1269992,735,224,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,38, even ,2596,1270042,733,194,191.2734375,704.5546875,211.7734375,748.59375,3,9,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,21, give ,2645,1270091,695,157,151.2734375,683.53125,171.7734375,721.5546875,2,7,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,2696,1270141,695,157,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,20, simply ,2746,1270191,646,160,151.2734375,627.5234375,171.7734375,683.53125,2,6,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,2796,1270242,646,160,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,2846,1270291,540,307,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,96, to ,2896,1270342,534,362,351.2734375,519.4765625,371.7734375,539.4921875,7,5,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,128," blocked, ",2945,1270391,582,441,431.2734375,555.4765625,451.7734375,627.5234375,9,5,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,2995,1270441,582,441,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,3045,1270491,764,439,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,3096,1270541,908,430,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,3145,1270591,937,444,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,3196,1270641,932,492,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,3246,1270692,932,492,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,3295,1270741,932,492,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,3346,1270791,932,492,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,3395,1270841,932,492,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,3445,1270891,932,492,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,3496,1270942,932,492,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,3545,1270991,932,492,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,3596,1271041,932,492,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,3646,1271091,932,492,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,3695,1271141,932,492,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,3745,1271191,932,492,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,3796,1271242,932,492,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,2,14,15,-1,999,3846,1271291,932,492,,,,,,,It will have unreliable knowledge of its current location,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
