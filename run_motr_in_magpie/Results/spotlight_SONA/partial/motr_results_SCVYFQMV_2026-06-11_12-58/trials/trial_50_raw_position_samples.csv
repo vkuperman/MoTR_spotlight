@@ -1,0 +1,364 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,2674,1560096,532,284,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,2725,1560147,523,162,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,2775,1560197,523,162,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,2825,1560247,523,162,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,2874,1560296,522,162,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,19, virtually ,2925,1560347,467,150,142.375,425.4453125,162.875,491.4609375,2,2,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,2974,1560396,375,133,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,3024,1560446,334,125,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,3074,1560496,327,122,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,3124,1560547,326,119,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,3174,1560597,328,116,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,3223,1560645,338,109,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,1, Lemnos ,3274,1560697,364,107,102.375,346.375,122.875,415.4140625,1,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,1, Lemnos ,3324,1560746,391,110,102.375,346.375,122.875,415.4140625,1,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,1, Lemnos ,3374,1560796,412,113,102.375,346.375,122.875,415.4140625,1,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,2, has ,3424,1560846,440,116,102.375,415.4140625,122.875,449.4375,1,2,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,3, dozens ,3474,1560896,477,111,102.375,449.4375,122.875,512.484375,1,3,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,3523,1560946,523,103,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,3574,1560996,560,103,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,6," beaches, ",3625,1561047,576,104,102.375,568.515625,122.875,646.578125,1,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,6," beaches, ",3675,1561097,577,104,102.375,568.515625,122.875,646.578125,1,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,6," beaches, ",3724,1561146,577,104,102.375,568.515625,122.875,646.578125,1,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,6," beaches, ",3775,1561197,577,104,102.375,568.515625,122.875,646.578125,1,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,6," beaches, ",3825,1561247,577,104,102.375,568.515625,122.875,646.578125,1,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,6," beaches, ",3874,1561296,595,104,102.375,568.515625,122.875,646.578125,1,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,3923,1561346,641,103,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,3974,1561397,687,99,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,4024,1561446,719,99,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,4074,1561496,746,101,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,4125,1561547,755,103,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,4175,1561597,755,103,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,4225,1561647,755,103,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,4274,1561697,760,103,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,11, height ,4324,1561746,801,108,102.375,794.6875,122.875,848.734375,1,11,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,13, summer ,4374,1561796,886,118,102.375,868.75,122.875,938.7578125,1,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,13, summer ,4424,1561846,917,121,102.375,868.75,122.875,938.7578125,1,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,4474,1561896,935,121,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,14, you ,4524,1561946,950,119,102.375,938.7578125,122.875,972.78125,1,14,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,14, you ,4574,1561996,967,115,102.375,938.7578125,122.875,972.78125,1,14,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,15, can ,4624,1562046,988,114,102.375,972.78125,122.875,1006.8046875,1,15,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,16, swim ,4674,1562096,1012,113,102.375,1006.8046875,122.875,1052.8046875,1,16,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,16, swim ,4725,1562147,1034,113,102.375,1006.8046875,122.875,1052.8046875,1,16,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,16, swim ,4775,1562197,1052,113,102.375,1006.8046875,122.875,1052.8046875,1,16,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,17, and ,4825,1562247,1056,114,102.375,1052.8046875,122.875,1082.84375,1,17,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,17, and ,4874,1562296,1056,114,102.375,1052.8046875,122.875,1082.84375,1,17,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,4924,1562346,1028,115,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,8, even ,4974,1562396,716,105,102.375,700.609375,122.875,744.6484375,1,8,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,5024,1562446,546,138,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,19, virtually ,5074,1562497,456,158,142.375,425.4453125,162.875,491.4609375,2,2,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,5124,1562546,423,162,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,5173,1562596,395,162,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,5223,1562646,377,164,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,5274,1562696,365,165,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,5324,1562746,359,165,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,5374,1562796,359,165,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,5424,1562846,376,163,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,18, sunbathe ,5474,1562896,418,155,142.375,346.375,162.875,425.4453125,2,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,19, virtually ,5524,1562946,452,151,142.375,425.4453125,162.875,491.4609375,2,2,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,19, virtually ,5574,1562997,483,150,142.375,425.4453125,162.875,491.4609375,2,2,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,20," alone, ",5625,1563047,510,150,142.375,491.4609375,162.875,545.5078125,2,3,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,20," alone, ",5674,1563096,539,150,142.375,491.4609375,162.875,545.5078125,2,3,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,22, small ,5724,1563146,582,149,142.375,560.5234375,162.875,607.53125,2,5,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,23, nightlife ,5775,1563197,629,145,142.375,607.53125,162.875,674.578125,2,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,23, nightlife ,5824,1563246,660,144,142.375,607.53125,162.875,674.578125,2,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,23, nightlife ,5874,1563297,668,148,142.375,607.53125,162.875,674.578125,2,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,23, nightlife ,5925,1563347,668,148,142.375,607.53125,162.875,674.578125,2,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,23, nightlife ,5976,1563398,668,148,142.375,607.53125,162.875,674.578125,2,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,23, nightlife ,6026,1563448,668,148,142.375,607.53125,162.875,674.578125,2,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,23, nightlife ,6076,1563498,668,148,142.375,607.53125,162.875,674.578125,2,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,24," scene, ",6124,1563546,691,147,142.375,674.578125,162.875,732.6171875,2,7,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,6174,1563596,758,142,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,6224,1563646,787,137,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,6274,1563696,798,137,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,6325,1563747,799,137,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,6374,1563797,799,137,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,6425,1563847,799,137,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,6474,1563896,801,137,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,6523,1563945,833,140,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,6573,1563995,880,140,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,6624,1564046,899,140,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,6675,1564097,900,140,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,6725,1564147,900,140,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,6774,1564196,900,140,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,6824,1564247,900,140,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,6874,1564296,908,142,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,28, sites. ,6924,1564346,935,147,142.375,915.734375,162.875,962.75,2,11,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,28, sites. ,6974,1564396,959,147,142.375,915.734375,162.875,962.75,2,11,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,29, Lemnos ,7024,1564446,969,146,142.375,962.75,162.875,1031.7890625,2,12,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,29, Lemnos ,7074,1564497,989,150,142.375,962.75,162.875,1031.7890625,2,12,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,29, Lemnos ,7124,1564546,1013,157,142.375,962.75,162.875,1031.7890625,2,12,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,30, is ,7174,1564596,1038,158,142.375,1031.7890625,162.875,1049.7890625,2,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,31, the ,7224,1564646,1059,158,142.375,1049.7890625,162.875,1074.8125,2,14,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,31, the ,7274,1564696,1073,158,142.375,1049.7890625,162.875,1074.8125,2,14,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,7325,1564747,1075,158,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,31, the ,7374,1564796,1069,156,142.375,1049.7890625,162.875,1074.8125,2,14,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,7424,1564846,1042,152,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,7474,1564897,807,132,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,7524,1564946,586,133,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,7574,1564997,456,143,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,18, sunbathe ,7624,1565047,422,155,142.375,346.375,162.875,425.4453125,2,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,18, sunbathe ,7674,1565096,422,155,142.375,346.375,162.875,425.4453125,2,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,18, sunbathe ,7725,1565148,422,155,142.375,346.375,162.875,425.4453125,2,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,18, sunbathe ,7776,1565198,422,155,142.375,346.375,162.875,425.4453125,2,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,7824,1565246,387,174,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,32, eighth ,7874,1565296,364,192,182.375,346.375,202.875,400.421875,3,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,7923,1565346,354,203,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,7974,1565397,353,204,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,8024,1565447,357,202,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,32, eighth ,8074,1565496,365,197,182.375,346.375,202.875,400.421875,3,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,32, eighth ,8124,1565546,375,193,182.375,346.375,202.875,400.421875,3,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,32, eighth ,8173,1565596,384,187,182.375,346.375,202.875,400.421875,3,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,32, eighth ,8224,1565646,393,184,182.375,346.375,202.875,400.421875,3,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,33, largest ,8274,1565696,420,184,182.375,400.421875,202.875,459.453125,3,2,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,34, island ,8324,1565746,467,188,182.375,459.453125,202.875,511.484375,3,3,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,35, in ,8374,1565796,524,191,182.375,511.484375,202.875,530.5,3,4,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,36, Greece ,8424,1565846,570,192,182.375,530.5,202.875,594.53125,3,5,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,37, so ,8474,1565896,602,188,182.375,594.53125,202.875,618.546875,3,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,37, so ,8524,1565946,610,185,182.375,594.53125,202.875,618.546875,3,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,37, so ,8576,1565998,610,185,182.375,594.53125,202.875,618.546875,3,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,37, so ,8625,1566047,610,185,182.375,594.53125,202.875,618.546875,3,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,37, so ,8675,1566097,610,185,182.375,594.53125,202.875,618.546875,3,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,37, so ,8723,1566146,615,185,182.375,594.53125,202.875,618.546875,3,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,40, in ,8774,1566196,660,185,182.375,650.5546875,202.875,669.5703125,3,9,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,43, the ,8824,1566246,744,189,182.375,728.6015625,202.875,758.625,3,12,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,44, first ,8874,1566296,766,190,182.375,758.625,202.875,792.625,3,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,44, first ,8925,1566347,768,191,182.375,758.625,202.875,792.625,3,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,44, first ,8975,1566397,768,191,182.375,758.625,202.875,792.625,3,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,44, first ,9025,1566448,768,191,182.375,758.625,202.875,792.625,3,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,44, first ,9076,1566498,768,191,182.375,758.625,202.875,792.625,3,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,44, first ,9124,1566546,779,191,182.375,758.625,202.875,792.625,3,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,46, of ,9174,1566596,854,193,182.375,843.6640625,202.875,863.6796875,3,15,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,48, increases ,9224,1566646,913,195,182.375,892.6953125,202.875,974.734375,3,17,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,48, increases ,9274,1566696,932,195,182.375,892.6953125,202.875,974.734375,3,17,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,48, increases ,9324,1566746,939,195,182.375,892.6953125,202.875,974.734375,3,17,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,48, increases ,9374,1566796,952,197,182.375,892.6953125,202.875,974.734375,3,17,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,48, increases ,9424,1566846,966,198,182.375,892.6953125,202.875,974.734375,3,17,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,49, in ,9474,1566896,979,195,182.375,974.734375,202.875,993.75,3,18,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,49, in ,9524,1566946,993,193,182.375,974.734375,202.875,993.75,3,18,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,50, autumn ,9574,1566996,1004,193,182.375,993.75,202.875,1053.7890625,3,19,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,50, autumn ,9624,1567046,1007,193,182.375,993.75,202.875,1053.7890625,3,19,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,49, in ,9674,1567096,989,192,182.375,974.734375,202.875,993.75,3,18,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,9724,1567146,757,172,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,9774,1567197,523,180,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,9824,1567246,395,203,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,9874,1567296,352,217,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,9924,1567346,338,222,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,9974,1567396,324,228,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,10025,1567447,318,231,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,10074,1567496,326,233,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,51, 2015 ,10124,1567546,369,233,222.375,346.375,242.875,391.421875,4,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,53, far ,10174,1567597,422,233,222.375,421.4453125,242.875,447.453125,4,3,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,53, far ,10224,1567646,445,232,222.375,421.4453125,242.875,447.453125,4,3,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,54, less ,10274,1567696,467,232,222.375,447.453125,242.875,484.46875,4,4,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,55, wealthy ,10324,1567746,497,234,222.375,484.46875,242.875,550.5078125,4,5,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,55, wealthy ,10374,1567797,544,235,222.375,484.46875,242.875,550.5078125,4,5,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,56, than ,10424,1567846,585,234,222.375,550.5078125,242.875,590.546875,4,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,57, many ,10474,1567897,594,232,222.375,590.546875,242.875,639.5703125,4,7,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,57, many ,10525,1567947,594,232,222.375,590.546875,242.875,639.5703125,4,7,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,57, many ,10575,1567998,594,232,222.375,590.546875,242.875,639.5703125,4,7,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,57, many ,10625,1568048,594,232,222.375,590.546875,242.875,639.5703125,4,7,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,57, many ,10674,1568096,605,232,222.375,590.546875,242.875,639.5703125,4,7,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,58, smaller ,10725,1568147,672,232,222.375,639.5703125,242.875,702.5859375,4,8,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,59, ones. ,10774,1568196,731,228,222.375,702.5859375,242.875,751.625,4,9,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,60, It ,10824,1568246,762,227,222.375,751.625,242.875,766.6328125,4,10,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,61, has ,10874,1568296,784,231,222.375,766.6328125,242.875,800.65625,4,11,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,61, has ,10924,1568347,793,233,222.375,766.6328125,242.875,800.65625,4,11,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,61, has ,10974,1568396,793,233,222.375,766.6328125,242.875,800.65625,4,11,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,61, has ,11024,1568447,793,233,222.375,766.6328125,242.875,800.65625,4,11,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,61, has ,11074,1568497,793,233,222.375,766.6328125,242.875,800.65625,4,11,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,62, just ,11124,1568546,808,233,222.375,800.65625,242.875,833.671875,4,12,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,63, over ,11174,1568596,868,235,222.375,833.671875,242.875,873.6953125,4,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,64," 3,000 ",11224,1568646,916,237,222.375,873.6953125,242.875,923.7421875,4,14,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,65, beds ,11274,1568697,935,238,222.375,923.7421875,242.875,967.78125,4,15,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,11324,1568746,953,241,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,11373,1568796,974,241,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,66, for ,11424,1568846,993,241,222.375,967.78125,242.875,993.7890625,4,16,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,67," visitors, ",11474,1568897,1009,241,222.375,993.7890625,242.875,1054.796875,4,17,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,67," visitors, ",11524,1568946,1020,241,222.375,993.7890625,242.875,1054.796875,4,17,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,67," visitors, ",11574,1568996,1024,241,222.375,993.7890625,242.875,1054.796875,4,17,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,67," visitors, ",11624,1569047,1010,241,222.375,993.7890625,242.875,1054.796875,4,17,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,11673,1569096,923,232,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,11724,1569146,653,244,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,11773,1569195,523,260,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,69, with ,11824,1569247,450,272,262.375,431.421875,282.875,468.4375,5,2,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,68, compared ,11874,1569296,420,279,262.375,346.375,282.875,431.421875,5,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,11924,1569346,405,285,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,11974,1569397,399,289,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,12023,1569446,395,291,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,12074,1569496,389,291,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,12124,1569546,383,290,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,12173,1569596,380,286,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,68, compared ,12224,1569646,379,280,262.375,346.375,282.875,431.421875,5,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,68, compared ,12273,1569696,384,276,262.375,346.375,282.875,431.421875,5,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,68, compared ,12324,1569746,400,275,262.375,346.375,282.875,431.421875,5,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,68, compared ,12373,1569796,422,275,262.375,346.375,282.875,431.421875,5,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,69, with ,12423,1569846,457,275,262.375,431.421875,282.875,468.4375,5,2,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,70, tens ,12474,1569897,501,275,262.375,468.4375,282.875,507.4609375,5,3,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,72, thousands ,12524,1569946,545,277,262.375,527.4765625,282.875,615.546875,5,5,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,72, thousands ,12574,1569996,592,277,262.375,527.4765625,282.875,615.546875,5,5,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,73, on ,12624,1570046,636,275,262.375,615.546875,282.875,640.5703125,5,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,75, island ,12674,1570097,682,272,262.375,665.59375,282.875,717.625,5,8,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,75, island ,12724,1570147,708,272,262.375,665.59375,282.875,717.625,5,8,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,75, island ,12774,1570197,712,272,262.375,665.59375,282.875,717.625,5,8,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,75, island ,12825,1570247,712,272,262.375,665.59375,282.875,717.625,5,8,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,75, island ,12875,1570298,712,272,262.375,665.59375,282.875,717.625,5,8,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,75, island ,12925,1570348,712,272,262.375,665.59375,282.875,717.625,5,8,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,75, island ,12975,1570397,712,272,262.375,665.59375,282.875,717.625,5,8,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,76, such ,13024,1570446,729,272,262.375,717.625,282.875,760.6484375,5,9,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,78, Rhodes. ,13074,1570496,830,271,262.375,784.6640625,282.875,856.7109375,5,11,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,80, councilors ,13123,1570546,888,274,262.375,880.71875,282.875,966.7578125,5,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,80, councilors ,13174,1570596,917,277,262.375,880.71875,282.875,966.7578125,5,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,80, councilors ,13224,1570646,930,277,262.375,880.71875,282.875,966.7578125,5,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,80, councilors ,13274,1570696,945,276,262.375,880.71875,282.875,966.7578125,5,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,80, councilors ,13324,1570746,961,276,262.375,880.71875,282.875,966.7578125,5,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,81, say ,13374,1570796,974,277,262.375,966.7578125,282.875,999.7734375,5,14,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,81, say ,13424,1570846,983,277,262.375,966.7578125,282.875,999.7734375,5,14,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,81, say ,13474,1570897,991,277,262.375,966.7578125,282.875,999.7734375,5,14,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,81, say ,13524,1570946,994,277,262.375,966.7578125,282.875,999.7734375,5,14,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,81, say ,13574,1570996,990,276,262.375,966.7578125,282.875,999.7734375,5,14,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,13624,1571046,958,276,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,76, such ,13674,1571097,726,279,262.375,717.625,282.875,760.6484375,5,9,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,13723,1571146,533,300,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,87, tax ,13779,1571202,455,310,302.375,445.421875,322.875,474.4375,6,4,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,85, fight ,13823,1571246,390,315,302.375,376.375,322.875,415.3984375,6,2,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,85, fight ,13874,1571296,380,315,302.375,376.375,322.875,415.3984375,6,2,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,85, fight ,13924,1571347,379,315,302.375,376.375,322.875,415.3984375,6,2,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,85, fight ,13975,1571397,379,315,302.375,376.375,322.875,415.3984375,6,2,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,85, fight ,14024,1571446,380,314,302.375,376.375,322.875,415.3984375,6,2,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,85, fight ,14074,1571496,410,308,302.375,376.375,322.875,415.3984375,6,2,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,14124,1571546,506,294,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,14173,1571596,578,289,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,14224,1571646,618,287,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,14274,1571696,642,287,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,14323,1571746,663,292,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,14373,1571796,677,300,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,92, say ,14424,1571846,691,307,302.375,666.5859375,322.875,699.6015625,6,9,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,93, how. ,14474,1571896,707,313,302.375,699.6015625,322.875,741.640625,6,10,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,93, how. ,14523,1571946,723,313,302.375,699.6015625,322.875,741.640625,6,10,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,93, how. ,14574,1571997,731,311,302.375,699.6015625,322.875,741.640625,6,10,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,93, how. ,14623,1572046,731,311,302.375,699.6015625,322.875,741.640625,6,10,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,93, how. ,14674,1572096,731,311,302.375,699.6015625,322.875,741.640625,6,10,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,93, how. ,14724,1572146,731,311,302.375,699.6015625,322.875,741.640625,6,10,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,94, “We ,14774,1572196,754,311,302.375,741.640625,322.875,779.3203125,6,11,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,14824,1572247,812,317,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,14874,1572296,958,339,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,14924,1572347,984,339,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,14974,1572397,990,339,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,15024,1572446,999,338,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,15074,1572496,1008,331,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,15124,1572546,1017,323,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,98, economically ,15174,1572596,1029,318,302.375,942.1328125,322.875,1051.1796875,6,15,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,98, economically ,15223,1572646,1043,316,302.375,942.1328125,322.875,1051.1796875,6,15,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,99, in ,15274,1572696,1052,316,302.375,1051.1796875,322.875,1065.1953125,6,16,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,99, in ,15324,1572746,1060,319,302.375,1051.1796875,322.875,1065.1953125,6,16,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,15373,1572796,1063,322,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,15424,1572847,1052,326,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,96, been ,15474,1572897,866,315,302.375,823.359375,322.875,868.40625,6,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,90, none ,15524,1572946,588,305,302.375,587.515625,322.875,632.5625,6,7,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,15574,1572996,448,308,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,15624,1573046,350,336,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,15674,1573096,336,349,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,15724,1573146,335,352,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,15773,1573196,340,356,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,100, recent ,15824,1573246,350,358,342.375,346.375,362.875,401.40625,7,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,100, recent ,15874,1573297,379,358,342.375,346.375,362.875,401.40625,7,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,101, years ,15924,1573346,425,353,342.375,401.40625,362.875,450.4296875,7,2,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,102," and, ",15974,1573396,458,353,342.375,450.4296875,362.875,490.46875,7,3,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,103," now, ",16024,1573446,491,354,342.375,490.46875,362.875,532.5078125,7,4,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,103," now, ",16074,1573496,514,356,342.375,490.46875,362.875,532.5078125,7,4,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,104, we ,16123,1573546,534,359,342.375,532.5078125,362.875,560.5234375,7,5,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,104, we ,16174,1573597,538,360,342.375,532.5078125,362.875,560.5234375,7,5,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,104, we ,16224,1573647,538,360,342.375,532.5078125,362.875,560.5234375,7,5,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,104, we ,16275,1573697,538,360,342.375,532.5078125,362.875,560.5234375,7,5,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,104, we ,16325,1573748,538,360,342.375,532.5078125,362.875,560.5234375,7,5,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,105, will ,16373,1573796,563,356,342.375,560.5234375,362.875,590.5234375,7,6,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,107," more,” ",16424,1573847,654,346,342.375,640.2265625,362.875,697.234375,7,8,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,16473,1573896,692,344,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,16524,1573946,726,343,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,108, said ,16574,1573997,734,344,342.375,697.234375,362.875,735.2578125,7,9,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,108, said ,16625,1574048,734,344,342.375,697.234375,362.875,735.2578125,7,9,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,108, said ,16675,1574098,734,344,342.375,697.234375,362.875,735.2578125,7,9,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,108, said ,16726,1574148,734,344,342.375,697.234375,362.875,735.2578125,7,9,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,109, Lemnos ,16774,1574197,754,344,342.375,735.2578125,362.875,804.296875,7,10,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,110," Mayor, ",16824,1574247,828,355,342.375,804.296875,362.875,863.328125,7,11,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,111, Dimitris ,16874,1574297,884,360,342.375,863.328125,362.875,928.3203125,7,12,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,111, Dimitris ,16924,1574347,907,360,342.375,863.328125,362.875,928.3203125,7,12,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,111, Dimitris ,16974,1574397,924,360,342.375,863.328125,362.875,928.3203125,7,12,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,112, Marinakis. ,17024,1574446,940,359,342.375,928.3203125,362.875,1015.34375,7,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,112, Marinakis. ,17074,1574496,960,359,342.375,928.3203125,362.875,1015.34375,7,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,112, Marinakis. ,17124,1574547,988,359,342.375,928.3203125,362.875,1015.34375,7,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,17174,1574596,1012,364,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,17223,1574646,1020,368,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,17273,1574696,1010,368,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,17324,1574746,833,337,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,17373,1574796,562,332,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,17423,1574846,385,367,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,17474,1574896,342,380,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,17523,1574946,332,383,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,17573,1574996,322,385,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,17623,1575046,309,390,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,17674,1575097,306,391,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,17724,1575147,332,394,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,114, there ,17773,1575196,383,396,382.375,346.375,402.875,392.40625,8,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,116, not ,17824,1575247,422,395,382.375,410.40625,402.875,440.4296875,8,3,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,117, enough ,17874,1575297,448,392,382.375,440.4296875,402.875,505.5,8,4,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,117, enough ,17924,1575346,476,392,382.375,440.4296875,402.875,505.5,8,4,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,118," money, ",17974,1575397,510,394,382.375,505.5,402.875,568.203125,8,5,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,118," money, ",18024,1575447,517,396,382.375,505.5,402.875,568.203125,8,5,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,118," money, ",18076,1575498,517,396,382.375,505.5,402.875,568.203125,8,5,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,118," money, ",18125,1575547,517,396,382.375,505.5,402.875,568.203125,8,5,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,118," money, ",18174,1575597,517,396,382.375,505.5,402.875,568.203125,8,5,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,118," money, ",18223,1575646,524,396,382.375,505.5,402.875,568.203125,8,5,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,120, reduce ,18274,1575697,614,396,382.375,602.2265625,402.875,662.265625,8,7,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,121, your ,18324,1575746,683,396,382.375,662.265625,402.875,702.2890625,8,8,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,121, your ,18373,1575796,701,396,382.375,662.265625,402.875,702.2890625,8,8,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,122, consumption ,18424,1575846,703,396,382.375,702.2890625,402.875,809.3515625,8,9,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,122, consumption ,18474,1575897,703,396,382.375,702.2890625,402.875,809.3515625,8,9,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,122, consumption ,18524,1575947,703,396,382.375,702.2890625,402.875,809.3515625,8,9,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,122, consumption ,18574,1575996,703,396,382.375,702.2890625,402.875,809.3515625,8,9,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,122, consumption ,18625,1576047,703,396,382.375,702.2890625,402.875,809.3515625,8,9,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,122, consumption ,18677,1576100,705,396,382.375,702.2890625,402.875,809.3515625,8,9,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,122, consumption ,18724,1576147,749,393,382.375,702.2890625,402.875,809.3515625,8,9,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,124, therefore ,18774,1576197,887,394,382.375,844.390625,402.875,921.4375,8,11,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,125, the ,18824,1576246,938,394,382.375,921.4375,402.875,951.4609375,8,12,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,126, whole ,18873,1576296,960,394,382.375,951.4609375,402.875,1003.4921875,8,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,126, whole ,18923,1576346,976,395,382.375,951.4609375,402.875,1003.4921875,8,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,126, whole ,18974,1576397,992,394,382.375,951.4609375,402.875,1003.4921875,8,13,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,127, economy ,19024,1576447,1004,394,382.375,1003.4921875,402.875,1076.53125,8,14,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,127, economy ,19074,1576496,1006,395,382.375,1003.4921875,402.875,1076.53125,8,14,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,19124,1576546,987,396,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,121, your ,19174,1576596,674,390,382.375,662.265625,402.875,702.2890625,8,8,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,19223,1576646,510,390,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,19273,1576696,387,406,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,19323,1576746,365,414,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,19373,1576796,362,416,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,19423,1576846,361,418,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,128, declines.” ,19473,1576896,361,424,422.375,346.375,442.875,423.4140625,9,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,128, declines.” ,19524,1576947,375,430,422.375,346.375,442.875,423.4140625,9,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,128, declines.” ,19573,1576996,406,434,422.375,346.375,442.875,423.4140625,9,1,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,19623,1577046,429,434,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,19674,1577097,470,432,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,19723,1577146,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,19774,1577196,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,19824,1577247,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,19874,1577297,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,19924,1577346,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,19975,1577397,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,20023,1577445,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,20073,1577496,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,20123,1577546,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,20174,1577597,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,20224,1577646,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,20273,1577696,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,20324,1577746,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,20373,1577796,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,20424,1577847,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,20474,1577897,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,20524,1577947,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,20573,1577996,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,20624,1578046,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,20674,1578097,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,20724,1578146,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,6,49,50,-1,999,20773,1578196,535,438,,,,,,,There are seven islands larger than it,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
