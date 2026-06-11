@@ -1,0 +1,266 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,4594,1946596,472,313,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,4643,1946646,340,99,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,4694,1946696,329,76,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,4744,1946746,324,75,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,4794,1946796,323,77,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,4842,1946845,323,78,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,4894,1946896,330,84,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,4943,1946946,346,95,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,4993,1946996,358,99,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,1, One ,5044,1947047,369,105,102.375,346.375,122.875,385.3984375,1,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,2, challenge ,5093,1947096,407,110,102.375,385.3984375,122.875,467.46875,1,2,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,4, creating ,5144,1947147,509,104,102.375,485.46875,122.875,554.5078125,1,4,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,5194,1947197,606,97,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,5243,1947246,606,97,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,5293,1947296,606,97,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,5344,1947347,606,97,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,5393,1947396,606,97,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,5444,1947446,606,97,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,5494,1947497,607,97,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,5, high-definition ,5544,1947547,665,115,102.375,554.5078125,122.875,671.59375,1,5,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,5593,1947596,724,136,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,5644,1947647,738,141,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,5694,1947696,738,141,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,5744,1947747,738,141,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,5794,1947797,738,141,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,5844,1947847,738,141,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,5893,1947896,752,138,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,5944,1947947,800,128,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,11, surroundings ,5994,1947997,872,119,102.375,858.7265625,122.875,967.796875,1,11,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,11, surroundings ,6044,1948047,902,119,102.375,858.7265625,122.875,967.796875,1,11,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,6094,1948097,931,125,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,6144,1948147,956,127,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,6193,1948196,974,126,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,6244,1948247,991,126,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,6293,1948296,1014,129,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,6343,1948346,1032,129,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,6393,1948396,1048,129,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,6443,1948446,1070,122,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,14, cars ,6494,1948497,1087,119,102.375,1053.859375,122.875,1087.8671875,1,14,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,6543,1948546,1095,119,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,6593,1948596,1097,123,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,6644,1948647,1008,121,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,9, roads ,6693,1948696,796,117,102.375,773.65625,122.875,823.6875,1,9,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,6744,1948747,618,129,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,18, them ,6793,1948796,511,145,142.375,473.4609375,162.875,518.484375,2,4,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,17, along ,6844,1948847,454,149,142.375,424.4140625,162.875,473.4609375,2,3,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,16, drive ,6893,1948896,410,149,142.375,380.3984375,162.875,424.4140625,2,2,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,15, can ,6944,1948947,380,149,142.375,346.375,162.875,380.3984375,2,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,15, can ,6994,1948997,363,152,142.375,346.375,162.875,380.3984375,2,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,15, can ,7044,1949047,353,154,142.375,346.375,162.875,380.3984375,2,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,7094,1949096,343,156,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,7144,1949147,342,156,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,15, can ,7194,1949197,368,153,142.375,346.375,162.875,380.3984375,2,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,17, along ,7243,1949246,449,148,142.375,424.4140625,162.875,473.4609375,2,3,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,18, them ,7293,1949296,518,150,142.375,473.4609375,162.875,518.484375,2,4,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,19, because ,7343,1949346,565,155,142.375,518.484375,162.875,591.5390625,2,5,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,20, they ,7393,1949396,609,158,142.375,591.5390625,162.875,630.5625,2,6,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,21, cannot ,7443,1949446,662,158,142.375,630.5625,162.875,689.609375,2,7,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,22, gather ,7494,1949497,714,160,142.375,689.609375,162.875,745.6484375,2,8,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,7543,1949546,746,165,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,7594,1949597,750,165,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,7644,1949647,750,165,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,7693,1949696,750,165,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,7744,1949747,750,165,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,7794,1949797,758,164,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,24, process ,7844,1949847,813,154,142.375,780.6875,162.875,848.71875,2,10,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,25, enough ,7894,1949897,864,149,142.375,848.71875,162.875,913.7890625,2,11,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,25, enough ,7943,1949946,900,149,142.375,848.71875,162.875,913.7890625,2,11,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,26, information ,7994,1949997,926,151,142.375,913.7890625,162.875,1007.8359375,2,12,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,26, information ,8044,1950047,940,151,142.375,913.7890625,162.875,1007.8359375,2,12,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,26, information ,8094,1950097,940,151,142.375,913.7890625,162.875,1007.8359375,2,12,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,26, information ,8144,1950147,940,151,142.375,913.7890625,162.875,1007.8359375,2,12,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,26, information ,8194,1950196,940,151,142.375,913.7890625,162.875,1007.8359375,2,12,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,26, information ,8244,1950247,976,152,142.375,913.7890625,162.875,1007.8359375,2,12,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,27, in ,8294,1950297,1020,157,142.375,1007.8359375,162.875,1026.8515625,2,13,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,28, real ,8344,1950347,1040,159,142.375,1026.8515625,162.875,1056.8671875,2,14,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,28, real ,8394,1950397,1044,159,142.375,1026.8515625,162.875,1056.8671875,2,14,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,28, real ,8444,1950447,1044,159,142.375,1026.8515625,162.875,1056.8671875,2,14,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,8493,1950496,957,161,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,8543,1950546,665,170,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,8593,1950596,470,176,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,8644,1950647,407,176,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,8693,1950696,392,176,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,8743,1950746,385,176,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,8793,1950796,378,176,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,8844,1950847,367,183,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,29, time. ,8893,1950896,356,192,182.375,346.375,202.875,390.3828125,3,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,29, time. ,8944,1950947,350,197,182.375,346.375,202.875,390.3828125,3,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,29, time. ,8994,1950997,349,197,182.375,346.375,202.875,390.3828125,3,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,29, time. ,9043,1951046,350,197,182.375,346.375,202.875,390.3828125,3,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,29, time. ,9094,1951097,365,197,182.375,346.375,202.875,390.3828125,3,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,31," far, ",9143,1951146,418,197,182.375,417.40625,202.875,447.4296875,3,3,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,32, there ,9194,1951197,481,197,182.375,447.4296875,202.875,493.4609375,3,4,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,34, high-detail ,9244,1951247,530,196,182.375,524.484375,202.875,612.546875,3,6,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,34, high-detail ,9294,1951297,566,196,182.375,524.484375,202.875,612.546875,3,6,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,34, high-detail ,9343,1951346,592,196,182.375,524.484375,202.875,612.546875,3,6,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,35, maps ,9394,1951397,620,196,182.375,612.546875,202.875,661.5703125,3,7,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,35, maps ,9444,1951446,650,198,182.375,612.546875,202.875,661.5703125,3,7,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,35, maps ,9494,1951497,655,199,182.375,612.546875,202.875,661.5703125,3,7,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,35, maps ,9545,1951548,655,199,182.375,612.546875,202.875,661.5703125,3,7,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,35, maps ,9594,1951597,655,199,182.375,612.546875,202.875,661.5703125,3,7,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,35, maps ,9643,1951646,656,199,182.375,612.546875,202.875,661.5703125,3,7,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,37, about ,9693,1951696,687,198,182.375,681.5859375,202.875,731.6328125,3,9,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,38," 2,000 ",9744,1951747,746,192,182.375,731.6328125,202.875,781.6796875,3,10,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,38," 2,000 ",9794,1951797,778,189,182.375,731.6328125,202.875,781.6796875,3,10,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,39, miles ,9843,1951846,792,189,182.375,781.6796875,202.875,828.6875,3,11,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,39, miles ,9894,1951897,800,189,182.375,781.6796875,202.875,828.6875,3,11,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,39, miles ,9944,1951947,809,194,182.375,781.6796875,202.875,828.6875,3,11,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,39, miles ,9994,1951997,809,194,182.375,781.6796875,202.875,828.6875,3,11,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,39, miles ,10044,1952047,809,194,182.375,781.6796875,202.875,828.6875,3,11,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,39, miles ,10094,1952097,809,194,182.375,781.6796875,202.875,828.6875,3,11,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,39, miles ,10143,1952146,816,194,182.375,781.6796875,202.875,828.6875,3,11,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,41, California’s ,10193,1952196,864,194,182.375,848.703125,202.875,942.421875,3,13,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,10243,1952246,925,200,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,10293,1952296,971,204,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,10344,1952346,984,204,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,10393,1952396,999,202,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,43, but ,10443,1952446,1013,199,182.375,997.453125,202.875,1027.4765625,3,15,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,44, the ,10494,1952497,1029,193,182.375,1027.4765625,202.875,1052.5,3,16,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,44, the ,10544,1952547,1046,191,182.375,1027.4765625,202.875,1052.5,3,16,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,10594,1952597,1062,191,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,10643,1952646,1067,191,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,44, the ,10694,1952697,1036,191,182.375,1027.4765625,202.875,1052.5,3,16,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,10743,1952746,910,191,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,34, high-detail ,10794,1952797,583,191,182.375,524.484375,202.875,612.546875,3,6,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,10843,1952846,489,200,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,10894,1952897,415,204,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,10943,1952946,393,206,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,10993,1952996,380,209,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,11043,1953046,366,216,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,11094,1953097,354,223,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,45, state ,11144,1953147,348,229,222.375,346.375,242.875,390.40625,4,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,11193,1953196,346,232,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,45, state ,11243,1953246,351,233,222.375,346.375,242.875,390.40625,4,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,45, state ,11294,1953297,388,233,222.375,346.375,242.875,390.40625,4,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,47, more ,11344,1953347,440,230,222.375,424.4296875,242.875,470.4453125,4,3,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,48, than ,11394,1953397,489,230,222.375,470.4453125,242.875,510.484375,4,4,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,49," 170,000 ",11444,1953447,520,231,222.375,510.484375,242.875,580.5546875,4,5,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,49," 170,000 ",11494,1953497,546,235,222.375,510.484375,242.875,580.5546875,4,5,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,49," 170,000 ",11543,1953546,579,236,222.375,510.484375,242.875,580.5546875,4,5,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,11593,1953596,624,242,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,11644,1953647,653,246,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,11693,1953696,653,246,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,11744,1953747,653,246,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,11793,1953796,653,246,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,11843,1953846,658,246,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,11894,1953896,684,243,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,53, roads. ,11944,1953947,727,239,222.375,699.609375,242.875,754.640625,4,9,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,54, Google ,11994,1953997,766,234,222.375,754.640625,242.875,817.6875,4,10,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,54, Google ,12043,1954046,799,227,222.375,754.640625,242.875,817.6875,4,10,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,12094,1954097,840,222,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,12144,1954147,883,223,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,58, interested ,12194,1954197,909,228,222.375,891.7109375,242.875,975.765625,4,14,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,58, interested ,12244,1954247,915,228,222.375,891.7109375,242.875,975.765625,4,14,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,58, interested ,12295,1954298,915,228,222.375,891.7109375,242.875,975.765625,4,14,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,58, interested ,12344,1954347,915,228,222.375,891.7109375,242.875,975.765625,4,14,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,58, interested ,12394,1954397,915,228,222.375,891.7109375,242.875,975.765625,4,14,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,58, interested ,12444,1954447,916,228,222.375,891.7109375,242.875,975.765625,4,14,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,58, interested ,12494,1954497,948,228,222.375,891.7109375,242.875,975.765625,4,14,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,12543,1954546,999,224,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,12593,1954596,1039,220,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,12643,1954646,1045,219,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,12693,1954696,1047,219,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,12743,1954746,1027,219,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,12794,1954797,779,220,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,12843,1954846,499,223,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,12894,1954897,444,236,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,12944,1954947,444,236,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,12993,1954996,444,236,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,13043,1955046,444,236,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,13094,1955097,393,258,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,61, the ,13143,1955146,364,268,262.375,346.375,282.875,376.3984375,5,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,13193,1955196,346,272,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,13244,1955247,344,273,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,13293,1955296,344,273,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,61, the ,13344,1955347,356,272,262.375,346.375,282.875,376.3984375,5,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,62, technology ,13393,1955396,413,266,262.375,376.3984375,282.875,468.46875,5,2,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,13443,1955446,461,263,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,13494,1955497,522,261,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,13544,1955547,580,259,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,13593,1955596,629,257,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,13642,1955645,660,255,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,13694,1955697,662,255,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,13744,1955747,662,255,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,13793,1955797,662,255,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,13844,1955847,662,255,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,13893,1955897,678,259,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,66, manufacturers ,13943,1955946,715,266,262.375,632.5703125,282.875,752.625,5,6,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,66, manufacturers ,13993,1955996,742,269,262.375,632.5703125,282.875,752.625,5,6,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,67, once ,14044,1956047,763,272,262.375,752.625,282.875,796.6640625,5,7,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,67, once ,14094,1956097,765,272,262.375,752.625,282.875,796.6640625,5,7,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,67, once ,14144,1956147,765,272,262.375,752.625,282.875,796.6640625,5,7,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,67, once ,14194,1956197,765,272,262.375,752.625,282.875,796.6640625,5,7,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,67, once ,14243,1956246,771,272,262.375,752.625,282.875,796.6640625,5,7,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,69, has ,14293,1956296,832,273,262.375,810.671875,282.875,844.6953125,5,9,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,72, sufficiently. ,14344,1956347,921,280,262.375,918.7421875,282.875,1011.453125,5,12,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,72, sufficiently. ,14394,1956397,961,280,262.375,918.7421875,282.875,1011.453125,5,12,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,72, sufficiently. ,14444,1956447,976,280,262.375,918.7421875,282.875,1011.453125,5,12,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,72, sufficiently. ,14494,1956497,986,278,262.375,918.7421875,282.875,1011.453125,5,12,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,72, sufficiently. ,14543,1956546,997,277,262.375,918.7421875,282.875,1011.453125,5,12,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,73, Members ,14593,1956596,1013,277,262.375,1011.453125,282.875,1086.46875,5,13,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,73, Members ,14644,1956647,1033,276,262.375,1011.453125,282.875,1086.46875,5,13,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,73, Members ,14694,1956697,1048,278,262.375,1011.453125,282.875,1086.46875,5,13,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,73, Members ,14743,1956747,1056,279,262.375,1011.453125,282.875,1086.46875,5,13,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,73, Members ,14793,1956797,1051,279,262.375,1011.453125,282.875,1086.46875,5,13,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,14843,1956846,956,268,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,14894,1956897,554,255,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,14944,1956947,418,281,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,14994,1956997,363,294,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,15043,1957046,346,299,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,15094,1957097,342,301,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,15144,1957147,339,303,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,15193,1957197,341,304,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,74, of ,15244,1957247,365,309,302.375,346.375,322.875,366.390625,6,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,76, team ,15293,1957296,424,316,302.375,396.4140625,322.875,441.4375,6,3,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,77, had ,15344,1957347,461,318,302.375,441.4375,322.875,476.4765625,6,4,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,15393,1957396,495,321,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,15443,1957447,533,322,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,15493,1957496,560,322,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,15544,1957547,565,322,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,15594,1957597,565,322,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,15644,1957647,565,322,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,79, working ,15693,1957696,571,320,302.375,521.5234375,322.875,588.5546875,6,6,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,80, on ,15744,1957747,607,312,302.375,588.5546875,322.875,613.578125,6,7,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,82, project ,15794,1957797,657,307,302.375,643.6015625,322.875,702.6328125,6,9,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,83, even ,15844,1957847,705,307,302.375,702.6328125,322.875,746.671875,6,10,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,83, even ,15894,1957897,736,310,302.375,702.6328125,322.875,746.671875,6,10,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,84, before ,15943,1957947,761,312,302.375,746.671875,322.875,802.7109375,6,11,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,84, before ,15994,1957997,768,313,302.375,746.671875,322.875,802.7109375,6,11,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,84, before ,16044,1958047,768,313,302.375,746.671875,322.875,802.7109375,6,11,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,84, before ,16094,1958097,768,313,302.375,746.671875,322.875,802.7109375,6,11,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,84, before ,16143,1958146,770,313,302.375,746.671875,322.875,802.7109375,6,11,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,85, joining ,16193,1958196,824,313,302.375,802.7109375,322.875,859.7578125,6,12,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,86," Google, ",16244,1958247,898,313,302.375,859.7578125,322.875,927.8046875,6,13,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,87, for ,16294,1958297,928,313,302.375,927.8046875,322.875,953.8125,6,14,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,87, for ,16344,1958347,944,314,302.375,927.8046875,322.875,953.8125,6,14,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,88, more ,16393,1958396,958,316,302.375,953.8125,322.875,999.828125,6,15,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,88, more ,16444,1958447,968,313,302.375,953.8125,322.875,999.828125,6,15,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,88, more ,16493,1958497,981,311,302.375,953.8125,322.875,999.828125,6,15,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,88, more ,16543,1958546,991,306,302.375,953.8125,322.875,999.828125,6,15,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,16593,1958596,995,303,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,88, more ,16644,1958647,987,304,302.375,953.8125,322.875,999.828125,6,15,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,16693,1958696,811,328,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,16743,1958746,536,352,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,16793,1958797,418,365,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,16844,1958847,380,369,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,16893,1958896,367,369,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,16942,1958946,364,368,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,16993,1958997,364,364,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,91, decade. ,17043,1959046,364,359,342.375,346.375,362.875,410.4296875,7,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,91, decade. ,17093,1959096,364,358,342.375,346.375,362.875,410.4296875,7,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,91, decade. ,17144,1959147,364,357,342.375,346.375,362.875,410.4296875,7,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,91, decade. ,17194,1959197,366,356,342.375,346.375,362.875,410.4296875,7,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,91, decade. ,17243,1959247,371,356,342.375,346.375,362.875,410.4296875,7,1,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,17293,1959296,421,387,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,17343,1959346,421,387,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,17393,1959396,421,387,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,17443,1959446,421,387,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,17493,1959496,421,387,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,17543,1959546,421,387,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,17594,1959597,421,387,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,17643,1959646,421,387,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,17694,1959697,421,387,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,17744,1959747,421,387,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,9,4,64,65,-1,999,17794,1959797,421,387,,,,,,,When the technology has become better,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
