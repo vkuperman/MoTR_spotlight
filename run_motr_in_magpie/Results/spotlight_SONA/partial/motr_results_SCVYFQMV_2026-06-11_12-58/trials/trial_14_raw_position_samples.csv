@@ -1,0 +1,200 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,1217,684396,444,292,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,1268,684447,326,154,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,1317,684496,301,105,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,1368,684547,298,90,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,1418,684597,299,93,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,1467,684646,303,93,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,1518,684697,334,99,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,1567,684746,342,105,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,1617,684796,344,108,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,1667,684846,344,108,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,1717,684897,345,109,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,1766,684945,345,109,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,1817,684997,345,109,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,1867,685046,345,109,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,1917,685097,345,109,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,1968,685147,370,105,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,2018,685198,430,97,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,2068,685247,477,92,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,2118,685297,494,92,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,2168,685347,503,92,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,2218,685397,515,93,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,2267,685446,525,97,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,2318,685497,538,106,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,2367,685546,540,108,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,2418,685597,548,112,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,6, other ,2467,685646,551,113,102.375,541.140625,122.875,587.171875,1,7,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,6, other ,2518,685697,551,113,102.375,541.140625,122.875,587.171875,1,7,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,6, other ,2569,685748,551,113,102.375,541.140625,122.875,587.171875,1,7,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,6, other ,2618,685798,551,113,102.375,541.140625,122.875,587.171875,1,7,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,6, other ,2667,685846,554,113,102.375,541.140625,122.875,587.171875,1,7,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,7, countries ,2719,685898,597,113,102.375,587.171875,122.875,665.2109375,1,8,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,7, countries ,2767,685946,639,113,102.375,587.171875,122.875,665.2109375,1,8,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,8, when ,2818,685998,705,113,102.375,665.2109375,122.875,713.25,1,9,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,8, when ,2867,686047,712,115,102.375,665.2109375,122.875,713.25,1,9,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,8, when ,2918,686097,712,115,102.375,665.2109375,122.875,713.25,1,9,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,12, electric ,2966,686145,810,118,102.375,805.296875,122.875,867.3125,1,13,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,3018,686197,840,109,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,3068,686247,864,107,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,3117,686296,880,106,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,3168,686348,915,103,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,3218,686397,931,107,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,3267,686446,940,110,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,3318,686497,953,111,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,3368,686547,966,107,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,3419,686598,985,100,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,3468,686647,1000,99,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,3518,686697,1014,101,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,3567,686746,1020,104,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,3617,686796,1021,108,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,3667,686846,999,108,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,3717,686896,935,107,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,9, it ,3767,686947,714,115,102.375,713.25,122.875,727.2578125,1,10,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,6, other ,3819,686998,542,134,102.375,541.140625,122.875,587.171875,1,7,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,4, different ,3867,687046,496,142,102.375,430.40625,122.875,500.1328125,1,5,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,4, different ,3917,687097,469,147,102.375,430.40625,122.875,500.1328125,1,5,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,4, different ,3967,687147,453,150,102.375,430.40625,122.875,500.1328125,1,5,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,18, were ,4018,687198,431,157,142.375,393.3984375,162.875,437.4140625,2,1,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,4068,687248,411,165,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,4118,687297,396,169,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,4167,687346,391,169,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,4217,687396,390,168,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,4267,687446,415,161,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,19, sold ,4317,687496,463,155,142.375,437.4140625,162.875,475.4375,2,2,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,5, from ,4368,687548,534,150,102.375,500.1328125,122.875,541.140625,1,6,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,6, other ,4417,687596,557,149,102.375,541.140625,122.875,587.171875,1,7,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,7, countries ,4468,687648,589,146,102.375,587.171875,122.875,665.2109375,1,8,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,4517,687696,606,143,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,7, countries ,4567,687747,624,141,102.375,587.171875,122.875,665.2109375,1,8,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,7, countries ,4619,687798,648,142,102.375,587.171875,122.875,665.2109375,1,8,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,7, countries ,4667,687846,658,146,102.375,587.171875,122.875,665.2109375,1,8,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,7, countries ,4717,687896,662,148,102.375,587.171875,122.875,665.2109375,1,8,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,7, countries ,4767,687946,662,148,102.375,587.171875,122.875,665.2109375,1,8,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,7, countries ,4817,687997,662,148,102.375,587.171875,122.875,665.2109375,1,8,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,7, countries ,4867,688046,664,148,102.375,587.171875,122.875,665.2109375,1,8,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,8, when ,4917,688097,701,152,102.375,665.2109375,122.875,713.25,1,9,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,27, where ,4967,688147,731,153,142.375,729.6015625,162.875,783.6328125,2,10,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,10, comes ,5017,688197,773,150,102.375,727.2578125,122.875,785.28125,1,11,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,10, comes ,5068,688247,784,149,102.375,727.2578125,122.875,785.28125,1,11,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,11, to ,5117,688296,791,149,102.375,785.28125,122.875,805.296875,1,12,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,11, to ,5167,688346,804,149,102.375,785.28125,122.875,805.296875,1,12,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,12, electric ,5218,688397,819,149,102.375,805.296875,122.875,867.3125,1,13,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,12, electric ,5268,688447,839,149,102.375,805.296875,122.875,867.3125,1,13,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,12, electric ,5317,688496,855,149,102.375,805.296875,122.875,867.3125,1,13,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,13, bikes. ,5367,688546,876,149,102.375,867.3125,122.875,919.3359375,1,14,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,13, bikes. ,5418,688597,898,148,102.375,867.3125,122.875,919.3359375,1,14,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,13, bikes. ,5467,688646,908,147,102.375,867.3125,122.875,919.3359375,1,14,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,14, Nearly ,5518,688697,928,147,102.375,919.3359375,122.875,976.3515625,1,15,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,14, Nearly ,5568,688747,937,149,102.375,919.3359375,122.875,976.3515625,1,15,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,14, Nearly ,5618,688797,941,152,102.375,919.3359375,122.875,976.3515625,1,15,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,31, used ,5667,688846,934,153,142.375,910.6875,162.875,954.7265625,2,14,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,28, they ,5717,688896,789,159,142.375,783.6328125,162.875,822.65625,2,11,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,5767,688946,575,171,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,33, transportation. ,5818,688997,408,188,182.375,346.375,202.875,466.2890625,3,1,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,33, transportation. ,5867,689046,378,196,182.375,346.375,202.875,466.2890625,3,1,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,5917,689096,367,200,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,5968,689147,361,204,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,6017,689196,359,205,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,6067,689246,357,206,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,33, transportation. ,6118,689297,366,199,182.375,346.375,202.875,466.2890625,3,1,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,33, transportation. ,6167,689346,374,195,182.375,346.375,202.875,466.2890625,3,1,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,33, transportation. ,6218,689397,396,189,182.375,346.375,202.875,466.2890625,3,1,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,33, transportation. ,6268,689447,416,188,182.375,346.375,202.875,466.2890625,3,1,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,33, transportation. ,6318,689498,435,188,182.375,346.375,202.875,466.2890625,3,1,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,33, transportation. ,6369,689548,465,192,182.375,346.375,202.875,466.2890625,3,1,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,34, They ,6417,689597,490,199,182.375,466.2890625,202.875,511.1484375,3,2,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,6469,689648,545,204,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,6517,689696,553,202,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,6567,689746,553,202,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,6617,689796,553,202,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,6667,689846,553,202,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,6717,689896,553,202,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,6766,689946,554,202,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,36, popular ,6817,689997,592,193,182.375,542.171875,202.875,607.2265625,3,4,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,38, much ,6868,690048,631,188,182.375,626.2421875,202.875,675.265625,3,6,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,38, much ,6917,690097,637,188,182.375,626.2421875,202.875,675.265625,3,6,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,38, much ,6967,690147,652,187,182.375,626.2421875,202.875,675.265625,3,6,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,40," Europe, ",7019,690198,701,187,182.375,695.28125,202.875,763.328125,3,8,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,40," Europe, ",7067,690246,736,187,182.375,695.28125,202.875,763.328125,3,8,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,41, too. ,7118,690298,792,186,182.375,763.328125,202.875,798.1953125,3,9,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,42, They’re ,7169,690348,828,187,182.375,798.1953125,202.875,863.0625,3,10,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,42, They’re ,7218,690397,848,190,182.375,798.1953125,202.875,863.0625,3,10,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,42, They’re ,7267,690446,857,191,182.375,798.1953125,202.875,863.0625,3,10,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,42, They’re ,7317,690497,857,191,182.375,798.1953125,202.875,863.0625,3,10,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,42, They’re ,7367,690546,857,191,182.375,798.1953125,202.875,863.0625,3,10,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,42, They’re ,7418,690597,857,191,182.375,798.1953125,202.875,863.0625,3,10,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,42, They’re ,7467,690646,857,191,182.375,798.1953125,202.875,863.0625,3,10,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,43, common ,7518,690697,882,193,182.375,863.0625,202.875,937.0859375,3,11,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,7568,690747,917,201,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,7618,690797,967,207,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,7668,690847,981,207,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,7718,690897,988,207,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,7768,690947,999,204,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,46, Netherlands ,7818,690998,1019,198,182.375,986.125,202.875,1083.1875,3,14,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,46, Netherlands ,7868,691048,1035,197,182.375,986.125,202.875,1083.1875,3,14,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,46, Netherlands ,7917,691097,1042,198,182.375,986.125,202.875,1083.1875,3,14,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,46, Netherlands ,7967,691147,1050,200,182.375,986.125,202.875,1083.1875,3,14,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,46, Netherlands ,8017,691197,1053,200,182.375,986.125,202.875,1083.1875,3,14,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,46, Netherlands ,8067,691246,1049,200,182.375,986.125,202.875,1083.1875,3,14,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,43, common ,8117,691297,934,185,182.375,863.0625,202.875,937.0859375,3,11,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,8167,691346,721,175,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,8217,691396,605,184,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,49, German ,8267,691447,499,224,222.375,484.4609375,242.875,554.484375,4,3,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,48, Switzerland; ,8318,691497,465,240,222.375,381.4140625,242.875,484.4609375,4,2,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,8368,691547,453,245,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,8417,691597,444,248,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,8468,691647,419,250,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,8518,691698,403,243,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,48, Switzerland; ,8567,691747,397,240,222.375,381.4140625,242.875,484.4609375,4,2,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,48, Switzerland; ,8617,691797,390,238,222.375,381.4140625,242.875,484.4609375,4,2,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,48, Switzerland; ,8667,691847,387,237,222.375,381.4140625,242.875,484.4609375,4,2,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,48, Switzerland; ,8717,691897,392,237,222.375,381.4140625,242.875,484.4609375,4,2,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,48, Switzerland; ,8767,691947,420,235,222.375,381.4140625,242.875,484.4609375,4,2,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,49, German ,8819,691998,487,232,222.375,484.4609375,242.875,554.484375,4,3,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,49, German ,8867,692047,517,232,222.375,484.4609375,242.875,554.484375,4,3,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,50, postal ,8917,692096,557,232,222.375,554.484375,242.875,607.5234375,4,4,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,50, postal ,8967,692147,590,229,222.375,554.484375,242.875,607.5234375,4,4,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,51, workers ,9017,692197,625,227,222.375,607.5234375,242.875,675.5390625,4,5,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,51, workers ,9067,692247,654,226,222.375,607.5234375,242.875,675.5390625,4,5,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,52, use ,9117,692297,689,226,222.375,675.5390625,242.875,709.5625,4,6,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,53, them ,9167,692346,725,227,222.375,709.5625,242.875,754.5859375,4,7,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,53, them ,9217,692397,736,228,222.375,709.5625,242.875,754.5859375,4,7,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,53, them ,9268,692447,736,228,222.375,709.5625,242.875,754.5859375,4,7,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,53, them ,9318,692497,736,228,222.375,709.5625,242.875,754.5859375,4,7,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,53, them ,9368,692547,736,228,222.375,709.5625,242.875,754.5859375,4,7,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,53, them ,9418,692598,752,227,222.375,709.5625,242.875,754.5859375,4,7,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,56, around ,9467,692647,815,225,222.375,804.625,242.875,865.6796875,4,10,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,57, and ,9517,692697,880,224,222.375,865.6796875,242.875,900.71875,4,11,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,9567,692747,908,223,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,58, BMW ,9618,692798,931,225,222.375,900.71875,242.875,949.7109375,4,12,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,58, BMW ,9667,692847,942,227,222.375,900.71875,242.875,949.7109375,4,12,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,59, offers ,9717,692897,955,227,222.375,949.7109375,242.875,999.4140625,4,13,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,59, offers ,9767,692947,971,227,222.375,949.7109375,242.875,999.4140625,4,13,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,59, offers ,9817,692997,987,229,222.375,949.7109375,242.875,999.4140625,4,13,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,59, offers ,9868,693048,995,230,222.375,949.7109375,242.875,999.4140625,4,13,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,59, offers ,9917,693097,995,231,222.375,949.7109375,242.875,999.4140625,4,13,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,57, and ,9969,693148,899,235,222.375,865.6796875,242.875,900.71875,4,11,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,10017,693196,726,244,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,10067,693246,596,256,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,10117,693296,522,267,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,10167,693346,478,273,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,63," $3,000. ",10217,693397,456,276,262.375,396.421875,282.875,456.484375,5,2,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,63," $3,000. ",10268,693448,427,279,262.375,396.421875,282.875,456.484375,5,2,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,63," $3,000. ",10317,693497,414,279,262.375,396.421875,282.875,456.484375,5,2,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,62, about ,10367,693546,395,279,262.375,346.375,282.875,396.421875,5,1,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,62, about ,10417,693597,383,279,262.375,346.375,282.875,396.421875,5,1,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,62, about ,10467,693647,382,279,262.375,346.375,282.875,396.421875,5,1,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,62, about ,10516,693696,382,279,262.375,346.375,282.875,396.421875,5,1,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,62, about ,10567,693747,386,279,262.375,346.375,282.875,396.421875,5,1,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,10617,693796,407,285,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,10667,693847,436,296,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,10717,693897,436,296,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,10768,693947,436,296,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,10817,693997,436,296,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,10867,694047,436,296,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,10917,694096,436,296,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,10967,694147,436,296,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,11017,694197,436,296,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,11066,694246,436,296,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,2,13,14,-1,999,11117,694296,436,296,,,,,,,People who work for the German post office,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
