@@ -1,0 +1,362 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,1101,726446,528,324,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,1151,726496,416,90,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,1201,726546,416,90,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,1251,726596,416,90,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,1302,726647,416,90,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,1351,726696,416,90,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,1401,726746,416,90,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,1451,726796,364,90,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,1501,726846,353,103,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,1, To ,1552,726897,351,105,102.375,346.375,122.875,370.390625,1,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,1, To ,1601,726947,351,104,102.375,346.375,122.875,370.390625,1,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,1652,726997,352,104,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,1701,727046,353,104,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,1, To ,1753,727098,360,107,102.375,346.375,122.875,370.390625,1,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,1, To ,1802,727147,367,110,102.375,346.375,122.875,370.390625,1,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,2," succeed, ",1852,727197,392,112,102.375,370.390625,122.875,447.4375,1,2,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,3, the ,1901,727246,456,111,102.375,447.4375,122.875,477.4609375,1,3,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,4, electric ,1951,727297,513,104,102.375,477.4609375,122.875,539.4765625,1,4,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,2001,727347,528,103,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,2050,727396,530,103,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,4, electric ,2101,727447,531,104,102.375,477.4609375,122.875,539.4765625,1,4,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,5, bike ,2151,727497,551,111,102.375,539.4765625,122.875,577.5,1,5,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,6, business ,2202,727547,604,117,102.375,577.5,122.875,653.546875,1,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,6, business ,2252,727597,631,113,102.375,577.5,122.875,653.546875,1,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,6, business ,2303,727648,649,109,102.375,577.5,122.875,653.546875,1,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,7, in ,2352,727697,657,109,102.375,653.546875,122.875,672.5625,1,7,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,7, in ,2402,727747,670,112,102.375,653.546875,122.875,672.5625,1,7,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,8, the ,2451,727797,676,114,102.375,672.5625,122.875,702.5859375,1,8,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,8, the ,2501,727847,676,114,102.375,672.5625,122.875,702.5859375,1,8,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,8, the ,2552,727898,676,114,102.375,672.5625,122.875,702.5859375,1,8,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,8, the ,2602,727948,676,114,102.375,672.5625,122.875,702.5859375,1,8,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,8, the ,2651,727997,698,114,102.375,672.5625,122.875,702.5859375,1,8,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,10, must ,2701,728047,773,114,102.375,732.59375,122.875,776.6015625,1,10,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,11, overcome ,2752,728097,822,114,102.375,776.6015625,122.875,860.640625,1,11,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,11, overcome ,2801,728147,842,114,102.375,776.6015625,122.875,860.640625,1,11,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,12," legal, ",2853,728198,861,114,102.375,860.640625,122.875,908.6796875,1,12,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,12," legal, ",2902,728247,874,114,102.375,860.640625,122.875,908.6796875,1,12,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,12," legal, ",2952,728297,896,114,102.375,860.640625,122.875,908.6796875,1,12,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,13, cultural ,3002,728347,912,114,102.375,908.6796875,122.875,971.7109375,1,13,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,13, cultural ,3051,728396,927,114,102.375,908.6796875,122.875,971.7109375,1,13,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,13, cultural ,3101,728447,939,114,102.375,908.6796875,122.875,971.7109375,1,13,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,13, cultural ,3152,728497,957,113,102.375,908.6796875,122.875,971.7109375,1,13,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,14, and ,3201,728547,982,114,102.375,971.7109375,122.875,1006.75,1,14,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,15, financial ,3251,728597,1010,116,102.375,1006.75,122.875,1072.796875,1,15,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,15, financial ,3301,728647,1039,114,102.375,1006.75,122.875,1072.796875,1,15,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,15, financial ,3352,728697,1056,114,102.375,1006.75,122.875,1072.796875,1,15,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,15, financial ,3402,728747,1066,113,102.375,1006.75,122.875,1072.796875,1,15,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,15, financial ,3452,728797,1071,112,102.375,1006.75,122.875,1072.796875,1,15,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,15, financial ,3500,728846,1070,112,102.375,1006.75,122.875,1072.796875,1,15,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,15, financial ,3551,728897,1040,112,102.375,1006.75,122.875,1072.796875,1,15,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,3601,728946,915,112,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,22," states, ",3651,728997,671,150,142.375,661.578125,162.875,719.609375,2,7,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,3702,729047,575,171,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,3751,729096,541,174,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,3801,729147,522,173,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,3851,729197,495,170,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,3901,729246,434,169,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,3951,729296,384,169,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,4001,729346,358,169,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,4051,729397,350,169,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,4101,729446,348,167,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,4151,729497,348,163,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,16, obstacles. ,4202,729547,348,161,142.375,346.375,162.875,432.421875,2,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,16, obstacles. ,4252,729597,351,157,142.375,346.375,162.875,432.421875,2,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,16, obstacles. ,4302,729647,353,154,142.375,346.375,162.875,432.421875,2,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,16, obstacles. ,4351,729697,355,154,142.375,346.375,162.875,432.421875,2,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,16, obstacles. ,4401,729746,363,156,142.375,346.375,162.875,432.421875,2,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,16, obstacles. ,4453,729798,390,158,142.375,346.375,162.875,432.421875,2,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,16, obstacles. ,4503,729848,419,158,142.375,346.375,162.875,432.421875,2,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,16, obstacles. ,4551,729897,431,157,142.375,346.375,162.875,432.421875,2,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,17, E-bikes ,4601,729946,448,155,142.375,432.421875,162.875,497.4453125,2,2,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,17, E-bikes ,4651,729997,462,154,142.375,432.421875,162.875,497.4453125,2,2,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,17, E-bikes ,4701,730047,482,152,142.375,432.421875,162.875,497.4453125,2,2,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,18, are ,4751,730096,501,152,142.375,497.4453125,162.875,528.46875,2,3,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,18, are ,4802,730147,522,152,142.375,497.4453125,162.875,528.46875,2,3,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,19, banned ,4851,730197,544,152,142.375,528.46875,162.875,593.5390625,2,4,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,19, banned ,4901,730246,562,156,142.375,528.46875,162.875,593.5390625,2,4,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,19, banned ,4952,730297,568,161,142.375,528.46875,162.875,593.5390625,2,4,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,19, banned ,5001,730347,568,161,142.375,528.46875,162.875,593.5390625,2,4,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,19, banned ,5052,730397,568,161,142.375,528.46875,162.875,593.5390625,2,4,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,19, banned ,5102,730447,568,161,142.375,528.46875,162.875,593.5390625,2,4,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,19, banned ,5151,730496,568,161,142.375,528.46875,162.875,593.5390625,2,4,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,19, banned ,5202,730547,573,160,142.375,528.46875,162.875,593.5390625,2,4,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,20, in ,5252,730597,603,154,142.375,593.5390625,162.875,612.5546875,2,5,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,21, some ,5302,730647,625,152,142.375,612.5546875,162.875,661.578125,2,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,21, some ,5352,730697,638,152,142.375,612.5546875,162.875,661.578125,2,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,21, some ,5401,730747,646,154,142.375,612.5546875,162.875,661.578125,2,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,21, some ,5451,730797,654,154,142.375,612.5546875,162.875,661.578125,2,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,22," states, ",5502,730847,670,154,142.375,661.578125,162.875,719.609375,2,7,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,22," states, ",5551,730896,681,153,142.375,661.578125,162.875,719.609375,2,7,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,22," states, ",5601,730947,701,152,142.375,661.578125,162.875,719.609375,2,7,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,23, including ,5652,730997,723,152,142.375,719.609375,162.875,795.6640625,2,8,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,23, including ,5701,731047,743,151,142.375,719.609375,162.875,795.6640625,2,8,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,23, including ,5751,731096,759,151,142.375,719.609375,162.875,795.6640625,2,8,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,23, including ,5802,731147,773,152,142.375,719.609375,162.875,795.6640625,2,8,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,23, including ,5851,731197,784,154,142.375,719.609375,162.875,795.6640625,2,8,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,24, New ,5902,731247,803,156,142.375,795.6640625,162.875,836.515625,2,9,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,24, New ,5952,731297,827,156,142.375,795.6640625,162.875,836.515625,2,9,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,25, York. ,6001,731347,856,156,142.375,836.515625,162.875,881.71875,2,10,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,26, Some ,6052,731397,891,152,142.375,881.71875,162.875,933.7421875,2,11,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,26, Some ,6103,731448,916,149,142.375,881.71875,162.875,933.7421875,2,11,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,26, Some ,6151,731497,928,149,142.375,881.71875,162.875,933.7421875,2,11,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,27, people ,6201,731547,942,149,142.375,933.7421875,162.875,992.796875,2,12,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,27, people ,6251,731597,946,149,142.375,933.7421875,162.875,992.796875,2,12,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,27, people ,6302,731648,946,149,142.375,933.7421875,162.875,992.796875,2,12,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,27, people ,6351,731697,946,149,142.375,933.7421875,162.875,992.796875,2,12,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,27, people ,6402,731747,946,149,142.375,933.7421875,162.875,992.796875,2,12,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,27, people ,6451,731797,964,151,142.375,933.7421875,162.875,992.796875,2,12,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,28, who ,6502,731847,998,157,142.375,992.796875,162.875,1030.8203125,2,13,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,28, who ,6552,731897,1021,159,142.375,992.796875,162.875,1030.8203125,2,13,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,28, who ,6601,731947,1029,159,142.375,992.796875,162.875,1030.8203125,2,13,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,29, own ,6651,731996,1031,160,142.375,1030.8203125,162.875,1063.84375,2,14,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,6701,732046,1020,161,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,6751,732097,997,165,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,6801,732146,956,172,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,6850,732196,853,173,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,6901,732247,663,180,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,6951,732296,531,204,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,7002,732347,445,210,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,7051,732397,406,210,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,7101,732447,388,210,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,7151,732497,380,210,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,7201,732546,375,210,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,7251,732596,368,205,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,30, and ,7302,732647,364,197,182.375,346.375,202.875,381.4140625,3,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,30, and ,7351,732696,361,192,182.375,346.375,202.875,381.4140625,3,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,30, and ,7402,732747,360,191,182.375,346.375,202.875,381.4140625,3,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,30, and ,7451,732797,360,190,182.375,346.375,202.875,381.4140625,3,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,30, and ,7502,732847,368,190,182.375,346.375,202.875,381.4140625,3,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,31, work ,7552,732897,396,193,182.375,381.4140625,202.875,424.421875,3,2,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,32, in ,7602,732947,443,195,182.375,424.421875,202.875,443.4375,3,3,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,33, bike ,7652,732997,478,195,182.375,443.4375,202.875,481.4609375,3,4,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,34, shops ,7703,733048,504,196,182.375,481.4609375,202.875,534.5,3,5,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,34, shops ,7751,733097,513,197,182.375,481.4609375,202.875,534.5,3,5,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,34, shops ,7802,733147,531,197,182.375,481.4609375,202.875,534.5,3,5,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,35, don’t ,7851,733197,557,197,182.375,534.5,202.875,578.5390625,3,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,36, like ,7901,733247,588,197,182.375,578.5390625,202.875,610.5546875,3,7,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,37, putting ,7953,733299,640,194,182.375,610.5546875,202.875,669.6015625,3,8,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,37, putting ,8001,733347,664,192,182.375,610.5546875,202.875,669.6015625,3,8,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,38, motors ,8052,733397,682,191,182.375,669.6015625,202.875,729.6171875,3,9,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,38, motors ,8101,733447,694,191,182.375,669.6015625,202.875,729.6171875,3,9,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,38, motors ,8152,733497,697,193,182.375,669.6015625,202.875,729.6171875,3,9,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,38, motors ,8202,733547,697,193,182.375,669.6015625,202.875,729.6171875,3,9,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,38, motors ,8253,733598,697,193,182.375,669.6015625,202.875,729.6171875,3,9,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,38, motors ,8302,733647,697,193,182.375,669.6015625,202.875,729.6171875,3,9,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,38, motors ,8350,733696,725,193,182.375,669.6015625,202.875,729.6171875,3,9,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,40, bicycles ,8401,733746,789,193,182.375,754.640625,202.875,823.6640625,3,11,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,41, – ,8452,733797,833,195,182.375,823.6640625,202.875,838.6796875,3,12,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,42, one ,8501,733847,848,195,182.375,838.6796875,202.875,873.71875,3,13,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,42, one ,8552,733897,855,195,182.375,838.6796875,202.875,873.71875,3,13,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,42, one ,8602,733947,864,195,182.375,838.6796875,202.875,873.71875,3,13,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,43, of ,8651,733997,877,196,182.375,873.71875,202.875,893.734375,3,14,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,43, of ,8702,734047,888,196,182.375,873.71875,202.875,893.734375,3,14,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,44, the ,8752,734097,897,197,182.375,893.734375,202.875,923.7578125,3,15,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,44, the ,8801,734147,909,197,182.375,893.734375,202.875,923.7578125,3,15,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,45, reasons ,8851,734197,927,195,182.375,923.7578125,202.875,992.796875,3,16,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,45, reasons ,8901,734247,957,186,182.375,923.7578125,202.875,992.796875,3,16,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,46, is ,8954,734300,1004,188,182.375,992.796875,202.875,1010.796875,3,17,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,47, the ,9002,734347,1017,192,182.375,1010.796875,202.875,1040.8203125,3,18,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,47, the ,9051,734397,1027,193,182.375,1010.796875,202.875,1040.8203125,3,18,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,47, the ,9101,734447,1034,193,182.375,1010.796875,202.875,1040.8203125,3,18,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,47, the ,9151,734497,1038,194,182.375,1010.796875,202.875,1040.8203125,3,18,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,48, extra ,9201,734547,1042,196,182.375,1040.8203125,202.875,1080.84375,3,19,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,48, extra ,9251,734597,1047,197,182.375,1040.8203125,202.875,1080.84375,3,19,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,48, extra ,9301,734647,1051,198,182.375,1040.8203125,202.875,1080.84375,3,19,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,47, the ,9352,734697,1028,196,182.375,1010.796875,202.875,1040.8203125,3,18,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,9401,734746,902,186,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,9451,734797,528,203,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,49, weight. ,9501,734847,384,224,222.375,346.375,242.875,408.4140625,4,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,9551,734897,339,235,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,9601,734947,333,237,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,9651,734996,335,238,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,9701,735047,337,240,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,9751,735097,337,240,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,49, weight. ,9801,735147,350,239,222.375,346.375,242.875,408.4140625,4,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,49, weight. ,9852,735197,381,237,222.375,346.375,242.875,408.4140625,4,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,50, Some ,9902,735247,414,236,222.375,408.4140625,242.875,460.4375,4,2,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,50, Some ,9952,735297,426,236,222.375,408.4140625,242.875,460.4375,4,2,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,50, Some ,10002,735347,426,236,222.375,408.4140625,242.875,460.4375,4,2,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,50, Some ,10052,735398,426,236,222.375,408.4140625,242.875,460.4375,4,2,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,50, Some ,10102,735448,426,236,222.375,408.4140625,242.875,460.4375,4,2,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,50, Some ,10151,735496,426,236,222.375,408.4140625,242.875,460.4375,4,2,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,51, e-bikes ,10201,735547,469,236,222.375,460.4375,242.875,523.46875,4,3,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,52, weigh ,10251,735597,532,236,222.375,523.46875,242.875,575.5,4,4,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,52, weigh ,10301,735647,556,236,222.375,523.46875,242.875,575.5,4,4,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,52, weigh ,10352,735697,560,236,222.375,523.46875,242.875,575.5,4,4,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,52, weigh ,10402,735747,567,236,222.375,523.46875,242.875,575.5,4,4,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,53, nearly ,10451,735796,596,239,222.375,575.5,242.875,629.53125,4,5,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,10501,735846,622,241,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,10551,735897,628,241,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,10602,735947,628,241,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,10651,735997,628,241,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,10701,736046,628,241,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,10751,736097,629,241,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,54, 30kg. ,10802,736147,660,237,222.375,629.53125,242.875,678.5703125,4,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,55, E-bikes ,10851,736197,701,232,222.375,678.5703125,242.875,743.59375,4,7,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,55, E-bikes ,10902,736247,718,230,222.375,678.5703125,242.875,743.59375,4,7,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,55, E-bikes ,10952,736297,728,230,222.375,678.5703125,242.875,743.59375,4,7,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,56, are ,11000,736346,744,230,222.375,743.59375,242.875,774.6171875,4,8,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,56, are ,11051,736397,765,229,222.375,743.59375,242.875,774.6171875,4,8,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,57, also ,11102,736447,798,228,222.375,774.6171875,242.875,812.640625,4,9,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,11151,736497,831,223,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,11201,736547,862,217,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,11251,736597,893,214,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,11301,736647,905,214,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,11351,736697,905,214,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,11401,736747,905,214,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,11451,736797,905,214,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,11500,736846,906,216,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,11551,736897,920,222,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,59, While ,11602,736947,951,227,222.375,903.6953125,242.875,953.7109375,4,11,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,60, cheaper ,11652,736997,973,229,222.375,953.7109375,242.875,1023.765625,4,12,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,60, cheaper ,11703,737049,992,229,222.375,953.7109375,242.875,1023.765625,4,12,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,60, cheaper ,11752,737097,1001,229,222.375,953.7109375,242.875,1023.765625,4,12,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,60, cheaper ,11802,737147,1016,229,222.375,953.7109375,242.875,1023.765625,4,12,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,61, models ,11851,737197,1036,232,222.375,1023.765625,242.875,1081.796875,4,13,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,61, models ,11903,737249,1051,235,222.375,1023.765625,242.875,1081.796875,4,13,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,61, models ,11951,737297,1053,235,222.375,1023.765625,242.875,1081.796875,4,13,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,61, models ,12000,737346,1049,235,222.375,1023.765625,242.875,1081.796875,4,13,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,59, While ,12051,737397,920,233,222.375,903.6953125,242.875,953.7109375,4,11,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,12102,737447,639,212,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,12151,737497,486,224,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,12201,737547,418,250,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,12251,737596,415,253,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,12301,737646,416,256,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,12350,737696,418,259,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,64, as ,12401,737746,405,264,262.375,404.3984375,282.875,428.4140625,5,3,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,62, sell ,12451,737797,378,270,262.375,346.375,282.875,378.390625,5,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,62, sell ,12501,737847,357,273,262.375,346.375,282.875,378.390625,5,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,62, sell ,12552,737897,351,273,262.375,346.375,282.875,378.390625,5,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,62, sell ,12602,737947,351,273,262.375,346.375,282.875,378.390625,5,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,62, sell ,12651,737996,354,273,262.375,346.375,282.875,378.390625,5,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,62, sell ,12701,738047,366,273,262.375,346.375,282.875,378.390625,5,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,63, for ,12751,738097,400,273,262.375,378.390625,282.875,404.3984375,5,2,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,65, little ,12801,738147,439,273,262.375,428.4140625,282.875,465.4296875,5,4,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,66, as ,12851,738197,466,272,262.375,465.4296875,282.875,489.4453125,5,5,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,66, as ,12901,738247,482,271,262.375,465.4296875,282.875,489.4453125,5,5,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,67," $700, ",12951,738296,500,270,262.375,489.4453125,282.875,539.4921875,5,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,67," $700, ",13002,738347,532,270,262.375,489.4453125,282.875,539.4921875,5,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,68, Court ,13050,738396,582,274,262.375,539.4921875,282.875,588.515625,5,7,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,70, the ,13101,738447,634,277,262.375,630.53125,282.875,660.5546875,5,9,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,71, founder ,13151,738497,669,281,262.375,660.5546875,282.875,726.609375,5,10,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,13201,738547,669,281,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,13251,738596,669,281,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,13301,738647,669,281,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,13352,738697,669,281,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,13401,738747,669,281,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,13453,738799,694,281,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,72, and ,13501,738847,730,279,262.375,726.609375,282.875,761.6484375,5,11,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,72, and ,13551,738897,757,278,262.375,726.609375,282.875,761.6484375,5,11,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,73, editor ,13602,738947,775,279,262.375,761.6484375,282.875,811.6796875,5,12,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,13651,738997,794,281,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,13701,739046,822,281,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,13751,739097,848,284,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,13801,739147,861,290,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,13851,739197,861,290,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,13901,739246,861,290,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,13951,739296,861,290,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,14001,739346,869,288,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,14051,739397,906,285,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,75," ElectricBikeReview.com, ",14102,739447,940,281,262.375,831.6953125,282.875,1032.765625,5,14,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,75," ElectricBikeReview.com, ",14151,739497,958,279,262.375,831.6953125,282.875,1032.765625,5,14,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,75," ElectricBikeReview.com, ",14201,739547,971,278,262.375,831.6953125,282.875,1032.765625,5,14,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,75," ElectricBikeReview.com, ",14252,739597,987,278,262.375,831.6953125,282.875,1032.765625,5,14,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,75," ElectricBikeReview.com, ",14301,739646,1004,274,262.375,831.6953125,282.875,1032.765625,5,14,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,75," ElectricBikeReview.com, ",14351,739697,1015,271,262.375,831.6953125,282.875,1032.765625,5,14,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,75," ElectricBikeReview.com, ",14401,739747,1027,270,262.375,831.6953125,282.875,1032.765625,5,14,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,76, a ,14452,739797,1033,270,262.375,1032.765625,282.875,1042.78125,5,15,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,76, a ,14501,739847,1036,271,262.375,1032.765625,282.875,1042.78125,5,15,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,76, a ,14552,739897,1037,274,262.375,1032.765625,282.875,1042.78125,5,15,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,14601,739946,984,289,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,14651,739997,774,291,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,14701,740046,548,292,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,14751,740097,456,301,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,78," website, ",14802,740147,422,312,302.375,411.4296875,322.875,482.46875,6,2,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,77, popular ,14851,740196,407,317,302.375,346.375,322.875,411.4296875,6,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,77, popular ,14901,740247,400,318,302.375,346.375,322.875,411.4296875,6,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,14951,740296,392,320,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,15001,740347,373,322,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,77, popular ,15051,740397,366,320,302.375,346.375,322.875,411.4296875,6,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,77, popular ,15101,740447,365,317,302.375,346.375,322.875,411.4296875,6,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,77, popular ,15151,740497,366,315,302.375,346.375,322.875,411.4296875,6,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,77, popular ,15202,740547,375,314,302.375,346.375,322.875,411.4296875,6,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,77, popular ,15251,740597,386,314,302.375,346.375,322.875,411.4296875,6,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,77, popular ,15301,740647,398,314,302.375,346.375,322.875,411.4296875,6,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,78," website, ",15352,740697,419,316,302.375,411.4296875,322.875,482.46875,6,2,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,79, says ,15401,740747,494,317,302.375,482.46875,322.875,524.484375,6,3,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,80, riders ,15451,740797,559,317,302.375,524.484375,322.875,574.5,6,4,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,81, should ,15501,740847,601,317,302.375,574.5,322.875,632.546875,6,5,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,81, should ,15551,740897,619,316,302.375,574.5,322.875,632.546875,6,5,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,82, expect ,15602,740947,637,315,302.375,632.546875,322.875,690.5859375,6,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,82, expect ,15652,740997,659,314,302.375,632.546875,322.875,690.5859375,6,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,82, expect ,15701,741047,676,313,302.375,632.546875,322.875,690.5859375,6,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,82, expect ,15751,741097,677,313,302.375,632.546875,322.875,690.5859375,6,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,82, expect ,15802,741147,677,313,302.375,632.546875,322.875,690.5859375,6,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,82, expect ,15852,741198,677,313,302.375,632.546875,322.875,690.5859375,6,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,82, expect ,15902,741248,677,313,302.375,632.546875,322.875,690.5859375,6,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,82, expect ,15951,741296,677,313,302.375,632.546875,322.875,690.5859375,6,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,83, to ,16002,741347,702,313,302.375,690.5859375,322.875,710.6015625,6,7,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,85, at ,16051,741397,762,313,302.375,744.625,322.875,764.640625,6,9,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,86, least ,16101,741447,806,313,302.375,764.640625,322.875,807.6640625,6,10,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,87," $1,500 ",16151,741497,826,313,302.375,807.6640625,322.875,867.7265625,6,11,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,87," $1,500 ",16201,741547,845,313,302.375,807.6640625,322.875,867.7265625,6,11,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,87," $1,500 ",16251,741597,866,313,302.375,807.6640625,322.875,867.7265625,6,11,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,88, for ,16301,741647,890,316,302.375,867.7265625,322.875,893.734375,6,12,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,89, a ,16351,741697,902,316,302.375,893.734375,322.875,908.75,6,13,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,90, quality ,16401,741747,916,315,302.375,908.75,322.875,965.7890625,6,14,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,90, quality ,16451,741797,931,314,302.375,908.75,322.875,965.7890625,6,14,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,90, quality ,16501,741847,955,313,302.375,908.75,322.875,965.7890625,6,14,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,91, e-bike ,16551,741897,994,314,302.375,965.7890625,322.875,1019.8203125,6,15,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,91, e-bike ,16601,741946,1015,317,302.375,965.7890625,322.875,1019.8203125,6,15,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,92, with ,16651,741997,1029,319,302.375,1019.8203125,322.875,1056.8359375,6,16,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,92, with ,16701,742047,1032,319,302.375,1019.8203125,322.875,1056.8359375,6,16,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,92, with ,16751,742097,1025,319,302.375,1019.8203125,322.875,1056.8359375,6,16,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,16801,742147,977,314,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,16851,742197,738,299,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,16901,742246,594,306,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,16951,742297,481,326,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,17001,742346,447,334,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,17051,742396,419,339,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,94, good ,17101,742447,390,345,342.375,346.375,362.875,391.421875,7,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,94, good ,17151,742496,366,354,342.375,346.375,362.875,391.421875,7,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,94, good ,17201,742547,351,358,342.375,346.375,362.875,391.421875,7,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,94, good ,17252,742597,348,357,342.375,346.375,362.875,391.421875,7,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,94, good ,17301,742646,348,355,342.375,346.375,362.875,391.421875,7,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,94, good ,17352,742697,357,353,342.375,346.375,362.875,391.421875,7,1,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,95, battery. ,17401,742747,393,353,342.375,391.421875,362.875,454.96875,7,2,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,95, battery. ,17451,742797,429,353,342.375,391.421875,362.875,454.96875,7,2,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,96, The ,17501,742847,488,357,342.375,454.96875,362.875,490.828125,7,3,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,98, models ,17551,742897,537,357,342.375,529.8515625,362.875,592.8828125,7,5,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,98, models ,17601,742947,570,355,342.375,529.8515625,362.875,592.8828125,7,5,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,98, models ,17651,742997,589,354,342.375,529.8515625,362.875,592.8828125,7,5,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,99, cost ,17701,743046,602,354,342.375,592.8828125,362.875,630.8984375,7,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,99, cost ,17751,743097,615,358,342.375,592.8828125,362.875,630.8984375,7,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,99, cost ,17801,743147,628,361,342.375,592.8828125,362.875,630.8984375,7,6,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,17851,743197,648,364,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,17901,743247,652,365,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,17951,743297,652,365,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,18001,743347,652,365,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,18050,743396,654,365,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,18101,743447,683,365,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,18150,743496,728,367,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,18201,743547,744,367,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,18251,743596,751,367,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,18301,743647,757,365,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,102, twice ,18351,743697,762,360,342.375,716.953125,362.875,762.96875,7,9,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,103, that. ,18401,743747,772,347,342.375,762.96875,362.875,798,7,10,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,18451,743796,782,338,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,18501,743846,789,338,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,18551,743897,794,343,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,103, that. ,18601,743947,796,360,342.375,762.96875,362.875,798,7,10,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,18650,743996,789,386,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,18701,744047,789,386,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,18751,744097,789,386,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,18801,744146,789,386,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,18851,744197,789,386,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,18901,744246,789,386,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,18951,744296,789,386,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,19001,744347,789,386,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,19051,744397,789,386,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,4,15,16,-1,999,19101,744447,789,386,,,,,,,Because they prefer the bikes to be lighter,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
