@@ -23,6 +23,66 @@ function generateUniqueAlphanumericId() {
   return s;
 }
 
+const PARTICIPANT_ID_FIELDS = ['SONAId', 'SubjectId', 'SubjectID', 'SonaId'];
+
+function pickNonEmptyString(...values) {
+  for (const value of values) {
+    if (value != null && String(value).trim() !== '') return String(value).trim();
+  }
+  return '';
+}
+
+/** Resolve SONA / subject identifier for exports (partial trials may lack welcome rows). */
+function resolveSonaId(vm, expData, allRows) {
+  const exp = expData && typeof expData === 'object' ? expData : {};
+  const fromExp = pickNonEmptyString(
+    exp.SONAId,
+    exp.SonaId,
+    exp.SubjectID,
+    exp.SubjectId,
+    exp.ProlificID,
+    exp.ProlificId
+  );
+  if (fromExp) return fromExp;
+
+  const fromMeasurements = vm && vm.$magpie && vm.$magpie.measurements
+    ? pickNonEmptyString(vm.$magpie.measurements.SubjectID, vm.$magpie.measurements.SubjectId)
+    : '';
+  if (fromMeasurements) return fromMeasurements;
+
+  if (Array.isArray(allRows)) {
+    for (const row of allRows) {
+      if (!row) continue;
+      const fromRow = pickNonEmptyString(row.SONAId, row.SonaId, row.SubjectID, row.SubjectId);
+      if (fromRow) return fromRow;
+    }
+  }
+
+  const session = vm && vm.$root && vm.$root._motrResultsSession;
+  if (session && session.sonaId) return String(session.sonaId).trim();
+
+  return '';
+}
+
+function enrichExpDataWithSonaId(vm, expData, allRows) {
+  const sonaId = resolveSonaId(vm, expData, allRows);
+  if (!sonaId) return { ...(expData || {}) };
+  const base = { ...(expData || {}) };
+  if (!base.SONAId) base.SONAId = sonaId;
+  if (!base.SonaId) base.SonaId = sonaId;
+  if (!base.SubjectID) base.SubjectID = sonaId;
+  if (!base.SubjectId) base.SubjectId = sonaId;
+  return base;
+}
+
+function stampParticipantIdFields(out, sonaId) {
+  if (!out || !sonaId) return out;
+  for (const key of PARTICIPANT_ID_FIELDS) {
+    if (out[key] == null || out[key] === '') out[key] = sonaId;
+  }
+  return out;
+}
+
 // ItemId: identifier of the text/trial item (e.g. sentence or passage) being read; one item per screen before the comprehension question.
 function isRawSampleRow(row) {
   return row != null && row.recordType === 'raw_position_sample';
@@ -800,10 +860,16 @@ function getResultsFolderName(participantId) {
   return `motr_results_${id}_${datePart}`;
 }
 
-function buildRawTrialDataCsv(allRows) {
+function buildRawTrialDataCsv(allRows, expData) {
   if (!Array.isArray(allRows) || allRows.length === 0) return '';
   const excludeKeys = new Set(['allWords']);
   const oneStopByItem = getOneStopMetadataByItem(allRows);
+  const sonaId = pickNonEmptyString(
+    expData && expData.SONAId,
+    expData && expData.SonaId,
+    expData && expData.SubjectID,
+    expData && expData.SubjectId
+  );
   const columns = [];
   for (const row of allRows) {
     if (!row || typeof row !== 'object') continue;
@@ -813,7 +879,12 @@ function buildRawTrialDataCsv(allRows) {
     }
   }
   if (columns.length === 0) return '';
-  const orderedColumns = orderRawTrialColumns(columns);
+  let orderedColumns = orderRawTrialColumns(columns);
+  if (sonaId) {
+    for (const key of PARTICIPANT_ID_FIELDS) {
+      if (!orderedColumns.includes(key)) orderedColumns.push(key);
+    }
+  }
   const filteredRows = allRows.map((row) => {
     if (!row || typeof row !== 'object') return row;
     const out = {};
@@ -823,6 +894,7 @@ function buildRawTrialDataCsv(allRows) {
     if (Object.prototype.hasOwnProperty.call(out, 'Word')) {
       out.Word = outOfBoundsWordForIndex(out.Index, out.Word);
     }
+    stampParticipantIdFields(out, sonaId);
     applyOneStopExportFields(out, row, oneStopByItem);
     return out;
   });
@@ -831,6 +903,7 @@ function buildRawTrialDataCsv(allRows) {
 
 export {
   generateUniqueAlphanumericId,
+  enrichExpDataWithSonaId,
   buildFixationReport,
   buildInterestAreaReport,
   buildRawPositionReport,
@@ -839,4 +912,5 @@ export {
   localDateString,
   localTimeString,
   getExpDataFields,
+  resolveSonaId,
 };

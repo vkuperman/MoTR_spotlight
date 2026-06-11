@@ -1,4 +1,4 @@
-import { generateUniqueAlphanumericId } from './resultsReports';
+import { generateUniqueAlphanumericId, resolveSonaId } from './resultsReports';
 
 function padDatePart(n) {
   return String(n).padStart(2, '0');
@@ -38,12 +38,15 @@ export function initResultsSession(vm, studyConfig) {
   if (vm.$root._motrResultsSession) return vm.$root._motrResultsSession;
 
   const participantId = resolveParticipantId(vm);
+  const expData = (vm.$magpie.getExpData && vm.$magpie.getExpData()) || {};
+  const sonaId = resolveSonaId(vm, expData, null);
   const startTime = new Date();
   const sessionId = `${participantId}_${startTime.getTime()}_${generateUniqueAlphanumericId()}`;
   const folderName = buildSessionFolderName(participantId, startTime);
   const session = {
     sessionId,
     participantId,
+    sonaId,
     folderName,
     startTime: startTime.toISOString(),
     studyKey: studyConfig && studyConfig.studyKey ? studyConfig.studyKey : '',

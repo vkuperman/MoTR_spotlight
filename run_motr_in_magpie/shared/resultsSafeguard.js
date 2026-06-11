@@ -5,9 +5,11 @@ import {
   buildInterestAreaReport,
   buildRawPositionReport,
   buildRawTrialDataCsv,
+  enrichExpDataWithSonaId,
   generateUniqueAlphanumericId,
   localDateString,
   localTimeString,
+  resolveSonaId,
 } from './resultsReports';
 import { getResultsSession } from './resultsSession';
 import {
@@ -122,6 +124,7 @@ function buildCheckpointManifest(session, context) {
   return JSON.stringify({
     sessionId: session.sessionId,
     participantId: context.participantId,
+    SONAId: context.sonaId || '',
     folderName: context.folderName,
     trialsCompleted: session.trialsCompleted.slice().sort((a, b) => a - b),
     updatedAt: new Date().toISOString(),
@@ -132,7 +135,7 @@ export function buildCompleteResultsFiles(allRows, participantId, expData, sessi
   const fixationCsv = buildFixationReport(allRows, participantId, expData, sessionTimes);
   const interestAreaCsv = buildInterestAreaReport(allRows, participantId, expData, sessionTimes);
   const rawPositionCsv = buildRawPositionReport(allRows, participantId, expData, sessionTimes);
-  const rawTrialCsv = buildRawTrialDataCsv(allRows);
+  const rawTrialCsv = buildRawTrialDataCsv(allRows, expData);
   const files = [
     { name: 'fixation_report.csv', content: fixationCsv },
     { name: 'interest_area_report.csv', content: interestAreaCsv },
@@ -207,22 +210,25 @@ export async function uploadReadingTrialCheckpoint(vm, trial, trialIndex, studyC
   }
 
   const trialRows = filterRowsForTrial(context.allRows, trial);
+  const expData = enrichExpDataWithSonaId(vm, context.expData, context.allRows);
+  const sonaId = resolveSonaId(vm, expData, context.allRows);
+  if (sonaId && !session.sonaId) session.sonaId = sonaId;
   const sessionTimes = buildCheckpointSessionTimes(vm);
   const trialNum = String(trialIndex + 1).padStart(2, '0');
   const fixationCsv = buildFixationReport(
     trialRows,
     context.participantId,
-    context.expData,
+    expData,
     sessionTimes
   );
   const rawPositionCsv = buildRawPositionReport(
     trialRows,
     context.participantId,
-    context.expData,
+    expData,
     sessionTimes
   );
-  const rawCsv = buildRawTrialDataCsv(trialRows);
-  const manifest = buildCheckpointManifest(session, context);
+  const rawCsv = buildRawTrialDataCsv(trialRows, expData);
+  const manifest = buildCheckpointManifest(session, { ...context, sonaId });
   const checkpointFiles = [
     { name: `trials/trial_${trialNum}_fixation.csv`, content: fixationCsv },
     { name: `trials/trial_${trialNum}_raw.csv`, content: rawCsv },
