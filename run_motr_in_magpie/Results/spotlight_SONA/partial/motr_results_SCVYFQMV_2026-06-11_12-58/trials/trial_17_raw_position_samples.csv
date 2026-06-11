@@ -1,0 +1,444 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,1232,752447,630,403,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,53, like ,1281,752496,470,268,262.375,438.4296875,282.875,470.4453125,5,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,1331,752546,393,204,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,1382,752597,381,187,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,1432,752647,380,172,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,1482,752697,380,164,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,15," technology, ",1532,752747,380,152,142.375,346.375,162.875,442.1171875,2,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,1582,752797,377,147,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,1632,752847,364,130,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,1681,752896,361,124,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,1732,752947,360,122,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,1782,752997,360,121,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,1, The ,1832,753047,360,120,102.375,346.375,122.875,382.3984375,1,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,1, The ,1882,753097,360,120,102.375,346.375,122.875,382.3984375,1,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,1, The ,1932,753147,360,120,102.375,346.375,122.875,382.3984375,1,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,1, The ,1982,753197,360,120,102.375,346.375,122.875,382.3984375,1,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,1, The ,2033,753248,360,120,102.375,346.375,122.875,382.3984375,1,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,1, The ,2083,753298,360,120,102.375,346.375,122.875,382.3984375,1,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,1, The ,2132,753347,360,120,102.375,346.375,122.875,382.3984375,1,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,1, The ,2181,753396,375,120,102.375,346.375,122.875,382.3984375,1,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,2, companies ,2232,753447,406,120,102.375,382.3984375,122.875,474.453125,1,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,2, companies ,2282,753497,439,120,102.375,382.3984375,122.875,474.453125,1,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,2331,753546,462,124,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,2381,753596,473,127,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,2431,753646,480,128,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,2481,753696,493,127,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,2532,753747,507,124,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,4, make ,2582,753797,527,121,102.375,509.484375,122.875,558.5078125,1,4,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,4, make ,2632,753847,558,117,102.375,509.484375,122.875,558.5078125,1,4,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,5, and ,2681,753896,575,117,102.375,558.5078125,122.875,593.546875,1,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,5, and ,2732,753947,584,117,102.375,558.5078125,122.875,593.546875,1,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,5, and ,2782,753997,584,117,102.375,558.5078125,122.875,593.546875,1,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,5, and ,2833,754048,584,117,102.375,558.5078125,122.875,593.546875,1,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,5, and ,2883,754098,584,117,102.375,558.5078125,122.875,593.546875,1,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,5, and ,2932,754147,584,117,102.375,558.5078125,122.875,593.546875,1,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,6, sell ,2981,754196,607,114,102.375,593.546875,122.875,625.5625,1,6,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,7, e-bikes ,3032,754247,665,110,102.375,625.5625,122.875,688.59375,1,7,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,8, say ,3082,754297,707,110,102.375,688.59375,122.875,721.609375,1,8,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,9, they ,3133,754348,734,109,102.375,721.609375,122.875,760.6328125,1,9,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,9, they ,3182,754397,751,109,102.375,721.609375,122.875,760.6328125,1,9,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,10, can ,3231,754446,765,109,102.375,760.6328125,122.875,794.65625,1,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,10, can ,3282,754497,769,109,102.375,760.6328125,122.875,794.65625,1,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,10, can ,3332,754547,769,109,102.375,760.6328125,122.875,794.65625,1,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,10, can ,3382,754597,769,109,102.375,760.6328125,122.875,794.65625,1,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,10, can ,3431,754646,770,109,102.375,760.6328125,122.875,794.65625,1,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,11, overcome ,3482,754697,801,109,102.375,794.65625,122.875,878.6953125,1,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,12, those ,3532,754747,888,109,102.375,878.6953125,122.875,927.734375,1,12,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,13, obstacles. ,3582,754797,928,110,102.375,927.734375,122.875,1013.78125,1,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,13, obstacles. ,3632,754847,948,111,102.375,927.734375,122.875,1013.78125,1,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,13, obstacles. ,3682,754897,959,111,102.375,927.734375,122.875,1013.78125,1,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,13, obstacles. ,3732,754947,970,108,102.375,927.734375,122.875,1013.78125,1,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,13, obstacles. ,3781,754996,978,106,102.375,927.734375,122.875,1013.78125,1,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,13, obstacles. ,3832,755047,990,105,102.375,927.734375,122.875,1013.78125,1,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,13, obstacles. ,3881,755096,995,105,102.375,927.734375,122.875,1013.78125,1,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,13, obstacles. ,3932,755147,967,111,102.375,927.734375,122.875,1013.78125,1,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,3981,755196,870,115,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,4, make ,4031,755246,510,117,102.375,509.484375,122.875,558.5078125,1,4,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,4082,755297,391,131,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,4132,755347,354,136,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,4181,755396,344,138,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,4232,755447,341,139,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,4281,755496,338,143,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,4331,755546,340,152,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,15," technology, ",4381,755596,356,159,142.375,346.375,162.875,442.1171875,2,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,4431,755646,361,161,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,4482,755697,370,161,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,4532,755747,395,161,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,15," technology, ",4582,755797,440,157,142.375,346.375,162.875,442.1171875,2,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,16, particularly ,4632,755847,479,155,142.375,442.1171875,162.875,534.1484375,2,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,16, particularly ,4682,755897,499,154,142.375,442.1171875,162.875,534.1484375,2,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,16, particularly ,4732,755947,521,154,142.375,442.1171875,162.875,534.1484375,2,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,17, the ,4782,755997,549,153,142.375,534.1484375,162.875,564.171875,2,3,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,18," batteries, ",4831,756046,570,149,142.375,564.171875,162.875,643.21875,2,4,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,18," batteries, ",4882,756097,593,147,142.375,564.171875,162.875,643.21875,2,4,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,18," batteries, ",4932,756147,622,147,142.375,564.171875,162.875,643.21875,2,4,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,18," batteries, ",4982,756197,642,149,142.375,564.171875,162.875,643.21875,2,4,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,19, is ,5032,756247,647,149,142.375,643.21875,162.875,661.21875,2,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,19, is ,5082,756297,647,149,142.375,643.21875,162.875,661.21875,2,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,19, is ,5132,756347,647,149,142.375,643.21875,162.875,661.21875,2,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,19, is ,5183,756398,647,149,142.375,643.21875,162.875,661.21875,2,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,20, improving. ,5232,756447,668,149,142.375,661.21875,162.875,749.25,2,6,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,21, “Batteries ,5282,756497,751,150,142.375,749.25,162.875,831.28125,2,7,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,21, “Batteries ,5332,756547,799,155,142.375,749.25,162.875,831.28125,2,7,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,21, “Batteries ,5382,756597,820,156,142.375,749.25,162.875,831.28125,2,7,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,22, are ,5432,756647,834,156,142.375,831.28125,162.875,862.3046875,2,8,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,22, are ,5482,756697,847,155,142.375,831.28125,162.875,862.3046875,2,8,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,22, are ,5532,756747,859,155,142.375,831.28125,162.875,862.3046875,2,8,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,23, getting ,5582,756797,872,155,142.375,862.3046875,162.875,921.3515625,2,9,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,23, getting ,5632,756847,891,155,142.375,862.3046875,162.875,921.3515625,2,9,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,23, getting ,5682,756897,915,155,142.375,862.3046875,162.875,921.3515625,2,9,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,24," smaller, ",5732,756947,951,155,142.375,921.3515625,162.875,988.3828125,2,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,24," smaller, ",5782,756997,974,155,142.375,921.3515625,162.875,988.3828125,2,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,25, they’re ,5832,757047,991,156,142.375,988.3828125,162.875,1042.4140625,2,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,25, they’re ,5882,757097,996,157,142.375,988.3828125,162.875,1042.4140625,2,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,24," smaller, ",5932,757147,988,157,142.375,921.3515625,162.875,988.3828125,2,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,5981,757196,959,151,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,6032,757247,771,163,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,6081,757296,629,193,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,6132,757347,482,215,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,6182,757397,440,223,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,39," DiCostanza, ",6232,757447,423,225,222.375,346.375,242.875,449.421875,4,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,6281,757496,413,225,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,6331,757546,390,213,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,6382,757597,371,205,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,6432,757647,364,201,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,26, getting ,6482,757697,363,200,182.375,346.375,202.875,405.421875,3,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,26, getting ,6531,757746,367,197,182.375,346.375,202.875,405.421875,3,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,26, getting ,6582,757797,389,194,182.375,346.375,202.875,405.421875,3,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,27," lighter, ",6632,757847,409,194,182.375,405.421875,202.875,463.46875,3,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,27," lighter, ",6682,757897,443,194,182.375,405.421875,202.875,463.46875,3,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,28, they’re ,6732,757947,496,193,182.375,463.46875,202.875,522.5,3,3,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,29, getting ,6782,757997,548,189,182.375,522.5,202.875,581.546875,3,4,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,30, more ,6832,758047,597,188,182.375,581.546875,202.875,627.5625,3,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,30, more ,6882,758097,620,188,182.375,581.546875,202.875,627.5625,3,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,31, reliable ,6932,758147,630,188,182.375,627.5625,202.875,690.6015625,3,6,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,31, reliable ,6982,758197,630,188,182.375,627.5625,202.875,690.6015625,3,6,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,31, reliable ,7031,758246,630,188,182.375,627.5625,202.875,690.6015625,3,6,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,31, reliable ,7081,758296,630,188,182.375,627.5625,202.875,690.6015625,3,6,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,31, reliable ,7131,758346,635,188,182.375,627.5625,202.875,690.6015625,3,6,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,7182,758397,658,184,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,7232,758447,766,181,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,7282,758497,803,183,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,35, lasting ,7332,758547,822,185,182.375,795.6875,202.875,852.7265625,3,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,35, lasting ,7381,758596,840,185,182.375,795.6875,202.875,852.7265625,3,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,36," longer,” ",7432,758647,855,185,182.375,852.7265625,202.875,917.78125,3,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,36," longer,” ",7482,758697,870,185,182.375,852.7265625,202.875,917.78125,3,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,36," longer,” ",7532,758747,883,187,182.375,852.7265625,202.875,917.78125,3,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,36," longer,” ",7582,758797,896,192,182.375,852.7265625,202.875,917.78125,3,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,36," longer,” ",7632,758847,911,193,182.375,852.7265625,202.875,917.78125,3,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,37, says ,7682,758897,936,194,182.375,917.78125,202.875,959.796875,3,12,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,38, Don ,7732,758947,960,197,182.375,959.796875,202.875,992.8203125,3,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,38, Don ,7782,758997,977,198,182.375,959.796875,202.875,992.8203125,3,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,38, Don ,7831,759047,984,197,182.375,959.796875,202.875,992.8203125,3,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,38, Don ,7882,759097,981,197,182.375,959.796875,202.875,992.8203125,3,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,36," longer,” ",7931,759147,885,197,182.375,852.7265625,202.875,917.78125,3,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,7981,759196,698,206,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,41, founder ,8032,759247,544,227,222.375,479.4453125,242.875,545.5,4,3,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,40, the ,8082,759297,478,239,222.375,449.421875,242.875,479.4453125,4,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,8132,759347,435,242,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,8181,759396,410,243,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,39," DiCostanza, ",8232,759447,378,239,222.375,346.375,242.875,449.421875,4,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,39," DiCostanza, ",8282,759497,358,235,222.375,346.375,242.875,449.421875,4,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,39," DiCostanza, ",8332,759547,351,231,222.375,346.375,242.875,449.421875,4,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,39," DiCostanza, ",8382,759597,351,230,222.375,346.375,242.875,449.421875,4,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,39," DiCostanza, ",8431,759647,351,230,222.375,346.375,242.875,449.421875,4,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,39," DiCostanza, ",8482,759697,374,230,222.375,346.375,242.875,449.421875,4,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,39," DiCostanza, ",8531,759747,410,232,222.375,346.375,242.875,449.421875,4,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,40, the ,8582,759797,463,232,222.375,449.421875,242.875,479.4453125,4,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,41, founder ,8632,759847,518,231,222.375,479.4453125,242.875,545.5,4,3,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,42, and ,8682,759897,567,226,222.375,545.5,242.875,580.5390625,4,4,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,8730,759946,594,224,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,8782,759997,630,218,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,8832,760047,637,216,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,8881,760096,637,216,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,8932,760147,637,216,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,8981,760196,637,216,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,9031,760246,638,216,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,9081,760296,676,217,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,9132,760347,727,221,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,9182,760397,756,223,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,47, electric ,9231,760446,779,228,222.375,741.6484375,242.875,803.6640625,4,9,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,47, electric ,9282,760497,802,229,222.375,741.6484375,242.875,803.6640625,4,9,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,48, bikemaker ,9332,760547,822,229,222.375,803.6640625,242.875,891.6953125,4,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,48, bikemaker ,9381,760597,847,229,222.375,803.6640625,242.875,891.6953125,4,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,48, bikemaker ,9432,760647,867,229,222.375,803.6640625,242.875,891.6953125,4,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,48, bikemaker ,9482,760697,890,229,222.375,803.6640625,242.875,891.6953125,4,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,49, and ,9532,760748,916,229,222.375,891.6953125,242.875,926.734375,4,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,50, retailer. ,9582,760797,942,229,222.375,926.734375,242.875,990.7734375,4,12,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,50, retailer. ,9632,760847,965,231,222.375,926.734375,242.875,990.7734375,4,12,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,50, retailer. ,9682,760897,981,234,222.375,926.734375,242.875,990.7734375,4,12,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,51, Big ,9732,760947,991,236,222.375,990.7734375,242.875,1016.7890625,4,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,51, Big ,9782,760997,994,236,222.375,990.7734375,242.875,1016.7890625,4,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,50, retailer. ,9831,761047,977,236,222.375,926.734375,242.875,990.7734375,4,12,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,48, bikemaker ,9882,761097,826,236,222.375,803.6640625,242.875,891.6953125,4,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,9931,761146,684,232,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,9982,761197,508,245,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,10032,761247,467,258,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,10081,761297,449,261,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,52, companies ,10131,761346,430,264,262.375,346.375,282.875,438.4296875,5,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,52, companies ,10182,761397,404,268,262.375,346.375,282.875,438.4296875,5,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,52, companies ,10232,761447,372,271,262.375,346.375,282.875,438.4296875,5,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,52, companies ,10282,761497,354,272,262.375,346.375,282.875,438.4296875,5,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,52, companies ,10331,761546,352,272,262.375,346.375,282.875,438.4296875,5,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,52, companies ,10381,761597,355,272,262.375,346.375,282.875,438.4296875,5,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,52, companies ,10431,761646,371,271,262.375,346.375,282.875,438.4296875,5,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,52, companies ,10481,761697,418,269,262.375,346.375,282.875,438.4296875,5,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,10532,761747,510,263,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,10582,761797,577,254,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,10631,761847,615,252,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,10681,761896,642,254,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,10732,761947,648,255,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,10782,761997,648,255,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,10831,762047,648,255,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,10881,762097,648,255,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,10932,762147,648,255,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,10982,762197,654,255,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,11031,762247,699,255,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,11082,762297,749,258,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,11131,762347,783,262,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,60, business. ,11181,762397,817,273,262.375,767.6640625,282.875,848.5546875,5,9,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,60, business. ,11231,762447,845,280,262.375,767.6640625,282.875,848.5546875,5,9,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,61, This ,11282,762497,858,281,262.375,848.5546875,282.875,887.40625,5,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,61, This ,11331,762547,858,281,262.375,848.5546875,282.875,887.40625,5,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,61, This ,11383,762598,858,281,262.375,848.5546875,282.875,887.40625,5,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,61, This ,11432,762648,858,281,262.375,848.5546875,282.875,887.40625,5,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,11481,762696,859,281,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,62, should ,11532,762747,912,281,262.375,887.40625,282.875,945.453125,5,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,63, help ,11582,762797,971,280,262.375,945.453125,282.875,984.4921875,5,12,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,64, lower ,11632,762847,994,276,262.375,984.4921875,282.875,1032.5078125,5,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,64, lower ,11681,762897,1013,278,262.375,984.4921875,282.875,1032.5078125,5,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,11731,762947,1032,282,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,65, the ,11781,762996,1046,281,262.375,1032.5078125,282.875,1057.53125,5,14,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,65, the ,11832,763047,1051,279,262.375,1032.5078125,282.875,1057.53125,5,14,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,65, the ,11880,763096,1052,279,262.375,1032.5078125,282.875,1057.53125,5,14,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,11932,763147,1048,280,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,11981,763196,859,291,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,12032,763247,628,300,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,68, bike ,12082,763297,489,316,302.375,474.421875,322.875,512.4453125,6,3,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,12131,763346,441,328,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,12182,763397,414,330,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,12231,763447,395,329,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,12281,763496,384,325,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,66, resistance ,12332,763547,373,320,302.375,346.375,322.875,433.4140625,6,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,66, resistance ,12381,763597,367,319,302.375,346.375,322.875,433.4140625,6,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,66, resistance ,12432,763647,363,319,302.375,346.375,322.875,433.4140625,6,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,66, resistance ,12481,763696,362,319,302.375,346.375,322.875,433.4140625,6,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,66, resistance ,12532,763747,364,319,302.375,346.375,322.875,433.4140625,6,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,66, resistance ,12582,763797,377,319,302.375,346.375,322.875,433.4140625,6,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,66, resistance ,12632,763847,418,317,302.375,346.375,322.875,433.4140625,6,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,67, from ,12681,763897,455,315,302.375,433.4140625,322.875,474.421875,6,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,68, bike ,12732,763947,493,312,302.375,474.421875,322.875,512.4453125,6,3,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,69, shops. ,12782,763997,526,312,302.375,512.4453125,322.875,570.484375,6,4,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,69, shops. ,12831,764047,558,311,302.375,512.4453125,322.875,570.484375,6,4,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,70, Perhaps ,12881,764097,584,309,302.375,570.484375,322.875,642.53125,6,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,70, Perhaps ,12931,764147,605,309,302.375,570.484375,322.875,642.53125,6,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,70, Perhaps ,12982,764197,632,311,302.375,570.484375,322.875,642.53125,6,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,71, most ,13032,764247,667,316,302.375,642.53125,322.875,686.5390625,6,6,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,72," importantly, ",13082,764297,714,320,302.375,686.5390625,322.875,783.25,6,7,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,72," importantly, ",13132,764347,752,319,302.375,686.5390625,322.875,783.25,6,7,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,72," importantly, ",13182,764397,768,314,302.375,686.5390625,322.875,783.25,6,7,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,72," importantly, ",13231,764447,781,310,302.375,686.5390625,322.875,783.25,6,7,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,73, more ,13281,764497,789,307,302.375,783.25,322.875,829.265625,6,8,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,73, more ,13331,764547,801,308,302.375,783.25,322.875,829.265625,6,8,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,73, more ,13382,764597,825,314,302.375,783.25,322.875,829.265625,6,8,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,13431,764646,869,322,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,13482,764697,892,324,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,13531,764746,895,324,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,13582,764797,895,324,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,13631,764847,895,324,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,13682,764897,895,324,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,13731,764946,897,324,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,13781,764997,921,325,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,13831,765047,960,335,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,13882,765097,982,340,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,13932,765147,998,340,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,13981,765197,1011,339,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,14031,765246,1020,335,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,14082,765297,1027,331,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,14131,765347,1029,330,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,14181,765396,970,332,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,14232,765447,748,342,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,14281,765497,542,350,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,14331,765546,396,372,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,14381,765596,344,379,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,14431,765647,327,379,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,14482,765697,324,377,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,14531,765746,324,376,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,14581,765796,327,371,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,14631,765846,363,365,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,14681,765897,406,365,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,14732,765947,435,365,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,14781,765997,458,364,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,14831,766047,485,363,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,14881,766096,507,363,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,14931,766147,519,362,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,80, bike ,14981,766197,535,358,342.375,532.46875,362.875,570.4921875,7,3,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,80, bike ,15032,766247,559,358,342.375,532.46875,362.875,570.4921875,7,3,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,81, lanes ,15081,766297,593,358,342.375,570.4921875,362.875,618.53125,7,4,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,82, so ,15132,766347,623,358,342.375,618.53125,362.875,642.546875,7,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,83, bicycle ,15182,766397,649,359,342.375,642.546875,362.875,702.5703125,7,6,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,15232,766447,665,363,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,15281,766497,668,363,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,15331,766547,668,363,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,15381,766596,668,363,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,15431,766646,668,363,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,15481,766696,672,363,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,84, commuting ,15531,766747,707,356,342.375,702.5703125,362.875,795.609375,7,7,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,84, commuting ,15581,766797,770,346,342.375,702.5703125,362.875,795.609375,7,7,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,85, has ,15632,766848,804,345,342.375,795.609375,362.875,829.6328125,7,8,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,86, become ,15682,766897,830,346,342.375,829.6328125,362.875,898.671875,7,9,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,86, become ,15731,766946,849,349,342.375,829.6328125,362.875,898.671875,7,9,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,86, become ,15782,766997,869,351,342.375,829.6328125,362.875,898.671875,7,9,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,86, become ,15831,767046,885,351,342.375,829.6328125,362.875,898.671875,7,9,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,87, more ,15881,767097,908,349,342.375,898.671875,362.875,944.6875,7,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,87, more ,15931,767147,924,345,342.375,898.671875,362.875,944.6875,7,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,15982,767197,945,342,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,16031,767247,965,342,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,16081,767297,984,342,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,16131,767347,1001,342,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,16181,767397,1011,342,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,16231,767446,1019,342,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,89, As ,16281,767497,1020,344,342.375,1013.265625,362.875,1038.78125,7,12,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,88, popular. ,16331,767547,996,352,342.375,944.6875,362.875,1013.265625,7,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,16381,767596,918,359,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,16431,767646,605,375,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,93, Bureau ,16481,767697,474,388,382.375,442.421875,402.875,505.46875,8,3,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,92, Census ,16532,767747,416,399,382.375,376.3828125,402.875,442.421875,8,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,16581,767797,389,403,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,16631,767846,370,405,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,16682,767897,350,404,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,16731,767946,339,399,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,16782,767997,338,397,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,91, US ,16831,768046,347,395,382.375,346.375,402.875,376.3828125,8,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,91, US ,16881,768097,353,394,382.375,346.375,402.875,376.3828125,8,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,91, US ,16931,768147,363,394,382.375,346.375,402.875,376.3828125,8,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,92, Census ,16981,768196,384,392,382.375,376.3828125,402.875,442.421875,8,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,92, Census ,17032,768247,404,391,382.375,376.3828125,402.875,442.421875,8,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,92, Census ,17082,768297,433,392,382.375,376.3828125,402.875,442.421875,8,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,93, Bureau ,17132,768347,481,392,382.375,442.421875,402.875,505.46875,8,3,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,17182,768397,510,384,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,17231,768446,575,373,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,17281,768496,612,373,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,17331,768547,626,373,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,17382,768597,632,375,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,17432,768647,635,379,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,17481,768697,640,382,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,97, the ,17531,768747,649,384,382.375,646.578125,402.875,676.6015625,8,7,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,97, the ,17581,768796,661,385,382.375,646.578125,402.875,676.6015625,8,7,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,97, the ,17631,768847,673,385,382.375,646.578125,402.875,676.6015625,8,7,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,17681,768897,688,383,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,17731,768946,700,382,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,98, number ,17781,768997,704,384,382.375,676.6015625,402.875,742.640625,8,8,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,98, number ,17832,769048,704,384,382.375,676.6015625,402.875,742.640625,8,8,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,98, number ,17883,769098,704,384,382.375,676.6015625,402.875,742.640625,8,8,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,98, number ,17932,769147,704,384,382.375,676.6015625,402.875,742.640625,8,8,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,98, number ,17981,769197,704,384,382.375,676.6015625,402.875,742.640625,8,8,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,98, number ,18032,769247,704,384,382.375,676.6015625,402.875,742.640625,8,8,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,98, number ,18082,769298,704,384,382.375,676.6015625,402.875,742.640625,8,8,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,18132,769347,715,384,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,18182,769397,753,379,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,18231,769446,773,378,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,18281,769497,783,378,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,18332,769547,794,381,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,101, commuters ,18382,769597,816,385,382.375,800.6796875,402.875,894.703125,8,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,101, commuters ,18431,769647,834,390,382.375,800.6796875,402.875,894.703125,8,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,101, commuters ,18482,769697,856,393,382.375,800.6796875,402.875,894.703125,8,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,101, commuters ,18532,769747,883,393,382.375,800.6796875,402.875,894.703125,8,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,102, grew ,18581,769796,906,396,382.375,894.703125,402.875,938.71875,8,12,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,102, grew ,18631,769846,927,399,382.375,894.703125,402.875,938.71875,8,12,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,103, from ,18682,769897,941,399,382.375,938.71875,402.875,979.7265625,8,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,103, from ,18731,769947,956,399,382.375,938.71875,402.875,979.7265625,8,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,103, from ,18781,769997,969,399,382.375,938.71875,402.875,979.7265625,8,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,104, about ,18831,770047,984,397,382.375,979.7265625,402.875,1024.7734375,8,14,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,104, about ,18881,770097,997,396,382.375,979.7265625,402.875,1024.7734375,8,14,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,104, about ,18932,770147,1005,394,382.375,979.7265625,402.875,1024.7734375,8,14,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,104, about ,18981,770197,1004,394,382.375,979.7265625,402.875,1024.7734375,8,14,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,102, grew ,19032,770247,903,399,382.375,894.703125,402.875,938.71875,8,12,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,19081,770297,674,418,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,109," 786,000 ",19131,770347,519,439,422.375,500.5234375,442.875,570.59375,9,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,19182,770397,462,450,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,19232,770447,440,451,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,19282,770497,429,450,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,19331,770546,419,446,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,19381,770596,407,442,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,105," 488,000 ",19431,770647,388,438,422.375,346.375,442.875,416.4453125,9,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,105," 488,000 ",19481,770696,367,437,422.375,346.375,442.875,416.4453125,9,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,105," 488,000 ",19532,770747,356,437,422.375,346.375,442.875,416.4453125,9,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,105," 488,000 ",19582,770797,353,437,422.375,346.375,442.875,416.4453125,9,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,105," 488,000 ",19632,770847,353,436,422.375,346.375,442.875,416.4453125,9,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,105," 488,000 ",19681,770896,355,436,422.375,346.375,442.875,416.4453125,9,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,105," 488,000 ",19731,770946,366,436,422.375,346.375,442.875,416.4453125,9,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,105," 488,000 ",19781,770996,390,436,422.375,346.375,442.875,416.4453125,9,1,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,106, in ,19831,771047,425,434,422.375,416.4453125,442.875,435.4609375,9,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,107, 2000 ,19881,771097,462,432,422.375,435.4609375,442.875,480.5078125,9,3,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,109," 786,000 ",19931,771146,512,431,422.375,500.5234375,442.875,570.59375,9,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,109," 786,000 ",19981,771196,550,431,422.375,500.5234375,442.875,570.59375,9,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,110, in ,20031,771247,588,430,422.375,570.59375,442.875,589.609375,9,6,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,111, 2012. ,20081,771296,616,426,422.375,589.609375,442.875,639.65625,9,7,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,111, 2012. ,20131,771347,637,425,422.375,589.609375,442.875,639.65625,9,7,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,112, Electric ,20182,771397,652,425,422.375,639.65625,442.875,703.671875,9,8,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,112, Electric ,20231,771447,667,425,422.375,639.65625,442.875,703.671875,9,8,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,112, Electric ,20282,771497,687,427,422.375,639.65625,442.875,703.671875,9,8,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,113, bikes ,20331,771547,705,428,422.375,703.671875,442.875,750.6953125,9,9,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,113, bikes ,20381,771597,726,428,422.375,703.671875,442.875,750.6953125,9,9,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,113, bikes ,20431,771647,747,427,422.375,703.671875,442.875,750.6953125,9,9,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,114, make ,20482,771697,771,426,422.375,750.6953125,442.875,799.71875,9,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,114, make ,20531,771747,791,426,422.375,750.6953125,442.875,799.71875,9,10,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,115, commuting ,20581,771797,809,428,422.375,799.71875,442.875,892.7578125,9,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,115, commuting ,20631,771847,810,428,422.375,799.71875,442.875,892.7578125,9,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,115, commuting ,20681,771896,810,428,422.375,799.71875,442.875,892.7578125,9,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,115, commuting ,20732,771947,810,428,422.375,799.71875,442.875,892.7578125,9,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,115, commuting ,20781,771997,810,428,422.375,799.71875,442.875,892.7578125,9,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,115, commuting ,20831,772046,810,428,422.375,799.71875,442.875,892.7578125,9,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,115, commuting ,20881,772097,831,427,422.375,799.71875,442.875,892.7578125,9,11,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,116, more ,20931,772146,895,425,422.375,892.7578125,442.875,938.7734375,9,12,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,116, more ,20981,772197,933,425,422.375,892.7578125,442.875,938.7734375,9,12,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,117, practical ,21031,772246,945,425,422.375,938.7734375,442.875,1010.8046875,9,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,117, practical ,21082,772297,958,429,422.375,938.7734375,442.875,1010.8046875,9,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,117, practical ,21131,772347,968,431,422.375,938.7734375,442.875,1010.8046875,9,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,117, practical ,21182,772397,986,432,422.375,938.7734375,442.875,1010.8046875,9,13,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,118, – ,21232,772447,1016,437,422.375,1010.8046875,442.875,1025.8203125,9,14,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,119, and ,21281,772497,1049,439,422.375,1025.8203125,442.875,1060.859375,9,15,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,120, fun ,21332,772547,1069,430,422.375,1060.859375,442.875,1085.8828125,9,16,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,120, fun ,21380,772596,1081,427,422.375,1060.859375,442.875,1085.8828125,9,16,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,120, fun ,21431,772647,1084,427,422.375,1060.859375,442.875,1085.8828125,9,16,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,21481,772697,1086,427,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,120, fun ,21531,772747,1067,428,422.375,1060.859375,442.875,1085.8828125,9,16,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,21582,772797,983,434,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,112, Electric ,21632,772847,642,438,422.375,639.65625,442.875,703.671875,9,8,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,21682,772897,465,447,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,21731,772946,396,462,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,122, by ,21782,772997,385,466,462.375,361.390625,482.875,385.40625,10,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,122, by ,21832,773047,385,466,462.375,361.390625,482.875,385.40625,10,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,122, by ,21881,773096,385,467,462.375,361.390625,482.875,385.40625,10,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,123, reducing ,21931,773146,388,469,462.375,385.40625,482.875,459.4609375,10,3,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,123, reducing ,21982,773197,386,472,462.375,385.40625,482.875,459.4609375,10,3,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,122, by ,22031,773247,378,474,462.375,361.390625,482.875,385.40625,10,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,122, by ,22081,773297,377,474,462.375,361.390625,482.875,385.40625,10,2,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,123, reducing ,22132,773347,407,474,462.375,385.40625,482.875,459.4609375,10,3,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,124, worry ,22181,773397,473,477,462.375,459.4609375,482.875,508.4609375,10,4,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,125, about ,22232,773447,517,479,462.375,508.4609375,482.875,558.5078125,10,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,125, about ,22281,773497,529,479,462.375,508.4609375,482.875,558.5078125,10,5,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,22331,773547,546,481,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,22381,773596,592,483,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,22431,773646,653,492,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,22481,773696,702,494,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,22531,773746,719,493,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,22581,773796,724,493,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,22632,773847,727,493,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,22680,773896,728,493,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,22731,773946,733,492,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,22781,773997,756,481,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,129, tiredness. ,22831,774046,776,476,462.375,725.6328125,482.875,803.671875,10,9,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,129, tiredness. ,22881,774097,783,475,462.375,725.6328125,482.875,803.671875,10,9,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,129, tiredness. ,22930,774146,784,476,462.375,725.6328125,482.875,803.671875,10,9,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,22981,774197,785,479,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,23031,774247,785,500,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,23081,774296,785,500,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,23131,774346,785,500,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,23181,774396,785,500,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,23231,774447,785,500,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,23280,774496,785,500,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,5,16,17,-1,999,23331,774546,785,500,,,,,,,They used to last for a shorter time,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
