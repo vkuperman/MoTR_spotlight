@@ -1,0 +1,356 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,3,adv,24,5,48,49,95, used ,2750,1533905,557,347,342.375,522.5,362.875,566.5390625,7,5,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,34, and ,2791,1533947,520,187,182.375,501.4609375,202.875,536.5,3,5,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,34, and ,2840,1533996,520,187,182.375,501.4609375,202.875,536.5,3,5,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,34, and ,2892,1534047,520,187,182.375,501.4609375,202.875,536.5,3,5,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,34, and ,2941,1534096,520,187,182.375,501.4609375,202.875,536.5,3,5,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,2991,1534147,514,187,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,3041,1534196,463,155,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,3091,1534246,339,85,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,3140,1534296,320,78,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,3190,1534346,316,77,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,3241,1534396,316,77,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,3291,1534447,325,82,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,3340,1534496,352,98,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,1, For ,3390,1534546,365,105,102.375,346.375,122.875,377.890625,1,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,1, For ,3441,1534596,373,108,102.375,346.375,122.875,377.890625,1,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,2, Agios ,3492,1534647,379,110,102.375,377.890625,122.875,427.4296875,1,2,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,2, Agios ,3540,1534696,379,110,102.375,377.890625,122.875,427.4296875,1,2,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,2, Agios ,3591,1534747,379,110,102.375,377.890625,122.875,427.4296875,1,2,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,2, Agios ,3643,1534799,379,110,102.375,377.890625,122.875,427.4296875,1,2,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,2, Agios ,3690,1534846,393,110,102.375,377.890625,122.875,427.4296875,1,2,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,3, Efstratios ,3742,1534897,446,108,102.375,427.4296875,122.875,507.4609375,1,3,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,3, Efstratios ,3791,1534947,497,109,102.375,427.4296875,122.875,507.4609375,1,3,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,4, and ,3841,1534997,518,112,102.375,507.4609375,122.875,542.5,1,4,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,4, and ,3890,1535046,533,114,102.375,507.4609375,122.875,542.5,1,4,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,4, and ,3941,1535097,538,114,102.375,507.4609375,122.875,542.5,1,4,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,4, and ,3992,1535147,538,114,102.375,507.4609375,122.875,542.5,1,4,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,4, and ,4041,1535197,538,114,102.375,507.4609375,122.875,542.5,1,4,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,4, and ,4092,1535248,538,114,102.375,507.4609375,122.875,542.5,1,4,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,6, closest ,4141,1535296,583,109,102.375,565.5078125,122.875,626.53125,1,6,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,8," neighbor, ",4191,1535346,703,108,102.375,671.5625,122.875,750.640625,1,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,8," neighbor, ",4240,1535396,745,109,102.375,671.5625,122.875,750.640625,1,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,9," Lemnos, ",4291,1535447,751,109,102.375,750.640625,122.875,824.6796875,1,9,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,9," Lemnos, ",4341,1535497,751,109,102.375,750.640625,122.875,824.6796875,1,9,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,9," Lemnos, ",4392,1535547,751,109,102.375,750.640625,122.875,824.6796875,1,9,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,9," Lemnos, ",4442,1535597,751,109,102.375,750.640625,122.875,824.6796875,1,9,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,9," Lemnos, ",4490,1535646,755,109,102.375,750.640625,122.875,824.6796875,1,9,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,9," Lemnos, ",4540,1535696,789,104,102.375,750.640625,122.875,824.6796875,1,9,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,4591,1535746,837,99,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,4641,1535797,866,98,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,4691,1535847,889,98,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,4741,1535896,910,97,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,4790,1535946,930,96,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,4841,1535996,950,99,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,4890,1536046,967,103,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,4941,1536097,982,103,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,4991,1536147,998,103,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,15, is ,5040,1536196,1009,104,102.375,1003.7578125,122.875,1016.7578125,1,15,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,15, is ,5090,1536246,1013,107,102.375,1003.7578125,122.875,1016.7578125,1,15,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,15, is ,5141,1536297,1011,108,102.375,1003.7578125,122.875,1016.7578125,1,15,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,14, crisis ,5191,1536346,994,116,102.375,957.7578125,122.875,1003.7578125,1,14,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,5240,1536396,969,128,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,5291,1536447,959,135,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,5340,1536496,937,143,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,23, obscurity ,5391,1536547,794,149,142.375,758.2578125,162.875,835.2890625,2,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,5440,1536596,531,126,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,5491,1536646,408,130,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,16, particularly ,5541,1536697,370,150,142.375,346.375,162.875,438.40625,2,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,16, particularly ,5590,1536746,370,150,142.375,346.375,162.875,438.40625,2,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,16, particularly ,5642,1536797,370,150,142.375,346.375,162.875,438.40625,2,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,16, particularly ,5691,1536846,370,150,142.375,346.375,162.875,438.40625,2,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,16, particularly ,5741,1536897,370,150,142.375,346.375,162.875,438.40625,2,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,16, particularly ,5791,1536946,383,152,142.375,346.375,162.875,438.40625,2,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,16, particularly ,5841,1536996,424,154,142.375,346.375,162.875,438.40625,2,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,17, cruel. ,5890,1537046,479,152,142.375,438.40625,162.875,487.265625,2,2,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,18, They ,5941,1537097,522,149,142.375,487.265625,162.875,532.125,2,3,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,19, were ,5991,1537146,551,149,142.375,532.125,162.875,576.140625,2,4,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,20, condemned ,6041,1537197,577,148,142.375,576.140625,162.875,675.2109375,2,5,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,20, condemned ,6091,1537246,589,146,142.375,576.140625,162.875,675.2109375,2,5,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,20, condemned ,6141,1537297,589,146,142.375,576.140625,162.875,675.2109375,2,5,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,20, condemned ,6191,1537347,589,146,142.375,576.140625,162.875,675.2109375,2,5,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,20, condemned ,6241,1537397,589,146,142.375,576.140625,162.875,675.2109375,2,5,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,20, condemned ,6292,1537448,589,146,142.375,576.140625,162.875,675.2109375,2,5,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,20, condemned ,6341,1537497,632,146,142.375,576.140625,162.875,675.2109375,2,5,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,21, to ,6391,1537546,694,146,142.375,675.2109375,162.875,695.2265625,2,6,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,22, relative ,6441,1537596,723,146,142.375,695.2265625,162.875,758.2578125,2,7,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,22, relative ,6491,1537647,736,147,142.375,695.2265625,162.875,758.2578125,2,7,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,22, relative ,6541,1537697,742,148,142.375,695.2265625,162.875,758.2578125,2,7,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,22, relative ,6592,1537747,742,148,142.375,695.2265625,162.875,758.2578125,2,7,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,22, relative ,6641,1537796,742,148,142.375,695.2265625,162.875,758.2578125,2,7,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,22, relative ,6692,1537847,742,148,142.375,695.2265625,162.875,758.2578125,2,7,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,23, obscurity ,6741,1537896,762,148,142.375,758.2578125,162.875,835.2890625,2,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,24, for ,6791,1537946,848,147,142.375,835.2890625,162.875,861.296875,2,9,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,25, years ,6840,1537996,909,151,142.375,861.296875,162.875,910.3203125,2,10,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,27, part ,6891,1538046,938,156,142.375,929.3359375,162.875,965.359375,2,12,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,27, part ,6941,1538097,943,156,142.375,929.3359375,162.875,965.359375,2,12,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,27, part ,6992,1538147,943,156,142.375,929.3359375,162.875,965.359375,2,12,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,27, part ,7042,1538197,943,156,142.375,929.3359375,162.875,965.359375,2,12,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,27, part ,7091,1538246,943,156,142.375,929.3359375,162.875,965.359375,2,12,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,27, part ,7141,1538296,960,156,142.375,929.3359375,162.875,965.359375,2,12,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,28, because ,7191,1538346,1007,155,142.375,965.359375,162.875,1038.4140625,2,13,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,28, because ,7240,1538396,1027,151,142.375,965.359375,162.875,1038.4140625,2,13,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,28, because ,7291,1538446,1031,150,142.375,965.359375,162.875,1038.4140625,2,13,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,28, because ,7341,1538496,1027,150,142.375,965.359375,162.875,1038.4140625,2,13,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,7390,1538546,914,178,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,7440,1538596,563,204,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,7491,1538646,445,201,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,7541,1538697,420,202,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,7591,1538746,420,202,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,7640,1538796,420,202,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,7691,1538846,420,202,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,7741,1538897,402,202,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,7790,1538946,367,204,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,7841,1538996,346,204,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,7891,1539046,341,199,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,7941,1539097,341,197,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,7991,1539146,343,195,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,30, are ,8041,1539196,355,193,182.375,346.375,202.875,377.3984375,3,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,31, served ,8090,1539246,389,187,182.375,377.3984375,202.875,436.4296875,3,2,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,31, served ,8140,1539296,423,186,182.375,377.3984375,202.875,436.4296875,3,2,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,32, by ,8191,1539347,450,186,182.375,436.4296875,202.875,460.4453125,3,3,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,33, slow ,8241,1539396,469,188,182.375,460.4453125,202.875,501.4609375,3,4,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,33, slow ,8291,1539446,498,195,182.375,460.4453125,202.875,501.4609375,3,4,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,34, and ,8341,1539497,536,199,182.375,501.4609375,202.875,536.5,3,5,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,35, unreliable ,8391,1539547,546,199,182.375,536.5,202.875,619.5625,3,6,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,35, unreliable ,8442,1539598,546,199,182.375,536.5,202.875,619.5625,3,6,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,35, unreliable ,8492,1539648,546,199,182.375,536.5,202.875,619.5625,3,6,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,35, unreliable ,8542,1539697,546,199,182.375,536.5,202.875,619.5625,3,6,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,35, unreliable ,8591,1539747,546,199,182.375,536.5,202.875,619.5625,3,6,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,35, unreliable ,8640,1539796,591,195,182.375,536.5,202.875,619.5625,3,6,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,36, ferries. ,8691,1539847,654,190,182.375,619.5625,202.875,679.578125,3,7,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,37, In ,8741,1539897,680,187,182.375,679.578125,202.875,699.59375,3,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,37, In ,8791,1539947,684,187,182.375,679.578125,202.875,699.59375,3,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,37, In ,8842,1539998,684,187,182.375,679.578125,202.875,699.59375,3,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,37, In ,8892,1540047,684,187,182.375,679.578125,202.875,699.59375,3,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,37, In ,8942,1540098,684,187,182.375,679.578125,202.875,699.59375,3,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,37, In ,8991,1540146,698,186,182.375,679.578125,202.875,699.59375,3,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,9040,1540196,782,179,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,9090,1540246,873,175,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,9141,1540296,899,175,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,9191,1540347,903,176,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,9241,1540397,903,176,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,9291,1540447,903,176,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,9342,1540497,903,176,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,9392,1540548,904,176,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,9441,1540596,941,177,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,9491,1540646,988,177,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,9541,1540697,1008,177,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,9591,1540747,1018,179,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,9641,1540797,1028,182,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,44, the ,9691,1540846,1036,184,182.375,1013.8203125,202.875,1038.84375,3,15,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,9740,1540896,1041,185,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,44, the ,9791,1540947,1020,194,182.375,1013.8203125,202.875,1038.84375,3,15,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,9841,1540997,736,202,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,33, slow ,9891,1541046,464,196,182.375,460.4453125,202.875,501.4609375,3,4,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,9941,1541097,418,207,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,9991,1541147,418,207,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,10041,1541196,418,207,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,10093,1541248,418,207,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,10140,1541296,386,217,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,10191,1541346,341,232,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,10240,1541396,326,238,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,10290,1541446,330,239,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,10340,1541496,366,241,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,10390,1541546,420,241,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,48," new, ",10441,1541597,471,240,222.375,450.4375,242.875,492.4765625,4,4,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,49, efficient ,10491,1541646,514,240,222.375,492.4765625,242.875,559.515625,4,5,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,10540,1541696,532,241,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,10590,1541746,560,247,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,10640,1541796,573,247,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,10691,1541847,574,246,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,10741,1541897,574,246,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,10791,1541947,574,246,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,10840,1541996,574,246,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,10890,1542046,609,243,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,51, drawing ,10941,1542097,682,235,222.375,641.234375,242.875,709.2734375,4,7,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,52, floods ,10991,1542146,721,232,222.375,709.2734375,242.875,762.3125,4,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,52, floods ,11041,1542196,738,232,222.375,709.2734375,242.875,762.3125,4,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,52, floods ,11091,1542246,747,232,222.375,709.2734375,242.875,762.3125,4,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,52, floods ,11140,1542296,759,232,222.375,709.2734375,242.875,762.3125,4,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,53, of ,11191,1542346,781,233,222.375,762.3125,242.875,782.328125,4,9,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,54, new ,11241,1542397,805,234,222.375,782.328125,242.875,820.3515625,4,10,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,54, new ,11292,1542448,807,234,222.375,782.328125,242.875,820.3515625,4,10,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,54, new ,11341,1542497,807,234,222.375,782.328125,242.875,820.3515625,4,10,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,54, new ,11392,1542547,807,234,222.375,782.328125,242.875,820.3515625,4,10,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,55, visitors ,11440,1542596,827,234,222.375,820.3515625,242.875,881.359375,4,11,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,56, to ,11491,1542647,892,234,222.375,881.359375,242.875,901.375,4,12,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,57, explore ,11541,1542697,962,232,222.375,901.375,242.875,965.4140625,4,13,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,58, the ,11591,1542746,990,232,222.375,965.4140625,242.875,995.4375,4,14,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,59, islands’ ,11641,1542796,1006,233,222.375,995.4375,242.875,1055.140625,4,15,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,59, islands’ ,11691,1542846,1016,233,222.375,995.4375,242.875,1055.140625,4,15,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,59, islands’ ,11741,1542897,1026,234,222.375,995.4375,242.875,1055.140625,4,15,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,59, islands’ ,11791,1542946,1030,236,222.375,995.4375,242.875,1055.140625,4,15,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,59, islands’ ,11841,1542996,1019,237,222.375,995.4375,242.875,1055.140625,4,15,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,11890,1543046,914,227,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,50," company, ",11941,1543097,576,227,222.375,559.515625,242.875,641.234375,4,6,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,11990,1543146,470,247,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,12041,1543197,424,258,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,12091,1543247,394,263,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,60, largely ,12141,1543296,377,264,262.375,346.375,282.875,404.40625,5,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,60, largely ,12191,1543346,368,264,262.375,346.375,282.875,404.40625,5,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,60, largely ,12240,1543396,362,266,262.375,346.375,282.875,404.40625,5,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,60, largely ,12290,1543446,355,275,262.375,346.375,282.875,404.40625,5,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,60, largely ,12341,1543496,354,278,262.375,346.375,282.875,404.40625,5,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,60, largely ,12391,1543546,372,275,262.375,346.375,282.875,404.40625,5,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,61, overlooked ,12440,1543596,428,265,262.375,404.40625,282.875,497.46875,5,2,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,12490,1543646,496,258,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,12540,1543696,548,258,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,12590,1543746,579,262,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,63, before ,12641,1543796,604,265,262.375,566.484375,282.875,622.5234375,5,4,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,65, bank ,12691,1543846,653,266,262.375,652.546875,282.875,696.5859375,5,6,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,12741,1543896,682,260,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,12791,1543946,695,257,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,12840,1543996,695,257,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,12891,1544046,695,257,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,12940,1544096,695,257,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,12990,1544146,704,257,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,13040,1544196,775,257,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,13090,1544246,847,262,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,69, season ,13141,1544296,871,268,262.375,838.6328125,282.875,901.6796875,5,10,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,69, season ,13190,1544346,888,275,262.375,838.6328125,282.875,901.6796875,5,10,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,70, started ,13241,1544397,903,276,262.375,901.6796875,282.875,961.7109375,5,11,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,70, started ,13291,1544446,920,276,262.375,901.6796875,282.875,961.7109375,5,11,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,70, started ,13341,1544496,923,274,262.375,901.6796875,282.875,961.7109375,5,11,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,70, started ,13391,1544546,923,274,262.375,901.6796875,282.875,961.7109375,5,11,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,70, started ,13442,1544597,923,274,262.375,901.6796875,282.875,961.7109375,5,11,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,70, started ,13491,1544647,927,274,262.375,901.6796875,282.875,961.7109375,5,11,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,71, out ,13540,1544696,971,279,262.375,961.7109375,282.875,991.734375,5,12,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,13590,1544746,1029,285,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,13641,1544797,1050,286,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,13690,1544846,1059,286,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,13740,1544896,1063,286,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,13791,1544947,1064,286,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,13841,1544996,1064,286,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,13892,1545047,1064,285,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,13941,1545096,1064,281,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,74, best ,13991,1545147,1065,279,262.375,1045.7734375,282.875,1079.796875,5,15,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,74, best ,14041,1545197,1068,281,262.375,1045.7734375,282.875,1079.796875,5,15,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,14090,1545245,1058,286,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,14141,1545296,895,289,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,14191,1545346,629,287,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,14241,1545396,501,283,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,14290,1545446,456,284,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,14340,1545496,442,293,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,14390,1545546,431,301,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,76, in ,14440,1545596,421,306,302.375,409.421875,322.875,428.4375,6,2,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,76, in ,14491,1545647,412,311,302.375,409.421875,322.875,428.4375,6,2,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,75, season ,14541,1545697,402,317,302.375,346.375,322.875,409.421875,6,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,75, season ,14591,1545746,397,318,302.375,346.375,322.875,409.421875,6,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,75, season ,14641,1545797,394,313,302.375,346.375,322.875,409.421875,6,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,75, season ,14691,1545846,396,308,302.375,346.375,322.875,409.421875,6,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,75, season ,14741,1545896,407,307,302.375,346.375,322.875,409.421875,6,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,77, 30 ,14791,1545947,435,305,302.375,428.4375,322.875,453.4609375,6,3,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,14840,1545996,492,302,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,14890,1546046,530,302,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,14939,1546095,565,303,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,82," week, ",14990,1546146,603,306,302.375,596.578125,322.875,648.6015625,6,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,82," week, ",15040,1546196,634,305,302.375,596.578125,322.875,648.6015625,6,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,15091,1546246,659,301,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,15140,1546296,690,300,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,83, became ,15190,1546346,713,306,302.375,648.6015625,322.875,717.640625,6,9,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,84, the ,15240,1546396,740,317,302.375,717.640625,322.875,747.6640625,6,10,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,15291,1546447,755,324,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,15340,1546496,755,324,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,15390,1546546,755,324,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,15440,1546595,755,324,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,15490,1546646,765,323,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,86, said ,15540,1546696,832,316,302.375,806.671875,322.875,844.203125,6,12,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,87, Atzamis ,15591,1546747,904,315,302.375,844.203125,322.875,912.7265625,6,13,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,88," Konstantinos, ",15641,1546797,933,318,302.375,912.7265625,322.875,1026.8046875,6,14,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,88," Konstantinos, ",15691,1546846,955,321,302.375,912.7265625,322.875,1026.8046875,6,14,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,88," Konstantinos, ",15740,1546896,971,321,302.375,912.7265625,322.875,1026.8046875,6,14,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,88," Konstantinos, ",15791,1546947,990,318,302.375,912.7265625,322.875,1026.8046875,6,14,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,88," Konstantinos, ",15840,1546996,1010,318,302.375,912.7265625,322.875,1026.8046875,6,14,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,89, a ,15891,1547047,1029,318,302.375,1026.8046875,322.875,1041.8203125,6,15,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,90, travel ,15941,1547097,1049,318,302.375,1041.8203125,322.875,1085.8359375,6,16,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,90, travel ,15990,1547146,1057,320,302.375,1041.8203125,322.875,1085.8359375,6,16,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,16040,1547196,1059,322,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,16090,1547246,1011,328,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,16140,1547296,774,329,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,16191,1547346,639,344,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,16240,1547396,441,371,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,16290,1547446,392,372,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,16340,1547496,365,374,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,16390,1547546,350,375,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,16441,1547597,346,375,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,16491,1547647,346,372,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,16541,1547697,346,367,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,16590,1547745,349,363,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,91, agent ,16641,1547796,358,359,342.375,346.375,362.875,396.421875,7,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,91, agent ,16691,1547847,384,358,342.375,346.375,362.875,396.421875,7,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,93, Lemnos ,16741,1547897,425,358,342.375,415.4375,362.875,484.4765625,7,3,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,93, Lemnos ,16791,1547947,480,359,342.375,415.4375,362.875,484.4765625,7,3,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,94, who ,16840,1547996,517,358,342.375,484.4765625,362.875,522.5,7,4,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,95, used ,16890,1548046,551,358,342.375,522.5,362.875,566.5390625,7,5,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,96, to ,16940,1548096,577,357,342.375,566.5390625,362.875,586.5546875,7,6,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,97, earn ,16991,1548147,590,357,342.375,586.5546875,362.875,627.5859375,7,7,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,97, earn ,17041,1548197,591,357,342.375,586.5546875,362.875,627.5859375,7,7,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,97, earn ,17092,1548247,591,357,342.375,586.5546875,362.875,627.5859375,7,7,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,97, earn ,17141,1548297,591,357,342.375,586.5546875,362.875,627.5859375,7,7,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,97, earn ,17190,1548346,596,357,342.375,586.5546875,362.875,627.5859375,7,7,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,98," €15,000 ",17241,1548397,667,356,342.375,627.5859375,362.875,701.0390625,7,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,100, month ,17290,1548446,740,353,342.375,716.0546875,362.875,771.0859375,7,10,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,100, month ,17341,1548497,771,353,342.375,716.0546875,362.875,771.0859375,7,10,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,101, as ,17391,1548547,776,354,342.375,771.0859375,362.875,795.1015625,7,11,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,101, as ,17442,1548598,776,354,342.375,771.0859375,362.875,795.1015625,7,11,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,101, as ,17492,1548648,776,354,342.375,771.0859375,362.875,795.1015625,7,11,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,101, as ,17541,1548697,776,354,342.375,771.0859375,362.875,795.1015625,7,11,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,103, captain ,17590,1548746,816,354,342.375,810.1171875,362.875,873.1640625,7,13,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,105, petroleum ,17641,1548797,899,354,342.375,893.1796875,362.875,978.2265625,7,15,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,105, petroleum ,17691,1548846,946,355,342.375,893.1796875,362.875,978.2265625,7,15,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,105, petroleum ,17740,1548896,967,357,342.375,893.1796875,362.875,978.2265625,7,15,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,105, petroleum ,17791,1548947,978,357,342.375,893.1796875,362.875,978.2265625,7,15,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,106, tankers ,17841,1548997,988,354,342.375,978.2265625,362.875,1042.2578125,7,16,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,106, tankers ,17890,1549046,1006,354,342.375,978.2265625,362.875,1042.2578125,7,16,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,106, tankers ,17940,1549096,1022,356,342.375,978.2265625,362.875,1042.2578125,7,16,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,106, tankers ,17991,1549147,1034,357,342.375,978.2265625,362.875,1042.2578125,7,16,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,106, tankers ,18041,1549196,1040,358,342.375,978.2265625,362.875,1042.2578125,7,16,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,106, tankers ,18091,1549247,1042,358,342.375,978.2265625,362.875,1042.2578125,7,16,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,18141,1549297,1041,358,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,103, captain ,18190,1549346,839,359,342.375,810.1171875,362.875,873.1640625,7,13,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,18240,1549396,696,359,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,18290,1549446,496,373,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,110, ships ,18341,1549497,440,389,382.375,437.4375,402.875,484.4609375,8,3,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,109, large ,18390,1549546,406,396,382.375,392.40625,402.875,437.4375,8,2,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,18441,1549597,386,399,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,18490,1549646,370,406,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,18540,1549696,362,406,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,18590,1549746,358,403,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,108, other ,18640,1549796,356,400,382.375,346.375,402.875,392.40625,8,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,108, other ,18690,1549846,359,398,382.375,346.375,402.875,392.40625,8,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,108, other ,18741,1549897,382,392,382.375,346.375,402.875,392.40625,8,1,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,109, large ,18790,1549946,425,388,382.375,392.40625,402.875,437.4375,8,2,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,110, ships ,18840,1549996,467,388,382.375,437.4375,402.875,484.4609375,8,3,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,112, came ,18891,1550047,515,387,382.375,514.484375,402.875,563.5078125,8,5,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,113, home ,18941,1550097,572,387,382.375,563.5078125,402.875,613.5390625,8,6,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,114, because ,18991,1550147,620,387,382.375,613.5390625,402.875,686.59375,8,7,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,19039,1550195,639,383,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,19090,1550246,665,382,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,115, he ,19140,1550296,697,384,382.375,686.59375,402.875,711.6171875,8,8,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,116, missed ,19191,1550346,723,385,382.375,711.6171875,402.875,773.6328125,8,9,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,116, missed ,19240,1550396,758,385,382.375,711.6171875,402.875,773.6328125,8,9,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,19290,1550446,783,383,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,19340,1550496,803,382,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,119, much. ,19390,1550546,820,389,382.375,811.65625,402.875,860.6796875,8,12,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,19441,1550597,831,400,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,19490,1550646,831,400,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,19540,1550696,831,400,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,19590,1550746,831,400,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,19641,1550797,831,410,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,19690,1550846,818,428,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,19741,1550897,818,428,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,19790,1550946,818,428,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,19840,1550996,818,428,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,19890,1551046,818,428,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,19940,1551096,818,428,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,19990,1551146,818,428,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,20041,1551197,818,428,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,20090,1551246,818,428,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,20141,1551297,818,428,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,20191,1551346,818,428,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,20240,1551396,818,428,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,20290,1551446,818,428,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,20340,1551496,818,428,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,20390,1551546,818,428,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,5,48,49,-1,999,20441,1551597,818,428,,,,,,,Introduction of bank controls,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
