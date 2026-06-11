@@ -1,0 +1,238 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,2,int,26,3,26,27,33, Canadian ,1741,997896,355,195,182.375,346.375,202.875,428.4453125,3,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,1791,997946,332,150,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,1842,997997,327,143,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,1891,998046,329,144,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,1941,998096,332,144,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,1991,998146,335,144,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,2041,998196,345,139,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,2091,998246,354,129,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,2141,998296,357,123,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,1, US ,2191,998346,359,120,102.375,346.375,122.875,376.3828125,1,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,1, US ,2241,998397,362,119,102.375,346.375,122.875,376.3828125,1,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,1, US ,2291,998447,364,118,102.375,346.375,122.875,376.3828125,1,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,1, US ,2341,998496,368,116,102.375,346.375,122.875,376.3828125,1,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,2, cities ,2392,998547,380,113,102.375,376.3828125,122.875,422.3984375,1,2,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,2, cities ,2441,998597,413,110,102.375,376.3828125,122.875,422.3984375,1,2,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,3, perform ,2491,998646,443,110,102.375,422.3984375,122.875,489.421875,1,3,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,3, perform ,2541,998696,461,113,102.375,422.3984375,122.875,489.421875,1,3,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,3, perform ,2591,998747,475,114,102.375,422.3984375,122.875,489.421875,1,3,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,3, perform ,2642,998797,483,114,102.375,422.3984375,122.875,489.421875,1,3,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,4, relatively ,2691,998846,499,112,102.375,489.421875,122.875,565.453125,1,4,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,4, relatively ,2741,998896,526,107,102.375,489.421875,122.875,565.453125,1,4,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,2790,998946,562,103,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,2841,998996,590,103,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,5, badly ,2891,999046,596,104,102.375,565.453125,122.875,613.4921875,1,5,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,5, badly ,2942,999097,596,104,102.375,565.453125,122.875,613.4921875,1,5,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,5, badly ,2992,999147,596,104,102.375,565.453125,122.875,613.4921875,1,5,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,5, badly ,3043,999198,596,104,102.375,565.453125,122.875,613.4921875,1,5,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,5, badly ,3092,999247,597,104,102.375,565.453125,122.875,613.4921875,1,5,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,6, in ,3141,999296,617,104,102.375,613.4921875,122.875,632.5078125,1,6,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,7, the ,3191,999346,659,104,102.375,632.5078125,122.875,662.53125,1,7,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,8," study, ",3241,999396,701,105,102.375,662.53125,122.875,714.234375,1,8,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,9, mostly ,3291,999446,734,105,102.375,714.234375,122.875,771.2421875,1,9,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,9, mostly ,3341,999497,765,106,102.375,714.234375,122.875,771.2421875,1,9,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,10, because ,3391,999546,794,106,102.375,771.2421875,122.875,844.296875,1,10,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,10, because ,3442,999597,821,106,102.375,771.2421875,122.875,844.296875,1,10,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,11, of ,3491,999646,850,106,102.375,844.296875,122.875,864.3125,1,11,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,12, issues ,3541,999696,872,107,102.375,864.3125,122.875,920.3359375,1,12,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,12, issues ,3591,999746,892,107,102.375,864.3125,122.875,920.3359375,1,12,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,12, issues ,3641,999796,913,107,102.375,864.3125,122.875,920.3359375,1,12,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,13, around ,3691,999847,934,107,102.375,920.3359375,122.875,981.390625,1,13,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,13, around ,3741,999896,960,105,102.375,920.3359375,122.875,981.390625,1,13,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,14, personal ,3791,999946,987,105,102.375,981.390625,122.875,1050.4375,1,14,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,14, personal ,3840,999996,1000,105,102.375,981.390625,122.875,1050.4375,1,14,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,14, personal ,3891,1000047,1004,105,102.375,981.390625,122.875,1050.4375,1,14,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,14, personal ,3941,1000096,1004,105,102.375,981.390625,122.875,1050.4375,1,14,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,3991,1000146,924,99,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,4041,1000196,665,89,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,4091,1000246,549,106,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,4141,1000296,428,123,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,4190,1000346,392,127,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,4241,1000396,374,129,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,4291,1000446,362,130,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,4341,1000496,359,134,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,4391,1000546,363,143,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,15, safety ,4441,1000596,383,154,142.375,346.375,162.875,399.40625,2,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,15, safety ,4491,1000646,398,157,142.375,346.375,162.875,399.40625,2,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,16, and ,4541,1000696,409,154,142.375,399.40625,162.875,434.4453125,2,2,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,16, and ,4591,1000746,429,148,142.375,399.40625,162.875,434.4453125,2,2,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,17, crime. ,4641,1000797,453,146,142.375,434.4453125,162.875,488.2890625,2,3,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,17, crime. ,4691,1000846,479,145,142.375,434.4453125,162.875,488.2890625,2,3,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,18, The ,4741,1000896,519,145,142.375,488.2890625,162.875,524.1484375,2,4,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,19, highest ,4791,1000946,564,152,142.375,524.1484375,162.875,587.1953125,2,5,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,19, highest ,4841,1000996,583,155,142.375,524.1484375,162.875,587.1953125,2,5,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,19, highest ,4892,1001047,583,155,142.375,524.1484375,162.875,587.1953125,2,5,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,19, highest ,4942,1001097,583,155,142.375,524.1484375,162.875,587.1953125,2,5,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,19, highest ,4992,1001147,583,155,142.375,524.1484375,162.875,587.1953125,2,5,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,19, highest ,5042,1001198,583,155,142.375,524.1484375,162.875,587.1953125,2,5,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,20, ranking ,5091,1001246,601,154,142.375,587.1953125,162.875,651.234375,2,6,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,21, city ,5141,1001296,679,153,142.375,651.234375,162.875,683.2421875,2,7,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,24, US ,5191,1001346,743,153,142.375,732.28125,162.875,762.2890625,2,10,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,25, is ,5241,1001396,770,152,142.375,762.2890625,162.875,780.2890625,2,11,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,26, San ,5291,1001446,782,154,142.375,780.2890625,162.875,817.3203125,2,12,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,26, San ,5341,1001497,785,154,142.375,780.2890625,162.875,817.3203125,2,12,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,26, San ,5392,1001548,785,154,142.375,780.2890625,162.875,817.3203125,2,12,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,26, San ,5442,1001597,785,154,142.375,780.2890625,162.875,817.3203125,2,12,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,26, San ,5492,1001647,785,154,142.375,780.2890625,162.875,817.3203125,2,12,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,26, San ,5541,1001696,791,154,142.375,780.2890625,162.875,817.3203125,2,12,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,27," Francisco, ",5591,1001746,825,154,142.375,817.3203125,162.875,905.34375,2,13,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,27," Francisco, ",5641,1001796,886,151,142.375,817.3203125,162.875,905.34375,2,13,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,28, at ,5691,1001846,922,146,142.375,905.34375,162.875,925.359375,2,14,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,29, 28th; ,5741,1001896,945,145,142.375,925.359375,162.875,970.3984375,2,15,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,29, 28th; ,5791,1001946,968,148,142.375,925.359375,162.875,970.3984375,2,15,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,30, Boston ,5841,1001997,990,149,142.375,970.3984375,162.875,1031.4453125,2,16,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,30, Boston ,5891,1002046,1010,149,142.375,970.3984375,162.875,1031.4453125,2,16,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,30, Boston ,5941,1002097,1028,149,142.375,970.3984375,162.875,1031.4453125,2,16,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,31, is ,5992,1002147,1047,155,142.375,1031.4453125,162.875,1049.4453125,2,17,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,32, 34th. ,6041,1002196,1053,157,142.375,1049.4453125,162.875,1089.484375,2,18,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,32, 34th. ,6091,1002246,1054,157,142.375,1049.4453125,162.875,1089.484375,2,18,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,32, 34th. ,6140,1002295,1054,157,142.375,1049.4453125,162.875,1089.484375,2,18,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,31, is ,6191,1002346,1034,157,142.375,1031.4453125,162.875,1049.4453125,2,17,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,27," Francisco, ",6241,1002396,872,155,142.375,817.3203125,162.875,905.34375,2,13,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,6291,1002446,753,155,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,6340,1002495,551,176,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,6390,1002546,478,179,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,6441,1002596,433,174,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,6491,1002647,407,172,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,6541,1002697,385,177,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,33, Canadian ,6590,1002746,369,184,182.375,346.375,202.875,428.4453125,3,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,33, Canadian ,6641,1002796,362,189,182.375,346.375,202.875,428.4453125,3,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,33, Canadian ,6691,1002846,361,192,182.375,346.375,202.875,428.4453125,3,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,33, Canadian ,6741,1002896,369,195,182.375,346.375,202.875,428.4453125,3,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,33, Canadian ,6792,1002947,400,197,182.375,346.375,202.875,428.4453125,3,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,34," cities, ",6841,1002996,469,189,182.375,428.4453125,202.875,479.4609375,3,2,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,6891,1003046,541,178,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,6941,1003096,599,170,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,6992,1003147,630,167,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,7041,1003196,646,167,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,7091,1003246,661,168,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,7140,1003295,675,171,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,7191,1003346,687,177,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,7241,1003396,694,180,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,7291,1003446,703,182,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,40, better ,7341,1003496,723,185,182.375,700.296875,202.875,751.328125,3,8,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,40, better ,7391,1003546,751,186,182.375,700.296875,202.875,751.328125,3,8,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,41, than ,7440,1003596,776,190,182.375,751.328125,202.875,791.3671875,3,9,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,41, than ,7492,1003647,784,190,182.375,751.328125,202.875,791.3671875,3,9,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,41, than ,7542,1003698,784,190,182.375,751.328125,202.875,791.3671875,3,9,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,41, than ,7592,1003747,784,190,182.375,751.328125,202.875,791.3671875,3,9,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,41, than ,7642,1003798,784,190,182.375,751.328125,202.875,791.3671875,3,9,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,42, their ,7690,1003846,821,195,182.375,791.3671875,202.875,831.390625,3,10,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,7740,1003896,904,209,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,7790,1003946,943,209,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,7841,1003996,956,208,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,7891,1004046,967,210,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,7941,1004096,982,207,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,47, table. ,7991,1004147,1002,198,182.375,957.4453125,202.875,1006.484375,3,15,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,48, “You ,8042,1004197,1020,195,182.375,1006.484375,202.875,1047.859375,3,16,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,48, “You ,8091,1004246,1039,193,182.375,1006.484375,202.875,1047.859375,3,16,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,49, don’t ,8141,1004296,1052,193,182.375,1047.859375,202.875,1086.8984375,3,17,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,49, don’t ,8191,1004346,1062,195,182.375,1047.859375,202.875,1086.8984375,3,17,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,49, don’t ,8241,1004397,1069,196,182.375,1047.859375,202.875,1086.8984375,3,17,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,49, don’t ,8291,1004446,1070,197,182.375,1047.859375,202.875,1086.8984375,3,17,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,47, table. ,8341,1004496,994,196,182.375,957.4453125,202.875,1006.484375,3,15,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,8392,1004547,686,180,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,8441,1004596,536,189,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,8490,1004646,450,213,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,8540,1004695,416,214,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,8591,1004746,391,214,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,8641,1004796,375,216,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,8692,1004847,367,222,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,50, realize ,8742,1004897,366,232,222.375,346.375,242.875,404.40625,4,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,50, realize ,8791,1004946,366,234,222.375,346.375,242.875,404.40625,4,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,50, realize ,8843,1004998,367,234,222.375,346.375,242.875,404.40625,4,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,50, realize ,8891,1005046,401,228,222.375,346.375,242.875,404.40625,4,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,8941,1005096,487,221,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,8992,1005147,563,214,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,9041,1005196,595,214,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,9091,1005246,609,217,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,9141,1005296,613,218,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,9191,1005346,618,222,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,56, you ,9241,1005396,619,224,222.375,598.2109375,242.875,632.234375,4,7,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,56, you ,9292,1005447,621,228,222.375,598.2109375,242.875,632.234375,4,7,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,56, you ,9341,1005496,632,233,222.375,598.2109375,242.875,632.234375,4,7,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,57, go ,9391,1005546,648,235,222.375,632.234375,242.875,657.2578125,4,8,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,58," abroad,” ",9441,1005597,663,237,222.375,657.2578125,242.875,729.3046875,4,9,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,58," abroad,” ",9493,1005648,665,237,222.375,657.2578125,242.875,729.3046875,4,9,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,58," abroad,” ",9542,1005697,665,237,222.375,657.2578125,242.875,729.3046875,4,9,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,58," abroad,” ",9592,1005747,665,237,222.375,657.2578125,242.875,729.3046875,4,9,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,58," abroad,” ",9642,1005797,665,237,222.375,657.2578125,242.875,729.3046875,4,9,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,58," abroad,” ",9691,1005847,692,237,222.375,657.2578125,242.875,729.3046875,4,9,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,9741,1005896,817,242,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,9791,1005946,940,248,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,9841,1005997,979,248,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,9891,1006046,987,248,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,9940,1006096,994,248,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,9991,1006146,1003,248,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,10042,1006197,1012,246,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,10091,1006247,1027,245,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,10141,1006296,1046,244,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,10190,1006345,1061,241,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,65, public ,10241,1006396,1070,238,222.375,1024.125,242.875,1071.15625,4,16,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,10292,1006447,1074,235,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,10341,1006497,1074,235,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,10391,1006546,1058,237,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,60, Hartlauer. ,10441,1006596,807,240,222.375,767.328125,242.875,850.3828125,4,11,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,10490,1006646,619,240,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,10541,1006696,440,253,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,10591,1006747,406,259,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,10641,1006796,398,263,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,66," transport, ",10691,1006846,394,271,262.375,346.375,282.875,427.4140625,5,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,66," transport, ",10741,1006896,388,280,262.375,346.375,282.875,427.4140625,5,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,10791,1006946,374,282,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,10842,1006997,358,281,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,66," transport, ",10891,1007046,351,280,262.375,346.375,282.875,427.4140625,5,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,66," transport, ",10941,1007097,354,280,262.375,346.375,282.875,427.4140625,5,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,66," transport, ",10991,1007146,380,280,262.375,346.375,282.875,427.4140625,5,1,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,11040,1007196,442,281,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,11091,1007246,498,281,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,69, underground ,11141,1007296,529,279,262.375,494.453125,282.875,601.5390625,5,4,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,69, underground ,11191,1007346,548,277,262.375,494.453125,282.875,601.5390625,5,4,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,69, underground ,11241,1007396,563,276,262.375,494.453125,282.875,601.5390625,5,4,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,69, underground ,11291,1007447,582,275,262.375,494.453125,282.875,601.5390625,5,4,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,70, working ,11341,1007496,605,274,262.375,601.5390625,282.875,668.5703125,5,5,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,70, working ,11391,1007546,633,274,262.375,601.5390625,282.875,668.5703125,5,5,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,70, working ,11441,1007596,667,275,262.375,601.5390625,282.875,668.5703125,5,5,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,11491,1007646,686,280,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,11541,1007697,712,287,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,11591,1007746,712,287,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,11641,1007796,712,287,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,11690,1007846,712,287,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,11741,1007897,712,287,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,11792,1007947,714,287,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,74, weekends ,11841,1007997,767,276,262.375,763.640625,282.875,849.6953125,5,9,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,74, weekends ,11891,1008046,822,275,262.375,763.640625,282.875,849.6953125,5,9,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,74, weekends ,11941,1008096,845,275,262.375,763.640625,282.875,849.6953125,5,9,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,75, and ,11991,1008146,863,277,262.375,849.6953125,282.875,884.734375,5,10,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,75, and ,12041,1008196,876,277,262.375,849.6953125,282.875,884.734375,5,10,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,76, it ,12091,1008246,894,277,262.375,884.734375,282.875,898.7421875,5,11,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,77, only ,12140,1008296,919,277,262.375,898.7421875,282.875,936.765625,5,12,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,78, costs ,12191,1008347,950,277,262.375,936.765625,282.875,983.78125,5,13,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,78, costs ,12241,1008396,978,277,262.375,936.765625,282.875,983.78125,5,13,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,79, €1 ,12291,1008446,1002,280,262.375,983.78125,282.875,1012.1875,5,14,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,80, per ,12340,1008496,1019,280,262.375,1012.1875,282.875,1043.2109375,5,15,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,80, per ,12391,1008546,1036,279,262.375,1012.1875,282.875,1043.2109375,5,15,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,81, trip.” ,12441,1008596,1045,279,262.375,1043.2109375,282.875,1079.2109375,5,16,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,81, trip.” ,12491,1008647,1047,279,262.375,1043.2109375,282.875,1079.2109375,5,16,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,12541,1008696,1047,280,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,12591,1008746,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,12641,1008797,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,12691,1008846,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,12741,1008897,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,12791,1008946,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,12841,1008997,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,12891,1009047,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,12940,1009096,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,12991,1009146,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,13040,1009196,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,13091,1009246,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,13141,1009296,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,13191,1009347,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,13242,1009397,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,13292,1009447,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,13342,1009497,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,13391,1009546,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,13441,1009596,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,13491,1009646,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,26,3,26,27,-1,999,13541,1009696,1016,302,,,,,,,That Vienna is safer than other places,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
