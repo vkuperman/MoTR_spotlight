@@ -1,0 +1,263 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,3,adv,24,2,45,46,46, “Tourist ,2477,1443996,385,233,222.375,346.375,242.875,410.390625,4,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,2526,1444046,341,176,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,2577,1444096,330,158,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,2627,1444147,328,152,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,2677,1444196,331,144,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,2727,1444246,340,133,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,2776,1444296,349,121,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,1," But, ",2828,1444347,358,117,102.375,346.375,122.875,383.3984375,1,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,1," But, ",2877,1444396,368,117,102.375,346.375,122.875,383.3984375,1,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,2927,1444446,378,121,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,2977,1444496,383,122,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,2, because ,3027,1444546,398,120,102.375,383.3984375,122.875,456.453125,1,2,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,3, the ,3076,1444596,459,113,102.375,456.453125,122.875,486.4765625,1,3,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,4, island ,3128,1444647,517,112,102.375,486.4765625,122.875,538.5078125,1,4,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,6, runs ,3177,1444696,573,114,102.375,569.5078125,122.875,609.53125,1,6,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,7, on ,3227,1444747,617,115,102.375,609.53125,122.875,634.5546875,1,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,8," cash, ",3277,1444797,643,116,102.375,634.5546875,122.875,682.578125,1,8,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,8," cash, ",3327,1444846,656,117,102.375,634.5546875,122.875,682.578125,1,8,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,8," cash, ",3377,1444897,656,117,102.375,634.5546875,122.875,682.578125,1,8,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,8," cash, ",3428,1444947,656,117,102.375,634.5546875,122.875,682.578125,1,8,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,8," cash, ",3478,1444997,656,117,102.375,634.5546875,122.875,682.578125,1,8,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,8," cash, ",3528,1445047,659,117,102.375,634.5546875,122.875,682.578125,1,8,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,9, the ,3578,1445097,706,112,102.375,682.578125,122.875,712.6015625,1,9,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,10, closure ,3627,1445146,766,107,102.375,712.6015625,122.875,775.6328125,1,10,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,11, of ,3677,1445196,788,106,102.375,775.6328125,122.875,795.6484375,1,11,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,12, banks ,3727,1445247,799,107,102.375,795.6484375,122.875,848.6875,1,12,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,12, banks ,3778,1445297,801,107,102.375,795.6484375,122.875,848.6875,1,12,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,12, banks ,3828,1445348,801,107,102.375,795.6484375,122.875,848.6875,1,12,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,12, banks ,3879,1445398,801,107,102.375,795.6484375,122.875,848.6875,1,12,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,12, banks ,3927,1445447,812,107,102.375,795.6484375,122.875,848.6875,1,12,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,13, nationwide ,3977,1445496,872,110,102.375,848.6875,122.875,939.7578125,1,13,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,13, nationwide ,4028,1445547,936,110,102.375,848.6875,122.875,939.7578125,1,13,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,14, has ,4077,1445596,959,110,102.375,939.7578125,122.875,973.78125,1,14,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,15, been ,4127,1445647,974,111,102.375,973.78125,122.875,1013.828125,1,15,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,15, been ,4177,1445696,985,111,102.375,973.78125,122.875,1013.828125,1,15,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,15, been ,4228,1445747,989,111,102.375,973.78125,122.875,1013.828125,1,15,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,15, been ,4277,1445796,989,110,102.375,973.78125,122.875,1013.828125,1,15,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,14, has ,4328,1445847,966,110,102.375,939.7578125,122.875,973.78125,1,14,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,12, banks ,4378,1445897,825,110,102.375,795.6484375,122.875,848.6875,1,12,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,4427,1445946,677,110,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,4477,1445996,536,122,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,4527,1446046,495,126,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,4578,1446097,478,127,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,4628,1446147,470,127,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,4678,1446197,459,131,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,4727,1446246,434,141,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,16, devastating. ,4777,1446296,410,149,142.375,346.375,162.875,448.4453125,2,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,16, devastating. ,4827,1446346,393,153,142.375,346.375,162.875,448.4453125,2,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,16, devastating. ,4877,1446396,386,153,142.375,346.375,162.875,448.4453125,2,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,16, devastating. ,4927,1446446,386,153,142.375,346.375,162.875,448.4453125,2,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,16, devastating. ,4977,1446497,387,152,142.375,346.375,162.875,448.4453125,2,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,16, devastating. ,5026,1446546,412,152,142.375,346.375,162.875,448.4453125,2,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,17, Residents ,5077,1446596,459,152,142.375,448.4453125,162.875,533.4921875,2,2,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,17, Residents ,5128,1446647,506,152,142.375,448.4453125,162.875,533.4921875,2,2,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,18, have ,5178,1446697,534,154,142.375,533.4921875,162.875,577.53125,2,3,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,18, have ,5227,1446747,545,155,142.375,533.4921875,162.875,577.53125,2,3,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,18, have ,5277,1446796,560,156,142.375,533.4921875,162.875,577.53125,2,3,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,19, been ,5328,1446847,581,157,142.375,577.53125,162.875,622.578125,2,4,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,19, been ,5378,1446897,608,157,142.375,577.53125,162.875,622.578125,2,4,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,20, forced ,5428,1446947,645,157,142.375,622.578125,162.875,677.609375,2,5,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,21, to ,5477,1446997,680,157,142.375,677.609375,162.875,697.625,2,6,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,22, make ,5527,1447047,698,160,142.375,697.625,162.875,746.6484375,2,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,22, make ,5578,1447097,698,160,142.375,697.625,162.875,746.6484375,2,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,22, make ,5628,1447147,698,160,142.375,697.625,162.875,746.6484375,2,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,22, make ,5678,1447197,698,160,142.375,697.625,162.875,746.6484375,2,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,22, make ,5727,1447246,702,160,142.375,697.625,162.875,746.6484375,2,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,23, nine-hour ,5778,1447297,763,160,142.375,746.6484375,162.875,827.703125,2,8,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,23, nine-hour ,5827,1447347,826,160,142.375,746.6484375,162.875,827.703125,2,8,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,24, round ,5878,1447397,855,159,142.375,827.703125,162.875,878.7421875,2,9,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,24, round ,5927,1447447,870,159,142.375,827.703125,162.875,878.7421875,2,9,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,24, round ,5977,1447497,878,159,142.375,827.703125,162.875,878.7421875,2,9,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,25, trips ,6027,1447547,887,158,142.375,878.7421875,162.875,917.75,2,10,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,25, trips ,6077,1447596,900,157,142.375,878.7421875,162.875,917.75,2,10,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,25, trips ,6127,1447646,915,156,142.375,878.7421875,162.875,917.75,2,10,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,26, to ,6178,1447697,920,156,142.375,917.75,162.875,937.765625,2,11,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,26, to ,6228,1447747,920,156,142.375,917.75,162.875,937.765625,2,11,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,26, to ,6278,1447797,920,156,142.375,917.75,162.875,937.765625,2,11,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,26, to ,6327,1447846,926,156,142.375,917.75,162.875,937.765625,2,11,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,6377,1447896,945,160,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,6426,1447946,1014,165,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,6477,1447996,1037,165,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,6528,1448047,1042,163,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,6577,1448097,1043,163,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,6628,1448147,1043,163,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,6678,1448197,1043,163,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,6727,1448247,1037,163,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,6777,1448296,984,162,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,23, nine-hour ,6827,1448346,807,149,142.375,746.6484375,162.875,827.703125,2,8,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,6877,1448397,671,144,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,17, Residents ,6927,1448446,485,146,142.375,448.4453125,162.875,533.4921875,2,2,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,17, Residents ,6977,1448497,464,151,142.375,448.4453125,162.875,533.4921875,2,2,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,17, Residents ,7028,1448547,464,151,142.375,448.4453125,162.875,533.4921875,2,2,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,17, Residents ,7078,1448597,464,151,142.375,448.4453125,162.875,533.4921875,2,2,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,17, Residents ,7127,1448647,456,151,142.375,448.4453125,162.875,533.4921875,2,2,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,7176,1448696,432,157,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,7227,1448747,383,182,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,30, island ,7277,1448796,367,195,182.375,346.375,202.875,398.40625,3,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,30, island ,7327,1448847,366,197,182.375,346.375,202.875,398.40625,3,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,30, island ,7377,1448897,368,197,182.375,346.375,202.875,398.40625,3,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,30, island ,7428,1448947,373,195,182.375,346.375,202.875,398.40625,3,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,30, island ,7477,1448996,388,191,182.375,346.375,202.875,398.40625,3,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,32, get ,7527,1449047,426,186,182.375,418.421875,202.875,448.4453125,3,3,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,33, cash ,7577,1449097,469,184,182.375,448.4453125,202.875,491.46875,3,4,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,34, and ,7628,1449147,510,184,182.375,491.46875,202.875,526.5078125,3,5,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,35, Greek ,7677,1449197,545,184,182.375,526.5078125,202.875,580.53125,3,6,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,35, Greek ,7727,1449247,576,184,182.375,526.5078125,202.875,580.53125,3,6,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,36, visitors ,7777,1449297,586,184,182.375,580.53125,202.875,641.5390625,3,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,36, visitors ,7828,1449347,586,184,182.375,580.53125,202.875,641.5390625,3,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,36, visitors ,7878,1449397,586,184,182.375,580.53125,202.875,641.5390625,3,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,36, visitors ,7927,1449446,586,184,182.375,580.53125,202.875,641.5390625,3,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,36, visitors ,7977,1449497,586,184,182.375,580.53125,202.875,641.5390625,3,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,36, visitors ,8027,1449546,603,184,182.375,580.53125,202.875,641.5390625,3,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,36, visitors ,8077,1449597,638,187,182.375,580.53125,202.875,641.5390625,3,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,37, say ,8127,1449647,651,188,182.375,641.5390625,202.875,674.5546875,3,8,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,37, say ,8177,1449697,659,189,182.375,641.5390625,202.875,674.5546875,3,8,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,37, say ,8228,1449747,664,191,182.375,641.5390625,202.875,674.5546875,3,8,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,37, say ,8278,1449797,664,191,182.375,641.5390625,202.875,674.5546875,3,8,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,37, say ,8327,1449847,664,191,182.375,641.5390625,202.875,674.5546875,3,8,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,37, say ,8378,1449898,664,191,182.375,641.5390625,202.875,674.5546875,3,8,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,38, they ,8427,1449947,694,191,182.375,674.5546875,202.875,713.578125,3,9,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,40, get ,8477,1449997,772,193,182.375,756.6015625,202.875,786.625,3,11,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,41, together ,8528,1450047,817,194,182.375,786.625,202.875,857.6796875,3,12,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,41, together ,8577,1450096,823,194,182.375,786.625,202.875,857.6796875,3,12,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,41, together ,8628,1450147,823,194,182.375,786.625,202.875,857.6796875,3,12,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,41, together ,8678,1450197,823,194,182.375,786.625,202.875,857.6796875,3,12,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,41, together ,8728,1450247,823,194,182.375,786.625,202.875,857.6796875,3,12,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,41, together ,8778,1450297,829,194,182.375,786.625,202.875,857.6796875,3,12,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,42, enough ,8827,1450347,902,192,182.375,857.6796875,202.875,922.75,3,13,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,44, to ,8877,1450396,966,192,182.375,965.7734375,202.875,985.7890625,3,15,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,45, come. ,8927,1450446,993,192,182.375,985.7890625,202.875,1034.8125,3,16,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,45, come. ,8978,1450497,1002,192,182.375,985.7890625,202.875,1034.8125,3,16,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,45, come. ,9027,1450547,1010,192,182.375,985.7890625,202.875,1034.8125,3,16,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,45, come. ,9076,1450596,1025,192,182.375,985.7890625,202.875,1034.8125,3,16,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,9126,1450646,1040,192,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,9177,1450697,1048,192,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,9227,1450746,1048,192,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,9285,1450805,932,182,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,9327,1450847,674,170,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,33, cash ,9376,1450896,483,185,182.375,448.4453125,202.875,491.46875,3,4,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,9427,1450946,426,203,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,9476,1450996,401,213,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,9527,1451047,390,218,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,9577,1451097,384,220,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,9628,1451147,381,222,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,9677,1451196,379,223,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,46, “Tourist ,9727,1451246,377,226,222.375,346.375,242.875,410.390625,4,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,46, “Tourist ,9777,1451296,376,227,222.375,346.375,242.875,410.390625,4,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,46, “Tourist ,9827,1451347,376,229,222.375,346.375,242.875,410.390625,4,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,46, “Tourist ,9877,1451396,376,231,222.375,346.375,242.875,410.390625,4,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,46, “Tourist ,9927,1451446,384,233,222.375,346.375,242.875,410.390625,4,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,46, “Tourist ,9977,1451496,400,233,222.375,346.375,242.875,410.390625,4,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,47, numbers ,10027,1451546,417,233,222.375,410.390625,242.875,485.4296875,4,2,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,47, numbers ,10077,1451597,435,232,222.375,410.390625,242.875,485.4296875,4,2,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,47, numbers ,10128,1451647,452,232,222.375,410.390625,242.875,485.4296875,4,2,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,47, numbers ,10177,1451697,484,234,222.375,410.390625,242.875,485.4296875,4,2,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,49, down ,10226,1451746,526,234,222.375,516.453125,242.875,564.4921875,4,4,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,50, 80% ,10277,1451797,573,231,222.375,564.4921875,242.875,605.5234375,4,5,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,51, this ,10327,1451846,614,227,222.375,605.5234375,242.875,638.5390625,4,6,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,52," year,” ",10378,1451897,639,227,222.375,638.5390625,242.875,688.5703125,4,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,52," year,” ",10427,1451947,654,228,222.375,638.5390625,242.875,688.5703125,4,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,52," year,” ",10478,1451997,659,229,222.375,638.5390625,242.875,688.5703125,4,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,52," year,” ",10528,1452047,659,229,222.375,638.5390625,242.875,688.5703125,4,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,52," year,” ",10578,1452097,659,229,222.375,638.5390625,242.875,688.5703125,4,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,52," year,” ",10627,1452146,659,229,222.375,638.5390625,242.875,688.5703125,4,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,52," year,” ",10677,1452196,664,229,222.375,638.5390625,242.875,688.5703125,4,7,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,53, said ,10727,1452246,712,228,222.375,688.5703125,242.875,726.59375,4,8,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,55, Maria ,10776,1452296,791,229,222.375,781.609375,242.875,831.625,4,10,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,56," Kakali, ",10827,1452347,833,231,222.375,831.625,242.875,890.65625,4,11,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,56," Kakali, ",10877,1452396,851,231,222.375,831.625,242.875,890.65625,4,11,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,56," Kakali, ",10927,1452447,861,231,222.375,831.625,242.875,890.65625,4,11,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,56," Kakali, ",10977,1452496,861,231,222.375,831.625,242.875,890.65625,4,11,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,56," Kakali, ",11027,1452547,861,231,222.375,831.625,242.875,890.65625,4,11,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,56," Kakali, ",11078,1452597,861,231,222.375,831.625,242.875,890.65625,4,11,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,57, in ,11127,1452646,893,237,222.375,890.65625,242.875,909.671875,4,12,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,11178,1452697,963,250,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,11227,1452746,1008,253,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,11277,1452796,1027,252,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,11326,1452846,1036,251,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,11377,1452897,1044,247,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,11427,1452947,1053,241,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,62, village ,11478,1452997,1062,236,222.375,1031.7578125,242.875,1082.7890625,4,17,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,62, village ,11527,1453046,1067,234,222.375,1031.7578125,242.875,1082.7890625,4,17,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,62, village ,11576,1453096,1064,234,222.375,1031.7578125,242.875,1082.7890625,4,17,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,11626,1453146,998,249,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,11677,1453197,830,268,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,11727,1453247,533,291,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,11778,1453297,398,298,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,11826,1453346,352,303,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,80, who ,11877,1453396,348,304,302.375,346.375,322.875,384.3984375,6,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,11927,1453446,348,304,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,11977,1453497,348,304,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,12027,1453547,347,302,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,12078,1453597,346,294,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,12126,1453646,346,289,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,12177,1453696,357,284,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,12227,1453746,386,281,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,65, grew ,12277,1453797,440,281,262.375,434.4296875,282.875,478.4453125,5,3,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,12327,1453846,500,281,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,12376,1453896,579,281,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,12427,1453947,639,285,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,12476,1453996,684,286,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,12527,1454047,708,285,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,12577,1454097,721,282,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,71, people. ,12627,1454147,735,279,262.375,674.609375,282.875,738.6640625,5,9,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,72, “Even ,12677,1454196,753,276,262.375,738.6640625,282.875,790.6875,5,10,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,72, “Even ,12726,1454246,771,276,262.375,738.6640625,282.875,790.6875,5,10,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,72, “Even ,12778,1454297,786,276,262.375,738.6640625,282.875,790.6875,5,10,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,72, “Even ,12827,1454347,788,276,262.375,738.6640625,282.875,790.6875,5,10,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,72, “Even ,12878,1454398,788,276,262.375,738.6640625,282.875,790.6875,5,10,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,72, “Even ,12928,1454448,788,276,262.375,738.6640625,282.875,790.6875,5,10,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,72, “Even ,12976,1454496,788,276,262.375,738.6640625,282.875,790.6875,5,10,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,73, people ,13027,1454547,822,276,262.375,790.6875,282.875,849.7421875,5,11,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,75, here ,13077,1454596,910,278,262.375,890.7734375,282.875,931.8046875,5,13,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,76, and ,13127,1454647,961,278,262.375,931.8046875,282.875,966.84375,5,14,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,77, living ,13177,1454696,990,278,262.375,966.84375,282.875,1012.8671875,5,15,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,77, living ,13227,1454747,1007,280,262.375,966.84375,282.875,1012.8671875,5,15,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,78, in ,13277,1454796,1019,280,262.375,1012.8671875,282.875,1031.390625,5,16,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,78, in ,13327,1454847,1029,279,262.375,1012.8671875,282.875,1031.390625,5,16,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,79," Athens, ",13377,1454897,1038,277,262.375,1031.390625,282.875,1091.9453125,5,17,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,79," Athens, ",13427,1454947,1043,277,262.375,1031.390625,282.875,1091.9453125,5,17,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,78, in ,13477,1454996,1028,274,262.375,1012.8671875,282.875,1031.390625,5,16,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,13526,1455046,861,252,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,13577,1455096,612,244,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,65, grew ,13627,1455147,461,266,262.375,434.4296875,282.875,478.4453125,5,3,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,13676,1455196,414,280,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,13727,1455246,356,294,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,13776,1455296,338,296,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,13827,1455346,334,298,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,13877,1455397,334,300,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,80, who ,13927,1455447,353,306,302.375,346.375,322.875,384.3984375,6,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,80, who ,13977,1455497,379,310,302.375,346.375,322.875,384.3984375,6,1,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,81, have ,14027,1455546,396,312,302.375,384.3984375,322.875,428.4375,6,2,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,81, have ,14076,1455596,402,312,302.375,384.3984375,322.875,428.4375,6,2,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,81, have ,14127,1455646,407,312,302.375,384.3984375,322.875,428.4375,6,2,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,81, have ,14177,1455697,412,312,302.375,384.3984375,322.875,428.4375,6,2,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,81, have ,14228,1455747,425,312,302.375,384.3984375,322.875,428.4375,6,2,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,83, own ,14278,1455797,485,312,302.375,468.4609375,322.875,506.484375,6,4,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,85, on ,14327,1455847,574,315,302.375,563.5234375,322.875,588.546875,6,6,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,87," island, ",14376,1455896,630,311,302.375,618.5703125,322.875,675.609375,6,8,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,87," island, ",14427,1455946,658,310,302.375,618.5703125,322.875,675.609375,6,8,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,87," island, ",14477,1455997,674,310,302.375,618.5703125,322.875,675.609375,6,8,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,88, aren’t ,14527,1456047,683,310,302.375,675.609375,322.875,725.640625,6,9,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,88, aren’t ,14577,1456096,698,312,302.375,675.609375,322.875,725.640625,6,9,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,88, aren’t ,14626,1456146,716,316,302.375,675.609375,322.875,725.640625,6,9,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,89, coming.” ,14677,1456197,729,321,302.375,725.640625,322.875,794.6640625,6,10,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,89, coming.” ,14728,1456247,730,321,302.375,725.640625,322.875,794.6640625,6,10,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,89, coming.” ,14777,1456297,730,321,302.375,725.640625,322.875,794.6640625,6,10,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,89, coming.” ,14828,1456347,730,321,302.375,725.640625,322.875,794.6640625,6,10,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,89, coming.” ,14878,1456397,730,321,302.375,725.640625,322.875,794.6640625,6,10,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,14926,1456446,745,334,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,14977,1456497,754,347,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,15027,1456547,754,347,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,15077,1456596,754,347,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,15126,1456646,754,347,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,15176,1456696,754,347,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,15227,1456747,754,347,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,15277,1456796,754,347,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,15327,1456847,754,347,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,15376,1456896,754,347,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,15427,1456947,754,347,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,15477,1456997,754,347,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,24,2,45,46,-1,999,15528,1457047,754,347,,,,,,,To a bigger neighboring island,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
