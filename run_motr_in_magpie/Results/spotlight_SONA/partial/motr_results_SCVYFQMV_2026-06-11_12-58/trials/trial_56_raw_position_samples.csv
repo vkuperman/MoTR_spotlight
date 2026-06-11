@@ -1,0 +1,326 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,2615,1733860,657,344,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,2662,1733906,657,344,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,2702,1733946,657,344,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,2751,1733996,657,344,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,2801,1734046,657,344,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,2852,1734097,657,344,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,2903,1734147,657,344,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,2952,1734197,657,344,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,3001,1734246,657,344,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,3051,1734296,657,344,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,3101,1734346,657,344,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,3151,1734396,657,344,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,3201,1734446,657,344,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,3251,1734496,302,78,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,3302,1734547,323,98,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,1, Robert ,3352,1734596,345,106,102.375,346.375,122.875,405.40625,1,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,1, Robert ,3402,1734646,360,112,102.375,346.375,122.875,405.40625,1,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,3453,1734698,390,124,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,3501,1734746,412,131,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,3552,1734797,438,130,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,3601,1734846,438,130,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,3651,1734896,438,130,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,3703,1734947,438,130,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,3751,1734996,442,130,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,3804,1735048,531,129,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,3853,1735097,590,134,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,3903,1735147,610,136,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,3952,1735197,614,136,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,4003,1735247,614,136,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,4052,1735296,614,136,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,4101,1735346,614,136,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,4153,1735397,632,131,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,4203,1735447,683,122,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,7, paw ,4253,1735497,706,119,102.375,686.5625,122.875,724.5859375,1,7,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,7, paw ,4303,1735548,715,119,102.375,686.5625,122.875,724.5859375,1,7,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,7, paw ,4352,1735596,716,119,102.375,686.5625,122.875,724.5859375,1,7,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,7, paw ,4403,1735648,716,119,102.375,686.5625,122.875,724.5859375,1,7,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,7, paw ,4453,1735698,716,119,102.375,686.5625,122.875,724.5859375,1,7,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,8, prints ,4503,1735747,735,119,102.375,724.5859375,122.875,773.609375,1,8,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,4553,1735798,790,120,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,4603,1735848,910,124,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,12, mountain ,4653,1735897,932,116,102.375,872.6796875,122.875,951.734375,1,12,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,12, mountain ,4703,1735947,947,112,102.375,872.6796875,122.875,951.734375,1,12,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,13," track, ",4753,1735997,957,111,102.375,951.734375,122.875,1000.7421875,1,13,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,13," track, ",4801,1736046,966,110,102.375,951.734375,122.875,1000.7421875,1,13,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,13," track, ",4853,1736097,994,112,102.375,951.734375,122.875,1000.7421875,1,13,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,14, the ,4903,1736147,1016,113,102.375,1000.7421875,122.875,1025.765625,1,14,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,14, the ,4952,1736196,1025,113,102.375,1000.7421875,122.875,1025.765625,1,14,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,5002,1736247,1032,113,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,13," track, ",5053,1736298,993,113,102.375,951.734375,122.875,1000.7421875,1,13,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,5103,1736348,747,96,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,5151,1736396,522,96,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,5201,1736446,410,102,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,1, Robert ,5251,1736496,377,108,102.375,346.375,122.875,405.40625,1,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,1, Robert ,5302,1736546,368,113,102.375,346.375,122.875,405.40625,1,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,1, Robert ,5351,1736596,360,116,102.375,346.375,122.875,405.40625,1,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,1, Robert ,5401,1736646,358,118,102.375,346.375,122.875,405.40625,1,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,5453,1736698,373,134,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,5503,1736747,389,141,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,15, scientist ,5553,1736797,411,148,142.375,346.375,162.875,416.3984375,2,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,16, finds ,5603,1736847,445,154,142.375,416.3984375,162.875,459.421875,2,2,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,17, what ,5653,1736897,482,155,142.375,459.421875,162.875,502.4453125,2,3,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,18, he ,5703,1736947,519,154,142.375,502.4453125,162.875,527.46875,2,4,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,20, looking ,5753,1736998,554,155,142.375,545.46875,162.875,607.515625,2,6,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,5803,1737048,587,161,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,5852,1737097,600,162,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,5902,1737147,600,162,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,5952,1737197,600,162,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,6002,1737247,600,162,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,6053,1737298,628,162,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,22, “Droppings!” ,6101,1737346,680,158,142.375,637.5390625,162.875,741.578125,2,8,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,24, enthuses. ,6153,1737398,773,148,142.375,766.6015625,162.875,849.6640625,2,10,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,24, enthuses. ,6203,1737447,800,148,142.375,766.6015625,162.875,849.6640625,2,10,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,24, enthuses. ,6251,1737496,817,150,142.375,766.6015625,162.875,849.6640625,2,10,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,24, enthuses. ,6302,1737546,828,154,142.375,766.6015625,162.875,849.6640625,2,10,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,24, enthuses. ,6352,1737596,828,154,142.375,766.6015625,162.875,849.6640625,2,10,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,24, enthuses. ,6403,1737647,828,154,142.375,766.6015625,162.875,849.6640625,2,10,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,24, enthuses. ,6452,1737696,828,154,142.375,766.6015625,162.875,849.6640625,2,10,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,25, Wolf ,6504,1737748,858,157,142.375,849.6640625,162.875,890.3515625,2,11,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,6551,1737796,927,166,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,6601,1737846,978,166,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,6653,1737898,1015,166,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,6703,1737947,1033,165,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,6751,1737996,1044,163,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,30, that ,6803,1738047,1065,159,142.375,1058.453125,162.875,1088.4765625,2,16,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,30, that ,6853,1738097,1075,157,142.375,1058.453125,162.875,1088.4765625,2,16,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,30, that ,6903,1738147,1082,157,142.375,1058.453125,162.875,1088.4765625,2,16,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,30, that ,6952,1738197,1084,158,142.375,1058.453125,162.875,1088.4765625,2,16,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,7002,1738247,1083,159,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,24, enthuses. ,7052,1738297,838,160,142.375,766.6015625,162.875,849.6640625,2,10,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,22, “Droppings!” ,7101,1738346,675,159,142.375,637.5390625,162.875,741.578125,2,8,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,7153,1738397,473,162,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,7202,1738447,421,173,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,7251,1738496,401,181,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,31, the ,7303,1738548,370,196,182.375,346.375,202.875,376.3984375,3,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,7353,1738597,358,200,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,7402,1738647,333,202,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,7452,1738697,328,201,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,7501,1738746,327,201,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,7552,1738797,337,198,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,32, sighting ,7603,1738848,392,193,182.375,376.3984375,202.875,443.4453125,3,2,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,33, of ,7652,1738896,454,189,182.375,443.4453125,202.875,463.4609375,3,3,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,35, feces ,7703,1738947,528,188,182.375,503.484375,202.875,551.5078125,3,5,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,36, marks ,7752,1738996,552,189,182.375,551.5078125,202.875,605.5078125,3,6,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,36, marks ,7803,1739048,596,191,182.375,551.5078125,202.875,605.5078125,3,6,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,38, good ,7853,1739098,630,191,182.375,620.5234375,202.875,665.5703125,3,8,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,7903,1739148,690,201,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,7953,1739198,715,204,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,8002,1739247,715,204,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,8052,1739297,715,204,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,8102,1739346,715,204,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,8151,1739396,715,204,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,8203,1739448,726,203,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,41, for ,8253,1739498,766,198,182.375,747.3125,202.875,773.3203125,3,11,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,43, seasoned ,8301,1739546,801,195,182.375,788.3359375,202.875,871.40625,3,13,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,43, seasoned ,8352,1739596,841,195,182.375,788.3359375,202.875,871.40625,3,13,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,43, seasoned ,8403,1739648,864,195,182.375,788.3359375,202.875,871.40625,3,13,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,43, seasoned ,8452,1739696,864,195,182.375,788.3359375,202.875,871.40625,3,13,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,43, seasoned ,8502,1739746,864,195,182.375,788.3359375,202.875,871.40625,3,13,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,43, seasoned ,8553,1739797,864,195,182.375,788.3359375,202.875,871.40625,3,13,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,44, tracker. ,8603,1739848,887,195,182.375,871.40625,202.875,935.4375,3,14,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,45, But ,8653,1739898,942,196,182.375,935.4375,202.875,967.4609375,3,15,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,46, it ,8702,1739946,978,196,182.375,967.4609375,202.875,981.46875,3,16,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,47, is ,8752,1739996,998,194,182.375,981.46875,202.875,999.46875,3,17,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,48, getting ,8803,1740048,1009,191,182.375,999.46875,202.875,1053.515625,3,18,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,48, getting ,8853,1740098,1013,191,182.375,999.46875,202.875,1053.515625,3,18,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,48, getting ,8903,1740148,1010,192,182.375,999.46875,202.875,1053.515625,3,18,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,8953,1740198,848,177,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,9001,1740246,611,169,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,32, sighting ,9052,1740296,429,187,182.375,376.3984375,202.875,443.4453125,3,2,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,9103,1740348,372,208,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,9153,1740397,360,214,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,9203,1740447,352,221,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,49, easier. ,9252,1740497,348,225,222.375,346.375,242.875,404.265625,4,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,49, easier. ,9301,1740546,350,230,222.375,346.375,242.875,404.265625,4,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,49, easier. ,9353,1740597,373,241,222.375,346.375,242.875,404.265625,4,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,9401,1740646,378,243,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,9451,1740696,379,243,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,9510,1740755,379,243,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,9553,1740798,391,243,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,9601,1740846,430,243,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,9652,1740897,506,247,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,9701,1740946,548,250,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,9751,1740996,597,251,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,9802,1741047,634,251,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,9851,1741096,649,251,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,9903,1741148,663,249,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,9953,1741197,673,243,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,56, wolves ,10001,1741246,684,235,222.375,683.2890625,242.875,743.3125,4,8,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,56, wolves ,10053,1741297,712,227,222.375,683.2890625,242.875,743.3125,4,8,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,56, wolves ,10103,1741348,725,227,222.375,683.2890625,242.875,743.3125,4,8,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,56, wolves ,10151,1741396,725,227,222.375,683.2890625,242.875,743.3125,4,8,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,56, wolves ,10202,1741446,725,227,222.375,683.2890625,242.875,743.3125,4,8,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,56, wolves ,10253,1741498,725,227,222.375,683.2890625,242.875,743.3125,4,8,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,56, wolves ,10303,1741547,725,227,222.375,683.2890625,242.875,743.3125,4,8,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,57, in ,10353,1741598,745,227,222.375,743.3125,242.875,762.328125,4,9,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,58, Poland. ,10402,1741646,823,226,222.375,762.328125,242.875,828.2265625,4,10,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,10453,1741698,904,219,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,10503,1741747,921,218,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,10553,1741798,938,221,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,61, has ,10601,1741846,947,226,222.375,930.125,242.875,964.1484375,4,13,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,61, has ,10653,1741897,963,230,222.375,930.125,242.875,964.1484375,4,13,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,62, doubled ,10702,1741947,978,236,222.375,964.1484375,242.875,1033.21875,4,14,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,62, doubled ,10751,1741996,989,238,222.375,964.1484375,242.875,1033.21875,4,14,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,62, doubled ,10801,1742046,1007,238,222.375,964.1484375,242.875,1033.21875,4,14,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,63, in ,10853,1742097,1037,233,222.375,1033.21875,242.875,1052.234375,4,15,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,64, 15 ,10903,1742147,1061,231,222.375,1052.234375,242.875,1072.2578125,4,16,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,64, 15 ,10951,1742196,1069,231,222.375,1052.234375,242.875,1072.2578125,4,16,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,64, 15 ,11002,1742246,1072,232,222.375,1052.234375,242.875,1072.2578125,4,16,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,64, 15 ,11053,1742298,1055,234,222.375,1052.234375,242.875,1072.2578125,4,16,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,11103,1742348,942,223,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,11151,1742396,785,215,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,11202,1742447,573,230,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,66, Wolves ,11253,1742497,461,264,262.375,400.3984375,282.875,464.09375,5,2,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,66, Wolves ,11303,1742547,425,268,262.375,400.3984375,282.875,464.09375,5,2,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,66, Wolves ,11353,1742598,401,271,262.375,400.3984375,282.875,464.09375,5,2,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,65, years. ,11403,1742648,381,272,262.375,346.375,282.875,400.3984375,5,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,65, years. ,11453,1742698,372,274,262.375,346.375,282.875,400.3984375,5,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,65, years. ,11501,1742746,370,274,262.375,346.375,282.875,400.3984375,5,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,65, years. ,11551,1742796,375,274,262.375,346.375,282.875,400.3984375,5,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,66, Wolves ,11602,1742846,405,270,262.375,400.3984375,282.875,464.09375,5,2,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,66, Wolves ,11653,1742898,464,265,262.375,400.3984375,282.875,464.09375,5,2,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,68, – ,11702,1742946,503,265,262.375,495.1171875,282.875,510.1328125,5,4,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,70, with ,11753,1742998,562,270,262.375,559.1796875,282.875,596.1953125,5,6,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,70, with ,11803,1743048,572,270,262.375,559.1796875,282.875,596.1953125,5,6,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,70, with ,11853,1743098,586,269,262.375,559.1796875,282.875,596.1953125,5,6,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,71, the ,11903,1743148,601,267,262.375,596.1953125,282.875,626.21875,5,7,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,71, the ,11953,1743198,615,265,262.375,596.1953125,282.875,626.21875,5,7,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,71, the ,12002,1743246,618,265,262.375,596.1953125,282.875,626.21875,5,7,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,71, the ,12052,1743297,618,265,262.375,596.1953125,282.875,626.21875,5,7,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,71, the ,12103,1743348,618,265,262.375,596.1953125,282.875,626.21875,5,7,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,72, brown ,12154,1743398,634,265,262.375,626.21875,282.875,680.25,5,8,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,73," bear, ",12203,1743448,718,265,262.375,680.25,282.875,725.296875,5,9,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,12254,1743499,791,261,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,12303,1743548,807,259,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,12351,1743596,807,259,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,12402,1743646,807,259,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,12452,1743697,807,259,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,12502,1743747,807,259,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,12553,1743798,816,259,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,12603,1743848,867,263,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,12653,1743898,909,263,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,12703,1743948,923,261,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,12753,1743997,935,261,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,12802,1744047,958,261,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,80, Europe’s ,12852,1744097,988,269,262.375,953.453125,282.875,1029.1796875,5,16,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,80, Europe’s ,12902,1744147,1013,274,262.375,953.453125,282.875,1029.1796875,5,16,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,80, Europe’s ,12952,1744196,1023,274,262.375,953.453125,282.875,1029.1796875,5,16,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,81, last ,13001,1744246,1037,274,262.375,1029.1796875,282.875,1057.1953125,5,17,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,81, last ,13052,1744297,1048,274,262.375,1029.1796875,282.875,1057.1953125,5,17,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,81, last ,13103,1744348,1055,274,262.375,1029.1796875,282.875,1057.1953125,5,17,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,81, last ,13153,1744398,1056,274,262.375,1029.1796875,282.875,1057.1953125,5,17,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,81, last ,13201,1744445,1055,274,262.375,1029.1796875,282.875,1057.1953125,5,17,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,13252,1744497,937,264,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,72, brown ,13301,1744546,677,274,262.375,626.21875,282.875,680.25,5,8,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,84, carnivores. ,13351,1744596,500,308,302.375,463.453125,322.875,556.4921875,6,3,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,13401,1744646,433,327,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,13451,1744696,415,330,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,13502,1744747,401,330,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,13551,1744796,387,326,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,82, large ,13602,1744847,366,318,302.375,346.375,322.875,391.40625,6,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,82, large ,13652,1744897,350,312,302.375,346.375,322.875,391.40625,6,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,13702,1744946,341,311,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,13752,1744997,338,311,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,13801,1745046,338,311,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,13851,1745096,346,310,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,82, large ,13903,1745148,387,309,302.375,346.375,322.875,391.40625,6,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,83, predator ,13951,1745196,422,309,302.375,391.40625,322.875,463.453125,6,2,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,83, predator ,14002,1745246,461,309,302.375,391.40625,322.875,463.453125,6,2,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,84, carnivores. ,14053,1745298,500,315,302.375,463.453125,322.875,556.4921875,6,3,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,84, carnivores. ,14102,1745346,517,315,302.375,463.453125,322.875,556.4921875,6,3,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,84, carnivores. ,14153,1745398,549,315,302.375,463.453125,322.875,556.4921875,6,3,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,85, Conservationists ,14202,1745446,569,315,302.375,556.4921875,322.875,694.5546875,6,4,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,85, Conservationists ,14252,1745496,602,316,302.375,556.4921875,322.875,694.5546875,6,4,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,85, Conservationists ,14302,1745546,621,319,302.375,556.4921875,322.875,694.5546875,6,4,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,85, Conservationists ,14353,1745598,624,320,302.375,556.4921875,322.875,694.5546875,6,4,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,85, Conservationists ,14402,1745647,624,320,302.375,556.4921875,322.875,694.5546875,6,4,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,85, Conservationists ,14453,1745697,624,320,302.375,556.4921875,322.875,694.5546875,6,4,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,85, Conservationists ,14503,1745747,624,320,302.375,556.4921875,322.875,694.5546875,6,4,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,85, Conservationists ,14552,1745796,645,319,302.375,556.4921875,322.875,694.5546875,6,4,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,87," Britain, ",14603,1745848,770,315,302.375,735.5625,322.875,796.5859375,6,6,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,88, Germany ,14653,1745898,819,321,302.375,796.5859375,322.875,875.609375,6,7,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,14701,1745946,833,325,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,14753,1745998,853,330,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,14803,1746048,863,330,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,14851,1746096,873,325,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,89, and ,14901,1746146,893,312,302.375,875.609375,322.875,910.6484375,6,8,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,90, the ,14953,1746198,922,308,302.375,910.6484375,322.875,940.671875,6,9,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,91, Netherlands ,15003,1746248,943,314,302.375,940.671875,322.875,1042.734375,6,10,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,91, Netherlands ,15052,1746296,948,315,302.375,940.671875,322.875,1042.734375,6,10,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,91, Netherlands ,15102,1746347,948,315,302.375,940.671875,322.875,1042.734375,6,10,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,91, Netherlands ,15153,1746398,948,315,302.375,940.671875,322.875,1042.734375,6,10,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,91, Netherlands ,15201,1746446,948,315,302.375,940.671875,322.875,1042.734375,6,10,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,91, Netherlands ,15252,1746496,967,316,302.375,940.671875,322.875,1042.734375,6,10,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,91, Netherlands ,15303,1746548,1023,319,302.375,940.671875,322.875,1042.734375,6,10,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,91, Netherlands ,15352,1746596,1035,319,302.375,940.671875,322.875,1042.734375,6,10,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,91, Netherlands ,15402,1746647,1040,318,302.375,940.671875,322.875,1042.734375,6,10,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,15453,1746698,1037,318,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,15503,1746748,789,327,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,15553,1746798,510,330,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,15601,1746846,415,343,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,93, beating ,15652,1746896,374,349,342.375,346.375,362.875,410.4296875,7,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,93, beating ,15702,1746946,364,349,342.375,346.375,362.875,410.4296875,7,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,93, beating ,15752,1746996,359,349,342.375,346.375,362.875,410.4296875,7,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,93, beating ,15803,1747048,349,351,342.375,346.375,362.875,410.4296875,7,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,15851,1747096,346,352,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,93, beating ,15902,1747146,367,349,342.375,346.375,362.875,410.4296875,7,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,94, a ,15952,1747196,422,346,342.375,410.4296875,362.875,425.4453125,7,2,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,96, here ,16002,1747246,474,346,342.375,465.484375,362.875,506.515625,7,4,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,97, to ,16052,1747296,517,348,342.375,506.515625,362.875,526.53125,7,5,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,99, out ,16102,1747347,586,348,342.375,560.5546875,362.875,590.578125,7,7,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,100, how ,16152,1747396,610,347,342.375,590.578125,362.875,628.6015625,7,8,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,101, Poland ,16202,1747446,635,346,342.375,628.6015625,362.875,689.65625,7,9,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,101, Poland ,16252,1747496,645,347,342.375,628.6015625,362.875,689.65625,7,9,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,101, Poland ,16302,1747547,645,347,342.375,628.6015625,362.875,689.65625,7,9,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,101, Poland ,16353,1747598,645,347,342.375,628.6015625,362.875,689.65625,7,9,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,101, Poland ,16403,1747648,663,347,342.375,628.6015625,362.875,689.65625,7,9,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,102, has ,16452,1747696,713,347,342.375,689.65625,362.875,723.6796875,7,10,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,104, this ,16502,1747746,800,348,342.375,776.71875,362.875,809.734375,7,12,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,105, protected ,16553,1747798,835,352,342.375,809.734375,362.875,889.7890625,7,13,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,105, protected ,16602,1747847,838,353,342.375,809.734375,362.875,889.7890625,7,13,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,105, protected ,16652,1747897,838,353,342.375,809.734375,362.875,889.7890625,7,13,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,105, protected ,16702,1747947,838,353,342.375,809.734375,362.875,889.7890625,7,13,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,105, protected ,16753,1747998,838,353,342.375,809.734375,362.875,889.7890625,7,13,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,106," species, ",16803,1748048,893,359,342.375,889.7890625,362.875,960.828125,7,14,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,16853,1748098,971,367,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,16901,1748146,993,367,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,16953,1748197,1020,365,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,17001,1748246,1028,363,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,107, slandered ,17052,1748296,1041,358,342.375,960.828125,362.875,1044.890625,7,15,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,108, even ,17102,1748346,1050,357,342.375,1044.890625,362.875,1083.9296875,7,16,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,108, even ,17153,1748398,1055,358,342.375,1044.890625,362.875,1083.9296875,7,16,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,108, even ,17202,1748446,1056,359,342.375,1044.890625,362.875,1083.9296875,7,16,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,17251,1748496,1013,364,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,17301,1748546,807,364,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,17353,1748598,533,367,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,17401,1748646,479,380,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,111, tales. ,17453,1748698,436,391,382.375,404.3984375,402.875,447.421875,8,3,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,111, tales. ,17502,1748746,405,391,382.375,404.3984375,402.875,447.421875,8,3,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,110, fairy ,17552,1748796,368,394,382.375,365.390625,402.875,404.3984375,8,2,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,17603,1748848,343,402,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,17653,1748897,334,403,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,17701,1748946,333,403,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,17751,1748996,337,402,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,109, in ,17802,1749046,361,400,382.375,346.375,402.875,365.390625,8,1,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,110, fairy ,17853,1749098,382,400,382.375,365.390625,402.875,404.3984375,8,2,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,17901,1749146,396,401,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,17952,1749197,463,406,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,18001,1749246,515,407,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,18051,1749296,601,427,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,18101,1749346,601,427,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,18152,1749397,601,427,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,18202,1749447,601,427,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,18251,1749496,601,427,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,18302,1749547,601,427,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,18352,1749597,601,427,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,18402,1749647,601,427,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,18451,1749696,601,427,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,18501,1749746,601,427,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,18552,1749796,601,427,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,18602,1749847,601,427,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,18652,1749897,601,427,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,18702,1749947,601,427,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,18751,1749996,601,427,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,3,adv,19,1,55,56,-1,999,18801,1750046,601,427,,,,,,,To learn how wolves were saved in Poland,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
