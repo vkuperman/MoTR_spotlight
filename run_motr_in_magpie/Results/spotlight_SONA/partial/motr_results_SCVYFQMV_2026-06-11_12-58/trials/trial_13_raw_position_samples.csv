@@ -1,0 +1,315 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,2,int,7,1,12,13,54, been ,1186,662097,419,228,222.375,390.4140625,242.875,435.4609375,4,2,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,17, anyone ,1234,662146,373,154,142.375,346.375,162.875,410.4296875,2,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,1285,662197,364,139,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,1335,662247,364,133,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,1385,662297,364,125,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,1, When ,1436,662347,367,119,102.375,346.375,122.875,398.3984375,1,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,1, When ,1485,662397,369,117,102.375,346.375,122.875,398.3984375,1,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,1, When ,1536,662447,356,117,102.375,346.375,122.875,398.3984375,1,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,1585,662497,342,117,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,1635,662547,339,117,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,1685,662597,339,118,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,1735,662647,339,118,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,1785,662697,339,118,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,1, When ,1835,662747,375,116,102.375,346.375,122.875,398.3984375,1,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,3, Pizzi ,1885,662797,482,109,102.375,444.4140625,122.875,487.421875,1,3,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,5, heard ,1936,662847,536,109,102.375,521.421875,122.875,572.4609375,1,5,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,5, heard ,1985,662897,556,111,102.375,521.421875,122.875,572.4609375,1,5,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,5, heard ,2034,662946,564,113,102.375,521.421875,122.875,572.4609375,1,5,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,5, heard ,2084,662996,571,116,102.375,521.421875,122.875,572.4609375,1,5,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,6, about ,2135,663047,577,116,102.375,572.4609375,122.875,622.5078125,1,6,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,6, about ,2186,663097,597,116,102.375,572.4609375,122.875,622.5078125,1,6,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,7, electric ,2235,663147,653,116,102.375,622.5078125,122.875,684.5234375,1,7,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,8, bikes ,2286,663197,694,116,102.375,684.5234375,122.875,731.546875,1,8,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,8, bikes ,2336,663247,697,116,102.375,684.5234375,122.875,731.546875,1,8,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,8, bikes ,2385,663296,697,116,102.375,684.5234375,122.875,731.546875,1,8,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,8, bikes ,2435,663347,697,116,102.375,684.5234375,122.875,731.546875,1,8,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,8, bikes ,2485,663396,697,116,102.375,684.5234375,122.875,731.546875,1,8,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,8, bikes ,2535,663447,719,114,102.375,684.5234375,122.875,731.546875,1,8,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,9, nearly ,2585,663497,783,112,102.375,731.546875,122.875,785.578125,1,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,11, years ,2635,663547,820,111,102.375,810.6015625,122.875,859.625,1,11,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,11, years ,2685,663597,830,111,102.375,810.6015625,122.875,859.625,1,11,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,11, years ,2735,663647,839,110,102.375,810.6015625,122.875,859.625,1,11,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,11, years ,2785,663697,855,108,102.375,810.6015625,122.875,859.625,1,11,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,12," ago, ",2836,663748,885,107,102.375,859.625,122.875,899.6640625,1,12,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,14, asked: ,2886,663797,935,111,102.375,924.6875,122.875,982.7265625,1,14,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,14, asked: ,2935,663847,973,117,102.375,924.6875,122.875,982.7265625,1,14,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,15, “Why ,2985,663897,992,120,102.375,982.7265625,122.875,1029.7265625,1,15,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,3035,663947,999,121,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,3085,663997,1006,121,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,3134,664045,1007,121,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,15, “Why ,3184,664096,1008,120,102.375,982.7265625,122.875,1029.7265625,1,15,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,3235,664147,998,120,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,3284,664195,918,121,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,3334,664246,617,133,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,3384,664296,484,138,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,3435,664347,439,139,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,3485,664397,433,139,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,3534,664446,423,139,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,17, anyone ,3585,664497,393,146,142.375,346.375,162.875,410.4296875,2,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,17, anyone ,3634,664546,379,150,142.375,346.375,162.875,410.4296875,2,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,17, anyone ,3686,664597,367,153,142.375,346.375,162.875,410.4296875,2,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,17, anyone ,3734,664646,367,153,142.375,346.375,162.875,410.4296875,2,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,17, anyone ,3785,664697,385,153,142.375,346.375,162.875,410.4296875,2,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,19, to ,3836,664748,458,150,142.375,453.453125,162.875,473.46875,2,3,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,22, a ,3885,664797,552,146,142.375,550.5,162.875,565.515625,2,6,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,3936,664848,625,144,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,3985,664897,649,144,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,25, putting ,4035,664946,653,146,142.375,627.5546875,162.875,686.6015625,2,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,25, putting ,4085,664997,653,147,142.375,627.5546875,162.875,686.6015625,2,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,25, putting ,4136,665048,653,147,142.375,627.5546875,162.875,686.6015625,2,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,25, putting ,4186,665097,653,147,142.375,627.5546875,162.875,686.6015625,2,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,25, putting ,4235,665146,653,147,142.375,627.5546875,162.875,686.6015625,2,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,25, putting ,4286,665197,653,147,142.375,627.5546875,162.875,686.6015625,2,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,25, putting ,4336,665247,680,147,142.375,627.5546875,162.875,686.6015625,2,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,27, motor ,4385,665297,731,145,142.375,701.6171875,162.875,752.6328125,2,11,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,4436,665347,765,142,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,4484,665396,778,140,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,4534,665446,795,140,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,4585,665497,815,138,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,4636,665547,838,138,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,4686,665597,858,138,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,4735,665647,864,138,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,4784,665696,864,138,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,4834,665746,864,138,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,4887,665799,864,138,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,4936,665847,903,141,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,33, a ,4986,665897,950,148,142.375,944.4296875,162.875,959.4453125,2,17,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,34, question ,5036,665947,980,151,142.375,959.4453125,162.875,1032.5,2,18,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,34, question ,5086,665997,995,152,142.375,959.4453125,162.875,1032.5,2,18,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,34, question ,5135,666047,1010,154,142.375,959.4453125,162.875,1032.5,2,18,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,34, question ,5186,666097,1022,155,142.375,959.4453125,162.875,1032.5,2,18,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,34, question ,5235,666147,1031,154,142.375,959.4453125,162.875,1032.5,2,18,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,35, that ,5284,666196,1034,154,142.375,1032.5,162.875,1067.53125,2,19,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,34, question ,5336,666248,1027,153,142.375,959.4453125,162.875,1032.5,2,18,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,31, it?” ,5386,666297,900,153,142.375,886.734375,162.875,916.7421875,2,15,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,43, the ,5435,666347,673,193,182.375,659.5625,202.875,689.5859375,3,7,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,5485,666397,532,215,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,5535,666447,476,216,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,5585,666497,448,213,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,5634,666546,426,212,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,5685,666597,392,211,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,5735,666647,378,205,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,37, puzzles ,5785,666697,373,200,182.375,346.375,202.875,412.4140625,3,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,37, puzzles ,5835,666747,371,197,182.375,346.375,202.875,412.4140625,3,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,37, puzzles ,5885,666796,371,196,182.375,346.375,202.875,412.4140625,3,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,37, puzzles ,5935,666847,387,196,182.375,346.375,202.875,412.4140625,3,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,38, some ,5986,666898,423,197,182.375,412.4140625,202.875,461.4375,3,2,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6036,666948,467,201,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6084,666996,498,204,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6135,667047,546,205,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6185,667097,566,205,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6234,667146,572,205,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6285,667197,589,205,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6334,667246,601,205,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6385,667297,622,204,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6435,667347,641,204,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6485,667397,659,205,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6535,667447,677,205,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6585,667497,694,205,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6635,667547,715,205,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6685,667597,744,205,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6735,667647,772,205,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6785,667697,790,210,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6835,667747,805,215,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6885,667797,812,215,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6935,667847,812,215,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,6985,667897,812,215,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,7035,667947,812,215,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,7086,667998,825,212,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,49," e-bikes, ",7135,668047,878,200,182.375,867.6875,202.875,935.71875,3,13,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,49," e-bikes, ",7184,668096,926,191,182.375,867.6875,202.875,935.71875,3,13,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,50, even ,7235,668147,956,189,182.375,935.71875,202.875,979.7578125,3,14,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,50, even ,7285,668197,972,189,182.375,935.71875,202.875,979.7578125,3,14,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,51, though ,7336,668247,985,189,182.375,979.7578125,202.875,1039.8203125,3,15,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,51, though ,7386,668297,995,188,182.375,979.7578125,202.875,1039.8203125,3,15,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,51, though ,7435,668347,1005,188,182.375,979.7578125,202.875,1039.8203125,3,15,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,51, though ,7485,668397,1022,192,182.375,979.7578125,202.875,1039.8203125,3,15,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,52, they ,7536,668448,1041,195,182.375,1039.8203125,202.875,1073.84375,3,16,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,52, they ,7585,668497,1049,197,182.375,1039.8203125,202.875,1073.84375,3,16,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,7636,668547,983,202,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,7685,668597,689,215,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,55, around ,7735,668647,475,224,222.375,435.4609375,242.875,496.515625,4,3,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,53, have ,7784,668696,377,233,222.375,346.375,242.875,390.4140625,4,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,7834,668746,325,240,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,7885,668797,303,242,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,7935,668847,287,244,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,7985,668897,283,244,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,8035,668947,297,237,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,53, have ,8085,668997,350,230,222.375,346.375,242.875,390.4140625,4,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,53, have ,8134,669046,376,230,222.375,346.375,242.875,390.4140625,4,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,54, been ,8185,669097,395,230,222.375,390.4140625,242.875,435.4609375,4,2,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,54, been ,8235,669147,396,230,222.375,390.4140625,242.875,435.4609375,4,2,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,54, been ,8285,669197,406,230,222.375,390.4140625,242.875,435.4609375,4,2,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,55, around ,8336,669247,454,230,222.375,435.4609375,242.875,496.515625,4,3,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,56, since ,8385,669297,514,227,222.375,496.515625,242.875,543.5390625,4,4,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,56, since ,8435,669347,542,225,222.375,496.515625,242.875,543.5390625,4,4,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,57, the ,8485,669397,547,225,222.375,543.5390625,242.875,573.5625,4,5,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,57, the ,8536,669448,547,225,222.375,543.5390625,242.875,573.5625,4,5,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,57, the ,8584,669496,547,225,222.375,543.5390625,242.875,573.5625,4,5,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,57, the ,8634,669546,547,225,222.375,543.5390625,242.875,573.5625,4,5,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,57, the ,8685,669597,547,225,222.375,543.5390625,242.875,573.5625,4,5,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,8735,669647,606,220,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,8786,669698,679,220,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,8835,669747,708,219,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,8885,669797,715,219,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,8934,669846,716,219,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,8985,669897,716,219,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,9035,669947,716,219,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,9085,669997,716,219,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,9135,670047,724,219,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,9184,670096,741,220,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,62, is ,9234,670146,769,227,222.375,752.6640625,242.875,770.6640625,4,10,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,63, now ,9285,670197,787,232,222.375,770.6640625,242.875,808.6875,4,11,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,63, now ,9334,670246,801,234,222.375,770.6640625,242.875,808.6875,4,11,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,64, CEO ,9384,670296,819,235,222.375,808.6875,242.875,852.6953125,4,12,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,64, CEO ,9436,670348,819,235,222.375,808.6875,242.875,852.6953125,4,12,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,64, CEO ,9486,670398,819,235,222.375,808.6875,242.875,852.6953125,4,12,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,64, CEO ,9536,670448,819,235,222.375,808.6875,242.875,852.6953125,4,12,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,64, CEO ,9586,670498,842,235,222.375,808.6875,242.875,852.6953125,4,12,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,66, Currie ,9636,670548,893,235,222.375,872.7109375,242.875,926.5625,4,14,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,67," Technologies, ",9684,670596,935,235,222.375,926.5625,242.875,1041.484375,4,15,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,67," Technologies, ",9736,670647,964,235,222.375,926.5625,242.875,1041.484375,4,15,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,67," Technologies, ",9786,670698,977,234,222.375,926.5625,242.875,1041.484375,4,15,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,67," Technologies, ",9835,670747,989,234,222.375,926.5625,242.875,1041.484375,4,15,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,67," Technologies, ",9884,670796,998,234,222.375,926.5625,242.875,1041.484375,4,15,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,67," Technologies, ",9936,670847,1021,234,222.375,926.5625,242.875,1041.484375,4,15,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,67," Technologies, ",9986,670897,1040,234,222.375,926.5625,242.875,1041.484375,4,15,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,68, the ,10034,670946,1047,233,222.375,1041.484375,242.875,1066.5078125,4,16,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,10085,670997,1032,233,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,10134,671046,946,233,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,10186,671098,595,255,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,72, of ,10235,671147,499,274,262.375,495.46875,282.875,515.484375,5,4,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,10285,671197,473,279,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,10335,671247,446,285,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,10384,671296,433,287,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,10435,671347,398,284,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,69, number ,10486,671397,372,279,262.375,346.375,282.875,412.4140625,5,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,69, number ,10536,671448,361,274,262.375,346.375,282.875,412.4140625,5,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,69, number ,10585,671497,358,272,262.375,346.375,282.875,412.4140625,5,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,69, number ,10635,671547,357,272,262.375,346.375,282.875,412.4140625,5,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,69, number ,10685,671597,357,272,262.375,346.375,282.875,412.4140625,5,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,69, number ,10736,671648,357,271,262.375,346.375,282.875,412.4140625,5,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,69, number ,10786,671698,367,269,262.375,346.375,282.875,412.4140625,5,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,69, number ,10836,671748,403,267,262.375,346.375,282.875,412.4140625,5,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,71, seller ,10886,671798,452,267,262.375,447.453125,282.875,495.46875,5,3,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,71, seller ,10936,671848,491,267,262.375,447.453125,282.875,495.46875,5,3,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,72, of ,10985,671897,512,269,262.375,495.46875,282.875,515.484375,5,4,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,73, e-bikes ,11035,671947,519,269,262.375,515.484375,282.875,578.515625,5,5,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,73, e-bikes ,11085,671997,534,271,262.375,515.484375,282.875,578.515625,5,5,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,73, e-bikes ,11135,672047,559,272,262.375,515.484375,282.875,578.515625,5,5,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,74, in ,11185,672097,581,272,262.375,578.515625,282.875,597.53125,5,6,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,74, in ,11234,672146,591,269,262.375,578.515625,282.875,597.53125,5,6,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,74, in ,11285,672197,591,269,262.375,578.515625,282.875,597.53125,5,6,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,74, in ,11335,672247,591,269,262.375,578.515625,282.875,597.53125,5,6,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,74, in ,11384,672296,591,269,262.375,578.515625,282.875,597.53125,5,6,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,74, in ,11434,672346,594,269,262.375,578.515625,282.875,597.53125,5,6,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,76," US, ",11485,672397,647,270,262.375,627.5546875,282.875,662.5625,5,8,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,77, believes ,11535,672447,692,274,262.375,662.5625,282.875,733.609375,5,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,77, believes ,11585,672497,710,274,262.375,662.5625,282.875,733.609375,5,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,77, believes ,11635,672547,718,274,262.375,662.5625,282.875,733.609375,5,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,77, believes ,11685,672597,729,272,262.375,662.5625,282.875,733.609375,5,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,78, that’s ,11734,672646,738,270,262.375,733.609375,282.875,781.3203125,5,10,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,78, that’s ,11785,672697,765,270,262.375,733.609375,282.875,781.3203125,5,10,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,79, about ,11834,672746,787,270,262.375,781.3203125,282.875,831.3671875,5,11,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,79, about ,11884,672796,825,270,262.375,781.3203125,282.875,831.3671875,5,11,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,80, to ,11934,672846,847,270,262.375,831.3671875,282.875,851.3828125,5,12,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,81, change. ,11985,672897,859,270,262.375,851.3828125,282.875,920.4453125,5,13,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,81, change. ,12034,672946,859,270,262.375,851.3828125,282.875,920.4453125,5,13,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,81, change. ,12084,672996,859,270,262.375,851.3828125,282.875,920.4453125,5,13,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,81, change. ,12134,673046,859,270,262.375,851.3828125,282.875,920.4453125,5,13,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,81, change. ,12184,673096,860,270,262.375,851.3828125,282.875,920.4453125,5,13,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,82, Others ,12236,673148,928,270,262.375,920.4453125,282.875,979.46875,5,14,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,82, Others ,12286,673197,977,270,262.375,920.4453125,282.875,979.46875,5,14,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,83, in ,12336,673248,993,270,262.375,979.46875,282.875,998.484375,5,15,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,83, in ,12386,673298,997,271,262.375,979.46875,282.875,998.484375,5,15,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,84, the ,12436,673348,1001,271,262.375,998.484375,282.875,1028.5078125,5,16,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,84, the ,12486,673398,1008,271,262.375,998.484375,282.875,1028.5078125,5,16,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,84, the ,12536,673448,1028,272,262.375,998.484375,282.875,1028.5078125,5,16,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,85, bike ,12585,673497,1045,273,262.375,1028.5078125,282.875,1061.53125,5,17,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,85, bike ,12635,673547,1050,273,262.375,1028.5078125,282.875,1061.53125,5,17,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,85, bike ,12684,673596,1050,273,262.375,1028.5078125,282.875,1061.53125,5,17,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,85, bike ,12736,673648,1030,273,262.375,1028.5078125,282.875,1061.53125,5,17,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,12785,673697,978,273,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,77, believes ,12836,673748,717,273,262.375,662.5625,282.875,733.609375,5,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,12885,673797,617,278,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,12935,673847,501,294,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,12984,673896,481,301,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,87, agree. ,13035,673947,455,310,302.375,414.40625,322.875,470.4453125,6,2,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,87, agree. ,13085,673997,441,314,302.375,414.40625,322.875,470.4453125,6,2,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,87, agree. ,13135,674047,438,314,302.375,414.40625,322.875,470.4453125,6,2,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,87, agree. ,13185,674097,433,314,302.375,414.40625,322.875,470.4453125,6,2,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,87, agree. ,13234,674146,425,314,302.375,414.40625,322.875,470.4453125,6,2,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,86, industry ,13285,674197,408,314,302.375,346.375,322.875,414.40625,6,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,86, industry ,13335,674247,397,313,302.375,346.375,322.875,414.40625,6,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,86, industry ,13385,674297,388,311,302.375,346.375,322.875,414.40625,6,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,86, industry ,13436,674348,382,311,302.375,346.375,322.875,414.40625,6,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,86, industry ,13484,674396,379,311,302.375,346.375,322.875,414.40625,6,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,86, industry ,13535,674447,376,311,302.375,346.375,322.875,414.40625,6,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,86, industry ,13586,674498,376,311,302.375,346.375,322.875,414.40625,6,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,86, industry ,13636,674548,382,311,302.375,346.375,322.875,414.40625,6,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,86, industry ,13684,674596,408,311,302.375,346.375,322.875,414.40625,6,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,88, Familiar ,13736,674648,471,311,302.375,470.4453125,322.875,539.453125,6,3,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,88, Familiar ,13784,674696,490,311,302.375,470.4453125,322.875,539.453125,6,3,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,88, Familiar ,13834,674746,507,313,302.375,470.4453125,322.875,539.453125,6,3,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,88, Familiar ,13886,674798,528,315,302.375,470.4453125,322.875,539.453125,6,3,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,89, brands ,13934,674846,547,315,302.375,539.453125,322.875,599.4921875,6,4,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,90, including ,13984,674896,601,318,302.375,599.4921875,322.875,675.390625,6,5,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,14036,674948,673,327,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,14085,674997,716,327,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,14135,675047,743,327,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,14185,675097,764,327,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,14235,675147,779,322,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,93, and ,14286,675198,795,316,302.375,786.625,322.875,821.6640625,6,8,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,93, and ,14334,675246,804,312,302.375,786.625,322.875,821.6640625,6,8,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,94, Specialized ,14386,675298,824,309,302.375,821.6640625,322.875,918.7265625,6,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,94, Specialized ,14436,675348,842,310,302.375,821.6640625,322.875,918.7265625,6,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,94, Specialized ,14486,675398,864,313,302.375,821.6640625,322.875,918.7265625,6,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,94, Specialized ,14536,675448,889,314,302.375,821.6640625,322.875,918.7265625,6,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,94, Specialized ,14586,675498,908,317,302.375,821.6640625,322.875,918.7265625,6,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,94, Specialized ,14634,675546,913,318,302.375,821.6640625,322.875,918.7265625,6,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,94, Specialized ,14686,675598,913,318,302.375,821.6640625,322.875,918.7265625,6,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,94, Specialized ,14734,675646,913,318,302.375,821.6640625,322.875,918.7265625,6,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,94, Specialized ,14785,675697,913,318,302.375,821.6640625,322.875,918.7265625,6,9,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,95, all ,14836,675748,934,318,302.375,918.7265625,322.875,941.7421875,6,10,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,14886,675798,986,327,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,14934,675846,1005,333,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,14984,675896,1012,337,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,15034,675946,992,338,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,15085,675997,869,319,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,15135,676048,621,301,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,88, Familiar ,15185,676097,506,318,302.375,470.4453125,322.875,539.453125,6,3,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,15235,676147,451,331,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,15285,676197,420,333,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,15336,676248,402,333,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,15384,676296,390,336,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,98, models ,15436,676348,364,348,342.375,346.375,362.875,409.40625,7,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,98, models ,15486,676398,353,354,342.375,346.375,362.875,409.40625,7,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,98, models ,15534,676446,351,355,342.375,346.375,362.875,409.40625,7,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,98, models ,15584,676496,351,355,342.375,346.375,362.875,409.40625,7,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,98, models ,15636,676548,365,355,342.375,346.375,362.875,409.40625,7,1,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,99, and ,15686,676598,411,355,342.375,409.40625,362.875,444.4453125,7,2,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,100, they ,15736,676648,466,355,342.375,444.4453125,362.875,483.46875,7,3,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,101, believe ,15786,676698,527,355,342.375,483.46875,362.875,545.515625,7,4,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,15836,676748,606,361,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,15884,676796,652,368,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,15935,676848,707,371,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,15986,676898,724,371,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,16035,676947,731,372,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,16084,676996,735,372,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,16135,677047,744,368,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,16185,677097,753,362,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,108, take ,16234,677146,761,359,342.375,758.6484375,362.875,797.671875,7,11,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,108, take ,16285,677198,773,357,342.375,758.6484375,362.875,797.671875,7,11,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,16334,677246,780,369,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,16384,677296,783,386,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,16434,677346,783,386,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,16484,677396,783,386,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,16534,677446,783,386,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,16584,677496,783,386,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,16634,677546,783,386,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,16684,677596,783,386,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,16734,677646,783,386,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,16785,677697,783,386,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,7,1,12,13,-1,999,16835,677747,783,386,,,,,,,A company that is headed by Larry Pizzi,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
