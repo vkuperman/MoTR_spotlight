@@ -1,0 +1,359 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,2,int,20,3,9,10,62, on ,904,563746,570,276,262.375,551.4921875,282.875,576.515625,5,5,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,953,563796,504,91,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,1004,563846,504,91,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,1055,563897,504,91,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,1104,563947,504,91,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,1154,563996,504,91,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,1204,564046,421,76,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,1254,564096,368,101,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,1, Pullman ,1304,564146,354,110,102.375,346.375,122.875,416.40625,1,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,1, Pullman ,1355,564197,353,110,102.375,346.375,122.875,416.40625,1,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,1, Pullman ,1406,564248,353,110,102.375,346.375,122.875,416.40625,1,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,1, Pullman ,1455,564297,353,110,102.375,346.375,122.875,416.40625,1,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,1, Pullman ,1504,564346,354,111,102.375,346.375,122.875,416.40625,1,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,1, Pullman ,1555,564397,370,111,102.375,346.375,122.875,416.40625,1,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,1, Pullman ,1603,564446,416,110,102.375,346.375,122.875,416.40625,1,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,3, writing ,1654,564497,467,107,102.375,434.40625,122.875,491.421875,1,3,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,5, the ,1704,564546,512,106,102.375,510.4375,122.875,540.4609375,1,5,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,5, the ,1754,564596,531,107,102.375,510.4375,122.875,540.4609375,1,5,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,6, next ,1803,564646,543,109,102.375,540.4609375,122.875,579.484375,1,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,6, next ,1854,564696,562,109,102.375,540.4609375,122.875,579.484375,1,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,7, issue ,1904,564746,597,107,102.375,579.484375,122.875,626.5078125,1,7,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,1953,564796,638,103,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,2004,564846,662,103,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,10, campaign ,2054,564897,678,108,102.375,676.546875,122.875,759.6015625,1,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,10, campaign ,2105,564947,679,108,102.375,676.546875,122.875,759.6015625,1,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,10, campaign ,2155,564998,679,108,102.375,676.546875,122.875,759.6015625,1,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,10, campaign ,2205,565048,679,108,102.375,676.546875,122.875,759.6015625,1,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,10, campaign ,2255,565098,679,108,102.375,676.546875,122.875,759.6015625,1,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,10, campaign ,2303,565146,691,108,102.375,676.546875,122.875,759.6015625,1,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,10, campaign ,2353,565196,737,107,102.375,676.546875,122.875,759.6015625,1,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,11, group’s ,2404,565246,788,105,102.375,759.6015625,122.875,823.328125,1,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,11, group’s ,2453,565296,812,105,102.375,759.6015625,122.875,823.328125,1,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,12, magazine ,2503,565346,833,107,102.375,823.328125,122.875,906.3828125,1,12,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,12, magazine ,2554,565397,851,109,102.375,823.328125,122.875,906.3828125,1,12,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,12, magazine ,2603,565446,867,110,102.375,823.328125,122.875,906.3828125,1,12,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,12, magazine ,2654,565496,885,112,102.375,823.328125,122.875,906.3828125,1,12,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,12, magazine ,2704,565546,906,112,102.375,823.328125,122.875,906.3828125,1,12,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,14, a ,2754,565596,932,112,102.375,925.3984375,122.875,940.4140625,1,14,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,15, dialogue ,2804,565646,953,112,102.375,940.4140625,122.875,1013.484375,1,15,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,15, dialogue ,2854,565696,965,112,102.375,940.4140625,122.875,1013.484375,1,15,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,15, dialogue ,2904,565746,974,111,102.375,940.4140625,122.875,1013.484375,1,15,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,15, dialogue ,2954,565796,985,108,102.375,940.4140625,122.875,1013.484375,1,15,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,15, dialogue ,3004,565847,997,106,102.375,940.4140625,122.875,1013.484375,1,15,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,15, dialogue ,3053,565896,1003,106,102.375,940.4140625,122.875,1013.484375,1,15,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,15, dialogue ,3104,565946,986,106,102.375,940.4140625,122.875,1013.484375,1,15,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,3154,565996,864,106,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,6, next ,3204,566046,567,108,102.375,540.4609375,122.875,579.484375,1,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,3254,566096,447,132,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,3304,566146,406,143,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,17, Cathy ,3354,566196,397,145,142.375,346.375,162.875,398.3984375,2,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,17, Cathy ,3404,566246,392,147,142.375,346.375,162.875,398.3984375,2,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,17, Cathy ,3454,566297,390,147,142.375,346.375,162.875,398.3984375,2,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,17, Cathy ,3503,566346,389,147,142.375,346.375,162.875,398.3984375,2,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,17, Cathy ,3555,566397,388,148,142.375,346.375,162.875,398.3984375,2,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,17, Cathy ,3604,566446,394,148,142.375,346.375,162.875,398.3984375,2,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,18," Casserly, ",3654,566497,440,148,142.375,398.3984375,162.875,477.09375,2,2,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,19, chief ,3704,566546,498,144,142.375,477.09375,162.875,520.1171875,2,3,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,3753,566596,545,140,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,3804,566646,573,143,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,20, executive ,3854,566696,590,147,142.375,520.1171875,162.875,601.1640625,2,4,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,21, of ,3903,566746,606,148,142.375,601.1640625,162.875,621.1796875,2,5,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,21, of ,3954,566796,618,149,142.375,601.1640625,162.875,621.1796875,2,5,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,22, Creative ,4004,566847,628,149,142.375,621.1796875,162.875,693.2109375,2,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,22, Creative ,4053,566895,637,152,142.375,621.1796875,162.875,693.2109375,2,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,22, Creative ,4104,566946,644,155,142.375,621.1796875,162.875,693.2109375,2,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,22, Creative ,4153,566996,644,155,142.375,621.1796875,162.875,693.2109375,2,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,22, Creative ,4204,567047,644,155,142.375,621.1796875,162.875,693.2109375,2,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,22, Creative ,4255,567098,644,155,142.375,621.1796875,162.875,693.2109375,2,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,22, Creative ,4305,567148,644,155,142.375,621.1796875,162.875,693.2109375,2,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,22, Creative ,4354,567196,655,155,142.375,621.1796875,162.875,693.2109375,2,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,23," Commons, ",4404,567246,754,154,142.375,693.2109375,162.875,785.234375,2,7,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,24, which ,4454,567296,817,152,142.375,785.234375,162.875,836.2578125,2,8,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,24, which ,4504,567346,832,152,142.375,785.234375,162.875,836.2578125,2,8,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,24, which ,4554,567396,836,152,142.375,785.234375,162.875,836.2578125,2,8,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,25, offers ,4604,567446,843,153,142.375,836.2578125,162.875,885.9609375,2,9,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,25, offers ,4654,567496,854,153,142.375,836.2578125,162.875,885.9609375,2,9,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,25, offers ,4704,567547,872,153,142.375,836.2578125,162.875,885.9609375,2,9,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,26, open ,4754,567597,895,153,142.375,885.9609375,162.875,931.0078125,2,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,26, open ,4803,567646,920,153,142.375,885.9609375,162.875,931.0078125,2,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,27, content ,4854,567696,943,153,142.375,931.0078125,162.875,995.0546875,2,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,27, content ,4904,567747,964,153,142.375,931.0078125,162.875,995.0546875,2,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,27, content ,4954,567796,981,155,142.375,931.0078125,162.875,995.0546875,2,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,27, content ,5003,567846,989,157,142.375,931.0078125,162.875,995.0546875,2,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,27, content ,5053,567896,993,158,142.375,931.0078125,162.875,995.0546875,2,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,27, content ,5104,567946,981,158,142.375,931.0078125,162.875,995.0546875,2,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,5153,567996,909,158,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,5204,568046,670,172,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,5254,568096,532,185,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,5304,568146,439,197,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,5354,568196,397,203,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,5403,568245,382,203,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,5454,568296,368,203,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,5504,568346,363,202,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,29, “that ,5554,568396,363,201,182.375,346.375,202.875,387.3984375,3,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,29, “that ,5604,568446,371,199,182.375,346.375,202.875,387.3984375,3,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,30, lets ,5654,568496,394,197,182.375,387.3984375,202.875,420.4140625,3,2,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,30, lets ,5704,568546,420,195,182.375,387.3984375,202.875,420.4140625,3,2,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,31, creators ,5754,568597,459,195,182.375,420.4140625,202.875,490.4375,3,3,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,32, take ,5804,568646,509,198,182.375,490.4375,202.875,529.4609375,3,4,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,33, copyright ,5853,568696,546,200,182.375,529.4609375,202.875,607.5,3,5,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,33, copyright ,5904,568746,584,200,182.375,529.4609375,202.875,607.5,3,5,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,34, into ,5954,568796,613,198,182.375,607.5,202.875,641.5234375,3,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,34, into ,6004,568846,633,200,182.375,607.5,202.875,641.5234375,3,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,6054,568896,649,202,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,6104,568946,651,202,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,6154,568996,651,202,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,6204,569046,651,202,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,6253,569096,652,202,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,35, their ,6304,569146,679,198,182.375,641.5234375,202.875,681.546875,3,7,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,37, hands”. ,6354,569196,737,189,182.375,719.5703125,202.875,784.609375,3,9,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,37, hands”. ,6404,569246,767,186,182.375,719.5703125,202.875,784.609375,3,9,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,37, hands”. ,6453,569296,779,187,182.375,719.5703125,202.875,784.609375,3,9,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,38, Casserly ,6503,569346,794,189,182.375,784.609375,202.875,859.625,3,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,38, Casserly ,6553,569396,813,189,182.375,784.609375,202.875,859.625,3,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,38, Casserly ,6604,569446,835,192,182.375,784.609375,202.875,859.625,3,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,39, argues ,6654,569497,865,195,182.375,859.625,202.875,919.6640625,3,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,39, argues ,6704,569547,896,195,182.375,859.625,202.875,919.6640625,3,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,39, argues ,6754,569597,917,195,182.375,859.625,202.875,919.6640625,3,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,40, that ,6804,569646,937,195,182.375,919.6640625,202.875,954.6953125,3,12,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,40, that ,6854,569697,952,196,182.375,919.6640625,202.875,954.6953125,3,12,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,41, there ,6904,569746,970,196,182.375,954.6953125,202.875,1000.7265625,3,13,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,41, there ,6953,569796,989,196,182.375,954.6953125,202.875,1000.7265625,3,13,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,42, is ,7004,569846,1002,196,182.375,1000.7265625,202.875,1018.7265625,3,14,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,42, is ,7054,569897,1006,195,182.375,1000.7265625,202.875,1018.7265625,3,14,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,41, there ,7103,569946,996,194,182.375,954.6953125,202.875,1000.7265625,3,13,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,39, argues ,7154,569996,873,193,182.375,859.625,202.875,919.6640625,3,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,7203,570045,765,193,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,7253,570096,535,212,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,7304,570146,434,220,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,7354,570196,367,223,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,7403,570246,333,226,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,7454,570296,319,229,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,7503,570346,318,230,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,7554,570397,323,230,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,44, wrong ,7604,570446,367,230,222.375,346.375,242.875,400.40625,4,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,45, with ,7654,570496,414,229,222.375,400.40625,242.875,437.421875,4,2,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,46," copyright, ",7704,570546,441,224,222.375,437.421875,242.875,520.4609375,4,3,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,7754,570596,458,223,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,46," copyright, ",7804,570646,476,224,222.375,437.421875,242.875,520.4609375,4,3,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,46," copyright, ",7853,570696,494,230,222.375,437.421875,242.875,520.4609375,4,3,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,46," copyright, ",7904,570746,504,233,222.375,437.421875,242.875,520.4609375,4,3,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,46," copyright, ",7954,570797,504,233,222.375,437.421875,242.875,520.4609375,4,3,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,46," copyright, ",8004,570846,504,233,222.375,437.421875,242.875,520.4609375,4,3,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,46," copyright, ",8055,570897,504,233,222.375,437.421875,242.875,520.4609375,4,3,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,46," copyright, ",8104,570947,504,233,222.375,437.421875,242.875,520.4609375,4,3,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,47, which ,8154,570996,527,233,222.375,520.4609375,242.875,571.484375,4,4,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,49, created ,8204,571046,624,233,222.375,608.5,242.875,673.5390625,4,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,50, “in ,8253,571096,675,234,222.375,673.5390625,242.875,698.546875,4,7,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,50, “in ,8304,571146,691,233,222.375,673.5390625,242.875,698.546875,4,7,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,51, an ,8354,571197,706,233,222.375,698.546875,242.875,723.5703125,4,8,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,51, an ,8403,571246,720,233,222.375,698.546875,242.875,723.5703125,4,8,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,52, analog ,8453,571296,729,234,222.375,723.5703125,242.875,782.625,4,9,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,52, analog ,8503,571346,729,234,222.375,723.5703125,242.875,782.625,4,9,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,52, analog ,8555,571397,729,234,222.375,723.5703125,242.875,782.625,4,9,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,52, analog ,8605,571447,729,234,222.375,723.5703125,242.875,782.625,4,9,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,52, analog ,8655,571497,729,234,222.375,723.5703125,242.875,782.625,4,9,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,52, analog ,8704,571546,755,234,222.375,723.5703125,242.875,782.625,4,9,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,53, age”. ,8754,571596,823,239,222.375,782.625,242.875,828.65625,4,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,8803,571646,846,242,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,8859,571701,854,244,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,8904,571746,857,244,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,8954,571796,861,243,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,9003,571846,872,242,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,9054,571896,890,242,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,9104,571946,913,242,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,9154,571996,928,242,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,9203,572045,945,242,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,9253,572096,958,242,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,56, “By ,9304,572146,973,240,222.375,960.6796875,242.875,992.6875,4,13,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,56, “By ,9353,572196,985,238,222.375,960.6796875,242.875,992.6875,4,13,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,57," default, ",9403,572246,1004,236,222.375,992.6875,242.875,1051.734375,4,14,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,57," default, ",9453,572296,1015,233,222.375,992.6875,242.875,1051.734375,4,14,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,57," default, ",9503,572346,1023,232,222.375,992.6875,242.875,1051.734375,4,14,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,57," default, ",9554,572396,1028,231,222.375,992.6875,242.875,1051.734375,4,14,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,57," default, ",9604,572446,1029,231,222.375,992.6875,242.875,1051.734375,4,14,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,9654,572496,1018,231,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,9703,572546,741,244,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,9753,572596,577,264,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,58, copyright ,9803,572646,391,279,262.375,346.375,282.875,424.4140625,5,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,58, copyright ,9853,572696,360,279,262.375,346.375,282.875,424.4140625,5,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,58, copyright ,9903,572746,351,276,262.375,346.375,282.875,424.4140625,5,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,9954,572796,346,274,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,10004,572846,346,274,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,58, copyright ,10053,572896,350,273,262.375,346.375,282.875,424.4140625,5,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,58, copyright ,10104,572946,361,273,262.375,346.375,282.875,424.4140625,5,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,58, copyright ,10153,572996,405,273,262.375,346.375,282.875,424.4140625,5,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,59, closes ,10203,573046,474,273,262.375,424.4140625,282.875,480.4375,5,2,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,61, door ,10253,573096,516,271,262.375,510.4609375,282.875,551.4921875,5,4,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,61, door ,10303,573146,545,271,262.375,510.4609375,282.875,551.4921875,5,4,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,62, on ,10353,573196,564,271,262.375,551.4921875,282.875,576.515625,5,5,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,63, countless ,10404,573246,578,270,262.375,576.515625,282.875,657.5625,5,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,63, countless ,10453,573296,586,269,262.375,576.515625,282.875,657.5625,5,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,63, countless ,10504,573346,586,269,262.375,576.515625,282.875,657.5625,5,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,63, countless ,10555,573398,586,269,262.375,576.515625,282.875,657.5625,5,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,63, countless ,10605,573448,586,269,262.375,576.515625,282.875,657.5625,5,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,63, countless ,10655,573498,586,269,262.375,576.515625,282.875,657.5625,5,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,63, countless ,10704,573546,608,269,262.375,576.515625,282.875,657.5625,5,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,10753,573596,669,264,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,10803,573646,694,263,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,10853,573696,707,263,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,10903,573745,721,262,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,10953,573795,737,260,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,11003,573846,754,259,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,11053,573895,776,260,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,66, people ,11104,573947,792,267,262.375,738.609375,282.875,797.6640625,5,9,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,67, can ,11154,573996,805,277,262.375,797.6640625,282.875,831.6875,5,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,11203,574046,817,281,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,67, can ,11254,574096,821,281,262.375,797.6640625,282.875,831.6875,5,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,67, can ,11304,574147,821,281,262.375,797.6640625,282.875,831.6875,5,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,67, can ,11355,574198,821,281,262.375,797.6640625,282.875,831.6875,5,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,67, can ,11405,574248,821,281,262.375,797.6640625,282.875,831.6875,5,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,67, can ,11454,574296,823,280,262.375,797.6640625,282.875,831.6875,5,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,68," share, ",11504,574347,879,275,262.375,831.6875,282.875,886.71875,5,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,71, and ,11554,574396,975,274,262.375,974.796875,282.875,1009.8359375,5,14,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,71, and ,11603,574446,1004,274,262.375,974.796875,282.875,1009.8359375,5,14,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,72, remix ,11653,574496,1017,275,262.375,1009.8359375,282.875,1053.8359375,5,15,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,72, remix ,11703,574546,1027,276,262.375,1009.8359375,282.875,1053.8359375,5,15,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,72, remix ,11754,574596,1037,276,262.375,1009.8359375,282.875,1053.8359375,5,15,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,72, remix ,11804,574646,1041,276,262.375,1009.8359375,282.875,1053.8359375,5,15,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,72, remix ,11853,574696,1031,276,262.375,1009.8359375,282.875,1053.8359375,5,15,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,11904,574746,918,277,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,11953,574795,558,299,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,75," work, ",12004,574846,461,312,302.375,449.796875,322.875,497.8046875,6,3,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,74, other’s ,12053,574896,435,313,302.375,390.4140625,322.875,449.796875,6,2,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,74, other’s ,12104,574947,428,313,302.375,390.4140625,322.875,449.796875,6,2,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,74, other’s ,12154,574997,421,313,302.375,390.4140625,322.875,449.796875,6,2,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,74, other’s ,12203,575046,409,313,302.375,390.4140625,322.875,449.796875,6,2,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,74, other’s ,12253,575096,398,313,302.375,390.4140625,322.875,449.796875,6,2,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,74, other’s ,12304,575146,395,313,302.375,390.4140625,322.875,449.796875,6,2,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,74, other’s ,12354,575196,394,314,302.375,390.4140625,322.875,449.796875,6,2,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,73, each ,12403,575246,381,316,302.375,346.375,322.875,390.4140625,6,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,73, each ,12453,575296,367,318,302.375,346.375,322.875,390.4140625,6,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,73, each ,12504,575346,363,319,302.375,346.375,322.875,390.4140625,6,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,73, each ,12553,575396,364,319,302.375,346.375,322.875,390.4140625,6,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,74, other’s ,12604,575446,391,319,302.375,390.4140625,322.875,449.796875,6,2,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,74, other’s ,12654,575496,443,315,302.375,390.4140625,322.875,449.796875,6,2,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,76, possibilities ,12704,575546,520,307,302.375,497.8046875,322.875,594.8515625,6,4,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,76, possibilities ,12753,575596,573,307,302.375,497.8046875,322.875,594.8515625,6,4,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,77, that ,12803,575646,604,308,302.375,594.8515625,322.875,629.8828125,6,5,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,78, were ,12853,575696,635,313,302.375,629.8828125,322.875,673.8984375,6,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,78, were ,12904,575746,665,316,302.375,629.8828125,322.875,673.8984375,6,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,79, unimaginable ,12953,575796,708,318,302.375,673.8984375,322.875,785.9765625,6,7,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,79, unimaginable ,13003,575846,732,319,302.375,673.8984375,322.875,785.9765625,6,7,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,79, unimaginable ,13053,575896,755,319,302.375,673.8984375,322.875,785.9765625,6,7,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,79, unimaginable ,13104,575946,774,319,302.375,673.8984375,322.875,785.9765625,6,7,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,80, when ,13154,575996,794,319,302.375,785.9765625,322.875,834.015625,6,8,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,80, when ,13204,576046,819,320,302.375,785.9765625,322.875,834.015625,6,8,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,13254,576096,850,321,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,13303,576146,876,324,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,13354,576197,881,325,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,13404,576247,881,325,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,13454,576297,881,325,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,13506,576348,881,325,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,82, laws ,13554,576396,906,319,302.375,883.0546875,322.875,924.0703125,6,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,83, were ,13603,576446,960,310,302.375,924.0703125,322.875,968.0859375,6,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,84, established.” ,13653,576496,989,310,302.375,968.0859375,322.875,1070.1484375,6,12,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,84, established.” ,13703,576546,1005,310,302.375,968.0859375,322.875,1070.1484375,6,12,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,84, established.” ,13753,576596,1015,310,302.375,968.0859375,322.875,1070.1484375,6,12,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,84, established.” ,13803,576646,1022,310,302.375,968.0859375,322.875,1070.1484375,6,12,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,84, established.” ,13854,576696,1028,311,302.375,968.0859375,322.875,1070.1484375,6,12,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,84, established.” ,13903,576746,1020,312,302.375,968.0859375,322.875,1070.1484375,6,12,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,82, laws ,13953,576796,890,312,302.375,883.0546875,322.875,924.0703125,6,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,14003,576846,739,313,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,14053,576896,537,344,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,87, artists ,14103,576946,444,354,342.375,425.421875,362.875,478.4296875,7,3,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,86, says ,14153,576996,408,355,342.375,383.40625,362.875,425.421875,7,2,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,86, says ,14203,577046,385,355,342.375,383.40625,362.875,425.421875,7,2,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,85, She ,14253,577096,368,355,342.375,346.375,362.875,383.40625,7,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,85, She ,14303,577146,357,353,342.375,346.375,362.875,383.40625,7,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,85, She ,14353,577196,356,352,342.375,346.375,362.875,383.40625,7,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,85, She ,14403,577246,366,352,342.375,346.375,362.875,383.40625,7,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,86, says ,14454,577296,407,353,342.375,383.40625,362.875,425.421875,7,2,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,88, need ,14504,577346,483,353,342.375,478.4296875,362.875,523.4765625,7,4,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,90, think ,14553,577396,558,353,342.375,543.4921875,362.875,586.515625,7,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,91, creatively ,14603,577446,624,353,342.375,586.515625,362.875,667.546875,7,7,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,91, creatively ,14654,577496,653,354,342.375,586.515625,362.875,667.546875,7,7,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,92, about ,14703,577546,675,354,342.375,667.546875,362.875,717.59375,7,8,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,92, about ,14753,577596,697,354,342.375,667.546875,362.875,717.59375,7,8,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,93, how ,14804,577646,724,354,342.375,717.59375,362.875,755.6171875,7,9,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,94, they ,14854,577696,764,353,342.375,755.6171875,362.875,794.640625,7,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,95, distribute ,14903,577746,802,353,342.375,794.640625,362.875,872.6796875,7,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,95, distribute ,14953,577796,838,357,342.375,794.640625,362.875,872.6796875,7,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,15003,577846,866,361,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,15054,577896,881,361,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,96, and ,15103,577946,895,356,342.375,872.6796875,362.875,907.71875,7,12,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,97, monetize ,15153,577996,913,348,342.375,907.71875,362.875,985.7578125,7,13,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,97, monetize ,15203,578046,936,344,342.375,907.71875,362.875,985.7578125,7,13,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,15253,578096,960,343,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,15303,578145,966,343,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,15354,578197,967,343,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,15404,578246,967,343,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,15454,578296,967,343,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,15503,578346,967,343,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,15554,578396,962,343,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,15603,578446,847,333,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,15653,578496,620,331,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,15703,578546,474,339,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,15754,578596,431,341,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,15803,578645,406,343,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,85, She ,15853,578696,365,351,342.375,346.375,362.875,383.40625,7,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,15903,578745,331,359,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,15953,578795,318,373,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,16003,578846,339,384,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,100, quoting ,16053,578896,352,389,382.375,346.375,402.875,410.4296875,8,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,100, quoting ,16103,578946,359,390,382.375,346.375,402.875,410.4296875,8,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,100, quoting ,16153,578996,368,393,382.375,346.375,402.875,410.4296875,8,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,100, quoting ,16203,579046,380,396,382.375,346.375,402.875,410.4296875,8,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,100, quoting ,16253,579096,390,398,382.375,346.375,402.875,410.4296875,8,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,100, quoting ,16303,579146,390,398,382.375,346.375,402.875,410.4296875,8,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,100, quoting ,16355,579198,390,398,382.375,346.375,402.875,410.4296875,8,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,100, quoting ,16405,579248,390,398,382.375,346.375,402.875,410.4296875,8,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,100, quoting ,16455,579298,390,398,382.375,346.375,402.875,410.4296875,8,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,100, quoting ,16504,579347,410,398,382.375,346.375,402.875,410.4296875,8,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,103, fiction ,16553,579396,530,397,382.375,506.4921875,402.875,558.515625,8,4,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,104, writer ,16603,579446,606,397,382.375,558.515625,402.875,607.515625,8,5,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,105, Cory ,16653,579496,629,399,382.375,607.515625,402.875,650.5234375,8,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,105, Cory ,16704,579546,639,400,382.375,607.515625,402.875,650.5234375,8,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,105, Cory ,16754,579596,650,399,382.375,607.515625,402.875,650.5234375,8,6,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,106," Doctorow, ",16803,579646,667,395,382.375,650.5234375,402.875,735.5703125,8,7,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,106," Doctorow, ",16854,579697,691,392,382.375,650.5234375,402.875,735.5703125,8,7,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,107, who ,16903,579746,753,392,382.375,735.5703125,402.875,773.59375,8,8,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,109, “My ,16953,579796,823,390,382.375,816.6171875,402.875,851.609375,8,10,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,110, problem ,17004,579847,869,388,382.375,851.609375,402.875,921.640625,8,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,110, problem ,17053,579896,888,388,382.375,851.609375,402.875,921.640625,8,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,110, problem ,17103,579946,903,390,382.375,851.609375,402.875,921.640625,8,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,110, problem ,17153,579996,912,393,382.375,851.609375,402.875,921.640625,8,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,110, problem ,17203,580046,916,395,382.375,851.609375,402.875,921.640625,8,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,110, problem ,17254,580096,916,395,382.375,851.609375,402.875,921.640625,8,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,110, problem ,17304,580147,912,395,382.375,851.609375,402.875,921.640625,8,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,110, problem ,17354,580196,876,395,382.375,851.609375,402.875,921.640625,8,11,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,17404,580246,781,388,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,102, science ,17454,580297,472,384,382.375,440.453125,402.875,506.4921875,8,3,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,17503,580345,384,400,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,17554,580396,327,419,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,17604,580446,313,426,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,17653,580495,307,431,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,17704,580546,311,433,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,115, obscurity.” ,17753,580596,357,439,422.375,346.375,442.875,428.0703125,9,1,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,17804,580646,380,441,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,17853,580696,383,441,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,17904,580747,384,441,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,17953,580796,385,441,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,18003,580846,412,441,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,18053,580895,531,456,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,18103,580945,570,465,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,18154,580997,570,465,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,18204,581047,570,465,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,18253,581096,570,465,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,18304,581147,570,465,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,18354,581196,570,465,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,18403,581246,570,465,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,18453,581296,570,465,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,18504,581347,570,465,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,18554,581397,570,465,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,18603,581446,570,465,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,18653,581496,570,465,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,18703,581546,570,465,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,3,9,10,-1,999,18754,581597,570,465,,,,,,,Build upon each other’s work,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
