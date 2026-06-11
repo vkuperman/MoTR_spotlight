@@ -1,0 +1,391 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,1463,863647,453,255,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,16, only ,1513,863697,383,155,142.375,346.375,162.875,384.3984375,2,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,1563,863747,364,139,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,1613,863796,356,135,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,1663,863847,351,132,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,1713,863897,351,125,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,1, Japanese ,1763,863947,351,120,102.375,346.375,122.875,429.4453125,1,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,1, Japanese ,1813,863997,353,116,102.375,346.375,122.875,429.4453125,1,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,1, Japanese ,1863,864046,357,115,102.375,346.375,122.875,429.4453125,1,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,1, Japanese ,1913,864096,372,114,102.375,346.375,122.875,429.4453125,1,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,1, Japanese ,1964,864147,406,114,102.375,346.375,122.875,429.4453125,1,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,2, employees ,2013,864197,481,115,102.375,429.4453125,122.875,521.5,1,2,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,3, are ,2063,864247,550,119,102.375,521.5,122.875,552.5234375,1,3,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,2113,864296,596,123,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,2163,864347,623,123,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,2213,864396,641,123,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,2263,864447,658,123,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,2312,864496,678,122,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,6, to ,2363,864547,695,119,102.375,689.59375,122.875,709.609375,1,6,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,7, an ,2413,864597,713,114,102.375,709.609375,122.875,734.6328125,1,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,7, an ,2464,864647,734,112,102.375,709.609375,122.875,734.6328125,1,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,8, average ,2513,864697,752,112,102.375,734.6328125,122.875,804.6875,1,8,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,8, average ,2563,864747,773,113,102.375,734.6328125,122.875,804.6875,1,8,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,8, average ,2613,864797,799,113,102.375,734.6328125,122.875,804.6875,1,8,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,9, 18.5 ,2663,864846,828,110,102.375,804.6875,122.875,844.7265625,1,9,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,10, days’ ,2713,864897,854,111,102.375,844.7265625,122.875,891.09375,1,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,10, days’ ,2763,864947,879,116,102.375,844.7265625,122.875,891.09375,1,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,11, paid ,2814,864997,905,116,102.375,891.09375,122.875,930.1328125,1,11,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,11, paid ,2863,865047,926,116,102.375,891.09375,122.875,930.1328125,1,11,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,12, holiday ,2913,865097,932,114,102.375,930.1328125,122.875,992.1796875,1,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,12, holiday ,2963,865146,934,111,102.375,930.1328125,122.875,992.1796875,1,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,12, holiday ,3013,865196,935,110,102.375,930.1328125,122.875,992.1796875,1,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,12, holiday ,3065,865248,935,110,102.375,930.1328125,122.875,992.1796875,1,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,12, holiday ,3113,865297,935,110,102.375,930.1328125,122.875,992.1796875,1,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,12, holiday ,3164,865348,935,110,102.375,930.1328125,122.875,992.1796875,1,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,12, holiday ,3214,865398,935,110,102.375,930.1328125,122.875,992.1796875,1,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,12, holiday ,3264,865448,935,110,102.375,930.1328125,122.875,992.1796875,1,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,12, holiday ,3314,865498,935,110,102.375,930.1328125,122.875,992.1796875,1,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,12, holiday ,3363,865547,942,110,102.375,930.1328125,122.875,992.1796875,1,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,12, holiday ,3413,865596,960,110,102.375,930.1328125,122.875,992.1796875,1,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,12, holiday ,3462,865646,962,110,102.375,930.1328125,122.875,992.1796875,1,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,12, holiday ,3514,865697,960,110,102.375,930.1328125,122.875,992.1796875,1,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,12, holiday ,3564,865748,960,110,102.375,930.1328125,122.875,992.1796875,1,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,12, holiday ,3614,865798,960,110,102.375,930.1328125,122.875,992.1796875,1,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,12, holiday ,3664,865847,960,110,102.375,930.1328125,122.875,992.1796875,1,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,12, holiday ,3713,865897,960,110,102.375,930.1328125,122.875,992.1796875,1,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,12, holiday ,3764,865948,960,110,102.375,930.1328125,122.875,992.1796875,1,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,12, holiday ,3813,865996,959,110,102.375,930.1328125,122.875,992.1796875,1,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,3863,866046,926,111,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,3913,866097,757,142,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,22, average ,3963,866146,595,159,142.375,589.546875,162.875,659.6015625,2,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,20, the ,4013,866197,529,154,142.375,506.4765625,162.875,536.5,2,5,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,19, than ,4063,866247,489,153,142.375,466.4375,162.875,506.4765625,2,4,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,19, than ,4113,866297,471,154,142.375,466.4375,162.875,506.4765625,2,4,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,18, fewer ,4163,866347,464,154,142.375,417.4140625,162.875,466.4375,2,3,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,18, fewer ,4214,866397,462,154,142.375,417.4140625,162.875,466.4375,2,3,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,18, fewer ,4263,866447,456,158,142.375,417.4140625,162.875,466.4375,2,3,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,4313,866496,448,163,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,4363,866547,446,164,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,4413,866597,446,164,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,4463,866647,446,164,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,4513,866696,446,164,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,4563,866747,446,164,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,4613,866797,450,163,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,19, than ,4663,866847,475,157,142.375,466.4375,162.875,506.4765625,2,4,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,19, than ,4713,866897,504,152,142.375,466.4375,162.875,506.4765625,2,4,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,20, the ,4762,866946,528,149,142.375,506.4765625,162.875,536.5,2,5,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,21, global ,4813,866997,546,149,142.375,536.5,162.875,589.546875,2,6,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,21, global ,4863,867047,566,149,142.375,536.5,162.875,589.546875,2,6,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,22, average ,4913,867097,602,149,142.375,589.546875,162.875,659.6015625,2,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,22, average ,4963,867147,659,149,142.375,589.546875,162.875,659.6015625,2,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,24, with ,5014,867197,708,148,142.375,674.6171875,162.875,711.6328125,2,9,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,26, minimum ,5063,867247,747,146,142.375,726.6484375,162.875,804.65625,2,11,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,26, minimum ,5112,867296,770,145,142.375,726.6484375,162.875,804.65625,2,11,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,26, minimum ,5163,867347,786,144,142.375,726.6484375,162.875,804.65625,2,11,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,5213,867397,805,142,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,5263,867447,826,140,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,5312,867496,854,137,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,5363,867547,879,135,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,5413,867597,897,135,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,5463,867647,913,135,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,5513,867697,926,137,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,5563,867747,935,142,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,31, well ,5613,867797,943,145,142.375,926.734375,162.875,962.75,2,16,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,31, well ,5663,867847,943,145,142.375,926.734375,162.875,962.75,2,16,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,31, well ,5713,867897,943,145,142.375,926.734375,162.875,962.75,2,16,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,31, well ,5763,867947,943,145,142.375,926.734375,162.875,962.75,2,16,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,31, well ,5813,867997,943,145,142.375,926.734375,162.875,962.75,2,16,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,31, well ,5863,868046,954,146,142.375,926.734375,162.875,962.75,2,16,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,34, one-day ,5913,868097,1014,160,142.375,1011.7890625,162.875,1076.84375,2,19,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,5963,868146,1054,165,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,6013,868196,1061,165,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,6062,868246,1062,165,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,6113,868297,1054,165,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,6162,868346,1028,166,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,6212,868396,967,168,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,6263,868447,829,178,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,41, employees ,6313,868497,688,191,182.375,639.2109375,202.875,731.265625,3,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,39, very ,6364,868548,576,192,182.375,567.1875,202.875,606.1953125,3,5,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,37, In ,6412,868596,502,194,182.375,490.4765625,202.875,510.4921875,3,3,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,6463,868647,459,203,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,6512,868696,430,210,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,6563,868746,416,212,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,6613,868797,404,212,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,6663,868847,394,213,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,6712,868896,389,213,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,6762,868946,387,210,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,6813,868996,387,203,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,35, national ,6862,869046,387,194,182.375,346.375,202.875,414.4296875,3,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,35, national ,6914,869098,392,185,182.375,346.375,202.875,414.4296875,3,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,35, national ,6963,869147,396,184,182.375,346.375,202.875,414.4296875,3,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,35, national ,7012,869196,397,184,182.375,346.375,202.875,414.4296875,3,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,35, national ,7063,869247,397,186,182.375,346.375,202.875,414.4296875,3,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,35, national ,7113,869297,402,188,182.375,346.375,202.875,414.4296875,3,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,36, holidays. ,7163,869347,421,188,182.375,414.4296875,202.875,490.4765625,3,2,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,36, holidays. ,7213,869397,454,186,182.375,414.4296875,202.875,490.4765625,3,2,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,7262,869446,494,183,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,7313,869497,519,181,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,7362,869546,539,179,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,7413,869597,556,178,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,7462,869646,572,178,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,7513,869697,599,181,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,7562,869746,616,183,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,40, few ,7612,869796,627,186,182.375,606.1953125,202.875,639.2109375,3,6,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,40, few ,7662,869846,635,189,182.375,606.1953125,202.875,639.2109375,3,6,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,41, employees ,7713,869897,650,192,182.375,639.2109375,202.875,731.265625,3,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,41, employees ,7764,869948,676,195,182.375,639.2109375,202.875,731.265625,3,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,41, employees ,7812,869996,717,195,182.375,639.2109375,202.875,731.265625,3,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,42, take ,7863,870047,749,196,182.375,731.265625,202.875,770.2890625,3,8,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,43, these ,7912,870096,771,196,182.375,770.2890625,202.875,819.328125,3,9,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,43, these ,7963,870147,788,196,182.375,770.2890625,202.875,819.328125,3,9,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,43, these ,8013,870197,803,195,182.375,770.2890625,202.875,819.328125,3,9,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,43, these ,8063,870247,811,195,182.375,770.2890625,202.875,819.328125,3,9,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,43, these ,8113,870297,811,195,182.375,770.2890625,202.875,819.328125,3,9,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,43, these ,8164,870348,811,195,182.375,770.2890625,202.875,819.328125,3,9,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,43, these ,8213,870397,811,195,182.375,770.2890625,202.875,819.328125,3,9,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,43, these ,8263,870447,815,195,182.375,770.2890625,202.875,819.328125,3,9,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,8313,870497,881,202,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,8362,870546,938,203,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,47, only ,8413,870597,961,198,182.375,945.3828125,202.875,983.40625,3,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,47, only ,8463,870647,970,195,182.375,945.3828125,202.875,983.40625,3,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,47, only ,8513,870697,978,195,182.375,945.3828125,202.875,983.40625,3,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,48, nine ,8563,870747,986,195,182.375,983.40625,202.875,1022.4453125,3,14,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,48, nine ,8612,870796,998,195,182.375,983.40625,202.875,1022.4453125,3,14,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,48, nine ,8662,870846,1019,195,182.375,983.40625,202.875,1022.4453125,3,14,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,49, of ,8713,870897,1041,195,182.375,1022.4453125,202.875,1042.4609375,3,15,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,50, their ,8763,870947,1054,195,182.375,1042.4609375,202.875,1077.4765625,3,16,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,50, their ,8814,870998,1060,195,182.375,1042.4609375,202.875,1077.4765625,3,16,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,50, their ,8863,871047,1057,195,182.375,1042.4609375,202.875,1077.4765625,3,16,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,46, use ,8913,871097,927,196,182.375,911.359375,202.875,945.3828125,3,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,8962,871146,787,198,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,9013,871197,546,221,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,52, average ,9062,871246,429,232,222.375,421.4296875,242.875,491.484375,4,2,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,51, 18.5-day ,9113,871297,392,235,222.375,346.375,242.875,421.4296875,4,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,51, 18.5-day ,9163,871347,382,235,222.375,346.375,242.875,421.4296875,4,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,51, 18.5-day ,9213,871397,382,235,222.375,346.375,242.875,421.4296875,4,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,51, 18.5-day ,9262,871446,379,235,222.375,346.375,242.875,421.4296875,4,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,51, 18.5-day ,9313,871497,375,235,222.375,346.375,242.875,421.4296875,4,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,51, 18.5-day ,9363,871547,375,235,222.375,346.375,242.875,421.4296875,4,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,51, 18.5-day ,9413,871597,375,235,222.375,346.375,242.875,421.4296875,4,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,51, 18.5-day ,9462,871646,379,235,222.375,346.375,242.875,421.4296875,4,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,52, average ,9513,871697,427,234,222.375,421.4296875,242.875,491.484375,4,2,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,52, average ,9563,871747,481,234,222.375,421.4296875,242.875,491.484375,4,2,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,53, entitlement. ,9613,871797,505,234,222.375,491.484375,242.875,589.5390625,4,3,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,53, entitlement. ,9663,871847,519,234,222.375,491.484375,242.875,589.5390625,4,3,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,53, entitlement. ,9712,871896,541,235,222.375,491.484375,242.875,589.5390625,4,3,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,53, entitlement. ,9762,871946,564,236,222.375,491.484375,242.875,589.5390625,4,3,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,54, While ,9813,871997,590,236,222.375,589.5390625,242.875,639.5546875,4,4,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,54, While ,9863,872047,615,236,222.375,589.5390625,242.875,639.5546875,4,4,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,54, While ,9913,872097,622,236,222.375,589.5390625,242.875,639.5546875,4,4,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,54, While ,9963,872147,622,236,222.375,589.5390625,242.875,639.5546875,4,4,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,54, While ,10014,872198,622,236,222.375,589.5390625,242.875,639.5546875,4,4,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,54, While ,10064,872248,622,236,222.375,589.5390625,242.875,639.5546875,4,4,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,54, While ,10113,872297,637,236,222.375,589.5390625,242.875,639.5546875,4,4,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,56, British ,10163,872347,702,237,222.375,688.578125,242.875,743.59375,4,6,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,57, workers ,10213,872397,752,237,222.375,743.59375,242.875,811.609375,4,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,57, workers ,10263,872447,777,237,222.375,743.59375,242.875,811.609375,4,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,57, workers ,10312,872496,792,238,222.375,743.59375,242.875,811.609375,4,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,10363,872547,807,240,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,10413,872597,843,241,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,60, two-week ,10463,872647,870,237,222.375,860.6484375,242.875,941.6796875,4,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,60, two-week ,10513,872697,889,233,222.375,860.6484375,242.875,941.6796875,4,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,60, two-week ,10563,872747,893,232,222.375,860.6484375,242.875,941.6796875,4,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,60, two-week ,10614,872798,893,232,222.375,860.6484375,242.875,941.6796875,4,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,60, two-week ,10664,872848,893,232,222.375,860.6484375,242.875,941.6796875,4,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,60, two-week ,10714,872898,893,232,222.375,860.6484375,242.875,941.6796875,4,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,60, two-week ,10763,872946,900,232,222.375,860.6484375,242.875,941.6796875,4,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,61, summer ,10813,872997,942,236,222.375,941.6796875,242.875,1011.6875,4,11,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,61, summer ,10862,873046,979,238,222.375,941.6796875,242.875,1011.6875,4,11,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,61, summer ,10913,873097,995,236,222.375,941.6796875,242.875,1011.6875,4,11,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,61, summer ,10963,873147,1007,235,222.375,941.6796875,242.875,1011.6875,4,11,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,62, holiday ,11013,873197,1017,235,222.375,1011.6875,242.875,1073.734375,4,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,62, holiday ,11062,873246,1032,235,222.375,1011.6875,242.875,1073.734375,4,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,62, holiday ,11113,873297,1048,234,222.375,1011.6875,242.875,1073.734375,4,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,62, holiday ,11162,873346,1060,234,222.375,1011.6875,242.875,1073.734375,4,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,62, holiday ,11213,873397,1062,234,222.375,1011.6875,242.875,1073.734375,4,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,11263,873447,1031,231,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,57, workers ,11313,873497,799,228,222.375,743.59375,242.875,811.609375,4,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,11362,873546,630,237,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,11412,873596,478,246,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,11463,873647,438,253,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,11512,873696,418,260,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,65," right, ",11563,873747,399,269,262.375,386.3984375,282.875,431.421875,5,2,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,11613,873797,386,276,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,11662,873846,359,287,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,11713,873897,349,286,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,11762,873946,346,285,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,11812,873997,346,285,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,11863,874047,353,284,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,64, their ,11912,874096,385,278,262.375,346.375,282.875,386.3984375,5,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,65," right, ",11963,874147,424,273,262.375,386.3984375,282.875,431.421875,5,2,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,66, workers ,12013,874197,456,269,262.375,431.421875,282.875,499.4375,5,3,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,66, workers ,12063,874247,478,267,262.375,431.421875,282.875,499.4375,5,3,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,66, workers ,12113,874297,499,267,262.375,431.421875,282.875,499.4375,5,3,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,68, Japan ,12163,874347,524,267,262.375,518.453125,282.875,572.5,5,5,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,69, think ,12213,874397,578,266,262.375,572.5,282.875,615.5234375,5,6,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,70, that ,12262,874447,633,264,262.375,615.5234375,282.875,650.5546875,5,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,12313,874497,681,260,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,12363,874547,704,258,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,12413,874597,707,257,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,12462,874646,707,257,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,12513,874697,707,257,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,12563,874747,707,257,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,12613,874797,707,257,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,12662,874846,712,263,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,72, four-night ,12712,874896,735,272,262.375,665.5703125,282.875,746.6171875,5,9,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,73, vacation ,12762,874946,754,274,262.375,746.6171875,282.875,818.6640625,5,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,73, vacation ,12812,874997,770,274,262.375,746.6171875,282.875,818.6640625,5,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,73, vacation ,12862,875046,788,274,262.375,746.6171875,282.875,818.6640625,5,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,73, vacation ,12913,875097,811,274,262.375,746.6171875,282.875,818.6640625,5,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,75, complete ,12963,875147,840,273,262.375,836.6640625,282.875,914.703125,5,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,75, complete ,13013,875197,866,272,262.375,836.6640625,282.875,914.703125,5,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,75, complete ,13062,875246,884,272,262.375,836.6640625,282.875,914.703125,5,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,75, complete ,13113,875297,905,268,262.375,836.6640625,282.875,914.703125,5,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,76, self-indulgence. ,13163,875347,930,265,262.375,914.703125,282.875,1045.7890625,5,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,76, self-indulgence. ,13213,875397,941,264,262.375,914.703125,282.875,1045.7890625,5,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,76, self-indulgence. ,13263,875447,941,264,262.375,914.703125,282.875,1045.7890625,5,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,76, self-indulgence. ,13314,875498,941,264,262.375,914.703125,282.875,1045.7890625,5,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,76, self-indulgence. ,13363,875547,941,264,262.375,914.703125,282.875,1045.7890625,5,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,76, self-indulgence. ,13413,875597,944,264,262.375,914.703125,282.875,1045.7890625,5,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,76, self-indulgence. ,13463,875647,966,268,262.375,914.703125,282.875,1045.7890625,5,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,76, self-indulgence. ,13513,875697,1002,271,262.375,914.703125,282.875,1045.7890625,5,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,76, self-indulgence. ,13563,875747,1016,271,262.375,914.703125,282.875,1045.7890625,5,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,76, self-indulgence. ,13612,875796,1021,272,262.375,914.703125,282.875,1045.7890625,5,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,76, self-indulgence. ,13663,875847,1026,273,262.375,914.703125,282.875,1045.7890625,5,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,76, self-indulgence. ,13713,875897,1034,273,262.375,914.703125,282.875,1045.7890625,5,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,76, self-indulgence. ,13763,875947,1041,273,262.375,914.703125,282.875,1045.7890625,5,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,76, self-indulgence. ,13812,875996,1040,273,262.375,914.703125,282.875,1045.7890625,5,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,76, self-indulgence. ,13862,876046,1001,274,262.375,914.703125,282.875,1045.7890625,5,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,13912,876096,885,278,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,72, four-night ,13962,876146,702,279,262.375,665.5703125,282.875,746.6171875,5,9,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,14013,876197,571,290,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,14063,876247,486,302,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,14112,876296,445,316,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,14162,876346,407,324,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,14212,876396,393,326,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,14262,876447,384,327,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,14313,876497,381,327,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,14363,876547,380,327,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,14412,876596,377,323,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,78, the ,14463,876647,373,319,302.375,346.375,322.875,376.3984375,6,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,78, the ,14513,876697,370,315,302.375,346.375,322.875,376.3984375,6,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,78, the ,14563,876747,368,312,302.375,346.375,322.875,376.3984375,6,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,78, the ,14614,876798,368,312,302.375,346.375,322.875,376.3984375,6,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,78, the ,14663,876847,368,312,302.375,346.375,322.875,376.3984375,6,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,78, the ,14713,876897,372,312,302.375,346.375,322.875,376.3984375,6,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,79, end ,14762,876946,390,310,302.375,376.3984375,322.875,411.4375,6,2,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,79, end ,14813,876997,411,308,302.375,376.3984375,322.875,411.4375,6,2,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,80, of ,14863,877047,428,308,302.375,411.4375,322.875,431.453125,6,3,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,81, the ,14913,877097,442,309,302.375,431.453125,322.875,461.4765625,6,4,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,81, the ,14962,877146,454,310,302.375,431.453125,322.875,461.4765625,6,4,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,82," decade, ",15013,877197,468,310,302.375,461.4765625,322.875,530.5390625,6,5,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,82," decade, ",15062,877246,482,310,302.375,461.4765625,322.875,530.5390625,6,5,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,82," decade, ",15113,877297,499,310,302.375,461.4765625,322.875,530.5390625,6,5,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,82," decade, ",15163,877347,525,310,302.375,461.4765625,322.875,530.5390625,6,5,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,83, the ,15213,877397,552,312,302.375,530.5390625,322.875,560.5625,6,6,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,84, government ,15262,877446,564,313,302.375,560.5625,322.875,660.6171875,6,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,84, government ,15312,877496,569,314,302.375,560.5625,322.875,660.6171875,6,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,84, government ,15363,877547,577,314,302.375,560.5625,322.875,660.6171875,6,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,84, government ,15413,877597,593,314,302.375,560.5625,322.875,660.6171875,6,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,84, government ,15463,877647,632,314,302.375,560.5625,322.875,660.6171875,6,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,85, hopes ,15512,877696,677,315,302.375,660.6171875,322.875,714.6640625,6,8,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,86, that ,15562,877746,717,314,302.375,714.6640625,322.875,749.6953125,6,9,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,86, that ,15612,877796,742,309,302.375,714.6640625,322.875,749.6953125,6,9,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,86, that ,15663,877847,749,307,302.375,714.6640625,322.875,749.6953125,6,9,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,86, that ,15714,877898,749,307,302.375,714.6640625,322.875,749.6953125,6,9,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,86, that ,15763,877947,749,307,302.375,714.6640625,322.875,749.6953125,6,9,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,86, that ,15812,877996,749,307,302.375,714.6640625,322.875,749.6953125,6,9,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,87, the ,15862,878047,750,307,302.375,749.6953125,322.875,779.71875,6,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,88, law ,15913,878097,796,307,302.375,779.71875,322.875,811.734375,6,11,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,90, push ,15963,878147,872,313,302.375,841.734375,322.875,885.7734375,6,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,91, Japanese ,16012,878196,912,315,302.375,885.7734375,322.875,968.84375,6,14,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,91, Japanese ,16062,878246,924,315,302.375,885.7734375,322.875,968.84375,6,14,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,91, Japanese ,16113,878297,929,315,302.375,885.7734375,322.875,968.84375,6,14,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,91, Japanese ,16163,878347,938,315,302.375,885.7734375,322.875,968.84375,6,14,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,91, Japanese ,16212,878397,946,315,302.375,885.7734375,322.875,968.84375,6,14,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,91, Japanese ,16263,878447,953,315,302.375,885.7734375,322.875,968.84375,6,14,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,91, Japanese ,16312,878497,966,314,302.375,885.7734375,322.875,968.84375,6,14,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,92, employees ,16362,878546,973,314,302.375,968.84375,322.875,1055.890625,6,15,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,92, employees ,16413,878597,974,314,302.375,968.84375,322.875,1055.890625,6,15,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,16462,878646,940,311,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,85, hopes ,16513,878697,687,308,302.375,660.6171875,322.875,714.6640625,6,8,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,16562,878746,521,313,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,16612,878796,406,332,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,16662,878846,374,340,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,93, towards ,16713,878897,364,344,342.375,346.375,362.875,414.40625,7,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,93, towards ,16763,878947,363,346,342.375,346.375,362.875,414.40625,7,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,93, towards ,16813,878997,365,350,342.375,346.375,362.875,414.40625,7,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,93, towards ,16862,879047,365,353,342.375,346.375,362.875,414.40625,7,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,93, towards ,16913,879097,365,354,342.375,346.375,362.875,414.40625,7,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,93, towards ,16963,879147,369,354,342.375,346.375,362.875,414.40625,7,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,93, towards ,17013,879197,412,350,342.375,346.375,362.875,414.40625,7,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,94, following ,17063,879247,487,346,342.375,414.40625,362.875,489.453125,7,2,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,17112,879296,547,340,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,17163,879347,576,337,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,17212,879396,600,337,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,17263,879447,618,338,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,17313,879497,637,340,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,17362,879546,654,342,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,99, British ,17413,879597,673,345,342.375,645.546875,362.875,700.5625,7,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,99, British ,17462,879646,686,345,342.375,645.546875,362.875,700.5625,7,7,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,17513,879697,700,343,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,17562,879746,711,342,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,17612,879796,711,342,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,17662,879846,711,342,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,17712,879896,711,342,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,17763,879947,711,342,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,17813,879997,750,342,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,103, an ,17863,880047,853,346,342.375,845.625,362.875,870.6484375,7,11,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,104, average ,17913,880097,915,349,342.375,870.6484375,362.875,940.703125,7,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,104, average ,17962,880147,935,349,342.375,870.6484375,362.875,940.703125,7,12,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,105, of ,18012,880196,941,350,342.375,940.703125,362.875,960.71875,7,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,105, of ,18063,880247,952,350,342.375,940.703125,362.875,960.71875,7,13,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,106, 20 ,18113,880297,967,351,342.375,960.71875,362.875,985.7421875,7,14,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,106, 20 ,18163,880347,983,352,342.375,960.71875,362.875,985.7421875,7,14,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,107, days’ ,18212,880396,996,352,342.375,985.7421875,362.875,1032.109375,7,15,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,107, days’ ,18262,880446,1005,352,342.375,985.7421875,362.875,1032.109375,7,15,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,107, days’ ,18313,880497,1013,354,342.375,985.7421875,362.875,1032.109375,7,15,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,107, days’ ,18362,880546,1015,356,342.375,985.7421875,362.875,1032.109375,7,15,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,107, days’ ,18412,880596,991,358,342.375,985.7421875,362.875,1032.109375,7,15,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,18463,880647,893,356,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,18512,880697,625,378,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,18563,880747,565,396,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,18612,880797,478,408,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,18662,880846,431,410,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,18713,880897,398,415,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,18762,880946,379,417,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,18812,880997,375,417,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,18862,881047,375,417,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,18912,881096,375,414,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,18962,881147,375,405,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,109, annual ,19013,881197,375,396,382.375,346.375,402.875,405.4296875,8,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,109, annual ,19063,881247,372,394,382.375,346.375,402.875,405.4296875,8,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,109, annual ,19112,881296,366,393,382.375,346.375,402.875,405.4296875,8,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,109, annual ,19163,881347,364,393,382.375,346.375,402.875,405.4296875,8,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,109, annual ,19212,881396,367,393,382.375,346.375,402.875,405.4296875,8,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,109, annual ,19263,881447,378,394,382.375,346.375,402.875,405.4296875,8,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,109, annual ,19313,881497,405,394,382.375,346.375,402.875,405.4296875,8,1,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,110," leave, ",19362,881546,453,392,382.375,405.4296875,402.875,458.46875,8,2,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,112, those ,19412,881596,496,388,382.375,493.5078125,402.875,542.546875,8,4,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,112, those ,19463,881647,528,385,382.375,493.5078125,402.875,542.546875,8,4,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,113, in ,19513,881697,549,384,382.375,542.546875,402.875,561.5625,8,5,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,114," France, ",19563,881747,564,384,382.375,561.5625,402.875,627.5859375,8,6,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,114," France, ",19613,881797,580,387,382.375,561.5625,402.875,627.5859375,8,6,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,114," France, ",19663,881847,597,390,382.375,561.5625,402.875,627.5859375,8,6,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,114," France, ",19712,881896,618,394,382.375,561.5625,402.875,627.5859375,8,6,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,19762,881947,650,401,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,19813,881997,679,405,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,19862,882046,702,406,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,19912,882096,719,403,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,118, average ,19962,882147,731,396,382.375,729.65625,402.875,799.7109375,8,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,118, average ,20012,882196,746,389,382.375,729.65625,402.875,799.7109375,8,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,118, average ,20063,882247,759,386,382.375,729.65625,402.875,799.7109375,8,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,118, average ,20113,882297,769,386,382.375,729.65625,402.875,799.7109375,8,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,118, average ,20163,882347,771,388,382.375,729.65625,402.875,799.7109375,8,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,118, average ,20212,882397,771,388,382.375,729.65625,402.875,799.7109375,8,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,118, average ,20263,882448,771,388,382.375,729.65625,402.875,799.7109375,8,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,118, average ,20314,882498,771,388,382.375,729.65625,402.875,799.7109375,8,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,118, average ,20362,882546,771,388,382.375,729.65625,402.875,799.7109375,8,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,118, average ,20413,882597,788,397,382.375,729.65625,402.875,799.7109375,8,10,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,20462,882647,788,397,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,20513,882697,788,397,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,20562,882746,788,397,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,20612,882797,788,397,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,20662,882846,788,397,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,20712,882897,788,397,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,20762,882946,788,397,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,20812,882996,788,397,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,20863,883047,788,397,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,13,2,20,21,-1,999,20913,883097,788,397,,,,,,,That it is not their right,0,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
