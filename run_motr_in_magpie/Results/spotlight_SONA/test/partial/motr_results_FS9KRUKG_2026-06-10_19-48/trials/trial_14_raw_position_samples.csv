@@ -1,0 +1,29 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+FS9KRUKG,,2,int,30,1,13,14,-1,999,9523,1241894,845,451,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,9570,1241941,927,349,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,9620,1241991,1033,191,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,33, this ,9670,1242041,1045,166,151.2734375,1039.7421875,171.7734375,1067.7578125,2,17,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,9720,1242090,1050,155,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,9770,1242141,1052,151,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,9821,1242191,1065,135,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,9871,1242242,1069,125,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,9921,1242291,1068,118,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,9970,1242341,1064,118,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,10020,1242390,1061,127,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,10071,1242442,1053,142,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,33, this ,10120,1242491,1042,157,151.2734375,1039.7421875,171.7734375,1067.7578125,2,17,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,10171,1242542,1042,157,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,10220,1242591,917,306,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,10271,1242641,868,388,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,10320,1242691,868,388,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,10371,1242742,868,388,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,10420,1242791,868,388,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,10470,1242841,868,388,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,10520,1242891,868,388,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,10571,1242942,868,388,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,10620,1242991,868,388,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,10670,1243041,868,388,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,10721,1243092,868,388,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,10771,1243142,868,388,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,10820,1243191,868,388,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,30,1,13,14,-1,999,10870,1243241,868,388,,,,,,,All drones must operate at different radio frequencies,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
