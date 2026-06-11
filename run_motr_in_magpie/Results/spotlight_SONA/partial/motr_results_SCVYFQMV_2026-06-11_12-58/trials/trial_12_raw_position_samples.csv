@@ -1,0 +1,243 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,2,int,20,5,11,12,32," BPI, ",1120,641196,530,198,182.375,499.4609375,202.875,538.4765625,3,4,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,1170,641246,518,173,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,1220,641297,518,173,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,1271,641347,518,173,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,1320,641396,518,173,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,1370,641446,464,163,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,1420,641496,331,124,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,1470,641546,301,112,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,1521,641597,301,107,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,1570,641646,307,105,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,1620,641696,324,99,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,1670,641746,346,99,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,1720,641796,360,102,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,1, One ,1770,641846,366,104,102.375,346.375,122.875,385.3984375,1,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,1, One ,1820,641896,376,104,102.375,346.375,122.875,385.3984375,1,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,2, thing ,1870,641946,396,105,102.375,385.3984375,122.875,429.4375,1,2,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,2, thing ,1920,641996,417,112,102.375,385.3984375,122.875,429.4375,1,2,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,3, to ,1970,642046,435,115,102.375,429.4375,122.875,449.453125,1,3,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,3, to ,2020,642096,444,114,102.375,429.4375,122.875,449.453125,1,3,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,3, to ,2071,642147,444,114,102.375,429.4375,122.875,449.453125,1,3,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,3, to ,2121,642197,444,114,102.375,429.4375,122.875,449.453125,1,3,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,3, to ,2170,642246,444,114,102.375,429.4375,122.875,449.453125,1,3,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,3, to ,2221,642297,444,114,102.375,429.4375,122.875,449.453125,1,3,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,5, from ,2270,642347,552,110,102.375,515.4921875,122.875,556.5,1,5,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,9, meeting ,2320,642396,745,110,102.375,714.6015625,122.875,783.640625,1,9,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,10, was ,2370,642446,818,109,102.375,783.640625,122.875,820.65625,1,10,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,11, Cameron’s ,2420,642496,839,109,102.375,820.65625,122.875,912.375,1,11,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,11, Cameron’s ,2470,642546,844,110,102.375,820.65625,122.875,912.375,1,11,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,11, Cameron’s ,2520,642597,847,110,102.375,820.65625,122.875,912.375,1,11,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,11, Cameron’s ,2570,642646,850,110,102.375,820.65625,122.875,912.375,1,11,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,11, Cameron’s ,2620,642697,864,110,102.375,820.65625,122.875,912.375,1,11,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,11, Cameron’s ,2670,642746,892,110,102.375,820.65625,122.875,912.375,1,11,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,12, appointment ,2720,642797,926,110,102.375,912.375,122.875,1016.453125,1,12,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,12, appointment ,2770,642846,956,110,102.375,912.375,122.875,1016.453125,1,12,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,12, appointment ,2820,642897,983,110,102.375,912.375,122.875,1016.453125,1,12,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,12, appointment ,2870,642946,998,110,102.375,912.375,122.875,1016.453125,1,12,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,12, appointment ,2920,642996,1005,110,102.375,912.375,122.875,1016.453125,1,12,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,12, appointment ,2970,643046,1005,110,102.375,912.375,122.875,1016.453125,1,12,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,12, appointment ,3020,643096,1002,109,102.375,912.375,122.875,1016.453125,1,12,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,3070,643146,982,109,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,3120,643196,610,101,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,3170,643246,444,124,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,3220,643296,404,130,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,3270,643346,396,131,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,3319,643396,394,131,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,3370,643446,389,134,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,3420,643496,382,142,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,15, Conservative ,3469,643546,373,151,142.375,346.375,162.875,456.4296875,2,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,15, Conservative ,3520,643596,368,152,142.375,346.375,162.875,456.4296875,2,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,15, Conservative ,3569,643645,367,152,142.375,346.375,162.875,456.4296875,2,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,15, Conservative ,3620,643697,367,152,142.375,346.375,162.875,456.4296875,2,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,15, Conservative ,3670,643746,400,149,142.375,346.375,162.875,456.4296875,2,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,16, member ,3720,643796,512,149,142.375,456.4296875,162.875,527.4453125,2,2,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,18, parliament ,3770,643846,608,151,142.375,547.4609375,162.875,636.5078125,2,4,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,19, Mike ,3820,643896,650,147,142.375,636.5078125,162.875,679.515625,2,5,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,19, Mike ,3870,643946,652,146,142.375,636.5078125,162.875,679.515625,2,5,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,19, Mike ,3921,643997,652,146,142.375,636.5078125,162.875,679.515625,2,5,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,19, Mike ,3972,644048,652,146,142.375,636.5078125,162.875,679.515625,2,5,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,19, Mike ,4021,644098,652,146,142.375,636.5078125,162.875,679.515625,2,5,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,19, Mike ,4071,644147,652,146,142.375,636.5078125,162.875,679.515625,2,5,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,19, Mike ,4120,644196,656,146,142.375,636.5078125,162.875,679.515625,2,5,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,20, Weatherley ,4171,644247,706,147,142.375,679.515625,162.875,775.2421875,2,6,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,20, Weatherley ,4220,644296,743,148,142.375,679.515625,162.875,775.2421875,2,6,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,20, Weatherley ,4270,644347,761,148,142.375,679.515625,162.875,775.2421875,2,6,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,20, Weatherley ,4321,644397,775,148,142.375,679.515625,162.875,775.2421875,2,6,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,22, be ,4370,644447,797,148,142.375,795.2578125,162.875,820.28125,2,8,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,23, his ,4420,644497,826,144,142.375,820.28125,162.875,848.296875,2,9,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,4471,644547,849,143,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,4519,644596,849,143,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,4571,644647,849,143,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,4620,644697,849,143,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,4670,644746,849,143,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,24, adviser ,4720,644796,894,149,142.375,848.296875,162.875,911.328125,2,10,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,26, the ,4770,644846,946,158,142.375,936.3515625,162.875,966.375,2,12,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,27, subject. ,4820,644897,971,160,142.375,966.375,162.875,1032.921875,2,13,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,27, subject. ,4870,644946,985,160,142.375,966.375,162.875,1032.921875,2,13,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,27, subject. ,4920,644996,990,159,142.375,966.375,162.875,1032.921875,2,13,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,27, subject. ,4971,645047,991,158,142.375,966.375,162.875,1032.921875,2,13,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,27, subject. ,5020,645096,979,158,142.375,966.375,162.875,1032.921875,2,13,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,5071,645147,869,166,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,5120,645196,646,182,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,31, the ,5170,645247,477,193,182.375,469.4375,202.875,499.4609375,3,3,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,29, spokesman ,5220,645296,417,199,182.375,346.375,202.875,443.4296875,3,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,29, spokesman ,5270,645346,406,200,182.375,346.375,202.875,443.4296875,3,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,29, spokesman ,5321,645397,406,200,182.375,346.375,202.875,443.4296875,3,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,29, spokesman ,5371,645447,406,200,182.375,346.375,202.875,443.4296875,3,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,29, spokesman ,5420,645496,406,200,182.375,346.375,202.875,443.4296875,3,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,29, spokesman ,5470,645547,403,196,182.375,346.375,202.875,443.4296875,3,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,29, spokesman ,5520,645597,384,193,182.375,346.375,202.875,443.4296875,3,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,29, spokesman ,5570,645646,366,193,182.375,346.375,202.875,443.4296875,3,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,29, spokesman ,5620,645696,362,193,182.375,346.375,202.875,443.4296875,3,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,29, spokesman ,5669,645746,362,192,182.375,346.375,202.875,443.4296875,3,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,29, spokesman ,5720,645796,371,191,182.375,346.375,202.875,443.4296875,3,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,29, spokesman ,5770,645847,432,188,182.375,346.375,202.875,443.4296875,3,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,32," BPI, ",5820,645897,537,187,182.375,499.4609375,202.875,538.4765625,3,4,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,34, record ,5870,645946,591,187,182.375,568.5,202.875,624.5234375,3,6,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,34, record ,5920,645996,617,191,182.375,568.5,202.875,624.5234375,3,6,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,35, industry ,5970,646047,631,195,182.375,624.5234375,202.875,692.5546875,3,7,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,35, industry ,6020,646097,642,196,182.375,624.5234375,202.875,692.5546875,3,7,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,35, industry ,6071,646147,642,196,182.375,624.5234375,202.875,692.5546875,3,7,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,35, industry ,6122,646198,642,196,182.375,624.5234375,202.875,692.5546875,3,7,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,35, industry ,6171,646247,642,196,182.375,624.5234375,202.875,692.5546875,3,7,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,35, industry ,6221,646297,650,196,182.375,624.5234375,202.875,692.5546875,3,7,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,36, trade ,6271,646347,716,196,182.375,692.5546875,202.875,738.5859375,3,8,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,6321,646397,783,202,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,6370,646446,818,202,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,6420,646496,835,202,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,6470,646546,852,202,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,40, Weatherley ,6521,646597,879,198,182.375,878.3203125,202.875,974.046875,3,12,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,40, Weatherley ,6570,646646,911,198,182.375,878.3203125,202.875,974.046875,3,12,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,40, Weatherley ,6620,646697,936,198,182.375,878.3203125,202.875,974.046875,3,12,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,40, Weatherley ,6670,646746,960,199,182.375,878.3203125,202.875,974.046875,3,12,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,6720,646796,970,201,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,6770,646846,985,204,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,6820,646896,995,206,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,6870,646946,1003,207,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,6920,646996,1005,207,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,6971,647047,922,207,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,7020,647096,761,197,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,7070,647146,481,219,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,44, champion ,7120,647196,401,231,222.375,346.375,242.875,429.4296875,4,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,44, champion ,7170,647246,376,233,222.375,346.375,242.875,429.4296875,4,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,44, champion ,7220,647296,363,234,222.375,346.375,242.875,429.4296875,4,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,44, champion ,7270,647347,355,237,222.375,346.375,242.875,429.4296875,4,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,44, champion ,7320,647396,349,240,222.375,346.375,242.875,429.4296875,4,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,44, champion ,7370,647446,347,239,222.375,346.375,242.875,429.4296875,4,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,44, champion ,7420,647496,378,231,222.375,346.375,242.875,429.4296875,4,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,45, of ,7470,647547,444,229,222.375,429.4296875,242.875,449.4453125,4,2,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,46, copyright ,7520,647596,490,231,222.375,449.4453125,242.875,527.484375,4,3,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,47, and ,7570,647647,541,234,222.375,527.484375,242.875,562.5234375,4,4,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,48, the ,7620,647696,576,234,222.375,562.5234375,242.875,592.546875,4,5,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,48, the ,7670,647747,585,234,222.375,562.5234375,242.875,592.546875,4,5,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,48, the ,7721,647797,585,234,222.375,562.5234375,242.875,592.546875,4,5,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,48, the ,7771,647847,585,234,222.375,562.5234375,242.875,592.546875,4,5,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,48, the ,7821,647897,585,234,222.375,562.5234375,242.875,592.546875,4,5,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,49, artists ,7870,647947,614,234,222.375,592.546875,242.875,645.5546875,4,6,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,51, creative ,7921,647997,710,237,222.375,680.59375,242.875,748.625,4,8,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,7971,648047,775,243,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,8020,648096,805,245,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,8070,648146,820,245,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,8120,648197,835,245,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,8170,648246,859,242,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,54, there ,8220,648296,888,233,222.375,860.359375,242.875,906.390625,4,11,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,55, to ,8271,648347,913,230,222.375,906.390625,242.875,926.40625,4,12,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,56, protect. ,8320,648396,937,230,222.375,926.40625,242.875,991.4375,4,13,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,56, protect. ,8370,648446,955,233,222.375,926.40625,242.875,991.4375,4,13,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,56, protect. ,8420,648497,969,236,222.375,926.40625,242.875,991.4375,4,13,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,56, protect. ,8470,648547,983,238,222.375,926.40625,242.875,991.4375,4,13,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,57, We ,8520,648597,992,239,222.375,991.4375,242.875,1023.125,4,14,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,57, We ,8570,648647,997,239,222.375,991.4375,242.875,1023.125,4,14,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,8620,648696,984,238,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,52, producers ,8670,648747,760,224,222.375,748.625,242.875,833.671875,4,9,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,8720,648796,616,229,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,8770,648846,466,254,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,8820,648896,426,263,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,59, Weatherley’s ,8870,648946,397,267,262.375,346.375,282.875,454.78125,5,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,59, Weatherley’s ,8920,648997,376,271,262.375,346.375,282.875,454.78125,5,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,59, Weatherley’s ,8970,649046,359,276,262.375,346.375,282.875,454.78125,5,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,59, Weatherley’s ,9020,649097,350,278,262.375,346.375,282.875,454.78125,5,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,59, Weatherley’s ,9070,649147,351,277,262.375,346.375,282.875,454.78125,5,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,59, Weatherley’s ,9120,649197,398,276,262.375,346.375,282.875,454.78125,5,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,60, influence ,9170,649247,462,274,262.375,454.78125,282.875,531.8359375,5,2,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,60, influence ,9220,649297,517,266,262.375,454.78125,282.875,531.8359375,5,2,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,9271,649347,543,263,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,9320,649396,543,263,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,9370,649447,543,263,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,9421,649497,543,263,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,9471,649547,543,263,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,62, the ,9520,649597,575,265,262.375,566.875,282.875,596.8984375,5,4,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,9570,649647,621,276,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,9620,649697,738,300,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,9670,649747,761,299,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,9720,649796,771,296,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,9770,649847,783,291,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,9821,649897,800,285,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,65, endorsement ,9870,649946,823,278,262.375,728.28125,282.875,838.3515625,5,7,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,66, of ,9920,649996,849,273,262.375,838.3515625,282.875,858.3671875,5,8,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,67, copyright ,9970,650047,876,274,262.375,858.3671875,282.875,936.40625,5,9,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,10020,650096,893,280,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,10070,650146,934,287,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,10121,650197,942,287,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,10171,650247,942,287,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,10220,650297,942,287,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,10270,650347,942,287,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,10320,650397,965,284,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,10370,650447,1024,282,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,10420,650497,1054,282,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,10470,650547,1061,282,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,10521,650597,1062,282,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,10570,650646,1062,282,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,10620,650697,1000,291,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,10670,650747,782,293,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,10720,650797,595,302,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,75, approach ,10770,650847,500,307,302.375,442.453125,322.875,522.515625,6,4,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,75, approach ,10820,650896,450,307,302.375,442.453125,322.875,522.515625,6,4,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,73, on ,10870,650946,400,307,302.375,387.40625,322.875,412.4296875,6,2,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,72, bear ,10920,650997,365,313,302.375,346.375,322.875,387.40625,6,1,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,10970,651046,347,319,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,11020,651096,326,322,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,11070,651146,321,322,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,11120,651196,323,322,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,11170,651246,338,321,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,11220,651297,359,321,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,11270,651346,384,321,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,11320,651397,422,321,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,75, approach ,11370,651446,463,319,302.375,442.453125,322.875,522.515625,6,4,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,75, approach ,11420,651497,507,318,302.375,442.453125,322.875,522.515625,6,4,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,77, the ,11470,651547,554,319,302.375,542.53125,322.875,572.5546875,6,6,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,11520,651597,592,328,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,11570,651646,623,333,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,11620,651696,650,336,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,11670,651746,663,336,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,11720,651796,666,336,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,11770,651846,666,336,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,11820,651897,666,336,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,11870,651946,666,336,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,11920,651997,684,326,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,80, property ,11970,652047,712,311,302.375,705.3046875,322.875,776.34375,6,9,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,80, property ,12020,652097,728,307,302.375,705.3046875,322.875,776.34375,6,9,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,80, property ,12070,652147,735,308,302.375,705.3046875,322.875,776.34375,6,9,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,80, property ,12120,652197,740,310,302.375,705.3046875,322.875,776.34375,6,9,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,80, property ,12170,652247,755,312,302.375,705.3046875,322.875,776.34375,6,9,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,80, property ,12220,652296,768,313,302.375,705.3046875,322.875,776.34375,6,9,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,81, office.” ,12270,652347,781,313,302.375,776.34375,322.875,830.3671875,6,10,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,81, office.” ,12320,652397,793,313,302.375,776.34375,322.875,830.3671875,6,10,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,81, office.” ,12370,652447,803,314,302.375,776.34375,322.875,830.3671875,6,10,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,81, office.” ,12420,652497,812,317,302.375,776.34375,322.875,830.3671875,6,10,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,12471,652547,815,330,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,12519,652595,815,350,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,12569,652645,815,350,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,12619,652695,815,350,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,12669,652745,815,350,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,12719,652795,815,350,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,12769,652846,815,350,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,12819,652895,815,350,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,12869,652945,815,350,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,12919,652995,815,350,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,12970,653046,815,350,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,13019,653095,815,350,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,13070,653146,815,350,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,13121,653197,815,350,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,5,11,12,-1,999,13171,653247,815,350,,,,,,,He is a politician who is endorsed by the BPI,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
