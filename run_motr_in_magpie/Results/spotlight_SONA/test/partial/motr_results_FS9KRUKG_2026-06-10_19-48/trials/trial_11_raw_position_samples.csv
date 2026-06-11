@@ -1,0 +1,30 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+FS9KRUKG,,2,int,16,5,10,11,116, into ,1475,1081841,599,405,391.2734375,573.4765625,411.7734375,607.5,8,6,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,1525,1081891,599,405,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,69, “cool” ,1575,1081941,555,280,271.2734375,511.5,291.7734375,561.515625,5,4,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,69, “cool” ,1625,1081991,555,280,271.2734375,511.5,291.7734375,561.515625,5,4,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,69, “cool” ,1676,1082042,555,280,271.2734375,511.5,291.7734375,561.515625,5,4,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,69, “cool” ,1726,1082092,555,280,271.2734375,511.5,291.7734375,561.515625,5,4,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,1775,1082141,555,281,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,1825,1082191,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,1875,1082241,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,1926,1082292,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,1975,1082341,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,2025,1082391,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,2075,1082441,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,2125,1082491,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,2175,1082541,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,2225,1082591,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,2276,1082642,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,2325,1082691,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,2375,1082741,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,2425,1082791,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,2474,1082840,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,2526,1082892,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,2575,1082941,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,2625,1082991,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,2675,1083041,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,2725,1083091,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,2775,1083141,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,2826,1083192,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,5,10,11,-1,999,2875,1083241,615,383,,,,,,,Damages a phone,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
