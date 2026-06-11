@@ -1,0 +1,234 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+FS9KRUKG,,2,int,24,4,21,22,-1,999,1838,1702991,595,339,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,70, problem. ,1888,1703041,582,274,271.2734375,581.4765625,291.7734375,656.515625,5,7,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,1938,1703091,582,274,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,1988,1703142,669,499,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,2038,1703191,669,499,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,2087,1703240,669,499,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,2138,1703291,669,499,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,2188,1703341,669,499,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,2239,1703392,669,499,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,2287,1703440,669,499,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,2338,1703491,669,499,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,2387,1703540,669,499,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,2438,1703592,669,499,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,2488,1703641,669,499,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,2538,1703691,669,499,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,2588,1703741,669,499,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,2638,1703791,669,499,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,2687,1703840,669,499,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,2737,1703890,669,499,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,2788,1703941,669,499,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,144, gets ,2839,1703992,690,441,431.2734375,655.5546875,451.7734375,694.578125,9,9,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,2889,1704042,690,441,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,2937,1704090,670,189,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,2988,1704141,670,133,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,3038,1704191,622,171,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,3088,1704241,575,217,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,3137,1704290,546,255,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,3188,1704341,535,281,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,3238,1704391,540,305,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,3288,1704441,542,306,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,3338,1704491,552,295,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,3387,1704540,573,270,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,3438,1704591,596,242,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,37, tourism ,3488,1704641,637,209,191.2734375,620.5703125,211.7734375,684.5859375,3,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,37, tourism ,3538,1704691,669,209,191.2734375,620.5703125,211.7734375,684.5859375,3,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,3589,1704742,669,209,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,3639,1704792,683,229,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,53, it ,3689,1704842,683,234,231.2734375,681.5546875,251.7734375,695.5625,4,9,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,3738,1704891,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,3789,1704942,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,3837,1704990,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,3889,1705042,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,3939,1705092,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,3989,1705142,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4039,1705192,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4089,1705242,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4139,1705292,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4189,1705342,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4239,1705392,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4288,1705441,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4339,1705492,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4389,1705542,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4439,1705592,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4489,1705642,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4539,1705692,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4589,1705742,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4639,1705792,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4689,1705842,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4739,1705892,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4789,1705942,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4838,1705991,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4889,1706042,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4939,1706092,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,4989,1706142,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5039,1706192,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5089,1706242,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5138,1706291,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5189,1706342,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5239,1706392,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5289,1706442,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5339,1706492,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5389,1706542,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5439,1706592,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5488,1706641,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5539,1706692,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5588,1706741,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5639,1706792,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5689,1706842,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5739,1706892,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5789,1706942,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5839,1706992,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5889,1707042,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5939,1707092,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,5989,1707142,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6039,1707192,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6089,1707242,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6139,1707292,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6190,1707342,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6239,1707392,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6289,1707442,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6339,1707492,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6389,1707542,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6439,1707592,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6489,1707642,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6539,1707692,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6589,1707742,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6639,1707792,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6689,1707842,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6739,1707892,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6789,1707942,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6839,1707992,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6889,1708042,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6939,1708091,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,6989,1708142,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7039,1708192,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7089,1708242,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7140,1708293,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7189,1708342,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7239,1708392,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7289,1708442,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7340,1708493,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7390,1708543,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7440,1708593,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7489,1708642,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7539,1708692,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7589,1708742,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7639,1708792,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7689,1708842,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7740,1708893,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7789,1708942,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7838,1708991,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7889,1709042,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7939,1709092,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,7989,1709142,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8039,1709192,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8090,1709242,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8140,1709293,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8189,1709342,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8240,1709393,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8288,1709441,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8339,1709492,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8388,1709541,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8439,1709592,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8489,1709642,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8539,1709691,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8589,1709742,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8639,1709792,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8689,1709842,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8739,1709892,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8789,1709942,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8840,1709992,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8889,1710042,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8940,1710092,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,8989,1710142,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9039,1710192,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9089,1710242,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9139,1710292,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9189,1710342,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9239,1710392,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9289,1710442,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9339,1710492,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9388,1710541,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9439,1710592,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9489,1710642,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9539,1710692,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9589,1710742,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9639,1710792,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9689,1710842,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9739,1710892,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9789,1710942,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9839,1710992,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9889,1711042,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9939,1711092,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,9990,1711143,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,52, make ,10039,1711192,680,236,231.2734375,632.53125,251.7734375,681.5546875,4,8,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,10088,1711241,681,244,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,10138,1711291,724,307,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,10187,1711340,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,10238,1711391,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,10287,1711440,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,10338,1711491,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,10388,1711541,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,10438,1711591,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,10488,1711641,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,10538,1711691,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,10588,1711741,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,10639,1711792,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,10689,1711842,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,10738,1711891,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,10788,1711941,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,10838,1711991,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,10888,1712041,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,10938,1712091,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,10989,1712142,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11038,1712191,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11088,1712241,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11138,1712291,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11188,1712341,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11238,1712391,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11288,1712441,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11338,1712491,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11388,1712541,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11438,1712591,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11488,1712641,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11538,1712691,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11589,1712742,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11639,1712792,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11689,1712842,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11739,1712892,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11788,1712941,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11838,1712991,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11888,1713041,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11938,1713091,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,11988,1713141,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12038,1713191,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12089,1713242,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12138,1713291,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12188,1713341,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12238,1713391,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12288,1713441,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12339,1713491,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12389,1713542,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12439,1713592,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12488,1713641,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12538,1713691,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12588,1713741,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12638,1713791,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12688,1713841,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12738,1713891,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12789,1713941,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12839,1713992,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12888,1714041,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12937,1714090,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,12989,1714142,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,13038,1714191,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,13088,1714241,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,13137,1714290,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,13188,1714341,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,13237,1714390,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,13288,1714441,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,13337,1714490,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,13388,1714541,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,24,4,21,22,-1,999,13437,1714590,827,428,,,,,,,23% of the residents will have to pay higher taxes,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
