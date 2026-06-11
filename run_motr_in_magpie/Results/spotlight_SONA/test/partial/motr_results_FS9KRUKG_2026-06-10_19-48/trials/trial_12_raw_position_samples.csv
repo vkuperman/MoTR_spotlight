@@ -1,0 +1,28 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+FS9KRUKG,,2,int,16,6,11,12,-1,999,5909,1129342,762,386,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,5958,1129391,782,324,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,72, trying ,6008,1129441,805,280,271.2734375,785.5703125,291.7734375,834.59375,5,9,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,72, trying ,6059,1129492,810,278,271.2734375,785.5703125,291.7734375,834.59375,5,9,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,72, trying ,6109,1129541,810,278,271.2734375,785.5703125,291.7734375,834.59375,5,9,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,72, trying ,6159,1129592,810,278,271.2734375,785.5703125,291.7734375,834.59375,5,9,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,72, trying ,6208,1129641,810,278,271.2734375,785.5703125,291.7734375,834.59375,5,9,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,72, trying ,6258,1129690,809,279,271.2734375,785.5703125,291.7734375,834.59375,5,9,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,6309,1129741,808,282,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,6358,1129791,767,373,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,6409,1129841,767,373,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,6458,1129891,767,373,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,6508,1129941,767,373,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,6559,1129991,767,373,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,6608,1130041,767,373,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,6658,1130091,767,373,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,6708,1130141,767,373,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,6759,1130191,767,373,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,6808,1130241,767,373,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,6858,1130291,767,373,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,6908,1130341,767,373,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,6959,1130392,767,373,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,7009,1130441,767,373,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,7058,1130491,767,373,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,7108,1130541,767,373,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,7158,1130591,767,373,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,16,6,11,12,-1,999,7208,1130641,767,373,,,,,,,That Carle became 96.9% “made in France”,0,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
