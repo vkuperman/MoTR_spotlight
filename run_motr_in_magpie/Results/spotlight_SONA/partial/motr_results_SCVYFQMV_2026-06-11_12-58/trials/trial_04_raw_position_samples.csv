@@ -1,0 +1,397 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,716,397801,559,408,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,49, blame ,762,397847,471,257,222.375,433.4140625,242.875,487.4453125,4,5,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,31," Traeger-Muney, ",812,397897,453,186,142.375,346.375,202.875,1092.8671875,2,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,31," Traeger-Muney, ",861,397946,453,186,142.375,346.375,202.875,1092.8671875,2,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,31," Traeger-Muney, ",911,397996,453,186,142.375,346.375,202.875,1092.8671875,2,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,31," Traeger-Muney, ",965,398050,453,186,142.375,346.375,202.875,1092.8671875,2,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,1011,398096,452,186,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,1061,398146,408,166,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,1112,398197,349,137,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,1161,398246,341,131,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,1211,398296,341,129,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,1261,398346,344,128,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,1312,398397,353,127,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,1361,398446,363,127,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,1411,398496,366,125,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,1461,398546,368,121,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,1, “The ,1511,398596,371,118,102.375,346.375,122.875,388.390625,1,1,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,1, “The ,1562,398647,382,117,102.375,346.375,122.875,388.390625,1,1,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,2, Occupy ,1611,398696,413,117,102.375,388.390625,122.875,454.4140625,1,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,3, Wall ,1662,398747,463,117,102.375,454.4140625,122.875,493.7578125,1,3,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,4, Street ,1711,398796,515,120,102.375,493.7578125,122.875,546.7890625,1,4,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,1762,398847,531,124,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,1812,398897,531,124,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,1861,398946,531,124,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,1911,398997,531,124,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,1961,399046,531,124,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,2011,399096,559,121,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,6, was ,2061,399146,660,111,102.375,635.828125,122.875,672.84375,1,6,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,8, good ,2112,399197,711,109,102.375,687.859375,122.875,732.90625,1,8,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,9, one ,2161,399247,740,111,102.375,732.90625,122.875,767.9453125,1,9,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,9, one ,2211,399296,762,116,102.375,732.90625,122.875,767.9453125,1,9,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,10, and ,2261,399346,788,117,102.375,767.9453125,122.875,802.984375,1,10,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,2311,399396,807,121,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,2361,399446,821,124,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,2412,399497,839,125,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,2461,399546,859,125,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,12, some ,2511,399597,887,121,102.375,838.0234375,122.875,887.046875,1,12,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,13, important ,2561,399646,909,118,102.375,887.046875,122.875,967.0859375,1,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,13, important ,2612,399697,926,117,102.375,887.046875,122.875,967.0859375,1,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,13, important ,2661,399747,943,117,102.375,887.046875,122.875,967.0859375,1,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,13, important ,2711,399797,957,120,102.375,887.046875,122.875,967.0859375,1,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,2761,399846,971,122,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,2811,399896,987,122,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,2861,399946,996,122,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,2911,399996,1006,122,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,2961,400047,1010,121,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,3011,400096,998,119,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,10, and ,3061,400146,781,110,102.375,767.9453125,122.875,802.984375,1,10,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,3110,400196,666,112,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,3161,400246,553,122,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,3211,400296,504,122,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,3261,400346,472,122,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,3311,400396,443,126,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,3361,400446,412,132,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,3411,400496,394,138,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,3461,400546,383,143,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,31," Traeger-Muney, ",3512,400597,381,144,142.375,346.375,202.875,1092.8671875,2,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,31," Traeger-Muney, ",3562,400647,380,144,142.375,346.375,202.875,1092.8671875,2,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,31," Traeger-Muney, ",3611,400697,383,145,142.375,346.375,202.875,1092.8671875,2,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,31," Traeger-Muney, ",3661,400746,439,151,142.375,346.375,202.875,1092.8671875,2,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,19, inequality ,3711,400796,488,145,142.375,459.453125,162.875,540.5078125,2,4,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,3761,400847,513,134,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,3811,400897,532,133,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,3862,400947,546,135,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,3911,400996,562,141,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,21, it ,3961,401047,575,147,142.375,570.53125,162.875,584.5390625,2,6,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,22, singled ,4011,401097,585,153,142.375,584.5390625,162.875,646.5859375,2,7,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,22, singled ,4061,401146,596,158,142.375,584.5390625,162.875,646.5859375,2,7,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,22, singled ,4112,401197,606,160,142.375,584.5390625,162.875,646.5859375,2,7,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,22, singled ,4162,401247,609,161,142.375,584.5390625,162.875,646.5859375,2,7,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,22, singled ,4211,401297,609,161,142.375,584.5390625,162.875,646.5859375,2,7,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,22, singled ,4263,401348,609,161,142.375,584.5390625,162.875,646.5859375,2,7,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,22, singled ,4312,401397,609,161,142.375,584.5390625,162.875,646.5859375,2,7,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,22, singled ,4362,401447,609,161,142.375,584.5390625,162.875,646.5859375,2,7,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,22, singled ,4412,401497,624,161,142.375,584.5390625,162.875,646.5859375,2,7,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,24, the ,4460,401546,690,161,142.375,676.609375,162.875,706.6328125,2,9,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,25, 1% ,4511,401596,727,160,142.375,706.6328125,162.875,737.65625,2,10,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,26, as ,4561,401646,742,160,142.375,737.65625,162.875,761.671875,2,11,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,26, as ,4611,401697,755,160,142.375,737.65625,162.875,761.671875,2,11,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,27, something ,4662,401747,766,160,142.375,761.671875,162.875,849.7265625,2,12,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,4711,401796,781,161,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,27, something ,4761,401846,799,165,142.375,761.671875,162.875,849.7265625,2,12,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,27, something ,4811,401896,826,166,142.375,761.671875,162.875,849.7265625,2,12,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,28," negative,” ",4861,401946,857,165,142.375,849.7265625,162.875,933.78125,2,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,28," negative,” ",4911,401997,881,164,142.375,849.7265625,162.875,933.78125,2,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,28," negative,” ",4961,402046,901,164,142.375,849.7265625,162.875,933.78125,2,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,28," negative,” ",5011,402096,916,165,142.375,849.7265625,162.875,933.78125,2,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,28," negative,” ",5061,402146,932,167,142.375,849.7265625,162.875,933.78125,2,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,29, said ,5112,402197,947,168,142.375,933.78125,162.875,971.8046875,2,14,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,29, said ,5161,402246,961,168,142.375,933.78125,162.875,971.8046875,2,14,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,30, Jamie ,5211,402296,973,166,142.375,971.8046875,162.875,1024.6640625,2,15,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,5260,402345,983,162,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,5311,402396,990,161,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,5361,402446,995,161,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,5411,402496,1001,161,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,5462,402547,1006,162,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,30, Jamie ,5512,402597,1011,163,142.375,971.8046875,162.875,1024.6640625,2,15,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,30, Jamie ,5561,402646,1018,164,142.375,971.8046875,162.875,1024.6640625,2,15,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,30, Jamie ,5612,402697,1024,165,142.375,971.8046875,162.875,1024.6640625,2,15,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,5661,402746,1030,166,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,5711,402796,1037,166,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,5762,402847,1043,166,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,5812,402897,1045,166,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,5862,402947,1045,166,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,30, Jamie ,5911,402996,1024,158,142.375,971.8046875,162.875,1024.6640625,2,15,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,5961,403046,945,134,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,6011,403096,863,131,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,6061,403146,784,137,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,24, the ,6111,403196,702,150,142.375,676.609375,162.875,706.6328125,2,9,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,6161,403247,644,159,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,20, but ,6211,403296,551,173,142.375,540.5078125,162.875,570.53125,2,5,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,19, inequality ,6261,403346,496,181,142.375,459.453125,162.875,540.5078125,2,4,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,31," Traeger-Muney, ",6311,403397,449,188,142.375,346.375,202.875,1092.8671875,2,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,32, a ,6362,403447,415,194,182.375,409.078125,202.875,424.09375,3,1,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,6410,403495,393,196,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,6461,403546,378,198,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,6511,403596,372,199,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,6562,403647,371,200,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,6612,403697,373,200,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,6660,403745,379,200,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,6711,403796,387,201,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,6761,403847,400,203,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,6811,403896,411,205,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,6861,403946,426,207,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,6911,403997,451,210,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,6960,404046,475,213,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,7011,404096,500,213,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,7061,404147,527,214,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,7111,404196,544,214,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,7162,404247,556,214,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,7210,404295,572,210,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,7261,404346,584,204,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,35, and ,7311,404397,597,200,182.375,585.1875,202.875,620.2265625,3,4,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,35, and ,7361,404446,608,198,182.375,585.1875,202.875,620.2265625,3,4,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,35, and ,7412,404497,618,197,182.375,585.1875,202.875,620.2265625,3,4,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,36, founder ,7461,404547,634,199,182.375,620.2265625,202.875,686.28125,3,5,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,7510,404596,652,202,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,7561,404646,668,204,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,7612,404697,672,204,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,7662,404747,672,204,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,7711,404796,672,204,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,7762,404847,672,204,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,7810,404896,678,204,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,7861,404946,725,205,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,7912,404997,776,214,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,7962,405047,794,218,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,8010,405096,802,219,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,8061,405146,807,219,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,8111,405196,812,218,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,8161,405246,816,216,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,8211,405296,824,212,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,8261,405346,832,208,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,8311,405396,845,206,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,8361,405446,855,204,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,8411,405496,868,201,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,41, Group. ,8461,405547,881,200,182.375,860.078125,202.875,919.953125,3,10,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,41, Group. ,8511,405596,894,196,182.375,860.078125,202.875,919.953125,3,10,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,28," negative,” ",8561,405646,909,192,142.375,849.7265625,162.875,933.78125,2,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,28," negative,” ",8611,405696,928,191,142.375,849.7265625,162.875,933.78125,2,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,29, said ,8661,405746,943,191,142.375,933.78125,162.875,971.8046875,2,14,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,29, said ,8711,405796,961,191,142.375,933.78125,162.875,971.8046875,2,14,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,30, Jamie ,8761,405847,981,192,142.375,971.8046875,162.875,1024.6640625,2,15,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,30, Jamie ,8811,405896,999,192,142.375,971.8046875,162.875,1024.6640625,2,15,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,43," media, ",8860,405946,1014,193,182.375,955.8125,202.875,1014.84375,3,12,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,44, she ,8911,405996,1024,193,182.375,1014.84375,202.875,1048.8671875,3,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,44, she ,8961,406047,1032,193,182.375,1014.84375,202.875,1048.8671875,3,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,44, she ,9011,406096,1038,193,182.375,1014.84375,202.875,1048.8671875,3,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,44, she ,9061,406147,1042,194,182.375,1014.84375,202.875,1048.8671875,3,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,44, she ,9111,406196,1044,194,182.375,1014.84375,202.875,1048.8671875,3,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,44, she ,9161,406247,1044,194,182.375,1014.84375,202.875,1048.8671875,3,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,44, she ,9212,406297,1043,194,182.375,1014.84375,202.875,1048.8671875,3,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,30, Jamie ,9261,406346,1006,192,142.375,971.8046875,162.875,1024.6640625,2,15,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,28," negative,” ",9312,406397,866,188,142.375,849.7265625,162.875,933.78125,2,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,9361,406446,759,189,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,9411,406496,552,222,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,50, for ,9461,406546,488,230,222.375,487.4453125,242.875,513.453125,4,6,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,49, blame ,9511,406597,441,234,222.375,433.4140625,242.875,487.4453125,4,5,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,63, Traeger-Muney ,9561,406646,402,239,222.375,346.375,282.875,1068.8046875,4,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,63, Traeger-Muney ,9611,406696,378,244,222.375,346.375,282.875,1068.8046875,4,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,63, Traeger-Muney ,9662,406747,364,245,222.375,346.375,282.875,1068.8046875,4,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,63, Traeger-Muney ,9711,406797,363,244,222.375,346.375,282.875,1068.8046875,4,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,63, Traeger-Muney ,9761,406846,364,243,222.375,346.375,282.875,1068.8046875,4,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,9811,406896,380,241,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,48, to ,9861,406947,427,239,222.375,413.3984375,242.875,433.4140625,4,4,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,49, blame ,9912,406997,484,237,222.375,433.4140625,242.875,487.4453125,4,5,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,51, making ,9961,407047,525,236,222.375,513.453125,242.875,576.484375,4,7,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,51, making ,10010,407096,541,236,222.375,513.453125,242.875,576.484375,4,7,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,51, making ,10061,407147,547,236,222.375,513.453125,242.875,576.484375,4,7,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,51, making ,10111,407196,550,236,222.375,513.453125,242.875,576.484375,4,7,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,51, making ,10161,407246,552,236,222.375,513.453125,242.875,576.484375,4,7,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,51, making ,10211,407296,560,236,222.375,513.453125,242.875,576.484375,4,7,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,52, the ,10260,407346,580,237,222.375,576.484375,242.875,606.5078125,4,8,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,52, the ,10311,407396,599,237,222.375,576.484375,242.875,606.5078125,4,8,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,53, rich ,10361,407446,617,237,222.375,606.5078125,242.875,640.515625,4,9,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,53, rich ,10412,407497,633,235,222.375,606.5078125,242.875,640.515625,4,9,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,54, “feel ,10461,407546,648,233,222.375,640.515625,242.875,680.5390625,4,10,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,54, “feel ,10511,407597,660,231,222.375,640.515625,242.875,680.5390625,4,10,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,54, “feel ,10561,407647,660,231,222.375,640.515625,242.875,680.5390625,4,10,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,54, “feel ,10611,407697,660,231,222.375,640.515625,242.875,680.5390625,4,10,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,54, “feel ,10662,407747,660,231,222.375,640.515625,242.875,680.5390625,4,10,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,54, “feel ,10712,407797,660,231,222.375,640.515625,242.875,680.5390625,4,10,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,54, “feel ,10761,407847,660,231,222.375,640.515625,242.875,680.5390625,4,10,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,55, like ,10811,407896,704,231,222.375,680.5390625,242.875,712.5546875,4,11,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,56, they ,10861,407946,743,232,222.375,712.5546875,242.875,751.578125,4,12,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,57, need ,10911,407996,761,232,222.375,751.578125,242.875,796.625,4,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,57, need ,10961,408047,777,232,222.375,751.578125,242.875,796.625,4,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,57, need ,11012,408097,787,232,222.375,751.578125,242.875,796.625,4,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,58, to ,11061,408146,797,232,222.375,796.625,242.875,816.640625,4,14,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,58, to ,11111,408196,812,232,222.375,796.625,242.875,816.640625,4,14,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,59, hide ,11161,408246,832,232,222.375,816.640625,242.875,855.6796875,4,15,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,59, hide ,11211,408296,849,232,222.375,816.640625,242.875,855.6796875,4,15,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,60, or ,11262,408347,869,233,222.375,855.6796875,242.875,876.6875,4,16,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,61, feel ,11311,408396,892,233,222.375,876.6875,242.875,910.7109375,4,17,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,62, ashamed”. ,11360,408446,912,231,222.375,910.7109375,242.875,1000.6015625,4,18,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,62, ashamed”. ,11411,408496,922,231,222.375,910.7109375,242.875,1000.6015625,4,18,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,62, ashamed”. ,11461,408546,932,233,222.375,910.7109375,242.875,1000.6015625,4,18,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,62, ashamed”. ,11511,408596,947,235,222.375,910.7109375,242.875,1000.6015625,4,18,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,62, ashamed”. ,11561,408646,965,238,222.375,910.7109375,242.875,1000.6015625,4,18,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,62, ashamed”. ,11611,408697,990,240,222.375,910.7109375,242.875,1000.6015625,4,18,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,11660,408746,1009,242,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,11711,408796,1020,245,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,11761,408846,1023,247,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,11811,408896,1017,245,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,11861,408946,911,221,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,11910,408995,706,212,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,11961,409046,613,224,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,50, for ,12011,409097,509,247,222.375,487.4453125,242.875,513.453125,4,6,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,49, blame ,12061,409146,463,255,222.375,433.4140625,242.875,487.4453125,4,5,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,48, to ,12111,409196,423,261,222.375,413.3984375,242.875,433.4140625,4,4,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,63, Traeger-Muney ,12160,409245,398,265,222.375,346.375,282.875,1068.8046875,4,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,63, Traeger-Muney ,12210,409296,388,266,222.375,346.375,282.875,1068.8046875,4,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,63, Traeger-Muney ,12261,409346,379,268,222.375,346.375,282.875,1068.8046875,4,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,63, Traeger-Muney ,12311,409397,371,272,222.375,346.375,282.875,1068.8046875,4,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,12361,409447,369,273,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,12411,409496,374,273,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,12460,409546,378,273,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,12511,409596,383,273,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,12561,409646,398,273,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,64, runs ,12611,409696,429,273,262.375,405.40625,282.875,445.4296875,5,1,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,66, global ,12662,409747,463,273,262.375,460.4453125,282.875,513.4921875,5,3,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,66, global ,12711,409797,490,274,262.375,460.4453125,282.875,513.4921875,5,3,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,66, global ,12761,409846,510,275,262.375,460.4453125,282.875,513.4921875,5,3,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,67, business ,12811,409897,521,276,262.375,513.4921875,282.875,589.5390625,5,4,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,67, business ,12862,409947,521,276,262.375,513.4921875,282.875,589.5390625,5,4,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,67, business ,12912,409997,521,276,262.375,513.4921875,282.875,589.5390625,5,4,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,67, business ,12962,410047,521,276,262.375,513.4921875,282.875,589.5390625,5,4,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,67, business ,13012,410097,521,276,262.375,513.4921875,282.875,589.5390625,5,4,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,67, business ,13061,410147,539,276,262.375,513.4921875,282.875,589.5390625,5,4,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,68, and ,13111,410196,593,276,262.375,589.5390625,282.875,624.578125,5,5,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,68, and ,13161,410246,620,276,262.375,589.5390625,282.875,624.578125,5,5,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,69, specializes ,13211,410296,634,275,262.375,624.578125,282.875,717.625,5,6,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,69, specializes ,13261,410347,643,275,262.375,624.578125,282.875,717.625,5,6,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,69, specializes ,13311,410396,651,275,262.375,624.578125,282.875,717.625,5,6,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,69, specializes ,13360,410446,665,275,262.375,624.578125,282.875,717.625,5,6,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,69, specializes ,13411,410497,691,275,262.375,624.578125,282.875,717.625,5,6,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,69, specializes ,13461,410547,712,273,262.375,624.578125,282.875,717.625,5,6,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,56, they ,13512,410597,715,272,222.375,712.5546875,242.875,751.578125,4,12,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,56, they ,13562,410647,715,272,222.375,712.5546875,242.875,751.578125,4,12,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,56, they ,13612,410698,715,272,222.375,712.5546875,242.875,751.578125,4,12,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,56, they ,13662,410748,715,272,222.375,712.5546875,242.875,751.578125,4,12,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,56, they ,13711,410796,720,272,222.375,712.5546875,242.875,751.578125,4,12,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,56, they ,13762,410847,734,272,222.375,712.5546875,242.875,751.578125,4,12,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,71, working ,13810,410896,776,273,262.375,736.640625,282.875,803.671875,5,8,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,71, working ,13862,410947,782,274,262.375,736.640625,282.875,803.671875,5,8,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,71, working ,13911,410997,792,274,262.375,736.640625,282.875,803.671875,5,8,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,59, hide ,13961,411047,846,272,222.375,816.640625,242.875,855.6796875,4,15,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,60, or ,14011,411097,865,272,222.375,855.6796875,242.875,876.6875,4,16,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,61, feel ,14060,411146,884,272,222.375,876.6875,242.875,910.7109375,4,17,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,61, feel ,14110,411196,902,272,222.375,876.6875,242.875,910.7109375,4,17,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,62, ashamed”. ,14161,411246,917,269,222.375,910.7109375,242.875,1000.6015625,4,18,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,62, ashamed”. ,14211,411296,930,269,222.375,910.7109375,242.875,1000.6015625,4,18,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,62, ashamed”. ,14261,411346,940,269,222.375,910.7109375,242.875,1000.6015625,4,18,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,62, ashamed”. ,14311,411397,949,270,222.375,910.7109375,242.875,1000.6015625,4,18,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,62, ashamed”. ,14360,411446,961,272,222.375,910.7109375,242.875,1000.6015625,4,18,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,75, often ,14411,411496,973,275,262.375,962.75,282.875,1007.7890625,5,12,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,75, often ,14461,411546,988,279,262.375,962.75,282.875,1007.7890625,5,12,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,14511,411596,1003,283,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,14561,411646,1017,284,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,14611,411696,1031,284,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,14660,411746,1039,282,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,77, a ,14711,411796,1045,279,262.375,1037.8125,282.875,1052.828125,5,14,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,77, a ,14761,411847,1047,277,262.375,1037.8125,282.875,1052.828125,5,14,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,77, a ,14811,411897,1046,276,262.375,1037.8125,282.875,1052.828125,5,14,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,14861,411946,1024,272,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,71, working ,14911,411997,787,274,262.375,736.640625,282.875,803.671875,5,8,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,14960,412046,659,280,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,15010,412096,502,294,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,15061,412146,451,298,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,79, reputation ,15111,412197,422,305,302.375,346.375,322.875,431.4375,6,1,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,79, reputation ,15161,412246,397,310,302.375,346.375,322.875,431.4375,6,1,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,79, reputation ,15211,412296,383,312,302.375,346.375,322.875,431.4375,6,1,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,79, reputation ,15261,412347,371,313,302.375,346.375,322.875,431.4375,6,1,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,79, reputation ,15311,412396,364,314,302.375,346.375,322.875,431.4375,6,1,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,79, reputation ,15361,412447,361,315,302.375,346.375,322.875,431.4375,6,1,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,79, reputation ,15411,412497,365,315,302.375,346.375,322.875,431.4375,6,1,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,79, reputation ,15460,412546,396,315,302.375,346.375,322.875,431.4375,6,1,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,80, in ,15511,412596,441,315,302.375,431.4375,322.875,450.453125,6,2,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,81, the ,15561,412646,479,316,302.375,450.453125,322.875,480.4765625,6,3,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,82, press. ,15611,412697,501,316,302.375,480.4765625,322.875,534.5,6,4,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,82, press. ,15661,412746,519,316,302.375,480.4765625,322.875,534.5,6,4,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,83," “Sometimes, ",15712,412797,540,316,302.375,534.5,322.875,640.5234375,6,5,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,83," “Sometimes, ",15760,412846,560,316,302.375,534.5,322.875,640.5234375,6,5,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,83," “Sometimes, ",15811,412897,579,316,302.375,534.5,322.875,640.5234375,6,5,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,83," “Sometimes, ",15861,412946,592,317,302.375,534.5,322.875,640.5234375,6,5,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,83," “Sometimes, ",15911,412997,599,318,302.375,534.5,322.875,640.5234375,6,5,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,83," “Sometimes, ",15961,413047,599,318,302.375,534.5,322.875,640.5234375,6,5,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,83," “Sometimes, ",16012,413097,599,318,302.375,534.5,322.875,640.5234375,6,5,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,83," “Sometimes, ",16061,413147,599,318,302.375,534.5,322.875,640.5234375,6,5,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,83," “Sometimes, ",16111,413196,603,318,302.375,534.5,322.875,640.5234375,6,5,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,83," “Sometimes, ",16161,413246,634,318,302.375,534.5,322.875,640.5234375,6,5,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,86, shocked ,16212,413297,682,319,302.375,680.5390625,322.875,752.5859375,6,8,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,16261,413346,705,321,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,16310,413396,717,321,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,16362,413448,721,321,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,16411,413496,722,321,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,16461,413546,724,321,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,16511,413596,733,322,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,16560,413645,751,323,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,16610,413695,766,323,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,16661,413746,780,323,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,16711,413796,797,323,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,16761,413847,818,324,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,16811,413896,843,326,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,16861,413946,871,327,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,16911,413997,891,327,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,16960,414046,912,327,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,17011,414096,942,327,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,17062,414147,975,333,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,17110,414195,1019,335,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,17160,414246,1030,331,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,17211,414297,1033,328,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,17261,414346,1033,326,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,17311,414396,1033,322,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,17361,414447,1022,316,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,17410,414496,739,303,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,17461,414546,618,306,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,17511,414596,450,323,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,17561,414646,403,329,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,17611,414697,371,330,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,17661,414746,343,332,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,17711,414796,331,335,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,17761,414846,329,336,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,17811,414896,330,340,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,95, refer ,17861,414947,356,351,342.375,346.375,362.875,388.390625,7,1,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,17911,414996,381,359,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,17960,415046,405,363,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,18011,415097,406,363,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,18062,415147,406,363,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,18112,415197,406,363,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,18161,415247,406,363,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,18211,415297,406,363,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,18260,415345,420,362,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,97, another ,18311,415396,464,356,342.375,408.40625,362.875,474.4609375,7,3,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,98, group ,18362,415447,513,353,342.375,474.4609375,362.875,525.5,7,4,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,100, people ,18411,415497,552,353,342.375,545.515625,362.875,604.5703125,7,6,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,101, in ,18460,415546,618,353,342.375,604.5703125,362.875,623.5859375,7,7,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,103, way ,18510,415596,676,347,342.375,653.609375,362.875,690.625,7,9,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,105, it ,18561,415647,733,346,342.375,725.65625,362.875,739.6640625,7,11,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,106, seems ,18611,415696,771,345,342.375,739.6640625,362.875,797.6875,7,12,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,107, perfectly ,18661,415747,801,345,342.375,797.6875,362.875,870.71875,7,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,107, perfectly ,18711,415797,850,348,342.375,797.6875,362.875,870.71875,7,13,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,108, normal ,18760,415846,905,351,342.375,870.71875,362.875,930.7421875,7,14,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,109, to ,18811,415896,939,354,342.375,930.7421875,362.875,950.7578125,7,15,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,110, refer ,18860,415946,959,354,342.375,950.7578125,362.875,992.7734375,7,16,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,110, refer ,18911,415997,973,352,342.375,950.7578125,362.875,992.7734375,7,16,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,110, refer ,18961,416047,982,351,342.375,950.7578125,362.875,992.7734375,7,16,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,110, refer ,19011,416097,988,351,342.375,950.7578125,362.875,992.7734375,7,16,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,110, refer ,19062,416147,989,351,342.375,950.7578125,362.875,992.7734375,7,16,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,110, refer ,19111,416197,984,351,342.375,950.7578125,362.875,992.7734375,7,16,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,19161,416246,887,337,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,19211,416297,725,325,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,19261,416347,571,333,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,97, another ,19310,416396,464,352,342.375,408.40625,362.875,474.4609375,7,3,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,19361,416446,426,360,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,19410,416496,379,370,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,19461,416547,353,381,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,19511,416596,338,387,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,19562,416647,344,388,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,113, people.” ,19610,416696,386,390,382.375,346.375,402.875,411.4296875,8,1,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,113, people.” ,19661,416747,410,388,382.375,346.375,402.875,411.4296875,8,1,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,19711,416796,419,385,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,19762,416847,420,385,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,19811,416897,420,385,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,19861,416946,420,385,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,19911,416997,420,385,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,19960,417046,449,394,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,20011,417097,449,394,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,20062,417147,449,394,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,20111,417197,449,394,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,20160,417246,449,394,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,20210,417296,449,394,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,20261,417346,449,394,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,20311,417397,449,394,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,20362,417447,449,394,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,20412,417497,449,394,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,27,3,3,4,-1,999,20461,417547,449,394,,,,,,,They say cruel things about wealthy people,1,,,,,1970-01-01T00:00:00.716Z,,,,,,,,,spotlight-sona
