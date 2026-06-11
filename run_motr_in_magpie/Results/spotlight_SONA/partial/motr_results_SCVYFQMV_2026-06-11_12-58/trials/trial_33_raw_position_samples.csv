@@ -1,0 +1,329 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,1874,1117101,586,399,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,1919,1117146,450,257,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,37, workplaces ,1969,1117196,372,187,182.375,346.375,202.875,441.4140625,3,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,18, hours ,2019,1117246,347,155,142.375,346.375,162.875,396.40625,2,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,2068,1117295,343,130,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,1, This ,2119,1117346,346,111,102.375,346.375,122.875,385.3828125,1,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,2168,1117395,347,104,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,2219,1117446,346,102,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,2270,1117497,346,101,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,1, This ,2319,1117546,353,106,102.375,346.375,122.875,385.3828125,1,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,1, This ,2369,1117596,367,113,102.375,346.375,122.875,385.3828125,1,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,1, This ,2419,1117646,384,114,102.375,346.375,122.875,385.3828125,1,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,2, might ,2469,1117696,404,112,102.375,385.3828125,122.875,434.40625,1,2,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,3, be ,2519,1117747,436,111,102.375,434.40625,122.875,459.4296875,1,3,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,3, be ,2569,1117796,454,114,102.375,434.40625,122.875,459.4296875,1,3,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,3, be ,2619,1117846,454,114,102.375,434.40625,122.875,459.4296875,1,3,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,3, be ,2671,1117898,454,114,102.375,434.40625,122.875,459.4296875,1,3,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,3, be ,2721,1117948,454,114,102.375,434.40625,122.875,459.4296875,1,3,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,3, be ,2771,1117998,455,114,102.375,434.40625,122.875,459.4296875,1,3,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,4," why, ",2819,1118046,494,108,102.375,459.4296875,122.875,500.1171875,1,4,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,6," adds, ",2869,1118097,553,105,102.375,525.140625,122.875,574.1796875,1,6,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,7, the ,2919,1118147,582,105,102.375,574.1796875,122.875,604.203125,1,7,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,7, the ,2969,1118197,598,107,102.375,574.1796875,122.875,604.203125,1,7,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,8, traditional ,3019,1118246,613,111,102.375,604.203125,122.875,687.2578125,1,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,8, traditional ,3069,1118296,634,116,102.375,604.203125,122.875,687.2578125,1,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,8, traditional ,3120,1118347,634,116,102.375,604.203125,122.875,687.2578125,1,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,8, traditional ,3170,1118397,634,116,102.375,604.203125,122.875,687.2578125,1,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,8, traditional ,3221,1118448,634,116,102.375,604.203125,122.875,687.2578125,1,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,8, traditional ,3269,1118496,645,114,102.375,604.203125,122.875,687.2578125,1,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,9, nine ,3318,1118546,708,106,102.375,687.2578125,122.875,726.296875,1,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,11, five ,3369,1118597,756,104,102.375,746.3125,122.875,779.328125,1,11,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,11, five ,3419,1118646,778,105,102.375,746.3125,122.875,779.328125,1,11,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,12, is ,3468,1118696,793,107,102.375,779.328125,122.875,797.328125,1,12,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,13, so ,3519,1118746,810,108,102.375,797.328125,122.875,821.34375,1,13,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,14, ingrained; ,3569,1118796,832,108,102.375,821.34375,122.875,905.40625,1,14,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,14, ingrained; ,3619,1118846,834,109,102.375,821.34375,122.875,905.40625,1,14,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,14, ingrained; ,3670,1118897,834,109,102.375,821.34375,122.875,905.40625,1,14,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,14, ingrained; ,3720,1118947,834,109,102.375,821.34375,122.875,905.40625,1,14,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,14, ingrained; ,3769,1118996,843,109,102.375,821.34375,122.875,905.40625,1,14,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,14, ingrained; ,3819,1119047,880,109,102.375,821.34375,122.875,905.40625,1,14,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,15, bosses ,3869,1119096,937,109,102.375,905.40625,122.875,967.4453125,1,15,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,15, bosses ,3919,1119146,954,108,102.375,905.40625,122.875,967.4453125,1,15,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,15, bosses ,3969,1119196,966,107,102.375,905.40625,122.875,967.4453125,1,15,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,16, control ,4019,1119247,977,107,102.375,967.4453125,122.875,1026.4765625,1,16,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,16, control ,4069,1119296,988,106,102.375,967.4453125,122.875,1026.4765625,1,16,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,16, control ,4119,1119347,1000,106,102.375,967.4453125,122.875,1026.4765625,1,16,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,16, control ,4169,1119396,1011,106,102.375,967.4453125,122.875,1026.4765625,1,16,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,16, control ,4218,1119446,1020,110,102.375,967.4453125,122.875,1026.4765625,1,16,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,16, control ,4269,1119496,1024,113,102.375,967.4453125,122.875,1026.4765625,1,16,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,16, control ,4319,1119547,1024,113,102.375,967.4453125,122.875,1026.4765625,1,16,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,16, control ,4369,1119597,1015,113,102.375,967.4453125,122.875,1026.4765625,1,16,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,14, ingrained; ,4418,1119646,882,109,102.375,821.34375,122.875,905.40625,1,14,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,4468,1119695,737,117,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,4519,1119746,531,170,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,38, have ,4568,1119795,479,189,182.375,441.4140625,202.875,485.453125,3,2,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,37, workplaces ,4619,1119847,435,195,182.375,346.375,202.875,441.4140625,3,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,37, workplaces ,4669,1119896,406,195,182.375,346.375,202.875,441.4140625,3,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,37, workplaces ,4719,1119947,392,192,182.375,346.375,202.875,441.4140625,3,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,37, workplaces ,4769,1119996,385,186,182.375,346.375,202.875,441.4140625,3,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,4819,1120046,377,179,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,4869,1120096,371,173,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,4919,1120146,368,166,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,4969,1120196,367,161,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,18, hours ,5019,1120247,367,160,142.375,346.375,162.875,396.40625,2,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,18, hours ,5069,1120297,370,160,142.375,346.375,162.875,396.40625,2,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,5119,1120346,385,163,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,5169,1120396,419,166,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,5219,1120446,466,166,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,5269,1120496,508,162,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,5319,1120546,532,162,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,5369,1120596,552,162,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,23, are ,5419,1120646,575,159,142.375,545.5078125,162.875,576.53125,2,6,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,25, their ,5469,1120696,602,156,142.375,595.546875,162.875,635.5703125,2,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,25, their ,5519,1120746,635,151,142.375,595.546875,162.875,635.5703125,2,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,26, mid-50s ,5569,1120796,658,150,142.375,635.5703125,162.875,704.59375,2,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,26, mid-50s ,5619,1120846,671,150,142.375,635.5703125,162.875,704.59375,2,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,26, mid-50s ,5669,1120896,679,150,142.375,635.5703125,162.875,704.59375,2,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,26, mid-50s ,5720,1120947,679,150,142.375,635.5703125,162.875,704.59375,2,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,26, mid-50s ,5771,1120998,679,150,142.375,635.5703125,162.875,704.59375,2,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,26, mid-50s ,5821,1121048,679,150,142.375,635.5703125,162.875,704.59375,2,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,26, mid-50s ,5869,1121097,689,150,142.375,635.5703125,162.875,704.59375,2,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,5918,1121146,719,145,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,5968,1121195,810,133,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,6018,1121246,837,133,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,6069,1121296,851,134,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,6119,1121346,856,136,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,6168,1121395,856,136,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,6219,1121447,856,136,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,6270,1121497,856,136,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,6319,1121546,860,136,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,6369,1121596,891,142,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,34, them”. ,6419,1121647,914,144,142.375,911.7109375,162.875,967.7265625,2,17,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,34, them”. ,6468,1121696,931,147,142.375,911.7109375,162.875,967.7265625,2,17,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,34, them”. ,6519,1121746,945,151,142.375,911.7109375,162.875,967.7265625,2,17,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,34, them”. ,6569,1121796,956,154,142.375,911.7109375,162.875,967.7265625,2,17,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,35," So, ",6619,1121846,971,156,142.375,967.7265625,162.875,999.75,2,18,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,35," So, ",6669,1121896,989,158,142.375,967.7265625,162.875,999.75,2,18,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,36, should ,6719,1121946,1007,158,142.375,999.75,162.875,1052.796875,2,19,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,36, should ,6769,1121997,1021,158,142.375,999.75,162.875,1052.796875,2,19,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,36, should ,6819,1122046,1026,157,142.375,999.75,162.875,1052.796875,2,19,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,36, should ,6868,1122096,1026,157,142.375,999.75,162.875,1052.796875,2,19,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,6918,1122146,1001,157,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,26, mid-50s ,6969,1122196,703,157,142.375,635.5703125,162.875,704.59375,2,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,7018,1122245,538,157,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,7068,1122296,366,172,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,7118,1122346,337,177,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,7168,1122396,330,178,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,7218,1122446,329,179,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,7269,1122496,340,187,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,37, workplaces ,7319,1122546,365,193,182.375,346.375,202.875,441.4140625,3,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,37, workplaces ,7369,1122596,380,193,182.375,346.375,202.875,441.4140625,3,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,37, workplaces ,7419,1122647,387,194,182.375,346.375,202.875,441.4140625,3,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,37, workplaces ,7469,1122697,419,195,182.375,346.375,202.875,441.4140625,3,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,38, have ,7518,1122745,471,195,182.375,441.4140625,202.875,485.453125,3,2,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,38, have ,7569,1122796,474,195,182.375,441.4140625,202.875,485.453125,3,2,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,38, have ,7620,1122847,474,195,182.375,441.4140625,202.875,485.453125,3,2,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,38, have ,7670,1122897,474,195,182.375,441.4140625,202.875,485.453125,3,2,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,38, have ,7720,1122947,474,195,182.375,441.4140625,202.875,485.453125,3,2,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,39, staggered ,7768,1122996,511,189,182.375,485.453125,202.875,570.515625,3,3,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,40, starting ,7818,1123045,626,184,182.375,570.515625,202.875,634.546875,3,4,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,41," times, ",7869,1123097,673,193,182.375,634.546875,202.875,687.5546875,3,5,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,41," times, ",7919,1123146,682,195,182.375,634.546875,202.875,687.5546875,3,5,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,41," times, ",7970,1123197,682,195,182.375,634.546875,202.875,687.5546875,3,5,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,41," times, ",8020,1123247,682,195,182.375,634.546875,202.875,687.5546875,3,5,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,41," times, ",8071,1123298,682,195,182.375,634.546875,202.875,687.5546875,3,5,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,42, too? ,8118,1123346,711,193,182.375,687.5546875,202.875,727.59375,3,6,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,43, Should ,8168,1123396,787,186,182.375,727.59375,202.875,788.6484375,3,7,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,45, in ,8218,1123446,844,185,182.375,837.6875,202.875,856.703125,3,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,46, their ,8269,1123496,860,186,182.375,856.703125,202.875,896.7265625,3,10,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,46, their ,8320,1123547,860,186,182.375,856.703125,202.875,896.7265625,3,10,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,46, their ,8370,1123597,860,186,182.375,856.703125,202.875,896.7265625,3,10,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,46, their ,8420,1123647,860,186,182.375,856.703125,202.875,896.7265625,3,10,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,46, their ,8468,1123696,866,186,182.375,856.703125,202.875,896.7265625,3,10,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,47, 50s ,8519,1123746,917,186,182.375,896.7265625,202.875,930.75,3,11,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,48, and ,8569,1123797,953,188,182.375,930.75,202.875,965.7890625,3,12,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,49, above ,8618,1123846,968,188,182.375,965.7890625,202.875,1019.8359375,3,13,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,49, above ,8668,1123896,985,191,182.375,965.7890625,202.875,1019.8359375,3,13,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,49, above ,8718,1123946,1005,200,182.375,965.7890625,202.875,1019.8359375,3,13,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,8769,1123996,1022,202,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,8819,1124046,1030,201,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,50, come ,8869,1124096,1035,201,182.375,1019.8359375,202.875,1068.859375,3,14,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,50, come ,8918,1124146,1036,201,182.375,1019.8359375,202.875,1068.859375,3,14,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,50, come ,8968,1124196,1028,201,182.375,1019.8359375,202.875,1068.859375,3,14,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,9019,1124246,893,205,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,57, their ,9069,1124296,537,234,222.375,525.4921875,242.875,565.515625,4,6,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,9119,1124346,406,252,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,9168,1124395,368,256,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,9219,1124446,355,257,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,9268,1124495,348,255,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,9318,1124546,345,252,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,9368,1124596,344,245,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,9419,1124646,345,239,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,52, at ,9468,1124696,347,238,222.375,346.375,242.875,366.390625,4,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,52, at ,9518,1124746,353,238,222.375,346.375,242.875,366.390625,4,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,53," 8am, ",9569,1124797,379,238,222.375,366.390625,242.875,411.4140625,4,2,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,54, while ,9618,1124846,416,240,222.375,411.4140625,242.875,457.4375,4,3,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,9669,1124896,462,243,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,9718,1124946,492,243,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,9770,1124997,504,243,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,9819,1125046,504,243,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,9870,1125097,504,243,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,9920,1125147,504,243,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,56, in ,9969,1125196,521,239,222.375,506.4765625,242.875,525.4921875,4,5,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,57, their ,10019,1125247,565,231,222.375,525.4921875,242.875,565.515625,4,6,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,58, 30s ,10068,1125295,598,230,222.375,565.515625,242.875,599.5390625,4,7,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,59, start ,10118,1125346,627,230,222.375,599.5390625,242.875,639.546875,4,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,60, at ,10168,1125396,653,232,222.375,639.546875,242.875,659.5625,4,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,61, 10am ,10219,1125447,668,234,222.375,659.5625,242.875,709.59375,4,10,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,61, 10am ,10272,1125499,668,234,222.375,659.5625,242.875,709.59375,4,10,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,61, 10am ,10320,1125547,668,234,222.375,659.5625,242.875,709.59375,4,10,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,61, 10am ,10371,1125598,668,234,222.375,659.5625,242.875,709.59375,4,10,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,61, 10am ,10418,1125646,680,234,222.375,659.5625,242.875,709.59375,4,10,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,63, the ,10468,1125696,747,232,222.375,744.6328125,242.875,774.65625,4,12,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,64, teenage ,10519,1125746,811,232,222.375,774.65625,242.875,844.7265625,4,13,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,64, teenage ,10568,1125795,835,232,222.375,774.65625,242.875,844.7265625,4,13,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,64, teenage ,10619,1125846,840,232,222.375,774.65625,242.875,844.7265625,4,13,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,64, teenage ,10670,1125897,840,232,222.375,774.65625,242.875,844.7265625,4,13,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,64, teenage ,10720,1125947,840,232,222.375,774.65625,242.875,844.7265625,4,13,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,64, teenage ,10770,1125997,841,232,222.375,774.65625,242.875,844.7265625,4,13,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,65, apprentice ,10819,1126046,890,227,222.375,844.7265625,242.875,933.7890625,4,14,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,67, encouraged ,10868,1126096,964,225,222.375,958.8125,242.875,1058.8984375,4,16,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,67, encouraged ,10919,1126147,996,227,222.375,958.8125,242.875,1058.8984375,4,16,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,67, encouraged ,10968,1126196,1009,227,222.375,958.8125,242.875,1058.8984375,4,16,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,67, encouraged ,11019,1126247,1019,227,222.375,958.8125,242.875,1058.8984375,4,16,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,67, encouraged ,11069,1126296,1028,227,222.375,958.8125,242.875,1058.8984375,4,16,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,67, encouraged ,11119,1126346,1036,227,222.375,958.8125,242.875,1058.8984375,4,16,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,67, encouraged ,11169,1126396,1042,227,222.375,958.8125,242.875,1058.8984375,4,16,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,67, encouraged ,11219,1126446,1043,227,222.375,958.8125,242.875,1058.8984375,4,16,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,11268,1126495,949,211,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,11319,1126546,573,210,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,11368,1126595,398,250,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,69, start ,11419,1126646,347,264,262.375,346.375,282.875,386.3828125,5,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,69, start ,11469,1126697,347,264,262.375,346.375,282.875,386.3828125,5,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,69, start ,11520,1126747,347,264,262.375,346.375,282.875,386.3828125,5,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,69, start ,11572,1126799,348,264,262.375,346.375,282.875,386.3828125,5,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,69, start ,11618,1126846,368,267,262.375,346.375,282.875,386.3828125,5,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,69, start ,11668,1126896,378,270,262.375,346.375,282.875,386.3828125,5,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,69, start ,11718,1126946,384,271,262.375,346.375,282.875,386.3828125,5,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,70, at ,11768,1126996,400,270,262.375,386.3828125,282.875,406.3984375,5,2,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,71, 11am? ,11818,1127046,438,276,262.375,406.3984375,282.875,465.109375,5,3,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,11868,1127095,478,283,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,11919,1127146,501,283,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,72, Kelley ,11968,1127196,516,280,262.375,465.109375,282.875,519.140625,5,4,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,73, says ,12019,1127246,527,276,262.375,519.140625,282.875,561.15625,5,5,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,73, says ,12068,1127295,529,275,262.375,519.140625,282.875,561.15625,5,5,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,73, says ,12119,1127347,534,275,262.375,519.140625,282.875,561.15625,5,5,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,73, says ,12169,1127396,543,273,262.375,519.140625,282.875,561.15625,5,5,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,73, says ,12218,1127445,554,270,262.375,519.140625,282.875,561.15625,5,5,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,74, that ,12269,1127496,568,267,262.375,561.15625,282.875,596.1875,5,6,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,74, that ,12319,1127547,573,267,262.375,561.15625,282.875,596.1875,5,6,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,74, that ,12368,1127596,574,267,262.375,561.15625,282.875,596.1875,5,6,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,74, that ,12420,1127647,575,267,262.375,561.15625,282.875,596.1875,5,6,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,74, that ,12470,1127697,575,267,262.375,561.15625,282.875,596.1875,5,6,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,74, that ,12520,1127748,575,267,262.375,561.15625,282.875,596.1875,5,6,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,74, that ,12571,1127798,575,267,262.375,561.15625,282.875,596.1875,5,6,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,12618,1127845,605,263,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,12668,1127895,659,257,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,12718,1127945,674,257,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,12768,1127995,675,257,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,12820,1128047,675,257,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,12868,1128096,675,257,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,12918,1128145,679,259,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,12968,1128195,684,262,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,75, synchronized ,13019,1128247,698,267,262.375,596.1875,282.875,707.25,5,7,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,76, hours ,13069,1128297,711,270,262.375,707.25,282.875,757.28125,5,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,76, hours ,13118,1128346,720,273,262.375,707.25,282.875,757.28125,5,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,76, hours ,13170,1128397,720,273,262.375,707.25,282.875,757.28125,5,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,76, hours ,13220,1128447,720,273,262.375,707.25,282.875,757.28125,5,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,76, hours ,13269,1128496,720,273,262.375,707.25,282.875,757.28125,5,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,76, hours ,13318,1128546,756,272,262.375,707.25,282.875,757.28125,5,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,13369,1128596,913,287,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,13418,1128645,957,290,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,13468,1128696,969,290,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,13519,1128746,977,288,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,13569,1128796,984,281,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,81, consequences. ,13619,1128847,995,273,262.375,970.4140625,282.875,1091.5078125,5,13,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,81, consequences. ,13669,1128897,1005,269,262.375,970.4140625,282.875,1091.5078125,5,13,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,81, consequences. ,13718,1128946,1008,268,262.375,970.4140625,282.875,1091.5078125,5,13,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,13768,1128996,1011,264,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,13818,1129045,1014,260,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,13869,1129096,1014,260,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,13919,1129146,1026,259,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,13968,1129195,1049,260,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,14019,1129246,1057,260,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,14068,1129295,1052,260,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,80, positive ,14119,1129346,910,276,262.375,904.375,282.875,970.4140625,5,12,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,14168,1129395,752,277,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,73, says ,14218,1129446,531,277,262.375,519.140625,282.875,561.15625,5,5,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,72, Kelley ,14269,1129496,476,277,262.375,465.109375,282.875,519.140625,5,4,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,14319,1129546,448,285,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,14369,1129596,425,292,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,14419,1129646,405,299,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,83, positive ,14468,1129696,389,305,302.375,382.3984375,322.875,448.4375,6,2,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,82, The ,14518,1129746,380,310,302.375,346.375,322.875,382.3984375,6,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,82, The ,14568,1129795,375,314,302.375,346.375,322.875,382.3984375,6,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,82, The ,14618,1129846,375,314,302.375,346.375,322.875,382.3984375,6,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,83, positive ,14668,1129896,401,314,302.375,382.3984375,322.875,448.4375,6,2,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,86, this ,14718,1129946,514,314,302.375,506.4765625,322.875,539.4921875,6,5,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,88, people’s ,14768,1129995,601,312,302.375,557.4921875,322.875,629.234375,6,7,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,89," performance, ",14818,1130045,639,310,302.375,629.234375,322.875,740.2890625,6,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,89," performance, ",14868,1130096,652,312,302.375,629.234375,322.875,740.2890625,6,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,89," performance, ",14918,1130145,656,313,302.375,629.234375,322.875,740.2890625,6,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,89," performance, ",14968,1130196,664,313,302.375,629.234375,322.875,740.2890625,6,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,89," performance, ",15018,1130246,687,315,302.375,629.234375,322.875,740.2890625,6,8,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,90, mood ,15068,1130296,743,319,302.375,740.2890625,322.875,790.3203125,6,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,90, mood ,15118,1130346,778,320,302.375,740.2890625,322.875,790.3203125,6,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,90, mood ,15170,1130398,781,317,302.375,740.2890625,322.875,790.3203125,6,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,90, mood ,15220,1130448,781,317,302.375,740.2890625,322.875,790.3203125,6,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,90, mood ,15270,1130497,781,317,302.375,740.2890625,322.875,790.3203125,6,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,90, mood ,15320,1130548,781,317,302.375,740.2890625,322.875,790.3203125,6,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,91, and ,15368,1130596,815,317,302.375,790.3203125,322.875,825.359375,6,10,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,93, will ,15418,1130646,896,316,302.375,879.40625,322.875,909.40625,6,12,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,94, improve. ,15469,1130696,930,316,302.375,909.40625,322.875,983.4296875,6,13,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,15518,1130745,952,322,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,15568,1130795,972,326,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,15618,1130846,987,326,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,15668,1130896,997,326,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,15718,1130946,999,325,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,15768,1130995,996,325,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,15819,1131046,897,323,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,105, people ,15868,1131096,713,352,342.375,709.28125,362.875,768.3359375,7,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,15918,1131145,546,368,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,15969,1131196,483,369,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,16018,1131245,440,371,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,16069,1131296,405,373,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,16119,1131346,389,373,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,16168,1131395,387,372,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,16219,1131446,382,369,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,16269,1131496,376,366,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,16319,1131546,375,364,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,97, uplifting ,16368,1131596,387,360,342.375,346.375,362.875,413.421875,7,1,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,98, because ,16418,1131646,439,352,342.375,413.421875,362.875,486.4765625,7,2,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,99, it’s ,16468,1131696,507,350,342.375,486.4765625,362.875,513.1640625,7,3,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,101, solution ,16518,1131746,557,350,342.375,528.1796875,362.875,595.2265625,7,5,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,102, that ,16568,1131795,602,352,342.375,595.2265625,362.875,630.2578125,7,6,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,103, will ,16618,1131846,660,352,342.375,630.2578125,362.875,660.2578125,7,7,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,105, people ,16668,1131896,710,352,342.375,709.28125,362.875,768.3359375,7,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,105, people ,16718,1131946,766,352,342.375,709.28125,362.875,768.3359375,7,9,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,107," ill, ",16768,1131995,826,352,342.375,805.3515625,362.875,827.3515625,7,11,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,108, and ,16818,1132046,859,349,342.375,827.3515625,362.875,862.390625,7,12,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,109, happier ,16868,1132096,877,346,342.375,862.390625,362.875,927.4453125,7,13,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,109, happier ,16918,1132146,896,346,342.375,862.390625,362.875,927.4453125,7,13,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,109, happier ,16968,1132196,919,347,342.375,862.390625,362.875,927.4453125,7,13,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,110, and ,17018,1132245,958,356,342.375,927.4453125,362.875,962.484375,7,14,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,111, better ,17068,1132296,985,360,342.375,962.484375,362.875,1013.515625,7,15,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,111, better ,17118,1132345,997,360,342.375,962.484375,362.875,1013.515625,7,15,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,111, better ,17168,1132396,998,357,342.375,962.484375,362.875,1013.515625,7,15,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,111, better ,17218,1132445,979,348,342.375,962.484375,362.875,1013.515625,7,15,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,17268,1132495,859,341,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,17318,1132545,571,341,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,17368,1132596,404,375,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,17418,1132645,331,390,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,17469,1132696,303,392,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,17518,1132745,293,392,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,17568,1132795,308,392,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,115, do.” ,17618,1132846,415,398,382.375,385.3984375,402.875,416.421875,8,2,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,17669,1132896,507,400,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,17719,1132946,570,418,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,17768,1132996,570,418,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,17819,1133046,570,418,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,17868,1133095,570,418,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,17919,1133146,570,418,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,17969,1133197,570,418,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,18019,1133246,570,418,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,18069,1133296,570,418,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,18119,1133346,570,418,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,18168,1133395,570,418,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,29,5,32,33,-1,999,18219,1133446,570,418,,,,,,,They will be happier and healthier,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
