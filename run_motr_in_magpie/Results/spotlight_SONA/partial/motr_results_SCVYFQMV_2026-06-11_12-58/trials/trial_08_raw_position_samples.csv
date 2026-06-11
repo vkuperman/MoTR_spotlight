@@ -1,0 +1,231 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,906,511397,567,255,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,955,511446,567,255,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,1005,511496,567,255,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,1055,511546,567,255,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,51, laws. ,1105,511596,527,235,222.375,513.4921875,242.875,559.5078125,4,4,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,1155,511646,449,193,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,1206,511697,312,138,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,1255,511746,288,123,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,1306,511797,287,115,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,1355,511846,296,113,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,1405,511896,328,121,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,1455,511946,354,125,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,1505,511996,361,122,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,1555,512046,362,122,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,1605,512096,367,122,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,2, downloading ,1655,512146,399,120,102.375,398.40625,122.875,504.4921875,1,2,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,2, downloading ,1705,512196,465,115,102.375,398.40625,122.875,504.4921875,1,2,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,3, is ,1755,512246,510,107,102.375,504.4921875,122.875,522.4921875,1,3,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,4, a ,1805,512296,531,105,102.375,522.4921875,122.875,537.5078125,1,4,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,4, a ,1856,512347,537,104,102.375,522.4921875,122.875,537.5078125,1,4,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,5, kind ,1905,512396,546,104,102.375,537.5078125,122.875,575.53125,1,5,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,5, kind ,1955,512446,571,105,102.375,537.5078125,122.875,575.53125,1,5,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,7, “moral ,2006,512497,623,110,102.375,595.546875,122.875,651.5546875,1,7,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,8, squalor” ,2055,512546,680,114,102.375,651.5546875,122.875,721.5859375,1,8,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,8, squalor” ,2105,512596,710,114,102.375,651.5546875,122.875,721.5859375,1,8,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,8, squalor” ,2156,512647,715,113,102.375,651.5546875,122.875,721.5859375,1,8,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,8, squalor” ,2207,512697,715,113,102.375,651.5546875,122.875,721.5859375,1,8,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,8, squalor” ,2256,512747,715,113,102.375,651.5546875,122.875,721.5859375,1,8,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,8, squalor” ,2306,512797,715,113,102.375,651.5546875,122.875,721.5859375,1,8,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,9, and ,2355,512846,726,114,102.375,721.5859375,122.875,756.625,1,9,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,10," theft, ",2405,512896,801,120,102.375,756.625,122.875,801.65625,1,10,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,2454,512945,846,123,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,2505,512996,858,123,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,2556,513047,860,123,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,2606,513097,863,122,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,12, much ,2655,513146,866,120,102.375,825.671875,122.875,874.6953125,1,12,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,12, much ,2705,513196,868,119,102.375,825.671875,122.875,874.6953125,1,12,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,13, as ,2755,513246,875,117,102.375,874.6953125,122.875,898.7109375,1,13,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,13, as ,2806,513297,889,115,102.375,874.6953125,122.875,898.7109375,1,13,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,14, reaching ,2855,513346,901,113,102.375,898.7109375,122.875,972.765625,1,14,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,14, reaching ,2905,513396,914,112,102.375,898.7109375,122.875,972.765625,1,14,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,14, reaching ,2955,513446,924,112,102.375,898.7109375,122.875,972.765625,1,14,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,14, reaching ,3005,513495,933,112,102.375,898.7109375,122.875,972.765625,1,14,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,14, reaching ,3055,513546,940,112,102.375,898.7109375,122.875,972.765625,1,14,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,14, reaching ,3105,513596,944,111,102.375,898.7109375,122.875,972.765625,1,14,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,14, reaching ,3155,513646,946,111,102.375,898.7109375,122.875,972.765625,1,14,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,14, reaching ,3205,513696,948,111,102.375,898.7109375,122.875,972.765625,1,14,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,14, reaching ,3257,513748,948,111,102.375,898.7109375,122.875,972.765625,1,14,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,14, reaching ,3306,513797,948,111,102.375,898.7109375,122.875,972.765625,1,14,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,14, reaching ,3355,513846,934,111,102.375,898.7109375,122.875,972.765625,1,14,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,11, as ,3406,513897,812,120,102.375,801.65625,122.875,825.671875,1,11,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,3455,513946,605,122,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,3506,513997,500,125,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,3555,514046,454,130,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,3605,514096,425,132,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,3656,514147,407,134,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,3706,514197,392,142,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,17, someone’s ,3756,514247,379,148,142.375,346.375,162.875,438.109375,2,1,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,17, someone’s ,3805,514296,374,149,142.375,346.375,162.875,438.109375,2,1,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,17, someone’s ,3855,514346,370,149,142.375,346.375,162.875,438.109375,2,1,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,17, someone’s ,3906,514397,369,149,142.375,346.375,162.875,438.109375,2,1,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,17, someone’s ,3955,514446,374,149,142.375,346.375,162.875,438.109375,2,1,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,17, someone’s ,4005,514496,402,150,142.375,346.375,162.875,438.109375,2,1,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,18, pocket ,4055,514546,448,153,142.375,438.109375,162.875,496.1484375,2,2,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,18, pocket ,4105,514596,480,156,142.375,438.109375,162.875,496.1484375,2,2,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,19, and ,4155,514646,498,157,142.375,496.1484375,162.875,531.1875,2,3,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,19, and ,4205,514696,515,159,142.375,496.1484375,162.875,531.1875,2,3,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,4255,514746,537,162,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,4305,514796,570,164,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,4355,514846,584,164,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,4405,514896,584,164,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,4455,514946,584,164,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,4506,514997,584,164,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,4555,515046,588,163,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,21, their ,4605,515096,623,156,142.375,598.234375,162.875,638.2578125,2,5,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,22, wallet ,4655,515146,659,155,142.375,638.2578125,162.875,689.28125,2,6,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,22, wallet ,4705,515196,684,157,142.375,638.2578125,162.875,689.28125,2,6,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,24," theft, ",4756,515247,713,157,142.375,707.28125,162.875,752.3125,2,8,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,24," theft, ",4805,515296,746,153,142.375,707.28125,162.875,752.3125,2,8,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,25, says ,4855,515346,769,153,142.375,752.3125,162.875,794.328125,2,9,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,25, says ,4905,515396,775,154,142.375,752.3125,162.875,794.328125,2,9,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,25, says ,4956,515447,775,154,142.375,752.3125,162.875,794.328125,2,9,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,25, says ,5006,515497,775,154,142.375,752.3125,162.875,794.328125,2,9,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,25, says ,5057,515548,775,154,142.375,752.3125,162.875,794.328125,2,9,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,26, author ,5105,515596,806,152,142.375,794.328125,162.875,850.3671875,2,10,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,27, Philip ,5155,515646,854,152,142.375,850.3671875,162.875,899.3984375,2,11,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,27, Philip ,5204,515695,873,152,142.375,850.3671875,162.875,899.3984375,2,11,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,27, Philip ,5255,515746,883,152,142.375,850.3671875,162.875,899.3984375,2,11,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,27, Philip ,5305,515796,896,152,142.375,850.3671875,162.875,899.3984375,2,11,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,28, Pullman. ,5355,515846,910,150,142.375,899.3984375,162.875,974.4375,2,12,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,28, Pullman. ,5405,515896,919,150,142.375,899.3984375,162.875,974.4375,2,12,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,28, Pullman. ,5455,515946,933,150,142.375,899.3984375,162.875,974.4375,2,12,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,28, Pullman. ,5505,515996,953,150,142.375,899.3984375,162.875,974.4375,2,12,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,29, In ,5556,516047,978,151,142.375,974.4375,162.875,994.453125,2,13,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,30, an ,5605,516096,1002,153,142.375,994.453125,162.875,1019.4765625,2,14,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,30, an ,5656,516147,1019,156,142.375,994.453125,162.875,1019.4765625,2,14,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,31, article ,5705,516196,1034,156,142.375,1019.4765625,162.875,1072.4921875,2,15,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,31, article ,5755,516247,1042,156,142.375,1019.4765625,162.875,1072.4921875,2,15,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,31, article ,5805,516296,1047,156,142.375,1019.4765625,162.875,1072.4921875,2,15,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,31, article ,5855,516346,1051,156,142.375,1019.4765625,162.875,1072.4921875,2,15,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,31, article ,5905,516397,1025,156,142.375,1019.4765625,162.875,1072.4921875,2,15,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,5955,516446,893,154,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,37, who ,6005,516496,616,188,182.375,596.53125,202.875,634.5546875,3,5,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,6054,516545,513,209,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,6105,516597,469,219,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,6155,516646,444,220,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,6205,516697,414,223,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,6255,516746,392,220,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,6305,516796,372,208,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,6355,516846,357,205,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,6405,516896,350,203,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,6455,516946,349,202,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,6505,516996,361,201,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,33, Index ,6555,517046,391,197,182.375,346.375,202.875,395.4140625,3,1,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,35," Censorship, ",6605,517096,437,191,182.375,420.4375,202.875,521.4921875,3,3,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,35," Censorship, ",6656,517147,470,188,182.375,420.4375,202.875,521.4921875,3,3,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,35," Censorship, ",6705,517196,489,187,182.375,420.4375,202.875,521.4921875,3,3,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,35," Censorship, ",6755,517246,513,187,182.375,420.4375,202.875,521.4921875,3,3,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,36," Pullman, ",6805,517296,536,187,182.375,521.4921875,202.875,596.53125,3,4,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,36," Pullman, ",6854,517346,563,187,182.375,521.4921875,202.875,596.53125,3,4,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,36," Pullman, ",6905,517396,590,187,182.375,521.4921875,202.875,596.53125,3,4,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,36," Pullman, ",6955,517447,590,187,182.375,521.4921875,202.875,596.53125,3,4,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,36," Pullman, ",7005,517497,590,187,182.375,521.4921875,202.875,596.53125,3,4,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,36," Pullman, ",7056,517547,590,187,182.375,521.4921875,202.875,596.53125,3,4,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,36," Pullman, ",7105,517596,591,187,182.375,521.4921875,202.875,596.53125,3,4,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,7155,517646,635,183,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,7205,517696,727,181,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,7255,517747,759,179,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,7305,517797,771,179,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,7356,517847,776,179,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,7406,517897,776,179,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,7456,517947,776,179,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,7506,517997,776,179,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,7556,518047,776,179,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,7605,518096,783,181,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,42, Society ,7655,518146,817,185,182.375,781.6484375,202.875,845.6796875,3,10,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,42, Society ,7705,518196,842,185,182.375,781.6484375,202.875,845.6796875,3,10,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,43, of ,7755,518246,851,185,182.375,845.6796875,202.875,865.203125,3,11,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,43, of ,7805,518296,860,185,182.375,845.6796875,202.875,865.203125,3,11,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,44," Authors, ",7855,518346,878,190,182.375,865.203125,202.875,936.75,3,12,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,44," Authors, ",7905,518396,904,195,182.375,865.203125,202.875,936.75,3,12,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,44," Authors, ",7954,518445,936,195,182.375,865.203125,202.875,936.75,3,12,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,45, makes ,8005,518496,971,187,182.375,936.75,202.875,994.7734375,3,13,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,45, makes ,8055,518546,988,186,182.375,936.75,202.875,994.7734375,3,13,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,46, a ,8105,518596,996,185,182.375,994.7734375,202.875,1009.7890625,3,14,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,46, a ,8155,518646,1002,185,182.375,994.7734375,202.875,1009.7890625,3,14,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,47, robust ,8205,518696,1010,185,182.375,1009.7890625,202.875,1059.8203125,3,15,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,47, robust ,8255,518746,1019,185,182.375,1009.7890625,202.875,1059.8203125,3,15,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,47, robust ,8309,518800,1023,185,182.375,1009.7890625,202.875,1059.8203125,3,15,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,46, a ,8355,518846,1009,187,182.375,994.7734375,202.875,1009.7890625,3,14,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,8405,518896,936,185,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,8456,518947,564,167,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,8505,518996,445,182,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,34, on ,8555,519046,405,195,182.375,395.4140625,202.875,420.4375,3,2,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,33, Index ,8605,519096,388,200,182.375,346.375,202.875,395.4140625,3,1,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,8655,519146,371,205,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,8704,519195,362,211,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,8755,519246,358,215,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,8805,519296,361,216,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,8855,519346,374,218,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,8905,519396,388,222,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,48, defence ,8956,519447,399,226,222.375,346.375,242.875,415.4375,4,1,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,48, defence ,9006,519497,410,232,222.375,346.375,242.875,415.4375,4,1,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,49, of ,9055,519546,426,239,222.375,415.4375,242.875,435.453125,4,2,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,9105,519596,445,242,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,50, copyright ,9155,519647,472,239,222.375,435.453125,242.875,513.4921875,4,3,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,51, laws. ,9205,519696,528,225,222.375,513.4921875,242.875,559.5078125,4,4,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,9255,519746,573,222,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,9305,519796,589,222,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,9355,519846,589,222,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,9405,519896,589,222,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,9455,519946,589,222,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,9506,519997,589,222,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,9556,520047,589,222,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,54, highly ,9605,520096,616,225,222.375,605.5234375,242.875,657.5546875,4,7,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,55, critical ,9655,520146,684,233,222.375,657.5546875,242.875,713.5625,4,8,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,55, critical ,9705,520196,711,234,222.375,657.5546875,242.875,713.5625,4,8,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,57, Internet ,9755,520246,734,234,222.375,733.578125,242.875,799.625,4,10,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,57, Internet ,9805,520296,765,234,222.375,733.578125,242.875,799.625,4,10,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,57, Internet ,9855,520346,794,235,222.375,733.578125,242.875,799.625,4,10,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,9905,520396,808,240,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,9954,520446,838,249,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,10005,520497,879,250,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,10056,520547,924,244,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,61, it ,10105,520596,943,240,222.375,929.6953125,242.875,943.703125,4,14,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,62, is ,10155,520646,955,236,222.375,943.703125,242.875,961.703125,4,15,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,63, OK ,10205,520696,964,234,222.375,961.703125,242.875,992.7109375,4,16,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,63, OK ,10255,520747,973,234,222.375,961.703125,242.875,992.7109375,4,16,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,63, OK ,10305,520797,989,239,222.375,961.703125,242.875,992.7109375,4,16,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,10355,520846,1005,245,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,10405,520897,1023,249,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,10454,520946,1036,249,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,10505,520997,1036,249,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,10555,521046,993,239,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,10605,521096,607,204,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,48, defence ,10655,521146,415,228,222.375,346.375,242.875,415.4375,4,1,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,10705,521196,359,238,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,10755,521246,333,245,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,10805,521296,330,247,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,10855,521347,324,250,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,10905,521397,332,251,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,10954,521446,388,253,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,11005,521496,427,256,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,11055,521547,440,257,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,11105,521596,446,257,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,11155,521646,457,257,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,11204,521696,470,261,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,69, without ,11255,521746,484,267,262.375,472.4296875,282.875,534.46875,5,4,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,69, without ,11305,521796,499,268,262.375,472.4296875,282.875,534.46875,5,4,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,69, without ,11355,521846,509,269,262.375,472.4296875,282.875,534.46875,5,4,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,69, without ,11405,521896,519,271,262.375,472.4296875,282.875,534.46875,5,4,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,69, without ,11455,521946,534,271,262.375,472.4296875,282.875,534.46875,5,4,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,70, paying ,11505,521996,555,273,262.375,534.46875,282.875,592.515625,5,5,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,70, paying ,11555,522046,581,275,262.375,534.46875,282.875,592.515625,5,5,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,71, for ,11605,522096,599,277,262.375,592.515625,282.875,618.5234375,5,6,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,71, for ,11656,522147,599,277,262.375,592.515625,282.875,618.5234375,5,6,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,71, for ,11706,522197,599,277,262.375,592.515625,282.875,618.5234375,5,6,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,71, for ,11756,522248,599,277,262.375,592.515625,282.875,618.5234375,5,6,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,71, for ,11806,522297,599,277,262.375,592.515625,282.875,618.5234375,5,6,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,71, for ,11855,522347,599,277,262.375,592.515625,282.875,618.5234375,5,6,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,11904,522396,608,280,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,11955,522446,646,306,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,12005,522496,646,306,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,12055,522546,646,306,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,12105,522596,646,306,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,12155,522646,646,306,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,12205,522697,646,306,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,12255,522746,646,306,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,12306,522797,646,306,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
+SCVYFQMV,33916,2,int,20,1,7,8,-1,999,12355,522846,646,306,,,,,,,He disapproves of people who are OK with pirating,1,,,,,1970-01-01T00:00:00.634Z,,,,,,,,,spotlight-sona
