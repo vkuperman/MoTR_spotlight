@@ -1,0 +1,545 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+FS9KRUKG,,2,int,13,3,27,28,-1,999,10808,2239240,465,269,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,48, blamed ,10860,2239291,455,239,231.2734375,410.3984375,251.7734375,474.4375,4,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,10909,2239341,454,222,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,10960,2239392,475,213,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,35, do ,11008,2239440,515,196,191.2734375,501.453125,211.7734375,526.4765625,3,5,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,11060,2239492,515,196,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,11108,2239540,548,178,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,16, admired ,11160,2239592,549,168,151.2734375,480.46875,171.7734375,550.5,2,3,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,16, admired ,11209,2239640,536,154,151.2734375,480.46875,171.7734375,550.5,2,3,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,11260,2239691,536,154,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,11309,2239741,546,152,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,18, the ,11360,2239792,581,155,151.2734375,569.515625,171.7734375,599.5390625,2,5,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,20, of ,11409,2239840,654,167,151.2734375,634.546875,171.7734375,654.5625,2,7,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,22, world ,11459,2239891,691,168,151.2734375,684.5859375,171.7734375,732.6015625,2,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,22, world ,11508,2239940,704,169,151.2734375,684.5859375,171.7734375,732.6015625,2,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,22, world ,11559,2239991,704,169,151.2734375,684.5859375,171.7734375,732.6015625,2,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,22, world ,11609,2240041,704,169,151.2734375,684.5859375,171.7734375,732.6015625,2,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,22, world ,11660,2240092,704,169,151.2734375,684.5859375,171.7734375,732.6015625,2,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,22, world ,11709,2240141,704,169,151.2734375,684.5859375,171.7734375,732.6015625,2,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,22, world ,11759,2240191,704,169,151.2734375,684.5859375,171.7734375,732.6015625,2,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,22, world ,11810,2240242,718,165,151.2734375,684.5859375,171.7734375,732.6015625,2,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,11859,2240290,764,153,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,11910,2240341,878,146,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,11959,2240390,924,152,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,27, the ,12009,2240441,934,154,151.2734375,921.671875,171.7734375,951.6953125,2,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,27, the ,12059,2240491,944,154,151.2734375,921.671875,171.7734375,951.6953125,2,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,27, the ,12110,2240541,946,154,151.2734375,921.671875,171.7734375,951.6953125,2,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,27, the ,12159,2240591,946,154,151.2734375,921.671875,171.7734375,951.6953125,2,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,27, the ,12210,2240641,946,154,151.2734375,921.671875,171.7734375,951.6953125,2,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,27, the ,12260,2240692,946,154,151.2734375,921.671875,171.7734375,951.6953125,2,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,27, the ,12309,2240741,946,154,151.2734375,921.671875,171.7734375,951.6953125,2,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,28," company, ",12359,2240791,954,154,151.2734375,951.6953125,171.7734375,1033.4140625,2,15,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,28," company, ",12409,2240840,1012,165,151.2734375,951.6953125,171.7734375,1033.4140625,2,15,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,12459,2240891,1049,171,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,12508,2240940,1075,174,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,12560,2240991,1077,174,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,12608,2241040,1010,172,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,12660,2241091,858,171,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,12709,2241140,658,168,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,16, admired ,12758,2241190,507,168,151.2734375,480.46875,171.7734375,550.5,2,3,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,12809,2241240,479,173,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,12860,2241292,475,180,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,33, time ,12908,2241340,467,194,191.2734375,442.4296875,211.7734375,481.4375,3,3,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,33, time ,12959,2241390,465,199,191.2734375,442.4296875,211.7734375,481.4375,3,3,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,33, time ,13009,2241441,464,201,191.2734375,442.4296875,211.7734375,481.4375,3,3,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,33, time ,13060,2241491,474,195,191.2734375,442.4296875,211.7734375,481.4375,3,3,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,13108,2241540,565,182,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,37, except ,13160,2241592,628,198,191.2734375,599.53125,211.7734375,657.5703125,3,7,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,13208,2241640,751,254,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,13259,2241691,770,261,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,13309,2241740,773,262,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,13359,2241791,773,262,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,13409,2241841,773,262,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,13459,2241891,773,262,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,13510,2241942,774,257,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,13558,2241990,786,238,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,13609,2242041,817,189,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,13658,2242090,827,180,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,13709,2242141,837,177,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,13758,2242190,886,177,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,44, population ,13809,2242241,939,197,191.2734375,915.40625,211.7734375,1003.484375,3,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,61, are ,13859,2242290,1032,239,231.2734375,1005.71875,251.7734375,1036.7421875,4,15,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,62, falling ,13910,2242341,1058,245,231.2734375,1036.7421875,251.7734375,1088.7734375,4,16,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,62, falling ,13958,2242390,1068,244,231.2734375,1036.7421875,251.7734375,1088.7734375,4,16,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,62, falling ,14009,2242441,1067,240,231.2734375,1036.7421875,251.7734375,1088.7734375,4,16,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,14059,2242490,1058,235,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,14109,2242541,1016,230,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,60, employees ,14159,2242591,917,235,231.2734375,913.6640625,251.7734375,1005.71875,4,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,14210,2242642,917,235,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,58, families. ,14259,2242690,865,240,231.2734375,796.6328125,251.7734375,867.6484375,4,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,58, families. ,14310,2242741,859,240,231.2734375,796.6328125,251.7734375,867.6484375,4,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,58, families. ,14359,2242790,857,240,231.2734375,796.6328125,251.7734375,867.6484375,4,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,58, families. ,14409,2242841,857,240,231.2734375,796.6328125,251.7734375,867.6484375,4,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,58, families. ,14459,2242891,857,240,231.2734375,796.6328125,251.7734375,867.6484375,4,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,58, families. ,14509,2242941,856,239,231.2734375,796.6328125,251.7734375,867.6484375,4,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,14558,2242990,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,14610,2243041,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,14659,2243091,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,14710,2243142,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,14759,2243191,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,14809,2243241,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,14859,2243291,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,14909,2243341,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,14958,2243390,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,15009,2243441,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,15253,2243685,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,16254,2244686,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,17254,2245685,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,18255,2246686,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,19253,2247685,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,20254,2248685,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,21253,2249685,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,21633,2250064,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,21660,2250092,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,21710,2250141,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,21760,2250192,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,21810,2250241,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,21860,2250291,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,21910,2250341,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,21960,2250392,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,22010,2250442,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,22059,2250491,731,91,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,22109,2250540,640,143,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,22160,2250592,631,177,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,22209,2250641,610,196,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,22260,2250692,543,186,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,16, admired ,22312,2250743,523,165,151.2734375,480.46875,171.7734375,550.5,2,3,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,22360,2250792,523,165,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,22408,2250840,500,143,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,22460,2250891,499,143,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,22509,2250941,498,143,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,22560,2250991,499,143,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,22609,2251040,504,149,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,16, admired ,22660,2251092,510,154,151.2734375,480.46875,171.7734375,550.5,2,3,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,16, admired ,22709,2251140,525,158,151.2734375,480.46875,171.7734375,550.5,2,3,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,16, admired ,22760,2251192,537,159,151.2734375,480.46875,171.7734375,550.5,2,3,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,18, the ,22808,2251240,578,159,151.2734375,569.515625,171.7734375,599.5390625,2,5,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,19, rest ,22860,2251291,606,159,151.2734375,599.5390625,171.7734375,634.546875,2,6,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,21, the ,22909,2251340,676,159,151.2734375,654.5625,171.7734375,684.5859375,2,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,22, world ,22959,2251390,701,158,151.2734375,684.5859375,171.7734375,732.6015625,2,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,23, for ,23009,2251440,744,160,151.2734375,732.6015625,171.7734375,758.609375,2,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,24, their ,23060,2251492,768,162,151.2734375,758.609375,171.7734375,798.6328125,2,11,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,23109,2251540,809,165,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,23160,2251591,819,167,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,23209,2251640,822,167,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,23259,2251691,822,167,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,23310,2251742,822,167,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,23360,2251792,822,167,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,23410,2251841,822,167,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,23460,2251891,834,166,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,23509,2251941,897,163,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,27, the ,23560,2251992,932,163,151.2734375,921.671875,171.7734375,951.6953125,2,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,28," company, ",23609,2252040,981,169,151.2734375,951.6953125,171.7734375,1033.4140625,2,15,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,23660,2252092,981,169,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,23709,2252140,1006,172,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,23760,2252191,1008,172,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,23808,2252240,1008,172,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,23859,2252290,1008,172,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,23909,2252341,1008,172,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,23960,2252391,1008,172,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,24008,2252440,980,172,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,24059,2252491,875,172,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,24109,2252540,718,164,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,16, admired ,24160,2252592,525,158,151.2734375,480.46875,171.7734375,550.5,2,3,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,15, and ,24209,2252640,468,161,151.2734375,445.4296875,171.7734375,480.46875,2,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,24260,2252691,468,161,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,24308,2252740,432,185,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,24359,2252791,427,189,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,32, little ,24409,2252840,421,193,191.2734375,405.4140625,211.7734375,442.4296875,3,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,32, little ,24460,2252891,421,193,191.2734375,405.4140625,211.7734375,442.4296875,3,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,32, little ,24509,2252941,421,193,191.2734375,405.4140625,211.7734375,442.4296875,3,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,32, little ,24560,2252991,425,193,191.2734375,405.4140625,211.7734375,442.4296875,3,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,24609,2253040,437,193,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,24659,2253090,492,188,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,24708,2253140,565,176,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,24760,2253191,596,170,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,20, of ,24809,2253240,641,169,151.2734375,634.546875,171.7734375,654.5625,2,7,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,24860,2253292,641,169,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,24909,2253340,681,180,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,24959,2253391,694,183,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,25009,2253440,717,192,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,39, Japan’s ,25060,2253492,725,195,191.2734375,705.578125,211.7734375,772.3046875,3,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,39, Japan’s ,25109,2253540,730,197,191.2734375,705.578125,211.7734375,772.3046875,3,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,39, Japan’s ,25159,2253590,728,197,191.2734375,705.578125,211.7734375,772.3046875,3,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,39, Japan’s ,25209,2253640,728,197,191.2734375,705.578125,211.7734375,772.3046875,3,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,39, Japan’s ,25260,2253692,728,197,191.2734375,705.578125,211.7734375,772.3046875,3,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,39, Japan’s ,25310,2253742,728,197,191.2734375,705.578125,211.7734375,772.3046875,3,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,39, Japan’s ,25360,2253792,728,197,191.2734375,705.578125,211.7734375,772.3046875,3,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,39, Japan’s ,25409,2253840,728,197,191.2734375,705.578125,211.7734375,772.3046875,3,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,39, Japan’s ,25460,2253891,729,197,191.2734375,705.578125,211.7734375,772.3046875,3,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,39, Japan’s ,25509,2253941,743,197,191.2734375,705.578125,211.7734375,772.3046875,3,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,39, Japan’s ,25560,2253992,753,199,191.2734375,705.578125,211.7734375,772.3046875,3,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,39, Japan’s ,25609,2254040,765,201,191.2734375,705.578125,211.7734375,772.3046875,3,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,39, Japan’s ,25659,2254091,770,203,191.2734375,705.578125,211.7734375,772.3046875,3,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,40, low ,25709,2254141,788,205,191.2734375,772.3046875,211.7734375,804.3203125,3,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,40, low ,25760,2254192,798,207,191.2734375,772.3046875,211.7734375,804.3203125,3,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,41, birth ,25808,2254240,827,207,191.2734375,804.3203125,211.7734375,844.34375,3,11,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,41, birth ,25860,2254292,843,206,191.2734375,804.3203125,211.7734375,844.34375,3,11,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,42, rate ,25909,2254341,871,205,191.2734375,844.34375,211.7734375,880.3671875,3,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,43, and ,25960,2254391,882,205,191.2734375,880.3671875,211.7734375,915.40625,3,13,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,43, and ,26009,2254441,905,205,191.2734375,880.3671875,211.7734375,915.40625,3,13,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,44, population ,26060,2254491,916,205,191.2734375,915.40625,211.7734375,1003.484375,3,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,44, population ,26108,2254540,940,203,191.2734375,915.40625,211.7734375,1003.484375,3,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,44, population ,26160,2254591,951,201,191.2734375,915.40625,211.7734375,1003.484375,3,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,44, population ,26208,2254640,970,200,191.2734375,915.40625,211.7734375,1003.484375,3,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,44, population ,26260,2254692,977,200,191.2734375,915.40625,211.7734375,1003.484375,3,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,44, population ,26309,2254740,990,201,191.2734375,915.40625,211.7734375,1003.484375,3,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,44, population ,26360,2254791,997,202,191.2734375,915.40625,211.7734375,1003.484375,3,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,45, decline ,26408,2254840,1017,204,191.2734375,1003.484375,211.7734375,1065.53125,3,15,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,45, decline ,26459,2254891,1026,204,191.2734375,1003.484375,211.7734375,1065.53125,3,15,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,45, decline ,26509,2254940,1040,205,191.2734375,1003.484375,211.7734375,1065.53125,3,15,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,45, decline ,26560,2254991,1044,205,191.2734375,1003.484375,211.7734375,1065.53125,3,15,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,45, decline ,26609,2255040,1049,205,191.2734375,1003.484375,211.7734375,1065.53125,3,15,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,45, decline ,26659,2255090,1049,205,191.2734375,1003.484375,211.7734375,1065.53125,3,15,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,26709,2255141,1043,205,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,41, birth ,26760,2255192,839,205,191.2734375,804.3203125,211.7734375,844.34375,3,11,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,38, work. ,26809,2255240,691,209,191.2734375,657.5703125,211.7734375,705.578125,3,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,26860,2255291,691,209,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,26909,2255340,571,226,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,26960,2255392,553,226,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,27008,2255440,512,221,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,27059,2255490,476,221,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,27108,2255540,436,230,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,48, blamed ,27159,2255591,426,235,231.2734375,410.3984375,251.7734375,474.4375,4,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,47, partly ,27209,2255640,410,243,231.2734375,361.375,251.7734375,410.3984375,4,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,47, partly ,27260,2255691,404,245,231.2734375,361.375,251.7734375,410.3984375,4,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,47, partly ,27309,2255741,396,248,231.2734375,361.375,251.7734375,410.3984375,4,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,47, partly ,27359,2255790,396,248,231.2734375,361.375,251.7734375,410.3984375,4,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,47, partly ,27409,2255840,396,248,231.2734375,361.375,251.7734375,410.3984375,4,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,47, partly ,27460,2255891,403,245,231.2734375,361.375,251.7734375,410.3984375,4,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,48, blamed ,27509,2255941,434,239,231.2734375,410.3984375,251.7734375,474.4375,4,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,48, blamed ,27559,2255991,447,238,231.2734375,410.3984375,251.7734375,474.4375,4,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,48, blamed ,27608,2256040,474,238,231.2734375,410.3984375,251.7734375,474.4375,4,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,49, on ,27659,2256091,490,238,231.2734375,474.4375,251.7734375,499.4609375,4,3,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,50, the ,27709,2256140,520,236,231.2734375,499.4609375,251.7734375,529.484375,4,4,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,51, lack ,27760,2256191,550,233,231.2734375,529.484375,251.7734375,566.5,4,5,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,27808,2256240,599,227,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,27859,2256291,619,225,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,27908,2256340,650,225,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,27959,2256391,665,226,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,54, couples ,28009,2256440,691,233,231.2734375,625.5234375,251.7734375,692.5703125,4,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,55, have ,28060,2256491,700,237,231.2734375,692.5703125,251.7734375,736.609375,4,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,55, have ,28108,2256540,716,240,231.2734375,692.5703125,251.7734375,736.609375,4,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,55, have ,28160,2256592,721,242,231.2734375,692.5703125,251.7734375,736.609375,4,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,55, have ,28210,2256641,725,244,231.2734375,692.5703125,251.7734375,736.609375,4,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,55, have ,28260,2256691,723,245,231.2734375,692.5703125,251.7734375,736.609375,4,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,55, have ,28309,2256741,723,245,231.2734375,692.5703125,251.7734375,736.609375,4,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,55, have ,28360,2256792,723,245,231.2734375,692.5703125,251.7734375,736.609375,4,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,55, have ,28410,2256841,723,245,231.2734375,692.5703125,251.7734375,736.609375,4,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,55, have ,28460,2256892,723,245,231.2734375,692.5703125,251.7734375,736.609375,4,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,55, have ,28510,2256941,723,245,231.2734375,692.5703125,251.7734375,736.609375,4,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,56, to ,28560,2256991,738,244,231.2734375,736.609375,251.7734375,756.625,4,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,58, families. ,28609,2257040,809,242,231.2734375,796.6328125,251.7734375,867.6484375,4,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,58, families. ,28660,2257092,840,242,231.2734375,796.6328125,251.7734375,867.6484375,4,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,59, More ,28709,2257141,876,247,231.2734375,867.6484375,251.7734375,913.6640625,4,13,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,59, More ,28760,2257191,891,250,231.2734375,867.6484375,251.7734375,913.6640625,4,13,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,28809,2257240,928,255,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,28860,2257291,943,256,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,28908,2257340,969,259,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,28959,2257391,978,260,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,29009,2257440,993,261,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,29060,2257492,998,261,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,29109,2257540,1000,260,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,29159,2257591,994,256,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,60, employees ,29209,2257640,985,249,231.2734375,913.6640625,251.7734375,1005.71875,4,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,60, employees ,29260,2257691,984,248,231.2734375,913.6640625,251.7734375,1005.71875,4,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,60, employees ,29309,2257741,984,246,231.2734375,913.6640625,251.7734375,1005.71875,4,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,60, employees ,29359,2257791,985,245,231.2734375,913.6640625,251.7734375,1005.71875,4,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,60, employees ,29409,2257840,986,242,231.2734375,913.6640625,251.7734375,1005.71875,4,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,60, employees ,29460,2257891,987,242,231.2734375,913.6640625,251.7734375,1005.71875,4,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,60, employees ,29508,2257940,997,242,231.2734375,913.6640625,251.7734375,1005.71875,4,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,60, employees ,29560,2257991,1005,242,231.2734375,913.6640625,251.7734375,1005.71875,4,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,61, are ,29609,2258040,1027,244,231.2734375,1005.71875,251.7734375,1036.7421875,4,15,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,61, are ,29660,2258091,1036,244,231.2734375,1005.71875,251.7734375,1036.7421875,4,15,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,62, falling ,29709,2258141,1050,244,231.2734375,1036.7421875,251.7734375,1088.7734375,4,16,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,62, falling ,29760,2258191,1053,243,231.2734375,1036.7421875,251.7734375,1088.7734375,4,16,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,62, falling ,29809,2258240,1053,243,231.2734375,1036.7421875,251.7734375,1088.7734375,4,16,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,29860,2258291,1053,243,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,29909,2258340,870,260,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,29959,2258391,796,262,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,69, to ,30009,2258440,659,273,271.2734375,640.4765625,291.7734375,660.4921875,5,6,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,30060,2258492,659,273,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,30108,2258540,478,311,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,30160,2258591,436,310,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,30208,2258640,406,293,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,64, from ,30260,2258691,400,288,271.2734375,361.375,291.7734375,402.3828125,5,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,64, from ,30309,2258740,396,286,271.2734375,361.375,291.7734375,402.3828125,5,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,64, from ,30358,2258790,396,286,271.2734375,361.375,291.7734375,402.3828125,5,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,65," stress, ",30409,2258841,405,285,271.2734375,402.3828125,291.7734375,460.390625,5,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,65," stress, ",30460,2258891,418,282,271.2734375,402.3828125,291.7734375,460.390625,5,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,30509,2258941,484,262,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,30560,2258992,522,257,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,30608,2259040,587,252,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,30659,2259091,611,252,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,30708,2259140,656,252,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,30759,2259191,675,254,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,30808,2259240,708,263,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,30859,2259291,730,269,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,71, death ,30909,2259340,754,280,271.2734375,728.5234375,291.7734375,778.5703125,5,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,71, death ,30960,2259392,759,282,271.2734375,728.5234375,291.7734375,778.5703125,5,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,71, death ,31009,2259441,761,282,271.2734375,728.5234375,291.7734375,778.5703125,5,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,71, death ,31060,2259491,759,281,271.2734375,728.5234375,291.7734375,778.5703125,5,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,71, death ,31110,2259542,759,281,271.2734375,728.5234375,291.7734375,778.5703125,5,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,71, death ,31159,2259590,759,281,271.2734375,728.5234375,291.7734375,778.5703125,5,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,71, death ,31210,2259642,759,281,271.2734375,728.5234375,291.7734375,778.5703125,5,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,71, death ,31260,2259692,759,281,271.2734375,728.5234375,291.7734375,778.5703125,5,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,71, death ,31311,2259742,759,281,271.2734375,728.5234375,291.7734375,778.5703125,5,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,71, death ,31360,2259792,759,281,271.2734375,728.5234375,291.7734375,778.5703125,5,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,71, death ,31410,2259841,768,280,271.2734375,728.5234375,291.7734375,778.5703125,5,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,72, through ,31459,2259890,803,274,271.2734375,778.5703125,291.7734375,844.625,5,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,72, through ,31510,2259942,819,273,271.2734375,778.5703125,291.7734375,844.625,5,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,72, through ,31560,2259991,841,277,271.2734375,778.5703125,291.7734375,844.625,5,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,73, overwork. ,31610,2260041,849,280,271.2734375,844.625,291.7734375,927.6484375,5,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,73, overwork. ,31659,2260090,870,282,271.2734375,844.625,291.7734375,927.6484375,5,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,73, overwork. ,31710,2260142,885,281,271.2734375,844.625,291.7734375,927.6484375,5,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,73, overwork. ,31759,2260190,916,280,271.2734375,844.625,291.7734375,927.6484375,5,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,74, Japanese ,31809,2260240,928,280,271.2734375,927.6484375,291.7734375,1010.71875,5,11,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,74, Japanese ,31858,2260290,957,281,271.2734375,927.6484375,291.7734375,1010.71875,5,11,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,74, Japanese ,31910,2260342,974,282,271.2734375,927.6484375,291.7734375,1010.71875,5,11,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,74, Japanese ,31959,2260391,997,284,271.2734375,927.6484375,291.7734375,1010.71875,5,11,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,74, Japanese ,32009,2260441,1002,285,271.2734375,927.6484375,291.7734375,1010.71875,5,11,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,74, Japanese ,32059,2260490,1003,285,271.2734375,927.6484375,291.7734375,1010.71875,5,11,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,74, Japanese ,32109,2260541,1003,285,271.2734375,927.6484375,291.7734375,1010.71875,5,11,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,74, Japanese ,32159,2260591,999,284,271.2734375,927.6484375,291.7734375,1010.71875,5,11,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,74, Japanese ,32210,2260642,986,284,271.2734375,927.6484375,291.7734375,1010.71875,5,11,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,74, Japanese ,32259,2260690,968,280,271.2734375,927.6484375,291.7734375,1010.71875,5,11,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,74, Japanese ,32309,2260741,968,280,271.2734375,927.6484375,291.7734375,1010.71875,5,11,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,74, Japanese ,32360,2260791,968,280,271.2734375,927.6484375,291.7734375,1010.71875,5,11,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,74, Japanese ,32410,2260841,968,280,271.2734375,927.6484375,291.7734375,1010.71875,5,11,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,74, Japanese ,32460,2260891,968,280,271.2734375,927.6484375,291.7734375,1010.71875,5,11,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,74, Japanese ,32510,2260941,953,281,271.2734375,927.6484375,291.7734375,1010.71875,5,11,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,32559,2260990,770,307,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,81, studies ,32610,2261041,645,314,311.2734375,606.53125,331.7734375,668.5703125,6,6,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,32658,2261090,529,309,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,32709,2261141,499,304,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,32759,2261190,464,307,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,32809,2261241,454,312,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,77, to ,32859,2261290,443,315,311.2734375,434.4296875,331.7734375,454.4453125,6,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,77, to ,32910,2261342,442,315,311.2734375,434.4296875,331.7734375,454.4453125,6,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,77, to ,32960,2261391,440,316,311.2734375,434.4296875,331.7734375,454.4453125,6,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,77, to ,33009,2261441,440,318,311.2734375,434.4296875,331.7734375,454.4453125,6,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,77, to ,33060,2261491,446,321,311.2734375,434.4296875,331.7734375,454.4453125,6,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,78, work ,33110,2261541,461,322,311.2734375,454.4453125,331.7734375,497.453125,6,3,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,79," hard, ",33158,2261590,501,322,311.2734375,497.453125,331.7734375,543.484375,6,4,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,79," hard, ",33209,2261641,518,321,311.2734375,497.453125,331.7734375,543.484375,6,4,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,79," hard, ",33259,2261691,537,321,311.2734375,497.453125,331.7734375,543.484375,6,4,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,80, despite ,33310,2261742,547,321,311.2734375,543.484375,331.7734375,606.53125,6,5,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,80, despite ,33359,2261791,570,321,311.2734375,543.484375,331.7734375,606.53125,6,5,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,80, despite ,33409,2261841,580,323,311.2734375,543.484375,331.7734375,606.53125,6,5,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,80, despite ,33459,2261891,604,324,311.2734375,543.484375,331.7734375,606.53125,6,5,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,81, studies ,33510,2261942,619,324,311.2734375,606.53125,331.7734375,668.5703125,6,6,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,81, studies ,33559,2261990,645,325,311.2734375,606.53125,331.7734375,668.5703125,6,6,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,81, studies ,33610,2262041,660,326,311.2734375,606.53125,331.7734375,668.5703125,6,6,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,82, that ,33659,2262090,688,328,311.2734375,668.5703125,331.7734375,703.6015625,6,7,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,33710,2262142,701,330,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,33759,2262190,714,331,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,33810,2262242,714,331,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,33859,2262291,714,331,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,33910,2262341,714,331,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,33960,2262391,714,331,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,34008,2262440,714,331,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,34059,2262490,715,331,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,83, suggest ,34109,2262540,731,327,311.2734375,703.6015625,331.7734375,771.6484375,6,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,83, suggest ,34158,2262590,743,324,311.2734375,703.6015625,331.7734375,771.6484375,6,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,84, that ,34209,2262641,778,316,311.2734375,771.6484375,331.7734375,806.6796875,6,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,34260,2262691,803,312,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,34308,2262740,842,310,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,34360,2262791,869,309,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,34408,2262840,910,310,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,34459,2262891,922,311,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,88, the ,34509,2262940,952,314,311.2734375,930.765625,331.7734375,960.7890625,6,13,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,89, office ,34560,2262991,964,316,311.2734375,960.7890625,331.7734375,1008.8125,6,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,89, office ,34609,2263041,985,322,311.2734375,960.7890625,331.7734375,1008.8125,6,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,89, office ,34660,2263092,995,325,311.2734375,960.7890625,331.7734375,1008.8125,6,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,89, office ,34709,2263141,1007,328,311.2734375,960.7890625,331.7734375,1008.8125,6,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,90, or ,34760,2263191,1013,329,311.2734375,1008.8125,331.7734375,1029.8203125,6,15,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,90, or ,34808,2263240,1025,329,311.2734375,1008.8125,331.7734375,1029.8203125,6,15,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,91, workshop ,34860,2263291,1033,329,311.2734375,1029.8203125,331.7734375,1106.859375,6,16,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,91, workshop ,34908,2263340,1045,328,311.2734375,1029.8203125,331.7734375,1106.859375,6,16,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,91, workshop ,34959,2263390,1046,328,311.2734375,1029.8203125,331.7734375,1106.859375,6,16,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,35009,2263441,1046,328,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,87, in ,35060,2263491,915,328,311.2734375,911.75,331.7734375,930.765625,6,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,82, that ,35109,2263540,679,328,311.2734375,668.5703125,331.7734375,703.6015625,6,7,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,35160,2263591,679,328,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,35209,2263640,450,344,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,35260,2263691,427,345,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,35309,2263740,410,345,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,35360,2263792,407,345,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,35408,2263840,405,349,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,93, on ,35460,2263892,403,356,351.2734375,382.3828125,371.7734375,407.40625,7,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,93, on ,35509,2263940,400,362,351.2734375,382.3828125,371.7734375,407.40625,7,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,93, on ,35560,2263992,400,362,351.2734375,382.3828125,371.7734375,407.40625,7,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,93, on ,35608,2264040,400,363,351.2734375,382.3828125,371.7734375,407.40625,7,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,93, on ,35659,2264091,405,363,351.2734375,382.3828125,371.7734375,407.40625,7,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,95, factory ,35709,2264140,441,355,351.2734375,437.4296875,371.7734375,496.453125,7,4,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,35759,2264190,456,352,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,35808,2264240,475,351,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,35860,2264291,482,351,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,35908,2264340,498,351,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,35960,2264391,509,351,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,36008,2264440,528,352,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,97, do ,36060,2264492,540,353,351.2734375,536.4765625,371.7734375,561.5,7,6,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,97, do ,36109,2264540,558,356,351.2734375,536.4765625,371.7734375,561.5,7,6,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,98, not ,36159,2264591,565,358,351.2734375,561.5,371.7734375,591.5234375,7,7,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,98, not ,36209,2264640,574,361,351.2734375,561.5,371.7734375,591.5234375,7,7,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,98, not ,36260,2264692,579,363,351.2734375,561.5,371.7734375,591.5234375,7,7,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,98, not ,36309,2264741,587,366,351.2734375,561.5,371.7734375,591.5234375,7,7,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,99, necessarily ,36360,2264792,592,367,351.2734375,591.5234375,371.7734375,686.5625,7,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,99, necessarily ,36409,2264841,609,369,351.2734375,591.5234375,371.7734375,686.5625,7,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,99, necessarily ,36459,2264891,619,369,351.2734375,591.5234375,371.7734375,686.5625,7,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,99, necessarily ,36508,2264940,643,369,351.2734375,591.5234375,371.7734375,686.5625,7,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,99, necessarily ,36560,2264992,654,369,351.2734375,591.5234375,371.7734375,686.5625,7,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,99, necessarily ,36609,2265040,673,369,351.2734375,591.5234375,371.7734375,686.5625,7,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,99, necessarily ,36660,2265091,679,369,351.2734375,591.5234375,371.7734375,686.5625,7,8,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,100, make ,36709,2265140,689,369,351.2734375,686.5625,371.7734375,735.5859375,7,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,100, make ,36760,2265191,696,369,351.2734375,686.5625,371.7734375,735.5859375,7,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,100, make ,36809,2265241,705,369,351.2734375,686.5625,371.7734375,735.5859375,7,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,100, make ,36860,2265291,710,369,351.2734375,686.5625,371.7734375,735.5859375,7,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,100, make ,36909,2265340,724,368,351.2734375,686.5625,371.7734375,735.5859375,7,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,100, make ,36960,2265391,730,367,351.2734375,686.5625,371.7734375,735.5859375,7,9,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,101, people ,37008,2265440,742,365,351.2734375,735.5859375,371.7734375,794.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,101, people ,37060,2265491,747,364,351.2734375,735.5859375,371.7734375,794.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,101, people ,37109,2265540,753,363,351.2734375,735.5859375,371.7734375,794.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,101, people ,37159,2265591,753,363,351.2734375,735.5859375,371.7734375,794.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,101, people ,37210,2265641,755,363,351.2734375,735.5859375,371.7734375,794.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,101, people ,37260,2265692,757,363,351.2734375,735.5859375,371.7734375,794.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,101, people ,37309,2265740,759,363,351.2734375,735.5859375,371.7734375,794.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,101, people ,37360,2265792,759,363,351.2734375,735.5859375,371.7734375,794.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,101, people ,37410,2265841,759,363,351.2734375,735.5859375,371.7734375,794.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,101, people ,37460,2265891,759,363,351.2734375,735.5859375,371.7734375,794.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,101, people ,37510,2265941,759,363,351.2734375,735.5859375,371.7734375,794.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,101, people ,37560,2265992,759,363,351.2734375,735.5859375,371.7734375,794.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,101, people ,37609,2266040,759,363,351.2734375,735.5859375,371.7734375,794.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,101, people ,37660,2266091,758,363,351.2734375,735.5859375,371.7734375,794.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,101, people ,37709,2266141,751,363,351.2734375,735.5859375,371.7734375,794.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,101, people ,37761,2266192,751,363,351.2734375,735.5859375,371.7734375,794.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,101, people ,37810,2266242,751,363,351.2734375,735.5859375,371.7734375,794.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,101, people ,37859,2266291,751,363,351.2734375,735.5859375,371.7734375,794.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,101, people ,37909,2266341,738,363,351.2734375,735.5859375,371.7734375,794.640625,7,10,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,37960,2266391,738,363,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,38009,2266440,650,361,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,38060,2266492,578,309,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,38109,2266541,542,275,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,48, blamed ,38160,2266591,462,233,231.2734375,410.3984375,251.7734375,474.4375,4,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,38208,2266640,430,211,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,32, little ,38259,2266691,422,208,191.2734375,405.4140625,211.7734375,442.4296875,3,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,32, little ,38309,2266740,413,195,191.2734375,405.4140625,211.7734375,442.4296875,3,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,38360,2266791,413,195,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,38408,2266840,413,173,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,38459,2266891,413,171,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,14, respected ,38509,2266940,416,168,151.2734375,361.375,171.7734375,445.4296875,2,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,14, respected ,38560,2266991,419,165,151.2734375,361.375,171.7734375,445.4296875,2,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,14, respected ,38610,2267041,421,162,151.2734375,361.375,171.7734375,445.4296875,2,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,14, respected ,38660,2267091,421,162,151.2734375,361.375,171.7734375,445.4296875,2,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,14, respected ,38709,2267140,425,159,151.2734375,361.375,171.7734375,445.4296875,2,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,14, respected ,38759,2267190,426,158,151.2734375,361.375,171.7734375,445.4296875,2,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,14, respected ,38809,2267240,427,157,151.2734375,361.375,171.7734375,445.4296875,2,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,14, respected ,38860,2267291,428,157,151.2734375,361.375,171.7734375,445.4296875,2,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,14, respected ,38910,2267341,429,157,151.2734375,361.375,171.7734375,445.4296875,2,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,14, respected ,38960,2267391,429,157,151.2734375,361.375,171.7734375,445.4296875,2,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,15, and ,39009,2267440,452,155,151.2734375,445.4296875,171.7734375,480.46875,2,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,39060,2267491,480,152,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,39109,2267540,535,151,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,39160,2267591,556,152,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,18, the ,39209,2267641,584,154,151.2734375,569.515625,171.7734375,599.5390625,2,5,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,18, the ,39260,2267691,592,155,151.2734375,569.515625,171.7734375,599.5390625,2,5,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,19, rest ,39309,2267740,607,157,151.2734375,599.5390625,171.7734375,634.546875,2,6,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,19, rest ,39360,2267791,612,159,151.2734375,599.5390625,171.7734375,634.546875,2,6,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,19, rest ,39409,2267841,624,164,151.2734375,599.5390625,171.7734375,634.546875,2,6,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,19, rest ,39460,2267891,631,166,151.2734375,599.5390625,171.7734375,634.546875,2,6,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,20, of ,39510,2267941,644,169,151.2734375,634.546875,171.7734375,654.5625,2,7,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,39560,2267992,644,169,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,39609,2268040,662,170,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,39659,2268091,674,170,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,39709,2268140,701,171,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,39760,2268192,713,173,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,39808,2268240,736,177,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,39860,2268291,754,179,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,39908,2268340,783,179,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,39959,2268391,797,179,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,40008,2268440,821,177,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,40060,2268491,830,176,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,40108,2268540,844,172,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,40160,2268591,849,170,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,40208,2268640,859,170,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,40260,2268692,865,169,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,40310,2268741,875,167,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,40360,2268792,878,167,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,40409,2268840,883,166,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,40460,2268891,879,164,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,40510,2268942,879,164,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,40560,2268992,879,164,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,40610,2269041,879,164,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,40661,2269092,879,164,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,40710,2269141,879,164,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,25, commitment ,40759,2269191,880,164,151.2734375,798.6328125,171.7734375,901.65625,2,12,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,26, to ,40809,2269241,902,163,151.2734375,901.65625,171.7734375,921.671875,2,13,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,27, the ,40860,2269292,927,163,151.2734375,921.671875,171.7734375,951.6953125,2,14,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,28," company, ",40910,2269341,973,163,151.2734375,951.6953125,171.7734375,1033.4140625,2,15,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,28," company, ",40959,2269390,992,163,151.2734375,951.6953125,171.7734375,1033.4140625,2,15,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,28," company, ",41010,2269441,1019,164,151.2734375,951.6953125,171.7734375,1033.4140625,2,15,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,28," company, ",41060,2269491,1030,165,151.2734375,951.6953125,171.7734375,1033.4140625,2,15,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,29, but ,41109,2269540,1047,166,151.2734375,1033.4140625,171.7734375,1063.4375,2,16,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,29, but ,41160,2269592,1052,166,151.2734375,1033.4140625,171.7734375,1063.4375,2,16,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,29, but ,41210,2269641,1053,166,151.2734375,1033.4140625,171.7734375,1063.4375,2,16,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,41260,2269692,1053,166,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,41308,2269740,757,174,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,41360,2269792,592,175,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,41408,2269840,440,180,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,41460,2269891,421,180,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,41509,2269940,396,184,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,41559,2269991,384,192,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,31, have ,41609,2270040,367,206,191.2734375,361.375,211.7734375,405.4140625,3,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,31, have ,41660,2270092,363,208,191.2734375,361.375,211.7734375,405.4140625,3,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,41709,2270141,361,209,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,41759,2270190,361,209,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,31, have ,41809,2270240,370,207,191.2734375,361.375,211.7734375,405.4140625,3,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,31, have ,41860,2270291,384,204,191.2734375,361.375,211.7734375,405.4140625,3,1,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,32, little ,41909,2270341,407,200,191.2734375,405.4140625,211.7734375,442.4296875,3,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,32, little ,41960,2270391,415,199,191.2734375,405.4140625,211.7734375,442.4296875,3,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,32, little ,42009,2270441,426,198,191.2734375,405.4140625,211.7734375,442.4296875,3,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,32, little ,42060,2270492,432,197,191.2734375,405.4140625,211.7734375,442.4296875,3,2,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,33, time ,42109,2270540,451,193,191.2734375,442.4296875,211.7734375,481.4375,3,3,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,42160,2270592,451,193,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,42209,2270640,489,188,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,42260,2270691,502,187,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,42309,2270741,528,186,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,42360,2270791,541,186,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,42408,2270840,562,190,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,36, anything ,42459,2270891,574,194,191.2734375,526.4765625,211.7734375,599.53125,3,6,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,36, anything ,42510,2270941,597,200,191.2734375,526.4765625,211.7734375,599.53125,3,6,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,37, except ,42560,2270992,610,203,191.2734375,599.53125,211.7734375,657.5703125,3,7,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,37, except ,42610,2271041,634,207,191.2734375,599.53125,211.7734375,657.5703125,3,7,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,37, except ,42660,2271091,643,208,191.2734375,599.53125,211.7734375,657.5703125,3,7,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,42709,2271140,659,210,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,42760,2271191,666,211,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,42809,2271240,677,212,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,42860,2271292,680,212,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,42909,2271340,683,212,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,42960,2271391,684,212,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43009,2271440,684,212,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43060,2271491,684,212,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43110,2271542,684,212,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43160,2271592,684,212,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43209,2271640,684,212,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43259,2271690,687,232,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43310,2271741,686,291,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43359,2271791,696,379,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43410,2271842,696,379,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43459,2271890,696,379,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43510,2271941,696,379,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43559,2271990,696,379,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43609,2272040,696,379,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43659,2272091,696,379,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43710,2272142,696,379,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43759,2272191,696,379,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43809,2272241,696,379,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43859,2272290,696,379,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43910,2272342,696,379,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,43959,2272390,696,379,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,44010,2272441,696,379,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,44059,2272490,696,379,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,44123,2272555,696,379,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
+FS9KRUKG,,2,int,13,3,27,28,-1,999,44159,2272590,696,379,,,,,,,They highly respect them,1,,,,,1970-01-01T00:00:00.809Z,,,,,,,,,spotlight-sona
