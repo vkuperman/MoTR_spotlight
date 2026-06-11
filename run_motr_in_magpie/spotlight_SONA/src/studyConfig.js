@@ -19,4 +19,6 @@ export default {
   contactEmail: 'hendele@mcmaster.ca',
   mode: 'sona',
   language: 'en',
+  /** Cambridge score used to assign reading levels in ?preview=reading (mid-range → random level pair). */
+  previewCambridgeScore: 15,
 };

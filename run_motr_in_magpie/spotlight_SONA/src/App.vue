@@ -9,7 +9,7 @@
     </div>
     <Experiment v-else title="Mouse tracking for Reading" translate="no">
 
-    <Screen :title="'Welcome'" class="instructions" :validations="{
+    <Screen v-if="!readingPreview" :title="'Welcome'" class="instructions" :validations="{
         SubjectID: {
           minLength: $magpie.v.minLength(2)
         }
@@ -17,11 +17,11 @@
         <ConsentSONA @proceed="recordSonaAndProceed" />
         </Screen>
 
-    <Screen title="Demographics" class="instructions" key="demographics-onestop">
+    <Screen v-if="!readingPreview" title="Demographics" class="instructions" key="demographics-onestop">
       <DemographicsOneStopQuestionnaire @complete="$magpie.saveAndNextScreen()" />
     </Screen>
 
-    <Screen title="General English" class="instructions" key="cambridge-intro">
+    <Screen v-if="!readingPreview" title="General English" class="instructions" key="cambridge-intro">
       <div style="width: 40em; margin: auto; text-align: left;">
         <p>
           You will now complete a short multiple-choice English test ({{ cambridgeQuestions.length }} items).
@@ -34,6 +34,7 @@
     </Screen>
 
     <Screen
+      v-if="!readingPreview"
       v-for="(page, pidx) in cambridgePages"
       :key="'cambridge-page-' + pidx"
       :title="'Page ' + (pidx + 1) + ' / ' + cambridgePages.length"
@@ -67,6 +68,9 @@
         <a href="javascript:void(0)" @click="turnOnFullScreen">Fullscreen Mode</a>
       </p>
  -->
+      <p v-if="readingPreview" style="width: 40em; margin: 0 auto 1.25em; text-align: center; color: #666; font-size: 0.9em;">
+        Preview mode — reading trials only. Nothing is saved or uploaded.
+      </p>
       <p>In this study, you will read short texts and answer questions about them. However, unlike in normal reading, the texts will be blurred. <strong>Move your mouse over the text to reveal it with the spotlight;</strong> the revealed area follows your mouse. Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question at the bottom and click "next" to move on.</p>
     </InstructionScreen>
 
@@ -91,43 +95,41 @@
             <input v-if="trial.onestop_manual_article_numbers" type="hidden" class="onestop_manual_article_numbers" :value="trial.onestop_manual_article_numbers">
           </form>
           <div class="oval-cursor"></div>
-          <div class="trial-slide-layout">
-            <div class="trial-text-region">
-              <div class="text-height-spacer" aria-hidden="true">{{ trial.text }}</div>
-              <div v-if="showFirstDiv" class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
-                <template v-for="(word, index) of trial.text.split(' ')">
-                  <span :key="index" :data-index="index + 1">
-                    {{ word }}
-                  </span>
-                </template>
-              </div>
-              <div class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;">
-                {{ trial.text }}
-              </div>
+          <template v-if="showFirstDiv">
+            <div class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
+              <template v-for="(word, index) of trial.text.split(' ')">
+                <span :key="index" :data-index="index + 1">
+                  {{ word }}
+                </span>
+              </template>
             </div>
+            <div class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;">
+              {{ trial.text }}
+            </div>
+            <div class="reading-text-spacer" aria-hidden="true">{{ trial.text }}</div>
+          </template>
 
-            <div v-if="!showFirstDiv" class="trial-comprehension-panel">
-              <form>
-                <div>{{ (trial.question || '').replace(/ ?["]+/g, '') }}</div>
-                <template v-for="(word, index) of trial.response_options">
-                  <input :id="'opt_'+index" type="radio" :value="word" name="opt" v-model="$magpie.measurements.response"/>{{ word }}<br/>
-                </template>
-              </form>
-            </div>
+          <div v-if="!showFirstDiv" class="trial-comprehension-panel">
+            <form>
+              <div>{{ (trial.question || '').replace(/ ?["]+/g, '') }}</div>
+              <template v-for="(word, index) of trial.response_options">
+                <input :id="'opt_'+index" type="radio" :value="word" name="opt" v-model="$magpie.measurements.response"/>{{ word }}<br/>
+              </template>
+            </form>
+          </div>
 
-            <div class="trial-actions">
-              <button v-if="showFirstDiv" type="button" class="trial-done-btn" @click="toggleDivs" :disabled="!isCursorMoving">
-                Done
-              </button>
-              <button v-if="!showFirstDiv && $magpie.measurements.response" type="button" class="trial-next-btn" @click="submitTrialResponse(trial, i)">
-                Next
-              </button>
-            </div>
+          <div class="trial-actions">
+            <button v-if="showFirstDiv" type="button" class="trial-done-btn" @click="toggleDivs" :disabled="!isCursorMoving">
+              Done
+            </button>
+            <button v-if="!showFirstDiv && $magpie.measurements.response" type="button" class="trial-next-btn" @click="submitTrialResponse(trial, i)">
+              Next
+            </button>
           </div>
         </Slide>
       </Screen>
     </template>
-<Screen>
+<Screen v-if="!readingPreview">
   <p>1. Which input device are you using for this experiment?</p>
     <MultipleChoiceInput
         :response.sync= "$magpie.measurements.device"
@@ -143,8 +145,22 @@
   <button style= "bottom:30%; transform: translate(-50%, -50%)" @click="$magpie.saveAndNextScreen();">Submit</button>
 </Screen>
 
-    <ExportReportsScreen :skip-sona-input="true" />
-    <CustomSubmitResultsScreen />
+    <ExportReportsScreen
+      v-if="!readingPreview"
+      :skip-sona-input="true"
+      :github-results-path="githubResultsPath"
+    />
+    <CustomSubmitResultsScreen v-if="!readingPreview" />
+
+    <Screen v-if="readingPreview" title="Preview complete" class="instructions" key="reading-preview-done">
+      <div style="width: 40em; margin: auto; text-align: center;">
+        <p>Reading preview complete.</p>
+        <p style="color: #666; font-size: 0.9em;">No data was saved or uploaded.</p>
+        <p style="margin-top: 1.5em;">
+          <a :href="fullStudyUrl">Open full study</a>
+        </p>
+      </div>
+    </Screen>
   </Experiment>
   </div>
 </template>
@@ -171,6 +187,7 @@ import {
 } from '@motr-shared/resultsSafeguard';
 import {
   installRawPositionSampling,
+  outOfBoundsWordForIndex,
   uninstallRawPositionSampling,
 } from '@motr-shared/motrRawSampling';
 import {
@@ -191,8 +208,13 @@ const cambridgeScoringCsv = require('../../OneStop/Cambridge/Cambridge scoring(S
 export default {
   name: 'App',
   components: { ExportReportsScreen, CustomSubmitResultsScreen, ConsentSONA, DemographicsOneStopQuestionnaire },
+  props: {
+    /** Reading-phase preview: skip consent/demographics/Cambridge/upload; no results persisted. */
+    readingPreview: { type: Boolean, default: false },
+  },
   data() {
     return {
+      githubResultsPath: studyConfig.githubResultsPath,
       stimuliReady: false,
       isCursorMoving: false,
       isClickHeld: false,
@@ -237,9 +259,21 @@ export default {
     this.cambridgeQuestions = camQ;
     this.cambridgeScoring = prepareCambridgeScoring(cambridgeScoringCsv);
     this.cambridgeSelected = camQ.map(() => null);
+    if (this.readingPreview) {
+      this.assignReadingTrials(studyConfig.previewCambridgeScore ?? 15);
+    }
     this.stimuliReady = true;
   },
   computed: {
+    fullStudyUrl() {
+      const url = new URL(window.location.href);
+      url.searchParams.delete('preview');
+      url.searchParams.delete('noUpload');
+      if (url.hash === '#reading-preview' || url.hash === '#preview=reading') {
+        url.hash = '';
+      }
+      return url.toString();
+    },
     cambridgeComputedScore() {
       if (!this.cambridgeQuestions.length) return 0;
       let n = 0;
@@ -453,10 +487,6 @@ export default {
         oval.style.width = '0px';
         oval.style.height = '0px';
       }
-      const readingText = this.$el.querySelector('.readingText');
-      if (readingText) {
-        readingText.style.clipPath = 'none';
-      }
       this.currentIndex = null;
       this.isClickHeld = false;
     },
@@ -480,21 +510,10 @@ export default {
       const ovalWidthPx = totalChars * charWidth;
       const ovalHeightPx = line ? line.lineHeight : 20;
       const ovalCenterY = line ? (line.lineTop + line.lineBottom) / 2 : y;
-      const ovalCenterX = x + (charsRight - charsLeft) / 2 * charWidth;
       oval.style.width = `${ovalWidthPx}px`;
       oval.style.height = `${ovalHeightPx}px`;
-      oval.style.left = `${ovalCenterX}px`;
+      oval.style.left = `${x + (charsRight - charsLeft) / 2 * charWidth}px`;
       oval.style.top = `${ovalCenterY}px`;
-
-      const readingText = this.$el.querySelector('.readingText');
-      if (readingText) {
-        const textRect = readingText.getBoundingClientRect();
-        const clipX = ovalCenterX - textRect.left;
-        const clipY = ovalCenterY - textRect.top;
-        const clipRx = ovalWidthPx / 2;
-        const clipRy = ovalHeightPx / 2;
-        readingText.style.clipPath = `ellipse(${clipRx}px ${clipRy}px at ${clipX}px ${clipY}px)`;
-      }
 
       // Detect new text (ItemId change) and reset interest areas.
       const itemInput = this.$el.querySelector(".item_id");
@@ -614,7 +633,7 @@ export default {
         ItemId: this.$el.querySelector(".item_id").value,
         presentation_order: presentationOrder,
         Index: this.clickWordIndex !== null && this.clickWordIndex !== -1 ? parseInt(this.clickWordIndex, 10) : this.clickWordIndex,
-        Word: this.clickWord,
+        Word: outOfBoundsWordForIndex(this.clickWordIndex, this.clickWord),
         mousePositionX: this.clickStartX,
         mousePositionY: this.clickStartY,
         revealMode: 'hover',
@@ -710,7 +729,9 @@ export default {
         console.warn('recordResponse failed:', err);
       } finally {
         this.$magpie.saveAndNextScreen();
-        deferReadingTrialSafeguards(this, trial, trialIndex, studyConfig);
+        if (!this.readingPreview) {
+          deferReadingTrialSafeguards(this, trial, trialIndex, studyConfig);
+        }
       }
     },
     cambridgePageComplete(page) {
@@ -738,8 +759,7 @@ export default {
         this.$magpie.saveAndNextScreen();
       }
     },
-    finishCambridgeBlock() {
-      const score = this.cambridgeComputedScore;
+    assignReadingTrials(score) {
       const { trials, metadata } = prepareParticipantReadingTrials({
         score,
         oneStopLists: this.oneStopLists,
@@ -748,6 +768,11 @@ export default {
         studyConfig,
       });
       this.trials = trials;
+      return metadata;
+    },
+    finishCambridgeBlock() {
+      const score = this.cambridgeComputedScore;
+      const metadata = this.assignReadingTrials(score);
       this.$magpie.addTrialData({
         source: 'cambridge_general_english_summary',
         cambridge_score: score,
@@ -777,35 +802,15 @@ export default {
     align-items: center;
     justify-content: center;
   }
-  .motr-root .experiment:has(.main_screen) {
-    width: min(1000px, 94vw);
-    min-height: 88vh;
-    align-items: stretch;
-  }
   .main_screen {
+    isolation: isolate;
     position: relative;
     width: 100%;
     height: auto;
-    min-height: 80vh;
     font-size: 18px;
     line-height: 40px;
-    display: flex;
-    flex-direction: column;
   }
-  .trial-slide-layout {
-    display: flex;
-    flex-direction: column;
-    flex: 1 1 auto;
-    width: 100%;
-    min-height: 75vh;
-  }
-  .trial-text-region {
-    position: relative;
-    flex: 0 0 auto;
-    width: 100%;
-    background-color: #fff;
-  }
-  .text-height-spacer {
+  .reading-text-spacer {
     visibility: hidden;
     pointer-events: none;
     color: black;
@@ -815,12 +820,8 @@ export default {
     padding-bottom: 2%;
     padding-left: 11%;
     padding-right: 11%;
-    width: 100%;
-    box-sizing: border-box;
   }
   .trial-actions {
-    flex: 0 0 auto;
-    margin-top: auto;
     padding: 1.25rem 0 0.5rem;
     text-align: center;
   }
@@ -829,11 +830,7 @@ export default {
   }
   .readingText {
     position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 2;
-    color: black;
+    color: white;
     text-align: left;
     font-weight: 450;
     cursor: pointer;
@@ -842,7 +839,6 @@ export default {
     padding-left: 11%;
     padding-right: 11%;
     pointer-events: auto;
-    clip-path: none;
   }
   button {
     position: absolute;
@@ -860,7 +856,6 @@ export default {
     margin: 0 auto;
   }
   .trial-comprehension-panel {
-    flex: 0 0 auto;
     margin-top: 1.25rem;
     padding: 0.75rem 11% 0.25rem;
     text-align: center;
@@ -869,27 +864,38 @@ export default {
   }
   .oval-cursor {
     position: fixed;
-    z-index: 3;
+    z-index: 2;
     width: 0;
     height: 0;
     transform: translate(-50%, -50%);
-    background-color: transparent;
+    background-color: white;
+    mix-blend-mode: difference;
     border-radius: 50%;
     pointer-events: none;
     transition: none;
   }
   .oval-cursor.grow {
     border-radius: 50%;
-    box-shadow: 30px 0 8px -4px rgba(0, 0, 0, 0.06), -30px 0 8px -4px rgba(0, 0, 0, 0.06);
-    background-color: rgba(255, 255, 255, 0.12);
+    box-shadow: 30px 0 8px -4px rgba(255, 255, 255, 0.1), -30px 0 8px -4px rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.3);
+    background-blend-mode: screen;
     pointer-events: none;
+    filter: blur(3px);
+  }
+  .oval-cursor.grow::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+    height: 70%;
+    background-color: white;
+    mix-blend-mode: normal;
+    border-radius: 50%;
   }
   .blurry-layer {
     position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 1;
     pointer-events: none;
     color: black;
     text-align: left;
@@ -898,8 +904,6 @@ export default {
     padding-bottom: 2%;
     padding-left: 11%;
     padding-right: 11%;
-    width: 100%;
-    box-sizing: border-box;
   }
 
   * {

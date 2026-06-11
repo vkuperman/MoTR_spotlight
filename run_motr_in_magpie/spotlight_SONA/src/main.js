@@ -3,7 +3,6 @@ import VueKonva from 'vue-konva';
 import VueMagpie from 'magpie-base';
 import App from './App.vue';
 import DemographicsPreviewApp from '@motr-shared/components/DemographicsPreviewApp.vue';
-import ReadingPreviewApp from './components/ReadingPreviewApp.vue';
 import {
   isDemographicsPreviewMode,
   isReadingPreviewMode,
@@ -18,15 +17,14 @@ Vue.use(VueKonva, { prefix: 'Canvas' });
 // Load magpie components
 Vue.use(VueMagpie, magpieConfig);
 
-function resolveRootComponent() {
-  if (isReadingPreviewMode()) return ReadingPreviewApp;
-  if (isDemographicsPreviewMode()) return DemographicsPreviewApp;
-  return App;
-}
+const readingPreview = isReadingPreviewMode();
+const demographicsPreview = isDemographicsPreviewMode();
 
-const RootComponent = resolveRootComponent();
-
-// start app
+// Mount App directly for reading preview so spotlight DOM matches the live study.
 new Vue({
-  render: (h) => h(RootComponent)
+  render(h) {
+    if (readingPreview) return h(App, { props: { readingPreview: true } });
+    if (demographicsPreview) return h(DemographicsPreviewApp);
+    return h(App);
+  },
 }).$mount('#app');

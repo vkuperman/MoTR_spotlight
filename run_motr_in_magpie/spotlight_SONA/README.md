@@ -10,3 +10,13 @@ Mouse-tracking for Reading. **Prolific** version: `../spotlight_PROLIFIC/`. Shar
 npm install
 npm run serve
 ```
+
+## Reading preview (no data saved)
+
+Use this link to try the reading phase only (instructions, practice trial, and full reading trial list — same spotlight as the live study). Nothing is uploaded or written to GitHub:
+
+**https://mo-tr-spotlight.vercel.app/?preview=reading**
+
+Local dev: `http://localhost:8080/?preview=reading`
+
+Demographics-only preview: `?preview=demographics`
