@@ -128,6 +128,15 @@ function buildCheckpointManifest(session, context) {
   }, null, 2);
 }
 
+function sanitizeRowsForSnapshot(allRows) {
+  if (!Array.isArray(allRows)) return [];
+  return allRows.map((row) => {
+    if (!row || typeof row !== 'object') return row;
+    const { allWords, ...rest } = row;
+    return rest;
+  });
+}
+
 export function buildCompleteResultsFiles(allRows, participantId, expData, sessionTimes) {
   const fixationCsv = buildFixationReport(allRows, participantId, expData, sessionTimes);
   const interestAreaCsv = buildInterestAreaReport(allRows, participantId, expData, sessionTimes);
@@ -142,6 +151,19 @@ export function buildCompleteResultsFiles(allRows, participantId, expData, sessi
     files.push({ name: 'raw_position_samples.csv', content: rawPositionCsv });
   }
   return files;
+}
+
+function buildFilesFromSnapshot(snapshot) {
+  if (snapshot && Array.isArray(snapshot.allRows) && snapshot.allRows.length > 0) {
+    return buildCompleteResultsFiles(
+      snapshot.allRows,
+      snapshot.participantId,
+      snapshot.expData || {},
+      snapshot.sessionTimes || { experiment_start_time_fallback: '' }
+    );
+  }
+  if (snapshot && Array.isArray(snapshot.files)) return snapshot.files;
+  return [];
 }
 
 export async function uploadCompleteResults(context, sessionTimes, resultsScope = 'complete') {
@@ -264,12 +286,6 @@ export async function persistResultsSnapshot(vm, studyConfig) {
   if (!session) return;
 
   const sessionTimes = buildCheckpointSessionTimes(vm);
-  const files = buildCompleteResultsFiles(
-    context.allRows,
-    context.participantId,
-    context.expData,
-    sessionTimes
-  );
 
   await saveResultsSnapshot(session.sessionId, {
     participantId: context.participantId,
@@ -277,7 +293,9 @@ export async function persistResultsSnapshot(vm, studyConfig) {
     uploadUrl: context.uploadUrl,
     githubResultsPath: context.githubResultsPath,
     isTest: context.isTest,
-    files,
+    allRows: sanitizeRowsForSnapshot(context.allRows),
+    expData: context.expData || {},
+    sessionTimes,
     trialsCompleted: session.trialsCompleted || [],
     pendingComplete: true,
     savedAt: new Date().toISOString(),
@@ -285,7 +303,8 @@ export async function persistResultsSnapshot(vm, studyConfig) {
 }
 
 async function uploadSnapshotPayload(snapshot) {
-  if (!snapshot || !snapshot.uploadUrl || !snapshot.folderName || !Array.isArray(snapshot.files)) {
+  const files = buildFilesFromSnapshot(snapshot);
+  if (!snapshot || !snapshot.uploadUrl || !snapshot.folderName || !files.length) {
     return false;
   }
   const sessionComplete = JSON.stringify({
@@ -297,14 +316,15 @@ async function uploadSnapshotPayload(snapshot) {
       ? snapshot.trialsCompleted.slice().sort((a, b) => a - b)
       : [],
     recoveredFromSnapshot: true,
+    rebuiltFromAllRows: Array.isArray(snapshot.allRows) && snapshot.allRows.length > 0,
   }, null, 2);
-  const files = snapshot.files.slice();
-  files.push({ name: 'session_complete.json', content: sessionComplete });
+  const uploadFiles = files.slice();
+  uploadFiles.push({ name: 'session_complete.json', content: sessionComplete });
   await uploadResultsFiles(
     snapshot.uploadUrl,
     snapshot.participantId,
     snapshot.folderName,
-    files,
+    uploadFiles,
     !!snapshot.isTest,
     snapshot.githubResultsPath || '',
     'complete'
