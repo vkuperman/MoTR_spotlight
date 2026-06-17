@@ -23,6 +23,13 @@ const STUDY_KEY_BY_APP = {
   PROLIFIC: 'spotlight_PROLIFIC',
 };
 
+const RESULTS_PATH_BY_APP = {
+  SONA: 'run_motr_in_magpie/Results/spotlight_SONA',
+  PROLIFIC: 'run_motr_in_magpie/Results/spotlight_PROLIFIC',
+};
+
+const RESULTS_BASE_PATH = 'run_motr_in_magpie/Results';
+
 function normalizeResultsPath(pathValue) {
   return String(pathValue || '')
     .replace(/\\/g, '/')
@@ -32,6 +39,23 @@ function normalizeResultsPath(pathValue) {
 function expectedStudyKeyForDeployment() {
   const app = String(process.env.SPOTLIGHT_APP || '').toUpperCase();
   return STUDY_KEY_BY_APP[app] || '';
+}
+
+function canonicalResultsPathForDeployment() {
+  const app = String(process.env.SPOTLIGHT_APP || '').toUpperCase();
+  return RESULTS_PATH_BY_APP[app] || '';
+}
+
+/** Accept exact server path or study subfolder when Vercel still uses base Results path. */
+function resolveResultsPath(serverPath, requestedPath) {
+  const server = normalizeResultsPath(serverPath);
+  const requested = normalizeResultsPath(requestedPath || server);
+  const canonical = canonicalResultsPathForDeployment();
+
+  if (server === requested) return server;
+  if (canonical && requested === canonical) return canonical;
+  if (canonical && server === RESULTS_BASE_PATH && requested === canonical) return canonical;
+  return null;
 }
 
 function safeParticipantId(id) {
@@ -169,16 +193,17 @@ export default async function handler(req, res) {
     });
   }
 
-  if (requestedResultsPath !== serverResultsPath) {
+  const resultsPath = resolveResultsPath(serverResultsPath, requestedResultsPath);
+  if (!resultsPath) {
     return res.status(403).json({
       error: 'githubResultsPath does not match this API deployment',
-      expectedGithubResultsPath: serverResultsPath,
+      expectedGithubResultsPath: canonicalResultsPathForDeployment() || serverResultsPath,
+      serverGithubResultsPath: serverResultsPath,
       receivedGithubResultsPath: requestedResultsPath,
       spotlightApp: process.env.SPOTLIGHT_APP || '',
     });
   }
 
-  const resultsPath = serverResultsPath;
   const timestamp = new Date().toISOString().replace(/[:.]/g, '-').slice(0, 19);
   const isTest = body.isTest === true || body.isTest === 'true';
   const resultsScope = body.resultsScope === 'partial' ? 'partial' : 'complete';
