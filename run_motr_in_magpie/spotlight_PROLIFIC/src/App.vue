@@ -34,29 +34,33 @@
     </Screen>
 
     <Screen
-      v-for="(page, pidx) in cambridgePages"
-      :key="'cambridge-page-' + pidx"
-      :title="'Page ' + (pidx + 1) + ' / ' + cambridgePages.length"
+      v-for="(cq, cidx) in cambridgeQuestions"
+      :key="'cambridge-q-' + cidx"
+      :title="'Question ' + (cidx + 1) + ' / ' + cambridgeQuestions.length"
       class="instructions"
     >
       <div style="width: 40em; margin: auto; text-align: left;">
-        <div
-          v-for="item in page"
-          :key="'cambridge-q-' + item.globalIndex"
-          style="margin-bottom: 1.75em;"
-        >
-          <p><strong>{{ item.globalIndex + 1 }}.</strong> {{ item.question.question }}</p>
-          <template v-for="(opt, oi) in item.question.options">
-            <label :key="'cambridge-opt-' + item.globalIndex + '-' + oi" style="display: block; margin: 0.35em 0;">
-              <input type="radio" :value="opt" v-model="cambridgeSelected[item.globalIndex]" />
-              {{ opt }}
-            </label>
-          </template>
-        </div>
+        <p>{{ cq.question }}</p>
+        <template v-for="(opt, oi) in cq.options">
+          <label :key="'cambridge-opt-' + cidx + '-' + oi" style="display: block; margin: 0.35em 0;">
+            <input type="radio" :value="opt" v-model="cambridgeSelected[cidx]" />
+            {{ opt }}
+          </label>
+        </template>
         <p style="text-align: center; margin-top: 2rem;">
-          <button type="button" :disabled="!cambridgePageComplete(page)" @click="submitCambridgePage(page, pidx)">
+          <button type="button" :disabled="!cambridgeSelected[cidx]" @click="submitCambridgeItem(cidx, cq)">
             Next
           </button>
+        </p>
+      </div>
+    </Screen>
+
+    <Screen title="English test — results" class="instructions" key="cambridge-results">
+      <div style="width: 40em; margin: auto; text-align: left;">
+        <p>Number correct: {{ cambridgeComputedScore }} out of {{ cambridgeQuestions.length }}.</p>
+        <p>CEFR band (per scoring key): <strong>{{ cambridgeCefrLabel }}</strong></p>
+        <p style="text-align: center; margin-top: 2rem;">
+          <button type="button" @click="finishCambridgeBlock">Continue to reading</button>
         </p>
       </div>
     </Screen>
@@ -91,37 +95,38 @@
             <input v-if="trial.onestop_manual_article_numbers" type="hidden" class="onestop_manual_article_numbers" :value="trial.onestop_manual_article_numbers">
           </form>
           <div class="oval-cursor"></div>
-          <template v-if="showFirstDiv">
-            <div class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
+          <template>
+            <div v-if="showFirstDiv" class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
               <template v-for="(word, index) of trial.text.split(' ')">
-                <span :key="index" :data-index="index + 1">
+                <span :key="index" :data-index="index + 1" >
                   {{ word }}
                 </span>
               </template>
             </div>
-            <div class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;">
-              {{ trial.text }}
+            <div class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;"> 
+              {{trial.text}}
             </div>
-            <div class="reading-text-spacer" aria-hidden="true">{{ trial.text }}</div>
           </template>
+          <button v-if="showFirstDiv" style= "bottom:40%; transform: translate(-50%, -50%)" @click="toggleDivs" :disabled="!isCursorMoving">
+          Done
+          </button>
 
-          <div v-if="!showFirstDiv" class="trial-comprehension-panel">
-            <form>
-              <div>{{ (trial.question || '').replace(/ ?["]+/g, '') }}</div>
-              <template v-for="(word, index) of trial.response_options">
-                <input :id="'opt_'+index" type="radio" :value="word" name="opt" v-model="$magpie.measurements.response"/>{{ word }}<br/>
-              </template>
-            </form>
+          <div v-else style = "position:absolute; bottom:15%; text-align: center; width: 100%; min-width: -webkit-fill-available;" >
+            <template>
+              <form>
+                <!-- comprehension questions and the response options -->
+                <div>{{ (trial.question || '').replace(/ ?["]+/g, '') }}</div>
+                <template v-for='(word, index) of trial.response_options'>
+                  <input :id="'opt_'+index" type="radio" :value="word" name="opt" v-model="$magpie.measurements.response"/>{{ word }}<br/>
+                    <!-- <label :for="'opt_'+index"> {{ word }}&nbsp</label> -->
+                </template>
+              </form>
+            </template>
           </div>
-
-          <div class="trial-actions">
-            <button v-if="showFirstDiv" type="button" class="trial-done-btn" @click="toggleDivs" :disabled="!isCursorMoving">
-              Done
-            </button>
-            <button v-if="!showFirstDiv && $magpie.measurements.response" type="button" class="trial-next-btn" @click="submitTrialResponse(trial, i)">
-              Next
-            </button>
-          </div>
+          
+          <button v-if="$magpie.measurements.response" style="transform: translate(-50%, -50%)" @click="recordResponse(trial); toggleDivs(); $magpie.saveAndNextScreen()">
+            Next
+          </button>
         </Slide>
       </Screen>
     </template>
@@ -160,26 +165,12 @@ import { buildOneStopTrialLists } from '@motr-shared/buildOneStopTrialLists';
 import { loadStimuliRowMap } from '@motr-shared/parseOneStopStimuli';
 import { prepareParticipantReadingTrials } from '@motr-shared/readingTrialSetup';
 import {
-  chunkCambridgeQuestions,
   prepareCambridgeQuestions,
   prepareCambridgeScoring,
   cefrBandForScore,
   isCambridgeAnswerCorrect,
 } from '@motr-shared/cambridgeGeneralEnglish';
 import ExportReportsScreen from '@motr-shared/components/ExportReportsScreen.vue';
-import {
-  deferReadingTrialSafeguards,
-  initResultsSession,
-} from '@motr-shared/resultsSafeguard';
-import {
-  installRawPositionSampling,
-  outOfBoundsWordForIndex,
-  uninstallRawPositionSampling,
-} from '@motr-shared/motrRawSampling';
-import {
-  appendOneStopTrialMeta,
-  readOneStopTrialMetaFromEl,
-} from '@motr-shared/oneStopExportFields';
 import DemographicsOneStopQuestionnaire from '@motr-shared/components/DemographicsOneStopQuestionnaire.vue';
 import ConsentPROLIFIC from './components/ConsentPROLIFIC.vue';
 import CustomSubmitResultsScreen from './components/CustomSubmitResultsScreen.vue';
@@ -258,20 +249,6 @@ export default {
     cambridgeCefrLabel() {
       return cefrBandForScore(this.cambridgeComputedScore, this.cambridgeScoring);
     },
-    cambridgePages() {
-      return chunkCambridgeQuestions(this.cambridgeQuestions);
-    },
-  },
-  watch: {
-    '$magpie.currentScreenIndex'() {
-      this.resetTrialView();
-    },
-  },
-  mounted() {
-    installRawPositionSampling(this);
-  },
-  beforeDestroy() {
-    uninstallRawPositionSampling(this);
   },
   methods: {
     getCharSizePx() {
@@ -465,8 +442,6 @@ export default {
       this.isCursorMoving = true;
       const x = e.clientX;
       const y = e.clientY;
-      this.mousePosition.x = x;
-      this.mousePosition.y = y;
       const now = performance.now();
 
       const oval = this.$el.querySelector(".oval-cursor");
@@ -598,13 +573,12 @@ export default {
       const totalWordsInItem = spans && spans.length ? spans.length : null;
       const allWords = spans && spans.length ? Array.from(spans).map((s) => s.innerHTML).join(' ') : null;
       const payload = {
-        recordType: 'hover_association',
         Experiment: expEl.value,
         Condition: this.$el.querySelector(".condition_id").value,
         ItemId: this.$el.querySelector(".item_id").value,
         presentation_order: presentationOrder,
         Index: this.clickWordIndex !== null && this.clickWordIndex !== -1 ? parseInt(this.clickWordIndex, 10) : this.clickWordIndex,
-        Word: outOfBoundsWordForIndex(this.clickWordIndex, this.clickWord),
+        Word: this.clickWord,
         mousePositionX: this.clickStartX,
         mousePositionY: this.clickStartY,
         revealMode: 'hover',
@@ -627,7 +601,6 @@ export default {
       }
       if (this.clickLineNumber != null) payload.line_number = this.clickLineNumber;
       if (this.clickPositionInLine != null) payload.position_in_line = this.clickPositionInLine;
-      appendOneStopTrialMeta(payload, readOneStopTrialMetaFromEl(this.$el));
       $magpie.addTrialData(payload);
       this.clickStartTime = null;
       this.clickStartX = null;
@@ -641,17 +614,8 @@ export default {
       this.clickPositionInLine = null;
     },
     toggleDivs() {
-      this.showFirstDiv = !this.showFirstDiv;
-      this.isCursorMoving = false;
-    },
-    resetTrialView() {
-      this.showFirstDiv = true;
-      this.isCursorMoving = false;
-      this.isClickHeld = false;
-      this.currentIndex = null;
-      this.interestAreasByIndex = {};
-      this.lastItemId = null;
-      this.changeBack();
+    this.showFirstDiv = !this.showFirstDiv;
+    this.isCursorMoving = false;
     },
     getScreenDimensions() {
       return {
@@ -679,7 +643,6 @@ export default {
         study_key: studyConfig.studyKey,
         source: 'welcome'
       });
-      initResultsSession(this, studyConfig);
       this.$magpie.nextScreen();
     },
     recordResponse(trial) {
@@ -695,40 +658,18 @@ export default {
         response_correct: responseCorrect
       });
     },
-    submitTrialResponse(trial, trialIndex) {
-      try {
-        this.recordResponse(trial);
-      } catch (err) {
-        console.warn('recordResponse failed:', err);
-      } finally {
-        this.$magpie.saveAndNextScreen();
-        deferReadingTrialSafeguards(this, trial, trialIndex, studyConfig);
-      }
-    },
-    cambridgePageComplete(page) {
-      return page.every((item) => this.cambridgeSelected[item.globalIndex]);
-    },
-    submitCambridgePage(page, pageIndex) {
-      if (!this.cambridgePageComplete(page)) return;
-      for (const item of page) {
-        const cidx = item.globalIndex;
-        const cq = item.question;
-        const sel = this.cambridgeSelected[cidx];
-        if (!sel) return;
-        const ok = isCambridgeAnswerCorrect(sel, cq.correct);
-        this.$magpie.addTrialData({
-          source: 'cambridge_general_english',
-          cambridge_item: cidx + 1,
-          cambridge_selected: sel,
-          cambridge_correct_answer: cq.correct,
-          cambridge_item_correct: ok ? '1' : '0',
-        });
-      }
-      if (pageIndex === this.cambridgePages.length - 1) {
-        this.finishCambridgeBlock();
-      } else {
-        this.$magpie.saveAndNextScreen();
-      }
+    submitCambridgeItem(cidx, cq) {
+      const sel = this.cambridgeSelected[cidx];
+      if (!sel) return;
+      const ok = isCambridgeAnswerCorrect(sel, cq.correct);
+      this.$magpie.addTrialData({
+        source: 'cambridge_general_english',
+        cambridge_item: cidx + 1,
+        cambridge_selected: sel,
+        cambridge_correct_answer: cq.correct,
+        cambridge_item_correct: ok ? '1' : '0',
+      });
+      this.$magpie.saveAndNextScreen();
     },
     finishCambridgeBlock() {
       const score = this.cambridgeComputedScore;
@@ -777,25 +718,11 @@ export default {
     font-size: 18px;
     line-height: 40px;
   }
-  .reading-text-spacer {
-    visibility: hidden;
-    pointer-events: none;
-    color: black;
-    text-align: left;
-    font-weight: 450;
-    padding-top: 2%;
-    padding-bottom: 2%;
-    padding-left: 11%;
-    padding-right: 11%;
-  }
-  .trial-actions {
-    padding: 1.25rem 0 0.5rem;
-    text-align: center;
-  }
   .debugResults{
     width: 100%;
   }
   .readingText {
+    /* z-index: 1; */
     position: absolute;
     color: white;
     text-align: left;
@@ -805,29 +732,11 @@ export default {
     padding-bottom: 2%;
     padding-left: 11%;
     padding-right: 11%;
-    pointer-events: auto;
   }
   button {
     position: absolute;
     bottom: 0;
     left: 50%;
-  }
-  .trial-actions .trial-done-btn,
-  .trial-actions .trial-next-btn {
-    position: relative;
-    bottom: auto;
-    left: auto;
-    transform: none;
-    z-index: 3;
-    display: inline-block;
-    margin: 0 auto;
-  }
-  .trial-comprehension-panel {
-    margin-top: 1.25rem;
-    padding: 0.75rem 11% 0.25rem;
-    text-align: center;
-    width: 100%;
-    box-sizing: border-box;
   }
   .oval-cursor {
     position: fixed;
@@ -860,7 +769,7 @@ export default {
     background-color: white;
     mix-blend-mode: normal;
     border-radius: 50%;
-  }
+}
   .blurry-layer {
     position: absolute;
     pointer-events: none;
