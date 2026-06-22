@@ -90,38 +90,37 @@
             <input v-if="trial.onestop_article_selection_mode" type="hidden" class="onestop_article_selection_mode" :value="trial.onestop_article_selection_mode">
             <input v-if="trial.onestop_manual_article_numbers" type="hidden" class="onestop_manual_article_numbers" :value="trial.onestop_manual_article_numbers">
           </form>
-          <div class="trial-slide-layout">
-            <div class="trial-text-region">
-              <div class="oval-cursor"></div>
-              <div v-if="showFirstDiv" class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
-                <template v-for="(word, index) of trial.text.split(' ')">
-                  <span :key="index" :data-index="index + 1">
-                    {{ word }}
-                  </span>
-                </template>
-              </div>
-              <div class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;">
-                {{ trial.text }}
-              </div>
+          <div class="oval-cursor"></div>
+          <template v-if="showFirstDiv">
+            <div class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
+              <template v-for="(word, index) of trial.text.split(' ')">
+                <span :key="index" :data-index="index + 1">
+                  {{ word }}
+                </span>
+              </template>
             </div>
+            <div class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;">
+              {{ trial.text }}
+            </div>
+            <div class="reading-text-spacer" aria-hidden="true">{{ trial.text }}</div>
+          </template>
 
-            <div v-if="!showFirstDiv" class="trial-comprehension-panel">
-              <form>
-                <div>{{ (trial.question || '').replace(/ ?["]+/g, '') }}</div>
-                <template v-for="(word, index) of trial.response_options">
-                  <input :id="'opt_'+index" type="radio" :value="word" name="opt" v-model="$magpie.measurements.response"/>{{ word }}<br/>
-                </template>
-              </form>
-            </div>
+          <div v-if="!showFirstDiv" class="trial-comprehension-panel">
+            <form>
+              <div>{{ (trial.question || '').replace(/ ?["]+/g, '') }}</div>
+              <template v-for="(word, index) of trial.response_options">
+                <input :id="'opt_'+index" type="radio" :value="word" name="opt" v-model="$magpie.measurements.response"/>{{ word }}<br/>
+              </template>
+            </form>
+          </div>
 
-            <div class="trial-actions">
-              <button v-if="showFirstDiv" type="button" class="trial-done-btn" @click="toggleDivs" :disabled="!isCursorMoving">
-                Done
-              </button>
-              <button v-if="!showFirstDiv && $magpie.measurements.response" type="button" class="trial-next-btn" @click="submitTrialResponse(trial, i)">
-                Next
-              </button>
-            </div>
+          <div class="trial-actions">
+            <button v-if="showFirstDiv" type="button" class="trial-done-btn" @click="toggleDivs" :disabled="!isCursorMoving">
+              Done
+            </button>
+            <button v-if="!showFirstDiv && $magpie.measurements.response" type="button" class="trial-next-btn" @click="submitTrialResponse(trial, i)">
+              Next
+            </button>
           </div>
         </Slide>
       </Screen>
@@ -174,6 +173,7 @@ import {
 } from '@motr-shared/resultsSafeguard';
 import {
   installRawPositionSampling,
+  outOfBoundsWordForIndex,
   uninstallRawPositionSampling,
 } from '@motr-shared/motrRawSampling';
 import {
@@ -604,7 +604,7 @@ export default {
         ItemId: this.$el.querySelector(".item_id").value,
         presentation_order: presentationOrder,
         Index: this.clickWordIndex !== null && this.clickWordIndex !== -1 ? parseInt(this.clickWordIndex, 10) : this.clickWordIndex,
-        Word: this.clickWord,
+        Word: outOfBoundsWordForIndex(this.clickWordIndex, this.clickWord),
         mousePositionX: this.clickStartX,
         mousePositionY: this.clickStartY,
         revealMode: 'hover',
@@ -769,38 +769,26 @@ export default {
     align-items: center;
     justify-content: center;
   }
-  .motr-root .experiment:has(.main_screen) {
-    width: min(1000px, 94vw);
-    min-height: 88vh;
-    align-items: stretch;
-  }
   .main_screen {
+    isolation: isolate;
     position: relative;
     width: 100%;
     height: auto;
-    min-height: 80vh;
     font-size: 18px;
     line-height: 40px;
-    display: flex;
-    flex-direction: column;
   }
-  .trial-slide-layout {
-    display: flex;
-    flex-direction: column;
-    flex: 1 1 auto;
-    width: 100%;
-    min-height: 75vh;
-  }
-  .trial-text-region {
-    position: relative;
-    flex: 0 0 auto;
-    width: 100%;
-    background-color: #fff;
-    isolation: isolate;
+  .reading-text-spacer {
+    visibility: hidden;
+    pointer-events: none;
+    color: black;
+    text-align: left;
+    font-weight: 450;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 11%;
+    padding-right: 11%;
   }
   .trial-actions {
-    flex: 0 0 auto;
-    margin-top: auto;
     padding: 1.25rem 0 0.5rem;
     text-align: center;
   }
@@ -809,9 +797,6 @@ export default {
   }
   .readingText {
     position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
     color: white;
     text-align: left;
     font-weight: 450;
@@ -838,7 +823,6 @@ export default {
     margin: 0 auto;
   }
   .trial-comprehension-panel {
-    flex: 0 0 auto;
     margin-top: 1.25rem;
     padding: 0.75rem 11% 0.25rem;
     text-align: center;
@@ -865,9 +849,6 @@ export default {
     pointer-events: none;
     filter: blur(3px);
   }
-  .oval-cursor.grow.blank::before {
-    opacity: 0;
-  }
   .oval-cursor.grow::before {
     content: "";
     position: absolute;
@@ -879,9 +860,9 @@ export default {
     background-color: white;
     mix-blend-mode: normal;
     border-radius: 50%;
-}
+  }
   .blurry-layer {
-    position: relative;
+    position: absolute;
     pointer-events: none;
     color: black;
     text-align: left;
@@ -890,8 +871,6 @@ export default {
     padding-bottom: 2%;
     padding-left: 11%;
     padding-right: 11%;
-    width: 100%;
-    box-sizing: border-box;
   }
 
   * {
