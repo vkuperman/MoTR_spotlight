@@ -87,6 +87,37 @@ function decodeUploadedFile(fileBase64, contentEncoding) {
   return raw;
 }
 
+function encodeRepoPath(repoPath) {
+  return String(repoPath || '')
+    .split('/')
+    .map((segment) => encodeURIComponent(segment))
+    .join('/');
+}
+
+async function getGitHubFileSha({
+  githubToken,
+  owner,
+  repoName,
+  githubBranch,
+  repoPath,
+}) {
+  const url = `https://api.github.com/repos/${owner}/${repoName}/contents/${encodeRepoPath(repoPath)}?ref=${encodeURIComponent(githubBranch)}`;
+  const response = await fetch(url, {
+    headers: {
+      Authorization: `Bearer ${githubToken}`,
+      Accept: 'application/vnd.github+json',
+      'X-GitHub-Api-Version': '2022-11-28',
+    },
+  });
+  if (response.status === 404) return null;
+  if (!response.ok) {
+    const errText = await response.text();
+    throw new Error(`GitHub file lookup failed (${response.status}): ${errText}`);
+  }
+  const data = await response.json();
+  return data && data.sha ? data.sha : null;
+}
+
 async function pushFileToGitHub({
   githubToken,
   owner,
@@ -96,7 +127,20 @@ async function pushFileToGitHub({
   fileBuffer,
   commitMessage,
 }) {
-  const url = `https://api.github.com/repos/${owner}/${repoName}/contents/${encodeURIComponent(repoPath)}`;
+  const sha = await getGitHubFileSha({
+    githubToken,
+    owner,
+    repoName,
+    githubBranch,
+    repoPath,
+  });
+  const url = `https://api.github.com/repos/${owner}/${repoName}/contents/${encodeRepoPath(repoPath)}`;
+  const body = {
+    message: commitMessage,
+    content: fileBuffer.toString('base64'),
+    branch: githubBranch,
+  };
+  if (sha) body.sha = sha;
   const response = await fetch(url, {
     method: 'PUT',
     headers: {
@@ -105,11 +149,7 @@ async function pushFileToGitHub({
       'X-GitHub-Api-Version': '2022-11-28',
       'Content-Type': 'application/json',
     },
-    body: JSON.stringify({
-      message: commitMessage,
-      content: fileBuffer.toString('base64'),
-      branch: githubBranch,
-    }),
+    body: JSON.stringify(body),
   });
   if (!response.ok) {
     const errText = await response.text();
