@@ -18,8 +18,8 @@ import {
   loadResultsSnapshot,
   saveResultsSnapshot,
 } from './resultsIndexedDb';
-import { getResultsUploadUrl, uploadResultsFiles } from './resultsUpload';
 import { isNoUploadMode } from './previewMode';
+import { getResultsUploadUrl, uploadResultsFiles } from './resultsUpload';
 
 function resolveParticipantId(vm, expData) {
   const exp = expData && typeof expData === 'object' ? expData : {};
@@ -251,7 +251,8 @@ export async function uploadReadingTrialCheckpoint(vm, trial, trialIndex, studyC
     checkpointFiles,
     context.isTest,
     context.githubResultsPath,
-    'partial'
+    'partial',
+    { checkpointLabel: `trial_${trialNum}` }
   );
 }
 
@@ -296,6 +297,7 @@ export async function persistResultsSnapshot(vm, studyConfig) {
 }
 
 async function uploadSnapshotPayload(snapshot) {
+  if (isNoUploadMode()) return false;
   if (!snapshot || !snapshot.uploadUrl || !snapshot.folderName || !Array.isArray(snapshot.files)) {
     return false;
   }

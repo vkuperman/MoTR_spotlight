@@ -1,7 +1,11 @@
 /**
  * Serverless function: POST /api/upload-results
  *
- * Single file (preferred for large sessions):
+ * Multi-file batch (preferred; one Git commit per request):
+ *   { participantId, folderName, files: [{ fileName, fileBase64, contentEncoding?: 'gzip'|'none' }],
+ *     isTest?, githubResultsPath?, resultsScope?: 'partial'|'complete', checkpointLabel? }
+ *
+ * Single file (legacy fallback):
  *   { participantId, folderName, fileName, fileBase64, contentEncoding?: 'gzip'|'none',
  *     isTest?, githubResultsPath? }
  *
@@ -118,6 +122,34 @@ async function getGitHubFileSha({
   return data && data.sha ? data.sha : null;
 }
 
+function githubHeaders(githubToken, extra = {}) {
+  return {
+    Authorization: `Bearer ${githubToken}`,
+    Accept: 'application/vnd.github+json',
+    'X-GitHub-Api-Version': '2022-11-28',
+    ...extra,
+  };
+}
+
+async function githubJson(githubToken, url, options = {}) {
+  const response = await fetch(url, {
+    ...options,
+    headers: githubHeaders(githubToken, options.headers || {}),
+  });
+  if (!response.ok) {
+    const errText = await response.text();
+    const err = new Error(`GitHub API failed (${response.status}): ${errText}`);
+    err.status = response.status;
+    throw err;
+  }
+  if (response.status === 204) return null;
+  return response.json();
+}
+
+function isGitRefConflict(err) {
+  return err && (err.status === 409 || err.status === 422);
+}
+
 async function pushFileToGitHub({
   githubToken,
   owner,
@@ -141,21 +173,144 @@ async function pushFileToGitHub({
     branch: githubBranch,
   };
   if (sha) body.sha = sha;
-  const response = await fetch(url, {
+  return githubJson(githubToken, url, {
     method: 'PUT',
-    headers: {
-      Authorization: `Bearer ${githubToken}`,
-      Accept: 'application/vnd.github+json',
-      'X-GitHub-Api-Version': '2022-11-28',
-      'Content-Type': 'application/json',
-    },
+    headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(body),
   });
-  if (!response.ok) {
-    const errText = await response.text();
-    throw new Error(`GitHub upload failed (${response.status}): ${errText}`);
+}
+
+async function createGitBlob({ githubToken, owner, repoName, fileBuffer }) {
+  const data = await githubJson(
+    githubToken,
+    `https://api.github.com/repos/${owner}/${repoName}/git/blobs`,
+    {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        content: fileBuffer.toString('base64'),
+        encoding: 'base64',
+      }),
+    }
+  );
+  return data.sha;
+}
+
+async function pushFilesBatchToGitHubOnce({
+  githubToken,
+  owner,
+  repoName,
+  githubBranch,
+  files,
+  commitMessage,
+}) {
+  const refData = await githubJson(
+    githubToken,
+    `https://api.github.com/repos/${owner}/${repoName}/git/refs/heads/${encodeURIComponent(githubBranch)}`
+  );
+  const parentSha = refData.object.sha;
+  const parentCommit = await githubJson(
+    githubToken,
+    `https://api.github.com/repos/${owner}/${repoName}/git/commits/${parentSha}`
+  );
+  const baseTreeSha = parentCommit.tree.sha;
+
+  const treeEntries = [];
+  for (const file of files) {
+    const blobSha = await createGitBlob({
+      githubToken,
+      owner,
+      repoName,
+      fileBuffer: file.fileBuffer,
+    });
+    treeEntries.push({
+      path: file.repoPath,
+      mode: '100644',
+      type: 'blob',
+      sha: blobSha,
+    });
   }
-  return response.json();
+
+  const treeData = await githubJson(
+    githubToken,
+    `https://api.github.com/repos/${owner}/${repoName}/git/trees`,
+    {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        base_tree: baseTreeSha,
+        tree: treeEntries,
+      }),
+    }
+  );
+
+  const commitData = await githubJson(
+    githubToken,
+    `https://api.github.com/repos/${owner}/${repoName}/git/commits`,
+    {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        message: commitMessage,
+        tree: treeData.sha,
+        parents: [parentSha],
+      }),
+    }
+  );
+
+  await githubJson(
+    githubToken,
+    `https://api.github.com/repos/${owner}/${repoName}/git/refs/heads/${encodeURIComponent(githubBranch)}`,
+    {
+      method: 'PATCH',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        sha: commitData.sha,
+        force: false,
+      }),
+    }
+  );
+
+  return {
+    commitSha: commitData.sha,
+    paths: files.map((file) => file.repoPath),
+  };
+}
+
+async function pushFilesBatchToGitHub(args) {
+  const maxAttempts = 4;
+  let lastErr = null;
+  for (let attempt = 0; attempt < maxAttempts; attempt += 1) {
+    try {
+      return await pushFilesBatchToGitHubOnce(args);
+    } catch (err) {
+      lastErr = err;
+      if (!isGitRefConflict(err) || attempt === maxAttempts - 1) {
+        throw err;
+      }
+    }
+  }
+  throw lastErr;
+}
+
+function buildRepoPath(resultsSubdir, resultsScope, folderName, fileName) {
+  return resultsScope === 'partial'
+    ? `${resultsSubdir}/partial/${folderName}/${fileName}`
+    : `${resultsSubdir}/${folderName}/${fileName}`;
+}
+
+function buildBatchCommitMessage({
+  resultsScope,
+  folderName,
+  checkpointLabel,
+  fileNames,
+}) {
+  const names = (fileNames || []).join(', ');
+  if (resultsScope === 'partial') {
+    const label = checkpointLabel ? ` ${checkpointLabel}` : '';
+    return `[skip ci] Add results checkpoint${label}: ${folderName} (${names})`;
+  }
+  return `[skip ci] Add results: ${folderName} (${names})`;
 }
 
 async function sendEmailWithZip(resendKey, emailTo, participantId, timestamp, zipBase64) {
@@ -252,11 +407,25 @@ export default async function handler(req, res) {
 
   const fileBase64 = body.fileBase64;
   const zipBase64 = body.zipBase64;
+  const batchFiles = Array.isArray(body.files) ? body.files : [];
+  const isBatchUpload =
+    batchFiles.length > 0
+    && body.folderName
+    && batchFiles.every(
+      (file) => file
+        && typeof file.fileName === 'string'
+        && typeof file.fileBase64 === 'string'
+        && file.fileBase64.length > 0
+    );
   const isSingleFile =
-    fileBase64 && typeof fileBase64 === 'string' && body.fileName && body.folderName;
+    !isBatchUpload
+    && fileBase64
+    && typeof fileBase64 === 'string'
+    && body.fileName
+    && body.folderName;
 
-  if (!isSingleFile && (!zipBase64 || typeof zipBase64 !== 'string')) {
-    return res.status(400).json({ error: 'Missing fileBase64 or zipBase64' });
+  if (!isBatchUpload && !isSingleFile && (!zipBase64 || typeof zipBase64 !== 'string')) {
+    return res.status(400).json({ error: 'Missing files batch, fileBase64, or zipBase64' });
   }
 
   if (useGitHub) {
@@ -266,14 +435,38 @@ export default async function handler(req, res) {
     }
 
     try {
-      if (isSingleFile) {
+      if (isBatchUpload) {
+        const folderName = safeFolderName(body.folderName);
+        const decodedFiles = batchFiles.map((file) => {
+          const fileName = safeFileName(file.fileName);
+          const encoding = file.contentEncoding === 'gzip' ? 'gzip' : 'none';
+          const fileBuffer = decodeUploadedFile(file.fileBase64, encoding);
+          const repoPath = buildRepoPath(resultsSubdir, resultsScope, folderName, fileName);
+          return { fileName, repoPath, fileBuffer };
+        });
+        const commitMessage = buildBatchCommitMessage({
+          resultsScope,
+          folderName,
+          checkpointLabel: body.checkpointLabel,
+          fileNames: decodedFiles.map((file) => file.fileName),
+        });
+        const batchResult = await pushFilesBatchToGitHub({
+          githubToken,
+          owner,
+          repoName,
+          githubBranch,
+          files: decodedFiles,
+          commitMessage,
+        });
+        result.paths = batchResult.paths;
+        result.path = batchResult.paths[0] || '';
+        result.commitSha = batchResult.commitSha;
+      } else if (isSingleFile) {
         const folderName = safeFolderName(body.folderName);
         const fileName = safeFileName(body.fileName);
         const encoding = body.contentEncoding === 'gzip' ? 'gzip' : 'none';
         const fileBuffer = decodeUploadedFile(fileBase64, encoding);
-        const repoPath = resultsScope === 'partial'
-          ? `${resultsSubdir}/partial/${folderName}/${fileName}`
-          : `${resultsSubdir}/${folderName}/${fileName}`;
+        const repoPath = buildRepoPath(resultsSubdir, resultsScope, folderName, fileName);
         await pushFileToGitHub({
           githubToken,
           owner,
@@ -306,9 +499,13 @@ export default async function handler(req, res) {
 
   if (useEmail) {
     try {
-      const emailBase64 = isSingleFile ? fileBase64 : zipBase64;
-      await sendEmailWithZip(resendKey, emailTo, participantId, timestamp, emailBase64);
-      result.email = emailTo;
+      const emailBase64 = isBatchUpload
+        ? zipBase64
+        : (isSingleFile ? fileBase64 : zipBase64);
+      if (emailBase64 && typeof emailBase64 === 'string') {
+        await sendEmailWithZip(resendKey, emailTo, participantId, timestamp, emailBase64);
+        result.email = emailTo;
+      }
     } catch (err) {
       console.error('Email failed', err);
       return res.status(500).json({ error: 'Email failed', details: String(err.message) });

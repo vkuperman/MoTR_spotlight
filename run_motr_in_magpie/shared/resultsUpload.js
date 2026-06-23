@@ -19,30 +19,71 @@ async function compressContentForUpload(content, fileName) {
   return compressCsvForUpload(content);
 }
 
-function buildUploadPayload({
+function buildUploadMeta({
   participantId,
   folderName,
-  fileName,
-  fileBase64,
-  contentEncoding,
   isTest,
   githubResultsPath,
   resultsScope,
+  checkpointLabel,
 }) {
-  const payload = {
+  return {
     participantId,
     folderName,
+    isTest,
+    githubResultsPath,
+    resultsScope,
+    checkpointLabel,
+  };
+}
+
+function buildSingleUploadPayload(uploadMeta, fileName, fileBase64, contentEncoding) {
+  const payload = {
+    participantId: uploadMeta.participantId,
+    folderName: uploadMeta.folderName,
     fileName,
     fileBase64,
     contentEncoding,
-    isTest: !!isTest,
-    resultsScope: resultsScope === 'partial' ? 'partial' : 'complete',
+    isTest: !!uploadMeta.isTest,
+    resultsScope: uploadMeta.resultsScope === 'partial' ? 'partial' : 'complete',
   };
   if (magpieConfig.studyKey) {
     payload.studyKey = magpieConfig.studyKey;
   }
-  if (githubResultsPath && typeof githubResultsPath === 'string' && githubResultsPath.trim() !== '') {
-    payload.githubResultsPath = githubResultsPath.trim();
+  if (
+    uploadMeta.githubResultsPath
+    && typeof uploadMeta.githubResultsPath === 'string'
+    && uploadMeta.githubResultsPath.trim() !== ''
+  ) {
+    payload.githubResultsPath = uploadMeta.githubResultsPath.trim();
+  }
+  return payload;
+}
+
+function buildBatchUploadPayload(uploadMeta, encodedFiles) {
+  const payload = {
+    participantId: uploadMeta.participantId,
+    folderName: uploadMeta.folderName,
+    files: encodedFiles.map((file) => ({
+      fileName: file.fileName,
+      fileBase64: file.fileBase64,
+      contentEncoding: file.contentEncoding,
+    })),
+    isTest: !!uploadMeta.isTest,
+    resultsScope: uploadMeta.resultsScope === 'partial' ? 'partial' : 'complete',
+  };
+  if (uploadMeta.checkpointLabel) {
+    payload.checkpointLabel = uploadMeta.checkpointLabel;
+  }
+  if (magpieConfig.studyKey) {
+    payload.studyKey = magpieConfig.studyKey;
+  }
+  if (
+    uploadMeta.githubResultsPath
+    && typeof uploadMeta.githubResultsPath === 'string'
+    && uploadMeta.githubResultsPath.trim() !== ''
+  ) {
+    payload.githubResultsPath = uploadMeta.githubResultsPath.trim();
   }
   return payload;
 }
@@ -54,18 +95,13 @@ function requestBodyLength(payload) {
 async function prepareEncodedPart(content, fileName) {
   const { blob, contentEncoding } = await compressContentForUpload(content, fileName);
   const fileBase64 = await blobToBase64(blob);
-  return { fileBase64, contentEncoding };
+  return { fileName, fileBase64, contentEncoding };
 }
 
-async function csvFitsUploadRequest(csvContent, fileName, uploadMeta) {
-  const { fileBase64, contentEncoding } = await prepareEncodedPart(csvContent, fileName);
-  const payload = buildUploadPayload({
-    ...uploadMeta,
-    fileName,
-    fileBase64,
-    contentEncoding,
-  });
-  return requestBodyLength(payload) <= MAX_REQUEST_BODY_CHARS;
+async function csvFitsUploadRequest(csvContent, fileName, uploadMeta, maxRequestBodyChars) {
+  const encoded = await prepareEncodedPart(csvContent, fileName);
+  const payload = buildBatchUploadPayload(uploadMeta, [encoded]);
+  return requestBodyLength(payload) <= maxRequestBodyChars;
 }
 
 function partFileName(baseFileName, partIndex, partCount) {
@@ -73,7 +109,7 @@ function partFileName(baseFileName, partIndex, partCount) {
   return baseFileName.replace(/\.csv$/i, `_part${String(partIndex + 1).padStart(2, '0')}.csv`);
 }
 
-async function splitCsvOnce(csvContent, baseFileName, uploadMeta) {
+async function splitCsvOnce(csvContent, baseFileName, uploadMeta, maxRequestBodyChars) {
   const lines = csvContent.split('\n');
   if (lines.length <= 1) {
     return [{ fileName: baseFileName, content: csvContent }];
@@ -85,7 +121,7 @@ async function splitCsvOnce(csvContent, baseFileName, uploadMeta) {
     return [{ fileName: baseFileName, content: csvContent }];
   }
 
-  if (await csvFitsUploadRequest(csvContent, baseFileName, uploadMeta)) {
+  if (await csvFitsUploadRequest(csvContent, baseFileName, uploadMeta, maxRequestBodyChars)) {
     return [{ fileName: baseFileName, content: csvContent }];
   }
 
@@ -94,7 +130,10 @@ async function splitCsvOnce(csvContent, baseFileName, uploadMeta) {
   for (const line of dataLines) {
     batch.push(line);
     const candidate = [header, ...batch].join('\n');
-    if (!(await csvFitsUploadRequest(candidate, baseFileName, uploadMeta)) && batch.length > 1) {
+    if (
+      !(await csvFitsUploadRequest(candidate, baseFileName, uploadMeta, maxRequestBodyChars))
+      && batch.length > 1
+    ) {
       batch.pop();
       parts.push([header, ...batch].join('\n'));
       batch = [line];
@@ -110,16 +149,16 @@ async function splitCsvOnce(csvContent, baseFileName, uploadMeta) {
   }));
 }
 
-async function splitCsvUntilFits(csvContent, baseFileName, uploadMeta) {
-  if (await csvFitsUploadRequest(csvContent, baseFileName, uploadMeta)) {
+async function splitCsvUntilFits(csvContent, baseFileName, uploadMeta, maxRequestBodyChars) {
+  if (await csvFitsUploadRequest(csvContent, baseFileName, uploadMeta, maxRequestBodyChars)) {
     return [{ fileName: baseFileName, content: csvContent }];
   }
 
-  const batched = await splitCsvOnce(csvContent, baseFileName, uploadMeta);
+  const batched = await splitCsvOnce(csvContent, baseFileName, uploadMeta, maxRequestBodyChars);
   const fitted = [];
 
   for (const part of batched) {
-    if (await csvFitsUploadRequest(part.content, part.fileName, uploadMeta)) {
+    if (await csvFitsUploadRequest(part.content, part.fileName, uploadMeta, maxRequestBodyChars)) {
       fitted.push(part);
       continue;
     }
@@ -128,7 +167,9 @@ async function splitCsvUntilFits(csvContent, baseFileName, uploadMeta) {
         `Results file ${part.fileName} is too large to upload in one request after splitting.`
       );
     }
-    fitted.push(...(await splitCsvUntilFits(part.content, part.fileName, uploadMeta)));
+    fitted.push(
+      ...(await splitCsvUntilFits(part.content, part.fileName, uploadMeta, maxRequestBodyChars))
+    );
   }
 
   if (fitted.length <= 1) {
@@ -142,56 +183,70 @@ async function splitCsvUntilFits(csvContent, baseFileName, uploadMeta) {
   }));
 }
 
-async function splitContentForUpload(content, baseFileName, uploadMeta) {
+async function splitContentForUpload(content, baseFileName, uploadMeta, maxRequestBodyChars) {
   if (!baseFileName.endsWith('.csv') || !content) {
     return [{ fileName: baseFileName, content }];
   }
-  return splitCsvUntilFits(content, baseFileName, uploadMeta);
+  return splitCsvUntilFits(content, baseFileName, uploadMeta, maxRequestBodyChars);
 }
 
-async function uploadResultsFile(
-  uploadUrl,
-  participantId,
-  folderName,
-  fileName,
-  fileContent,
-  isTest,
-  githubResultsPath,
-  resultsScope = 'complete'
-) {
-  const uploadMeta = {
-    participantId,
-    folderName,
-    isTest,
-    githubResultsPath,
-    resultsScope,
+function packEncodedFilesIntoBatches(encodedFiles, uploadMeta, maxRequestBodyChars) {
+  const batches = [];
+  let current = [];
+
+  const flush = () => {
+    if (current.length) {
+      batches.push(current);
+      current = [];
+    }
   };
-  const parts = await splitContentForUpload(fileContent || '', fileName, uploadMeta);
-  const paths = [];
-  for (const part of parts) {
-    const { fileBase64, contentEncoding } = await prepareEncodedPart(part.content, part.fileName);
-    const payload = buildUploadPayload({
-      ...uploadMeta,
-      fileName: part.fileName,
-      fileBase64,
-      contentEncoding,
-    });
-    if (requestBodyLength(payload) > MAX_REQUEST_BODY_CHARS) {
+
+  for (const file of encodedFiles) {
+    const candidate = [...current, file];
+    const payload = buildBatchUploadPayload(uploadMeta, candidate);
+    if (requestBodyLength(payload) <= maxRequestBodyChars) {
+      current = candidate;
+      continue;
+    }
+    flush();
+    const singlePayload = buildBatchUploadPayload(uploadMeta, [file]);
+    if (requestBodyLength(singlePayload) > maxRequestBodyChars) {
       throw new Error(
-        `Results file ${part.fileName} is still too large after splitting (${requestBodyLength(payload)} bytes).`
+        `Results file ${file.fileName} is too large to upload in one request (${requestBodyLength(singlePayload)} bytes).`
       );
     }
-    const res = await fetch(uploadUrl, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(payload),
-    });
-    if (!res.ok) {
-      const errText = await res.text();
-      throw new Error(`${res.status} ${errText}`);
+    current = [file];
+  }
+  flush();
+  return batches;
+}
+
+async function postUploadPayload(uploadUrl, payload, maxRequestBodyChars) {
+  if (requestBodyLength(payload) > maxRequestBodyChars) {
+    throw new Error(`Upload payload exceeds request size limit (${requestBodyLength(payload)} bytes).`);
+  }
+  const res = await fetch(uploadUrl, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(payload),
+  });
+  if (!res.ok) {
+    const errText = await res.text();
+    throw new Error(`${res.status} ${errText}`);
+  }
+  return res.json();
+}
+
+async function uploadEncodedBatches(uploadUrl, uploadMeta, encodedBatches, maxRequestBodyChars) {
+  const paths = [];
+  for (const batch of encodedBatches) {
+    const payload = buildBatchUploadPayload(uploadMeta, batch);
+    const json = await postUploadPayload(uploadUrl, payload, maxRequestBodyChars);
+    if (json && Array.isArray(json.paths)) {
+      paths.push(...json.paths);
+    } else if (json && json.path) {
+      paths.push(json.path);
     }
-    const json = await res.json();
-    if (json && json.path) paths.push(json.path);
   }
   return paths;
 }
@@ -203,24 +258,66 @@ async function uploadResultsFiles(
   files,
   isTest,
   githubResultsPath,
-  resultsScope = 'complete'
+  resultsScope = 'complete',
+  options = {}
 ) {
-  const paths = [];
-  for (const file of files) {
+  const maxRequestBodyChars = options.maxRequestBodyChars || MAX_REQUEST_BODY_CHARS;
+  const uploadMeta = buildUploadMeta({
+    participantId,
+    folderName,
+    isTest,
+    githubResultsPath,
+    resultsScope,
+    checkpointLabel: options.checkpointLabel,
+  });
+
+  const encodedFiles = [];
+  for (const file of files || []) {
     if (!file || file.content == null || file.content === '') continue;
-    const uploaded = await uploadResultsFile(
-      uploadUrl,
-      participantId,
-      folderName,
-      file.name,
+    const parts = await splitContentForUpload(
       file.content,
-      isTest,
-      githubResultsPath,
-      resultsScope
+      file.name,
+      uploadMeta,
+      maxRequestBodyChars
     );
-    paths.push(...uploaded);
+    for (const part of parts) {
+      const encoded = await prepareEncodedPart(part.content, part.fileName);
+      encodedFiles.push(encoded);
+    }
   }
-  return paths;
+
+  if (!encodedFiles.length) return [];
+
+  const encodedBatches = packEncodedFilesIntoBatches(
+    encodedFiles,
+    uploadMeta,
+    maxRequestBodyChars
+  );
+  return uploadEncodedBatches(uploadUrl, uploadMeta, encodedBatches, maxRequestBodyChars);
+}
+
+/** @deprecated Use uploadResultsFiles; kept for compatibility. */
+async function uploadResultsFile(
+  uploadUrl,
+  participantId,
+  folderName,
+  fileName,
+  fileContent,
+  isTest,
+  githubResultsPath,
+  resultsScope = 'complete',
+  options = {}
+) {
+  return uploadResultsFiles(
+    uploadUrl,
+    participantId,
+    folderName,
+    [{ name: fileName, content: fileContent }],
+    isTest,
+    githubResultsPath,
+    resultsScope,
+    options
+  );
 }
 
 function getResultsUploadUrl(vm) {
@@ -259,7 +356,7 @@ async function gzipBase64Length(csvContent) {
 
 /** @deprecated use splitCsvUntilFits */
 async function splitCsvForUpload(csvContent, baseFileName, uploadMeta = {}) {
-  return splitCsvUntilFits(csvContent, baseFileName, uploadMeta);
+  return splitCsvUntilFits(csvContent, baseFileName, uploadMeta, MAX_REQUEST_BODY_CHARS);
 }
 
 export {
