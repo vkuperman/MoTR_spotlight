@@ -67,7 +67,7 @@
         <a href="javascript:void(0)" @click="turnOnFullScreen">Fullscreen Mode</a>
       </p>
  -->
-      <p>In this study, you will read short texts and answer questions about them. However, unlike in normal reading, the texts will be blurred. <strong>Move your mouse over the text to reveal it with the spotlight;</strong> the revealed area follows your mouse. Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question at the bottom and click "next" to move on.</p>
+      <p>In this study, you will read short texts and answer questions about them. However, unlike in normal reading, the texts will be blurred. <strong>Move your mouse over the text to reveal it with the spotlight;</strong> the revealed area follows your mouse. Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question on the next page and click "next" to move on. Between each text, you will need to move your mouse back into the rectangle outline to start the next paragraph.</p>
     </InstructionScreen>
 
     <template v-for="(trial, i) of trials">
