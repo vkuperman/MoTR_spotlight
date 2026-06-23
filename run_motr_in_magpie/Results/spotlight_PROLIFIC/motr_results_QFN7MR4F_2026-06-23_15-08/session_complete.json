@@ -2,7 +2,7 @@
   "sessionId": "QFN7MR4F_1782241736623_GV8D5KXQ",
   "participantId": "QFN7MR4F",
   "folderName": "motr_results_QFN7MR4F_2026-06-23_15-08",
-  "completedAt": "2026-06-23T19:31:25.543Z",
+  "completedAt": "2026-06-23T19:31:39.129Z",
   "trialsCompleted": [
     0,
     1,
@@ -39,5 +39,5 @@
     32,
     33
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
