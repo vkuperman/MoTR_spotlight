@@ -75,7 +75,8 @@
     </InstructionScreen>
 
     <template v-for="(trial, i) of trials">
-      <Screen :key="i" class="main_screen" :progress="i / trials.length">
+      <ReadingStartGateScreen :key="'gate-' + i" :trial-index="i + 1" />
+      <Screen :key="'trial-' + i" class="main_screen" :progress="i / trials.length">
         <Slide>
           <form>
             <input type="hidden" class="item_id" :value="trial.item_id">
@@ -181,6 +182,7 @@ import {
   isCambridgeAnswerCorrect,
 } from '@motr-shared/cambridgeGeneralEnglish';
 import ExportReportsScreen from '@motr-shared/components/ExportReportsScreen.vue';
+import ReadingStartGateScreen from '@motr-shared/components/ReadingStartGateScreen.vue';
 import {
   deferReadingTrialSafeguards,
   initResultsSession,
@@ -207,7 +209,13 @@ const cambridgeScoringCsv = require('../../OneStop/Cambridge/Cambridge scoring(S
 
 export default {
   name: 'App',
-  components: { ExportReportsScreen, CustomSubmitResultsScreen, ConsentSONA, DemographicsOneStopQuestionnaire },
+  components: {
+    ExportReportsScreen,
+    ReadingStartGateScreen,
+    CustomSubmitResultsScreen,
+    ConsentSONA,
+    DemographicsOneStopQuestionnaire,
+  },
   props: {
     /** Reading-phase preview: skip consent/demographics/Cambridge/upload; no results persisted. */
     readingPreview: { type: Boolean, default: false },
