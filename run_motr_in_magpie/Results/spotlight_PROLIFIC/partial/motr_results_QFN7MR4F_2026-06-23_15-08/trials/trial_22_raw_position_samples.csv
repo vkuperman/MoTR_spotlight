@@ -1,0 +1,808 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,545,830794,347,82,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,596,830845,371,92,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,645,830894,393,97,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,1, In ,696,830945,408,100,109.2734375,400.375,129.7734375,420.390625,1,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,1, In ,746,830995,416,105,109.2734375,400.375,129.7734375,420.390625,1,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,1, In ,796,831045,420,107,109.2734375,400.375,129.7734375,420.390625,1,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,1, In ,847,831096,420,107,109.2734375,400.375,129.7734375,420.390625,1,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,1, In ,897,831146,420,107,109.2734375,400.375,129.7734375,420.390625,1,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,1, In ,947,831196,420,107,109.2734375,400.375,129.7734375,420.390625,1,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,1, In ,996,831245,420,107,109.2734375,400.375,129.7734375,420.390625,1,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,1, In ,1047,831296,420,107,109.2734375,400.375,129.7734375,420.390625,1,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,2," 2014, ",1096,831345,425,107,109.2734375,420.390625,129.7734375,470.4375,1,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,2," 2014, ",1146,831395,446,112,109.2734375,420.390625,129.7734375,470.4375,1,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,3, the ,1196,831445,477,117,109.2734375,470.4375,129.7734375,500.4609375,1,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,4, retailer ,1246,831495,510,121,109.2734375,500.4609375,129.7734375,560.484375,1,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,4, retailer ,1295,831545,543,122,109.2734375,500.4609375,129.7734375,560.484375,1,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,5, John ,1345,831594,564,123,109.2734375,560.484375,129.7734375,604.5234375,1,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,5, John ,1395,831644,580,125,109.2734375,560.484375,129.7734375,604.5234375,1,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,5, John ,1446,831695,594,125,109.2734375,560.484375,129.7734375,604.5234375,1,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,6, Lewis ,1496,831745,610,124,109.2734375,604.5234375,129.7734375,655.546875,1,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,6, Lewis ,1546,831795,624,122,109.2734375,604.5234375,129.7734375,655.546875,1,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,6, Lewis ,1595,831844,634,121,109.2734375,604.5234375,129.7734375,655.546875,1,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,6, Lewis ,1645,831894,643,121,109.2734375,604.5234375,129.7734375,655.546875,1,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,6, Lewis ,1696,831945,651,122,109.2734375,604.5234375,129.7734375,655.546875,1,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,7, also ,1746,831995,663,123,109.2734375,655.546875,129.7734375,693.5703125,1,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,7, also ,1795,832044,676,124,109.2734375,655.546875,129.7734375,693.5703125,1,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,7, also ,1846,832095,678,124,109.2734375,655.546875,129.7734375,693.5703125,1,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,7, also ,1897,832146,678,124,109.2734375,655.546875,129.7734375,693.5703125,1,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,7, also ,1946,832196,678,124,109.2734375,655.546875,129.7734375,693.5703125,1,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,7, also ,1997,832246,678,124,109.2734375,655.546875,129.7734375,693.5703125,1,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,7, also ,2046,832295,682,124,109.2734375,655.546875,129.7734375,693.5703125,1,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,8, spent ,2096,832345,696,124,109.2734375,693.5703125,129.7734375,742.609375,1,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,8, spent ,2146,832395,715,124,109.2734375,693.5703125,129.7734375,742.609375,1,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,8, spent ,2196,832445,728,126,109.2734375,693.5703125,129.7734375,742.609375,1,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,8, spent ,2246,832495,742,128,109.2734375,693.5703125,129.7734375,742.609375,1,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,9, £7m ,2296,832545,760,128,109.2734375,742.609375,129.7734375,782.6328125,1,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,9, £7m ,2346,832595,779,128,109.2734375,742.609375,129.7734375,782.6328125,1,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,10, on ,2396,832645,804,128,109.2734375,782.6328125,129.7734375,807.65625,1,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,12, campaign ,2446,832695,831,125,109.2734375,822.671875,129.7734375,905.7265625,1,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,12, campaign ,2495,832744,862,122,109.2734375,822.671875,129.7734375,905.7265625,1,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,12, campaign ,2546,832795,885,122,109.2734375,822.671875,129.7734375,905.7265625,1,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,12, campaign ,2596,832845,902,122,109.2734375,822.671875,129.7734375,905.7265625,1,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,13, with ,2645,832894,913,122,109.2734375,905.7265625,129.7734375,942.7421875,1,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,13, with ,2696,832945,921,123,109.2734375,905.7265625,129.7734375,942.7421875,1,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,13, with ,2746,832995,931,123,109.2734375,905.7265625,129.7734375,942.7421875,1,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,14, a ,2795,833045,945,123,109.2734375,942.7421875,129.7734375,957.7578125,1,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,15, realistic ,2846,833095,963,123,109.2734375,957.7578125,129.7734375,1018.7734375,1,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,15, realistic ,2896,833145,986,122,109.2734375,957.7578125,129.7734375,1018.7734375,1,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,15, realistic ,2945,833194,998,121,109.2734375,957.7578125,129.7734375,1018.7734375,1,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,15, realistic ,2996,833245,1001,121,109.2734375,957.7578125,129.7734375,1018.7734375,1,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,15, realistic ,3047,833296,1002,121,109.2734375,957.7578125,129.7734375,1018.7734375,1,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,15, realistic ,3096,833346,1002,121,109.2734375,957.7578125,129.7734375,1018.7734375,1,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,15, realistic ,3145,833394,1002,122,109.2734375,957.7578125,129.7734375,1018.7734375,1,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,15, realistic ,3195,833444,991,123,109.2734375,957.7578125,129.7734375,1018.7734375,1,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,13, with ,3246,833495,935,123,109.2734375,905.7265625,129.7734375,942.7421875,1,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,12, campaign ,3295,833544,868,130,109.2734375,822.671875,129.7734375,905.7265625,1,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,23, together ,3346,833595,790,144,149.2734375,748.671875,169.7734375,819.7265625,2,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,22, playing ,3396,833645,706,156,149.2734375,686.625,169.7734375,748.671875,2,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,20, young ,3446,833695,626,159,149.2734375,598.5546875,169.7734375,652.6015625,2,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,18, and ,3496,833745,556,159,149.2734375,548.5,169.7734375,583.5390625,2,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,17, penguin ,3545,833794,507,160,149.2734375,479.4296875,169.7734375,548.5,2,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,16, animated ,3595,833844,459,161,149.2734375,400.375,169.7734375,479.4296875,2,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,16, animated ,3645,833894,423,163,149.2734375,400.375,169.7734375,479.4296875,2,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,3695,833944,400,163,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,3745,833994,391,163,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,3795,834044,382,163,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,3845,834094,379,163,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,3896,834146,379,163,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,3946,834195,379,163,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,3995,834244,385,162,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,16, animated ,4045,834294,402,158,149.2734375,400.375,169.7734375,479.4296875,2,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,16, animated ,4095,834344,422,154,149.2734375,400.375,169.7734375,479.4296875,2,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,16, animated ,4145,834394,438,151,149.2734375,400.375,169.7734375,479.4296875,2,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,16, animated ,4195,834444,450,151,149.2734375,400.375,169.7734375,479.4296875,2,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,16, animated ,4245,834495,460,151,149.2734375,400.375,169.7734375,479.4296875,2,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,16, animated ,4295,834544,470,151,149.2734375,400.375,169.7734375,479.4296875,2,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,16, animated ,4346,834595,479,152,149.2734375,400.375,169.7734375,479.4296875,2,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,17, penguin ,4396,834645,491,153,149.2734375,479.4296875,169.7734375,548.5,2,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,17, penguin ,4446,834695,505,154,149.2734375,479.4296875,169.7734375,548.5,2,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,17, penguin ,4495,834745,522,154,149.2734375,479.4296875,169.7734375,548.5,2,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,17, penguin ,4545,834794,543,155,149.2734375,479.4296875,169.7734375,548.5,2,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,18, and ,4595,834844,561,158,149.2734375,548.5,169.7734375,583.5390625,2,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,18, and ,4647,834896,566,158,149.2734375,548.5,169.7734375,583.5390625,2,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,18, and ,4697,834946,566,158,149.2734375,548.5,169.7734375,583.5390625,2,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,18, and ,4746,834995,566,158,149.2734375,548.5,169.7734375,583.5390625,2,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,18, and ,4797,835046,566,158,149.2734375,548.5,169.7734375,583.5390625,2,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,18, and ,4847,835096,566,158,149.2734375,548.5,169.7734375,583.5390625,2,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,18, and ,4897,835146,566,158,149.2734375,548.5,169.7734375,583.5390625,2,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,18, and ,4946,835195,566,158,149.2734375,548.5,169.7734375,583.5390625,2,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,18, and ,4996,835245,571,158,149.2734375,548.5,169.7734375,583.5390625,2,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,19, a ,5046,835295,595,158,149.2734375,583.5390625,169.7734375,598.5546875,2,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,20, young ,5096,835345,620,157,149.2734375,598.5546875,169.7734375,652.6015625,2,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,20, young ,5145,835394,640,157,149.2734375,598.5546875,169.7734375,652.6015625,2,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,21, boy ,5196,835445,659,157,149.2734375,652.6015625,169.7734375,686.625,2,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,21, boy ,5246,835495,674,159,149.2734375,652.6015625,169.7734375,686.625,2,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,21, boy ,5295,835545,685,160,149.2734375,652.6015625,169.7734375,686.625,2,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,22, playing ,5345,835595,696,160,149.2734375,686.625,169.7734375,748.671875,2,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,22, playing ,5395,835645,708,160,149.2734375,686.625,169.7734375,748.671875,2,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,22, playing ,5445,835695,718,160,149.2734375,686.625,169.7734375,748.671875,2,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,22, playing ,5495,835744,725,160,149.2734375,686.625,169.7734375,748.671875,2,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,22, playing ,5545,835794,733,162,149.2734375,686.625,169.7734375,748.671875,2,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,22, playing ,5595,835844,741,162,149.2734375,686.625,169.7734375,748.671875,2,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,22, playing ,5645,835895,747,163,149.2734375,686.625,169.7734375,748.671875,2,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,23, together ,5695,835945,753,164,149.2734375,748.671875,169.7734375,819.7265625,2,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,23, together ,5746,835995,759,164,149.2734375,748.671875,169.7734375,819.7265625,2,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,23, together ,5796,836045,766,165,149.2734375,748.671875,169.7734375,819.7265625,2,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,23, together ,5846,836095,775,166,149.2734375,748.671875,169.7734375,819.7265625,2,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,23, together ,5896,836145,784,166,149.2734375,748.671875,169.7734375,819.7265625,2,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,23, together ,5946,836195,796,166,149.2734375,748.671875,169.7734375,819.7265625,2,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,23, together ,5996,836245,817,167,149.2734375,748.671875,169.7734375,819.7265625,2,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,24, to ,6045,836294,835,168,149.2734375,819.7265625,169.7734375,839.7421875,2,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,24, to ,6097,836346,838,167,149.2734375,819.7265625,169.7734375,839.7421875,2,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,24, to ,6147,836396,838,167,149.2734375,819.7265625,169.7734375,839.7421875,2,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,24, to ,6197,836446,838,167,149.2734375,819.7265625,169.7734375,839.7421875,2,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,24, to ,6246,836495,838,167,149.2734375,819.7265625,169.7734375,839.7421875,2,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,24, to ,6297,836546,838,167,149.2734375,819.7265625,169.7734375,839.7421875,2,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,24, to ,6347,836596,838,167,149.2734375,819.7265625,169.7734375,839.7421875,2,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,24, to ,6397,836646,838,167,149.2734375,819.7265625,169.7734375,839.7421875,2,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,24, to ,6447,836696,838,167,149.2734375,819.7265625,169.7734375,839.7421875,2,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,25, the ,6495,836744,843,167,149.2734375,839.7421875,169.7734375,869.765625,2,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,25, the ,6546,836795,865,167,149.2734375,839.7421875,169.7734375,869.765625,2,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,26, tune ,6596,836845,900,167,149.2734375,869.765625,169.7734375,909.8046875,2,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,28, John ,6646,836895,932,163,149.2734375,929.8203125,169.7734375,973.859375,2,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,28, John ,6696,836945,951,160,149.2734375,929.8203125,169.7734375,973.859375,2,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,28, John ,6745,836994,966,159,149.2734375,929.8203125,169.7734375,973.859375,2,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,28, John ,6795,837044,973,159,149.2734375,929.8203125,169.7734375,973.859375,2,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,29, Lennon’s ,6845,837094,983,159,149.2734375,973.859375,169.7734375,1046.609375,2,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,29, Lennon’s ,6895,837145,999,159,149.2734375,973.859375,169.7734375,1046.609375,2,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,29, Lennon’s ,6945,837195,1018,158,149.2734375,973.859375,169.7734375,1046.609375,2,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,29, Lennon’s ,6996,837245,1033,158,149.2734375,973.859375,169.7734375,1046.609375,2,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,29, Lennon’s ,7045,837294,1044,158,149.2734375,973.859375,169.7734375,1046.609375,2,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,7095,837344,1050,158,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,7145,837394,1051,158,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,7196,837445,1048,160,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,29, Lennon’s ,7246,837495,1032,164,149.2734375,973.859375,169.7734375,1046.609375,2,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,29, Lennon’s ,7296,837545,995,171,149.2734375,973.859375,169.7734375,1046.609375,2,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,28, John ,7346,837595,932,175,149.2734375,929.8203125,169.7734375,973.859375,2,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,25, the ,7396,837645,845,179,149.2734375,839.7421875,169.7734375,869.765625,2,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,35, singer-songwriter ,7446,837695,747,188,189.2734375,614.5078125,209.7734375,757.40625,3,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,35, singer-songwriter ,7495,837745,680,190,189.2734375,614.5078125,209.7734375,757.40625,3,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,35, singer-songwriter ,7545,837795,625,190,189.2734375,614.5078125,209.7734375,757.40625,3,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,34, British ,7595,837845,591,189,189.2734375,559.4921875,209.7734375,614.5078125,3,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,34, British ,7645,837894,563,187,189.2734375,559.4921875,209.7734375,614.5078125,3,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,33, by ,7695,837944,538,185,189.2734375,535.4765625,209.7734375,559.4921875,3,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,32, sung ,7746,837995,513,185,189.2734375,491.4375,209.7734375,535.4765625,3,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,31," Love, ",7796,838045,488,185,189.2734375,442.3984375,209.7734375,491.4375,3,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,31," Love, ",7845,838095,461,186,189.2734375,442.3984375,209.7734375,491.4375,3,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,30, Real ,7895,838144,432,186,189.2734375,400.375,209.7734375,442.3984375,3,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,30, Real ,7945,838194,409,186,189.2734375,400.375,209.7734375,442.3984375,3,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,7995,838244,399,186,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,8045,838294,397,186,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,8095,838344,395,187,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,8145,838394,393,189,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,8195,838444,390,190,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,8246,838495,390,191,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,8296,838545,390,192,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,8346,838595,390,192,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,8395,838645,394,194,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,30, Real ,8446,838695,402,196,189.2734375,400.375,209.7734375,442.3984375,3,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,30, Real ,8496,838745,411,197,189.2734375,400.375,209.7734375,442.3984375,3,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,30, Real ,8545,838795,423,197,189.2734375,400.375,209.7734375,442.3984375,3,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,30, Real ,8597,838846,437,197,189.2734375,400.375,209.7734375,442.3984375,3,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,31," Love, ",8646,838895,451,197,189.2734375,442.3984375,209.7734375,491.4375,3,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,31," Love, ",8696,838945,463,197,189.2734375,442.3984375,209.7734375,491.4375,3,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,31," Love, ",8746,838995,472,196,189.2734375,442.3984375,209.7734375,491.4375,3,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,31," Love, ",8796,839045,480,195,189.2734375,442.3984375,209.7734375,491.4375,3,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,31," Love, ",8846,839095,488,195,189.2734375,442.3984375,209.7734375,491.4375,3,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,32, sung ,8896,839145,497,195,189.2734375,491.4375,209.7734375,535.4765625,3,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,32, sung ,8945,839194,504,196,189.2734375,491.4375,209.7734375,535.4765625,3,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,32, sung ,8995,839244,512,197,189.2734375,491.4375,209.7734375,535.4765625,3,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,32, sung ,9046,839295,523,198,189.2734375,491.4375,209.7734375,535.4765625,3,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,32, sung ,9095,839344,535,198,189.2734375,491.4375,209.7734375,535.4765625,3,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,33, by ,9145,839394,547,198,189.2734375,535.4765625,209.7734375,559.4921875,3,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,33, by ,9196,839445,559,197,189.2734375,535.4765625,209.7734375,559.4921875,3,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,34, British ,9245,839494,570,197,189.2734375,559.4921875,209.7734375,614.5078125,3,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,34, British ,9295,839544,581,197,189.2734375,559.4921875,209.7734375,614.5078125,3,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,34, British ,9346,839595,592,198,189.2734375,559.4921875,209.7734375,614.5078125,3,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,34, British ,9396,839645,604,199,189.2734375,559.4921875,209.7734375,614.5078125,3,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,35, singer-songwriter ,9446,839695,617,200,189.2734375,614.5078125,209.7734375,757.40625,3,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,35, singer-songwriter ,9495,839744,629,201,189.2734375,614.5078125,209.7734375,757.40625,3,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,35, singer-songwriter ,9545,839794,643,202,189.2734375,614.5078125,209.7734375,757.40625,3,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,35, singer-songwriter ,9595,839844,656,203,189.2734375,614.5078125,209.7734375,757.40625,3,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,35, singer-songwriter ,9646,839895,668,205,189.2734375,614.5078125,209.7734375,757.40625,3,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,35, singer-songwriter ,9696,839945,678,206,189.2734375,614.5078125,209.7734375,757.40625,3,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,35, singer-songwriter ,9746,839995,689,208,189.2734375,614.5078125,209.7734375,757.40625,3,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,35, singer-songwriter ,9796,840045,699,209,189.2734375,614.5078125,209.7734375,757.40625,3,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,35, singer-songwriter ,9845,840094,708,209,189.2734375,614.5078125,209.7734375,757.40625,3,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,35, singer-songwriter ,9896,840145,714,209,189.2734375,614.5078125,209.7734375,757.40625,3,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,35, singer-songwriter ,9945,840195,718,209,189.2734375,614.5078125,209.7734375,757.40625,3,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,35, singer-songwriter ,9995,840244,724,209,189.2734375,614.5078125,209.7734375,757.40625,3,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,35, singer-songwriter ,10046,840295,731,209,189.2734375,614.5078125,209.7734375,757.40625,3,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,35, singer-songwriter ,10096,840345,740,209,189.2734375,614.5078125,209.7734375,757.40625,3,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,35, singer-songwriter ,10145,840394,751,209,189.2734375,614.5078125,209.7734375,757.40625,3,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,36, Tom ,10195,840444,761,208,189.2734375,757.40625,209.7734375,796.2578125,3,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,36, Tom ,10246,840495,772,207,189.2734375,757.40625,209.7734375,796.2578125,3,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,36, Tom ,10296,840545,783,206,189.2734375,757.40625,209.7734375,796.2578125,3,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,37, Odell. ,10346,840595,797,203,189.2734375,796.2578125,209.7734375,848.28125,3,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,37, Odell. ,10396,840645,806,202,189.2734375,796.2578125,209.7734375,848.28125,3,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,37, Odell. ,10445,840694,813,201,189.2734375,796.2578125,209.7734375,848.28125,3,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,37, Odell. ,10496,840745,818,201,189.2734375,796.2578125,209.7734375,848.28125,3,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,37, Odell. ,10546,840795,818,201,189.2734375,796.2578125,209.7734375,848.28125,3,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,37, Odell. ,10597,840846,818,201,189.2734375,796.2578125,209.7734375,848.28125,3,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,37, Odell. ,10646,840895,818,201,189.2734375,796.2578125,209.7734375,848.28125,3,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,37, Odell. ,10696,840945,818,201,189.2734375,796.2578125,209.7734375,848.28125,3,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,37, Odell. ,10745,840995,818,201,189.2734375,796.2578125,209.7734375,848.28125,3,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,37, Odell. ,10796,841045,818,201,189.2734375,796.2578125,209.7734375,848.28125,3,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,37, Odell. ,10845,841094,824,201,189.2734375,796.2578125,209.7734375,848.28125,3,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,37, Odell. ,10896,841145,838,202,189.2734375,796.2578125,209.7734375,848.28125,3,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,38, It ,10946,841195,852,205,189.2734375,848.28125,209.7734375,863.2890625,3,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,38, It ,10995,841245,862,205,189.2734375,848.28125,209.7734375,863.2890625,3,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,39, had ,11045,841294,872,206,189.2734375,863.2890625,209.7734375,898.328125,3,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,39, had ,11095,841345,881,206,189.2734375,863.2890625,209.7734375,898.328125,3,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,39, had ,11146,841395,889,206,189.2734375,863.2890625,209.7734375,898.328125,3,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,39, had ,11196,841445,897,205,189.2734375,863.2890625,209.7734375,898.328125,3,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,40, drummed ,11245,841494,907,204,189.2734375,898.328125,209.7734375,979.359375,3,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,40, drummed ,11295,841544,917,203,189.2734375,898.328125,209.7734375,979.359375,3,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,40, drummed ,11353,841602,926,203,189.2734375,898.328125,209.7734375,979.359375,3,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,40, drummed ,11395,841644,945,203,189.2734375,898.328125,209.7734375,979.359375,3,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,40, drummed ,11446,841695,960,203,189.2734375,898.328125,209.7734375,979.359375,3,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,40, drummed ,11495,841744,974,203,189.2734375,898.328125,209.7734375,979.359375,3,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,41, up ,11546,841795,991,203,189.2734375,979.359375,209.7734375,1004.3828125,3,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,42, 22 ,11595,841844,1007,203,189.2734375,1004.3828125,209.7734375,1024.40625,3,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,42, 22 ,11646,841895,1023,204,189.2734375,1004.3828125,209.7734375,1024.40625,3,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,11695,841945,1032,205,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,11745,841994,1039,205,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,11795,842044,1041,206,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,11845,842094,1040,206,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,42, 22 ,11896,842145,1006,208,189.2734375,1004.3828125,209.7734375,1024.40625,3,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,40, drummed ,11946,842195,914,208,189.2734375,898.328125,209.7734375,979.359375,3,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,37, Odell. ,11995,842244,812,210,189.2734375,796.2578125,209.7734375,848.28125,3,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,50, week ,12045,842294,741,220,229.2734375,694.8984375,249.7734375,741.921875,4,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,49, first ,12096,842345,680,228,229.2734375,660.8984375,249.7734375,694.8984375,4,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,47, by ,12146,842395,620,234,229.2734375,606.859375,249.7734375,630.875,4,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,46, YouTube ,12196,842445,566,239,229.2734375,531.2734375,249.7734375,606.859375,4,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,45, on ,12246,842495,510,246,229.2734375,506.40625,249.7734375,531.2734375,4,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,44, views ,12296,842545,473,253,229.2734375,456.390625,249.7734375,506.40625,4,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,43, million ,12346,842595,448,257,229.2734375,400.375,249.7734375,456.390625,4,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,59, views ,12395,842644,430,260,269.2734375,400.375,289.7734375,450.390625,5,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,59, views ,12446,842695,414,260,269.2734375,400.375,289.7734375,450.390625,5,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,43, million ,12495,842745,404,259,229.2734375,400.375,249.7734375,456.390625,4,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,12546,842795,399,256,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,12596,842845,397,254,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,12645,842894,396,252,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,12695,842944,396,251,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,12746,842995,396,249,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,12796,843045,396,249,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,12847,843096,396,249,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,12895,843144,399,249,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,43, million ,12945,843194,418,245,229.2734375,400.375,249.7734375,456.390625,4,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,43, million ,12995,843244,436,242,229.2734375,400.375,249.7734375,456.390625,4,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,43, million ,13046,843295,455,239,229.2734375,400.375,249.7734375,456.390625,4,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,44, views ,13095,843344,473,236,229.2734375,456.390625,249.7734375,506.40625,4,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,44, views ,13145,843395,490,236,229.2734375,456.390625,249.7734375,506.40625,4,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,44, views ,13196,843445,504,236,229.2734375,456.390625,249.7734375,506.40625,4,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,45, on ,13245,843494,518,236,229.2734375,506.40625,249.7734375,531.2734375,4,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,45, on ,13296,843545,529,237,229.2734375,506.40625,249.7734375,531.2734375,4,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,46, YouTube ,13345,843594,538,237,229.2734375,531.2734375,249.7734375,606.859375,4,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,46, YouTube ,13395,843644,549,237,229.2734375,531.2734375,249.7734375,606.859375,4,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,46, YouTube ,13445,843694,559,237,229.2734375,531.2734375,249.7734375,606.859375,4,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,46, YouTube ,13495,843744,573,237,229.2734375,531.2734375,249.7734375,606.859375,4,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,46, YouTube ,13545,843794,594,237,229.2734375,531.2734375,249.7734375,606.859375,4,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,47, by ,13595,843844,622,234,229.2734375,606.859375,249.7734375,630.875,4,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,48, the ,13645,843894,647,231,229.2734375,630.875,249.7734375,660.8984375,4,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,49, first ,13697,843946,661,229,229.2734375,660.8984375,249.7734375,694.8984375,4,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,49, first ,13745,843995,662,228,229.2734375,660.8984375,249.7734375,694.8984375,4,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,49, first ,13796,844045,662,228,229.2734375,660.8984375,249.7734375,694.8984375,4,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,49, first ,13847,844096,662,228,229.2734375,660.8984375,249.7734375,694.8984375,4,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,49, first ,13896,844145,662,228,229.2734375,660.8984375,249.7734375,694.8984375,4,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,49, first ,13947,844196,662,228,229.2734375,660.8984375,249.7734375,694.8984375,4,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,49, first ,13996,844245,662,228,229.2734375,660.8984375,249.7734375,694.8984375,4,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,49, first ,14047,844296,662,228,229.2734375,660.8984375,249.7734375,694.8984375,4,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,49, first ,14095,844344,667,228,229.2734375,660.8984375,249.7734375,694.8984375,4,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,49, first ,14146,844395,680,228,229.2734375,660.8984375,249.7734375,694.8984375,4,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,49, first ,14196,844445,692,228,229.2734375,660.8984375,249.7734375,694.8984375,4,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,50, week ,14245,844495,702,228,229.2734375,694.8984375,249.7734375,741.921875,4,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,50, week ,14296,844545,711,229,229.2734375,694.8984375,249.7734375,741.921875,4,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,50, week ,14346,844595,718,229,229.2734375,694.8984375,249.7734375,741.921875,4,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,50, week ,14396,844645,725,230,229.2734375,694.8984375,249.7734375,741.921875,4,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,50, week ,14446,844695,734,231,229.2734375,694.8984375,249.7734375,741.921875,4,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,51, of ,14496,844745,747,232,229.2734375,741.921875,249.7734375,761.9375,4,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,52, January ,14545,844794,764,232,229.2734375,761.9375,249.7734375,830.9765625,4,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,52, January ,14596,844845,778,232,229.2734375,761.9375,249.7734375,830.9765625,4,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,52, January ,14646,844895,794,231,229.2734375,761.9375,249.7734375,830.9765625,4,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,52, January ,14696,844945,811,231,229.2734375,761.9375,249.7734375,830.9765625,4,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,52, January ,14746,844995,830,230,229.2734375,761.9375,249.7734375,830.9765625,4,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,54, more ,14795,845044,846,230,229.2734375,845.9921875,249.7734375,892.0078125,4,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,54, more ,14845,845094,867,230,229.2734375,845.9921875,249.7734375,892.0078125,4,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,55, than ,14895,845144,896,230,229.2734375,892.0078125,249.7734375,932.046875,4,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,55, than ,14946,845195,930,230,229.2734375,892.0078125,249.7734375,932.046875,4,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,56, the ,14995,845245,955,229,229.2734375,932.046875,249.7734375,962.0703125,4,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,57, 16.6 ,15046,845295,968,228,229.2734375,962.0703125,249.7734375,1002.109375,4,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,57, 16.6 ,15095,845345,973,228,229.2734375,962.0703125,249.7734375,1002.109375,4,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,57, 16.6 ,15146,845395,975,228,229.2734375,962.0703125,249.7734375,1002.109375,4,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,57, 16.6 ,15195,845445,982,230,229.2734375,962.0703125,249.7734375,1002.109375,4,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,57, 16.6 ,15245,845494,993,231,229.2734375,962.0703125,249.7734375,1002.109375,4,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,58, million ,15295,845544,1004,232,229.2734375,1002.109375,249.7734375,1053.125,4,16,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,58, million ,15346,845595,1014,232,229.2734375,1002.109375,249.7734375,1053.125,4,16,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,58, million ,15396,845645,1020,233,229.2734375,1002.109375,249.7734375,1053.125,4,16,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,58, million ,15446,845695,1025,234,229.2734375,1002.109375,249.7734375,1053.125,4,16,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,58, million ,15495,845744,1026,235,229.2734375,1002.109375,249.7734375,1053.125,4,16,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,58, million ,15545,845795,1023,236,229.2734375,1002.109375,249.7734375,1053.125,4,16,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,58, million ,15596,845845,1007,239,229.2734375,1002.109375,249.7734375,1053.125,4,16,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,57, 16.6 ,15645,845895,987,245,229.2734375,962.0703125,249.7734375,1002.109375,4,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,56, the ,15696,845945,949,254,229.2734375,932.046875,249.7734375,962.0703125,4,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,69, a ,15746,845995,898,261,269.2734375,890.265625,289.7734375,905.28125,5,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,68, sharing ,15796,846045,830,264,269.2734375,826.2265625,289.7734375,890.265625,5,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,66, War ,15845,846095,742,263,269.2734375,721.859375,289.7734375,759.1953125,5,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,48, the ,15896,846145,655,257,229.2734375,630.875,249.7734375,660.8984375,4,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,46, YouTube ,15945,846194,584,255,229.2734375,531.2734375,249.7734375,606.859375,4,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,46, YouTube ,15995,846244,536,254,229.2734375,531.2734375,249.7734375,606.859375,4,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,44, views ,16046,846295,495,254,229.2734375,456.390625,249.7734375,506.40625,4,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,44, views ,16096,846345,465,254,229.2734375,456.390625,249.7734375,506.40625,4,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,43, million ,16146,846395,442,254,229.2734375,400.375,249.7734375,456.390625,4,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,43, million ,16196,846445,422,256,229.2734375,400.375,249.7734375,456.390625,4,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,59, views ,16246,846495,404,260,269.2734375,400.375,289.7734375,450.390625,5,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,16296,846545,394,264,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,16345,846594,389,268,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,16396,846645,388,269,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,16445,846694,388,269,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,16496,846745,392,270,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,16545,846794,400,271,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,59, views ,16595,846844,411,271,269.2734375,400.375,289.7734375,450.390625,5,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,59, views ,16646,846895,428,271,269.2734375,400.375,289.7734375,450.390625,5,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,59, views ,16696,846945,442,272,269.2734375,400.375,289.7734375,450.390625,5,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,60, of ,16745,846994,455,272,269.2734375,450.390625,289.7734375,470.40625,5,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,60, of ,16801,847050,466,272,269.2734375,450.390625,289.7734375,470.40625,5,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,61, Sainsbury’s ,16846,847095,479,272,269.2734375,470.40625,289.7734375,568.1328125,5,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,61, Sainsbury’s ,16895,847144,493,272,269.2734375,470.40625,289.7734375,568.1328125,5,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,61, Sainsbury’s ,16945,847194,503,272,269.2734375,470.40625,289.7734375,568.1328125,5,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,61, Sainsbury’s ,16996,847245,515,272,269.2734375,470.40625,289.7734375,568.1328125,5,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,61, Sainsbury’s ,17047,847296,527,272,269.2734375,470.40625,289.7734375,568.1328125,5,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,61, Sainsbury’s ,17096,847345,542,271,269.2734375,470.40625,289.7734375,568.1328125,5,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,61, Sainsbury’s ,17145,847394,560,271,269.2734375,470.40625,289.7734375,568.1328125,5,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,62, ad ,17196,847445,578,271,269.2734375,568.1328125,289.7734375,593.15625,5,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,63, with ,17246,847495,594,271,269.2734375,593.15625,289.7734375,630.171875,5,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,63, with ,17296,847545,607,271,269.2734375,593.15625,289.7734375,630.171875,5,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,63, with ,17346,847595,619,271,269.2734375,593.15625,289.7734375,630.171875,5,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,63, with ,17396,847645,629,272,269.2734375,593.15625,289.7734375,630.171875,5,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,64, First ,17446,847695,641,273,269.2734375,630.171875,289.7734375,670.1640625,5,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,64, First ,17496,847745,650,273,269.2734375,630.171875,289.7734375,670.1640625,5,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,64, First ,17546,847795,656,273,269.2734375,630.171875,289.7734375,670.1640625,5,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,64, First ,17596,847845,663,274,269.2734375,630.171875,289.7734375,670.1640625,5,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,65, World ,17646,847895,671,274,269.2734375,670.1640625,289.7734375,721.859375,5,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,65, World ,17696,847945,679,274,269.2734375,670.1640625,289.7734375,721.859375,5,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,65, World ,17745,847995,691,274,269.2734375,670.1640625,289.7734375,721.859375,5,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,65, World ,17795,848044,711,273,269.2734375,670.1640625,289.7734375,721.859375,5,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,66, War ,17845,848094,734,269,269.2734375,721.859375,289.7734375,759.1953125,5,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,66, War ,17896,848145,754,269,269.2734375,721.859375,289.7734375,759.1953125,5,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,66, War ,17947,848196,756,269,269.2734375,721.859375,289.7734375,759.1953125,5,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,66, War ,17997,848246,756,269,269.2734375,721.859375,289.7734375,759.1953125,5,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,66, War ,18047,848296,756,269,269.2734375,721.859375,289.7734375,759.1953125,5,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,66, War ,18097,848346,756,269,269.2734375,721.859375,289.7734375,759.1953125,5,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,66, War ,18147,848396,756,269,269.2734375,721.859375,289.7734375,759.1953125,5,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,66, War ,18197,848446,756,269,269.2734375,721.859375,289.7734375,759.1953125,5,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,66, War ,18245,848494,758,269,269.2734375,721.859375,289.7734375,759.1953125,5,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,67, soldiers ,18296,848545,764,269,269.2734375,759.1953125,289.7734375,826.2265625,5,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,67, soldiers ,18346,848595,775,270,269.2734375,759.1953125,289.7734375,826.2265625,5,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,67, soldiers ,18395,848645,789,270,269.2734375,759.1953125,289.7734375,826.2265625,5,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,67, soldiers ,18446,848695,804,270,269.2734375,759.1953125,289.7734375,826.2265625,5,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,67, soldiers ,18495,848745,820,270,269.2734375,759.1953125,289.7734375,826.2265625,5,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,68, sharing ,18546,848795,832,271,269.2734375,826.2265625,289.7734375,890.265625,5,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,68, sharing ,18596,848845,839,272,269.2734375,826.2265625,289.7734375,890.265625,5,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,68, sharing ,18645,848894,845,273,269.2734375,826.2265625,289.7734375,890.265625,5,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,68, sharing ,18695,848945,852,274,269.2734375,826.2265625,289.7734375,890.265625,5,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,68, sharing ,18745,848994,858,275,269.2734375,826.2265625,289.7734375,890.265625,5,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,68, sharing ,18796,849045,864,275,269.2734375,826.2265625,289.7734375,890.265625,5,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,68, sharing ,18845,849095,871,275,269.2734375,826.2265625,289.7734375,890.265625,5,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,68, sharing ,18896,849145,880,275,269.2734375,826.2265625,289.7734375,890.265625,5,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,68, sharing ,18945,849194,889,275,269.2734375,826.2265625,289.7734375,890.265625,5,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,69, a ,18996,849245,899,276,269.2734375,890.265625,289.7734375,905.28125,5,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,70, bar ,19046,849295,912,276,269.2734375,905.28125,289.7734375,936.3046875,5,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,70, bar ,19095,849344,927,276,269.2734375,905.28125,289.7734375,936.3046875,5,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,71, of ,19146,849395,938,276,269.2734375,936.3046875,289.7734375,956.3203125,5,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,71, of ,19196,849445,946,274,269.2734375,936.3046875,289.7734375,956.3203125,5,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,71, of ,19246,849495,954,274,269.2734375,936.3046875,289.7734375,956.3203125,5,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,72," chocolate, ",19295,849544,963,274,269.2734375,956.3203125,289.7734375,1043.3828125,5,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,72," chocolate, ",19345,849594,976,274,269.2734375,956.3203125,289.7734375,1043.3828125,5,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,72," chocolate, ",19396,849645,994,274,269.2734375,956.3203125,289.7734375,1043.3828125,5,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,72," chocolate, ",19445,849695,1011,275,269.2734375,956.3203125,289.7734375,1043.3828125,5,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,72," chocolate, ",19496,849745,1025,275,269.2734375,956.3203125,289.7734375,1043.3828125,5,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,72," chocolate, ",19545,849795,1036,273,269.2734375,956.3203125,289.7734375,1043.3828125,5,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,73, the ,19596,849845,1046,272,269.2734375,1043.3828125,289.7734375,1068.40625,5,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,73, the ,19646,849895,1054,271,269.2734375,1043.3828125,289.7734375,1068.40625,5,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,73, the ,19695,849944,1057,271,269.2734375,1043.3828125,289.7734375,1068.40625,5,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,73, the ,19746,849995,1058,271,269.2734375,1043.3828125,289.7734375,1068.40625,5,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,73, the ,19797,850046,1058,271,269.2734375,1043.3828125,289.7734375,1068.40625,5,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,73, the ,19845,850095,1054,274,269.2734375,1043.3828125,289.7734375,1068.40625,5,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,72," chocolate, ",19895,850145,1032,284,269.2734375,956.3203125,289.7734375,1043.3828125,5,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,72," chocolate, ",19945,850194,961,294,269.2734375,956.3203125,289.7734375,1043.3828125,5,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,68, sharing ,19995,850244,842,296,269.2734375,826.2265625,289.7734375,890.265625,5,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,66, War ,20045,850294,729,296,269.2734375,721.859375,289.7734375,759.1953125,5,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,63, with ,20096,850345,622,293,269.2734375,593.15625,289.7734375,630.171875,5,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,61, Sainsbury’s ,20145,850395,526,288,269.2734375,470.40625,289.7734375,568.1328125,5,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,59, views ,20196,850445,450,287,269.2734375,400.375,289.7734375,450.390625,5,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,20245,850495,399,291,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,20295,850544,361,299,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,20345,850594,348,304,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,20395,850644,344,309,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,20446,850695,343,314,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,20495,850744,345,320,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,20545,850794,354,326,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,20595,850844,363,328,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,20645,850894,372,328,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,20695,850944,381,328,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,20745,850994,391,327,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,74, UK’s ,20795,851044,405,323,309.2734375,400.375,329.7734375,443.0703125,6,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,74, UK’s ,20845,851095,424,319,309.2734375,400.375,329.7734375,443.0703125,6,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,75, second ,20895,851145,445,318,309.2734375,443.0703125,329.7734375,506.1171875,6,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,75, second ,20946,851195,469,316,309.2734375,443.0703125,329.7734375,506.1171875,6,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,75, second ,20995,851245,492,316,309.2734375,443.0703125,329.7734375,506.1171875,6,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,76, most ,21046,851295,511,315,309.2734375,506.1171875,329.7734375,550.125,6,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,76, most ,21096,851345,525,314,309.2734375,506.1171875,329.7734375,550.125,6,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,76, most ,21146,851395,536,314,309.2734375,506.1171875,329.7734375,550.125,6,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,76, most ,21195,851445,547,314,309.2734375,506.1171875,329.7734375,550.125,6,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,77, popular ,21246,851495,561,315,309.2734375,550.125,329.7734375,615.1796875,6,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,77, popular ,21295,851544,575,315,309.2734375,550.125,329.7734375,615.1796875,6,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,77, popular ,21345,851594,586,315,309.2734375,550.125,329.7734375,615.1796875,6,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,77, popular ,21396,851645,587,315,309.2734375,550.125,329.7734375,615.1796875,6,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,77, popular ,21446,851696,587,315,309.2734375,550.125,329.7734375,615.1796875,6,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,77, popular ,21496,851746,587,315,309.2734375,550.125,329.7734375,615.1796875,6,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,77, popular ,21547,851796,587,315,309.2734375,550.125,329.7734375,615.1796875,6,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,77, popular ,21597,851846,587,315,309.2734375,550.125,329.7734375,615.1796875,6,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,77, popular ,21646,851896,587,315,309.2734375,550.125,329.7734375,615.1796875,6,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,77, popular ,21696,851945,588,315,309.2734375,550.125,329.7734375,615.1796875,6,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,77, popular ,21746,851995,604,317,309.2734375,550.125,329.7734375,615.1796875,6,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,78, ad ,21796,852045,627,323,309.2734375,615.1796875,329.7734375,640.203125,6,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,79, of ,21846,852095,642,327,309.2734375,640.203125,329.7734375,660.21875,6,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,79, of ,21896,852145,656,330,309.2734375,640.203125,329.7734375,660.21875,6,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,80, 2014. ,21946,852195,673,332,309.2734375,660.21875,329.7734375,710.265625,6,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,80, 2014. ,21996,852245,686,333,309.2734375,660.21875,329.7734375,710.265625,6,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,80, 2014. ,22046,852295,699,333,309.2734375,660.21875,329.7734375,710.265625,6,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,80, 2014. ,22095,852344,709,333,309.2734375,660.21875,329.7734375,710.265625,6,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,81, Swift ,22145,852394,714,333,309.2734375,710.265625,329.7734375,754.2734375,6,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,81, Swift ,22195,852444,717,332,309.2734375,710.265625,329.7734375,754.2734375,6,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,81, Swift ,22245,852495,720,330,309.2734375,710.265625,329.7734375,754.2734375,6,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,81, Swift ,22296,852545,722,326,309.2734375,710.265625,329.7734375,754.2734375,6,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,81, Swift ,22346,852595,723,323,309.2734375,710.265625,329.7734375,754.2734375,6,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,80, 2014. ,22396,852645,708,319,309.2734375,660.21875,329.7734375,710.265625,6,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,80, 2014. ,22445,852695,688,319,309.2734375,660.21875,329.7734375,710.265625,6,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,80, 2014. ,22495,852745,673,322,309.2734375,660.21875,329.7734375,710.265625,6,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,79, of ,22545,852795,658,324,309.2734375,640.203125,329.7734375,660.21875,6,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,79, of ,22596,852845,647,325,309.2734375,640.203125,329.7734375,660.21875,6,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,79, of ,22645,852894,642,325,309.2734375,640.203125,329.7734375,660.21875,6,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,79, of ,22697,852946,642,325,309.2734375,640.203125,329.7734375,660.21875,6,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,79, of ,22746,852995,644,325,309.2734375,640.203125,329.7734375,660.21875,6,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,79, of ,22795,853044,658,325,309.2734375,640.203125,329.7734375,660.21875,6,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,80, 2014. ,22845,853094,680,327,309.2734375,660.21875,329.7734375,710.265625,6,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,80, 2014. ,22895,853144,700,328,309.2734375,660.21875,329.7734375,710.265625,6,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,81, Swift ,22945,853195,718,328,309.2734375,710.265625,329.7734375,754.2734375,6,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,81, Swift ,22995,853244,732,328,309.2734375,710.265625,329.7734375,754.2734375,6,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,81, Swift ,23046,853295,745,330,309.2734375,710.265625,329.7734375,754.2734375,6,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,82, said ,23095,853344,756,331,309.2734375,754.2734375,329.7734375,792.296875,6,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,82, said ,23145,853394,765,331,309.2734375,754.2734375,329.7734375,792.296875,6,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,82, said ,23195,853445,773,331,309.2734375,754.2734375,329.7734375,792.296875,6,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,82, said ,23245,853494,780,331,309.2734375,754.2734375,329.7734375,792.296875,6,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,82, said ,23296,853545,788,331,309.2734375,754.2734375,329.7734375,792.296875,6,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,83," that, ",23346,853595,796,330,309.2734375,792.296875,329.7734375,832.328125,6,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,83," that, ",23396,853645,810,328,309.2734375,792.296875,329.7734375,832.328125,6,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,83," that, ",23446,853695,825,326,309.2734375,792.296875,329.7734375,832.328125,6,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,84, despite ,23495,853744,839,324,309.2734375,832.328125,329.7734375,895.375,6,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,84, despite ,23546,853795,848,321,309.2734375,832.328125,329.7734375,895.375,6,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,84, despite ,23596,853845,858,319,309.2734375,832.328125,329.7734375,895.375,6,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,84, despite ,23646,853895,868,319,309.2734375,832.328125,329.7734375,895.375,6,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,84, despite ,23695,853944,872,319,309.2734375,832.328125,329.7734375,895.375,6,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,84, despite ,23745,853994,873,319,309.2734375,832.328125,329.7734375,895.375,6,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,84, despite ,23795,854045,876,319,309.2734375,832.328125,329.7734375,895.375,6,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,84, despite ,23846,854095,887,319,309.2734375,832.328125,329.7734375,895.375,6,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,85, the ,23895,854144,899,319,309.2734375,895.375,329.7734375,925.3984375,6,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,85, the ,23945,854194,914,316,309.2734375,895.375,329.7734375,925.3984375,6,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,85, the ,23996,854245,915,315,309.2734375,895.375,329.7734375,925.3984375,6,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,85, the ,24046,854296,915,315,309.2734375,895.375,329.7734375,925.3984375,6,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,85, the ,24096,854345,915,315,309.2734375,895.375,329.7734375,925.3984375,6,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,85, the ,24147,854396,915,315,309.2734375,895.375,329.7734375,925.3984375,6,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,85, the ,24197,854446,915,315,309.2734375,895.375,329.7734375,925.3984375,6,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,85, the ,24247,854496,915,315,309.2734375,895.375,329.7734375,925.3984375,6,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,85, the ,24295,854544,921,315,309.2734375,895.375,329.7734375,925.3984375,6,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,86," hype, ",24345,854595,935,318,309.2734375,925.3984375,329.7734375,974.4375,6,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,86," hype, ",24395,854645,951,321,309.2734375,925.3984375,329.7734375,974.4375,6,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,86," hype, ",24445,854695,969,324,309.2734375,925.3984375,329.7734375,974.4375,6,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,87, John ,24495,854744,982,324,309.2734375,974.4375,329.7734375,1018.4765625,6,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,87, John ,24545,854795,991,324,309.2734375,974.4375,329.7734375,1018.4765625,6,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,87, John ,24595,854845,1006,321,309.2734375,974.4375,329.7734375,1018.4765625,6,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,88, Lewis ,24645,854895,1026,316,309.2734375,1018.4765625,329.7734375,1064.5,6,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,88, Lewis ,24695,854944,1046,313,309.2734375,1018.4765625,329.7734375,1064.5,6,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,88, Lewis ,24746,854995,1057,311,309.2734375,1018.4765625,329.7734375,1064.5,6,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,88, Lewis ,24797,855046,1060,310,309.2734375,1018.4765625,329.7734375,1064.5,6,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,88, Lewis ,24845,855094,1059,311,309.2734375,1018.4765625,329.7734375,1064.5,6,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,88, Lewis ,24896,855145,1048,316,309.2734375,1018.4765625,329.7734375,1064.5,6,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,87, John ,24946,855195,1003,321,309.2734375,974.4375,329.7734375,1018.4765625,6,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,85, the ,24996,855245,919,321,309.2734375,895.375,329.7734375,925.3984375,6,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,83," that, ",25045,855295,803,321,309.2734375,792.296875,329.7734375,832.328125,6,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,80, 2014. ,25095,855345,689,330,309.2734375,660.21875,329.7734375,710.265625,6,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,93, strategy ,25145,855394,572,345,349.2734375,553.484375,369.7734375,622.515625,7,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,91, the ,25195,855445,475,359,349.2734375,474.4375,369.7734375,504.4609375,7,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,89, had ,25245,855494,419,366,349.2734375,400.375,369.7734375,435.4140625,7,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,25295,855544,388,369,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,25345,855594,368,369,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,25395,855644,358,369,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,25445,855694,356,368,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,25496,855745,356,368,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,25545,855794,360,368,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,25596,855845,377,368,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,25646,855895,397,367,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,89, had ,25695,855945,417,364,349.2734375,400.375,369.7734375,435.4140625,7,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,89, had ,25746,855995,429,364,349.2734375,400.375,369.7734375,435.4140625,7,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,90, kept ,25795,856045,440,364,349.2734375,435.4140625,369.7734375,474.4375,7,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,90, kept ,25845,856095,452,362,349.2734375,435.4140625,369.7734375,474.4375,7,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,90, kept ,25895,856144,465,361,349.2734375,435.4140625,369.7734375,474.4375,7,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,91, the ,25945,856195,478,360,349.2734375,474.4375,369.7734375,504.4609375,7,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,91, the ,25995,856244,496,360,349.2734375,474.4375,369.7734375,504.4609375,7,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,92, same ,26045,856294,520,360,349.2734375,504.4609375,369.7734375,553.484375,7,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,92, same ,26095,856344,548,358,349.2734375,504.4609375,369.7734375,553.484375,7,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,93, strategy ,26145,856395,569,358,349.2734375,553.484375,369.7734375,622.515625,7,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,93, strategy ,26196,856445,583,358,349.2734375,553.484375,369.7734375,622.515625,7,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,93, strategy ,26246,856495,593,358,349.2734375,553.484375,369.7734375,622.515625,7,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,93, strategy ,26295,856544,601,360,349.2734375,553.484375,369.7734375,622.515625,7,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,93, strategy ,26346,856595,609,361,349.2734375,553.484375,369.7734375,622.515625,7,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,93, strategy ,26395,856645,620,361,349.2734375,553.484375,369.7734375,622.515625,7,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,94, for ,26445,856695,634,362,349.2734375,622.515625,369.7734375,648.5234375,7,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,94, for ,26495,856744,647,362,349.2734375,622.515625,369.7734375,648.5234375,7,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,95, the ,26545,856794,656,362,349.2734375,648.5234375,369.7734375,678.546875,7,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,95, the ,26595,856844,665,363,349.2734375,648.5234375,369.7734375,678.546875,7,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,95, the ,26645,856894,672,363,349.2734375,648.5234375,369.7734375,678.546875,7,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,96, last ,26695,856944,679,363,349.2734375,678.546875,369.7734375,711.5625,7,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,96, last ,26745,856994,688,363,349.2734375,678.546875,369.7734375,711.5625,7,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,96, last ,26795,857044,696,363,349.2734375,678.546875,369.7734375,711.5625,7,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,96, last ,26845,857094,706,362,349.2734375,678.546875,369.7734375,711.5625,7,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,97, five ,26895,857145,717,361,349.2734375,711.5625,369.7734375,744.578125,7,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,97, five ,26946,857195,729,361,349.2734375,711.5625,369.7734375,744.578125,7,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,97, five ,26996,857246,734,359,349.2734375,711.5625,369.7734375,744.578125,7,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,97, five ,27046,857296,734,359,349.2734375,711.5625,369.7734375,744.578125,7,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,97, five ,27097,857346,734,359,349.2734375,711.5625,369.7734375,744.578125,7,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,97, five ,27147,857396,734,359,349.2734375,711.5625,369.7734375,744.578125,7,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,97, five ,27196,857445,734,359,349.2734375,711.5625,369.7734375,744.578125,7,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,97, five ,27246,857495,734,359,349.2734375,711.5625,369.7734375,744.578125,7,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,97, five ,27296,857545,735,359,349.2734375,711.5625,369.7734375,744.578125,7,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,98, years. ,27346,857595,754,360,349.2734375,744.578125,369.7734375,798.6015625,7,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,98, years. ,27395,857644,776,362,349.2734375,744.578125,369.7734375,798.6015625,7,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,98, years. ,27446,857695,793,362,349.2734375,744.578125,369.7734375,798.6015625,7,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,99, “It’s ,27495,857744,807,362,349.2734375,798.6015625,369.7734375,832.28125,7,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,99, “It’s ,27545,857795,817,362,349.2734375,798.6015625,369.7734375,832.28125,7,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,99, “It’s ,27595,857844,823,362,349.2734375,798.6015625,369.7734375,832.28125,7,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,99, “It’s ,27645,857895,830,362,349.2734375,798.6015625,369.7734375,832.28125,7,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,100, all ,27696,857945,840,361,349.2734375,832.28125,369.7734375,855.296875,7,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,100, all ,27746,857995,853,361,349.2734375,832.28125,369.7734375,855.296875,7,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,101, about ,27796,858045,862,361,349.2734375,855.296875,369.7734375,905.34375,7,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,101, about ,27845,858095,870,361,349.2734375,855.296875,369.7734375,905.34375,7,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,101, about ,27895,858144,880,362,349.2734375,855.296875,369.7734375,905.34375,7,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,101, about ,27945,858194,894,364,349.2734375,855.296875,369.7734375,905.34375,7,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,102, thoughtful ,27995,858244,912,366,349.2734375,905.34375,369.7734375,989.4140625,7,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,102, thoughtful ,28045,858294,934,367,349.2734375,905.34375,369.7734375,989.4140625,7,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,102, thoughtful ,28095,858344,954,367,349.2734375,905.34375,369.7734375,989.4140625,7,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,102, thoughtful ,28145,858394,969,367,349.2734375,905.34375,369.7734375,989.4140625,7,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,102, thoughtful ,28195,858445,980,367,349.2734375,905.34375,369.7734375,989.4140625,7,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,102, thoughtful ,28245,858494,989,368,349.2734375,905.34375,369.7734375,989.4140625,7,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,103, gifting ,28295,858544,1001,370,349.2734375,989.4140625,369.7734375,1037.453125,7,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,103, gifting ,28345,858594,1014,371,349.2734375,989.4140625,369.7734375,1037.453125,7,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,103, gifting ,28396,858645,1026,371,349.2734375,989.4140625,369.7734375,1037.453125,7,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,103, gifting ,28445,858695,1030,371,349.2734375,989.4140625,369.7734375,1037.453125,7,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,103, gifting ,28496,858745,1030,371,349.2734375,989.4140625,369.7734375,1037.453125,7,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,103, gifting ,28546,858795,1028,370,349.2734375,989.4140625,369.7734375,1037.453125,7,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,103, gifting ,28596,858845,1009,366,349.2734375,989.4140625,369.7734375,1037.453125,7,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,102, thoughtful ,28645,858894,987,365,349.2734375,905.34375,369.7734375,989.4140625,7,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,102, thoughtful ,28695,858944,953,367,349.2734375,905.34375,369.7734375,989.4140625,7,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,101, about ,28745,858994,902,371,349.2734375,855.296875,369.7734375,905.34375,7,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,100, all ,28795,859044,833,377,349.2734375,832.28125,369.7734375,855.296875,7,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,112, love ,28845,859095,745,381,389.2734375,736.6015625,409.7734375,774.625,8,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,110, someone ,28895,859144,647,386,389.2734375,623.5234375,409.7734375,702.578125,8,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,107, extra ,28945,859194,559,396,389.2734375,514.484375,409.7734375,559.5078125,8,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,105, going ,28995,859245,483,405,389.2734375,435.4140625,409.7734375,484.4609375,8,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,104, and ,29046,859295,429,408,389.2734375,400.375,409.7734375,435.4140625,8,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,29095,859344,391,410,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,29145,859394,366,410,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,29195,859444,354,409,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,29245,859494,351,408,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,29296,859545,351,408,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,29345,859594,354,408,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,29395,859644,364,407,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,29445,859694,378,405,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,29495,859744,393,402,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,104, and ,29545,859794,408,400,389.2734375,400.375,409.7734375,435.4140625,8,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,104, and ,29595,859844,427,400,389.2734375,400.375,409.7734375,435.4140625,8,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,105, going ,29646,859895,445,399,389.2734375,435.4140625,409.7734375,484.4609375,8,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,105, going ,29695,859944,463,397,389.2734375,435.4140625,409.7734375,484.4609375,8,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,105, going ,29745,859995,481,395,389.2734375,435.4140625,409.7734375,484.4609375,8,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,106, the ,29795,860045,494,394,389.2734375,484.4609375,409.7734375,514.484375,8,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,106, the ,29845,860094,510,393,389.2734375,484.4609375,409.7734375,514.484375,8,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,107, extra ,29895,860145,525,393,389.2734375,514.484375,409.7734375,559.5078125,8,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,107, extra ,29946,860195,542,393,389.2734375,514.484375,409.7734375,559.5078125,8,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,107, extra ,29995,860244,557,393,389.2734375,514.484375,409.7734375,559.5078125,8,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,108, mile ,30045,860294,577,394,389.2734375,559.5078125,409.7734375,597.515625,8,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,108, mile ,30095,860344,586,395,389.2734375,559.5078125,409.7734375,597.515625,8,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,108, mile ,30147,860397,587,395,389.2734375,559.5078125,409.7734375,597.515625,8,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,108, mile ,30196,860446,587,395,389.2734375,559.5078125,409.7734375,597.515625,8,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,108, mile ,30247,860496,587,395,389.2734375,559.5078125,409.7734375,597.515625,8,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,108, mile ,30297,860546,587,395,389.2734375,559.5078125,409.7734375,597.515625,8,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,108, mile ,30347,860596,587,395,389.2734375,559.5078125,409.7734375,597.515625,8,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,108, mile ,30396,860645,587,395,389.2734375,559.5078125,409.7734375,597.515625,8,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,108, mile ,30446,860695,588,395,389.2734375,559.5078125,409.7734375,597.515625,8,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,109, for ,30496,860745,604,398,389.2734375,597.515625,409.7734375,623.5234375,8,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,110, someone ,30546,860795,630,402,389.2734375,623.5234375,409.7734375,702.578125,8,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,110, someone ,30596,860845,655,402,389.2734375,623.5234375,409.7734375,702.578125,8,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,110, someone ,30646,860895,672,402,389.2734375,623.5234375,409.7734375,702.578125,8,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,110, someone ,30696,860945,683,402,389.2734375,623.5234375,409.7734375,702.578125,8,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,110, someone ,30746,860995,691,403,389.2734375,623.5234375,409.7734375,702.578125,8,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,110, someone ,30796,861045,699,403,389.2734375,623.5234375,409.7734375,702.578125,8,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,111, you ,30845,861094,710,403,389.2734375,702.578125,409.7734375,736.6015625,8,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,111, you ,30895,861144,720,403,389.2734375,702.578125,409.7734375,736.6015625,8,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,111, you ,30945,861195,731,403,389.2734375,702.578125,409.7734375,736.6015625,8,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,112, love ,30995,861245,742,403,389.2734375,736.6015625,409.7734375,774.625,8,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,112, love ,31045,861294,751,403,389.2734375,736.6015625,409.7734375,774.625,8,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,112, love ,31095,861344,762,403,389.2734375,736.6015625,409.7734375,774.625,8,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,113, at ,31145,861394,780,404,389.2734375,774.625,409.7734375,794.640625,8,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,114," Christmas,” ",31195,861444,802,404,389.2734375,794.640625,409.7734375,891.6484375,8,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,114," Christmas,” ",31245,861494,820,403,389.2734375,794.640625,409.7734375,891.6484375,8,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,114," Christmas,” ",31295,861545,833,403,389.2734375,794.640625,409.7734375,891.6484375,8,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,114," Christmas,” ",31346,861595,841,404,389.2734375,794.640625,409.7734375,891.6484375,8,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,114," Christmas,” ",31396,861645,848,405,389.2734375,794.640625,409.7734375,891.6484375,8,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,114," Christmas,” ",31446,861695,857,405,389.2734375,794.640625,409.7734375,891.6484375,8,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,114," Christmas,” ",31495,861745,869,405,389.2734375,794.640625,409.7734375,891.6484375,8,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,114," Christmas,” ",31545,861794,878,404,389.2734375,794.640625,409.7734375,891.6484375,8,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,114," Christmas,” ",31595,861844,886,403,389.2734375,794.640625,409.7734375,891.6484375,8,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,115, she ,31645,861894,894,401,389.2734375,891.6484375,409.7734375,925.671875,8,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,115, she ,31695,861944,904,399,389.2734375,891.6484375,409.7734375,925.671875,8,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,115, she ,31745,861994,917,395,389.2734375,891.6484375,409.7734375,925.671875,8,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,116, said. ,31795,862045,931,393,389.2734375,925.671875,409.7734375,968.6953125,8,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,116, said. ,31847,862096,939,393,389.2734375,925.671875,409.7734375,968.6953125,8,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,116, said. ,31897,862146,939,393,389.2734375,925.671875,409.7734375,968.6953125,8,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,116, said. ,31947,862196,939,393,389.2734375,925.671875,409.7734375,968.6953125,8,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,116, said. ,31997,862246,939,393,389.2734375,925.671875,409.7734375,968.6953125,8,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,116, said. ,32047,862296,939,393,389.2734375,925.671875,409.7734375,968.6953125,8,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,116, said. ,32097,862346,939,393,389.2734375,925.671875,409.7734375,968.6953125,8,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,116, said. ,32145,862394,944,394,389.2734375,925.671875,409.7734375,968.6953125,8,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,116, said. ,32195,862444,957,396,389.2734375,925.671875,409.7734375,968.6953125,8,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,117, “In ,32245,862494,976,396,389.2734375,968.6953125,409.7734375,994.703125,8,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,117, “In ,32295,862544,988,396,389.2734375,968.6953125,409.7734375,994.703125,8,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,118," 2015, ",32345,862595,998,396,389.2734375,994.703125,409.7734375,1044.75,8,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,118," 2015, ",32396,862645,1011,394,389.2734375,994.703125,409.7734375,1044.75,8,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,118," 2015, ",32445,862694,1023,392,389.2734375,994.703125,409.7734375,1044.75,8,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,118," 2015, ",32495,862745,1032,391,389.2734375,994.703125,409.7734375,1044.75,8,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,118," 2015, ",32546,862795,1037,390,389.2734375,994.703125,409.7734375,1044.75,8,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,118," 2015, ",32596,862845,1043,390,389.2734375,994.703125,409.7734375,1044.75,8,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,119, we ,32645,862895,1052,390,389.2734375,1044.75,409.7734375,1067.765625,8,16,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,119, we ,32695,862945,1059,390,389.2734375,1044.75,409.7734375,1067.765625,8,16,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,119, we ,32745,862994,1063,391,389.2734375,1044.75,409.7734375,1067.765625,8,16,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,119, we ,32796,863045,1064,391,389.2734375,1044.75,409.7734375,1067.765625,8,16,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,119, we ,32845,863095,1057,394,389.2734375,1044.75,409.7734375,1067.765625,8,16,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,118," 2015, ",32895,863144,1021,400,389.2734375,994.703125,409.7734375,1044.75,8,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,116, said. ,32946,863195,952,406,389.2734375,925.671875,409.7734375,968.6953125,8,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,114," Christmas,” ",32996,863245,863,413,389.2734375,794.640625,409.7734375,891.6484375,8,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,114," Christmas,” ",33046,863295,800,416,389.2734375,794.640625,409.7734375,891.6484375,8,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,129, be ,33096,863345,726,420,429.2734375,719.5859375,449.7734375,744.609375,9,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,126, is ,33146,863395,636,426,429.2734375,632.5234375,449.7734375,650.5234375,9,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,124," thinking, ",33196,863445,546,430,429.2734375,517.46875,449.7734375,589.515625,9,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,122, into ,33246,863495,478,433,429.2734375,469.4375,449.7734375,503.4609375,9,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,120, don’t ,33296,863545,437,435,429.2734375,400.375,449.7734375,444.4140625,9,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,120, don’t ,33346,863595,416,435,429.2734375,400.375,449.7734375,444.4140625,9,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,120, don’t ,33395,863645,401,435,429.2734375,400.375,449.7734375,444.4140625,9,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,33446,863695,391,435,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,33495,863744,385,435,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,33547,863796,383,435,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,33595,863844,384,436,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,33645,863895,393,437,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,120, don’t ,33696,863945,408,437,429.2734375,400.375,449.7734375,444.4140625,9,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,120, don’t ,33745,863994,425,437,429.2734375,400.375,449.7734375,444.4140625,9,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,120, don’t ,33795,864044,442,437,429.2734375,400.375,449.7734375,444.4140625,9,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,121, go ,33845,864095,456,438,429.2734375,444.4140625,449.7734375,469.4375,9,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,121, go ,33895,864145,468,438,429.2734375,444.4140625,449.7734375,469.4375,9,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,122, into ,33946,864195,477,438,429.2734375,469.4375,449.7734375,503.4609375,9,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,122, into ,33995,864245,484,438,429.2734375,469.4375,449.7734375,503.4609375,9,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,122, into ,34046,864295,493,438,429.2734375,469.4375,449.7734375,503.4609375,9,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,122, into ,34096,864345,502,438,429.2734375,469.4375,449.7734375,503.4609375,9,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,123, it ,34145,864395,514,438,429.2734375,503.4609375,449.7734375,517.46875,9,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,124," thinking, ",34195,864445,524,438,429.2734375,517.46875,449.7734375,589.515625,9,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,124," thinking, ",34246,864495,533,438,429.2734375,517.46875,449.7734375,589.515625,9,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,124," thinking, ",34295,864545,540,438,429.2734375,517.46875,449.7734375,589.515625,9,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,124," thinking, ",34346,864595,546,438,429.2734375,517.46875,449.7734375,589.515625,9,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,124," thinking, ",34396,864645,554,438,429.2734375,517.46875,449.7734375,589.515625,9,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,124," thinking, ",34445,864695,567,439,429.2734375,517.46875,449.7734375,589.515625,9,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,124," thinking, ",34495,864744,579,440,429.2734375,517.46875,449.7734375,589.515625,9,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,125, ‘This ,34545,864795,591,442,429.2734375,589.515625,449.7734375,632.5234375,9,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,125, ‘This ,34595,864844,603,443,429.2734375,589.515625,449.7734375,632.5234375,9,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,125, ‘This ,34645,864894,613,443,429.2734375,589.515625,449.7734375,632.5234375,9,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,125, ‘This ,34695,864944,621,443,429.2734375,589.515625,449.7734375,632.5234375,9,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,125, ‘This ,34745,864994,629,443,429.2734375,589.515625,449.7734375,632.5234375,9,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,126, is ,34796,865045,637,443,429.2734375,632.5234375,449.7734375,650.5234375,9,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,126, is ,34845,865094,645,443,429.2734375,632.5234375,449.7734375,650.5234375,9,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,127, going ,34895,865145,655,443,429.2734375,650.5234375,449.7734375,699.5703125,9,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,127, going ,34945,865194,667,442,429.2734375,650.5234375,449.7734375,699.5703125,9,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,127, going ,34995,865244,684,441,429.2734375,650.5234375,449.7734375,699.5703125,9,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,128, to ,35045,865294,701,441,429.2734375,699.5703125,449.7734375,719.5859375,9,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,128, to ,35096,865345,719,441,429.2734375,699.5703125,449.7734375,719.5859375,9,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,129, be ,35145,865395,730,441,429.2734375,719.5859375,449.7734375,744.609375,9,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,129, be ,35196,865445,730,441,429.2734375,719.5859375,449.7734375,744.609375,9,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,129, be ,35247,865496,730,441,429.2734375,719.5859375,449.7734375,744.609375,9,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,129, be ,35296,865545,730,441,429.2734375,719.5859375,449.7734375,744.609375,9,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,129, be ,35346,865595,730,441,429.2734375,719.5859375,449.7734375,744.609375,9,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,129, be ,35396,865645,730,441,429.2734375,719.5859375,449.7734375,744.609375,9,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,129, be ,35446,865695,733,441,429.2734375,719.5859375,449.7734375,744.609375,9,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,130," huge,’ ",35495,865744,746,441,429.2734375,744.609375,449.7734375,798,9,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,130," huge,’ ",35545,865795,770,441,429.2734375,744.609375,449.7734375,798,9,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,130," huge,’ ",35595,865845,789,441,429.2734375,744.609375,449.7734375,798,9,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,131, just ,35646,865895,805,441,429.2734375,798,449.7734375,831.015625,9,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,131, just ,35695,865944,822,441,429.2734375,798,449.7734375,831.015625,9,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,132, getting ,35745,865994,834,442,429.2734375,831.015625,449.7734375,890.0625,9,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,132, getting ,35796,866045,844,443,429.2734375,831.015625,449.7734375,890.0625,9,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,132, getting ,35846,866095,852,444,429.2734375,831.015625,449.7734375,890.0625,9,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,132, getting ,35895,866145,861,444,429.2734375,831.015625,449.7734375,890.0625,9,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,132, getting ,35945,866195,872,443,429.2734375,831.015625,449.7734375,890.0625,9,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,132, getting ,35995,866245,883,442,429.2734375,831.015625,449.7734375,890.0625,9,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,133, something ,36046,866295,897,441,429.2734375,890.0625,449.7734375,978.1171875,9,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,133, something ,36095,866344,913,441,429.2734375,890.0625,449.7734375,978.1171875,9,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,133, something ,36145,866394,931,441,429.2734375,890.0625,449.7734375,978.1171875,9,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,133, something ,36195,866445,951,442,429.2734375,890.0625,449.7734375,978.1171875,9,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,133, something ,36245,866495,970,442,429.2734375,890.0625,449.7734375,978.1171875,9,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,134, right ,36295,866545,990,442,429.2734375,978.1171875,449.7734375,1018.140625,9,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,134, right ,36345,866594,1008,442,429.2734375,978.1171875,449.7734375,1018.140625,9,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,135, for ,36396,866645,1024,442,429.2734375,1018.140625,449.7734375,1044.1484375,9,16,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,135, for ,36446,866695,1036,442,429.2734375,1018.140625,449.7734375,1044.1484375,9,16,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,135, for ,36496,866745,1043,442,429.2734375,1018.140625,449.7734375,1044.1484375,9,16,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,136, the ,36546,866795,1049,442,429.2734375,1044.1484375,449.7734375,1069.171875,9,17,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,136, the ,36596,866845,1053,442,429.2734375,1044.1484375,449.7734375,1069.171875,9,17,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,136, the ,36645,866894,1055,442,429.2734375,1044.1484375,449.7734375,1069.171875,9,17,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,136, the ,36696,866945,1057,444,429.2734375,1044.1484375,449.7734375,1069.171875,9,17,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,136, the ,36745,866994,1058,445,429.2734375,1044.1484375,449.7734375,1069.171875,9,17,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,136, the ,36795,867045,1050,447,429.2734375,1044.1484375,449.7734375,1069.171875,9,17,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,134, right ,36846,867095,1003,450,429.2734375,978.1171875,449.7734375,1018.140625,9,15,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,133, something ,36895,867144,937,451,429.2734375,890.0625,449.7734375,978.1171875,9,14,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,132, getting ,36946,867195,867,451,429.2734375,831.015625,449.7734375,890.0625,9,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,130," huge,’ ",36995,867245,784,449,429.2734375,744.609375,449.7734375,798,9,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,127, going ,37045,867294,696,447,429.2734375,650.5234375,449.7734375,699.5703125,9,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,125, ‘This ,37096,867345,598,457,429.2734375,589.515625,449.7734375,632.5234375,9,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,140, time ,37145,867395,508,475,469.2734375,504.4453125,489.7734375,543.453125,10,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,138, at ,37196,867445,457,484,469.2734375,451.4140625,489.7734375,471.4296875,10,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,137, brand ,37246,867495,424,487,469.2734375,400.375,489.7734375,451.4140625,10,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,137, brand ,37296,867545,405,487,469.2734375,400.375,489.7734375,451.4140625,10,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,37345,867594,392,484,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,37395,867644,385,482,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,37445,867694,381,481,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,37496,867745,380,481,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,37546,867795,390,481,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,137, brand ,37595,867844,414,479,469.2734375,400.375,489.7734375,451.4140625,10,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,137, brand ,37645,867894,440,474,469.2734375,400.375,489.7734375,451.4140625,10,1,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,138, at ,37695,867945,459,473,469.2734375,451.4140625,489.7734375,471.4296875,10,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,138, at ,37745,867995,469,473,469.2734375,451.4140625,489.7734375,471.4296875,10,2,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,139, this ,37795,868045,477,474,469.2734375,471.4296875,489.7734375,504.4453125,10,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,139, this ,37845,868094,487,476,469.2734375,471.4296875,489.7734375,504.4453125,10,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,139, this ,37895,868145,498,478,469.2734375,471.4296875,489.7734375,504.4453125,10,3,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,140, time ,37946,868195,507,479,469.2734375,504.4453125,489.7734375,543.453125,10,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,140, time ,37996,868245,516,480,469.2734375,504.4453125,489.7734375,543.453125,10,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,140, time ,38045,868295,531,482,469.2734375,504.4453125,489.7734375,543.453125,10,4,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,141, of ,38095,868345,551,482,469.2734375,543.453125,489.7734375,563.46875,10,5,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,142, year ,38145,868394,568,484,469.2734375,563.46875,489.7734375,603.4921875,10,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,142, year ,38195,868444,584,485,469.2734375,563.46875,489.7734375,603.4921875,10,6,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,143, and ,38245,868494,606,486,469.2734375,603.4921875,489.7734375,638.53125,10,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,143, and ,38295,868544,633,486,469.2734375,603.4921875,489.7734375,638.53125,10,7,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,144, something ,38346,868595,652,486,469.2734375,638.53125,489.7734375,726.5859375,10,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,144, something ,38395,868645,658,486,469.2734375,638.53125,489.7734375,726.5859375,10,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,144, something ,38446,868695,658,484,469.2734375,638.53125,489.7734375,726.5859375,10,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,144, something ,38497,868746,658,484,469.2734375,638.53125,489.7734375,726.5859375,10,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,144, something ,38546,868795,658,484,469.2734375,638.53125,489.7734375,726.5859375,10,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,144, something ,38596,868845,658,484,469.2734375,638.53125,489.7734375,726.5859375,10,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,144, something ,38647,868896,658,484,469.2734375,638.53125,489.7734375,726.5859375,10,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,144, something ,38695,868944,661,484,469.2734375,638.53125,489.7734375,726.5859375,10,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,144, something ,38746,868995,668,484,469.2734375,638.53125,489.7734375,726.5859375,10,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,144, something ,38796,869045,682,484,469.2734375,638.53125,489.7734375,726.5859375,10,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,144, something ,38845,869095,697,484,469.2734375,638.53125,489.7734375,726.5859375,10,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,144, something ,38895,869144,707,486,469.2734375,638.53125,489.7734375,726.5859375,10,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,144, something ,38945,869195,720,488,469.2734375,638.53125,489.7734375,726.5859375,10,8,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,145, we ,38995,869244,736,490,469.2734375,726.5859375,489.7734375,754.6015625,10,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,145, we ,39045,869294,749,492,469.2734375,726.5859375,489.7734375,754.6015625,10,9,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,146, hope ,39095,869345,757,492,469.2734375,754.6015625,489.7734375,799.6484375,10,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,146, hope ,39145,869395,766,493,469.2734375,754.6015625,489.7734375,799.6484375,10,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,146, hope ,39195,869445,774,493,469.2734375,754.6015625,489.7734375,799.6484375,10,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,146, hope ,39245,869494,784,493,469.2734375,754.6015625,489.7734375,799.6484375,10,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,146, hope ,39295,869544,795,493,469.2734375,754.6015625,489.7734375,799.6484375,10,10,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,147, customers ,39346,869595,808,493,469.2734375,799.6484375,489.7734375,887.671875,10,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,147, customers ,39396,869645,823,493,469.2734375,799.6484375,489.7734375,887.671875,10,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,147, customers ,39446,869695,838,493,469.2734375,799.6484375,489.7734375,887.671875,10,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,147, customers ,39496,869745,849,493,469.2734375,799.6484375,489.7734375,887.671875,10,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,147, customers ,39545,869794,861,493,469.2734375,799.6484375,489.7734375,887.671875,10,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,147, customers ,39595,869844,871,492,469.2734375,799.6484375,489.7734375,887.671875,10,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,147, customers ,39645,869894,881,492,469.2734375,799.6484375,489.7734375,887.671875,10,11,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,148, really ,39695,869944,890,491,469.2734375,887.671875,489.7734375,935.6875,10,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,148, really ,39745,869994,898,490,469.2734375,887.671875,489.7734375,935.6875,10,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,148, really ,39795,870044,906,489,469.2734375,887.671875,489.7734375,935.6875,10,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,148, really ,39845,870094,914,487,469.2734375,887.671875,489.7734375,935.6875,10,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,148, really ,39895,870144,926,485,469.2734375,887.671875,489.7734375,935.6875,10,12,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,149, love.” ,39945,870195,938,483,469.2734375,935.6875,489.7734375,979.703125,10,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,149, love.” ,39995,870244,950,481,469.2734375,935.6875,489.7734375,979.703125,10,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,149, love.” ,40046,870295,953,480,469.2734375,935.6875,489.7734375,979.703125,10,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,149, love.” ,40096,870346,953,480,469.2734375,935.6875,489.7734375,979.703125,10,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,149, love.” ,40146,870395,953,481,469.2734375,935.6875,489.7734375,979.703125,10,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,149, love.” ,40195,870445,953,484,469.2734375,935.6875,489.7734375,979.703125,10,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,149, love.” ,40245,870494,948,492,469.2734375,935.6875,489.7734375,979.703125,10,13,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,40295,870544,929,508,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,40346,870595,929,508,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,40396,870645,929,508,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,40445,870695,929,508,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,40495,870744,929,508,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,40545,870795,929,508,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,40595,870844,929,508,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,40646,870895,929,508,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,40696,870945,929,508,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,40746,870996,929,508,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,40796,871045,929,508,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,4,21,22,-1,999,40846,871095,929,508,,,,,,,John Lewis customers in love,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
