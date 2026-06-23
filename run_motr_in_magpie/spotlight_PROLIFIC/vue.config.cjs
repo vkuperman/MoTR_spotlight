@@ -1,6 +1,9 @@
+const path = require('path');
 const { motrSharedAlias } = require('../shared/vueConfigAlias.cjs');
 
 const sharedAlias = motrSharedAlias(__dirname);
+const sharedResultsUpload = path.resolve(__dirname, '../shared/resultsUpload.js');
+const prolificResultsUpload = path.resolve(__dirname, 'src/lib/prolificResultsUpload.js');
 
 module.exports = {
   chainWebpack(config) {
@@ -14,10 +17,14 @@ module.exports = {
       .options({ name: 'xlsx/[name].[contenthash:8][ext]' });
     config.resolve.alias.set('@motr-shared', sharedAlias['@motr-shared']);
     config.resolve.alias.set('@magpie-config', sharedAlias['@magpie-config']);
+    config.resolve.alias.set(sharedResultsUpload, prolificResultsUpload);
   },
   configureWebpack: {
     resolve: {
-      alias: sharedAlias,
+      alias: {
+        ...sharedAlias,
+        [sharedResultsUpload]: prolificResultsUpload,
+      },
     },
     module: {
       rules: [

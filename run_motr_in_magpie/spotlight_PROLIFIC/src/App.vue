@@ -168,7 +168,7 @@ import {
   cefrBandForScore,
   isCambridgeAnswerCorrect,
 } from '@motr-shared/cambridgeGeneralEnglish';
-import ExportReportsScreen from '@motr-shared/components/ExportReportsScreen.vue';
+import ExportReportsScreen from './components/ExportReportsScreen.vue';
 import {
   deferReadingTrialSafeguards,
   initResultsSession,
