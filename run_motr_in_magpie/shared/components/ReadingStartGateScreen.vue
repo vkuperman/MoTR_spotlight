@@ -75,8 +75,8 @@ export default {
   position: absolute;
   z-index: 20;
   box-sizing: border-box;
-  width: 3ch;
-  height: 3ch;
+  width: 8ch;
+  height: 8ch;
   border: 1px solid #333;
   background: transparent;
   cursor: default;
