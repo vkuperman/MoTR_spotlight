@@ -1,9 +1,8 @@
-const path = require('path');
+const webpack = require('webpack');
 const { motrSharedAlias } = require('../shared/vueConfigAlias.cjs');
 
 const sharedAlias = motrSharedAlias(__dirname);
-const sharedResultsUpload = path.resolve(__dirname, '../shared/resultsUpload.js');
-const prolificResultsUpload = path.resolve(__dirname, 'src/lib/prolificResultsUpload.js');
+const prolificMaxUploadBodyChars = Math.floor(2.5 * 1024 * 1024);
 
 module.exports = {
   chainWebpack(config) {
@@ -17,13 +16,16 @@ module.exports = {
       .options({ name: 'xlsx/[name].[contenthash:8][ext]' });
     config.resolve.alias.set('@motr-shared', sharedAlias['@motr-shared']);
     config.resolve.alias.set('@magpie-config', sharedAlias['@magpie-config']);
-    config.resolve.alias.set(sharedResultsUpload, prolificResultsUpload);
   },
   configureWebpack: {
+    plugins: [
+      new webpack.DefinePlugin({
+        'process.env.MOTR_MAX_UPLOAD_BODY_CHARS': JSON.stringify(prolificMaxUploadBodyChars),
+      }),
+    ],
     resolve: {
       alias: {
         ...sharedAlias,
-        [sharedResultsUpload]: prolificResultsUpload,
       },
     },
     module: {

@@ -52,7 +52,7 @@ import {
   retryPendingSnapshotUpload,
 } from '@motr-shared/resultsSafeguard';
 import { deleteResultsSnapshot } from '@motr-shared/resultsIndexedDb';
-import { uploadResultsFiles } from '../lib/prolificResultsUpload';
+import { uploadResultsFiles } from '@motr-shared/resultsUpload';
 
 function buildProlificCompleteUploadFiles(context, sessionTimes) {
   const files = buildCompleteResultsFiles(
