@@ -2,7 +2,7 @@
   "sessionId": "SS2W84NW_1782323152392_FY79TASK",
   "participantId": "SS2W84NW",
   "folderName": "motr_results_SS2W84NW_2026-06-24_13-45",
-  "completedAt": "2026-06-24T17:56:15.911Z",
+  "completedAt": "2026-06-24T17:56:22.152Z",
   "trialsCompleted": [
     0,
     1,
@@ -37,5 +37,5 @@
     30,
     31
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
