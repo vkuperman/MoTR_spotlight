@@ -1,0 +1,77 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,34,485257,326,106,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,75,485298,292,84,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,125,485348,292,84,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,175,485397,292,84,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,224,485447,292,84,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,274,485497,315,81,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,1, IUPAC ,325,485548,427,137,108.375,385.375,128.875,444.0625,1,1,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,17, Dubna ,375,485598,578,157,148.375,553.4609375,168.875,611.5078125,2,4,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,20, Livermore ,424,485647,735,145,148.375,729.6015625,168.875,814.6328125,2,7,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,9, at ,475,485698,833,138,108.375,828.25,128.875,848.265625,1,9,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,21, National ,525,485748,874,142,148.375,814.6328125,168.875,885.6796875,2,8,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,22, Laboratory ,574,485797,894,153,148.375,885.6796875,168.875,976.734375,2,9,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,21, National ,625,485848,881,162,148.375,814.6328125,168.875,885.6796875,2,8,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,19, Lawrence ,675,485898,724,156,148.375,646.546875,168.875,729.6015625,2,6,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,5, Russian-American ,726,485949,546,119,108.375,532.1328125,128.875,684.1875,1,5,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,2, said ,776,485998,451,138,108.375,444.0625,128.875,482.0859375,1,2,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,24, California ,825,486047,412,206,188.375,385.375,208.875,466.4140625,3,1,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,49, decision ,876,486099,418,272,268.375,385.375,288.875,456.421875,5,1,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,50, means ,925,486148,465,296,268.375,456.421875,288.875,515.453125,5,2,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,51, Japan ,975,486198,532,272,268.375,515.453125,288.875,569.5,5,3,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,27, elements ,1025,486248,612,186,188.375,593.5078125,208.875,671.546875,3,4,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,5, Russian-American ,1075,486298,656,107,108.375,532.1328125,128.875,684.1875,1,5,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,1124,486347,675,86,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,6, team ,1176,486398,701,105,108.375,684.1875,128.875,729.2109375,1,6,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,20, Livermore ,1225,486448,744,164,148.375,729.6015625,168.875,814.6328125,2,7,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,30, and ,1275,486498,779,206,188.375,743.96875,208.875,779.0078125,3,7,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,45, discovered ,1325,486548,816,237,228.375,756.5625,248.875,848.6171875,4,9,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,45, discovered ,1375,486598,838,239,228.375,756.5625,248.875,848.6171875,4,9,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,32, The ,1425,486647,849,210,188.375,817.5625,208.875,853.421875,3,9,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,21, National ,1475,486698,851,153,148.375,814.6328125,168.875,885.6796875,2,8,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,9, at ,1525,486748,834,114,108.375,828.25,128.875,848.265625,1,9,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,8, scientists ,1576,486799,810,115,108.375,749.2265625,128.875,828.25,1,8,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,20, Livermore ,1625,486848,744,173,148.375,729.6015625,168.875,814.6328125,2,7,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,42, Institute ,1675,486898,663,257,228.375,615.4609375,248.875,683.5,4,6,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,66, can ,1724,486947,621,301,308.375,609.1484375,328.875,643.171875,6,5,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,65, elements ,1775,486997,585,316,308.375,531.109375,328.875,609.1484375,6,4,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,64, new ,1824,487047,527,320,308.375,493.0859375,328.875,531.109375,6,3,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,63," rules, ",1875,487097,471,316,308.375,444.0625,328.875,493.0859375,6,2,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,63," rules, ",1924,487147,447,316,308.375,444.0625,328.875,493.0859375,6,2,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,62, IUPAC ,1975,487198,431,312,308.375,385.375,328.875,444.0625,6,1,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,49, decision ,2024,487247,420,281,268.375,385.375,288.875,456.421875,5,1,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,24, California ,2075,487297,421,187,188.375,385.375,208.875,466.4140625,3,1,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,14, Nuclear ,2125,487348,427,150,148.375,385.375,168.875,452.40625,2,1,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,14, Nuclear ,2175,487398,428,143,148.375,385.375,168.875,452.40625,2,1,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,14, Nuclear ,2224,487447,428,165,148.375,385.375,168.875,452.40625,2,1,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,49, decision ,2275,487498,429,280,268.375,385.375,288.875,456.421875,5,1,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,75, or ,2325,487548,445,370,348.375,433.4140625,368.875,454.421875,7,2,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,2374,487597,466,391,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,2424,487647,520,379,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,65, elements ,2475,487698,584,328,308.375,531.109375,328.875,609.1484375,6,4,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,52, becomes ,2525,487748,611,278,268.375,569.5,288.875,647.5390625,5,4,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,41, RIKEN ,2575,487798,614,254,228.375,555.4453125,248.875,615.4609375,4,5,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,41, RIKEN ,2625,487848,608,235,228.375,555.4453125,248.875,615.4609375,4,5,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,27, elements ,2675,487898,605,210,188.375,593.5078125,208.875,671.546875,3,4,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,5, Russian-American ,2725,487948,647,124,108.375,532.1328125,128.875,684.1875,1,5,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,2775,487998,676,90,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,2825,488048,676,90,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,22, Laboratory ,2876,488098,889,143,148.375,885.6796875,168.875,976.734375,2,9,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,33, organization ,2924,488147,923,214,188.375,853.421875,208.875,956.4921875,3,10,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,60, element. ,2975,488198,935,269,268.375,919.7109375,288.875,993.75,5,12,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,60, element. ,3024,488247,938,297,268.375,919.7109375,288.875,993.75,5,12,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,71," concepts, ",3075,488298,939,305,308.375,874.3046875,328.875,956.3515625,6,10,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,71," concepts, ",3125,488348,935,316,308.375,874.3046875,328.875,956.3515625,6,10,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,3175,488398,895,345,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,3224,488447,842,371,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,3274,488497,805,394,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,3324,488547,805,394,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,3374,488597,805,394,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,3425,488648,805,394,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,3475,488698,805,394,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,3524,488747,805,394,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,3575,488798,805,394,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,3625,488847,805,394,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,3675,488897,805,394,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,3725,488947,805,394,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,3,17,18,-1,999,3774,488997,805,394,,,,,,,A group of researchers working in Japan,1,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
