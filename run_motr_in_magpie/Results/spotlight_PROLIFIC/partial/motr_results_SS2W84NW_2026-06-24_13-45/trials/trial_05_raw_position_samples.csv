@@ -1,0 +1,70 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SS2W84NW,test,2,int,4,4,4,5,-1,999,38,357197,322,100,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,88,357247,308,88,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,138,357297,303,83,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,188,357347,303,83,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,239,357398,330,101,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,14, children ,289,357447,409,148,148.375,385.375,168.875,453.4140625,2,1,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,30, preparing ,339,357498,493,180,188.375,416.3984375,208.875,497.453125,3,2,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,32, enter ,390,357548,519,184,188.375,517.46875,208.875,563.5,3,4,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,17, in ,439,357597,536,176,148.375,517.46875,168.875,536.484375,2,4,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,18, danger ,489,357648,557,160,148.375,536.484375,168.875,597.5390625,2,5,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,18, danger ,538,357697,565,150,148.375,536.484375,168.875,597.5390625,2,5,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,4, helped ,589,357748,539,135,108.375,521.8125,128.875,580.8671875,1,4,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,3, SOHAY ,639,357797,464,119,108.375,455.4375,128.875,521.8125,1,3,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,2," 2015, ",690,357848,424,108,108.375,405.390625,128.875,455.4375,1,2,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,2," 2015, ",740,357898,419,108,108.375,405.390625,128.875,455.4375,1,2,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,2," 2015, ",789,357948,419,108,108.375,405.390625,128.875,455.4375,1,2,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,3, SOHAY ,840,357998,465,105,108.375,455.4375,128.875,521.8125,1,3,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,4, helped ,889,358048,576,105,108.375,521.8125,128.875,580.8671875,1,4,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,8, leave ,939,358097,733,114,108.375,718.96875,128.875,767.0078125,1,8,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,9, hazardous ,989,358148,853,124,108.375,767.0078125,128.875,856.0703125,1,9,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,11, and ,1038,358197,920,131,108.375,899.078125,128.875,934.1171875,1,11,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,12," 2,125 ",1089,358248,943,135,108.375,934.1171875,128.875,984.1640625,1,12,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,12," 2,125 ",1138,358297,947,137,108.375,934.1171875,128.875,984.1640625,1,12,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,26, 780 ,1189,358348,919,144,148.375,886.734375,168.875,921.7734375,2,13,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,20, starting ,1239,358397,642,159,148.375,617.5546875,168.875,681.5859375,2,7,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,14, children ,1289,358448,444,148,148.375,385.375,168.875,453.4140625,2,1,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,1338,358497,384,148,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,1389,358548,381,148,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,17, in ,1440,358598,536,150,148.375,517.46875,168.875,536.484375,2,4,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,24, school. ,1489,358647,805,146,148.375,773.6328125,168.875,835.1796875,2,11,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,26, 780 ,1539,358698,908,166,148.375,886.734375,168.875,921.7734375,2,13,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,27, more ,1589,358748,928,176,148.375,921.7734375,168.875,967.7890625,2,14,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,38, is ,1639,358798,846,201,188.375,828.375,208.875,846.375,3,10,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,35, 2017. ,1689,358848,646,209,188.375,639.5546875,208.875,689.4453125,3,7,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,33, school ,1739,358897,569,207,188.375,563.5,208.875,620.5390625,3,5,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,32, enter ,1789,358948,545,205,188.375,517.46875,208.875,563.5,3,4,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,48, conditions ,1839,358997,643,237,228.375,629.53125,248.875,715.5859375,4,6,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,65, age ,1889,359048,809,262,268.375,799.6953125,288.875,834.734375,5,9,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,67, 14 ,1939,359097,862,266,268.375,854.75,288.875,879.7734375,5,11,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,67, 14 ,1989,359148,860,267,268.375,854.75,288.875,879.7734375,5,11,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,61, allow ,2040,359198,648,267,268.375,604.5703125,288.875,650.59375,5,5,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,57, Bangladesh ,2089,359248,407,261,268.375,385.375,288.875,485.4609375,5,1,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,2139,359298,359,267,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,57, Bangladesh ,2189,359348,396,291,268.375,385.375,288.875,485.4609375,5,1,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,75, children’s ,2239,359397,605,319,308.375,549.46875,328.875,630.1875,6,5,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,77," UNICEF, ",2290,359449,721,334,308.375,696.90625,328.875,771.9140625,6,7,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,93, work ,2339,359497,744,339,348.375,743.6328125,368.875,786.640625,7,10,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,75, children’s ,2389,359548,610,316,308.375,549.46875,328.875,630.1875,6,5,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,58, 2006 ,2440,359598,486,290,268.375,485.4609375,288.875,530.5078125,5,2,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,57, Bangladesh ,2489,359648,451,292,268.375,385.375,288.875,485.4609375,5,1,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,89, aged ,2539,359698,627,359,348.375,620.53125,368.875,665.578125,7,6,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,2588,359747,818,384,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,2639,359797,880,387,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,2688,359847,879,387,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,2739,359897,846,389,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,2789,359947,846,389,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,2838,359997,846,389,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,2889,360048,846,389,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,2939,360097,846,389,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,2988,360147,846,389,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,3039,360197,846,389,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,3089,360248,846,389,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,3138,360297,846,389,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,3189,360347,846,389,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,3240,360398,846,389,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,3289,360447,846,389,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,3338,360497,846,389,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,3388,360547,846,389,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,4,4,5,-1,999,3438,360597,846,389,,,,,,,4.7 million children are unable to attend school,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
