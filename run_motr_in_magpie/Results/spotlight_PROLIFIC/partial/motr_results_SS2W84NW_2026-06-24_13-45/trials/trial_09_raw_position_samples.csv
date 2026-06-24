@@ -1,0 +1,166 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SS2W84NW,test,2,int,11,4,8,9,-1,999,55,393647,329,95,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,105,393698,316,83,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,155,393747,313,81,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,206,393798,313,81,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,256,393848,313,81,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,306,393898,313,82,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,356,393948,337,102,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,405,393997,362,114,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,455,394048,378,118,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,505,394097,382,118,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,1, Inky ,556,394148,384,118,108.375,385.375,128.875,423.390625,1,1,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,1, Inky ,606,394198,393,117,108.375,385.375,128.875,423.390625,1,1,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,1, Inky ,656,394248,419,117,108.375,385.375,128.875,423.390625,1,1,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,2, was ,705,394297,458,119,108.375,423.390625,128.875,460.40625,1,2,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,3, brought ,755,394347,504,127,108.375,460.40625,128.875,526.4609375,1,3,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,5, the ,806,394398,549,133,108.375,546.4765625,128.875,576.5,1,5,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,6, National ,855,394448,587,136,108.375,576.5,128.875,647.0546875,1,6,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,6, National ,906,394498,622,136,108.375,576.5,128.875,647.0546875,1,6,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,7, Aquarium ,956,394548,649,132,108.375,647.0546875,128.875,728.6015625,1,7,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,7, Aquarium ,1006,394598,675,129,108.375,647.0546875,128.875,728.6015625,1,7,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,7, Aquarium ,1055,394647,711,127,108.375,647.0546875,128.875,728.6015625,1,7,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,8, several ,1106,394698,746,127,108.375,728.6015625,128.875,791.6328125,1,8,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,8, several ,1155,394747,789,130,108.375,728.6015625,128.875,791.6328125,1,8,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,10, ago ,1205,394798,842,132,108.375,840.65625,128.875,875.6953125,1,10,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,11, by ,1256,394848,891,134,108.375,875.6953125,128.875,899.7109375,1,11,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,13, local ,1306,394898,931,137,108.375,914.7265625,128.875,956.75,1,13,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,28, very ,1356,394948,954,140,148.375,924.7265625,168.875,963.734375,2,14,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,29, short ,1406,394998,966,140,148.375,963.734375,168.875,1008.7578125,2,15,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,29, short ,1456,395048,970,141,148.375,963.734375,168.875,1008.7578125,2,15,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,29, short ,1506,395098,971,142,148.375,963.734375,168.875,1008.7578125,2,15,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,29, short ,1557,395149,973,148,148.375,963.734375,168.875,1008.7578125,2,15,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,29, short ,1606,395198,977,160,148.375,963.734375,168.875,1008.7578125,2,15,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,29, short ,1655,395247,977,167,148.375,963.734375,168.875,1008.7578125,2,15,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,29, short ,1706,395298,969,172,148.375,963.734375,168.875,1008.7578125,2,15,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,28, very ,1756,395349,948,173,148.375,924.7265625,168.875,963.734375,2,14,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,27, with ,1806,395398,896,166,148.375,887.7109375,168.875,924.7265625,2,13,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,26," looking”, ",1856,395448,838,161,148.375,814.671875,168.875,887.7109375,2,12,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,25, “rough ,1905,395497,793,163,148.375,757.6328125,168.875,814.671875,2,11,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,24, was ,1956,395548,756,164,148.375,720.6171875,168.875,757.6328125,2,10,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,23, He ,2006,395598,712,167,148.375,692.6015625,168.875,720.6171875,2,9,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,22, pot. ,2056,395648,664,169,148.375,657.5703125,168.875,692.6015625,2,8,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,20, a ,2105,395697,595,169,148.375,585.515625,168.875,600.53125,2,6,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,18, caught ,2155,395747,528,167,148.375,507.453125,168.875,566.5,2,4,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,17, him ,2206,395798,481,165,148.375,473.4453125,168.875,507.453125,2,3,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,16, found ,2256,395848,443,165,148.375,423.3984375,168.875,473.4453125,2,2,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,15, who ,2305,395898,415,167,148.375,385.375,168.875,423.3984375,2,1,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,15, who ,2356,395948,400,172,148.375,385.375,168.875,423.3984375,2,1,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,31, said ,2405,395997,396,179,188.375,385.375,208.875,423.2421875,3,1,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,31, said ,2456,396048,400,203,188.375,385.375,208.875,423.2421875,3,1,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,49, best ,2505,396097,421,228,228.375,385.375,248.875,424.3984375,4,1,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,50, shape.” ,2556,396148,453,235,228.375,424.3984375,248.875,488.9453125,4,2,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,51, According ,2606,396198,491,227,228.375,488.9453125,248.875,573.5,4,3,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,34, had ,2657,396249,547,209,188.375,517.78125,208.875,552.8203125,3,4,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,36, living ,2706,396298,626,199,188.375,597.8671875,208.875,643.890625,3,6,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,40, and ,2755,396347,751,199,188.375,734.9609375,208.875,770,3,10,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,42, with ,2805,396397,869,213,188.375,833.046875,208.875,870.0625,3,12,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,63, rugby ,2855,396447,950,224,228.375,915.0625,248.875,965.09375,4,15,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,64, ball ,2906,396498,998,229,228.375,965.09375,248.875,998.1171875,4,16,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,66, was ,2956,396548,1019,233,228.375,1013.1328125,248.875,1045.1484375,4,18,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,66, was ,3007,396599,1025,234,228.375,1013.1328125,248.875,1045.1484375,4,18,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,66, was ,3057,396649,1025,234,228.375,1013.1328125,248.875,1045.1484375,4,18,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,65, – ,3106,396698,1007,234,228.375,998.1171875,248.875,1013.1328125,4,17,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,63, rugby ,3156,396748,942,258,228.375,915.0625,248.875,965.09375,4,15,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,77, popular ,3205,396797,881,286,268.375,880.65625,288.875,945.7109375,5,11,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,88, smaller ,3256,396848,835,307,308.375,786.984375,328.875,850,6,10,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,87, is ,3305,396897,779,322,308.375,768.984375,328.875,786.984375,6,9,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,84," Blotchy, ",3355,396947,705,324,308.375,646.234375,328.875,713.9375,6,6,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,83," octopus, ",3406,396998,636,314,308.375,573.1875,328.875,646.234375,6,5,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,83," octopus, ",3456,397048,593,305,308.375,573.1875,328.875,646.234375,6,5,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,69, intelligent” ,3506,397099,564,291,268.375,497.4453125,288.875,584.4921875,5,3,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,69, intelligent” ,3556,397148,534,260,268.375,497.4453125,288.875,584.4921875,5,3,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,51, According ,3606,397198,522,247,228.375,488.9453125,248.875,573.5,4,3,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,51, According ,3655,397247,513,240,228.375,488.9453125,248.875,573.5,4,3,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,51, According ,3705,397297,507,239,228.375,488.9453125,248.875,573.5,4,3,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,51, According ,3755,397347,498,251,228.375,488.9453125,248.875,573.5,4,3,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,68, “unusually ,3805,397397,480,293,268.375,410.3984375,288.875,497.4453125,5,2,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,80, We ,3856,397448,463,336,308.375,431.40625,328.875,463.09375,6,2,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,95, personality.” ,3907,397499,455,359,348.375,415.3984375,368.875,516.9609375,7,2,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,95, personality.” ,3956,397548,448,371,348.375,415.3984375,368.875,516.9609375,7,2,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,95, personality.” ,4006,397598,443,377,348.375,415.3984375,368.875,516.9609375,7,2,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,110, escape ,4055,397647,437,383,388.375,385.375,408.875,448.421875,8,1,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,110, escape ,4105,397697,431,383,388.375,385.375,408.875,448.421875,8,1,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,95, personality.” ,4155,397747,423,370,348.375,415.3984375,368.875,516.9609375,7,2,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,79, here. ,4206,397798,419,328,308.375,385.375,328.875,431.40625,6,1,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,68, “unusually ,4256,397848,419,291,268.375,410.3984375,288.875,497.4453125,5,2,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,68, “unusually ,4306,397898,423,275,268.375,410.3984375,288.875,497.4453125,5,2,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,68, “unusually ,4357,397949,423,273,268.375,410.3984375,288.875,497.4453125,5,2,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,68, “unusually ,4406,397998,423,274,268.375,410.3984375,288.875,497.4453125,5,2,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,79, here. ,4457,398049,422,301,308.375,385.375,328.875,431.40625,6,1,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,95, personality.” ,4505,398098,418,369,348.375,415.3984375,368.875,516.9609375,7,2,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,125, more ,4556,398148,421,424,428.375,385.375,448.875,431.390625,9,1,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,140, replacement ,4606,398198,444,462,468.375,385.375,488.875,489.4296875,10,1,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,140, replacement ,4656,398248,486,481,468.375,385.375,488.875,489.4296875,10,1,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,142," Inky, ",4707,398299,537,478,468.375,515.4375,488.875,557.125,10,3,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,129, octopuses ,4757,398349,585,447,428.375,548.4609375,448.875,635.5234375,9,5,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,97, aquarium ,4806,398398,615,375,348.375,552.8203125,368.875,632.8671875,7,4,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,83," octopus, ",4856,398448,624,303,308.375,573.1875,328.875,646.234375,6,5,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,70, octopus. ,4905,398497,624,275,268.375,584.4921875,288.875,657.5390625,5,4,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,53," Yarrell, ",4955,398547,630,251,228.375,593.359375,248.875,653.890625,4,5,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,53," Yarrell, ",5005,398597,645,233,228.375,593.359375,248.875,653.890625,4,5,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,54, Inky ,5056,398648,684,230,228.375,653.890625,248.875,691.90625,4,6,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,73, very ,5105,398697,743,264,268.375,728.5625,288.875,767.5703125,5,7,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,88, smaller ,5156,398748,791,307,308.375,786.984375,328.875,850,6,10,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,104, security ,5206,398798,825,345,348.375,824.015625,368.875,891.0390625,7,11,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,120, the ,5256,398848,853,380,388.375,847.7109375,408.875,877.734375,8,11,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,120, the ,5305,398897,873,406,388.375,847.7109375,408.875,877.734375,8,11,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,135, is ,5355,398947,892,424,428.375,890.71875,448.875,908.71875,9,11,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,136, not ,5406,398998,911,429,428.375,908.71875,448.875,938.7421875,9,12,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,122, are ,5456,399048,938,417,388.375,916.4375,408.875,947.4609375,8,13,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,123, “more ,5506,399099,963,382,388.375,947.4609375,408.875,999.46875,8,14,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,107, result ,5556,399148,972,346,348.375,930.0703125,368.875,979.09375,7,14,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,92, Inky ,5606,399198,965,308,308.375,963.09375,328.875,1001.109375,6,14,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,77, popular ,5656,399248,931,285,268.375,880.65625,288.875,945.7109375,5,11,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,76, a ,5705,399298,868,291,268.375,865.640625,288.875,880.65625,5,10,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,88, smaller ,5755,399347,793,331,308.375,786.984375,328.875,850,6,10,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,117, happen ,5806,399398,742,382,388.375,691.5703125,408.875,756.640625,8,8,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,132, Although ,5856,399448,719,438,428.375,705.078125,448.875,780.6484375,9,8,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,146, brought ,5906,399498,701,481,468.375,670.1875,488.875,736.2421875,10,7,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,5956,399548,680,503,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,6005,399597,657,514,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,6056,399648,571,506,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,111, because ,6106,399698,515,415,388.375,448.421875,408.875,521.4765625,8,2,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,82, another ,6156,399748,521,337,308.375,507.1328125,328.875,573.1875,6,4,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,69, intelligent” ,6205,399797,563,290,268.375,497.4453125,288.875,584.4921875,5,3,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,70, octopus. ,6255,399847,638,276,268.375,584.4921875,288.875,657.5390625,5,4,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,85, but ,6306,399898,740,300,308.375,713.9375,328.875,743.9609375,6,7,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,104, security ,6358,399950,840,354,348.375,824.015625,368.875,891.0390625,7,11,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,121, staff ,6405,399997,899,405,388.375,877.734375,408.875,916.4375,8,12,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,136, not ,6456,400048,931,443,428.375,908.71875,448.875,938.7421875,9,12,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,151, might ,6505,400097,956,471,468.375,908.3671875,488.875,957.390625,10,12,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,152, accept ,6556,400148,986,487,468.375,957.390625,488.875,1015.4296875,10,13,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,152, accept ,6606,400198,1015,479,468.375,957.390625,488.875,1015.4296875,10,13,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,139, a ,6656,400248,1029,438,428.375,1026.796875,448.875,1036.8125,9,15,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,124, and ,6705,400297,1026,411,388.375,999.46875,408.875,1029.5078125,8,15,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,107, result ,6756,400348,977,378,348.375,930.0703125,368.875,979.09375,7,14,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,104, security ,6806,400398,890,355,348.375,824.015625,368.875,891.0390625,7,11,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,104, security ,6856,400448,838,353,348.375,824.015625,368.875,891.0390625,7,11,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,118, again. ,6906,400498,794,384,388.375,756.640625,408.875,810.6875,8,9,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,118, again. ,6955,400547,761,418,388.375,756.640625,408.875,810.6875,8,9,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,132, Although ,7006,400598,733,450,428.375,705.078125,448.875,780.6484375,9,8,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,146, brought ,7056,400648,697,478,468.375,670.1875,488.875,736.2421875,10,7,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,7105,400697,640,504,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,7155,400747,584,510,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,7205,400797,536,502,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,128, what ,7256,400848,516,444,428.375,505.4375,448.875,548.4609375,9,4,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,82, another ,7306,400898,527,322,308.375,507.1328125,328.875,573.1875,6,4,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,35, been ,7356,400948,571,206,188.375,552.8203125,208.875,597.8671875,3,5,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,6, National ,7405,400997,612,128,108.375,576.5,128.875,647.0546875,1,6,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,6, National ,7456,401048,633,113,108.375,576.5,128.875,647.0546875,1,6,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,7, Aquarium ,7505,401097,668,133,108.375,647.0546875,128.875,728.6015625,1,7,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,39, reef ,7556,401148,717,217,188.375,698.9375,208.875,734.9609375,3,9,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,101, to ,7606,401198,747,357,348.375,739.953125,368.875,759.96875,7,8,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,147, in ,7657,401249,748,493,468.375,736.2421875,488.875,755.2578125,10,8,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,7706,401298,748,493,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,7755,401347,748,493,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,7805,401397,748,493,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,7856,401448,748,493,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,7906,401498,748,493,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,7955,401547,748,493,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,8005,401597,748,493,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,8056,401648,748,493,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,8105,401698,748,493,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,8155,401747,748,493,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,8205,401797,748,493,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,11,4,8,9,-1,999,8256,401848,748,493,,,,,,,He was friendly and popular,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
