@@ -5,6 +5,7 @@ import {
   buildInterestAreaReport,
   buildRawPositionReport,
   buildRawTrialDataCsv,
+  buildRawTrialDataCsvForCheckpoint,
   enrichExpDataWithSonaId,
   generateUniqueAlphanumericId,
   localDateString,
@@ -230,7 +231,7 @@ export async function uploadReadingTrialCheckpoint(vm, trial, trialIndex, studyC
     expData,
     sessionTimes
   );
-  const rawCsv = buildRawTrialDataCsv(trialRows, expData);
+  const rawCsv = buildRawTrialDataCsvForCheckpoint(trialRows, context.allRows, expData);
   const manifest = buildCheckpointManifest(session, { ...context, sonaId });
   const checkpointFiles = [
     { name: `trials/trial_${trialNum}_fixation.csv`, content: fixationCsv },

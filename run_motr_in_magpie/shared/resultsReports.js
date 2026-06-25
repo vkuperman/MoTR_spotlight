@@ -860,6 +860,137 @@ function getResultsFolderName(participantId) {
   return `motr_results_${id}_${datePart}`;
 }
 
+const SESSION_RAW_METADATA_PREFIXES = ['demo_', 'glb_'];
+const SESSION_RAW_METADATA_KEYS = new Set([
+  'ProlificId',
+  'ProlificID',
+  'ParticipantId',
+  'SubjectId',
+  'SubjectID',
+  'SONAId',
+  'SonaId',
+  'study_key',
+  'experiment_start_time',
+  'experiment_end_time',
+  'experiment_duration',
+  'experiment_start_date',
+  'experiment_end_date',
+  'device',
+  'hand',
+  'cambridge_score',
+  'cambridge_max',
+  'cambridge_cefr',
+  'onestop_level_pair',
+  'onestop_level_block_order',
+  'onestop_level_assignment_rule',
+  'onestop_reading_article_count',
+  'onestop_reading_trial_count',
+  'onestop_article_selection_mode',
+  'onestop_manual_article_numbers',
+]);
+
+const RAW_TRIAL_LOCAL_KEYS = new Set([
+  'ItemId',
+  'item_id',
+  'presentation_order',
+  'Index',
+  'Word',
+  'mousePositionX',
+  'mousePositionY',
+  'sampleTimeMs',
+  'revealMode',
+  'clickDurationMs',
+  'hoverDurationMs',
+  'relativeXInWord',
+  'relativeYInWord',
+  'totalWordsInItem',
+  'allWords',
+  'wordPositionTop',
+  'wordPositionLeft',
+  'wordPositionBottom',
+  'wordPositionRight',
+  'line_number',
+  'position_in_line',
+  'response',
+  'response_correct',
+  'recordType',
+  'onestop_level',
+  'onestop_article_number',
+  'onestop_paragraph_number',
+  'onestop_block_level',
+  'onestop_paragraph_index',
+  'cambridge_item',
+  'cambridge_selected',
+  'cambridge_correct_answer',
+  'cambridge_item_correct',
+  'source',
+  'responseTime',
+]);
+
+function isSessionMetadataKey(key) {
+  if (!key) return false;
+  if (SESSION_RAW_METADATA_KEYS.has(key)) return true;
+  return SESSION_RAW_METADATA_PREFIXES.some((prefix) => key.startsWith(prefix));
+}
+
+function copySessionMetadataValue(target, key, value) {
+  if (!isSessionMetadataKey(key)) return;
+  if (value == null || value === '') return;
+  if (target[key] == null || target[key] === '') target[key] = value;
+}
+
+/** Session-level fields for partial checkpoint raw.csv (Prolific ID, demographics, Cambridge summary). */
+function collectSessionMetadataForRawExport(allRows, expData) {
+  const meta = {};
+  const exp = expData && typeof expData === 'object' ? expData : {};
+  for (const key of Object.keys(exp)) {
+    copySessionMetadataValue(meta, key, exp[key]);
+  }
+
+  for (const row of allRows || []) {
+    if (!row || typeof row !== 'object') continue;
+    if (row.source === 'demographics_onestop') {
+      for (const key of Object.keys(row)) {
+        if (key.startsWith('demo_')) copySessionMetadataValue(meta, key, row[key]);
+      }
+    }
+    if (row.source === 'cambridge_general_english_summary') {
+      for (const key of Object.keys(row)) {
+        copySessionMetadataValue(meta, key, row[key]);
+      }
+    }
+    if (row.source === 'welcome') {
+      for (const key of ['ProlificId', 'ProlificID', 'SubjectId', 'SubjectID', 'SONAId', 'SonaId', 'study_key']) {
+        copySessionMetadataValue(meta, key, row[key]);
+      }
+    }
+    for (const key of ['ProlificId', 'ProlificID', 'ParticipantId', 'SubjectId', 'SubjectID', 'SONAId', 'SonaId']) {
+      copySessionMetadataValue(meta, key, row[key]);
+    }
+  }
+  return meta;
+}
+
+function stampSessionMetadataOnRawRows(rows, sessionMetadata) {
+  if (!sessionMetadata || !Object.keys(sessionMetadata).length) return rows;
+  return (rows || []).map((row) => {
+    if (!row || typeof row !== 'object') return row;
+    const out = { ...row };
+    for (const [key, value] of Object.entries(sessionMetadata)) {
+      if (RAW_TRIAL_LOCAL_KEYS.has(key)) continue;
+      if (out[key] == null || out[key] === '') out[key] = value;
+    }
+    return out;
+  });
+}
+
+/** Partial-upload raw.csv: stamp session metadata onto per-trial rows without changing complete export. */
+function buildRawTrialDataCsvForCheckpoint(trialRows, allRows, expData) {
+  const sessionMetadata = collectSessionMetadataForRawExport(allRows, expData);
+  const stampedRows = stampSessionMetadataOnRawRows(trialRows, sessionMetadata);
+  return buildRawTrialDataCsv(stampedRows, expData);
+}
+
 function buildRawTrialDataCsv(allRows, expData) {
   if (!Array.isArray(allRows) || allRows.length === 0) return '';
   const excludeKeys = new Set(['allWords']);
@@ -908,6 +1039,7 @@ export {
   buildInterestAreaReport,
   buildRawPositionReport,
   buildRawTrialDataCsv,
+  buildRawTrialDataCsvForCheckpoint,
   getResultsFolderName,
   localDateString,
   localTimeString,
