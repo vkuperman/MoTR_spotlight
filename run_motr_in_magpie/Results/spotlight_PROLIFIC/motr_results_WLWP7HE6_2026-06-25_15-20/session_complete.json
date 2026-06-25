@@ -2,7 +2,7 @@
   "sessionId": "WLWP7HE6_1782422445764_5GNP94PZ",
   "participantId": "WLWP7HE6",
   "folderName": "motr_results_WLWP7HE6_2026-06-25_15-20",
-  "completedAt": "2026-06-25T22:18:44.944Z",
+  "completedAt": "2026-06-25T22:19:06.711Z",
   "trialsCompleted": [
     0,
     1,
@@ -43,5 +43,5 @@
     36,
     37
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
