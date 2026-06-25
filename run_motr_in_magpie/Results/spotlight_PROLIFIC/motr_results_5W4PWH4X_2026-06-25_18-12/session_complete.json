@@ -2,7 +2,7 @@
   "sessionId": "5W4PWH4X_1782425526799_DENYERE6",
   "participantId": "5W4PWH4X",
   "folderName": "motr_results_5W4PWH4X_2026-06-25_18-12",
-  "completedAt": "2026-06-25T22:57:40.868Z",
+  "completedAt": "2026-06-25T22:57:57.375Z",
   "trialsCompleted": [
     0,
     1,
@@ -35,5 +35,5 @@
     28,
     29
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
