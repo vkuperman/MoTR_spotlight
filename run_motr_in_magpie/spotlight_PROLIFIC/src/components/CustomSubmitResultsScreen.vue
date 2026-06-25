@@ -45,7 +45,7 @@ export default {
   name: 'CustomSubmitResultsScreen',
   computed: {
     completionUrl() {
-      return this.$magpie.completionUrl || 'https://app.prolific.com/submissions/complete?cc=C12L4S1L';
+      return this.$magpie.completionUrl || 'https://app.prolific.com/submissions/complete?cc=CYEW5RDZ';
     },
   },
   data() {
