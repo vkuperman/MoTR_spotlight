@@ -1,0 +1,264 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,66,2038286,318,108,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,116,2038336,341,110,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,171,2038392,350,113,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,216,2038436,355,113,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,272,2038493,379,105,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,1, Over ,322,2038542,424,103,107.875,385.375,128.875,429.390625,1,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,4, 30 ,373,2038593,514,121,107.875,498.453125,128.875,523.484375,1,4,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,18, people ,422,2038642,586,159,147.875,537.5,168.875,596.5625,2,4,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,32," land, ",473,2038693,619,181,187.875,578.5,208.875,622.546875,3,4,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,33," water, ",521,2038742,630,185,187.875,622.546875,208.875,675.59375,3,5,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,33," water, ",567,2038787,638,184,187.875,622.546875,208.875,675.59375,3,5,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,21, get ,621,2038841,674,171,147.875,651.625,168.875,681.65625,2,7,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,22, enough ,672,2038893,710,165,147.875,681.65625,168.875,746.734375,2,8,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,22, enough ,719,2038939,732,164,147.875,681.65625,168.875,746.734375,2,8,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,23, food. ,767,2038987,779,158,147.875,746.734375,168.875,791.625,2,9,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,24, The ,817,2039037,802,152,147.875,791.625,168.875,827.484375,2,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,24, The ,866,2039086,806,151,147.875,791.625,168.875,827.484375,2,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,24, The ,917,2039137,806,151,147.875,791.625,168.875,827.484375,2,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,24, The ,968,2039188,806,151,147.875,791.625,168.875,827.484375,2,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,24, The ,1017,2039237,806,151,147.875,791.625,168.875,827.484375,2,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,24, The ,1067,2039287,806,151,147.875,791.625,168.875,827.484375,2,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,24, The ,1118,2039338,806,151,147.875,791.625,168.875,827.484375,2,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,10, will ,1170,2039390,836,125,107.875,822.40625,128.875,852.40625,1,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,11, increase ,1221,2039441,879,114,107.875,852.40625,128.875,925.453125,1,11,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,11, increase ,1267,2039487,900,115,107.875,852.40625,128.875,925.453125,1,11,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,11, increase ,1321,2039541,924,122,107.875,852.40625,128.875,925.453125,1,11,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,12, to ,1370,2039590,938,124,107.875,925.453125,128.875,945.46875,1,12,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,12, to ,1420,2039640,945,124,107.875,925.453125,128.875,945.46875,1,12,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,13, nine ,1471,2039691,956,122,107.875,945.46875,128.875,984.515625,1,13,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,13, nine ,1517,2039737,968,117,107.875,945.46875,128.875,984.515625,1,13,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,14, billion. ,1571,2039791,986,112,107.875,984.515625,128.875,1035.546875,1,14,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,14, billion. ,1620,2039840,991,112,107.875,984.515625,128.875,1035.546875,1,14,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,14, billion. ,1666,2039886,991,112,107.875,984.515625,128.875,1035.546875,1,14,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,14, billion. ,1718,2039938,988,113,107.875,984.515625,128.875,1035.546875,1,14,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,10, will ,1771,2039992,830,119,107.875,822.40625,128.875,852.40625,1,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,5," years, ",1821,2040041,560,119,107.875,523.484375,128.875,577.515625,1,5,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,2, the ,1870,2040090,459,114,107.875,429.390625,128.875,459.421875,1,2,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,2, the ,1917,2040138,432,114,107.875,429.390625,128.875,459.421875,1,2,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,1, Over ,1967,2040187,418,119,107.875,385.375,128.875,429.390625,1,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,1, Over ,2017,2040237,409,127,107.875,385.375,128.875,429.390625,1,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,15, Already ,2070,2040290,405,145,147.875,385.375,168.875,451.421875,2,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,15, Already ,2117,2040337,405,152,147.875,385.375,168.875,451.421875,2,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,15, Already ,2167,2040387,413,156,147.875,385.375,168.875,451.421875,2,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,15, Already ,2222,2040442,450,149,147.875,385.375,168.875,451.421875,2,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,16, one ,2267,2040487,479,142,147.875,451.421875,168.875,486.46875,2,2,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,4, 30 ,2317,2040537,511,137,107.875,498.453125,128.875,523.484375,1,4,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,5," years, ",2367,2040587,543,135,107.875,523.484375,128.875,577.515625,1,5,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,6, the ,2420,2040640,588,135,107.875,577.515625,128.875,607.546875,1,6,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,21, get ,2470,2040690,667,148,147.875,651.625,168.875,681.65625,2,7,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,22, enough ,2516,2040736,709,150,147.875,681.65625,168.875,746.734375,2,8,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,23, food. ,2568,2040788,774,150,147.875,746.734375,168.875,791.625,2,9,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,24, The ,2619,2040839,816,153,147.875,791.625,168.875,827.484375,2,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,24, The ,2667,2040887,818,153,147.875,791.625,168.875,827.484375,2,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,24, The ,2717,2040937,818,153,147.875,791.625,168.875,827.484375,2,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,24, The ,2767,2040988,818,153,147.875,791.625,168.875,827.484375,2,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,24, The ,2817,2041037,818,153,147.875,791.625,168.875,827.484375,2,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,24, The ,2867,2041087,818,153,147.875,791.625,168.875,827.484375,2,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,24, The ,2917,2041138,819,153,147.875,791.625,168.875,827.484375,2,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,25, increase ,2974,2041194,858,151,147.875,827.484375,168.875,900.53125,2,11,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,25, increase ,3017,2041237,900,150,147.875,827.484375,168.875,900.53125,2,11,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,27, put ,3067,2041287,958,155,147.875,930.53125,168.875,960.5625,2,13,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,28, more ,3117,2041337,979,158,147.875,960.5625,168.875,1001.578125,2,14,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,28, more ,3167,2041387,986,158,147.875,960.5625,168.875,1001.578125,2,14,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,28, more ,3218,2041438,987,158,147.875,960.5625,168.875,1001.578125,2,14,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,28, more ,3267,2041487,983,159,147.875,960.5625,168.875,1001.578125,2,14,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,26, will ,3317,2041537,908,159,147.875,900.53125,168.875,930.53125,2,12,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,22, enough ,3367,2041587,733,149,147.875,681.65625,168.875,746.734375,2,8,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,4, 30 ,3423,2041643,507,129,107.875,498.453125,128.875,523.484375,1,4,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,2, the ,3467,2041687,453,130,107.875,429.390625,128.875,459.421875,1,2,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,15, Already ,3521,2041741,419,151,147.875,385.375,168.875,451.421875,2,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,15, Already ,3567,2041787,412,162,147.875,385.375,168.875,451.421875,2,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,15, Already ,3617,2041837,407,175,147.875,385.375,168.875,451.421875,2,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,29, pressure ,3669,2041889,407,188,187.875,385.375,208.875,460.421875,3,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,29, pressure ,3719,2041939,407,191,187.875,385.375,208.875,460.421875,3,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,29, pressure ,3767,2041987,409,191,187.875,385.375,208.875,460.421875,3,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,29, pressure ,3822,2042042,442,191,187.875,385.375,208.875,460.421875,3,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,31, agricultural ,3877,2042097,497,189,187.875,485.453125,208.875,578.5,3,3,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,31, agricultural ,3920,2042140,574,188,187.875,485.453125,208.875,578.5,3,3,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,33," water, ",3967,2042187,628,187,187.875,622.546875,208.875,675.59375,3,5,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,34," forests, ",4018,2042238,693,183,187.875,675.59375,208.875,739.625,3,6,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,35, fisheries ,4067,2042287,744,180,187.875,739.625,208.875,811.65625,3,7,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,35, fisheries ,4117,2042337,778,180,187.875,739.625,208.875,811.65625,3,7,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,35, fisheries ,4167,2042387,803,180,187.875,739.625,208.875,811.65625,3,7,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,36, and ,4222,2042442,838,186,187.875,811.65625,208.875,846.703125,3,8,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,37," resources, ",4267,2042487,854,189,187.875,846.703125,208.875,935.75,3,9,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,37," resources, ",4318,2042538,863,190,187.875,846.703125,208.875,935.75,3,9,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,37," resources, ",4367,2042587,863,190,187.875,846.703125,208.875,935.75,3,9,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,37," resources, ",4418,2042638,863,190,187.875,846.703125,208.875,935.75,3,9,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,37," resources, ",4467,2042687,863,190,187.875,846.703125,208.875,935.75,3,9,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,37," resources, ",4518,2042738,863,190,187.875,846.703125,208.875,935.75,3,9,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,37," resources, ",4568,2042787,863,190,187.875,846.703125,208.875,935.75,3,9,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,37," resources, ",4618,2042838,863,190,187.875,846.703125,208.875,935.75,3,9,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,37," resources, ",4667,2042887,851,190,187.875,846.703125,208.875,935.75,3,9,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,35, fisheries ,4720,2042940,753,186,187.875,739.625,208.875,811.65625,3,7,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,31, agricultural ,4772,2042992,498,217,187.875,485.453125,208.875,578.5,3,3,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,41, nutrients ,4822,2043042,439,234,227.875,385.375,248.875,459.421875,4,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,41, nutrients ,4868,2043088,419,244,227.875,385.375,248.875,459.421875,4,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,41, nutrients ,4920,2043140,404,251,227.875,385.375,248.875,459.421875,4,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,41, nutrients ,4967,2043187,396,253,227.875,385.375,248.875,459.421875,4,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,41, nutrients ,5017,2043237,398,252,227.875,385.375,248.875,459.421875,4,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,41, nutrients ,5068,2043288,423,247,227.875,385.375,248.875,459.421875,4,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,43, energy ,5125,2043345,504,233,227.875,494.46875,248.875,554.515625,4,3,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,44, supplies. ,5175,2043395,587,224,227.875,554.515625,248.875,630.40625,4,4,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,45, The ,5223,2043443,662,230,227.875,630.40625,248.875,666.265625,4,5,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,48, meat ,5277,2043497,728,235,227.875,724.296875,248.875,769.328125,4,8,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,50," rising, ",5326,2043546,790,239,227.875,787.328125,248.875,840.34375,4,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,51, not ,5375,2043595,845,240,227.875,840.34375,248.875,870.375,4,11,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,51, not ,5417,2043637,870,240,227.875,840.34375,248.875,870.375,4,11,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,53, in ,5469,2043689,908,240,227.875,903.390625,248.875,922.40625,4,13,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,54, terms ,5517,2043737,926,240,227.875,922.40625,248.875,972.421875,4,14,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,54, terms ,5567,2043787,930,240,227.875,922.40625,248.875,972.421875,4,14,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,54, terms ,5618,2043838,930,240,227.875,922.40625,248.875,972.421875,4,14,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,54, terms ,5667,2043887,930,240,227.875,922.40625,248.875,972.421875,4,14,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,54, terms ,5717,2043937,930,240,227.875,922.40625,248.875,972.421875,4,14,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,54, terms ,5768,2043987,930,240,227.875,922.40625,248.875,972.421875,4,14,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,54, terms ,5817,2044037,930,240,227.875,922.40625,248.875,972.421875,4,14,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,54, terms ,5866,2044086,930,240,227.875,922.40625,248.875,972.421875,4,14,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,53, in ,5917,2044137,916,238,227.875,903.390625,248.875,922.40625,4,13,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,48, meat ,5971,2044191,756,220,227.875,724.296875,248.875,769.328125,4,8,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,44, supplies. ,6023,2044243,560,236,227.875,554.515625,248.875,630.40625,4,4,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,60, terms ,6073,2044293,476,265,267.875,472.453125,288.875,522.46875,5,4,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,59, in ,6122,2044342,457,277,267.875,453.4375,288.875,472.453125,5,3,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,58, also ,6173,2044393,450,282,267.875,415.40625,288.875,453.4375,5,2,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,58, also ,6218,2044438,446,283,267.875,415.40625,288.875,453.4375,5,2,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,58, also ,6267,2044487,440,282,267.875,415.40625,288.875,453.4375,5,2,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,58, also ,6317,2044537,438,282,267.875,415.40625,288.875,453.4375,5,2,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,58, also ,6367,2044587,441,281,267.875,415.40625,288.875,453.4375,5,2,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,60, terms ,6424,2044644,497,268,267.875,472.453125,288.875,522.46875,5,4,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,62, the ,6467,2044687,543,265,267.875,542.484375,288.875,572.515625,5,6,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,63, amount ,6517,2044737,637,263,267.875,572.515625,288.875,637.5625,5,7,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,65, rainforest ,6567,2044787,716,264,267.875,657.578125,288.875,737.625,5,9,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,66, that ,6618,2044838,769,268,267.875,737.625,288.875,772.65625,5,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,68, destroyed ,6671,2044891,831,270,267.875,790.65625,288.875,874.71875,5,12,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,68, destroyed ,6720,2044940,867,269,267.875,790.65625,288.875,874.71875,5,12,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,69, for ,6773,2044993,883,267,267.875,874.71875,288.875,900.734375,5,13,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,69, for ,6818,2045038,888,267,267.875,874.71875,288.875,900.734375,5,13,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,69, for ,6868,2045088,888,267,267.875,874.71875,288.875,900.734375,5,13,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,69, for ,6918,2045137,888,267,267.875,874.71875,288.875,900.734375,5,13,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,69, for ,6968,2045188,888,267,267.875,874.71875,288.875,900.734375,5,13,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,69, for ,7017,2045237,888,267,267.875,874.71875,288.875,900.734375,5,13,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,69, for ,7067,2045287,888,267,267.875,874.71875,288.875,900.734375,5,13,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,69, for ,7117,2045337,888,267,267.875,874.71875,288.875,900.734375,5,13,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,69, for ,7169,2045389,883,267,267.875,874.71875,288.875,900.734375,5,13,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,68, destroyed ,7217,2045437,837,262,267.875,790.65625,288.875,874.71875,5,12,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,65, rainforest ,7267,2045487,685,259,267.875,657.578125,288.875,737.625,5,9,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,60, terms ,7318,2045538,518,286,267.875,472.453125,288.875,522.46875,5,4,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,75, for ,7367,2045587,440,313,307.875,425.421875,328.875,451.4375,6,2,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,74, food ,7417,2045637,415,331,307.875,385.375,328.875,425.421875,6,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,90, greenhouse ,7474,2045694,407,339,347.875,385.375,368.875,485.46875,7,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,90, greenhouse ,7517,2045737,407,339,347.875,385.375,368.875,485.46875,7,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,74, food ,7567,2045787,411,334,307.875,385.375,328.875,425.421875,6,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,75, for ,7617,2045837,426,329,307.875,425.421875,328.875,451.4375,6,2,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,76, cattle. ,7668,2045888,460,320,307.875,451.4375,328.875,504.3125,6,3,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,77, There ,7717,2045937,506,316,307.875,504.3125,328.875,556.1875,6,4,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,78, is ,7767,2045987,571,314,307.875,556.1875,328.875,574.1875,6,5,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,80, the ,7817,2046037,616,313,307.875,612.21875,328.875,642.25,6,7,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,81, issue ,7868,2046088,660,313,307.875,642.25,328.875,689.28125,6,8,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,83, methane ,7920,2046140,728,310,307.875,709.296875,328.875,784.359375,6,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,84, produced ,7967,2046187,812,302,307.875,784.359375,328.875,864.421875,6,11,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,84, produced ,8017,2046237,812,302,307.875,784.359375,328.875,864.421875,6,11,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,84, produced ,8068,2046288,812,302,307.875,784.359375,328.875,864.421875,6,11,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,84, produced ,8118,2046338,812,302,307.875,784.359375,328.875,864.421875,6,11,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,84, produced ,8168,2046388,812,302,307.875,784.359375,328.875,864.421875,6,11,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,84, produced ,8217,2046437,813,302,307.875,784.359375,328.875,864.421875,6,11,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,84, produced ,8269,2046488,836,301,307.875,784.359375,328.875,864.421875,6,11,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,70, fields ,8322,2046542,941,297,267.875,900.734375,288.875,947.765625,5,14,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,72, to ,8368,2046587,986,297,267.875,968.78125,288.875,988.796875,5,16,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,89, of ,8417,2046637,1016,301,307.875,1009.484375,328.875,1024.5,6,16,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,8467,2046687,1030,303,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,8517,2046737,1032,304,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,89, of ,8567,2046787,1017,305,307.875,1009.484375,328.875,1024.5,6,16,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,85, by ,8618,2046838,885,299,307.875,864.421875,328.875,888.4375,6,12,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,65, rainforest ,8667,2046887,709,297,267.875,657.578125,288.875,737.625,5,9,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,62, the ,8718,2046937,566,297,267.875,542.484375,288.875,572.515625,5,6,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,60, terms ,8767,2046987,484,292,267.875,472.453125,288.875,522.46875,5,4,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,58, also ,8818,2047038,453,295,267.875,415.40625,288.875,453.4375,5,2,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,75, for ,8868,2047088,446,304,307.875,425.421875,328.875,451.4375,6,2,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,75, for ,8918,2047138,443,318,307.875,425.421875,328.875,451.4375,6,2,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,75, for ,8968,2047188,439,338,307.875,425.421875,328.875,451.4375,6,2,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,90, greenhouse ,9017,2047237,434,348,347.875,385.375,368.875,485.46875,7,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,90, greenhouse ,9073,2047293,425,356,347.875,385.375,368.875,485.46875,7,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,90, greenhouse ,9122,2047341,423,357,347.875,385.375,368.875,485.46875,7,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,90, greenhouse ,9170,2047390,423,359,347.875,385.375,368.875,485.46875,7,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,90, greenhouse ,9222,2047442,436,362,347.875,385.375,368.875,485.46875,7,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,90, greenhouse ,9268,2047487,455,362,347.875,385.375,368.875,485.46875,7,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,91, gas ,9317,2047537,504,362,347.875,485.46875,368.875,519.5,7,2,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,92," emissions, ",9367,2047587,573,356,347.875,519.5,368.875,609.53125,7,3,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,94, contribution ,9419,2047639,685,354,347.875,639.5625,368.875,737.625,7,5,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,96, livestock ,9467,2047687,779,354,347.875,761.640625,368.875,835.671875,7,7,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,97, farming ,9519,2047739,873,347,347.875,835.671875,368.875,900.703125,7,8,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,99, enormous ,9573,2047793,967,344,347.875,918.703125,368.875,1003.75,7,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,99, enormous ,9624,2047843,990,342,347.875,918.703125,368.875,1003.75,7,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,99, enormous ,9667,2047887,991,342,347.875,918.703125,368.875,1003.75,7,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,99, enormous ,9719,2047939,968,344,347.875,918.703125,368.875,1003.75,7,10,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,84, produced ,9767,2047987,838,324,307.875,784.359375,328.875,864.421875,6,11,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,79, also ,9818,2048037,606,309,307.875,574.1875,328.875,612.21875,6,6,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,74, food ,9874,2048094,396,332,307.875,385.375,328.875,425.421875,6,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,9922,2048142,365,349,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,9967,2048187,360,356,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,10017,2048236,358,365,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,10066,2048286,358,374,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,10117,2048337,362,382,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,10167,2048387,380,390,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,101, 35% ,10224,2048444,421,395,387.875,385.375,408.875,426.40625,8,1,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,103, the ,10268,2048487,450,395,387.875,446.421875,408.875,476.453125,8,3,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,104, planet’s ,10317,2048537,503,395,387.875,476.453125,408.875,543.1875,8,4,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,105," methane, ",10369,2048588,601,393,387.875,543.1875,408.875,623.25,8,5,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,94, contribution ,10417,2048637,721,376,347.875,639.5625,368.875,737.625,7,5,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,97, farming ,10468,2048687,837,370,347.875,835.671875,368.875,900.703125,7,8,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,97, farming ,10517,2048737,884,370,347.875,835.671875,368.875,900.703125,7,8,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,97, farming ,10568,2048787,884,370,347.875,835.671875,368.875,900.703125,7,8,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,97, farming ,10618,2048838,884,370,347.875,835.671875,368.875,900.703125,7,8,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,97, farming ,10668,2048888,884,370,347.875,835.671875,368.875,900.703125,7,8,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,97, farming ,10717,2048937,884,370,347.875,835.671875,368.875,900.703125,7,8,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,97, farming ,10768,2048988,884,370,347.875,835.671875,368.875,900.703125,7,8,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,112, 9% ,10820,2049039,880,392,387.875,849.4375,408.875,880.46875,8,12,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,112, 9% ,10868,2049087,880,406,387.875,849.4375,408.875,880.46875,8,12,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,10917,2049136,903,425,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,10967,2049187,967,435,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,11017,2049237,1014,432,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,11067,2049287,1026,426,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,11117,2049337,1028,421,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,11167,2049387,1029,420,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,11216,2049436,982,420,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,111, and ,11268,2049488,840,416,387.875,814.390625,408.875,849.4375,8,11,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,11317,2049537,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,11367,2049586,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,11417,2049637,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,11467,2049687,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,11517,2049737,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,11566,2049786,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,11617,2049837,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,11667,2049887,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,11717,2049937,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,11767,2049987,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,11817,2050037,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,11867,2050087,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,11917,2050137,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,11967,2050187,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12017,2050237,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12067,2050287,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12118,2050338,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12166,2050386,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12217,2050437,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12268,2050488,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12317,2050537,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12367,2050587,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12417,2050636,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12467,2050687,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12517,2050737,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12567,2050786,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12617,2050837,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12667,2050887,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12718,2050937,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12768,2050988,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12817,2051037,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12867,2051087,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12917,2051137,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,12967,2051187,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,13017,2051237,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,13067,2051286,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,13117,2051337,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,12,3,10,11,-1,999,13167,2051387,777,433,,,,,,,Meat transportation,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
