@@ -1,0 +1,165 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,62,2108187,341,93,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,111,2108236,335,97,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,162,2108287,330,99,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,212,2108337,326,99,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,261,2108386,325,99,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,312,2108437,329,99,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,361,2108486,365,97,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,2, Cockrell ,412,2108537,433,116,107.875,426.390625,128.875,496.40625,1,2,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,3, is ,462,2108587,513,134,107.875,496.40625,128.875,514.40625,1,3,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,21, International ,512,2108637,563,141,147.875,560.515625,168.875,664.59375,2,5,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,21, International ,562,2108687,597,141,147.875,560.515625,168.875,664.59375,2,5,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,21, International ,613,2108738,626,140,147.875,560.515625,168.875,664.59375,2,5,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,8, across ,662,2108787,681,136,107.875,661.5,128.875,719.53125,1,8,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,10, street ,711,2108837,761,125,107.875,749.5625,128.875,799.59375,1,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,11, from ,763,2108888,838,115,107.875,799.59375,128.875,840.609375,1,11,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,13, Central ,812,2108937,909,132,107.875,855.625,128.875,918.65625,1,13,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,29, tower ,863,2108988,938,145,147.875,914.46875,168.875,963.5,2,13,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,29, tower ,912,2109037,951,147,147.875,914.46875,168.875,963.5,2,13,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,30, is ,962,2109087,965,147,147.875,963.5,168.875,981.5,2,14,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,31, Central ,1012,2109137,990,147,147.875,981.5,168.875,1039.53125,2,15,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,31, Central ,1063,2109188,1012,144,147.875,981.5,168.875,1039.53125,2,15,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,31, Central ,1112,2109237,1023,141,147.875,981.5,168.875,1039.53125,2,15,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,31, Central ,1162,2109287,1026,140,147.875,981.5,168.875,1039.53125,2,15,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,31, Central ,1213,2109338,1019,140,147.875,981.5,168.875,1039.53125,2,15,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,29, tower ,1261,2109387,928,146,147.875,914.46875,168.875,963.5,2,13,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,23, and ,1312,2109437,735,149,147.875,711.625,168.875,746.5,2,7,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,2, Cockrell ,1361,2109487,481,134,107.875,426.390625,128.875,496.40625,1,2,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,1412,2109537,301,128,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,1461,2109586,301,128,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,1511,2109637,301,128,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,1561,2109687,301,128,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,1612,2109737,301,128,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,1661,2109786,324,139,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,17, address ,1712,2109837,399,139,147.875,385.375,168.875,454.421875,2,1,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,17, address ,1762,2109887,446,139,147.875,385.375,168.875,454.421875,2,1,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,18, of ,1812,2109937,466,140,147.875,454.421875,168.875,474.4375,2,2,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,19, the ,1863,2109988,480,143,147.875,474.4375,168.875,504.3125,2,3,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,19, the ,1912,2110037,502,152,147.875,474.4375,168.875,504.3125,2,3,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,20, Trump ,1962,2110087,531,162,147.875,504.3125,168.875,560.515625,2,4,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,20, Trump ,2012,2110137,558,166,147.875,504.3125,168.875,560.515625,2,4,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,21, International ,2062,2110187,572,166,147.875,560.515625,168.875,664.59375,2,5,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,21, International ,2113,2110238,572,166,147.875,560.515625,168.875,664.59375,2,5,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,21, International ,2161,2110286,572,166,147.875,560.515625,168.875,664.59375,2,5,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,21, International ,2212,2110337,572,166,147.875,560.515625,168.875,664.59375,2,5,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,21, International ,2263,2110388,572,166,147.875,560.515625,168.875,664.59375,2,5,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,21, International ,2311,2110437,572,166,147.875,560.515625,168.875,664.59375,2,5,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,21, International ,2363,2110488,596,156,147.875,560.515625,168.875,664.59375,2,5,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,22, Hotel ,2412,2110537,686,147,147.875,664.59375,168.875,711.625,2,6,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,24, Tower. ,2461,2110586,767,152,147.875,746.5,168.875,803.375,2,8,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,25, In ,2512,2110637,809,162,147.875,803.375,168.875,823.390625,2,9,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,25, In ,2562,2110687,821,165,147.875,803.375,168.875,823.390625,2,9,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,26, front ,2612,2110737,831,164,147.875,823.390625,168.875,864.421875,2,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,26, front ,2662,2110787,854,160,147.875,823.390625,168.875,864.421875,2,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,28, the ,2711,2110836,897,157,147.875,884.4375,168.875,914.46875,2,12,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,29, tower ,2761,2110886,944,157,147.875,914.46875,168.875,963.5,2,13,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,30, is ,2811,2110936,974,160,147.875,963.5,168.875,981.5,2,14,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,31, Central ,2862,2110987,999,160,147.875,981.5,168.875,1039.53125,2,15,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,31, Central ,2911,2111036,1014,160,147.875,981.5,168.875,1039.53125,2,15,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,31, Central ,2961,2111086,1031,160,147.875,981.5,168.875,1039.53125,2,15,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,3012,2111138,1047,161,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,3062,2111187,1057,162,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,3112,2111237,1049,162,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,31, Central ,3162,2111287,1006,169,147.875,981.5,168.875,1039.53125,2,15,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,28, the ,3213,2111338,898,173,147.875,884.4375,168.875,914.46875,2,12,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,23, and ,3262,2111387,731,173,147.875,711.625,168.875,746.5,2,7,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,21, International ,3311,2111437,626,174,147.875,560.515625,168.875,664.59375,2,5,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,20, Trump ,3363,2111488,542,178,147.875,504.3125,168.875,560.515625,2,4,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,33, where ,3412,2111537,474,188,187.875,432.390625,208.875,486.421875,3,2,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,32," Park, ",3462,2111587,409,210,187.875,385.375,208.875,432.390625,3,1,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,3512,2111637,371,227,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,3561,2111686,349,237,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,3611,2111736,341,240,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,3661,2111786,340,241,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,3711,2111836,367,225,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,32," Park, ",3762,2111887,431,208,187.875,385.375,208.875,432.390625,3,1,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,34, Cockrell ,3812,2111938,489,208,187.875,486.421875,208.875,556.4375,3,3,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,34, Cockrell ,3862,2111987,518,210,187.875,486.421875,208.875,556.4375,3,3,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,34, Cockrell ,3912,2112037,525,212,187.875,486.421875,208.875,556.4375,3,3,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,34, Cockrell ,3962,2112087,541,216,187.875,486.421875,208.875,556.4375,3,3,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,48, worker ,4012,2112137,589,220,227.875,534.765625,248.875,593.78125,4,4,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,51, now ,4063,2112188,672,229,227.875,649.8125,248.875,687.84375,4,7,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,53," therapist, ",4111,2112236,780,235,227.875,702.859375,248.875,781.90625,4,9,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,54, spends ,4162,2112287,820,229,227.875,781.90625,248.875,844.953125,4,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,54, spends ,4213,2112338,820,229,227.875,781.90625,248.875,844.953125,4,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,54, spends ,4263,2112388,820,229,227.875,781.90625,248.875,844.953125,4,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,54, spends ,4312,2112437,820,229,227.875,781.90625,248.875,844.953125,4,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,54, spends ,4362,2112487,820,229,227.875,781.90625,248.875,844.953125,4,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,54, spends ,4412,2112537,820,229,227.875,781.90625,248.875,844.953125,4,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,54, spends ,4462,2112587,833,227,227.875,781.90625,248.875,844.953125,4,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,42, sessions. ,4512,2112637,912,210,187.875,871.6875,208.875,951.734375,3,11,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,43," Cockrell, ",4561,2112686,991,203,187.875,951.734375,208.875,1026.75,3,12,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,44, a ,4611,2112736,1028,203,187.875,1026.75,208.875,1036.765625,3,13,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,4661,2112786,1037,204,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,4711,2112836,1043,205,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,4761,2112887,1049,208,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,4812,2112937,1053,209,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,4863,2112988,1050,211,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,43," Cockrell, ",4911,2113036,984,217,187.875,951.734375,208.875,1026.75,3,12,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,39, and ,4962,2113087,767,213,187.875,738.578125,208.875,773.625,3,8,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,34, Cockrell ,5012,2113137,538,209,187.875,486.421875,208.875,556.4375,3,3,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,45, former ,5062,2113188,431,231,227.875,385.375,248.875,442.390625,4,1,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,45, former ,5112,2113237,404,251,227.875,385.375,248.875,442.390625,4,1,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,45, former ,5162,2113287,403,255,227.875,385.375,248.875,442.390625,4,1,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,45, former ,5211,2113336,409,256,227.875,385.375,248.875,442.390625,4,1,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,45, former ,5263,2113388,426,257,227.875,385.375,248.875,442.390625,4,1,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,46, Wall ,5312,2113437,477,252,227.875,442.390625,248.875,481.734375,4,2,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,48, worker ,5362,2113487,544,248,227.875,534.765625,248.875,593.78125,4,4,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,49, who ,5412,2113537,622,247,227.875,593.78125,248.875,631.8125,4,5,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,66, Battery ,5462,2113587,694,261,267.875,672.5625,288.875,734.59375,5,7,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,68, in ,5512,2113637,790,267,267.875,776.609375,288.875,795.625,5,9,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,69, downtown ,5562,2113687,850,266,267.875,795.625,288.875,881.6875,5,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,70, Manhattan ,5612,2113737,900,264,267.875,881.6875,288.875,971.75,5,11,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,56, parts ,5661,2113786,933,257,227.875,889.984375,248.875,935.015625,4,12,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,58, his ,5712,2113837,961,252,227.875,955.03125,248.875,983.046875,4,14,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,58, his ,5762,2113887,981,251,227.875,955.03125,248.875,983.046875,4,14,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,59, days ,5812,2113937,987,251,227.875,983.046875,248.875,1021.078125,4,15,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,59, days ,5861,2113986,988,250,227.875,983.046875,248.875,1021.078125,4,15,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,59, days ,5912,2114037,984,248,227.875,983.046875,248.875,1021.078125,4,15,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,58, his ,5962,2114087,979,247,227.875,955.03125,248.875,983.046875,4,14,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,58, his ,6012,2114137,966,246,227.875,955.03125,248.875,983.046875,4,14,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,56, parts ,6062,2114187,903,246,227.875,889.984375,248.875,935.015625,4,12,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,53," therapist, ",6112,2114237,726,246,227.875,702.859375,248.875,781.90625,4,9,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,61, through ,6162,2114287,469,261,267.875,450.40625,288.875,516.46875,5,2,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,6211,2114336,360,273,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,6261,2114386,323,277,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,6312,2114437,318,278,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,6361,2114486,318,279,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,6411,2114536,324,282,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,6461,2114586,350,284,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,60, walking ,6513,2114637,410,284,267.875,385.375,288.875,450.40625,5,1,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,61, through ,6561,2114686,476,284,267.875,450.40625,288.875,516.46875,5,2,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,62, Central ,6612,2114737,531,285,267.875,516.46875,288.875,579.5,5,3,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,62, Central ,6663,2114788,572,288,267.875,516.46875,288.875,579.5,5,3,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,64, or ,6712,2114837,628,295,267.875,621.515625,288.875,642.53125,5,5,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,66, Battery ,6762,2114886,726,297,267.875,672.5625,288.875,734.59375,5,7,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,69, downtown ,6812,2114937,818,296,267.875,795.625,288.875,881.6875,5,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,69, downtown ,6862,2114987,855,296,267.875,795.625,288.875,881.6875,5,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,69, downtown ,6912,2115037,855,296,267.875,795.625,288.875,881.6875,5,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,69, downtown ,6962,2115087,855,296,267.875,795.625,288.875,881.6875,5,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,69, downtown ,7012,2115137,855,296,267.875,795.625,288.875,881.6875,5,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,69, downtown ,7063,2115188,855,296,267.875,795.625,288.875,881.6875,5,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,69, downtown ,7113,2115238,855,296,267.875,795.625,288.875,881.6875,5,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,69, downtown ,7162,2115287,855,296,267.875,795.625,288.875,881.6875,5,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,69, downtown ,7213,2115338,855,296,267.875,795.625,288.875,881.6875,5,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,69, downtown ,7263,2115388,855,296,267.875,795.625,288.875,881.6875,5,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,69, downtown ,7312,2115437,836,295,267.875,795.625,288.875,881.6875,5,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,82, New ,7361,2115486,782,300,307.875,767.671875,328.875,808.53125,6,10,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,78, counselor ,7412,2115537,674,316,307.875,595.546875,328.875,678.609375,6,6,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,78, counselor ,7462,2115587,599,321,307.875,595.546875,328.875,678.609375,6,6,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,77, and ,7513,2115638,582,321,307.875,560.5,328.875,595.546875,6,5,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,78, counselor ,7561,2115686,603,321,307.875,595.546875,328.875,678.609375,6,6,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,78, counselor ,7612,2115737,668,321,307.875,595.546875,328.875,678.609375,6,6,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,80, some ,7662,2115787,730,333,307.875,698.625,328.875,747.65625,6,8,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,7712,2115837,749,343,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,7761,2115886,748,355,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,7811,2115936,748,355,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,7861,2115986,748,355,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,7912,2116037,748,355,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,7962,2116087,748,355,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,8012,2116137,748,355,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,8062,2116187,748,355,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,8111,2116236,748,355,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,8162,2116286,748,355,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
+BFC9MD3C,605e90cc484dafd94f25f711,2,int,27,1,12,13,-1,999,8212,2116337,748,355,,,,,,,On Wall Street,0,,,,,1970-01-01T00:00:00.031Z,,,,,,,,,spotlight-prolific
