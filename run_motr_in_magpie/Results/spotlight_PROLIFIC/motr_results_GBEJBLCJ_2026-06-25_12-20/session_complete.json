@@ -2,7 +2,7 @@
   "sessionId": "GBEJBLCJ_1782411606960_FGYS6YUV",
   "participantId": "GBEJBLCJ",
   "folderName": "motr_results_GBEJBLCJ_2026-06-25_12-20",
-  "completedAt": "2026-06-25T19:10:05.498Z",
+  "completedAt": "2026-06-25T19:10:28.310Z",
   "trialsCompleted": [
     0,
     1,
@@ -38,5 +38,5 @@
     31,
     32
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
