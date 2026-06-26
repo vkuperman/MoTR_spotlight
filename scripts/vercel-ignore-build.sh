@@ -41,7 +41,7 @@ else
   exit 1
 fi
 
-SHARED_TOUCHED=$(printf '%s\n' "$CHANGED" | grep -E '^run_motr_in_magpie/shared/|^api/|^scripts/vercel-build|^scripts/vercel-ignore-build|^vercel\.json|^vercel\.spotlight-PROLIFIC\.json' || true)
+SHARED_TOUCHED=$(printf '%s\n' "$CHANGED" | grep -E '^run_motr_in_magpie/shared/|^run_motr_in_magpie/OneStop/|^run_motr_in_magpie/build_onestop_texts_from_master\.py|^api/|^scripts/vercel-build|^scripts/vercel-ignore-build|^vercel\.json|^vercel\.spotlight-PROLIFIC\.json' || true)
 APP_TOUCHED=$(printf '%s\n' "$CHANGED" | grep "^${APP_PREFIX}/" || true)
 
 if [ -z "$SHARED_TOUCHED" ] && [ -z "$APP_TOUCHED" ]; then
