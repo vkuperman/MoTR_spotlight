@@ -1,8 +1,29 @@
-import { generateUniqueAlphanumericId, resolveSonaId } from './resultsReports';
 import { isNoUploadMode } from './previewMode';
+import {
+  buildExperimentStartExpFields,
+  generateUniqueAlphanumericId,
+  parseExperimentStartInstant,
+  resolveSonaId,
+} from './resultsReports';
 
 function padDatePart(n) {
   return String(n).padStart(2, '0');
+}
+
+function pickNonEmptyString(...values) {
+  for (const value of values) {
+    if (value != null && String(value).trim() !== '') return String(value).trim();
+  }
+  return '';
+}
+
+/** Record wall-clock experiment start when the participant opens the study link. */
+export function ensureExperimentStartRecorded(vm) {
+  if (isNoUploadMode()) return;
+  if (!vm || !vm.$magpie || !vm.$magpie.addExpData) return;
+  const expData = (vm.$magpie.getExpData && vm.$magpie.getExpData()) || {};
+  if (pickNonEmptyString(expData.experiment_start_time, expData.experimentStartTime)) return;
+  vm.$magpie.addExpData(buildExperimentStartExpFields(new Date()));
 }
 
 function buildSessionFolderName(participantId, startTime) {
@@ -39,10 +60,11 @@ export function initResultsSession(vm, studyConfig) {
   if (!vm || !vm.$root) return null;
   if (vm.$root._motrResultsSession) return vm.$root._motrResultsSession;
 
+  ensureExperimentStartRecorded(vm);
   const participantId = resolveParticipantId(vm);
   const expData = (vm.$magpie.getExpData && vm.$magpie.getExpData()) || {};
   const sonaId = resolveSonaId(vm, expData, null);
-  const startTime = new Date();
+  const startTime = parseExperimentStartInstant(expData.experiment_start_time) || new Date();
   const sessionId = `${participantId}_${startTime.getTime()}_${generateUniqueAlphanumericId()}`;
   const folderName = buildSessionFolderName(participantId, startTime);
   const session = {

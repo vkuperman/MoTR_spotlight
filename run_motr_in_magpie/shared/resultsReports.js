@@ -146,6 +146,53 @@ function localTimeString(date) {
   ].join(':');
 }
 
+/** Build experiment start fields stored in Magpie expData. */
+function buildExperimentStartExpFields(startDate) {
+  const date = localDateString(startDate);
+  const clock = localTimeString(startDate);
+  return {
+    experiment_start_time: startDate.toISOString(),
+    experiment_start_date: date,
+    experiment_date: date,
+    experiment_start_clock_time: clock,
+    experiment_start_time_local: `${date} ${clock}`,
+  };
+}
+
+/**
+ * Parse a wall-clock experiment start instant.
+ * Rejects Magpie responseTime values (ms since session start), which are far below real Unix ms.
+ */
+function parseExperimentStartInstant(value) {
+  if (value == null || value === '') return null;
+  const raw = String(value).trim();
+  if (!raw) return null;
+  if (/^\d+$/.test(raw)) {
+    const n = Number(raw);
+    if (!Number.isFinite(n) || n < 1e11) return null;
+    const date = new Date(n);
+    return Number.isNaN(date.getTime()) ? null : date;
+  }
+  const date = new Date(raw);
+  if (Number.isNaN(date.getTime())) return null;
+  return date;
+}
+
+function resolveExperimentStartInstant(expData, sessionTimes, sessionStartIso) {
+  const exp = expData && typeof expData === 'object' ? expData : {};
+  const candidates = [
+    exp.experiment_start_time,
+    exp.experimentStartTime,
+    sessionTimes && sessionTimes.experiment_start_time_fallback,
+    sessionStartIso,
+  ];
+  for (const candidate of candidates) {
+    const parsed = parseExperimentStartInstant(candidate);
+    if (parsed) return parsed;
+  }
+  return null;
+}
+
 function getExpDataFields(expData, allRows, sessionTimes) {
   const fromRows = { device: '', hand: '' };
   let subjectFromRows = '';
@@ -189,7 +236,11 @@ function getExpDataFields(expData, allRows, sessionTimes) {
     }
   }
   const exp = expData && typeof expData === 'object' ? expData : {};
-  const startTime = exp.experiment_start_time != null ? exp.experiment_start_time : (exp.experimentStartTime != null ? exp.experimentStartTime : (sessionTimes && sessionTimes.experiment_start_time_fallback != null ? sessionTimes.experiment_start_time_fallback : ''));
+  const startInstant = resolveExperimentStartInstant(exp, sessionTimes, null);
+  const derivedStart = startInstant ? buildExperimentStartExpFields(startInstant) : null;
+  const startTime = derivedStart
+    ? derivedStart.experiment_start_time
+    : pickNonEmptyString(exp.experiment_start_time, exp.experimentStartTime, sessionTimes && sessionTimes.experiment_start_time_fallback);
   const endTime = sessionTimes && sessionTimes.experiment_end_time != null ? sessionTimes.experiment_end_time : '';
   const duration = sessionTimes && sessionTimes.experiment_duration != null ? sessionTimes.experiment_duration : '';
   const durationMs = exp.experiment_duration_ms != null ? exp.experiment_duration_ms : duration;
@@ -211,11 +262,11 @@ function getExpDataFields(expData, allRows, sessionTimes) {
     hand: exp.hand != null && exp.hand !== '' ? exp.hand : fromRows.hand,
     SONAId: sonaIdValue,
     experiment: exp.experiment != null ? exp.experiment : (exp.Experiment != null ? exp.Experiment : ''),
-    experiment_date: exp.experiment_date != null ? exp.experiment_date : (exp.experiment_start_date != null ? exp.experiment_start_date : ''),
-    experiment_start_date: exp.experiment_start_date != null ? exp.experiment_start_date : (exp.experiment_date != null ? exp.experiment_date : ''),
+    experiment_date: pickNonEmptyString(exp.experiment_date, derivedStart && derivedStart.experiment_date),
+    experiment_start_date: pickNonEmptyString(exp.experiment_start_date, exp.experiment_date, derivedStart && derivedStart.experiment_start_date),
     experiment_start_time: startTime,
-    experiment_start_clock_time: exp.experiment_start_clock_time != null ? exp.experiment_start_clock_time : '',
-    experiment_start_time_local: exp.experiment_start_time_local != null ? exp.experiment_start_time_local : '',
+    experiment_start_clock_time: pickNonEmptyString(exp.experiment_start_clock_time, derivedStart && derivedStart.experiment_start_clock_time),
+    experiment_start_time_local: pickNonEmptyString(exp.experiment_start_time_local, derivedStart && derivedStart.experiment_start_time_local),
     experiment_end_date: sessionTimes && sessionTimes.experiment_end_date != null ? sessionTimes.experiment_end_date : (exp.experiment_end_date != null ? exp.experiment_end_date : ''),
     experiment_end_time: endTime,
     experiment_end_clock_time: sessionTimes && sessionTimes.experiment_end_clock_time != null ? sessionTimes.experiment_end_clock_time : (exp.experiment_end_clock_time != null ? exp.experiment_end_clock_time : ''),
@@ -874,6 +925,9 @@ const SESSION_RAW_METADATA_KEYS = new Set([
   'experiment_end_time',
   'experiment_duration',
   'experiment_start_date',
+  'experiment_date',
+  'experiment_start_clock_time',
+  'experiment_start_time_local',
   'experiment_end_date',
   'device',
   'hand',
@@ -985,16 +1039,55 @@ function stampSessionMetadataOnRawRows(rows, sessionMetadata) {
 }
 
 /** Partial-upload raw.csv: stamp session metadata onto per-trial rows without changing complete export. */
-function buildRawTrialDataCsvForCheckpoint(trialRows, allRows, expData) {
+function buildRawTrialDataCsvForCheckpoint(trialRows, allRows, expData, sessionTimes) {
   const sessionMetadata = collectSessionMetadataForRawExport(allRows, expData);
   const stampedRows = stampSessionMetadataOnRawRows(trialRows, sessionMetadata);
-  return buildRawTrialDataCsv(stampedRows, expData);
+  return buildRawTrialDataCsv(stampedRows, expData, sessionTimes);
 }
 
-function buildRawTrialDataCsv(allRows, expData) {
+const RAW_EXPERIMENT_FIELD_KEYS = [
+  'experiment_date',
+  'experiment_start_date',
+  'experiment_start_time',
+  'experiment_start_clock_time',
+  'experiment_start_time_local',
+  'experiment_end_date',
+  'experiment_end_time',
+  'experiment_end_clock_time',
+  'experiment_end_time_local',
+  'experiment_duration',
+  'experiment_duration_ms',
+];
+
+function isBogusExperimentStartValue(key, value) {
+  if (value == null || value === '') return true;
+  if (key === 'experiment_start_time') return !parseExperimentStartInstant(value);
+  if (key === 'experiment_start_date' || key === 'experiment_date') {
+    return String(value).startsWith('1970-01-01');
+  }
+  if (key === 'experiment_start_time_local' || key === 'experiment_start_clock_time') {
+    return String(value).startsWith('1970-01-01');
+  }
+  return false;
+}
+
+function stampExperimentFieldsOnRawRow(out, expFields) {
+  if (!out || !expFields) return out;
+  for (const key of RAW_EXPERIMENT_FIELD_KEYS) {
+    const replacement = expFields[key];
+    if (replacement == null || replacement === '') continue;
+    if (isBogusExperimentStartValue(key, out[key]) || out[key] == null || out[key] === '') {
+      out[key] = replacement;
+    }
+  }
+  return out;
+}
+
+function buildRawTrialDataCsv(allRows, expData, sessionTimes = null) {
   if (!Array.isArray(allRows) || allRows.length === 0) return '';
   const excludeKeys = new Set(['allWords']);
   const oneStopByItem = getOneStopMetadataByItem(allRows);
+  const expFields = getExpDataFields(expData || {}, allRows, sessionTimes);
   const sonaId = pickNonEmptyString(
     expData && expData.SONAId,
     expData && expData.SonaId,
@@ -1008,6 +1101,9 @@ function buildRawTrialDataCsv(allRows, expData) {
       if (excludeKeys.has(key)) continue;
       if (!columns.includes(key)) columns.push(key);
     }
+  }
+  for (const key of RAW_EXPERIMENT_FIELD_KEYS) {
+    if (!columns.includes(key)) columns.push(key);
   }
   if (columns.length === 0) return '';
   let orderedColumns = orderRawTrialColumns(columns);
@@ -1027,6 +1123,7 @@ function buildRawTrialDataCsv(allRows, expData) {
     }
     stampParticipantIdFields(out, sonaId);
     applyOneStopExportFields(out, row, oneStopByItem);
+    stampExperimentFieldsOnRawRow(out, expFields);
     return out;
   });
   return stringify(filteredRows, { columns: orderedColumns, header: true });
@@ -1035,6 +1132,9 @@ function buildRawTrialDataCsv(allRows, expData) {
 export {
   generateUniqueAlphanumericId,
   enrichExpDataWithSonaId,
+  buildExperimentStartExpFields,
+  parseExperimentStartInstant,
+  resolveExperimentStartInstant,
   buildFixationReport,
   buildInterestAreaReport,
   buildRawPositionReport,

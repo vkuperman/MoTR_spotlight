@@ -185,6 +185,7 @@ import ExportReportsScreen from '@motr-shared/components/ExportReportsScreen.vue
 import ReadingStartGateScreen from '@motr-shared/components/ReadingStartGateScreen.vue';
 import {
   deferReadingTrialSafeguards,
+  ensureExperimentStartRecorded,
   initResultsSession,
 } from '@motr-shared/resultsSafeguard';
 import {
@@ -308,6 +309,7 @@ export default {
     },
   },
   mounted() {
+    ensureExperimentStartRecorded(this);
     installRawPositionSampling(this);
   },
   beforeDestroy() {
@@ -707,7 +709,6 @@ export default {
         SonaId: id,
         SONAId: id,
         study_key: studyConfig.studyKey,
-        experiment_start_time: new Date().toISOString()
       });
       this.$magpie.addTrialData({
         SONAId: id,

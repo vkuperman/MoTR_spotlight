@@ -10,6 +10,7 @@ import {
   generateUniqueAlphanumericId,
   localDateString,
   localTimeString,
+  resolveExperimentStartInstant,
   resolveSonaId,
 } from './resultsReports';
 import { getResultsSession } from './resultsSession';
@@ -77,26 +78,28 @@ export function resolveExportContext(vm, studyConfig) {
 
 export function buildCheckpointSessionTimes(vm) {
   const expData = (vm.$magpie.getExpData && vm.$magpie.getExpData()) || {};
-  const allRows = vm.$magpie.getAllData();
-  let startTime = expData.experiment_start_time || expData.experimentStartTime;
-  if (!startTime && Array.isArray(allRows) && allRows.length > 0) {
-    const minT = Math.min(
-      ...allRows
-        .map((r) => (r.responseTime != null && typeof r.responseTime === 'number' ? r.responseTime : Infinity))
-        .filter((t) => t !== Infinity)
-    );
-    if (minT !== Infinity && Number.isFinite(minT)) startTime = new Date(minT).toISOString();
-  }
+  const session = getResultsSession(vm);
+  const startInstant = resolveExperimentStartInstant(
+    expData,
+    null,
+    session && session.startTime
+  );
   return {
-    experiment_start_time_fallback: startTime || '',
+    experiment_start_time_fallback: startInstant ? startInstant.toISOString() : '',
   };
 }
 
 export function buildCompleteSessionTimes(vm) {
   const checkpointTimes = buildCheckpointSessionTimes(vm);
+  const expData = (vm.$magpie.getExpData && vm.$magpie.getExpData()) || {};
+  const session = getResultsSession(vm);
   const endTime = new Date();
-  const startTime = checkpointTimes.experiment_start_time_fallback;
-  const durationMs = startTime ? (endTime.getTime() - new Date(startTime).getTime()) : '';
+  const startInstant = resolveExperimentStartInstant(
+    expData,
+    checkpointTimes,
+    session && session.startTime
+  );
+  const durationMs = startInstant ? (endTime.getTime() - startInstant.getTime()) : '';
   const endDate = localDateString(endTime);
   const endClockTime = localTimeString(endTime);
   return {
@@ -137,7 +140,7 @@ export function buildCompleteResultsFiles(allRows, participantId, expData, sessi
   const fixationCsv = buildFixationReport(allRows, participantId, expData, sessionTimes);
   const interestAreaCsv = buildInterestAreaReport(allRows, participantId, expData, sessionTimes);
   const rawPositionCsv = buildRawPositionReport(allRows, participantId, expData, sessionTimes);
-  const rawTrialCsv = buildRawTrialDataCsv(allRows, expData);
+  const rawTrialCsv = buildRawTrialDataCsv(allRows, expData, sessionTimes);
   const files = [
     { name: 'fixation_report.csv', content: fixationCsv },
     { name: 'interest_area_report.csv', content: interestAreaCsv },
@@ -231,7 +234,7 @@ export async function uploadReadingTrialCheckpoint(vm, trial, trialIndex, studyC
     expData,
     sessionTimes
   );
-  const rawCsv = buildRawTrialDataCsvForCheckpoint(trialRows, context.allRows, expData);
+  const rawCsv = buildRawTrialDataCsvForCheckpoint(trialRows, context.allRows, expData, sessionTimes);
   const manifest = buildCheckpointManifest(session, { ...context, sonaId });
   const checkpointFiles = [
     { name: `trials/trial_${trialNum}_fixation.csv`, content: fixationCsv },
@@ -362,4 +365,4 @@ export async function retryPendingSnapshotUpload(vm, studyConfig) {
   return false;
 }
 
-export { initResultsSession, getResultsSession } from './resultsSession';
+export { initResultsSession, getResultsSession, ensureExperimentStartRecorded } from './resultsSession';
