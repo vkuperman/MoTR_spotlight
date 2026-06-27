@@ -2,7 +2,7 @@
   "sessionId": "LUY9W27N_1782569265381_3B68ABA7",
   "participantId": "LUY9W27N",
   "folderName": "motr_results_LUY9W27N_2026-06-27_10-07",
-  "completedAt": "2026-06-27T14:43:03.550Z",
+  "completedAt": "2026-06-27T14:43:19.020Z",
   "trialsCompleted": [
     0,
     1,
@@ -25,5 +25,5 @@
     18,
     19
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
