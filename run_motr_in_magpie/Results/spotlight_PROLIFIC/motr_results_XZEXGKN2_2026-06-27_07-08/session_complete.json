@@ -2,7 +2,7 @@
   "sessionId": "XZEXGKN2_1782569311153_TZDMFURT",
   "participantId": "XZEXGKN2",
   "folderName": "motr_results_XZEXGKN2_2026-06-27_07-08",
-  "completedAt": "2026-06-27T14:42:01.319Z",
+  "completedAt": "2026-06-27T14:42:11.524Z",
   "trialsCompleted": [
     0,
     1,
@@ -26,5 +26,5 @@
     19,
     20
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
