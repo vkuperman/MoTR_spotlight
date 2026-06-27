@@ -2,7 +2,7 @@
   "sessionId": "FCXXJM7V_1782569402053_WJ226UR8",
   "participantId": "FCXXJM7V",
   "folderName": "motr_results_FCXXJM7V_2026-06-27_07-10",
-  "completedAt": "2026-06-27T14:55:26.605Z",
+  "completedAt": "2026-06-27T14:55:59.148Z",
   "trialsCompleted": [
     0,
     1,
@@ -25,5 +25,5 @@
     18,
     19
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
