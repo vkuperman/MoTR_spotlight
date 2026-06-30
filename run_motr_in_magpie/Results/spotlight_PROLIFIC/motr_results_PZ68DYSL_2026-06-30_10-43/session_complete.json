@@ -2,7 +2,7 @@
   "sessionId": "PZ68DYSL_1782834227465_Z9JZYTCK",
   "participantId": "PZ68DYSL",
   "folderName": "motr_results_PZ68DYSL_2026-06-30_10-43",
-  "completedAt": "2026-06-30T16:06:15.237Z",
+  "completedAt": "2026-06-30T16:06:34.162Z",
   "trialsCompleted": [
     0,
     1,
@@ -25,5 +25,5 @@
     18,
     19
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
