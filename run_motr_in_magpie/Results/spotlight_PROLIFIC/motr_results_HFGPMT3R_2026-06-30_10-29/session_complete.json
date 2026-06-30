@@ -2,7 +2,7 @@
   "sessionId": "HFGPMT3R_1782833377149_763PFM87",
   "participantId": "HFGPMT3R",
   "folderName": "motr_results_HFGPMT3R_2026-06-30_10-29",
-  "completedAt": "2026-06-30T15:49:44.272Z",
+  "completedAt": "2026-06-30T15:49:52.119Z",
   "trialsCompleted": [
     0,
     1,
@@ -25,5 +25,5 @@
     18,
     19
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
