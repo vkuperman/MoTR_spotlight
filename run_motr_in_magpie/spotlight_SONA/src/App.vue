@@ -432,35 +432,20 @@ export default {
           let left;
           let right;
 
-          const isFirstLine = (lineIdx === 0);
-          const isLastLine = (lineIdx === lines.length - 1);
-
           if (n === 1) {
             // Single word on this line
-            left = curr.left;
-            right = curr.right;
-            if (isFirstLine) {
-              left -= charWidth / 2;
-            }
-            if (isLastLine) {
-              right += charWidth / 2;
-            }
+            left = curr.left - charWidth / 2;
+            right = curr.right + charWidth / 2;
           } else if (i === 0) {
             const next = lineItems[i + 1].rect;
             const midNext = (curr.right + next.left) / 2;
-            left = curr.left;
+            left = curr.left - charWidth / 2;
             right = midNext;
-            if (isFirstLine) {
-              left -= charWidth / 2;
-            }
           } else if (i === n - 1) {
             const prev = lineItems[i - 1].rect;
             const midPrev = (prev.right + curr.left) / 2;
             left = midPrev;
-            right = curr.right;
-            if (isLastLine) {
-              right += charWidth / 2;
-            }
+            right = curr.right + charWidth / 2;
           } else {
             const prev = lineItems[i - 1].rect;
             const next = lineItems[i + 1].rect;
