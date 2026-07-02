@@ -2,7 +2,7 @@
   "sessionId": "RL6TM9BP_1783025702368_ARKDXFJU",
   "participantId": "RL6TM9BP",
   "folderName": "motr_results_RL6TM9BP_2026-07-02_15-55",
-  "completedAt": "2026-07-02T21:36:35.129Z",
+  "completedAt": "2026-07-02T21:36:46.660Z",
   "trialsCompleted": [
     0,
     1,
@@ -25,5 +25,5 @@
     18,
     19
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
