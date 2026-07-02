@@ -2,7 +2,7 @@
   "sessionId": "9HLZ7V6S_1783019514317_5QZRSRH2",
   "participantId": "9HLZ7V6S",
   "folderName": "motr_results_9HLZ7V6S_2026-07-02_13-11",
-  "completedAt": "2026-07-02T20:22:37.629Z",
+  "completedAt": "2026-07-02T20:23:04.555Z",
   "trialsCompleted": [
     0,
     1,
@@ -25,5 +25,5 @@
     18,
     19
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
