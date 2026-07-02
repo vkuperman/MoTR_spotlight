@@ -2,7 +2,7 @@
   "sessionId": "4ZT74ULY_1783018602419_GDNZC577",
   "participantId": "4ZT74ULY",
   "folderName": "motr_results_4ZT74ULY_2026-07-02_12-56",
-  "completedAt": "2026-07-02T19:31:50.993Z",
+  "completedAt": "2026-07-02T19:32:06.263Z",
   "trialsCompleted": [
     0,
     1,
@@ -25,5 +25,5 @@
     18,
     19
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
