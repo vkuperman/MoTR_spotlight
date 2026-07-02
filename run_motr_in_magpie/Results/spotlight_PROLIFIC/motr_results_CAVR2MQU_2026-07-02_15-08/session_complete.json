@@ -2,7 +2,7 @@
   "sessionId": "CAVR2MQU_1783026482423_A7QCV6UK",
   "participantId": "CAVR2MQU",
   "folderName": "motr_results_CAVR2MQU_2026-07-02_15-08",
-  "completedAt": "2026-07-02T21:31:38.587Z",
+  "completedAt": "2026-07-02T21:31:43.738Z",
   "trialsCompleted": [
     0,
     1,
@@ -24,5 +24,5 @@
     17,
     18
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
