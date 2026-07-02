@@ -2,7 +2,7 @@
   "sessionId": "VXV8GSHP_1783025596554_RBT6DQSY",
   "participantId": "VXV8GSHP",
   "folderName": "motr_results_VXV8GSHP_2026-07-02_15-53",
-  "completedAt": "2026-07-02T21:40:05.586Z",
+  "completedAt": "2026-07-02T21:40:25.438Z",
   "trialsCompleted": [
     0,
     1,
@@ -25,5 +25,5 @@
     18,
     19
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
