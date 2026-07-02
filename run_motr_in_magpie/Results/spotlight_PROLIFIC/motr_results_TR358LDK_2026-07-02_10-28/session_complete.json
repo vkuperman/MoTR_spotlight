@@ -2,7 +2,7 @@
   "sessionId": "TR358LDK_1783009681690_D32HYLNP",
   "participantId": "TR358LDK",
   "folderName": "motr_results_TR358LDK_2026-07-02_10-28",
-  "completedAt": "2026-07-02T16:51:21.664Z",
+  "completedAt": "2026-07-02T16:51:32.212Z",
   "trialsCompleted": [
     0,
     1,
@@ -25,5 +25,5 @@
     18,
     19
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
