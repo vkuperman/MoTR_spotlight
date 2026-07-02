@@ -2,7 +2,7 @@
   "sessionId": "43TX7JBF_1783009833861_43MX4PB4",
   "participantId": "43TX7JBF",
   "folderName": "motr_results_43TX7JBF_2026-07-02_09-30",
-  "completedAt": "2026-07-02T17:11:05.429Z",
+  "completedAt": "2026-07-02T17:11:19.707Z",
   "trialsCompleted": [
     0,
     1,
@@ -25,5 +25,5 @@
     18,
     19
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
