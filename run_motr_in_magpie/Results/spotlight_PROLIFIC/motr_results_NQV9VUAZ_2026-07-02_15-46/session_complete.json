@@ -2,7 +2,7 @@
   "sessionId": "NQV9VUAZ_1783017980492_32DEWPST",
   "participantId": "NQV9VUAZ",
   "folderName": "motr_results_NQV9VUAZ_2026-07-02_15-46",
-  "completedAt": "2026-07-02T19:04:19.965Z",
+  "completedAt": "2026-07-02T19:04:40.464Z",
   "trialsCompleted": [
     0,
     1,
@@ -25,5 +25,5 @@
     18,
     19
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
