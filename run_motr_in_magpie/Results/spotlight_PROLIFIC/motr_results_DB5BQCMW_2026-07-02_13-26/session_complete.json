@@ -2,7 +2,7 @@
   "sessionId": "DB5BQCMW_1783009581385_84USLWVT",
   "participantId": "DB5BQCMW",
   "folderName": "motr_results_DB5BQCMW_2026-07-02_13-26",
-  "completedAt": "2026-07-02T17:00:01.595Z",
+  "completedAt": "2026-07-02T17:00:24.066Z",
   "trialsCompleted": [
     0,
     1,
@@ -23,5 +23,5 @@
     16,
     17
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
