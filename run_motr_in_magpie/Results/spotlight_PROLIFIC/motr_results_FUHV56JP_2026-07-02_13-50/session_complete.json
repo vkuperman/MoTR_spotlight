@@ -2,7 +2,7 @@
   "sessionId": "FUHV56JP_1783018244550_K2LVQE3B",
   "participantId": "FUHV56JP",
   "folderName": "motr_results_FUHV56JP_2026-07-02_13-50",
-  "completedAt": "2026-07-02T19:29:33.548Z",
+  "completedAt": "2026-07-02T19:29:53.415Z",
   "trialsCompleted": [
     0,
     1,
@@ -24,5 +24,5 @@
     17,
     18
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
