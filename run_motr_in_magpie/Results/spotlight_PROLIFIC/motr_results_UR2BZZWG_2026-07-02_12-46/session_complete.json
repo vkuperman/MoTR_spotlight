@@ -2,7 +2,7 @@
   "sessionId": "UR2BZZWG_1783017971099_3USHK5MK",
   "participantId": "UR2BZZWG",
   "folderName": "motr_results_UR2BZZWG_2026-07-02_12-46",
-  "completedAt": "2026-07-02T19:22:36.953Z",
+  "completedAt": "2026-07-02T19:22:57.287Z",
   "trialsCompleted": [
     0,
     1,
@@ -25,5 +25,5 @@
     18,
     19
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
