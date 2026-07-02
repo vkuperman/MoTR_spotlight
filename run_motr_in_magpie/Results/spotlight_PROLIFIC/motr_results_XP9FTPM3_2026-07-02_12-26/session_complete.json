@@ -2,7 +2,7 @@
   "sessionId": "XP9FTPM3_1783009610732_KNP3KBZM",
   "participantId": "XP9FTPM3",
   "folderName": "motr_results_XP9FTPM3_2026-07-02_12-26",
-  "completedAt": "2026-07-02T16:49:35.631Z",
+  "completedAt": "2026-07-02T16:49:49.464Z",
   "trialsCompleted": [
     0,
     1,
@@ -25,5 +25,5 @@
     18,
     19
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
