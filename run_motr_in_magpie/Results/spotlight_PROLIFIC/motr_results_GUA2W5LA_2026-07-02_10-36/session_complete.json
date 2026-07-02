@@ -2,7 +2,7 @@
   "sessionId": "GUA2W5LA_1783010173213_QNF45L6T",
   "participantId": "GUA2W5LA",
   "folderName": "motr_results_GUA2W5LA_2026-07-02_10-36",
-  "completedAt": "2026-07-02T17:10:52.059Z",
+  "completedAt": "2026-07-02T17:11:19.768Z",
   "trialsCompleted": [
     0,
     1,
@@ -23,5 +23,5 @@
     16,
     17
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
