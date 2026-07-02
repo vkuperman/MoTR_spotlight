@@ -2,7 +2,7 @@
   "sessionId": "YGHAVZKX_1783022222812_F3YG7GXU",
   "participantId": "YGHAVZKX",
   "folderName": "motr_results_YGHAVZKX_2026-07-02_13-57",
-  "completedAt": "2026-07-02T20:31:48.672Z",
+  "completedAt": "2026-07-02T20:32:21.813Z",
   "trialsCompleted": [
     0,
     1,
@@ -25,5 +25,5 @@
     18,
     19
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
