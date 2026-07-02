@@ -2,7 +2,7 @@
   "sessionId": "ZTF9EKZ3_1783018183034_3GH63Y2M",
   "participantId": "ZTF9EKZ3",
   "folderName": "motr_results_ZTF9EKZ3_2026-07-02_13-49",
-  "completedAt": "2026-07-02T19:21:10.662Z",
+  "completedAt": "2026-07-02T19:21:26.369Z",
   "trialsCompleted": [
     0,
     1,
@@ -25,5 +25,5 @@
     18,
     19
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
