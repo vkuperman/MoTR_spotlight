@@ -2,7 +2,7 @@
   "sessionId": "MUMRL963_1783009717629_GNWWNA2V",
   "participantId": "MUMRL963",
   "folderName": "motr_results_MUMRL963_2026-07-02_10-28",
-  "completedAt": "2026-07-02T16:55:03.202Z",
+  "completedAt": "2026-07-02T16:55:17.810Z",
   "trialsCompleted": [
     0,
     1,
@@ -24,5 +24,5 @@
     17,
     18
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
