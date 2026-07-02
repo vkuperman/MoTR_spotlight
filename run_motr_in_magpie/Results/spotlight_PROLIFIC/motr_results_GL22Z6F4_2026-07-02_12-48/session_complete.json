@@ -2,7 +2,7 @@
   "sessionId": "GL22Z6F4_1783018102449_FVELGJPB",
   "participantId": "GL22Z6F4",
   "folderName": "motr_results_GL22Z6F4_2026-07-02_12-48",
-  "completedAt": "2026-07-02T19:51:44.663Z",
+  "completedAt": "2026-07-02T19:52:02.062Z",
   "trialsCompleted": [
     0,
     1,
@@ -26,5 +26,5 @@
     19,
     20
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
