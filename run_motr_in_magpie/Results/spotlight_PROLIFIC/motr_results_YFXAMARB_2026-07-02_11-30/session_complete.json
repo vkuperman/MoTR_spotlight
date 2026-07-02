@@ -2,7 +2,7 @@
   "sessionId": "YFXAMARB_1783009832350_A35HR8SB",
   "participantId": "YFXAMARB",
   "folderName": "motr_results_YFXAMARB_2026-07-02_11-30",
-  "completedAt": "2026-07-02T16:48:57.907Z",
+  "completedAt": "2026-07-02T16:49:08.582Z",
   "trialsCompleted": [
     0,
     1,
@@ -25,5 +25,5 @@
     18,
     19
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
