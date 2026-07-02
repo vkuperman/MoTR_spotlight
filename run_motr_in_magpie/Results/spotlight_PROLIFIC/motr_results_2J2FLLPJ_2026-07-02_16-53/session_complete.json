@@ -2,7 +2,7 @@
   "sessionId": "2J2FLLPJ_1783025634330_GVMMLZZX",
   "participantId": "2J2FLLPJ",
   "folderName": "motr_results_2J2FLLPJ_2026-07-02_16-53",
-  "completedAt": "2026-07-02T21:25:02.984Z",
+  "completedAt": "2026-07-02T21:25:15.053Z",
   "trialsCompleted": [
     0,
     1,
@@ -25,5 +25,5 @@
     18,
     19
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
