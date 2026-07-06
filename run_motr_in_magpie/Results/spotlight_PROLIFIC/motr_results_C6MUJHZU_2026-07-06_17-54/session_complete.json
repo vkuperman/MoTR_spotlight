@@ -2,7 +2,7 @@
   "sessionId": "C6MUJHZU_1783371246789_32KGS59T",
   "participantId": "C6MUJHZU",
   "folderName": "motr_results_C6MUJHZU_2026-07-06_17-54",
-  "completedAt": "2026-07-06T21:41:54.410Z",
+  "completedAt": "2026-07-06T21:42:07.400Z",
   "trialsCompleted": [
     0,
     1,
@@ -25,5 +25,5 @@
     18,
     19
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
