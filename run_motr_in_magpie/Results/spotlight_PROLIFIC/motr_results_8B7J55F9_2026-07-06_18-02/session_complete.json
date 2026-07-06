@@ -2,7 +2,7 @@
   "sessionId": "8B7J55F9_1783371721534_HSKJFAQF",
   "participantId": "8B7J55F9",
   "folderName": "motr_results_8B7J55F9_2026-07-06_18-02",
-  "completedAt": "2026-07-06T21:45:35.900Z",
+  "completedAt": "2026-07-06T21:45:50.748Z",
   "trialsCompleted": [
     0,
     1,
@@ -25,5 +25,5 @@
     18,
     19
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
