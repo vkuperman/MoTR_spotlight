@@ -2,7 +2,7 @@
   "sessionId": "8VATPB5B_1783371408865_V3NQMVAT",
   "participantId": "8VATPB5B",
   "folderName": "motr_results_8VATPB5B_2026-07-06_17-56",
-  "completedAt": "2026-07-06T21:18:43.852Z",
+  "completedAt": "2026-07-06T21:18:59.410Z",
   "trialsCompleted": [
     0,
     1,
@@ -26,5 +26,5 @@
     19,
     20
   ],
-  "recoveredFromSnapshot": true
+  "rawPositionInPartialCheckpoints": true
 }
