@@ -16,7 +16,7 @@
  * - GITHUB_TOKEN + GITHUB_REPO: push to GitHub (default run_motr_in_magpie/Results/)
  * - GITHUB_RESULTS_PATH: folder path in repo (default run_motr_in_magpie/Results)
  * - GITHUB_BRANCH: branch to commit to (default main)
- * - RESEND_API_KEY + EMAIL_TO: email zip to EMAIL_TO (Resend free tier: only to account owner until domain verified)
+ * - RESEND_API_KEY + EMAIL_TO: email session ZIP to EMAIL_TO on complete uploads (GitHub still required)
  * At least one of (GitHub) or (Resend + EMAIL_TO) must be set.
  */
 
@@ -313,8 +313,8 @@ function buildBatchCommitMessage({
   return `[skip ci] Add results: ${folderName} (${names})`;
 }
 
-async function sendEmailWithZip(resendKey, emailTo, participantId, timestamp, zipBase64) {
-  const zipFilename = `${participantId}_motr_results_${timestamp}.zip`;
+async function sendEmailWithZip(resendKey, emailTo, participantId, timestamp, zipBase64, folderName) {
+  const zipFilename = `${safeFolderName(folderName) || participantId}_motr_results_${timestamp}.zip`;
   const res = await fetch('https://api.resend.com/emails', {
     method: 'POST',
     headers: {
@@ -325,7 +325,7 @@ async function sendEmailWithZip(resendKey, emailTo, participantId, timestamp, zi
       from: 'MoTR Results <onboarding@resend.dev>',
       to: [emailTo],
       subject: `MoTR results: ${participantId}`,
-      text: `Results for participant ${participantId} (${timestamp}).`,
+      text: `Results for participant ${participantId} (${timestamp}). A ZIP copy is attached; files were also saved to GitHub.`,
       attachments: [{ filename: zipFilename, content: zipBase64 }],
     }),
   });
@@ -333,6 +333,18 @@ async function sendEmailWithZip(resendKey, emailTo, participantId, timestamp, zi
     const err = await res.text();
     throw new Error(`Resend: ${res.status} ${err}`);
   }
+}
+
+async function buildZipBase64FromDecodedFiles(folderName, decodedFiles) {
+  const { default: JSZip } = await import('jszip');
+  const zip = new JSZip();
+  const folder = safeFolderName(folderName);
+  for (const file of decodedFiles) {
+    const entryName = file.fileName || 'results.csv';
+    zip.file(`${folder}/${entryName}`, file.fileBuffer);
+  }
+  const buf = await zip.generateAsync({ type: 'nodebuffer' });
+  return buf.toString('base64');
 }
 
 export default async function handler(req, res) {
@@ -357,7 +369,7 @@ export default async function handler(req, res) {
   );
   const githubBranch = process.env.GITHUB_BRANCH || 'main';
   const resendKey = process.env.RESEND_API_KEY;
-  const emailTo = process.env.EMAIL_TO || 'vkuperman@yahoo.com';
+  const emailTo = process.env.EMAIL_TO || 'readinglabmotr@gmail.com';
 
   const useGitHub = !!githubToken;
   const useEmail = !!(resendKey && emailTo);
@@ -404,6 +416,7 @@ export default async function handler(req, res) {
   const resultsScope = body.resultsScope === 'partial' ? 'partial' : 'complete';
   const resultsSubdir = isTest ? `${resultsPath}/test` : resultsPath;
   const result = { ok: true };
+  let decodedFilesForEmail = [];
 
   const fileBase64 = body.fileBase64;
   const zipBase64 = body.zipBase64;
@@ -444,6 +457,10 @@ export default async function handler(req, res) {
           const repoPath = buildRepoPath(resultsSubdir, resultsScope, folderName, fileName);
           return { fileName, repoPath, fileBuffer };
         });
+        decodedFilesForEmail = decodedFiles.map((file) => ({
+          fileName: file.fileName,
+          fileBuffer: file.fileBuffer,
+        }));
         const commitMessage = buildBatchCommitMessage({
           resultsScope,
           folderName,
@@ -497,18 +514,31 @@ export default async function handler(req, res) {
     }
   }
 
-  if (useEmail) {
+  if (useEmail && resultsScope === 'complete') {
     try {
-      const emailBase64 = isBatchUpload
-        ? zipBase64
-        : (isSingleFile ? fileBase64 : zipBase64);
-      if (emailBase64 && typeof emailBase64 === 'string') {
-        await sendEmailWithZip(resendKey, emailTo, participantId, timestamp, emailBase64);
+      let emailZip = typeof zipBase64 === 'string' && zipBase64.length > 0 ? zipBase64 : '';
+      if (!emailZip && decodedFilesForEmail.length > 0) {
+        emailZip = await buildZipBase64FromDecodedFiles(body.folderName, decodedFilesForEmail);
+      }
+      if (!emailZip && isSingleFile && fileBase64) {
+        emailZip = fileBase64;
+      }
+      if (emailZip) {
+        await sendEmailWithZip(
+          resendKey,
+          emailTo,
+          participantId,
+          timestamp,
+          emailZip,
+          body.folderName || participantId
+        );
         result.email = emailTo;
+      } else {
+        result.emailSkipped = 'No ZIP available for email backup';
       }
     } catch (err) {
       console.error('Email failed', err);
-      return res.status(500).json({ error: 'Email failed', details: String(err.message) });
+      result.emailError = String(err.message);
     }
   }
 

@@ -136,6 +136,65 @@ function buildCheckpointManifest(session, context) {
   }, null, 2);
 }
 
+function isReadingTrial(trial) {
+  return trial
+    && trial.onestop_article_number != null
+    && String(trial.onestop_article_number).trim() !== '';
+}
+
+function articleCheckpointKey(trial) {
+  return `${String(trial.onestop_article_number).trim()}|${String(trial.onestop_level || '').trim()}`;
+}
+
+/** True when the participant just finished the last paragraph of an article (reading trials only). */
+export function isLastParagraphOfArticle(vm, trial, trialIndex) {
+  if (!isReadingTrial(trial)) return false;
+  const trials = vm.trials || [];
+  const key = articleCheckpointKey(trial);
+  for (let i = trialIndex + 1; i < trials.length; i += 1) {
+    const next = trials[i];
+    if (!isReadingTrial(next)) continue;
+    if (articleCheckpointKey(next) !== key) return true;
+  }
+  return true;
+}
+
+function collectArticleTrialIndices(vm, trial, trialIndex) {
+  if (!isReadingTrial(trial)) return [];
+  const trials = vm.trials || [];
+  const key = articleCheckpointKey(trial);
+  const indices = [];
+  for (let i = trialIndex; i >= 0; i -= 1) {
+    const t = trials[i];
+    if (!isReadingTrial(t)) break;
+    if (articleCheckpointKey(t) !== key) break;
+    indices.unshift(i);
+  }
+  return indices;
+}
+
+function buildTrialCheckpointFiles(trialRows, trialIndex, allRows, participantId, expData, sessionTimes) {
+  const trialNum = String(trialIndex + 1).padStart(2, '0');
+  const files = [
+    {
+      name: `trials/trial_${trialNum}_fixation.csv`,
+      content: buildFixationReport(trialRows, participantId, expData, sessionTimes),
+    },
+    {
+      name: `trials/trial_${trialNum}_raw.csv`,
+      content: buildRawTrialDataCsvForCheckpoint(trialRows, allRows, expData, sessionTimes),
+    },
+  ];
+  const rawPositionCsv = buildRawPositionReport(trialRows, participantId, expData, sessionTimes);
+  if (rawPositionCsv) {
+    files.splice(1, 0, {
+      name: `trials/trial_${trialNum}_raw_position_samples.csv`,
+      content: rawPositionCsv,
+    });
+  }
+  return files;
+}
+
 export function buildCompleteResultsFiles(allRows, participantId, expData, sessionTimes) {
   const fixationCsv = buildFixationReport(allRows, participantId, expData, sessionTimes);
   const interestAreaCsv = buildInterestAreaReport(allRows, participantId, expData, sessionTimes);
@@ -170,6 +229,16 @@ export async function uploadCompleteResults(context, sessionTimes, resultsScope 
       : [],
   }, null, 2);
   files.push({ name: 'session_complete.json', content: sessionComplete });
+
+  let zipBase64 = '';
+  try {
+    const blob = await createResultsDownloadBlob(files, context.folderName);
+    const { blobToBase64 } = await import('./resultsUploadCore.js');
+    zipBase64 = await blobToBase64(blob);
+  } catch (err) {
+    console.warn('Could not build email ZIP for complete upload:', err);
+  }
+
   return uploadResultsFiles(
     context.uploadUrl,
     context.participantId,
@@ -177,7 +246,8 @@ export async function uploadCompleteResults(context, sessionTimes, resultsScope 
     files,
     context.isTest,
     context.githubResultsPath,
-    resultsScope
+    resultsScope,
+    { zipBase64 }
   );
 }
 
@@ -216,37 +286,40 @@ export async function uploadReadingTrialCheckpoint(vm, trial, trialIndex, studyC
     session.trialsCompleted.push(trialIndex);
   }
 
-  const trialRows = filterRowsForTrial(context.allRows, trial);
+  if (!isLastParagraphOfArticle(vm, trial, trialIndex)) {
+    return;
+  }
+
+  const articleIndices = collectArticleTrialIndices(vm, trial, trialIndex);
   const expData = enrichExpDataWithSonaId(vm, context.expData, context.allRows);
   const sonaId = resolveSonaId(vm, expData, context.allRows);
   if (sonaId && !session.sonaId) session.sonaId = sonaId;
   const sessionTimes = buildCheckpointSessionTimes(vm);
-  const trialNum = String(trialIndex + 1).padStart(2, '0');
-  const fixationCsv = buildFixationReport(
-    trialRows,
-    context.participantId,
-    expData,
-    sessionTimes
-  );
-  const rawPositionCsv = buildRawPositionReport(
-    trialRows,
-    context.participantId,
-    expData,
-    sessionTimes
-  );
-  const rawCsv = buildRawTrialDataCsvForCheckpoint(trialRows, context.allRows, expData, sessionTimes);
-  const manifest = buildCheckpointManifest(session, { ...context, sonaId });
-  const checkpointFiles = [
-    { name: `trials/trial_${trialNum}_fixation.csv`, content: fixationCsv },
-    { name: `trials/trial_${trialNum}_raw.csv`, content: rawCsv },
-    { name: 'checkpoint_manifest.json', content: manifest },
-  ];
-  if (rawPositionCsv) {
-    checkpointFiles.splice(1, 0, {
-      name: `trials/trial_${trialNum}_raw_position_samples.csv`,
-      content: rawPositionCsv,
-    });
+
+  const checkpointFiles = [];
+  const trials = vm.trials || [];
+  for (const idx of articleIndices) {
+    const articleTrial = trials[idx];
+    if (!articleTrial) continue;
+    const trialRows = filterRowsForTrial(context.allRows, articleTrial);
+    checkpointFiles.push(
+      ...buildTrialCheckpointFiles(
+        trialRows,
+        idx,
+        context.allRows,
+        context.participantId,
+        expData,
+        sessionTimes
+      )
+    );
   }
+
+  const manifest = buildCheckpointManifest(session, { ...context, sonaId });
+  checkpointFiles.push({ name: 'checkpoint_manifest.json', content: manifest });
+
+  const articleNum = String(trial.onestop_article_number).trim();
+  const level = String(trial.onestop_level || '').trim();
+  const checkpointLabel = `article_${articleNum}_${level}`;
 
   await uploadResultsFiles(
     context.uploadUrl,
@@ -256,7 +329,7 @@ export async function uploadReadingTrialCheckpoint(vm, trial, trialIndex, studyC
     context.isTest,
     context.githubResultsPath,
     'partial',
-    { checkpointLabel: `trial_${trialNum}` }
+    { checkpointLabel }
   );
 }
 
@@ -317,6 +390,16 @@ async function uploadSnapshotPayload(snapshot) {
   }, null, 2);
   const files = snapshot.files.slice();
   files.push({ name: 'session_complete.json', content: sessionComplete });
+
+  let zipBase64 = '';
+  try {
+    const blob = await createResultsDownloadBlob(files, snapshot.folderName);
+    const { blobToBase64 } = await import('./resultsUploadCore.js');
+    zipBase64 = await blobToBase64(blob);
+  } catch (err) {
+    console.warn('Could not build email ZIP for snapshot upload:', err);
+  }
+
   await uploadResultsFiles(
     snapshot.uploadUrl,
     snapshot.participantId,
@@ -324,7 +407,8 @@ async function uploadSnapshotPayload(snapshot) {
     files,
     !!snapshot.isTest,
     snapshot.githubResultsPath || '',
-    'complete'
+    'complete',
+    { zipBase64 }
   );
   return true;
 }

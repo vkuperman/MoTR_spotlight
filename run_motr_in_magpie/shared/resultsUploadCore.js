@@ -66,7 +66,7 @@ function buildSingleUploadPayload(uploadMeta, fileName, fileBase64, contentEncod
   return payload;
 }
 
-function buildBatchUploadPayload(uploadMeta, encodedFiles) {
+function buildBatchUploadPayload(uploadMeta, encodedFiles, zipBase64 = '') {
   const payload = {
     participantId: uploadMeta.participantId,
     folderName: uploadMeta.folderName,
@@ -80,6 +80,9 @@ function buildBatchUploadPayload(uploadMeta, encodedFiles) {
   };
   if (uploadMeta.checkpointLabel) {
     payload.checkpointLabel = uploadMeta.checkpointLabel;
+  }
+  if (zipBase64 && typeof zipBase64 === 'string' && zipBase64.length > 0) {
+    payload.zipBase64 = zipBase64;
   }
   if (magpieConfig.studyKey) {
     payload.studyKey = magpieConfig.studyKey;
@@ -243,10 +246,13 @@ async function postUploadPayload(uploadUrl, payload, maxRequestBodyChars) {
   return res.json();
 }
 
-async function uploadEncodedBatches(uploadUrl, uploadMeta, encodedBatches, maxRequestBodyChars) {
+async function uploadEncodedBatches(uploadUrl, uploadMeta, encodedBatches, maxRequestBodyChars, options = {}) {
   const paths = [];
-  for (const batch of encodedBatches) {
-    const payload = buildBatchUploadPayload(uploadMeta, batch);
+  const zipBase64 = options.zipBase64 || '';
+  for (let batchIndex = 0; batchIndex < encodedBatches.length; batchIndex += 1) {
+    const batch = encodedBatches[batchIndex];
+    const includeZip = batchIndex === 0 && zipBase64;
+    const payload = buildBatchUploadPayload(uploadMeta, batch, includeZip ? zipBase64 : '');
     const json = await postUploadPayload(uploadUrl, payload, maxRequestBodyChars);
     if (json && Array.isArray(json.paths)) {
       paths.push(...json.paths);
@@ -299,7 +305,13 @@ async function uploadResultsFiles(
     uploadMeta,
     maxRequestBodyChars
   );
-  return uploadEncodedBatches(uploadUrl, uploadMeta, encodedBatches, maxRequestBodyChars);
+  return uploadEncodedBatches(
+    uploadUrl,
+    uploadMeta,
+    encodedBatches,
+    maxRequestBodyChars,
+    { zipBase64: options.zipBase64 || '' }
+  );
 }
 
 /** @deprecated Use uploadResultsFiles; kept for compatibility. */
