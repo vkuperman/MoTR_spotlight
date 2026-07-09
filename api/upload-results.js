@@ -140,15 +140,40 @@ async function githubJson(githubToken, url, options = {}) {
     const errText = await response.text();
     const err = new Error(`GitHub API failed (${response.status}): ${errText}`);
     err.status = response.status;
+    err.retryAfterSeconds = parseRetryAfterSeconds(response.headers.get('retry-after'));
     throw err;
   }
   if (response.status === 204) return null;
   return response.json();
 }
 
+function parseRetryAfterSeconds(retryAfterHeader) {
+  if (!retryAfterHeader) return null;
+  const asNumber = Number(retryAfterHeader);
+  if (Number.isFinite(asNumber) && asNumber >= 0) return asNumber;
+  const asDate = Date.parse(retryAfterHeader);
+  if (!Number.isFinite(asDate)) return null;
+  return Math.max(0, Math.ceil((asDate - Date.now()) / 1000));
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => {
+    setTimeout(resolve, ms);
+  });
+}
+
 function isGitRefConflict(err) {
   return err && (err.status === 409 || err.status === 422);
 }
+
+function isGitRateLimit(err) {
+  if (!err || (err.status !== 403 && err.status !== 429)) return false;
+  const message = String(err.message || '').toLowerCase();
+  return message.includes('rate limit') || message.includes('secondary rate');
+}
+
+/** Git Trees API inline content is limited to 1 MB per file; larger files need a blob. */
+const INLINE_TREE_MAX_BYTES = 900 * 1024;
 
 async function pushFileToGitHub({
   githubToken,
@@ -217,6 +242,16 @@ async function pushFilesBatchToGitHubOnce({
 
   const treeEntries = [];
   for (const file of files) {
+    if (file.fileBuffer.length <= INLINE_TREE_MAX_BYTES) {
+      treeEntries.push({
+        path: file.repoPath,
+        mode: '100644',
+        type: 'blob',
+        content: file.fileBuffer.toString('base64'),
+        encoding: 'base64',
+      });
+      continue;
+    }
     const blobSha = await createGitBlob({
       githubToken,
       owner,
@@ -277,17 +312,33 @@ async function pushFilesBatchToGitHubOnce({
   };
 }
 
+function retryDelayMs(err, attempt) {
+  if (isGitRateLimit(err)) {
+    const retryAfterMs = err.retryAfterSeconds != null
+      ? err.retryAfterSeconds * 1000
+      : Math.min(60000, 5000 * (2 ** attempt));
+    return retryAfterMs + Math.floor(Math.random() * 1000);
+  }
+  return Math.min(8000, 500 * (2 ** attempt)) + Math.floor(Math.random() * 250);
+}
+
+function shouldRetryGitPush(err, attempt, maxAttempts) {
+  if (attempt >= maxAttempts - 1) return false;
+  return isGitRefConflict(err) || isGitRateLimit(err);
+}
+
 async function pushFilesBatchToGitHub(args) {
-  const maxAttempts = 4;
+  const maxAttempts = 6;
   let lastErr = null;
   for (let attempt = 0; attempt < maxAttempts; attempt += 1) {
     try {
       return await pushFilesBatchToGitHubOnce(args);
     } catch (err) {
       lastErr = err;
-      if (!isGitRefConflict(err) || attempt === maxAttempts - 1) {
+      if (!shouldRetryGitPush(err, attempt, maxAttempts)) {
         throw err;
       }
+      await sleep(retryDelayMs(err, attempt));
     }
   }
   throw lastErr;

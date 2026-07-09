@@ -9,6 +9,48 @@ const MAX_REQUEST_BODY_CHARS = (
   ? Number(process.env.MOTR_MAX_UPLOAD_BODY_CHARS)
   : 4 * 1024 * 1024;
 
+const MIN_UPLOAD_INTERVAL_MS = 2500;
+const MAX_UPLOAD_ATTEMPTS = 6;
+
+let uploadChain = Promise.resolve();
+let lastUploadFinishedAt = 0;
+
+function sleep(ms) {
+  return new Promise((resolve) => {
+    setTimeout(resolve, ms);
+  });
+}
+
+function isRetryableUploadError(err) {
+  const message = String(err && err.message ? err.message : err).toLowerCase();
+  return message.includes('rate limit')
+    || message.includes('secondary rate')
+    || message.includes('github upload failed')
+    || message.startsWith('429 ')
+    || message.startsWith('503 ')
+    || message.startsWith('500 ');
+}
+
+function uploadRetryDelayMs(attempt) {
+  return Math.min(60000, 2000 * (2 ** attempt)) + Math.floor(Math.random() * 1500);
+}
+
+function enqueueUpload(task) {
+  const run = uploadChain.then(async () => {
+    const waitMs = Math.max(0, MIN_UPLOAD_INTERVAL_MS - (Date.now() - lastUploadFinishedAt));
+    if (waitMs > 0) {
+      await sleep(waitMs);
+    }
+    try {
+      return await task();
+    } finally {
+      lastUploadFinishedAt = Date.now();
+    }
+  });
+  uploadChain = run.catch(() => {});
+  return run;
+}
+
 async function compressCsvForUpload(csvContent) {
   if (typeof CompressionStream !== 'undefined') {
     const stream = new Blob([csvContent]).stream().pipeThrough(new CompressionStream('gzip'));
@@ -234,16 +276,35 @@ async function postUploadPayload(uploadUrl, payload, maxRequestBodyChars) {
   if (requestBodyLength(payload) > maxRequestBodyChars) {
     throw new Error(`Upload payload exceeds request size limit (${requestBodyLength(payload)} bytes).`);
   }
-  const res = await fetch(uploadUrl, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(payload),
-  });
-  if (!res.ok) {
-    const errText = await res.text();
-    throw new Error(`${res.status} ${errText}`);
+
+  let lastErr = null;
+  for (let attempt = 0; attempt < MAX_UPLOAD_ATTEMPTS; attempt += 1) {
+    try {
+      const res = await fetch(uploadUrl, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      });
+      if (!res.ok) {
+        const errText = await res.text();
+        const err = new Error(`${res.status} ${errText}`);
+        if (!isRetryableUploadError(err) || attempt === MAX_UPLOAD_ATTEMPTS - 1) {
+          throw err;
+        }
+        lastErr = err;
+        await sleep(uploadRetryDelayMs(attempt));
+        continue;
+      }
+      return res.json();
+    } catch (err) {
+      lastErr = err;
+      if (!isRetryableUploadError(err) || attempt === MAX_UPLOAD_ATTEMPTS - 1) {
+        throw err;
+      }
+      await sleep(uploadRetryDelayMs(attempt));
+    }
   }
-  return res.json();
+  throw lastErr || new Error('Upload failed after retries');
 }
 
 async function uploadEncodedBatches(uploadUrl, uploadMeta, encodedBatches, maxRequestBodyChars, options = {}) {
@@ -253,7 +314,7 @@ async function uploadEncodedBatches(uploadUrl, uploadMeta, encodedBatches, maxRe
     const batch = encodedBatches[batchIndex];
     const includeZip = batchIndex === 0 && zipBase64;
     const payload = buildBatchUploadPayload(uploadMeta, batch, includeZip ? zipBase64 : '');
-    const json = await postUploadPayload(uploadUrl, payload, maxRequestBodyChars);
+    const json = await enqueueUpload(() => postUploadPayload(uploadUrl, payload, maxRequestBodyChars));
     if (json && Array.isArray(json.paths)) {
       paths.push(...json.paths);
     } else if (json && json.path) {

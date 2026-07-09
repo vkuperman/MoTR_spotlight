@@ -321,6 +321,11 @@ export async function uploadReadingTrialCheckpoint(vm, trial, trialIndex, studyC
   const level = String(trial.onestop_level || '').trim();
   const checkpointLabel = `article_${articleNum}_${level}`;
 
+  // Spread concurrent participant uploads slightly to reduce GitHub API bursts.
+  await new Promise((resolve) => {
+    setTimeout(resolve, Math.floor(Math.random() * 4000));
+  });
+
   await uploadResultsFiles(
     context.uploadUrl,
     context.participantId,
