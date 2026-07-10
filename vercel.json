@@ -3,5 +3,10 @@
   "buildCommand": "node scripts/vercel-build.cjs",
   "outputDirectory": ".vercel-build-output/dist",
   "ignoreCommand": "sh scripts/vercel-ignore-build.sh",
+  "git": {
+    "deploymentEnabled": {
+      "results": false
+    }
+  },
   "rewrites": [{ "source": "/api/(.*)", "destination": "/api/$1" }]
 }

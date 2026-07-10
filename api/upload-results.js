@@ -15,7 +15,7 @@
  * Optional env:
  * - GITHUB_TOKEN + GITHUB_REPO: push to GitHub (default run_motr_in_magpie/Results/)
  * - GITHUB_RESULTS_PATH: folder path in repo (default run_motr_in_magpie/Results)
- * - GITHUB_BRANCH: branch to commit to (default main)
+ * - GITHUB_BRANCH: branch to commit to (default results; use main only for legacy)
  * - RESEND_API_KEY + EMAIL_TO: email session ZIP to EMAIL_TO on complete uploads (GitHub still required)
  * At least one of (GitHub) or (Resend + EMAIL_TO) must be set.
  */
@@ -418,7 +418,7 @@ export default async function handler(req, res) {
     /\/+$/,
     ''
   );
-  const githubBranch = process.env.GITHUB_BRANCH || 'main';
+  const githubBranch = process.env.GITHUB_BRANCH || 'results';
   const resendKey = process.env.RESEND_API_KEY;
   const emailTo = process.env.EMAIL_TO || 'readinglabmotr@gmail.com';
 

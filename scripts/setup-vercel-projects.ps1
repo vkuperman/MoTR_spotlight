@@ -132,7 +132,7 @@ function Ensure-Project {
     @{ key = "SPOTLIGHT_APP"; value = $SpotlightApp; target = @("production", "preview", "development") }
     @{ key = "GITHUB_REPO"; value = $GitHubRepo; target = @("production", "preview", "development") }
     @{ key = "GITHUB_RESULTS_PATH"; value = $ResultsPath; target = @("production", "preview", "development") }
-    @{ key = "GITHUB_BRANCH"; value = "main"; target = @("production", "preview", "development") }
+    @{ key = "GITHUB_BRANCH"; value = "results"; target = @("production", "preview", "development") }
   )
 
   foreach ($ev in $envKeys) {
