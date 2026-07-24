@@ -10,8 +10,8 @@ from pathlib import Path
 from inspect_onestop_master import read_shared_strings, read_sheet_rows, workbook_sheets
 
 
-MASTER_SHEET = "Master List (values)"
-EXPECTED_PARAGRAPHS = 163
+MASTER_SHEET = "Sheet1"
+EXPECTED_PARAGRAPHS = 143
 LEVEL_COLUMNS = {
     "Elementary": "Ele:",
     "Intermediate": "Int:",
@@ -154,8 +154,8 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--master",
-        default=r"c:\Users\emhig\OneDrive\OneStop_Txt Files Master List.xlsx",
-        help="Path to OneStop_Txt Files Master List.xlsx",
+        default=str(Path(__file__).resolve().parent / "OneStop" / "OneStopMasterList_v2.xlsx"),
+        help="Path to OneStop master list workbook (OneStopMasterList_v2.xlsx)",
     )
     parser.add_argument(
         "--root",
@@ -167,7 +167,7 @@ def main():
     parser.add_argument(
         "--allow-count-mismatch",
         action="store_true",
-        help="Write files even if the workbook does not contain the expected 163 rows per level.",
+        help="Write files even if the workbook does not contain the expected paragraph row count.",
     )
     args = parser.parse_args()
 

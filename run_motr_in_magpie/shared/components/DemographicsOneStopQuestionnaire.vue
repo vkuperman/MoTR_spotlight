@@ -5,7 +5,7 @@
     <!-- Step 1: Basic information -->
     <div v-if="step === 0">
       <p>
-        <label><strong>1. What is your age?</strong> <span style="color: #c00;">*</span><br>
+        <label><strong>1. What is your age? (numeric answers only)</strong> <span style="color: #c00;">*</span><br>
           <input v-model="form.age" type="number" min="1" max="120" class="obligatory" style="width: 6em;" />
         </label>
       </p>
@@ -94,12 +94,12 @@
       <p><strong>Education</strong></p>
       <p v-if="stepError" style="color: #c00;">{{ stepError }}</p>
       <p>
-        <label><strong>20. How many years of formal education do you have?</strong> <span style="color: #c00;">*</span><br>
+        <label><strong>20. How many years of formal education do you have? (numeric answers only)</strong> <span style="color: #c00;">*</span><br>
           <input v-model="form.formalEducationYears" type="number" min="0" max="50" style="width: 6em;" />
         </label>
       </p>
       <p>
-        <label><strong>21. How many full years have you spent in your current educational institution (0, 1, 2…)?</strong> <span style="color: #c00;">*</span><br>
+        <label><strong>21. How many full years have you spent in your current educational institution (0, 1, 2…)? (numeric answers only)</strong> <span style="color: #c00;">*</span><br>
           <input v-model="form.yearsCurrentInstitution" type="number" min="0" max="50" style="width: 6em;" />
         </label>
       </p>
@@ -157,22 +157,22 @@
         </label>
       </p>
       <p>
-        <label><strong>29. At what age did you begin acquiring English?</strong> <span style="color: #c00;">*</span><br>
+        <label><strong>29. At what age did you begin acquiring English? (numeric answers only)</strong> <span style="color: #c00;">*</span><br>
           <input v-model="form.englishAcquireStartAge" type="number" min="0" max="120" style="width: 6em;" />
         </label>
       </p>
       <p>
-        <label><strong>30. At what age did you become fluent in English?</strong> <span style="color: #c00;">*</span><br>
+        <label><strong>30. At what age did you become fluent in English? (numeric answers only)</strong> <span style="color: #c00;">*</span><br>
           <input v-model="form.englishFluentAge" type="number" min="0" max="120" style="width: 6em;" />
         </label>
       </p>
       <p>
-        <label><strong>31. At what age did you begin reading in English?</strong> <span style="color: #c00;">*</span><br>
+        <label><strong>31. At what age did you begin reading in English? (numeric answers only)</strong> <span style="color: #c00;">*</span><br>
           <input v-model="form.englishReadStartAge" type="number" min="0" max="120" style="width: 6em;" />
         </label>
       </p>
       <p>
-        <label><strong>32. At what age did you begin reading fluently in English?</strong> <span style="color: #c00;">*</span><br>
+        <label><strong>32. At what age did you begin reading fluently in English? (numeric answers only)</strong> <span style="color: #c00;">*</span><br>
           <input v-model="form.englishReadFluentAge" type="number" min="0" max="120" style="width: 6em;" />
         </label>
       </p>

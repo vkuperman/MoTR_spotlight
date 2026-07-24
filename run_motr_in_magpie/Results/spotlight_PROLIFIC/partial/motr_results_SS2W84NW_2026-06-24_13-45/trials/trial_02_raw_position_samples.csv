@@ -1,0 +1,350 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SS2W84NW,test,2,int,4,1,1,2,-1,999,39,313248,341,85,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,90,313298,339,83,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,139,313348,337,81,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,189,313398,336,81,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,239,313447,336,81,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,289,313498,336,81,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,340,313548,336,81,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,389,313598,336,81,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,438,313647,336,81,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,488,313697,352,85,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,539,313747,379,97,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,1, The ,589,313798,392,103,108.375,385.375,128.875,421.3984375,1,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,1, The ,640,313849,396,106,108.375,385.375,128.875,421.3984375,1,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,1, The ,689,313897,398,108,108.375,385.375,128.875,421.3984375,1,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,1, The ,740,313948,397,108,108.375,385.375,128.875,421.3984375,1,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,1, The ,789,313997,392,108,108.375,385.375,128.875,421.3984375,1,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,1, The ,838,314047,388,109,108.375,385.375,128.875,421.3984375,1,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,1, The ,889,314098,388,110,108.375,385.375,128.875,421.3984375,1,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,1, The ,939,314148,389,111,108.375,385.375,128.875,421.3984375,1,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,1, The ,988,314197,390,112,108.375,385.375,128.875,421.3984375,1,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,1, The ,1039,314248,390,112,108.375,385.375,128.875,421.3984375,1,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,1, The ,1089,314297,390,112,108.375,385.375,128.875,421.3984375,1,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,1, The ,1139,314347,390,112,108.375,385.375,128.875,421.3984375,1,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,1, The ,1189,314398,394,112,108.375,385.375,128.875,421.3984375,1,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,2, small ,1239,314447,435,112,108.375,421.3984375,128.875,468.40625,1,2,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,3, space ,1290,314499,493,115,108.375,468.40625,128.875,521.4453125,1,3,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,5, set ,1339,314548,541,117,108.375,539.4453125,128.875,568.4609375,1,5,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,6, up ,1389,314598,574,118,108.375,568.4609375,128.875,593.484375,1,6,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,6, up ,1440,314648,593,118,108.375,568.4609375,128.875,593.484375,1,6,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,7, to ,1489,314697,609,119,108.375,593.484375,128.875,613.5,1,7,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,8, look ,1539,314747,619,119,108.375,613.5,128.875,651.5234375,1,8,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,8, look ,1589,314798,625,120,108.375,613.5,128.875,651.5234375,1,8,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,8, look ,1639,314847,628,121,108.375,613.5,128.875,651.5234375,1,8,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,8, look ,1690,314898,632,121,108.375,613.5,128.875,651.5234375,1,8,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,8, look ,1739,314947,636,122,108.375,613.5,128.875,651.5234375,1,8,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,8, look ,1789,314998,642,124,108.375,613.5,128.875,651.5234375,1,8,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,8, look ,1839,315047,648,125,108.375,613.5,128.875,651.5234375,1,8,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,9, like ,1889,315097,655,126,108.375,651.5234375,128.875,683.5390625,1,9,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,9, like ,1939,315148,664,128,108.375,651.5234375,128.875,683.5390625,1,9,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,9, like ,1989,315197,675,129,108.375,651.5234375,128.875,683.5390625,1,9,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,10, a ,2039,315248,690,129,108.375,683.5390625,128.875,698.5546875,1,10,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,11, classroom. ,2089,315297,708,129,108.375,698.5546875,128.875,790.578125,1,11,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,11, classroom. ,2140,315348,725,129,108.375,698.5546875,128.875,790.578125,1,11,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,11, classroom. ,2188,315397,743,129,108.375,698.5546875,128.875,790.578125,1,11,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,11, classroom. ,2239,315448,758,129,108.375,698.5546875,128.875,790.578125,1,11,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,11, classroom. ,2289,315497,771,129,108.375,698.5546875,128.875,790.578125,1,11,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,11, classroom. ,2340,315548,783,129,108.375,698.5546875,128.875,790.578125,1,11,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,12, On ,2389,315598,795,131,108.375,790.578125,128.875,819.59375,1,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,12, On ,2439,315648,812,134,108.375,790.578125,128.875,819.59375,1,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,13, its ,2489,315697,831,137,108.375,819.59375,128.875,842.6015625,1,13,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,29, Bangladesh. ,2539,315748,850,139,148.375,839.71875,168.875,944.8046875,2,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,29, Bangladesh. ,2589,315798,866,141,148.375,839.71875,168.875,944.8046875,2,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,29, Bangladesh. ,2639,315847,878,144,148.375,839.71875,168.875,944.8046875,2,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,29, Bangladesh. ,2689,315898,884,150,148.375,839.71875,168.875,944.8046875,2,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,29, Bangladesh. ,2739,315947,891,156,148.375,839.71875,168.875,944.8046875,2,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,29, Bangladesh. ,2789,315998,901,164,148.375,839.71875,168.875,944.8046875,2,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,29, Bangladesh. ,2839,316048,910,169,148.375,839.71875,168.875,944.8046875,2,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,29, Bangladesh. ,2889,316098,914,171,148.375,839.71875,168.875,944.8046875,2,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,29, Bangladesh. ,2939,316147,914,171,148.375,839.71875,168.875,944.8046875,2,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,29, Bangladesh. ,2989,316198,916,168,148.375,839.71875,168.875,944.8046875,2,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,29, Bangladesh. ,3039,316248,922,148,148.375,839.71875,168.875,944.8046875,2,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,14, corrugated ,3090,316298,927,132,108.375,842.6015625,128.875,933.65625,1,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,14, corrugated ,3139,316348,927,132,108.375,842.6015625,128.875,933.65625,1,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,14, corrugated ,3189,316398,927,132,108.375,842.6015625,128.875,933.65625,1,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,14, corrugated ,3239,316447,927,132,108.375,842.6015625,128.875,933.65625,1,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,14, corrugated ,3288,316497,927,132,108.375,842.6015625,128.875,933.65625,1,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,14, corrugated ,3339,316547,927,132,108.375,842.6015625,128.875,933.65625,1,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,14, corrugated ,3389,316598,924,130,108.375,842.6015625,128.875,933.65625,1,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,14, corrugated ,3439,316648,924,129,108.375,842.6015625,128.875,933.65625,1,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,14, corrugated ,3489,316697,925,128,108.375,842.6015625,128.875,933.65625,1,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,14, corrugated ,3540,316749,925,128,108.375,842.6015625,128.875,933.65625,1,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,14, corrugated ,3589,316798,925,128,108.375,842.6015625,128.875,933.65625,1,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,15, iron ,3639,316848,939,128,108.375,933.65625,128.875,968.671875,1,15,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,16, walls ,3689,316898,973,128,108.375,968.671875,128.875,1013.6875,1,16,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,16, walls ,3738,316947,993,128,108.375,968.671875,128.875,1013.6875,1,16,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,16, walls ,3789,316997,999,128,108.375,968.671875,128.875,1013.6875,1,16,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,16, walls ,3840,317049,1002,128,108.375,968.671875,128.875,1013.6875,1,16,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,16, walls ,3889,317098,1004,129,108.375,968.671875,128.875,1013.6875,1,16,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,16, walls ,3939,317148,1004,129,108.375,968.671875,128.875,1013.6875,1,16,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,16, walls ,3988,317197,1004,129,108.375,968.671875,128.875,1013.6875,1,16,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,16, walls ,4038,317247,1004,129,108.375,968.671875,128.875,1013.6875,1,16,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,16, walls ,4088,317297,1002,129,108.375,968.671875,128.875,1013.6875,1,16,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,14, corrugated ,4139,317348,900,127,108.375,842.6015625,128.875,933.65625,1,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,27, map ,4189,317398,785,139,148.375,779.6796875,168.875,819.703125,2,10,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,27, map ,4240,317449,785,139,148.375,779.6796875,168.875,819.703125,2,10,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,27, map ,4289,317497,785,139,148.375,779.6796875,168.875,819.703125,2,10,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,26, a ,4340,317548,776,139,148.375,764.6640625,168.875,779.6796875,2,9,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,24, alphabet ,4389,317597,694,156,148.375,655.5546875,168.875,729.625,2,7,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,38, is ,4439,317647,574,187,188.375,565.5,208.875,583.5,3,5,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,37, there ,4489,317698,525,179,188.375,519.46875,208.875,565.5,3,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,19, charts ,4539,317748,504,167,148.375,482.453125,168.875,536.4765625,2,2,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,19, charts ,4589,317798,497,164,148.375,482.453125,168.875,536.4765625,2,2,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,19, charts ,4638,317847,492,162,148.375,482.453125,168.875,536.4765625,2,2,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,18, educational ,4689,317898,482,160,148.375,385.375,168.875,482.453125,2,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,18, educational ,4739,317948,466,160,148.375,385.375,168.875,482.453125,2,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,18, educational ,4788,317997,459,162,148.375,385.375,168.875,482.453125,2,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,18, educational ,4840,318049,459,162,148.375,385.375,168.875,482.453125,2,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,18, educational ,4890,318099,459,162,148.375,385.375,168.875,482.453125,2,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,18, educational ,4940,318149,459,162,148.375,385.375,168.875,482.453125,2,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,18, educational ,4989,318197,455,162,148.375,385.375,168.875,482.453125,2,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,18, educational ,5039,318248,438,161,148.375,385.375,168.875,482.453125,2,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,18, educational ,5090,318298,413,161,148.375,385.375,168.875,482.453125,2,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,18, educational ,5140,318349,400,161,148.375,385.375,168.875,482.453125,2,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,18, educational ,5189,318398,397,162,148.375,385.375,168.875,482.453125,2,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,18, educational ,5239,318448,396,162,148.375,385.375,168.875,482.453125,2,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,18, educational ,5289,318497,395,162,148.375,385.375,168.875,482.453125,2,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,18, educational ,5340,318549,392,162,148.375,385.375,168.875,482.453125,2,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,18, educational ,5388,318597,392,161,148.375,385.375,168.875,482.453125,2,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,18, educational ,5438,318647,395,161,148.375,385.375,168.875,482.453125,2,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,18, educational ,5490,318698,413,161,148.375,385.375,168.875,482.453125,2,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,18, educational ,5539,318748,463,159,148.375,385.375,168.875,482.453125,2,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,19, charts ,5589,318797,507,158,148.375,482.453125,168.875,536.4765625,2,2,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,20, – ,5639,318848,539,157,148.375,536.4765625,168.875,551.4921875,2,3,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,21, letters ,5689,318898,561,156,148.375,551.4921875,168.875,605.515625,2,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,21, letters ,5739,318947,580,156,148.375,551.4921875,168.875,605.515625,2,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,21, letters ,5789,318997,598,156,148.375,551.4921875,168.875,605.515625,2,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,22, of ,5839,319048,625,156,148.375,605.515625,168.875,625.53125,2,5,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,23, the ,5889,319098,651,156,148.375,625.53125,168.875,655.5546875,2,6,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,24, alphabet ,5939,319148,674,156,148.375,655.5546875,168.875,729.625,2,7,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,24, alphabet ,5989,319198,691,156,148.375,655.5546875,168.875,729.625,2,7,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,24, alphabet ,6038,319247,703,156,148.375,655.5546875,168.875,729.625,2,7,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,24, alphabet ,6089,319298,714,158,148.375,655.5546875,168.875,729.625,2,7,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,25, and ,6139,319347,731,160,148.375,729.625,168.875,764.6640625,2,8,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,25, and ,6189,319398,755,164,148.375,729.625,168.875,764.6640625,2,8,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,26, a ,6239,319448,775,166,148.375,764.6640625,168.875,779.6796875,2,9,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,27, map ,6289,319498,782,166,148.375,779.6796875,168.875,819.703125,2,10,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,27, map ,6339,319548,782,166,148.375,779.6796875,168.875,819.703125,2,10,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,27, map ,6390,319598,782,166,148.375,779.6796875,168.875,819.703125,2,10,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,27, map ,6438,319647,782,166,148.375,779.6796875,168.875,819.703125,2,10,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,27, map ,6489,319698,782,166,148.375,779.6796875,168.875,819.703125,2,10,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,27, map ,6539,319748,797,166,148.375,779.6796875,168.875,819.703125,2,10,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,29, Bangladesh. ,6589,319798,842,168,148.375,839.71875,168.875,944.8046875,2,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,29, Bangladesh. ,6639,319848,883,169,148.375,839.71875,168.875,944.8046875,2,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,29, Bangladesh. ,6689,319898,915,170,148.375,839.71875,168.875,944.8046875,2,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,29, Bangladesh. ,6739,319948,933,171,148.375,839.71875,168.875,944.8046875,2,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,30," But, ",6789,319997,949,172,148.375,944.8046875,168.875,981.828125,2,13,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,30," But, ",6839,320047,959,173,148.375,944.8046875,168.875,981.828125,2,13,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,30," But, ",6888,320097,970,173,148.375,944.8046875,168.875,981.828125,2,13,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,31, it ,6938,320147,983,173,148.375,981.828125,168.875,995.8359375,2,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,32, is ,6989,320197,996,173,148.375,995.8359375,168.875,1013.8359375,2,15,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,32, is ,7039,320248,1008,173,148.375,995.8359375,168.875,1013.8359375,2,15,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,33, hard ,7089,320298,1019,172,148.375,1013.8359375,168.875,1049.8671875,2,16,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,33, hard ,7139,320348,1030,172,148.375,1013.8359375,168.875,1049.8671875,2,16,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,33, hard ,7188,320397,1036,177,148.375,1013.8359375,168.875,1049.8671875,2,16,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,47, the ,7239,320448,1017,194,188.375,994.7578125,208.875,1024.78125,3,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,61," However, ",7289,320497,878,225,228.375,822.6484375,248.875,902.6953125,4,13,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,55, the ,7338,320547,589,225,228.375,573.4921875,248.875,603.515625,4,7,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,34, to ,7389,320598,392,217,188.375,385.375,208.875,405.390625,3,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,7438,320647,332,210,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,7489,320697,321,207,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,7538,320747,321,206,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,7589,320798,323,204,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,7638,320847,352,197,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,34, to ,7689,320898,389,194,188.375,385.375,208.875,405.390625,3,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,35, concentrate ,7739,320947,406,194,188.375,405.390625,208.875,504.453125,3,2,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,35, concentrate ,7789,320998,415,194,188.375,405.390625,208.875,504.453125,3,2,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,35, concentrate ,7839,321048,424,196,188.375,405.390625,208.875,504.453125,3,2,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,35, concentrate ,7888,321097,442,199,188.375,405.390625,208.875,504.453125,3,2,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,35, concentrate ,7939,321147,468,202,188.375,405.390625,208.875,504.453125,3,2,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,35, concentrate ,7989,321198,497,202,188.375,405.390625,208.875,504.453125,3,2,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,37, there ,8038,321247,521,203,188.375,519.46875,208.875,565.5,3,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,37, there ,8089,321297,538,204,188.375,519.46875,208.875,565.5,3,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,37, there ,8138,321347,557,204,188.375,519.46875,208.875,565.5,3,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,38, is ,8189,321398,571,204,188.375,565.5,208.875,583.5,3,5,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,39, the ,8239,321448,585,204,188.375,583.5,208.875,613.5234375,3,6,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,39, the ,8289,321498,596,205,188.375,583.5,208.875,613.5234375,3,6,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,39, the ,8340,321549,598,205,188.375,583.5,208.875,613.5234375,3,6,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,39, the ,8390,321599,598,205,188.375,583.5,208.875,613.5234375,3,6,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,39, the ,8440,321649,598,205,188.375,583.5,208.875,613.5234375,3,6,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,39, the ,8489,321698,598,205,188.375,583.5,208.875,613.5234375,3,6,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,39, the ,8540,321749,598,205,188.375,583.5,208.875,613.5234375,3,6,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,40, constant ,8589,321797,616,203,188.375,613.5234375,208.875,686.5703125,3,7,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,40, constant ,8639,321847,661,200,188.375,613.5234375,208.875,686.5703125,3,7,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,41, sound ,8689,321898,705,200,188.375,686.5703125,208.875,740.6171875,3,8,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,41, sound ,8739,321948,733,200,188.375,686.5703125,208.875,740.6171875,3,8,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,42, of ,8789,321998,757,200,188.375,740.6171875,208.875,760.6328125,3,9,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,43, hammering ,8840,322048,778,200,188.375,760.6328125,208.875,855.671875,3,10,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,43, hammering ,8889,322098,801,200,188.375,760.6328125,208.875,855.671875,3,10,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,43, hammering ,8939,322148,826,201,188.375,760.6328125,208.875,855.671875,3,10,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,44, and ,8989,322198,859,201,188.375,855.671875,208.875,890.7109375,3,11,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,45, chemicals ,9039,322248,897,201,188.375,890.7109375,208.875,975.7421875,3,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,45, chemicals ,9089,322298,932,199,188.375,890.7109375,208.875,975.7421875,3,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,45, chemicals ,9139,322348,956,195,188.375,890.7109375,208.875,975.7421875,3,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,45, chemicals ,9189,322398,974,193,188.375,890.7109375,208.875,975.7421875,3,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,46, in ,9238,322447,986,192,188.375,975.7421875,208.875,994.7578125,3,13,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,46, in ,9289,322497,993,191,188.375,975.7421875,208.875,994.7578125,3,13,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,47, the ,9339,322548,996,191,188.375,994.7578125,208.875,1024.78125,3,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,47, the ,9388,322597,1001,191,188.375,994.7578125,208.875,1024.78125,3,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,47, the ,9438,322647,1007,192,188.375,994.7578125,208.875,1024.78125,3,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,47, the ,9489,322698,1017,193,188.375,994.7578125,208.875,1024.78125,3,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,48, air ,9539,322748,1027,195,188.375,1024.78125,208.875,1044.7890625,3,15,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,48, air ,9589,322797,1031,197,188.375,1024.78125,208.875,1044.7890625,3,15,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,48, air ,9640,322849,1031,197,188.375,1024.78125,208.875,1044.7890625,3,15,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,47, the ,9690,322899,1024,199,188.375,994.7578125,208.875,1024.78125,3,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,45, chemicals ,9739,322948,969,203,188.375,890.7109375,208.875,975.7421875,3,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,43, hammering ,9789,322997,818,203,188.375,760.6328125,208.875,855.671875,3,10,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,39, the ,9838,323047,593,196,188.375,583.5,208.875,613.5234375,3,6,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,9888,323097,369,174,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,9938,323147,299,173,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,9988,323197,292,175,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,10039,323248,292,175,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,10088,323297,307,197,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,10139,323348,343,217,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,10189,323398,374,236,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,10238,323447,384,244,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,49, that ,10288,323497,392,249,228.375,385.375,248.875,420.40625,4,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,49, that ,10339,323548,402,255,228.375,385.375,248.875,420.40625,4,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,49, that ,10389,323598,408,258,228.375,385.375,248.875,420.40625,4,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,49, that ,10438,323647,409,257,228.375,385.375,248.875,420.40625,4,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,49, that ,10489,323697,410,247,228.375,385.375,248.875,420.40625,4,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,49, that ,10539,323747,412,241,228.375,385.375,248.875,420.40625,4,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,49, that ,10589,323798,412,240,228.375,385.375,248.875,420.40625,4,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,49, that ,10639,323847,412,238,228.375,385.375,248.875,420.40625,4,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,49, that ,10689,323897,412,236,228.375,385.375,248.875,420.40625,4,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,49, that ,10739,323948,412,236,228.375,385.375,248.875,420.40625,4,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,49, that ,10790,323999,412,236,228.375,385.375,248.875,420.40625,4,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,49, that ,10839,324048,412,236,228.375,385.375,248.875,420.40625,4,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,49, that ,10889,324098,412,236,228.375,385.375,248.875,420.40625,4,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,50, stick ,10939,324147,424,235,228.375,420.40625,248.875,461.4140625,4,2,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,52, the ,10990,324198,496,232,228.375,480.4296875,248.875,510.453125,4,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,53, back ,11039,324248,549,230,228.375,510.453125,248.875,553.4765625,4,5,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,55, the ,11090,324299,586,230,228.375,573.4921875,248.875,603.515625,4,7,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,55, the ,11140,324349,602,229,228.375,573.4921875,248.875,603.515625,4,7,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,56, throat ,11188,324397,612,229,228.375,603.515625,248.875,654.546875,4,8,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,56, throat ,11239,324448,621,229,228.375,603.515625,248.875,654.546875,4,8,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,56, throat ,11289,324498,638,229,228.375,603.515625,248.875,654.546875,4,8,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,57, and ,11339,324548,666,229,228.375,654.546875,248.875,689.5859375,4,9,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,58, irritate ,11389,324598,707,229,228.375,689.5859375,248.875,744.6015625,4,10,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,58, irritate ,11439,324648,729,228,228.375,689.5859375,248.875,744.6015625,4,10,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,59, the ,11489,324698,746,226,228.375,744.6015625,248.875,774.625,4,11,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,59, the ,11538,324747,756,222,228.375,744.6015625,248.875,774.625,4,11,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,59, the ,11590,324799,756,222,228.375,744.6015625,248.875,774.625,4,11,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,59, the ,11639,324848,756,222,228.375,744.6015625,248.875,774.625,4,11,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,59, the ,11689,324898,756,222,228.375,744.6015625,248.875,774.625,4,11,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,59, the ,11739,324948,756,222,228.375,744.6015625,248.875,774.625,4,11,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,59, the ,11790,324999,770,225,228.375,744.6015625,248.875,774.625,4,11,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,60, eyes. ,11840,325048,815,232,228.375,774.625,248.875,822.6484375,4,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,61," However, ",11889,325098,870,237,228.375,822.6484375,248.875,902.6953125,4,13,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,61," However, ",11939,325148,900,237,228.375,822.6484375,248.875,902.6953125,4,13,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,62, the ,11988,325197,921,238,228.375,902.6953125,248.875,932.71875,4,14,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,63, children ,12039,325248,936,239,228.375,932.71875,248.875,1000.7578125,4,15,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,63, children ,12089,325298,952,240,228.375,932.71875,248.875,1000.7578125,4,15,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,63, children ,12139,325348,966,240,228.375,932.71875,248.875,1000.7578125,4,15,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,63, children ,12189,325398,978,240,228.375,932.71875,248.875,1000.7578125,4,15,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,63, children ,12239,325447,993,239,228.375,932.71875,248.875,1000.7578125,4,15,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,64, who ,12289,325498,1007,238,228.375,1000.7578125,248.875,1033.78125,4,16,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,64, who ,12339,325548,1021,238,228.375,1000.7578125,248.875,1033.78125,4,16,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,64, who ,12389,325598,1028,238,228.375,1000.7578125,248.875,1033.78125,4,16,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,64, who ,12438,325647,1025,240,228.375,1000.7578125,248.875,1033.78125,4,16,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,63, children ,12489,325698,965,245,228.375,932.71875,248.875,1000.7578125,4,15,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,60, eyes. ,12540,325748,800,241,228.375,774.625,248.875,822.6484375,4,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,55, the ,12589,325797,594,240,228.375,573.4921875,248.875,603.515625,4,7,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,52, the ,12640,325848,491,240,228.375,480.4296875,248.875,510.453125,4,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,50, stick ,12689,325898,447,241,228.375,420.40625,248.875,461.4140625,4,2,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,50, stick ,12739,325948,436,243,228.375,420.40625,248.875,461.4140625,4,2,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,50, stick ,12789,325998,434,244,228.375,420.40625,248.875,461.4140625,4,2,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,50, stick ,12838,326047,431,246,228.375,420.40625,248.875,461.4140625,4,2,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,65, learn ,12888,326097,424,260,268.375,385.375,288.875,430.40625,5,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,65, learn ,12938,326147,415,275,268.375,385.375,288.875,430.40625,5,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,65, learn ,12988,326197,410,281,268.375,385.375,288.875,430.40625,5,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,65, learn ,13039,326248,408,282,268.375,385.375,288.875,430.40625,5,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,65, learn ,13089,326298,408,282,268.375,385.375,288.875,430.40625,5,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,65, learn ,13139,326348,408,282,268.375,385.375,288.875,430.40625,5,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,65, learn ,13189,326398,409,282,268.375,385.375,288.875,430.40625,5,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,65, learn ,13239,326447,419,280,268.375,385.375,288.875,430.40625,5,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,66, in ,13289,326498,443,280,268.375,430.40625,288.875,449.421875,5,2,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,67, this ,13340,326549,463,280,268.375,449.421875,288.875,482.4375,5,3,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,67, this ,13389,326598,480,280,268.375,449.421875,288.875,482.4375,5,3,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,68, three-square-meter ,13439,326648,495,280,268.375,482.4375,288.875,641.5078125,5,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,68, three-square-meter ,13488,326697,509,278,268.375,482.4375,288.875,641.5078125,5,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,68, three-square-meter ,13539,326748,530,278,268.375,482.4375,288.875,641.5078125,5,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,68, three-square-meter ,13589,326798,553,278,268.375,482.4375,288.875,641.5078125,5,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,68, three-square-meter ,13638,326847,579,278,268.375,482.4375,288.875,641.5078125,5,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,68, three-square-meter ,13688,326897,608,277,268.375,482.4375,288.875,641.5078125,5,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,68, three-square-meter ,13739,326948,639,277,268.375,482.4375,288.875,641.5078125,5,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,69, room ,13788,326997,661,279,268.375,641.5078125,288.875,687.5234375,5,5,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,69, room ,13838,327047,678,280,268.375,641.5078125,288.875,687.5234375,5,5,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,69, room ,13888,327097,686,280,268.375,641.5078125,288.875,687.5234375,5,5,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,69, room ,13939,327148,686,280,268.375,641.5078125,288.875,687.5234375,5,5,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,69, room ,13989,327198,686,280,268.375,641.5078125,288.875,687.5234375,5,5,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,69, room ,14039,327248,686,280,268.375,641.5078125,288.875,687.5234375,5,5,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,69, room ,14089,327298,686,280,268.375,641.5078125,288.875,687.5234375,5,5,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,69, room ,14139,327348,686,280,268.375,641.5078125,288.875,687.5234375,5,5,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,70, are ,14189,327398,705,281,268.375,687.5234375,288.875,718.546875,5,6,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,72, lucky ,14239,327448,757,285,268.375,748.5703125,288.875,794.5859375,5,8,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,73, ones. ,14289,327498,795,288,268.375,794.5859375,288.875,843.46875,5,9,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,73, ones. ,14338,327547,822,291,268.375,794.5859375,288.875,843.46875,5,9,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,74, They ,14389,327598,844,293,268.375,843.46875,288.875,888.328125,5,10,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,74, They ,14439,327648,856,295,268.375,843.46875,288.875,888.328125,5,10,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,74, They ,14489,327698,873,297,268.375,843.46875,288.875,888.328125,5,10,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,14538,327747,892,299,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,14589,327797,912,299,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,14639,327848,931,299,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,76, escaped ,14689,327897,945,296,268.375,932.3671875,288.875,1000.421875,5,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,76, escaped ,14739,327948,959,292,268.375,932.3671875,288.875,1000.421875,5,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,76, escaped ,14789,327998,978,288,268.375,932.3671875,288.875,1000.421875,5,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,76, escaped ,14839,328048,992,287,268.375,932.3671875,288.875,1000.421875,5,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,14889,328098,1004,284,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,14939,328147,1010,282,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,14988,328197,1012,282,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,15039,328248,1013,282,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,15089,328298,1012,282,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,76, escaped ,15139,328348,962,294,268.375,932.3671875,288.875,1000.421875,5,12,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,15189,328397,829,304,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,80, factories ,15238,328447,564,310,308.375,501.4453125,328.875,574.4765625,6,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,78, in ,15289,328498,453,315,308.375,452.40625,328.875,471.421875,6,2,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,77, working ,15338,328547,401,319,308.375,385.375,328.875,452.40625,6,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,77, working ,15389,328598,388,320,308.375,385.375,328.875,452.40625,6,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,77, working ,15439,328648,387,320,308.375,385.375,328.875,452.40625,6,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,77, working ,15489,328698,387,320,308.375,385.375,328.875,452.40625,6,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,77, working ,15540,328749,387,320,308.375,385.375,328.875,452.40625,6,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,77, working ,15590,328799,387,320,308.375,385.375,328.875,452.40625,6,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,77, working ,15639,328848,397,320,308.375,385.375,328.875,452.40625,6,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,77, working ,15689,328898,433,324,308.375,385.375,328.875,452.40625,6,1,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,79, the ,15739,328948,473,329,308.375,471.421875,328.875,501.4453125,6,3,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,79, the ,15789,328998,494,332,308.375,471.421875,328.875,501.4453125,6,3,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,80, factories ,15839,329048,510,333,308.375,501.4453125,328.875,574.4765625,6,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,80, factories ,15888,329097,525,333,308.375,501.4453125,328.875,574.4765625,6,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,80, factories ,15939,329148,538,334,308.375,501.4453125,328.875,574.4765625,6,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,80, factories ,15989,329198,549,334,308.375,501.4453125,328.875,574.4765625,6,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,80, factories ,16039,329248,563,334,308.375,501.4453125,328.875,574.4765625,6,4,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,81, opposite. ,16089,329298,586,333,308.375,574.4765625,328.875,647.53125,6,5,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,81, opposite. ,16140,329348,609,332,308.375,574.4765625,328.875,647.53125,6,5,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,81, opposite. ,16189,329398,629,332,308.375,574.4765625,328.875,647.53125,6,5,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,81, opposite. ,16239,329447,645,332,308.375,574.4765625,328.875,647.53125,6,5,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,16289,329497,655,332,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,16339,329547,663,334,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,16388,329597,675,344,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,16439,329648,685,352,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,16489,329697,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,16539,329748,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,16589,329797,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,16638,329847,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,16688,329897,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,16739,329947,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,16788,329997,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,16838,330047,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,16888,330097,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,16938,330147,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,16990,330199,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,17039,330248,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,17089,330297,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,17138,330347,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,17189,330398,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,17240,330449,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,17290,330498,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,17338,330547,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,17389,330598,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,4,1,1,2,-1,999,17439,330648,687,355,,,,,,,A map of a country,1,,,,,1970-01-01T00:00:00.039Z,,,,,,,,,spotlight-prolific

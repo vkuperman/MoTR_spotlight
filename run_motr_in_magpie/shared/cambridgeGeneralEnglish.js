@@ -27,6 +27,15 @@ function normAnswer(s) {
     .toLowerCase();
 }
 
+/** Strip NBSP/mojibake and trailing junk copied from the source spreadsheet. */
+function cleanQuestionText(s) {
+  return String(s || '')
+    .replace(/\u00a0/g, ' ')
+    .replace(/\u00c2/g, '')
+    .replace(/[ \t*]+$/g, '')
+    .trim();
+}
+
 export const CAMBRIDGE_QUESTIONS_PER_PAGE = 5;
 
 /** Group Cambridge items into pages (default 5 questions per page → 5 pages for 25 items). */
@@ -49,7 +58,7 @@ export function prepareCambridgeQuestions(rows) {
   return rows
     .map((r) => {
       const n = normalizeRowKeys(r);
-      const question = String(n.questions != null ? n.questions : '').trim();
+      const question = cleanQuestionText(n.questions != null ? n.questions : '');
       const correct = String(n.correct != null ? n.correct : '').trim();
       const opts = ['a', 'b', 'c', 'd']
         .map((k) => (n[k] != null ? String(n[k]).trim() : ''))

@@ -1,0 +1,171 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,424,501898,444,94,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,2, Japanese ,476,501950,451,99,108.375,421.3984375,128.875,504.46875,1,2,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,2, Japanese ,525,501999,441,104,108.375,421.3984375,128.875,504.46875,1,2,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,1, The ,574,502048,416,115,108.375,385.375,128.875,421.3984375,1,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,1, The ,625,502098,401,122,108.375,385.375,128.875,421.3984375,1,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,1, The ,674,502147,399,123,108.375,385.375,128.875,421.3984375,1,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,1, The ,724,502198,399,123,108.375,385.375,128.875,421.3984375,1,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,1, The ,774,502248,404,122,108.375,385.375,128.875,421.3984375,1,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,2, Japanese ,825,502298,428,119,108.375,421.3984375,128.875,504.46875,1,2,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,2, Japanese ,876,502350,470,118,108.375,421.3984375,128.875,504.46875,1,2,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,3, team ,925,502399,533,118,108.375,504.46875,128.875,549.4921875,1,3,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,5, considering ,974,502448,608,119,108.375,567.4921875,128.875,664.5546875,1,5,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,6, three ,1024,502498,701,122,108.375,664.5546875,128.875,710.5859375,1,6,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,8, for ,1073,502547,790,124,108.375,769.6171875,128.875,795.625,1,8,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,9, element ,1124,502597,836,125,108.375,795.625,128.875,864.6640625,1,9,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,9, element ,1174,502647,863,126,108.375,795.625,128.875,864.6640625,1,9,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,10, 113: ,1224,502697,881,126,108.375,864.6640625,128.875,903.375,1,10,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,10, 113: ,1276,502750,902,127,108.375,864.6640625,128.875,903.375,1,10,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,11," japonium, ",1325,502798,928,129,108.375,903.375,128.875,986.4296875,1,11,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,11," japonium, ",1374,502847,948,129,108.375,903.375,128.875,986.4296875,1,11,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,11," japonium, ",1424,502897,966,129,108.375,903.375,128.875,986.4296875,1,11,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,11," japonium, ",1473,502947,974,130,108.375,903.375,128.875,986.4296875,1,11,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,11," japonium, ",1523,502997,977,133,108.375,903.375,128.875,986.4296875,1,11,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,22, where ,1573,503047,978,139,148.375,969.703125,168.875,1018.734375,2,10,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,22, where ,1624,503097,972,145,148.375,969.703125,168.875,1018.734375,2,10,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,21," Science, ",1676,503150,958,151,148.375,895.6640625,168.875,969.703125,2,9,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,21," Science, ",1725,503199,939,153,148.375,895.6640625,168.875,969.703125,2,9,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,21," Science, ",1774,503248,918,153,148.375,895.6640625,168.875,969.703125,2,9,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,20, Accelerator-Based ,1825,503298,895,152,148.375,743.0859375,168.875,895.6640625,2,8,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,20, Accelerator-Based ,1874,503347,837,150,148.375,743.0859375,168.875,895.6640625,2,8,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,18, Center ,1923,503397,697,149,148.375,658.5390625,168.875,717.5703125,2,6,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,15, after ,1974,503447,560,152,148.375,522.4609375,168.875,563.484375,2,3,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,14," nishinarium, ",2025,503498,467,162,148.375,420.4140625,168.875,522.4609375,2,2,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,13, and ,2074,503547,412,169,148.375,385.375,168.875,420.4140625,2,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,2124,503597,383,172,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,2174,503648,373,173,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,2224,503698,370,173,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,2273,503747,370,175,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,2323,503797,381,184,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,23, they ,2374,503848,416,205,188.375,385.375,208.875,424.3984375,3,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,24, found ,2424,503898,457,218,188.375,424.3984375,208.875,474.4453125,3,2,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,35," said, ",2474,503948,492,219,228.375,473.0703125,248.875,516.09375,4,2,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,26, element. ,2524,503998,549,214,188.375,504.46875,208.875,578.5078125,3,4,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,27, Polly ,2575,504048,606,203,188.375,578.5078125,208.875,622.03125,3,5,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,29, professor ,2624,504097,684,193,188.375,683.578125,208.875,763.6171875,3,7,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,29, professor ,2674,504147,760,196,188.375,683.578125,208.875,763.6171875,3,7,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,31, chemistry ,2724,504198,831,203,188.375,783.6328125,208.875,865.6484375,3,9,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,32, at ,2774,504248,875,208,188.375,865.6484375,208.875,885.6640625,3,10,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,33, Edinburgh ,2824,504297,897,211,188.375,885.6640625,208.875,967.734375,3,11,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,33, Edinburgh ,2874,504348,907,215,188.375,885.6640625,208.875,967.734375,3,11,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,33, Edinburgh ,2924,504398,913,218,188.375,885.6640625,208.875,967.734375,3,11,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,45, helps ,2975,504448,916,220,228.375,881.8984375,248.875,929.9375,4,12,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,45, helps ,3024,504498,915,222,228.375,881.8984375,248.875,929.9375,4,12,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,45, helps ,3074,504548,889,235,228.375,881.8984375,248.875,929.9375,4,12,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,42, work. ,3124,504597,789,251,228.375,755.1796875,248.875,803.03125,4,9,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,40, and ,3174,504648,688,248,228.375,679.125,248.875,714.1640625,4,7,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,39, difficult ,3224,504697,635,241,228.375,618.1015625,248.875,679.125,4,6,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,38, very ,3274,504748,604,236,228.375,579.09375,248.875,618.1015625,4,5,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,36, “This ,3324,504798,561,230,228.375,516.09375,248.875,561.09375,4,3,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,35," said, ",3374,504848,508,229,228.375,473.0703125,248.875,516.09375,4,2,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,34," University, ",3424,504898,471,235,228.375,385.375,248.875,473.0703125,4,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,34," University, ",3474,504947,449,245,228.375,385.375,248.875,473.0703125,4,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,48, radioactive ,3524,504998,430,261,268.375,385.375,288.875,477.4296875,5,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,48, radioactive ,3574,505047,420,274,268.375,385.375,288.875,477.4296875,5,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,48, radioactive ,3624,505097,418,282,268.375,385.375,288.875,477.4296875,5,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,48, radioactive ,3674,505148,448,298,268.375,385.375,288.875,477.4296875,5,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,66, waste ,3724,505197,570,311,308.375,525.46875,328.875,577.4921875,6,4,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,54," better, ",3774,505248,707,287,268.375,686.25,288.875,741.296875,5,7,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,55, hopefully ,3825,505299,786,281,268.375,741.296875,288.875,818.3515625,5,8,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,55, hopefully ,3874,505347,800,289,268.375,741.296875,288.875,818.3515625,5,8,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,55, hopefully ,3926,505399,800,289,268.375,741.296875,288.875,818.3515625,5,8,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,55, hopefully ,3975,505449,800,289,268.375,741.296875,288.875,818.3515625,5,8,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,55, hopefully ,4024,505498,800,289,268.375,741.296875,288.875,818.3515625,5,8,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,55, hopefully ,4073,505547,804,289,268.375,741.296875,288.875,818.3515625,5,8,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,56, we ,4124,505598,842,286,268.375,818.3515625,288.875,846.3671875,5,9,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,60, better ,4174,505648,950,295,268.375,929.4296875,288.875,980.4609375,5,13,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,77, when ,4224,505697,1005,308,308.375,989.78125,328.875,1032.8125,6,15,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,77, when ,4274,505748,1019,312,308.375,989.78125,328.875,1032.8125,6,15,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,77, when ,4324,505798,1019,313,308.375,989.78125,328.875,1032.8125,6,15,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,76," And, ",4374,505847,977,322,308.375,948.2421875,328.875,989.78125,6,14,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,72, in ,4424,505897,820,331,308.375,811.6640625,328.875,830.6796875,6,10,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,70, are ,4474,505948,703,328,308.375,700.6015625,328.875,731.625,6,8,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,68, things ,4524,505998,634,325,308.375,612.53125,328.875,665.5703125,6,6,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,67, and ,4575,506048,591,325,308.375,577.4921875,328.875,612.53125,6,5,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,66, waste ,4623,506097,559,325,308.375,525.46875,328.875,577.4921875,6,4,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,65, nuclear ,4675,506149,511,328,308.375,461.4296875,328.875,525.46875,6,3,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,64, with ,4725,506199,451,329,308.375,424.4140625,328.875,461.4296875,6,2,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,64, with ,4774,506248,425,326,308.375,424.4140625,328.875,461.4296875,6,2,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,63, deal ,4825,506298,419,326,308.375,385.375,328.875,424.4140625,6,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,63, deal ,4874,506348,418,325,308.375,385.375,328.875,424.4140625,6,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,63, deal ,4923,506397,424,329,308.375,385.375,328.875,424.4140625,6,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,79, build ,4974,506447,451,359,348.375,424.3984375,368.875,467.4296875,7,2,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,91, improvements ,5024,506497,489,383,388.375,385.375,408.875,503.4140625,8,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,92, in ,5074,506548,522,386,388.375,503.4140625,408.875,522.4296875,8,2,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,81, equipment ,5124,506598,576,369,348.375,497.453125,368.875,586.515625,7,4,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,83, make ,5174,506648,643,354,348.375,606.53125,368.875,655.5546875,7,6,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,85," discoveries, ",5224,506698,763,350,348.375,704.59375,368.875,804.6328125,7,8,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,88, leads ,5274,506748,871,361,348.375,856.6640625,368.875,904.703125,7,11,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,90, fantastic ,5324,506798,928,367,348.375,924.71875,368.875,991.7578125,7,13,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,90, fantastic ,5374,506847,965,373,348.375,924.71875,368.875,991.7578125,7,13,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,90, fantastic ,5424,506897,980,375,348.375,924.71875,368.875,991.7578125,7,13,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,90, fantastic ,5474,506948,982,376,348.375,924.71875,368.875,991.7578125,7,13,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,89, to ,5525,506999,923,368,348.375,904.703125,368.875,924.71875,7,12,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,84, these ,5575,507049,656,354,348.375,655.5546875,368.875,704.59375,7,7,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,81, equipment ,5624,507098,500,357,348.375,497.453125,368.875,586.515625,7,4,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,79, build ,5674,507148,465,366,348.375,424.3984375,368.875,467.4296875,7,2,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,79, build ,5725,507198,461,369,348.375,424.3984375,368.875,467.4296875,7,2,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,80, the ,5774,507247,469,376,348.375,467.4296875,368.875,497.453125,7,3,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,92, in ,5824,507297,505,396,388.375,503.4140625,408.875,522.4296875,8,2,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,93, technology.” ,5874,507348,539,412,388.375,522.4296875,408.875,619.1640625,8,3,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,93, technology.” ,5924,507398,558,414,388.375,522.4296875,408.875,619.1640625,8,3,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,93, technology.” ,5974,507448,569,402,388.375,522.4296875,408.875,619.1640625,8,3,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,93, technology.” ,6025,507498,576,393,388.375,522.4296875,408.875,619.1640625,8,3,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,93, technology.” ,6074,507547,573,391,388.375,522.4296875,408.875,619.1640625,8,3,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,91, improvements ,6124,507597,488,388,388.375,385.375,408.875,503.4140625,8,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,6174,507647,353,397,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,6223,507697,320,402,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,6273,507747,318,401,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,6324,507798,352,387,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,79, build ,6373,507847,448,363,348.375,424.3984375,368.875,467.4296875,7,2,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,66, waste ,6424,507898,543,307,308.375,525.46875,328.875,577.4921875,6,4,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,17, Nishina ,6474,507948,598,170,148.375,593.5078125,168.875,658.5390625,2,5,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,6524,507997,603,107,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,6574,508047,603,107,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,6624,508098,603,107,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,52, understand ,6674,508147,594,259,268.375,577.1640625,288.875,672.2421875,5,5,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,68, things ,6724,508198,629,329,308.375,612.53125,328.875,665.5703125,6,6,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,84, these ,6775,508249,673,341,348.375,655.5546875,368.875,704.59375,7,7,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,70, are ,6824,508298,720,303,308.375,700.6015625,328.875,731.625,6,8,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,41, slow ,6875,508349,739,235,228.375,714.1640625,248.875,755.1796875,4,8,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,29, professor ,6924,508397,739,199,188.375,683.578125,208.875,763.6171875,3,7,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,29, professor ,6974,508448,740,202,188.375,683.578125,208.875,763.6171875,3,7,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,71, important ,7024,508498,783,304,308.375,731.625,328.875,811.6640625,6,9,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,7074,508548,836,385,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,7123,508597,888,391,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,59, a ,7175,508649,920,262,268.375,914.4140625,288.875,929.4296875,5,12,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,21," Science, ",7224,508698,899,145,148.375,895.6640625,168.875,969.703125,2,9,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,10, 113: ,7274,508748,888,117,108.375,864.6640625,128.875,903.375,1,10,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,20, Accelerator-Based ,7325,508798,885,143,148.375,743.0859375,168.875,895.6640625,2,8,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,74, real ,7374,508848,881,321,308.375,860.703125,328.875,895.71875,6,12,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,88, leads ,7424,508898,881,372,348.375,856.6640625,368.875,904.703125,7,11,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,7474,508947,844,416,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,68, things ,7525,508998,613,319,308.375,612.53125,328.875,665.5703125,6,6,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,23, they ,7604,509078,404,211,188.375,385.375,208.875,424.3984375,3,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,23, they ,7623,509097,386,210,188.375,385.375,208.875,424.3984375,3,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,7675,509148,384,270,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,78, they ,7724,509198,409,347,348.375,385.375,368.875,424.3984375,7,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,78, they ,7774,509248,421,370,348.375,385.375,368.875,424.3984375,7,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,78, they ,7824,509298,422,349,348.375,385.375,368.875,424.3984375,7,1,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,7874,509348,443,147,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,7924,509397,443,147,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,7974,509448,443,147,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,8024,509498,443,147,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,49, decay. ,8075,509549,511,272,268.375,477.4296875,288.875,534.140625,5,2,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,81, equipment ,8124,509598,545,376,348.375,497.453125,368.875,586.515625,7,4,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,93, technology.” ,8174,509647,574,411,388.375,522.4296875,408.875,619.1640625,8,3,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,93, technology.” ,8224,509698,622,415,388.375,522.4296875,408.875,619.1640625,8,3,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,8274,509748,659,408,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,8324,509798,671,409,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,8374,509847,673,428,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,8424,509898,673,428,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,8474,509948,673,428,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,8523,509997,673,428,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,8574,510048,673,428,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,8624,510098,673,428,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,8674,510148,673,428,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,8724,510198,673,428,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,8774,510248,673,428,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,8824,510298,673,428,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,8,5,19,20,-1,999,8874,510348,673,428,,,,,,,Significant technological developments,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific

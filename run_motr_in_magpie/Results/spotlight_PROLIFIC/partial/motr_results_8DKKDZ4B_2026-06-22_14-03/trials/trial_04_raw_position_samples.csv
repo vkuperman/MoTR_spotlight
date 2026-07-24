@@ -1,0 +1,207 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,95, sentenced ,943,393756,599,364,350.066650390625,512.5333251953125,370.066650390625,600.6333160400391,7,5,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,95, sentenced ,994,393807,599,364,350.066650390625,512.5333251953125,370.066650390625,600.6333160400391,7,5,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,1043,393857,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,1094,393908,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,1144,393958,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,1195,394008,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,1245,394059,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,1296,394110,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,1346,394160,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,1397,394210,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,1447,394260,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,1498,394312,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,1548,394362,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,1599,394413,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,1649,394462,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,1699,394513,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,1751,394564,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,1801,394614,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,1851,394665,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,1901,394715,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,1951,394766,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2003,394816,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2053,394866,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2104,394917,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2154,394968,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2205,395018,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2255,395068,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2305,395119,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2356,395169,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2406,395220,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2457,395270,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2507,395321,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2558,395371,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2608,395422,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2659,395472,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2709,395523,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2759,395573,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2810,395623,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2861,395675,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2911,395725,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,2962,395776,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3012,395826,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3063,395877,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3113,395927,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3164,395978,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3215,396028,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3265,396079,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3315,396129,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3366,396179,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3416,396230,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3467,396280,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3519,396332,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3569,396382,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3619,396433,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3670,396483,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3720,396533,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3770,396584,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3822,396635,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3872,396686,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3922,396736,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,3973,396786,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4023,396837,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4074,396887,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4125,396938,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4175,396989,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4225,397039,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4276,397090,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4326,397140,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4377,397191,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4428,397240,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4478,397291,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4528,397342,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4578,397392,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4629,397442,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4680,397493,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4730,397543,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4780,397594,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4831,397645,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4881,397694,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4931,397745,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,4982,397795,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,5033,397846,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,5083,397896,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,5134,397947,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,5184,397997,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,5245,398059,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,5298,398111,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,5348,398161,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,5402,398215,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,6499,399313,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,7501,400315,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,8507,401321,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,9542,402356,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,10556,403370,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,11609,404423,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,12621,405435,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,13635,406449,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,14646,407459,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,15660,408473,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,16757,409570,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,17770,410583,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,18774,411588,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,19793,412607,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,20805,413618,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,21851,414665,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,22868,415682,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,23936,416749,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,24949,417762,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,26000,418813,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,27063,419877,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,28241,421055,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,29254,422067,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,29649,422463,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,29700,422513,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,29750,422564,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,29801,422615,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,29852,422666,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,29902,422715,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,29952,422766,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,30003,422816,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,30052,422866,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,30103,422917,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,30154,422967,599,364,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,30205,423018,359,294,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,46, below ,30254,423069,494,233,230.06666564941406,478.48333740234375,250.06666564941406,530.5333404541016,4,2,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,17, compare ,30305,423119,467,156,150.06666564941406,428.433349609375,170.06666564941406,503.50001525878906,2,2,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,30356,423169,380,104,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,30407,423220,380,104,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,30456,423270,380,104,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,30507,423320,430,86,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,30557,423371,505,90,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,30608,423422,515,92,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,30658,423472,516,92,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,30710,423523,520,92,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,30760,423573,520,92,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,30810,423624,520,92,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,30860,423674,520,92,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,30910,423724,520,92,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,30961,423775,540,89,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,31011,423825,540,89,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,31062,423876,540,89,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,31113,423926,540,89,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,31163,423977,540,89,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,31214,424027,540,89,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,31265,424077,540,89,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,31315,424128,966,100,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,31365,424178,966,100,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,31416,424229,966,100,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,31466,424279,966,100,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,18, that ,31517,424331,509,169,150.06666564941406,503.5,170.06666564941406,538.5333404541016,2,3,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,17, compare ,31568,424381,493,166,150.06666564941406,428.433349609375,170.06666564941406,503.50001525878906,2,2,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,18, that ,31618,424432,532,158,150.06666564941406,503.5,170.06666564941406,538.5333404541016,2,3,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,22," country, ",31669,424482,743,142,150.06666564941406,724.7333374023438,170.06666564941406,792.4499969482422,2,7,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,10, and ,31724,424538,870,140,110.06666564941406,838.5333251953125,130.06666564941406,873.5833129882812,1,10,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,26, around ,31775,424589,910,150,150.06666564941406,906.5499877929688,170.06666564941406,967.6333160400391,2,11,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,26, around ,31826,424640,957,159,150.06666564941406,906.5499877929688,170.06666564941406,967.6333160400391,2,11,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,27, half ,31876,424690,987,162,150.06666564941406,967.63330078125,170.06666564941406,1001.6666412353516,2,12,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,27, half ,31926,424740,989,163,150.06666564941406,967.63330078125,170.06666564941406,1001.6666412353516,2,12,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,26, around ,31977,424790,961,161,150.06666564941406,906.5499877929688,170.06666564941406,967.6333160400391,2,11,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,21, European ,32026,424840,701,158,150.06666564941406,641.63330078125,170.06666564941406,724.7333068847656,2,6,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,32, One ,32078,424892,504,183,190.06666564941406,473.45001220703125,210.06666564941406,512.4833526611328,3,3,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,30, the ,32128,424942,438,193,190.06666564941406,408.41668701171875,210.06666564941406,438.45001220703125,3,1,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,30, the ,32179,424992,434,195,190.06666564941406,408.41668701171875,210.06666564941406,438.45001220703125,3,1,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,31, UK. ,32229,425043,460,211,190.06666564941406,438.45001220703125,210.06666564941406,473.45001220703125,3,2,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,48, per ,32280,425094,586,222,230.06666564941406,555.566650390625,250.06666564941406,586.5999908447266,4,4,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,38, down ,32330,425145,773,218,190.06666564941406,759.433349609375,210.06666564941406,807.4833526611328,3,9,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,41, number ,32382,425195,917,218,190.06666564941406,872.566650390625,210.06666564941406,938.6333160400391,3,12,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,57, responsibility ,32431,425245,975,229,230.06666564941406,920.9500122070312,250.06666564941406,1030.0333557128906,4,13,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,57, responsibility ,32483,425297,981,230,230.06666564941406,920.9500122070312,250.06666564941406,1030.0333557128906,4,13,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,57, responsibility ,32533,425347,951,225,230.06666564941406,920.9500122070312,250.06666564941406,1030.0333557128906,4,13,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,52, that ,32584,425397,762,223,230.06666564941406,733.7833251953125,250.06666564941406,768.816650390625,4,8,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,64," example, ",32634,425448,593,279,270.066650390625,519.4833374023438,290.066650390625,597.5500030517578,5,5,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,64," example, ",32685,425498,546,298,270.066650390625,519.4833374023438,290.066650390625,597.5500030517578,5,5,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,64," example, ",32735,425548,520,296,270.066650390625,519.4833374023438,290.066650390625,597.5500030517578,5,5,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,63, for ,32786,425599,516,294,270.066650390625,493.4666748046875,290.066650390625,519.4833526611328,5,4,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,63, for ,32836,425650,516,294,270.066650390625,493.4666748046875,290.066650390625,519.4833526611328,5,4,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,81, reoffending ,32888,425701,578,307,310.066650390625,570.5999755859375,330.066650390625,665.3999633789062,6,5,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,82, rates. ,32938,425752,710,316,310.066650390625,665.4000244140625,330.066650390625,715.4333648681641,6,6,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,84," Sweden, ",32988,425803,772,332,310.066650390625,735.4500122070312,330.066650390625,810.5166778564453,6,8,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,84," Sweden, ",33039,425853,780,336,310.066650390625,735.4500122070312,330.066650390625,810.5166778564453,6,8,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,84," Sweden, ",33090,425903,778,336,310.066650390625,735.4500122070312,330.066650390625,810.5166778564453,6,8,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,82, rates. ,33140,425953,690,318,310.066650390625,665.4000244140625,330.066650390625,715.4333648681641,6,6,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,81, reoffending ,33191,426004,575,302,310.066650390625,570.5999755859375,330.066650390625,665.3999633789062,6,5,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,80, highest ,33241,426054,552,302,310.066650390625,507.5333251953125,330.066650390625,570.5999908447266,6,4,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,80, highest ,33295,426109,551,327,310.066650390625,507.5333251953125,330.066650390625,570.5999908447266,6,4,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,114, young ,33346,426159,586,389,390.066650390625,536.5166625976562,410.066650390625,590.5833282470703,8,5,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,115, offenders ,33396,426209,637,411,390.066650390625,590.5833129882812,410.066650390625,670.3499908447266,8,6,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,115, offenders ,33447,426260,645,413,390.066650390625,590.5833129882812,410.066650390625,670.3499908447266,8,6,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,114, young ,33497,426311,590,418,390.066650390625,536.5166625976562,410.066650390625,590.5833282470703,8,5,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,113, keep ,33547,426361,520,411,390.066650390625,492.4666748046875,410.066650390625,536.5166778564453,8,4,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,113, keep ,33598,426412,532,400,390.066650390625,492.4666748046875,410.066650390625,536.5166778564453,8,4,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,115, offenders ,33649,426462,604,391,390.066650390625,590.5833129882812,410.066650390625,670.3499908447266,8,6,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,116, out ,33699,426512,682,398,390.066650390625,670.3499755859375,410.066650390625,700.38330078125,8,7,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,117, of ,33749,426563,708,402,390.066650390625,700.38330078125,410.066650390625,720.3999633789062,8,8,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,117, of ,33801,426614,716,415,390.066650390625,700.38330078125,410.066650390625,720.3999633789062,8,8,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,33851,426665,720,433,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,33901,426715,720,433,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,33951,426765,720,433,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,34002,426816,720,433,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,34053,426866,720,433,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,34102,426916,720,433,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,34153,426966,720,433,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,34203,427017,720,433,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,34253,427067,720,433,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,34303,427116,720,433,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific
+8DKKDZ4B,EmTest1,2,int,28,3,3,4,-1,999,34353,427167,720,433,,,,,,,The reoffending rate for people under 15 in Sweden,0,,,,,1970-01-01T00:00:00.609Z,,,,,,,,,spotlight-prolific

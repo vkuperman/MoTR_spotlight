@@ -1,0 +1,865 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,600,745200,347,84,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,644,745244,360,93,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,695,745294,377,107,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,745,745345,387,117,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,1, After ,795,745395,400,123,109.2734375,400.375,129.7734375,443.390625,1,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,1, After ,845,745445,408,125,109.2734375,400.375,129.7734375,443.390625,1,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,1, After ,896,745496,411,124,109.2734375,400.375,129.7734375,443.390625,1,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,1, After ,946,745546,411,124,109.2734375,400.375,129.7734375,443.390625,1,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,1, After ,996,745596,411,124,109.2734375,400.375,129.7734375,443.390625,1,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,1, After ,1047,745647,411,124,109.2734375,400.375,129.7734375,443.390625,1,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,1, After ,1097,745697,411,124,109.2734375,400.375,129.7734375,443.390625,1,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,1, After ,1146,745746,411,124,109.2734375,400.375,129.7734375,443.390625,1,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,1, After ,1195,745795,411,124,109.2734375,400.375,129.7734375,443.390625,1,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,1, After ,1244,745844,416,124,109.2734375,400.375,129.7734375,443.390625,1,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,2, two ,1295,745894,447,124,109.2734375,443.390625,129.7734375,476.40625,1,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,3, years ,1345,745945,486,124,109.2734375,476.40625,129.7734375,525.4296875,1,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,3, years ,1395,745995,509,125,109.2734375,476.40625,129.7734375,525.4296875,1,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,4, of ,1445,746045,529,129,109.2734375,525.4296875,129.7734375,545.4453125,1,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,5, successful ,1495,746095,552,130,109.2734375,545.4453125,129.7734375,634.484375,1,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,5, successful ,1545,746145,595,119,109.2734375,545.4453125,129.7734375,634.484375,1,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,5, successful ,1596,746196,622,115,109.2734375,545.4453125,129.7734375,634.484375,1,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,5, successful ,1646,746246,622,115,109.2734375,545.4453125,129.7734375,634.484375,1,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,5, successful ,1696,746296,622,115,109.2734375,545.4453125,129.7734375,634.484375,1,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,5, successful ,1746,746346,622,115,109.2734375,545.4453125,129.7734375,634.484375,1,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,5, successful ,1795,746395,622,115,109.2734375,545.4453125,129.7734375,634.484375,1,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,5, successful ,1846,746445,622,115,109.2734375,545.4453125,129.7734375,634.484375,1,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,5, successful ,1895,746495,622,115,109.2734375,545.4453125,129.7734375,634.484375,1,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,5, successful ,1945,746545,622,115,109.2734375,545.4453125,129.7734375,634.484375,1,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,5, successful ,1995,746595,622,115,109.2734375,545.4453125,129.7734375,634.484375,1,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,5, successful ,2045,746644,622,115,109.2734375,545.4453125,129.7734375,634.484375,1,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,6, ads ,2095,746695,643,114,109.2734375,634.484375,129.7734375,668.5078125,1,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,7, with ,2144,746744,695,111,109.2734375,668.5078125,129.7734375,705.5234375,1,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,8, cuddly ,2194,746794,745,111,109.2734375,705.5234375,129.7734375,762.5625,1,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,9, animals ,2245,746845,764,121,109.2734375,762.5625,129.7734375,829.59375,1,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,9, animals ,2295,746895,770,126,109.2734375,762.5625,129.7734375,829.59375,1,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,9, animals ,2345,746945,774,127,109.2734375,762.5625,129.7734375,829.59375,1,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,9, animals ,2395,746995,779,127,109.2734375,762.5625,129.7734375,829.59375,1,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,9, animals ,2445,747044,786,126,109.2734375,762.5625,129.7734375,829.59375,1,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,9, animals ,2495,747095,798,124,109.2734375,762.5625,129.7734375,829.59375,1,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,9, animals ,2545,747145,812,123,109.2734375,762.5625,129.7734375,829.59375,1,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,9, animals ,2595,747195,827,126,109.2734375,762.5625,129.7734375,829.59375,1,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,10, – ,2645,747245,842,129,109.2734375,829.59375,129.7734375,844.609375,1,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,11, a ,2695,747295,854,131,109.2734375,844.609375,129.7734375,859.625,1,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,12, bear ,2745,747345,861,132,109.2734375,859.625,129.7734375,900.65625,1,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,12, bear ,2795,747395,864,132,109.2734375,859.625,129.7734375,900.65625,1,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,12, bear ,2845,747445,871,130,109.2734375,859.625,129.7734375,900.65625,1,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,12, bear ,2895,747495,888,124,109.2734375,859.625,129.7734375,900.65625,1,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,13, and ,2945,747545,903,121,109.2734375,900.65625,129.7734375,935.6953125,1,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,13, and ,2995,747595,913,121,109.2734375,900.65625,129.7734375,935.6953125,1,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,13, and ,3045,747645,924,122,109.2734375,900.65625,129.7734375,935.6953125,1,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,14," hare, ",3095,747694,938,123,109.2734375,935.6953125,129.7734375,981.7265625,1,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,14," hare, ",3145,747745,950,124,109.2734375,935.6953125,129.7734375,981.7265625,1,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,14," hare, ",3195,747795,967,128,109.2734375,935.6953125,129.7734375,981.7265625,1,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,15, then ,3245,747845,989,132,109.2734375,981.7265625,129.7734375,1021.765625,1,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,15, then ,3295,747895,1004,132,109.2734375,981.7265625,129.7734375,1021.765625,1,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,15, then ,3345,747945,1012,132,109.2734375,981.7265625,129.7734375,1021.765625,1,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,15, then ,3395,747995,1017,132,109.2734375,981.7265625,129.7734375,1021.765625,1,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,15, then ,3445,748045,1019,133,109.2734375,981.7265625,129.7734375,1021.765625,1,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,15, then ,3495,748095,1013,134,109.2734375,981.7265625,129.7734375,1021.765625,1,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,14," hare, ",3545,748145,970,139,109.2734375,935.6953125,129.7734375,981.7265625,1,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,28, with ,3594,748194,904,146,149.2734375,867.671875,169.7734375,904.6875,2,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,27, heartstrings ,3645,748245,836,146,149.2734375,768.625,169.7734375,867.671875,2,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,26, the ,3694,748294,740,141,149.2734375,738.6015625,169.7734375,768.625,2,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,22, store ,3744,748344,614,142,149.2734375,591.5078125,169.7734375,636.53125,2,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,17, penguin ,3795,748395,460,157,149.2734375,400.375,169.7734375,469.4453125,2,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,17, penguin ,3845,748445,405,164,149.2734375,400.375,169.7734375,469.4453125,2,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,3895,748495,384,168,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,3945,748544,373,170,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,3995,748595,359,171,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,4045,748645,346,174,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,4095,748695,344,176,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,4145,748744,355,176,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,4195,748794,372,173,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,4244,748844,392,169,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,17, penguin ,4295,748895,411,165,149.2734375,400.375,169.7734375,469.4453125,2,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,17, penguin ,4345,748945,429,161,149.2734375,400.375,169.7734375,469.4453125,2,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,17, penguin ,4394,748994,442,160,149.2734375,400.375,169.7734375,469.4453125,2,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,17, penguin ,4445,749045,456,160,149.2734375,400.375,169.7734375,469.4453125,2,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,17, penguin ,4495,749095,464,159,149.2734375,400.375,169.7734375,469.4453125,2,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,17, penguin ,4546,749145,465,159,149.2734375,400.375,169.7734375,469.4453125,2,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,17, penguin ,4596,749196,465,159,149.2734375,400.375,169.7734375,469.4453125,2,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,17, penguin ,4646,749246,465,159,149.2734375,400.375,169.7734375,469.4453125,2,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,17, penguin ,4695,749295,465,159,149.2734375,400.375,169.7734375,469.4453125,2,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,17, penguin ,4747,749347,465,159,149.2734375,400.375,169.7734375,469.4453125,2,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,18, – ,4795,749395,481,157,149.2734375,469.4453125,169.7734375,484.4609375,2,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,19, this ,4845,749445,508,157,149.2734375,484.4609375,169.7734375,517.4765625,2,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,20," time, ",4895,749495,538,157,149.2734375,517.4765625,169.7734375,561.484375,2,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,21, the ,4945,749545,574,158,149.2734375,561.484375,169.7734375,591.5078125,2,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,22, store ,4994,749594,600,158,149.2734375,591.5078125,169.7734375,636.53125,2,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,22, store ,5045,749645,615,158,149.2734375,591.5078125,169.7734375,636.53125,2,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,22, store ,5095,749695,624,160,149.2734375,591.5078125,169.7734375,636.53125,2,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,22, store ,5145,749745,629,162,149.2734375,591.5078125,169.7734375,636.53125,2,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,22, store ,5195,749795,634,162,149.2734375,591.5078125,169.7734375,636.53125,2,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,23, is ,5245,749845,642,162,149.2734375,636.53125,169.7734375,654.53125,2,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,24, tugging ,5295,749894,655,163,149.2734375,654.53125,169.7734375,718.5859375,2,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,24, tugging ,5345,749945,674,163,149.2734375,654.53125,169.7734375,718.5859375,2,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,24, tugging ,5395,749995,700,163,149.2734375,654.53125,169.7734375,718.5859375,2,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,25, at ,5445,750045,719,162,149.2734375,718.5859375,169.7734375,738.6015625,2,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,25, at ,5496,750096,720,162,149.2734375,718.5859375,169.7734375,738.6015625,2,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,25, at ,5546,750146,720,162,149.2734375,718.5859375,169.7734375,738.6015625,2,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,25, at ,5596,750196,720,162,149.2734375,718.5859375,169.7734375,738.6015625,2,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,25, at ,5647,750246,720,162,149.2734375,718.5859375,169.7734375,738.6015625,2,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,25, at ,5696,750296,720,162,149.2734375,718.5859375,169.7734375,738.6015625,2,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,25, at ,5747,750347,720,162,149.2734375,718.5859375,169.7734375,738.6015625,2,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,25, at ,5794,750394,728,160,149.2734375,718.5859375,169.7734375,738.6015625,2,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,26, the ,5844,750444,750,155,149.2734375,738.6015625,169.7734375,768.625,2,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,27, heartstrings ,5895,750495,772,154,149.2734375,768.625,169.7734375,867.671875,2,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,27, heartstrings ,5945,750544,782,154,149.2734375,768.625,169.7734375,867.671875,2,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,27, heartstrings ,5995,750595,787,155,149.2734375,768.625,169.7734375,867.671875,2,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,27, heartstrings ,6045,750644,795,155,149.2734375,768.625,169.7734375,867.671875,2,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,27, heartstrings ,6095,750694,807,155,149.2734375,768.625,169.7734375,867.671875,2,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,27, heartstrings ,6145,750745,822,155,149.2734375,768.625,169.7734375,867.671875,2,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,27, heartstrings ,6195,750794,840,155,149.2734375,768.625,169.7734375,867.671875,2,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,27, heartstrings ,6245,750845,855,156,149.2734375,768.625,169.7734375,867.671875,2,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,27, heartstrings ,6295,750894,867,157,149.2734375,768.625,169.7734375,867.671875,2,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,28, with ,6345,750945,879,159,149.2734375,867.671875,169.7734375,904.6875,2,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,28, with ,6395,750995,892,159,149.2734375,867.671875,169.7734375,904.6875,2,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,29, a ,6445,751045,908,159,149.2734375,904.6875,169.7734375,919.703125,2,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,30, story ,6495,751095,926,160,149.2734375,919.703125,169.7734375,963.7109375,2,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,30, story ,6545,751145,943,162,149.2734375,919.703125,169.7734375,963.7109375,2,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,31, of ,6595,751195,964,163,149.2734375,963.7109375,169.7734375,983.7265625,2,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,32, a ,6645,751245,987,164,149.2734375,983.7265625,169.7734375,998.7421875,2,16,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,32, a ,6695,751295,998,165,149.2734375,983.7265625,169.7734375,998.7421875,2,16,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,33, young ,6745,751345,1007,166,149.2734375,998.7421875,169.7734375,1047.7890625,2,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,33, young ,6794,751394,1014,166,149.2734375,998.7421875,169.7734375,1047.7890625,2,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,33, young ,6846,751445,1016,167,149.2734375,998.7421875,169.7734375,1047.7890625,2,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,33, young ,6895,751495,1015,167,149.2734375,998.7421875,169.7734375,1047.7890625,2,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,33, young ,6945,751545,1000,167,149.2734375,998.7421875,169.7734375,1047.7890625,2,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,30, story ,6995,751595,956,165,149.2734375,919.703125,169.7734375,963.7109375,2,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,28, with ,7045,751645,875,159,149.2734375,867.671875,169.7734375,904.6875,2,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,27, heartstrings ,7095,751695,775,157,149.2734375,768.625,169.7734375,867.671875,2,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,24, tugging ,7145,751745,686,167,149.2734375,654.53125,169.7734375,718.5859375,2,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,40, man ,7195,751795,615,187,189.2734375,610.1640625,209.7734375,650.1875,3,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,38, an ,7245,751845,565,199,189.2734375,556.1171875,209.7734375,581.140625,3,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,37, spots ,7295,751894,530,206,189.2734375,508.09375,209.7734375,556.1171875,3,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,36, who ,7345,751945,508,209,189.2734375,470.0703125,209.7734375,508.09375,3,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,36, who ,7395,751995,485,213,189.2734375,470.0703125,209.7734375,508.09375,3,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,35," Lily, ",7445,752045,457,217,189.2734375,434.3828125,209.7734375,470.0703125,3,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,34," girl, ",7495,752095,419,219,189.2734375,400.375,209.7734375,434.3828125,3,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,7544,752144,396,220,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,7595,752194,389,220,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,7644,752244,389,220,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,7694,752294,389,217,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,7745,752345,389,215,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,7794,752394,389,213,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,7844,752444,391,210,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,7894,752494,392,208,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,7945,752545,392,208,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,7994,752594,395,206,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,34," girl, ",8044,752644,402,203,189.2734375,400.375,209.7734375,434.3828125,3,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,34," girl, ",8095,752695,416,200,189.2734375,400.375,209.7734375,434.3828125,3,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,34," girl, ",8145,752745,428,198,189.2734375,400.375,209.7734375,434.3828125,3,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,35," Lily, ",8195,752795,446,195,189.2734375,434.3828125,209.7734375,470.0703125,3,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,35," Lily, ",8245,752845,461,195,189.2734375,434.3828125,209.7734375,470.0703125,3,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,36, who ,8295,752895,471,195,189.2734375,470.0703125,209.7734375,508.09375,3,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,36, who ,8345,752944,481,195,189.2734375,470.0703125,209.7734375,508.09375,3,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,36, who ,8395,752995,491,194,189.2734375,470.0703125,209.7734375,508.09375,3,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,36, who ,8445,753045,505,194,189.2734375,470.0703125,209.7734375,508.09375,3,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,37, spots ,8495,753095,519,192,189.2734375,508.09375,209.7734375,556.1171875,3,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,37, spots ,8545,753145,533,190,189.2734375,508.09375,209.7734375,556.1171875,3,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,37, spots ,8595,753195,551,187,189.2734375,508.09375,209.7734375,556.1171875,3,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,38, an ,8644,753244,570,186,189.2734375,556.1171875,209.7734375,581.140625,3,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,39, old ,8695,753295,591,186,189.2734375,581.140625,209.7734375,610.1640625,3,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,39, old ,8745,753345,607,188,189.2734375,581.140625,209.7734375,610.1640625,3,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,40, man ,8795,753395,618,189,189.2734375,610.1640625,209.7734375,650.1875,3,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,40, man ,8845,753445,626,189,189.2734375,610.1640625,209.7734375,650.1875,3,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,40, man ,8895,753495,633,189,189.2734375,610.1640625,209.7734375,650.1875,3,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,40, man ,8944,753544,641,190,189.2734375,610.1640625,209.7734375,650.1875,3,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,41, living ,8995,753595,655,193,189.2734375,650.1875,209.7734375,696.2109375,3,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,41, living ,9045,753645,670,195,189.2734375,650.1875,209.7734375,696.2109375,3,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,41, living ,9095,753695,684,198,189.2734375,650.1875,209.7734375,696.2109375,3,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,41, living ,9145,753745,693,200,189.2734375,650.1875,209.7734375,696.2109375,3,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,42, in ,9195,753795,700,202,189.2734375,696.2109375,209.7734375,715.2265625,3,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,42, in ,9245,753845,706,203,189.2734375,696.2109375,209.7734375,715.2265625,3,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,42, in ,9294,753894,714,204,189.2734375,696.2109375,209.7734375,715.2265625,3,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,43, a ,9344,753944,729,204,189.2734375,715.2265625,209.7734375,730.2421875,3,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,44, shack ,9394,753994,745,204,189.2734375,730.2421875,209.7734375,782.265625,3,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,44, shack ,9445,754045,762,203,189.2734375,730.2421875,209.7734375,782.265625,3,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,44, shack ,9494,754094,771,202,189.2734375,730.2421875,209.7734375,782.265625,3,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,44, shack ,9545,754145,777,202,189.2734375,730.2421875,209.7734375,782.265625,3,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,45, on ,9595,754195,783,203,189.2734375,782.265625,209.7734375,807.2890625,3,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,45, on ,9645,754245,791,204,189.2734375,782.265625,209.7734375,807.2890625,3,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,45, on ,9695,754295,803,204,189.2734375,782.265625,209.7734375,807.2890625,3,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,46, the ,9745,754345,815,203,189.2734375,807.2890625,209.7734375,837.3125,3,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,46, the ,9795,754395,824,202,189.2734375,807.2890625,209.7734375,837.3125,3,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,46, the ,9846,754445,830,201,189.2734375,807.2890625,209.7734375,837.3125,3,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,46, the ,9895,754495,837,200,189.2734375,807.2890625,209.7734375,837.3125,3,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,47, moon ,9945,754545,843,199,189.2734375,837.3125,209.7734375,887.34375,3,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,47, moon ,9995,754595,849,198,189.2734375,837.3125,209.7734375,887.34375,3,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,47, moon ,10045,754645,855,197,189.2734375,837.3125,209.7734375,887.34375,3,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,47, moon ,10095,754695,860,196,189.2734375,837.3125,209.7734375,887.34375,3,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,47, moon ,10145,754745,865,196,189.2734375,837.3125,209.7734375,887.34375,3,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,47, moon ,10195,754794,869,195,189.2734375,837.3125,209.7734375,887.34375,3,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,47, moon ,10245,754845,874,194,189.2734375,837.3125,209.7734375,887.34375,3,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,47, moon ,10294,754894,878,194,189.2734375,837.3125,209.7734375,887.34375,3,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,47, moon ,10346,754945,880,194,189.2734375,837.3125,209.7734375,887.34375,3,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,47, moon ,10396,754996,880,194,189.2734375,837.3125,209.7734375,887.34375,3,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,47, moon ,10445,755044,881,194,189.2734375,837.3125,209.7734375,887.34375,3,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,10494,755094,888,194,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,10545,755144,894,194,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,10594,755194,899,194,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,10645,755245,902,194,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,10695,755295,907,194,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,10745,755345,913,193,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,10795,755394,919,192,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,10845,755445,922,191,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,10894,755494,924,190,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,10945,755544,925,189,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,10995,755595,926,188,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,11045,755645,926,188,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,11096,755695,926,188,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,11146,755746,926,188,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,11196,755795,926,188,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,11246,755846,926,188,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,11296,755896,926,188,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,11346,755946,926,188,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,11396,755996,926,188,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,11445,756045,926,188,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,11496,756096,926,188,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,11545,756145,926,188,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,11596,756196,926,188,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,11646,756246,926,188,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,11694,756294,930,188,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,48, through ,11744,756344,950,188,189.2734375,887.34375,209.7734375,953.3984375,3,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,50, telescope. ,11795,756395,988,188,189.2734375,984.421875,209.7734375,1066.4765625,3,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,50, telescope. ,11845,756445,1024,188,189.2734375,984.421875,209.7734375,1066.4765625,3,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,50, telescope. ,11895,756495,1053,186,189.2734375,984.421875,209.7734375,1066.4765625,3,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,11945,756544,1067,183,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,11995,756595,1069,183,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,12045,756645,1069,183,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,12095,756695,1069,183,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,12145,756745,1069,183,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,12195,756795,1068,183,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,50, telescope. ,12244,756844,1065,188,189.2734375,984.421875,209.7734375,1066.4765625,3,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,50, telescope. ,12294,756894,1060,192,189.2734375,984.421875,209.7734375,1066.4765625,3,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,50, telescope. ,12345,756945,1051,196,189.2734375,984.421875,209.7734375,1066.4765625,3,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,50, telescope. ,12395,756995,1039,200,189.2734375,984.421875,209.7734375,1066.4765625,3,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,50, telescope. ,12445,757045,1008,206,189.2734375,984.421875,209.7734375,1066.4765625,3,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,49, her ,12495,757095,981,210,189.2734375,953.3984375,209.7734375,984.421875,3,16,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,60, firing ,12545,757145,830,227,229.2734375,809.625,249.7734375,853.640625,4,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,56, him ,12595,757195,714,243,229.2734375,680.5390625,249.7734375,714.546875,4,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,55, sending ,12645,757245,638,255,229.2734375,612.484375,249.7734375,680.5390625,4,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,71, present ,12695,757295,594,260,269.2734375,568.484375,289.7734375,633.5234375,5,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,70, a ,12745,757345,565,261,269.2734375,553.46875,289.7734375,568.484375,5,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,69, him ,12795,757395,538,261,269.2734375,519.4609375,289.7734375,553.46875,5,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,69, him ,12845,757445,521,263,269.2734375,519.4609375,289.7734375,553.46875,5,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,12896,757496,510,268,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,12945,757545,510,268,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,12996,757596,510,268,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,13046,757645,510,268,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,13096,757696,510,268,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,13146,757745,510,268,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,13195,757795,510,268,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,13246,757846,510,268,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,13295,757895,510,268,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,13345,757945,486,268,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,67, before ,13395,757995,449,273,269.2734375,400.375,289.7734375,456.4140625,5,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,67, before ,13444,758044,440,275,269.2734375,400.375,289.7734375,456.4140625,5,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,67, before ,13495,758095,438,275,269.2734375,400.375,289.7734375,456.4140625,5,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,67, before ,13545,758145,437,273,269.2734375,400.375,289.7734375,456.4140625,5,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,67, before ,13594,758194,435,268,269.2734375,400.375,289.7734375,456.4140625,5,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,67, before ,13645,758245,429,262,269.2734375,400.375,289.7734375,456.4140625,5,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,51, The ,13695,758295,422,257,229.2734375,400.375,249.7734375,436.3984375,4,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,51, The ,13745,758345,419,253,229.2734375,400.375,249.7734375,436.3984375,4,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,51, The ,13795,758395,418,251,229.2734375,400.375,249.7734375,436.3984375,4,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,51, The ,13845,758444,416,249,229.2734375,400.375,249.7734375,436.3984375,4,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,51, The ,13894,758494,414,245,229.2734375,400.375,249.7734375,436.3984375,4,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,51, The ,13945,758545,412,241,229.2734375,400.375,249.7734375,436.3984375,4,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,51, The ,13995,758595,412,241,229.2734375,400.375,249.7734375,436.3984375,4,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,51, The ,14047,758646,412,241,229.2734375,400.375,249.7734375,436.3984375,4,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,51, The ,14096,758696,412,241,229.2734375,400.375,249.7734375,436.3984375,4,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,51, The ,14146,758746,412,241,229.2734375,400.375,249.7734375,436.3984375,4,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,51, The ,14196,758796,412,241,229.2734375,400.375,249.7734375,436.3984375,4,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,51, The ,14246,758846,412,241,229.2734375,400.375,249.7734375,436.3984375,4,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,51, The ,14296,758896,412,241,229.2734375,400.375,249.7734375,436.3984375,4,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,51, The ,14345,758945,412,241,229.2734375,400.375,249.7734375,436.3984375,4,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,51, The ,14395,758995,416,242,229.2734375,400.375,249.7734375,436.3984375,4,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,51, The ,14445,759045,425,243,229.2734375,400.375,249.7734375,436.3984375,4,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,52, determined ,14495,759095,437,242,229.2734375,436.3984375,249.7734375,531.453125,4,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,52, determined ,14545,759145,450,240,229.2734375,436.3984375,249.7734375,531.453125,4,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,52, determined ,14595,759195,459,238,229.2734375,436.3984375,249.7734375,531.453125,4,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,52, determined ,14645,759245,468,238,229.2734375,436.3984375,249.7734375,531.453125,4,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,52, determined ,14695,759295,486,238,229.2734375,436.3984375,249.7734375,531.453125,4,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,52, determined ,14745,759344,503,238,229.2734375,436.3984375,249.7734375,531.453125,4,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,52, determined ,14795,759395,519,238,229.2734375,436.3984375,249.7734375,531.453125,4,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,53, child ,14845,759444,533,238,229.2734375,531.453125,249.7734375,573.4765625,4,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,53, child ,14895,759494,546,238,229.2734375,531.453125,249.7734375,573.4765625,4,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,53, child ,14945,759545,557,238,229.2734375,531.453125,249.7734375,573.4765625,4,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,53, child ,14995,759595,566,239,229.2734375,531.453125,249.7734375,573.4765625,4,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,54, tries ,15045,759644,578,239,229.2734375,573.4765625,249.7734375,612.484375,4,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,54, tries ,15095,759695,591,239,229.2734375,573.4765625,249.7734375,612.484375,4,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,54, tries ,15145,759745,608,240,229.2734375,573.4765625,249.7734375,612.484375,4,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,55, sending ,15195,759795,622,240,229.2734375,612.484375,249.7734375,680.5390625,4,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,55, sending ,15245,759845,641,240,229.2734375,612.484375,249.7734375,680.5390625,4,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,55, sending ,15295,759895,661,240,229.2734375,612.484375,249.7734375,680.5390625,4,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,55, sending ,15345,759945,679,239,229.2734375,612.484375,249.7734375,680.5390625,4,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,56, him ,15395,759995,696,239,229.2734375,680.5390625,249.7734375,714.546875,4,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,56, him ,15445,760045,707,239,229.2734375,680.5390625,249.7734375,714.546875,4,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,57, a ,15495,760095,715,239,229.2734375,714.546875,249.7734375,729.5625,4,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,57, a ,15545,760145,721,239,229.2734375,714.546875,249.7734375,729.5625,4,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,57, a ,15596,760195,728,239,229.2734375,714.546875,249.7734375,729.5625,4,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,58, letter ,15645,760245,734,239,229.2734375,729.5625,249.7734375,774.5859375,4,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,58, letter ,15695,760295,743,239,229.2734375,729.5625,249.7734375,774.5859375,4,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,58, letter ,15745,760345,753,241,229.2734375,729.5625,249.7734375,774.5859375,4,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,58, letter ,15795,760395,762,242,229.2734375,729.5625,249.7734375,774.5859375,4,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,58, letter ,15845,760445,771,243,229.2734375,729.5625,249.7734375,774.5859375,4,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,59, and ,15895,760495,779,243,229.2734375,774.5859375,249.7734375,809.625,4,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,59, and ,15945,760545,786,243,229.2734375,774.5859375,249.7734375,809.625,4,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,59, and ,15995,760595,796,243,229.2734375,774.5859375,249.7734375,809.625,4,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,59, and ,16045,760645,806,243,229.2734375,774.5859375,249.7734375,809.625,4,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,60, firing ,16095,760695,819,244,229.2734375,809.625,249.7734375,853.640625,4,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,60, firing ,16146,760746,829,246,229.2734375,809.625,249.7734375,853.640625,4,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,60, firing ,16196,760796,829,246,229.2734375,809.625,249.7734375,853.640625,4,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,60, firing ,16246,760846,829,246,229.2734375,809.625,249.7734375,853.640625,4,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,60, firing ,16296,760895,829,246,229.2734375,809.625,249.7734375,853.640625,4,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,60, firing ,16346,760946,829,246,229.2734375,809.625,249.7734375,853.640625,4,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,60, firing ,16396,760996,829,246,229.2734375,809.625,249.7734375,853.640625,4,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,60, firing ,16446,761046,829,246,229.2734375,809.625,249.7734375,853.640625,4,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,60, firing ,16496,761095,829,246,229.2734375,809.625,249.7734375,853.640625,4,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,60, firing ,16546,761146,829,246,229.2734375,809.625,249.7734375,853.640625,4,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,60, firing ,16596,761196,829,246,229.2734375,809.625,249.7734375,853.640625,4,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,60, firing ,16645,761245,833,246,229.2734375,809.625,249.7734375,853.640625,4,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,60, firing ,16695,761295,843,243,229.2734375,809.625,249.7734375,853.640625,4,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,60, firing ,16745,761345,853,242,229.2734375,809.625,249.7734375,853.640625,4,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,62, note ,16795,761395,869,240,229.2734375,868.65625,249.7734375,908.6953125,4,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,62, note ,16844,761444,886,238,229.2734375,868.65625,249.7734375,908.6953125,4,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,62, note ,16895,761494,903,234,229.2734375,868.65625,249.7734375,908.6953125,4,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,63, via ,16945,761545,916,232,229.2734375,908.6953125,249.7734375,936.7109375,4,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,63, via ,16995,761595,928,231,229.2734375,908.6953125,249.7734375,936.7109375,4,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,64, bow ,17045,761645,938,231,229.2734375,936.7109375,249.7734375,974.734375,4,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,64, bow ,17095,761694,946,231,229.2734375,936.7109375,249.7734375,974.734375,4,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,64, bow ,17145,761745,956,233,229.2734375,936.7109375,249.7734375,974.734375,4,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,64, bow ,17195,761795,966,235,229.2734375,936.7109375,249.7734375,974.734375,4,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,65, and ,17244,761844,975,236,229.2734375,974.734375,249.7734375,1009.7734375,4,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,65, and ,17295,761895,983,237,229.2734375,974.734375,249.7734375,1009.7734375,4,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,65, and ,17345,761945,991,237,229.2734375,974.734375,249.7734375,1009.7734375,4,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,65, and ,17395,761995,998,238,229.2734375,974.734375,249.7734375,1009.7734375,4,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,65, and ,17445,762045,1006,238,229.2734375,974.734375,249.7734375,1009.7734375,4,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,66," arrow, ",17495,762095,1013,238,229.2734375,1009.7734375,249.7734375,1058.8046875,4,16,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,66," arrow, ",17545,762145,1020,238,229.2734375,1009.7734375,249.7734375,1058.8046875,4,16,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,66," arrow, ",17598,762198,1026,236,229.2734375,1009.7734375,249.7734375,1058.8046875,4,16,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,66," arrow, ",17645,762245,1031,236,229.2734375,1009.7734375,249.7734375,1058.8046875,4,16,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,66," arrow, ",17697,762297,1035,235,229.2734375,1009.7734375,249.7734375,1058.8046875,4,16,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,66," arrow, ",17746,762346,1035,235,229.2734375,1009.7734375,249.7734375,1058.8046875,4,16,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,66," arrow, ",17796,762396,1035,235,229.2734375,1009.7734375,249.7734375,1058.8046875,4,16,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,66," arrow, ",17847,762446,1035,235,229.2734375,1009.7734375,249.7734375,1058.8046875,4,16,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,66," arrow, ",17896,762496,1035,235,229.2734375,1009.7734375,249.7734375,1058.8046875,4,16,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,66," arrow, ",17946,762545,1035,235,229.2734375,1009.7734375,249.7734375,1058.8046875,4,16,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,66," arrow, ",17995,762595,1020,235,229.2734375,1009.7734375,249.7734375,1058.8046875,4,16,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,63, via ,18045,762645,928,237,229.2734375,908.6953125,249.7734375,936.7109375,4,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,58, letter ,18095,762695,749,222,229.2734375,729.5625,249.7734375,774.5859375,4,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,39, old ,18145,762745,592,208,189.2734375,581.140625,209.7734375,610.1640625,3,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,36, who ,18195,762795,493,210,189.2734375,470.0703125,209.7734375,508.09375,3,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,52, determined ,18245,762845,442,226,229.2734375,436.3984375,249.7734375,531.453125,4,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,51, The ,18295,762895,407,243,229.2734375,400.375,249.7734375,436.3984375,4,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,18344,762944,387,251,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,18394,762994,383,255,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,18445,763045,383,260,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,18494,763094,383,265,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,18545,763144,388,269,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,18595,763194,392,271,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,18644,763244,395,272,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,18695,763295,399,272,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,67, before ,18745,763345,409,271,269.2734375,400.375,289.7734375,456.4140625,5,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,67, before ,18795,763395,427,268,269.2734375,400.375,289.7734375,456.4140625,5,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,67, before ,18845,763445,449,267,269.2734375,400.375,289.7734375,456.4140625,5,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,18895,763495,470,267,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,18945,763545,483,267,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,18995,763595,490,268,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,19045,763645,497,269,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,19095,763694,504,270,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,19145,763745,510,270,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,19195,763794,512,270,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,19246,763846,513,270,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,19295,763894,516,270,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,69, him ,19344,763944,522,270,269.2734375,519.4609375,289.7734375,553.46875,5,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,69, him ,19394,763994,529,271,269.2734375,519.4609375,289.7734375,553.46875,5,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,69, him ,19444,764044,537,272,269.2734375,519.4609375,289.7734375,553.46875,5,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,69, him ,19495,764095,548,272,269.2734375,519.4609375,289.7734375,553.46875,5,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,70, a ,19545,764145,561,272,269.2734375,553.46875,289.7734375,568.484375,5,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,71, present ,19595,764195,574,273,269.2734375,568.484375,289.7734375,633.5234375,5,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,71, present ,19645,764245,585,274,269.2734375,568.484375,289.7734375,633.5234375,5,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,71, present ,19695,764295,591,274,269.2734375,568.484375,289.7734375,633.5234375,5,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,71, present ,19745,764345,597,275,269.2734375,568.484375,289.7734375,633.5234375,5,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,71, present ,19795,764394,607,277,269.2734375,568.484375,289.7734375,633.5234375,5,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,71, present ,19845,764445,619,277,269.2734375,568.484375,289.7734375,633.5234375,5,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,71, present ,19895,764494,629,277,269.2734375,568.484375,289.7734375,633.5234375,5,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,72, of ,19944,764544,634,277,269.2734375,633.5234375,289.7734375,653.5390625,5,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,72, of ,19995,764595,634,277,269.2734375,633.5234375,289.7734375,653.5390625,5,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,72, of ,20046,764645,634,277,269.2734375,633.5234375,289.7734375,653.5390625,5,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,72, of ,20096,764696,634,277,269.2734375,633.5234375,289.7734375,653.5390625,5,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,72, of ,20146,764746,634,277,269.2734375,633.5234375,289.7734375,653.5390625,5,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,72, of ,20196,764796,634,277,269.2734375,633.5234375,289.7734375,653.5390625,5,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,72, of ,20246,764846,634,277,269.2734375,633.5234375,289.7734375,653.5390625,5,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,72, of ,20296,764896,634,277,269.2734375,633.5234375,289.7734375,653.5390625,5,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,72, of ,20345,764945,635,277,269.2734375,633.5234375,289.7734375,653.5390625,5,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,72, of ,20394,764994,639,277,269.2734375,633.5234375,289.7734375,653.5390625,5,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,72, of ,20445,765045,646,277,269.2734375,633.5234375,289.7734375,653.5390625,5,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,73, a ,20495,765095,654,277,269.2734375,653.5390625,289.7734375,668.5546875,5,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,73, a ,20545,765145,665,280,269.2734375,653.5390625,289.7734375,668.5546875,5,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,74, telescope ,20595,765195,671,282,269.2734375,668.5546875,289.7734375,750.609375,5,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,74, telescope ,20645,765245,675,283,269.2734375,668.5546875,289.7734375,750.609375,5,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,74, telescope ,20695,765295,678,283,269.2734375,668.5546875,289.7734375,750.609375,5,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,74, telescope ,20745,765345,683,283,269.2734375,668.5546875,289.7734375,750.609375,5,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,74, telescope ,20795,765395,691,281,269.2734375,668.5546875,289.7734375,750.609375,5,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,74, telescope ,20845,765445,703,278,269.2734375,668.5546875,289.7734375,750.609375,5,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,74, telescope ,20895,765495,715,278,269.2734375,668.5546875,289.7734375,750.609375,5,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,74, telescope ,20945,765545,721,278,269.2734375,668.5546875,289.7734375,750.609375,5,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,74, telescope ,20995,765595,728,278,269.2734375,668.5546875,289.7734375,750.609375,5,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,74, telescope ,21045,765645,736,278,269.2734375,668.5546875,289.7734375,750.609375,5,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,74, telescope ,21095,765695,745,279,269.2734375,668.5546875,289.7734375,750.609375,5,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,75, tied ,21145,765745,755,279,269.2734375,750.609375,289.7734375,784.6328125,5,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,75, tied ,21195,765795,765,279,269.2734375,750.609375,289.7734375,784.6328125,5,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,75, tied ,21245,765845,778,279,269.2734375,750.609375,289.7734375,784.6328125,5,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,76, to ,21295,765895,789,278,269.2734375,784.6328125,289.7734375,804.6484375,5,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,76, to ,21345,765945,798,278,269.2734375,784.6328125,289.7734375,804.6484375,5,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,77," balloons, ",21395,765995,808,278,269.2734375,804.6484375,289.7734375,881.703125,5,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,77," balloons, ",21445,766045,818,277,269.2734375,804.6484375,289.7734375,881.703125,5,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,77," balloons, ",21495,766094,830,276,269.2734375,804.6484375,289.7734375,881.703125,5,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,77," balloons, ",21545,766145,841,275,269.2734375,804.6484375,289.7734375,881.703125,5,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,77," balloons, ",21595,766195,850,275,269.2734375,804.6484375,289.7734375,881.703125,5,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,77," balloons, ",21645,766245,859,275,269.2734375,804.6484375,289.7734375,881.703125,5,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,77," balloons, ",21695,766295,868,275,269.2734375,804.6484375,289.7734375,881.703125,5,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,77," balloons, ",21745,766345,877,275,269.2734375,804.6484375,289.7734375,881.703125,5,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,78, which ,21795,766395,885,275,269.2734375,881.703125,289.7734375,932.7265625,5,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,78, which ,21845,766445,891,274,269.2734375,881.703125,289.7734375,932.7265625,5,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,78, which ,21895,766495,898,274,269.2734375,881.703125,289.7734375,932.7265625,5,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,78, which ,21945,766545,905,274,269.2734375,881.703125,289.7734375,932.7265625,5,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,78, which ,21995,766595,917,273,269.2734375,881.703125,289.7734375,932.7265625,5,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,78, which ,22044,766644,927,273,269.2734375,881.703125,289.7734375,932.7265625,5,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,79, finally ,22095,766695,937,275,269.2734375,932.7265625,289.7734375,983.75,5,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,79, finally ,22145,766745,949,278,269.2734375,932.7265625,289.7734375,983.75,5,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,79, finally ,22195,766795,959,280,269.2734375,932.7265625,289.7734375,983.75,5,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,79, finally ,22245,766845,966,280,269.2734375,932.7265625,289.7734375,983.75,5,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,79, finally ,22295,766895,972,281,269.2734375,932.7265625,289.7734375,983.75,5,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,79, finally ,22345,766945,978,283,269.2734375,932.7265625,289.7734375,983.75,5,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,79, finally ,22395,766995,983,284,269.2734375,932.7265625,289.7734375,983.75,5,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,80, allows ,22445,767044,989,284,269.2734375,983.75,289.7734375,1033.7734375,5,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,80, allows ,22495,767095,992,284,269.2734375,983.75,289.7734375,1033.7734375,5,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,80, allows ,22546,767146,993,283,269.2734375,983.75,289.7734375,1033.7734375,5,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,80, allows ,22595,767195,993,283,269.2734375,983.75,289.7734375,1033.7734375,5,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,80, allows ,22646,767246,993,283,269.2734375,983.75,289.7734375,1033.7734375,5,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,80, allows ,22696,767296,993,283,269.2734375,983.75,289.7734375,1033.7734375,5,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,80, allows ,22745,767345,994,283,269.2734375,983.75,289.7734375,1033.7734375,5,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,80, allows ,22794,767394,1001,281,269.2734375,983.75,289.7734375,1033.7734375,5,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,80, allows ,22845,767445,1008,279,269.2734375,983.75,289.7734375,1033.7734375,5,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,80, allows ,22896,767496,1009,279,269.2734375,983.75,289.7734375,1033.7734375,5,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,80, allows ,22946,767546,1009,279,269.2734375,983.75,289.7734375,1033.7734375,5,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,80, allows ,22996,767596,1009,279,269.2734375,983.75,289.7734375,1033.7734375,5,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,80, allows ,23046,767646,1009,279,269.2734375,983.75,289.7734375,1033.7734375,5,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,80, allows ,23096,767696,1009,279,269.2734375,983.75,289.7734375,1033.7734375,5,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,80, allows ,23145,767745,1000,279,269.2734375,983.75,289.7734375,1033.7734375,5,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,79, finally ,23195,767795,955,279,269.2734375,932.7265625,289.7734375,983.75,5,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,77," balloons, ",23245,767845,829,260,269.2734375,804.6484375,289.7734375,881.703125,5,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,57, a ,23295,767895,716,250,229.2734375,714.546875,249.7734375,729.5625,4,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,55, sending ,23345,767945,630,249,229.2734375,612.484375,249.7734375,680.5390625,4,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,53, child ,23395,767995,559,258,229.2734375,531.453125,249.7734375,573.4765625,4,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,68, floating ,23445,768045,472,273,269.2734375,456.4140625,289.7734375,519.4609375,5,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,67, before ,23495,768095,422,286,269.2734375,400.375,289.7734375,456.4140625,5,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,23545,768145,398,294,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,23594,768194,388,300,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,23645,768245,383,305,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,23694,768294,380,309,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,23744,768344,379,311,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,23795,768395,380,313,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,23845,768444,385,315,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,23894,768494,390,315,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,23945,768545,399,315,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,81, them ,23995,768595,409,313,309.2734375,400.375,329.7734375,445.3984375,6,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,81, them ,24045,768645,422,311,309.2734375,400.375,329.7734375,445.3984375,6,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,81, them ,24095,768695,444,308,309.2734375,400.375,329.7734375,445.3984375,6,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,83, make ,24145,768745,469,307,309.2734375,465.4140625,329.7734375,514.4375,6,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,83, make ,24195,768795,490,306,309.2734375,465.4140625,329.7734375,514.4375,6,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,83, make ,24245,768845,512,306,309.2734375,465.4140625,329.7734375,514.4375,6,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,84, contact. ,24295,768895,529,305,309.2734375,514.4375,329.7734375,582.3203125,6,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,84, contact. ,24345,768945,543,304,309.2734375,514.4375,329.7734375,582.3203125,6,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,84, contact. ,24395,768995,553,304,309.2734375,514.4375,329.7734375,582.3203125,6,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,84, contact. ,24445,769045,562,304,309.2734375,514.4375,329.7734375,582.3203125,6,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,84, contact. ,24495,769095,568,304,309.2734375,514.4375,329.7734375,582.3203125,6,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,84, contact. ,24545,769145,575,304,309.2734375,514.4375,329.7734375,582.3203125,6,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,85, The ,24595,769195,584,305,309.2734375,582.3203125,329.7734375,618.1796875,6,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,85, The ,24645,769245,592,306,309.2734375,582.3203125,329.7734375,618.1796875,6,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,85, The ,24695,769295,599,306,309.2734375,582.3203125,329.7734375,618.1796875,6,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,85, The ,24745,769345,608,307,309.2734375,582.3203125,329.7734375,618.1796875,6,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,86, ad’s ,24795,769395,621,307,309.2734375,618.1796875,329.7734375,655.890625,6,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,86, ad’s ,24845,769445,638,307,309.2734375,618.1796875,329.7734375,655.890625,6,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,86, ad’s ,24895,769494,655,307,309.2734375,618.1796875,329.7734375,655.890625,6,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,87, message ,24945,769545,665,307,309.2734375,655.890625,329.7734375,733.9296875,6,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,87, message ,24995,769595,679,308,309.2734375,655.890625,329.7734375,733.9296875,6,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,87, message ,25046,769646,684,309,309.2734375,655.890625,329.7734375,733.9296875,6,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,87, message ,25096,769696,684,309,309.2734375,655.890625,329.7734375,733.9296875,6,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,87, message ,25146,769746,684,309,309.2734375,655.890625,329.7734375,733.9296875,6,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,87, message ,25196,769796,684,309,309.2734375,655.890625,329.7734375,733.9296875,6,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,87, message ,25246,769846,684,309,309.2734375,655.890625,329.7734375,733.9296875,6,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,87, message ,25296,769896,684,309,309.2734375,655.890625,329.7734375,733.9296875,6,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,87, message ,25345,769945,685,309,309.2734375,655.890625,329.7734375,733.9296875,6,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,87, message ,25395,769995,696,309,309.2734375,655.890625,329.7734375,733.9296875,6,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,87, message ,25445,770045,716,310,309.2734375,655.890625,329.7734375,733.9296875,6,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,87, message ,25495,770095,730,310,309.2734375,655.890625,329.7734375,733.9296875,6,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,88, is: ,25545,770145,745,310,309.2734375,733.9296875,329.7734375,756.9375,6,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,89, “Show ,25595,770195,763,310,309.2734375,756.9375,329.7734375,812.9609375,6,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,89, “Show ,25645,770245,785,311,309.2734375,756.9375,329.7734375,812.9609375,6,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,89, “Show ,25695,770294,801,312,309.2734375,756.9375,329.7734375,812.9609375,6,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,90, someone ,25745,770345,816,312,309.2734375,812.9609375,329.7734375,892.015625,6,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,90, someone ,25795,770394,828,314,309.2734375,812.9609375,329.7734375,892.015625,6,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,90, someone ,25844,770444,843,316,309.2734375,812.9609375,329.7734375,892.015625,6,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,90, someone ,25895,770495,858,318,309.2734375,812.9609375,329.7734375,892.015625,6,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,90, someone ,25945,770545,872,320,309.2734375,812.9609375,329.7734375,892.015625,6,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,90, someone ,25995,770595,885,320,309.2734375,812.9609375,329.7734375,892.015625,6,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,91, they’re ,26045,770645,902,321,309.2734375,892.015625,329.7734375,951.046875,6,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,91, they’re ,26095,770695,922,321,309.2734375,892.015625,329.7734375,951.046875,6,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,91, they’re ,26145,770745,941,321,309.2734375,892.015625,329.7734375,951.046875,6,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,92, loved ,26195,770795,956,321,309.2734375,951.046875,329.7734375,999.0859375,6,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,92, loved ,26245,770845,967,321,309.2734375,951.046875,329.7734375,999.0859375,6,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,92, loved ,26295,770895,979,321,309.2734375,951.046875,329.7734375,999.0859375,6,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,92, loved ,26345,770945,995,321,309.2734375,951.046875,329.7734375,999.0859375,6,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,93, this ,26395,770995,1008,321,309.2734375,999.0859375,329.7734375,1027.1015625,6,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,93, this ,26445,771045,1020,321,309.2734375,999.0859375,329.7734375,1027.1015625,6,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,26494,771094,1030,320,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,26544,771144,1034,320,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,26594,771194,1035,320,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,26644,771244,1028,322,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,93, this ,26695,771295,1008,329,309.2734375,999.0859375,329.7734375,1027.1015625,6,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,92, loved ,26745,771345,955,339,309.2734375,951.046875,329.7734375,999.0859375,6,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,102, one ,26795,771395,862,354,349.2734375,850.28125,369.7734375,885.3203125,7,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,99, own ,26846,771445,728,360,349.2734375,690.1953125,369.7734375,728.21875,7,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,96, echoes ,26895,771495,606,362,349.2734375,548.40625,369.7734375,610.9609375,7,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,95, which ,26944,771544,521,371,349.2734375,497.3828125,369.7734375,548.40625,7,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,108, Christmas.” ,26995,771595,477,384,389.2734375,400.375,409.7734375,497.3828125,8,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,108, Christmas.” ,27045,771645,450,389,389.2734375,400.375,409.7734375,497.3828125,8,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,108, Christmas.” ,27095,771695,420,389,389.2734375,400.375,409.7734375,497.3828125,8,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,27144,771744,398,383,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,27194,771794,383,377,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,27245,771844,374,373,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,27295,771895,371,367,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,27345,771945,369,363,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,27394,771994,369,360,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,27445,772044,372,359,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,27494,772094,381,357,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,27544,772144,393,355,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,94," Christmas,” ",27595,772195,407,352,349.2734375,400.375,369.7734375,497.3828125,7,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,94," Christmas,” ",27645,772245,422,350,349.2734375,400.375,369.7734375,497.3828125,7,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,94," Christmas,” ",27695,772295,437,349,349.2734375,400.375,369.7734375,497.3828125,7,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,94," Christmas,” ",27744,772344,455,349,349.2734375,400.375,369.7734375,497.3828125,7,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,94," Christmas,” ",27795,772395,480,348,349.2734375,400.375,369.7734375,497.3828125,7,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,95, which ,27845,772445,511,343,349.2734375,497.3828125,369.7734375,548.40625,7,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,84, contact. ,27895,772495,536,339,309.2734375,514.4375,329.7734375,582.3203125,6,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,84, contact. ,27945,772544,550,338,309.2734375,514.4375,329.7734375,582.3203125,6,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,84, contact. ,27995,772594,561,339,309.2734375,514.4375,329.7734375,582.3203125,6,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,96, echoes ,28045,772645,572,342,349.2734375,548.40625,369.7734375,610.9609375,7,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,96, echoes ,28095,772695,584,345,349.2734375,548.40625,369.7734375,610.9609375,7,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,96, echoes ,28145,772745,597,349,349.2734375,548.40625,369.7734375,610.9609375,7,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,96, echoes ,28195,772795,609,353,349.2734375,548.40625,369.7734375,610.9609375,7,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,97, Age ,28245,772845,618,356,349.2734375,610.9609375,369.7734375,647.5,7,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,97, Age ,28295,772895,623,357,349.2734375,610.9609375,369.7734375,647.5,7,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,97, Age ,28345,772945,629,357,349.2734375,610.9609375,369.7734375,647.5,7,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,97, Age ,28395,772995,640,357,349.2734375,610.9609375,369.7734375,647.5,7,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,98, UK’s ,28444,773044,663,357,349.2734375,647.5,369.7734375,690.1953125,7,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,98, UK’s ,28495,773095,685,355,349.2734375,647.5,369.7734375,690.1953125,7,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,98, UK’s ,28546,773146,688,355,349.2734375,647.5,369.7734375,690.1953125,7,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,98, UK’s ,28597,773196,688,355,349.2734375,647.5,369.7734375,690.1953125,7,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,98, UK’s ,28646,773246,688,355,349.2734375,647.5,369.7734375,690.1953125,7,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,98, UK’s ,28696,773296,688,355,349.2734375,647.5,369.7734375,690.1953125,7,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,98, UK’s ,28746,773346,688,355,349.2734375,647.5,369.7734375,690.1953125,7,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,98, UK’s ,28797,773396,688,355,349.2734375,647.5,369.7734375,690.1953125,7,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,98, UK’s ,28845,773445,689,355,349.2734375,647.5,369.7734375,690.1953125,7,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,99, own ,28894,773494,706,355,349.2734375,690.1953125,369.7734375,728.21875,7,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,100, campaign: ,28945,773545,730,358,349.2734375,728.21875,369.7734375,816.2734375,7,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,100, campaign: ,28995,773595,750,360,349.2734375,728.21875,369.7734375,816.2734375,7,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,100, campaign: ,29045,773645,774,360,349.2734375,728.21875,369.7734375,816.2734375,7,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,100, campaign: ,29095,773695,796,357,349.2734375,728.21875,369.7734375,816.2734375,7,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,100, campaign: ,29145,773745,812,356,349.2734375,728.21875,369.7734375,816.2734375,7,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,101, “No ,29195,773795,826,355,349.2734375,816.2734375,369.7734375,850.28125,7,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,101, “No ,29245,773845,843,356,349.2734375,816.2734375,369.7734375,850.28125,7,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,102, one ,29295,773895,856,361,349.2734375,850.28125,369.7734375,885.3203125,7,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,102, one ,29345,773945,867,364,349.2734375,850.28125,369.7734375,885.3203125,7,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,102, one ,29395,773995,881,364,349.2734375,850.28125,369.7734375,885.3203125,7,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,103, should ,29445,774045,897,364,349.2734375,885.3203125,369.7734375,943.3671875,7,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,103, should ,29495,774094,916,364,349.2734375,885.3203125,369.7734375,943.3671875,7,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,103, should ,29545,774145,934,362,349.2734375,885.3203125,369.7734375,943.3671875,7,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,104, have ,29595,774195,951,362,349.2734375,943.3671875,369.7734375,987.40625,7,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,104, have ,29645,774245,970,362,349.2734375,943.3671875,369.7734375,987.40625,7,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,104, have ,29695,774295,986,363,349.2734375,943.3671875,369.7734375,987.40625,7,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,105, no ,29745,774345,1000,364,349.2734375,987.40625,369.7734375,1012.4296875,7,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,106, one ,29795,774395,1014,364,349.2734375,1012.4296875,369.7734375,1047.46875,7,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,106, one ,29845,774445,1024,364,349.2734375,1012.4296875,369.7734375,1047.46875,7,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,106, one ,29895,774495,1032,364,349.2734375,1012.4296875,369.7734375,1047.46875,7,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,106, one ,29945,774545,1040,364,349.2734375,1012.4296875,369.7734375,1047.46875,7,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,106, one ,29995,774595,1047,363,349.2734375,1012.4296875,369.7734375,1047.46875,7,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,107, at ,30045,774645,1048,363,349.2734375,1047.46875,369.7734375,1062.484375,7,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,107, at ,30095,774694,1048,363,349.2734375,1047.46875,369.7734375,1062.484375,7,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,106, one ,30145,774745,1037,363,349.2734375,1012.4296875,369.7734375,1047.46875,7,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,106, one ,30195,774795,1020,364,349.2734375,1012.4296875,369.7734375,1047.46875,7,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,105, no ,30244,774844,999,370,349.2734375,987.40625,369.7734375,1012.4296875,7,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,104, have ,30295,774895,974,376,349.2734375,943.3671875,369.7734375,987.40625,7,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,104, have ,30345,774945,951,379,349.2734375,943.3671875,369.7734375,987.40625,7,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,119, card ,30395,774994,909,380,389.2734375,883.609375,409.7734375,923.6328125,8,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,101, “No ,30445,775045,821,369,349.2734375,816.2734375,369.7734375,850.28125,7,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,99, own ,30495,775095,714,366,349.2734375,690.1953125,369.7734375,728.21875,7,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,97, Age ,30545,775145,629,368,349.2734375,610.9609375,369.7734375,647.5,7,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,96, echoes ,30595,775195,551,374,349.2734375,548.40625,369.7734375,610.9609375,7,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,94," Christmas,” ",30645,775245,488,379,349.2734375,400.375,369.7734375,497.3828125,7,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,108, Christmas.” ,30694,775294,441,386,389.2734375,400.375,409.7734375,497.3828125,8,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,108, Christmas.” ,30745,775345,410,395,389.2734375,400.375,409.7734375,497.3828125,8,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,30795,775394,396,400,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,30844,775444,388,403,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,30895,775495,384,404,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,30945,775545,382,404,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,30996,775596,382,404,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,31045,775645,386,404,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,108, Christmas.” ,31094,775694,401,402,389.2734375,400.375,409.7734375,497.3828125,8,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,108, Christmas.” ,31145,775744,418,399,389.2734375,400.375,409.7734375,497.3828125,8,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,108, Christmas.” ,31194,775794,431,397,389.2734375,400.375,409.7734375,497.3828125,8,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,108, Christmas.” ,31244,775844,445,396,389.2734375,400.375,409.7734375,497.3828125,8,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,108, Christmas.” ,31294,775894,458,396,389.2734375,400.375,409.7734375,497.3828125,8,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,108, Christmas.” ,31345,775945,473,395,389.2734375,400.375,409.7734375,497.3828125,8,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,108, Christmas.” ,31395,775995,488,395,389.2734375,400.375,409.7734375,497.3828125,8,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,109, Profits ,31445,776045,508,393,389.2734375,497.3828125,409.7734375,553.3984375,8,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,109, Profits ,31495,776095,524,393,389.2734375,497.3828125,409.7734375,553.3984375,8,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,109, Profits ,31545,776145,544,394,389.2734375,497.3828125,409.7734375,553.3984375,8,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,110, from ,31594,776194,568,395,389.2734375,553.3984375,409.7734375,594.40625,8,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,110, from ,31645,776245,593,395,389.2734375,553.3984375,409.7734375,594.40625,8,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,111, three ,31694,776294,617,395,389.2734375,594.40625,409.7734375,640.4375,8,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,111, three ,31745,776345,631,395,389.2734375,594.40625,409.7734375,640.4375,8,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,111, three ,31794,776394,639,397,389.2734375,594.40625,409.7734375,640.4375,8,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,112, products ,31845,776445,644,397,389.2734375,640.4375,409.7734375,714.4765625,8,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,112, products ,31897,776497,644,397,389.2734375,640.4375,409.7734375,714.4765625,8,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,112, products ,31946,776546,644,397,389.2734375,640.4375,409.7734375,714.4765625,8,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,112, products ,31996,776596,644,397,389.2734375,640.4375,409.7734375,714.4765625,8,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,112, products ,32046,776646,644,397,389.2734375,640.4375,409.7734375,714.4765625,8,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,112, products ,32096,776696,644,397,389.2734375,640.4375,409.7734375,714.4765625,8,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,112, products ,32145,776745,644,397,389.2734375,640.4375,409.7734375,714.4765625,8,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,112, products ,32195,776795,648,397,389.2734375,640.4375,409.7734375,714.4765625,8,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,112, products ,32245,776845,671,398,389.2734375,640.4375,409.7734375,714.4765625,8,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,112, products ,32295,776895,699,401,389.2734375,640.4375,409.7734375,714.4765625,8,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,113, – ,32345,776945,725,403,389.2734375,714.4765625,409.7734375,729.4921875,8,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,114, a ,32395,776994,744,404,389.2734375,729.4921875,409.7734375,744.5078125,8,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,115," mug, ",32445,777044,759,405,389.2734375,744.5078125,409.7734375,789.53125,8,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,115," mug, ",32495,777094,769,406,389.2734375,744.5078125,409.7734375,789.53125,8,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,115," mug, ",32545,777145,778,406,389.2734375,744.5078125,409.7734375,789.53125,8,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,116, gift ,32595,777195,790,406,389.2734375,789.53125,409.7734375,818.546875,8,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,116, gift ,32645,777245,808,406,389.2734375,789.53125,409.7734375,818.546875,8,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,117, tag ,32695,777295,827,406,389.2734375,818.546875,409.7734375,848.5703125,8,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,117, tag ,32745,777345,840,406,389.2734375,818.546875,409.7734375,848.5703125,8,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,118, and ,32795,777395,850,406,389.2734375,848.5703125,409.7734375,883.609375,8,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,118, and ,32845,777445,861,406,389.2734375,848.5703125,409.7734375,883.609375,8,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,118, and ,32895,777495,875,407,389.2734375,848.5703125,409.7734375,883.609375,8,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,119, card ,32945,777544,891,407,389.2734375,883.609375,409.7734375,923.6328125,8,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,119, card ,32995,777594,907,406,389.2734375,883.609375,409.7734375,923.6328125,8,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,119, card ,33045,777645,920,404,389.2734375,883.609375,409.7734375,923.6328125,8,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,120, – ,33095,777694,933,402,389.2734375,923.6328125,409.7734375,938.6484375,8,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,121, will ,33144,777744,947,401,389.2734375,938.6484375,409.7734375,968.6484375,8,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,121, will ,33195,777795,961,401,389.2734375,938.6484375,409.7734375,968.6484375,8,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,122, go ,33245,777845,976,400,389.2734375,968.6484375,409.7734375,993.671875,8,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,122, go ,33295,777895,989,399,389.2734375,968.6484375,409.7734375,993.671875,8,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,123, to ,33345,777945,999,398,389.2734375,993.671875,409.7734375,1013.6875,8,16,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,123, to ,33395,777995,1007,397,389.2734375,993.671875,409.7734375,1013.6875,8,16,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,124, the ,33444,778044,1018,397,389.2734375,1013.6875,409.7734375,1038.7109375,8,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,124, the ,33495,778095,1031,396,389.2734375,1013.6875,409.7734375,1038.7109375,8,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,33545,778145,1040,395,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,33595,778195,1043,395,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,33645,778245,1043,395,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,33695,778294,1041,398,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,124, the ,33745,778345,1033,404,389.2734375,1013.6875,409.7734375,1038.7109375,8,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,122, go ,33796,778395,976,419,389.2734375,968.6484375,409.7734375,993.671875,8,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,135, that ,33844,778444,893,424,429.2734375,879.3125,449.7734375,914.34375,9,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,132, John ,33895,778495,743,422,429.2734375,741.2265625,449.7734375,785.265625,9,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,110, from ,33944,778544,578,401,389.2734375,553.3984375,409.7734375,594.40625,8,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,108, Christmas.” ,33994,778594,481,396,389.2734375,400.375,409.7734375,497.3828125,8,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,108, Christmas.” ,34044,778644,434,396,389.2734375,400.375,409.7734375,497.3828125,8,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,108, Christmas.” ,34094,778694,412,399,389.2734375,400.375,409.7734375,497.3828125,8,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,34144,778744,393,403,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,34194,778794,380,408,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,34245,778845,376,411,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,34295,778894,374,415,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,34345,778945,374,418,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,34395,778995,377,423,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,34445,779045,384,428,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,34494,779094,390,433,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,34544,779144,395,435,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,125, charity. ,34594,779194,402,435,429.2734375,400.375,449.7734375,462.0703125,9,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,125, charity. ,34645,779245,413,435,429.2734375,400.375,449.7734375,462.0703125,9,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,125, charity. ,34695,779295,429,435,429.2734375,400.375,449.7734375,462.0703125,9,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,125, charity. ,34745,779345,448,436,429.2734375,400.375,449.7734375,462.0703125,9,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,126, Rachel ,34794,779394,466,437,429.2734375,462.0703125,449.7734375,523.1015625,9,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,126, Rachel ,34844,779444,481,439,429.2734375,462.0703125,449.7734375,523.1015625,9,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,126, Rachel ,34894,779494,497,440,429.2734375,462.0703125,449.7734375,523.1015625,9,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,126, Rachel ,34945,779545,516,440,429.2734375,462.0703125,449.7734375,523.1015625,9,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,127," Swift, ",34994,779594,536,440,429.2734375,523.1015625,449.7734375,572.109375,9,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,127," Swift, ",35045,779645,563,440,429.2734375,523.1015625,449.7734375,572.109375,9,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,127," Swift, ",35096,779696,572,441,429.2734375,523.1015625,449.7734375,572.109375,9,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,127," Swift, ",35146,779746,572,441,429.2734375,523.1015625,449.7734375,572.109375,9,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,127," Swift, ",35196,779796,572,441,429.2734375,523.1015625,449.7734375,572.109375,9,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,127," Swift, ",35246,779846,572,441,429.2734375,523.1015625,449.7734375,572.109375,9,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,127," Swift, ",35297,779897,572,441,429.2734375,523.1015625,449.7734375,572.109375,9,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,127," Swift, ",35346,779946,572,441,429.2734375,523.1015625,449.7734375,572.109375,9,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,127," Swift, ",35395,779995,572,441,429.2734375,523.1015625,449.7734375,572.109375,9,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,127," Swift, ",35446,780046,572,441,429.2734375,523.1015625,449.7734375,572.109375,9,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,127," Swift, ",35497,780097,572,441,429.2734375,523.1015625,449.7734375,572.109375,9,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,127," Swift, ",35545,780145,572,441,429.2734375,523.1015625,449.7734375,572.109375,9,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,128, head ,35595,780195,588,442,429.2734375,572.109375,449.7734375,617.15625,9,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,128, head ,35645,780245,617,444,429.2734375,572.109375,449.7734375,617.15625,9,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,129, of ,35695,780294,637,444,429.2734375,617.15625,449.7734375,637.171875,9,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,130, marketing ,35745,780345,649,444,429.2734375,637.171875,449.7734375,721.2109375,9,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,130, marketing ,35795,780395,654,442,429.2734375,637.171875,449.7734375,721.2109375,9,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,130, marketing ,35845,780445,661,442,429.2734375,637.171875,449.7734375,721.2109375,9,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,130, marketing ,35895,780495,669,442,429.2734375,637.171875,449.7734375,721.2109375,9,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,130, marketing ,35945,780545,685,441,429.2734375,637.171875,449.7734375,721.2109375,9,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,130, marketing ,35995,780595,708,445,429.2734375,637.171875,449.7734375,721.2109375,9,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,131, at ,36045,780645,728,451,429.2734375,721.2109375,449.7734375,741.2265625,9,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,132, John ,36095,780695,742,454,429.2734375,741.2265625,449.7734375,785.265625,9,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,132, John ,36145,780745,751,454,429.2734375,741.2265625,449.7734375,785.265625,9,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,132, John ,36195,780795,761,453,429.2734375,741.2265625,449.7734375,785.265625,9,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,132, John ,36245,780845,774,450,429.2734375,741.2265625,449.7734375,785.265625,9,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,133," Lewis, ",36295,780895,789,448,429.2734375,785.265625,449.7734375,841.2890625,9,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,133," Lewis, ",36345,780945,802,448,429.2734375,785.265625,449.7734375,841.2890625,9,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,133," Lewis, ",36395,780995,815,448,429.2734375,785.265625,449.7734375,841.2890625,9,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,133," Lewis, ",36445,781045,831,448,429.2734375,785.265625,449.7734375,841.2890625,9,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,134, said ,36495,781095,846,448,429.2734375,841.2890625,449.7734375,879.3125,9,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,134, said ,36545,781145,867,448,429.2734375,841.2890625,449.7734375,879.3125,9,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,135, that ,36595,781195,887,448,429.2734375,879.3125,449.7734375,914.34375,9,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,135, that ,36645,781245,910,446,429.2734375,879.3125,449.7734375,914.34375,9,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,136, people ,36695,781295,931,442,429.2734375,914.34375,449.7734375,973.3984375,9,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,136, people ,36745,781345,942,438,429.2734375,914.34375,449.7734375,973.3984375,9,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,136, people ,36797,781397,942,437,429.2734375,914.34375,449.7734375,973.3984375,9,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,136, people ,36846,781446,942,437,429.2734375,914.34375,449.7734375,973.3984375,9,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,136, people ,36896,781496,942,437,429.2734375,914.34375,449.7734375,973.3984375,9,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,136, people ,36946,781546,942,437,429.2734375,914.34375,449.7734375,973.3984375,9,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,136, people ,36996,781596,942,437,429.2734375,914.34375,449.7734375,973.3984375,9,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,136, people ,37046,781646,942,437,429.2734375,914.34375,449.7734375,973.3984375,9,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,136, people ,37095,781695,949,437,429.2734375,914.34375,449.7734375,973.3984375,9,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,136, people ,37145,781745,967,437,429.2734375,914.34375,449.7734375,973.3984375,9,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,137, talk ,37195,781795,994,437,429.2734375,973.3984375,449.7734375,1006.4140625,9,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,138, about ,37245,781845,1012,438,429.2734375,1006.4140625,449.7734375,1051.4609375,9,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,138, about ,37295,781895,1024,440,429.2734375,1006.4140625,449.7734375,1051.4609375,9,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,138, about ,37345,781945,1030,442,429.2734375,1006.4140625,449.7734375,1051.4609375,9,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,138, about ,37395,781995,1034,443,429.2734375,1006.4140625,449.7734375,1051.4609375,9,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,138, about ,37446,782045,1035,444,429.2734375,1006.4140625,449.7734375,1051.4609375,9,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,138, about ,37494,782094,1034,451,429.2734375,1006.4140625,449.7734375,1051.4609375,9,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,138, about ,37545,782145,1030,453,429.2734375,1006.4140625,449.7734375,1051.4609375,9,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,138, about ,37595,782195,1022,451,429.2734375,1006.4140625,449.7734375,1051.4609375,9,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,138, about ,37645,782245,1007,445,429.2734375,1006.4140625,449.7734375,1051.4609375,9,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,136, people ,37695,782295,961,437,429.2734375,914.34375,449.7734375,973.3984375,9,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,134, said ,37745,782345,870,435,429.2734375,841.2890625,449.7734375,879.3125,9,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,132, John ,37795,782395,768,447,429.2734375,741.2265625,449.7734375,785.265625,9,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,147, the ,37845,782445,691,463,469.2734375,675.5390625,489.7734375,705.5625,10,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,145, year ,37895,782495,623,472,469.2734375,600.4765625,489.7734375,640.5,10,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,143, time ,37945,782545,573,479,469.2734375,541.453125,489.7734375,580.4609375,10,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,142, this ,37995,782595,527,486,469.2734375,508.4375,489.7734375,541.453125,10,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,141, at ,38045,782645,491,494,469.2734375,488.421875,489.7734375,508.4375,10,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,157, your ,38095,782695,461,500,509.2734375,425.3984375,529.7734375,465.421875,11,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,157, your ,38145,782745,444,502,509.2734375,425.3984375,529.7734375,465.421875,11,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,157, your ,38195,782795,430,502,509.2734375,425.3984375,529.7734375,465.421875,11,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,139, the ,38245,782845,418,498,469.2734375,400.375,489.7734375,430.3984375,10,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,139, the ,38295,782895,412,494,469.2734375,400.375,489.7734375,430.3984375,10,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,139, the ,38345,782945,409,491,469.2734375,400.375,489.7734375,430.3984375,10,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,139, the ,38394,782994,408,485,469.2734375,400.375,489.7734375,430.3984375,10,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,139, the ,38444,783044,407,480,469.2734375,400.375,489.7734375,430.3984375,10,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,139, the ,38497,783097,407,480,469.2734375,400.375,489.7734375,430.3984375,10,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,139, the ,38545,783145,407,480,469.2734375,400.375,489.7734375,430.3984375,10,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,139, the ,38594,783194,413,480,469.2734375,400.375,489.7734375,430.3984375,10,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,139, the ,38645,783245,424,477,469.2734375,400.375,489.7734375,430.3984375,10,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,140, charity ,38695,783295,438,476,469.2734375,430.3984375,489.7734375,488.421875,10,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,140, charity ,38745,783344,450,475,469.2734375,430.3984375,489.7734375,488.421875,10,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,140, charity ,38795,783395,466,475,469.2734375,430.3984375,489.7734375,488.421875,10,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,140, charity ,38845,783444,484,475,469.2734375,430.3984375,489.7734375,488.421875,10,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,141, at ,38895,783495,501,471,469.2734375,488.421875,489.7734375,508.4375,10,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,142, this ,38945,783544,520,468,469.2734375,508.4375,489.7734375,541.453125,10,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,142, this ,38994,783594,537,467,469.2734375,508.4375,489.7734375,541.453125,10,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,143, time ,39045,783644,553,466,469.2734375,541.453125,489.7734375,580.4609375,10,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,143, time ,39095,783695,570,466,469.2734375,541.453125,489.7734375,580.4609375,10,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,144, of ,39145,783745,584,466,469.2734375,580.4609375,489.7734375,600.4765625,10,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,144, of ,39195,783795,597,467,469.2734375,580.4609375,489.7734375,600.4765625,10,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,145, year ,39245,783845,616,468,469.2734375,600.4765625,489.7734375,640.5,10,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,145, year ,39295,783895,634,470,469.2734375,600.4765625,489.7734375,640.5,10,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,146, and ,39345,783945,653,474,469.2734375,640.5,489.7734375,675.5390625,10,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,146, and ,39395,783995,666,478,469.2734375,640.5,489.7734375,675.5390625,10,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,147, the ,39445,784045,682,481,469.2734375,675.5390625,489.7734375,705.5625,10,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,147, the ,39494,784094,697,483,469.2734375,675.5390625,489.7734375,705.5625,10,9,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,148, ad ,39545,784145,711,483,469.2734375,705.5625,489.7734375,730.5859375,10,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,148, ad ,39594,784194,724,483,469.2734375,705.5625,489.7734375,730.5859375,10,10,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,149, makes ,39644,784244,736,481,469.2734375,730.5859375,489.7734375,788.609375,10,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,149, makes ,39695,784294,749,480,469.2734375,730.5859375,489.7734375,788.609375,10,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,149, makes ,39745,784345,767,480,469.2734375,730.5859375,489.7734375,788.609375,10,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,149, makes ,39795,784395,780,480,469.2734375,730.5859375,489.7734375,788.609375,10,11,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,150, you ,39844,784444,792,480,469.2734375,788.609375,489.7734375,822.6328125,10,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,150, you ,39895,784495,798,480,469.2734375,788.609375,489.7734375,822.6328125,10,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,150, you ,39945,784545,810,480,469.2734375,788.609375,489.7734375,822.6328125,10,12,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,151, think ,39994,784594,827,481,469.2734375,822.6328125,489.7734375,865.65625,10,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,151, think ,40045,784645,849,481,469.2734375,822.6328125,489.7734375,865.65625,10,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,151, think ,40095,784695,865,481,469.2734375,822.6328125,489.7734375,865.65625,10,13,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,152, about ,40146,784746,868,481,469.2734375,865.65625,489.7734375,915.703125,10,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,152, about ,40196,784796,868,481,469.2734375,865.65625,489.7734375,915.703125,10,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,152, about ,40245,784845,868,481,469.2734375,865.65625,489.7734375,915.703125,10,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,152, about ,40296,784896,868,481,469.2734375,865.65625,489.7734375,915.703125,10,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,152, about ,40346,784945,868,481,469.2734375,865.65625,489.7734375,915.703125,10,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,152, about ,40396,784996,868,481,469.2734375,865.65625,489.7734375,915.703125,10,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,152, about ,40446,785046,868,481,469.2734375,865.65625,489.7734375,915.703125,10,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,152, about ,40495,785094,868,481,469.2734375,865.65625,489.7734375,915.703125,10,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,152, about ,40544,785144,884,480,469.2734375,865.65625,489.7734375,915.703125,10,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,152, about ,40594,785194,913,479,469.2734375,865.65625,489.7734375,915.703125,10,14,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,153, someone ,40645,785245,940,479,469.2734375,915.703125,489.7734375,994.7578125,10,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,153, someone ,40695,785295,965,480,469.2734375,915.703125,489.7734375,994.7578125,10,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,153, someone ,40745,785345,986,484,469.2734375,915.703125,489.7734375,994.7578125,10,15,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,154, who ,40795,785395,1007,487,469.2734375,994.7578125,489.7734375,1032.78125,10,16,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,154, who ,40845,785445,1024,489,469.2734375,994.7578125,489.7734375,1032.78125,10,16,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,155, lives ,40895,785495,1041,489,469.2734375,1032.78125,489.7734375,1068.796875,10,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,155, lives ,40945,785545,1058,489,469.2734375,1032.78125,489.7734375,1068.796875,10,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,155, lives ,40995,785595,1068,488,469.2734375,1032.78125,489.7734375,1068.796875,10,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,41044,785644,1073,486,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,41094,785694,1075,486,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,41145,785745,1075,486,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,155, lives ,41195,785795,1063,492,469.2734375,1032.78125,489.7734375,1068.796875,10,17,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,41244,785844,1005,508,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,41294,785894,870,525,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,162, see ,41344,785944,646,521,509.2734375,629.5234375,529.7734375,663.546875,11,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,157, your ,41394,785994,439,510,509.2734375,425.3984375,529.7734375,465.421875,11,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,41445,786044,356,509,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,41495,786095,335,509,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,41545,786144,328,509,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,41595,786195,323,509,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,41645,786245,321,509,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,41694,786294,322,509,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,41745,786344,336,511,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,41795,786394,357,511,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,41844,786444,381,511,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,41894,786494,397,511,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,156, on ,41945,786545,405,511,509.2734375,400.375,529.7734375,425.3984375,11,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,156, on ,41995,786595,409,511,509.2734375,400.375,529.7734375,425.3984375,11,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,156, on ,42045,786644,415,511,509.2734375,400.375,529.7734375,425.3984375,11,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,156, on ,42095,786695,425,512,509.2734375,400.375,529.7734375,425.3984375,11,1,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,157, your ,42145,786745,441,513,509.2734375,425.3984375,529.7734375,465.421875,11,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,157, your ,42195,786795,459,514,509.2734375,425.3984375,529.7734375,465.421875,11,2,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,158, street ,42245,786845,477,517,509.2734375,465.421875,529.7734375,515.4453125,11,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,158, street ,42295,786895,496,519,509.2734375,465.421875,529.7734375,515.4453125,11,3,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,159, that ,42345,786945,517,522,509.2734375,515.4453125,529.7734375,550.4765625,11,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,159, that ,42395,786995,538,523,509.2734375,515.4453125,529.7734375,550.4765625,11,4,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,160, might ,42445,787045,556,523,509.2734375,550.4765625,529.7734375,599.5,11,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,160, might ,42495,787094,573,523,509.2734375,550.4765625,529.7734375,599.5,11,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,160, might ,42544,787144,592,523,509.2734375,550.4765625,529.7734375,599.5,11,5,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,161, not ,42595,787195,604,523,509.2734375,599.5,529.7734375,629.5234375,11,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,161, not ,42645,787244,615,523,509.2734375,599.5,529.7734375,629.5234375,11,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,161, not ,42695,787295,629,523,509.2734375,599.5,529.7734375,629.5234375,11,6,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,162, see ,42745,787345,642,523,509.2734375,629.5234375,529.7734375,663.546875,11,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,162, see ,42795,787395,654,523,509.2734375,629.5234375,529.7734375,663.546875,11,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,162, see ,42845,787445,662,523,509.2734375,629.5234375,529.7734375,663.546875,11,7,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,163, anybody. ,42895,787495,674,523,509.2734375,663.546875,529.7734375,735.28125,11,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,163, anybody. ,42945,787545,692,523,509.2734375,663.546875,529.7734375,735.28125,11,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,163, anybody. ,42995,787595,713,522,509.2734375,663.546875,529.7734375,735.28125,11,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,163, anybody. ,43045,787645,732,522,509.2734375,663.546875,529.7734375,735.28125,11,8,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,43095,787694,751,522,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,43144,787744,766,524,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,43194,787794,773,527,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,43244,787844,774,538,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,43294,787894,761,555,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,43344,787944,761,555,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,43394,787994,761,555,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,43444,788044,761,555,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,43494,788094,761,555,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,43545,788144,761,555,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,43594,788194,761,555,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,43644,788244,761,555,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,43695,788295,761,555,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific
+QFN7MR4F,raiTest,2,int,14,2,19,20,-1,999,43746,788346,761,555,,,,,,,Using the post service,0,,,,,1970-01-01T00:00:00.446Z,,,,,,,,,spotlight-prolific

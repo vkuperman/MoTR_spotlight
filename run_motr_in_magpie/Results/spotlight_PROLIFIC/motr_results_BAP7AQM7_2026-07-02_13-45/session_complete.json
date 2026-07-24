@@ -1,0 +1,30 @@
+{
+  "sessionId": "BAP7AQM7_1783021549868_JPCKKG9K",
+  "participantId": "BAP7AQM7",
+  "folderName": "motr_results_BAP7AQM7_2026-07-02_13-45",
+  "completedAt": "2026-07-02T20:24:19.434Z",
+  "trialsCompleted": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "rawPositionInPartialCheckpoints": true
+}

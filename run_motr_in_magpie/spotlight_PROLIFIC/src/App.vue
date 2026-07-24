@@ -67,11 +67,12 @@
         <a href="javascript:void(0)" @click="turnOnFullScreen">Fullscreen Mode</a>
       </p>
  -->
-      <p>In this study, you will read short texts and answer questions about them. However, unlike in normal reading, the texts will be blurred. <strong>Move your mouse over the text to reveal it with the spotlight;</strong> the revealed area follows your mouse. Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question at the bottom and click "next" to move on.</p>
+      <p>In this study, you will read short texts and answer questions about them. However, unlike in normal reading, the texts will be blurred. <strong>Move your mouse over the text to reveal it with the spotlight;</strong> the revealed area follows your mouse. Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question on the next page and click "next" to move on. Between each text, you will need to move your mouse back into the rectangle outline to start the next paragraph.</p>
     </InstructionScreen>
 
     <template v-for="(trial, i) of trials">
-      <Screen :key="i" class="main_screen" :progress="i / trials.length">
+      <ReadingStartGateScreen :key="'gate-' + i" :trial-index="i + 1" />
+      <Screen :key="'trial-' + i" class="main_screen" :progress="i / trials.length">
         <Slide>
           <form>
             <input type="hidden" class="item_id" :value="trial.item_id">
@@ -90,38 +91,40 @@
             <input v-if="trial.onestop_article_selection_mode" type="hidden" class="onestop_article_selection_mode" :value="trial.onestop_article_selection_mode">
             <input v-if="trial.onestop_manual_article_numbers" type="hidden" class="onestop_manual_article_numbers" :value="trial.onestop_manual_article_numbers">
           </form>
-          <div class="trial-slide-layout">
-            <div class="trial-text-region">
-              <div class="oval-cursor"></div>
-              <div v-if="showFirstDiv" class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
-                <template v-for="(word, index) of trial.text.split(' ')">
-                  <span :key="index" :data-index="index + 1">
-                    {{ word }}
-                  </span>
-                </template>
-              </div>
-              <div class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;">
-                {{ trial.text }}
-              </div>
+          <div class="oval-cursor"></div>
+          <template v-if="showFirstDiv">
+            <div class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
+              <template v-for="(word, index) of trial.text.split(' ')">
+                <span :key="index" :data-index="index + 1">
+                  {{ word }}
+                </span>
+              </template>
             </div>
+            <div class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;">
+              {{ trial.text }}
+            </div>
+            <div class="reading-text-spacer" aria-hidden="true">{{ trial.text }}</div>
+          </template>
 
-            <div v-if="!showFirstDiv" class="trial-comprehension-panel">
-              <form>
-                <div>{{ (trial.question || '').replace(/ ?["]+/g, '') }}</div>
-                <template v-for="(word, index) of trial.response_options">
-                  <input :id="'opt_'+index" type="radio" :value="word" name="opt" v-model="$magpie.measurements.response"/>{{ word }}<br/>
-                </template>
-              </form>
-            </div>
+          <div v-if="!showFirstDiv" class="trial-comprehension-panel">
+            <form>
+              <div class="trial-comprehension-question">{{ (trial.question || '').replace(/ ?["]+/g, '') }}</div>
+              <template v-for="(word, index) of trial.response_options">
+                <label :key="'opt_'+index" class="trial-response-option">
+                  <input :id="'opt_'+index" type="radio" :value="word" name="opt" v-model="$magpie.measurements.response" />
+                  {{ word }}
+                </label>
+              </template>
+            </form>
+          </div>
 
-            <div class="trial-actions">
-              <button v-if="showFirstDiv" type="button" class="trial-done-btn" @click="toggleDivs" :disabled="!isCursorMoving">
-                Done
-              </button>
-              <button v-if="!showFirstDiv && $magpie.measurements.response" type="button" class="trial-next-btn" @click="submitTrialResponse(trial, i)">
-                Next
-              </button>
-            </div>
+          <div class="trial-actions">
+            <button v-if="showFirstDiv" type="button" class="trial-done-btn" @click="toggleDivs" :disabled="!isCursorMoving">
+              Done
+            </button>
+            <button v-if="!showFirstDiv && $magpie.measurements.response" type="button" class="trial-next-btn" @click="submitTrialResponse(trial, i)">
+              Next
+            </button>
           </div>
         </Slide>
       </Screen>
@@ -147,7 +150,6 @@
       :prolific-completion-url="prolificCompletionUrl"
       :github-results-path="githubResultsPath"
     />
-    <CustomSubmitResultsScreen />
   </Experiment>
   </div>
 </template>
@@ -167,13 +169,16 @@ import {
   cefrBandForScore,
   isCambridgeAnswerCorrect,
 } from '@motr-shared/cambridgeGeneralEnglish';
-import ExportReportsScreen from '@motr-shared/components/ExportReportsScreen.vue';
+import ExportReportsScreen from './components/ExportReportsScreen.vue';
+import ReadingStartGateScreen from '@motr-shared/components/ReadingStartGateScreen.vue';
 import {
   deferReadingTrialSafeguards,
+  ensureExperimentStartRecorded,
   initResultsSession,
 } from '@motr-shared/resultsSafeguard';
 import {
   installRawPositionSampling,
+  outOfBoundsWordForIndex,
   uninstallRawPositionSampling,
 } from '@motr-shared/motrRawSampling';
 import {
@@ -182,7 +187,6 @@ import {
 } from '@motr-shared/oneStopExportFields';
 import DemographicsOneStopQuestionnaire from '@motr-shared/components/DemographicsOneStopQuestionnaire.vue';
 import ConsentPROLIFIC from './components/ConsentPROLIFIC.vue';
-import CustomSubmitResultsScreen from './components/CustomSubmitResultsScreen.vue';
 
 // eslint-disable-next-line import/no-webpack-loader-syntax
 const oneStopStimuliXlsx = require('../../OneStop/OneStop Stimuli .xlsx');
@@ -193,7 +197,12 @@ const cambridgeScoringCsv = require('../../OneStop/Cambridge/Cambridge scoring(S
 
 export default {
   name: 'App',
-  components: { ExportReportsScreen, CustomSubmitResultsScreen, ConsentPROLIFIC, DemographicsOneStopQuestionnaire },
+  components: {
+    ExportReportsScreen,
+    ReadingStartGateScreen,
+    ConsentPROLIFIC,
+    DemographicsOneStopQuestionnaire,
+  },
   data() {
     return {
       prolificCompletionUrl: studyConfig.completionUrl,
@@ -268,6 +277,7 @@ export default {
     },
   },
   mounted() {
+    ensureExperimentStartRecorded(this);
     installRawPositionSampling(this);
   },
   beforeDestroy() {
@@ -390,35 +400,20 @@ export default {
           let left;
           let right;
 
-          const isFirstLine = (lineIdx === 0);
-          const isLastLine = (lineIdx === lines.length - 1);
-
           if (n === 1) {
             // Single word on this line
-            left = curr.left;
-            right = curr.right;
-            if (isFirstLine) {
-              left -= charWidth / 2;
-            }
-            if (isLastLine) {
-              right += charWidth / 2;
-            }
+            left = curr.left - charWidth / 2;
+            right = curr.right + charWidth / 2;
           } else if (i === 0) {
             const next = lineItems[i + 1].rect;
             const midNext = (curr.right + next.left) / 2;
-            left = curr.left;
+            left = curr.left - charWidth / 2;
             right = midNext;
-            if (isFirstLine) {
-              left -= charWidth / 2;
-            }
           } else if (i === n - 1) {
             const prev = lineItems[i - 1].rect;
             const midPrev = (prev.right + curr.left) / 2;
             left = midPrev;
-            right = curr.right;
-            if (isLastLine) {
-              right += charWidth / 2;
-            }
+            right = curr.right + charWidth / 2;
           } else {
             const prev = lineItems[i - 1].rect;
             const next = lineItems[i + 1].rect;
@@ -604,7 +599,7 @@ export default {
         ItemId: this.$el.querySelector(".item_id").value,
         presentation_order: presentationOrder,
         Index: this.clickWordIndex !== null && this.clickWordIndex !== -1 ? parseInt(this.clickWordIndex, 10) : this.clickWordIndex,
-        Word: this.clickWord,
+        Word: outOfBoundsWordForIndex(this.clickWordIndex, this.clickWord),
         mousePositionX: this.clickStartX,
         mousePositionY: this.clickStartY,
         revealMode: 'hover',
@@ -669,7 +664,6 @@ export default {
         ProlificId: id,
         ProlificID: id,
         study_key: studyConfig.studyKey,
-        experiment_start_time: new Date().toISOString()
       });
       this.$magpie.addTrialData({
         ProlificId: id,
@@ -769,38 +763,26 @@ export default {
     align-items: center;
     justify-content: center;
   }
-  .motr-root .experiment:has(.main_screen) {
-    width: min(1000px, 94vw);
-    min-height: 88vh;
-    align-items: stretch;
-  }
   .main_screen {
+    isolation: isolate;
     position: relative;
     width: 100%;
     height: auto;
-    min-height: 80vh;
     font-size: 18px;
     line-height: 40px;
-    display: flex;
-    flex-direction: column;
   }
-  .trial-slide-layout {
-    display: flex;
-    flex-direction: column;
-    flex: 1 1 auto;
-    width: 100%;
-    min-height: 75vh;
-  }
-  .trial-text-region {
-    position: relative;
-    flex: 0 0 auto;
-    width: 100%;
-    background-color: #fff;
-    isolation: isolate;
+  .reading-text-spacer {
+    visibility: hidden;
+    pointer-events: none;
+    color: black;
+    text-align: left;
+    font-weight: 450;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 11%;
+    padding-right: 11%;
   }
   .trial-actions {
-    flex: 0 0 auto;
-    margin-top: auto;
     padding: 1.25rem 0 0.5rem;
     text-align: center;
   }
@@ -809,9 +791,6 @@ export default {
   }
   .readingText {
     position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
     color: white;
     text-align: left;
     font-weight: 450;
@@ -838,12 +817,19 @@ export default {
     margin: 0 auto;
   }
   .trial-comprehension-panel {
-    flex: 0 0 auto;
     margin-top: 1.25rem;
     padding: 0.75rem 11% 0.25rem;
-    text-align: center;
+    text-align: left;
     width: 100%;
     box-sizing: border-box;
+  }
+  .trial-comprehension-question {
+    margin-bottom: 0.75em;
+  }
+  .trial-response-option {
+    display: block;
+    margin: 0.35em 0;
+    text-align: left;
   }
   .oval-cursor {
     position: fixed;
@@ -865,9 +851,6 @@ export default {
     pointer-events: none;
     filter: blur(3px);
   }
-  .oval-cursor.grow.blank::before {
-    opacity: 0;
-  }
   .oval-cursor.grow::before {
     content: "";
     position: absolute;
@@ -879,9 +862,9 @@ export default {
     background-color: white;
     mix-blend-mode: normal;
     border-radius: 50%;
-}
+  }
   .blurry-layer {
-    position: relative;
+    position: absolute;
     pointer-events: none;
     color: black;
     text-align: left;
@@ -890,8 +873,6 @@ export default {
     padding-bottom: 2%;
     padding-left: 11%;
     padding-right: 11%;
-    width: 100%;
-    box-sizing: border-box;
   }
 
   * {

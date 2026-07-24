@@ -1,7 +1,11 @@
 /**
  * Serverless function: POST /api/upload-results
  *
- * Single file (preferred for large sessions):
+ * Multi-file batch (preferred; one Git commit per request):
+ *   { participantId, folderName, files: [{ fileName, fileBase64, contentEncoding?: 'gzip'|'none' }],
+ *     isTest?, githubResultsPath?, resultsScope?: 'partial'|'complete', checkpointLabel? }
+ *
+ * Single file (legacy fallback):
  *   { participantId, folderName, fileName, fileBase64, contentEncoding?: 'gzip'|'none',
  *     isTest?, githubResultsPath? }
  *
@@ -11,8 +15,8 @@
  * Optional env:
  * - GITHUB_TOKEN + GITHUB_REPO: push to GitHub (default run_motr_in_magpie/Results/)
  * - GITHUB_RESULTS_PATH: folder path in repo (default run_motr_in_magpie/Results)
- * - GITHUB_BRANCH: branch to commit to (default main)
- * - RESEND_API_KEY + EMAIL_TO: email zip to EMAIL_TO (Resend free tier: only to account owner until domain verified)
+ * - GITHUB_BRANCH: branch to commit to (default results; use main only for legacy)
+ * - RESEND_API_KEY + EMAIL_TO: email session ZIP to EMAIL_TO on complete uploads (GitHub still required)
  * At least one of (GitHub) or (Resend + EMAIL_TO) must be set.
  */
 
@@ -23,6 +27,13 @@ const STUDY_KEY_BY_APP = {
   PROLIFIC: 'spotlight_PROLIFIC',
 };
 
+const RESULTS_PATH_BY_APP = {
+  SONA: 'run_motr_in_magpie/Results/spotlight_SONA',
+  PROLIFIC: 'run_motr_in_magpie/Results/spotlight_PROLIFIC',
+};
+
+const RESULTS_BASE_PATH = 'run_motr_in_magpie/Results';
+
 function normalizeResultsPath(pathValue) {
   return String(pathValue || '')
     .replace(/\\/g, '/')
@@ -32,6 +43,23 @@ function normalizeResultsPath(pathValue) {
 function expectedStudyKeyForDeployment() {
   const app = String(process.env.SPOTLIGHT_APP || '').toUpperCase();
   return STUDY_KEY_BY_APP[app] || '';
+}
+
+function canonicalResultsPathForDeployment() {
+  const app = String(process.env.SPOTLIGHT_APP || '').toUpperCase();
+  return RESULTS_PATH_BY_APP[app] || '';
+}
+
+/** Accept exact server path or study subfolder when Vercel still uses base Results path. */
+function resolveResultsPath(serverPath, requestedPath) {
+  const server = normalizeResultsPath(serverPath);
+  const requested = normalizeResultsPath(requestedPath || server);
+  const canonical = canonicalResultsPathForDeployment();
+
+  if (server === requested) return server;
+  if (canonical && requested === canonical) return canonical;
+  if (canonical && server === RESULTS_BASE_PATH && requested === canonical) return canonical;
+  return null;
 }
 
 function safeParticipantId(id) {
@@ -63,6 +91,90 @@ function decodeUploadedFile(fileBase64, contentEncoding) {
   return raw;
 }
 
+function encodeRepoPath(repoPath) {
+  return String(repoPath || '')
+    .split('/')
+    .map((segment) => encodeURIComponent(segment))
+    .join('/');
+}
+
+async function getGitHubFileSha({
+  githubToken,
+  owner,
+  repoName,
+  githubBranch,
+  repoPath,
+}) {
+  const url = `https://api.github.com/repos/${owner}/${repoName}/contents/${encodeRepoPath(repoPath)}?ref=${encodeURIComponent(githubBranch)}`;
+  const response = await fetch(url, {
+    headers: {
+      Authorization: `Bearer ${githubToken}`,
+      Accept: 'application/vnd.github+json',
+      'X-GitHub-Api-Version': '2022-11-28',
+    },
+  });
+  if (response.status === 404) return null;
+  if (!response.ok) {
+    const errText = await response.text();
+    throw new Error(`GitHub file lookup failed (${response.status}): ${errText}`);
+  }
+  const data = await response.json();
+  return data && data.sha ? data.sha : null;
+}
+
+function githubHeaders(githubToken, extra = {}) {
+  return {
+    Authorization: `Bearer ${githubToken}`,
+    Accept: 'application/vnd.github+json',
+    'X-GitHub-Api-Version': '2022-11-28',
+    ...extra,
+  };
+}
+
+async function githubJson(githubToken, url, options = {}) {
+  const response = await fetch(url, {
+    ...options,
+    headers: githubHeaders(githubToken, options.headers || {}),
+  });
+  if (!response.ok) {
+    const errText = await response.text();
+    const err = new Error(`GitHub API failed (${response.status}): ${errText}`);
+    err.status = response.status;
+    err.retryAfterSeconds = parseRetryAfterSeconds(response.headers.get('retry-after'));
+    throw err;
+  }
+  if (response.status === 204) return null;
+  return response.json();
+}
+
+function parseRetryAfterSeconds(retryAfterHeader) {
+  if (!retryAfterHeader) return null;
+  const asNumber = Number(retryAfterHeader);
+  if (Number.isFinite(asNumber) && asNumber >= 0) return asNumber;
+  const asDate = Date.parse(retryAfterHeader);
+  if (!Number.isFinite(asDate)) return null;
+  return Math.max(0, Math.ceil((asDate - Date.now()) / 1000));
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => {
+    setTimeout(resolve, ms);
+  });
+}
+
+function isGitRefConflict(err) {
+  return err && (err.status === 409 || err.status === 422);
+}
+
+function isGitRateLimit(err) {
+  if (!err || (err.status !== 403 && err.status !== 429)) return false;
+  const message = String(err.message || '').toLowerCase();
+  return message.includes('rate limit') || message.includes('secondary rate');
+}
+
+/** Git Trees API inline content is limited to 1 MB per file; larger files need a blob. */
+const INLINE_TREE_MAX_BYTES = 900 * 1024;
+
 async function pushFileToGitHub({
   githubToken,
   owner,
@@ -72,30 +184,188 @@ async function pushFileToGitHub({
   fileBuffer,
   commitMessage,
 }) {
-  const url = `https://api.github.com/repos/${owner}/${repoName}/contents/${encodeURIComponent(repoPath)}`;
-  const response = await fetch(url, {
-    method: 'PUT',
-    headers: {
-      Authorization: `Bearer ${githubToken}`,
-      Accept: 'application/vnd.github+json',
-      'X-GitHub-Api-Version': '2022-11-28',
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify({
-      message: commitMessage,
-      content: fileBuffer.toString('base64'),
-      branch: githubBranch,
-    }),
+  const sha = await getGitHubFileSha({
+    githubToken,
+    owner,
+    repoName,
+    githubBranch,
+    repoPath,
   });
-  if (!response.ok) {
-    const errText = await response.text();
-    throw new Error(`GitHub upload failed (${response.status}): ${errText}`);
-  }
-  return response.json();
+  const url = `https://api.github.com/repos/${owner}/${repoName}/contents/${encodeRepoPath(repoPath)}`;
+  const body = {
+    message: commitMessage,
+    content: fileBuffer.toString('base64'),
+    branch: githubBranch,
+  };
+  if (sha) body.sha = sha;
+  return githubJson(githubToken, url, {
+    method: 'PUT',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(body),
+  });
 }
 
-async function sendEmailWithZip(resendKey, emailTo, participantId, timestamp, zipBase64) {
-  const zipFilename = `${participantId}_motr_results_${timestamp}.zip`;
+async function createGitBlob({ githubToken, owner, repoName, fileBuffer }) {
+  const data = await githubJson(
+    githubToken,
+    `https://api.github.com/repos/${owner}/${repoName}/git/blobs`,
+    {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        content: fileBuffer.toString('base64'),
+        encoding: 'base64',
+      }),
+    }
+  );
+  return data.sha;
+}
+
+async function pushFilesBatchToGitHubOnce({
+  githubToken,
+  owner,
+  repoName,
+  githubBranch,
+  files,
+  commitMessage,
+}) {
+  const refData = await githubJson(
+    githubToken,
+    `https://api.github.com/repos/${owner}/${repoName}/git/refs/heads/${encodeURIComponent(githubBranch)}`
+  );
+  const parentSha = refData.object.sha;
+  const parentCommit = await githubJson(
+    githubToken,
+    `https://api.github.com/repos/${owner}/${repoName}/git/commits/${parentSha}`
+  );
+  const baseTreeSha = parentCommit.tree.sha;
+
+  const treeEntries = [];
+  for (const file of files) {
+    if (file.fileBuffer.length <= INLINE_TREE_MAX_BYTES) {
+      treeEntries.push({
+        path: file.repoPath,
+        mode: '100644',
+        type: 'blob',
+        content: file.fileBuffer.toString('base64'),
+        encoding: 'base64',
+      });
+      continue;
+    }
+    const blobSha = await createGitBlob({
+      githubToken,
+      owner,
+      repoName,
+      fileBuffer: file.fileBuffer,
+    });
+    treeEntries.push({
+      path: file.repoPath,
+      mode: '100644',
+      type: 'blob',
+      sha: blobSha,
+    });
+  }
+
+  const treeData = await githubJson(
+    githubToken,
+    `https://api.github.com/repos/${owner}/${repoName}/git/trees`,
+    {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        base_tree: baseTreeSha,
+        tree: treeEntries,
+      }),
+    }
+  );
+
+  const commitData = await githubJson(
+    githubToken,
+    `https://api.github.com/repos/${owner}/${repoName}/git/commits`,
+    {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        message: commitMessage,
+        tree: treeData.sha,
+        parents: [parentSha],
+      }),
+    }
+  );
+
+  await githubJson(
+    githubToken,
+    `https://api.github.com/repos/${owner}/${repoName}/git/refs/heads/${encodeURIComponent(githubBranch)}`,
+    {
+      method: 'PATCH',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        sha: commitData.sha,
+        force: false,
+      }),
+    }
+  );
+
+  return {
+    commitSha: commitData.sha,
+    paths: files.map((file) => file.repoPath),
+  };
+}
+
+function retryDelayMs(err, attempt) {
+  if (isGitRateLimit(err)) {
+    const retryAfterMs = err.retryAfterSeconds != null
+      ? err.retryAfterSeconds * 1000
+      : Math.min(60000, 5000 * (2 ** attempt));
+    return retryAfterMs + Math.floor(Math.random() * 1000);
+  }
+  return Math.min(8000, 500 * (2 ** attempt)) + Math.floor(Math.random() * 250);
+}
+
+function shouldRetryGitPush(err, attempt, maxAttempts) {
+  if (attempt >= maxAttempts - 1) return false;
+  return isGitRefConflict(err) || isGitRateLimit(err);
+}
+
+async function pushFilesBatchToGitHub(args) {
+  const maxAttempts = 6;
+  let lastErr = null;
+  for (let attempt = 0; attempt < maxAttempts; attempt += 1) {
+    try {
+      return await pushFilesBatchToGitHubOnce(args);
+    } catch (err) {
+      lastErr = err;
+      if (!shouldRetryGitPush(err, attempt, maxAttempts)) {
+        throw err;
+      }
+      await sleep(retryDelayMs(err, attempt));
+    }
+  }
+  throw lastErr;
+}
+
+function buildRepoPath(resultsSubdir, resultsScope, folderName, fileName) {
+  return resultsScope === 'partial'
+    ? `${resultsSubdir}/partial/${folderName}/${fileName}`
+    : `${resultsSubdir}/${folderName}/${fileName}`;
+}
+
+function buildBatchCommitMessage({
+  resultsScope,
+  folderName,
+  checkpointLabel,
+  fileNames,
+}) {
+  const names = (fileNames || []).join(', ');
+  if (resultsScope === 'partial') {
+    const label = checkpointLabel ? ` ${checkpointLabel}` : '';
+    return `[skip ci] Add results checkpoint${label}: ${folderName} (${names})`;
+  }
+  return `[skip ci] Add results: ${folderName} (${names})`;
+}
+
+async function sendEmailWithZip(resendKey, emailTo, participantId, timestamp, zipBase64, folderName) {
+  const zipFilename = `${safeFolderName(folderName) || participantId}_motr_results_${timestamp}.zip`;
   const res = await fetch('https://api.resend.com/emails', {
     method: 'POST',
     headers: {
@@ -106,7 +376,7 @@ async function sendEmailWithZip(resendKey, emailTo, participantId, timestamp, zi
       from: 'MoTR Results <onboarding@resend.dev>',
       to: [emailTo],
       subject: `MoTR results: ${participantId}`,
-      text: `Results for participant ${participantId} (${timestamp}).`,
+      text: `Results for participant ${participantId} (${timestamp}). A ZIP copy is attached; files were also saved to GitHub.`,
       attachments: [{ filename: zipFilename, content: zipBase64 }],
     }),
   });
@@ -114,6 +384,18 @@ async function sendEmailWithZip(resendKey, emailTo, participantId, timestamp, zi
     const err = await res.text();
     throw new Error(`Resend: ${res.status} ${err}`);
   }
+}
+
+async function buildZipBase64FromDecodedFiles(folderName, decodedFiles) {
+  const { default: JSZip } = await import('jszip');
+  const zip = new JSZip();
+  const folder = safeFolderName(folderName);
+  for (const file of decodedFiles) {
+    const entryName = file.fileName || 'results.csv';
+    zip.file(`${folder}/${entryName}`, file.fileBuffer);
+  }
+  const buf = await zip.generateAsync({ type: 'nodebuffer' });
+  return buf.toString('base64');
 }
 
 export default async function handler(req, res) {
@@ -136,9 +418,9 @@ export default async function handler(req, res) {
     /\/+$/,
     ''
   );
-  const githubBranch = process.env.GITHUB_BRANCH || 'main';
+  const githubBranch = process.env.GITHUB_BRANCH || 'results';
   const resendKey = process.env.RESEND_API_KEY;
-  const emailTo = process.env.EMAIL_TO || 'vkuperman@yahoo.com';
+  const emailTo = process.env.EMAIL_TO || 'readinglabmotr@gmail.com';
 
   const useGitHub = !!githubToken;
   const useEmail = !!(resendKey && emailTo);
@@ -169,29 +451,45 @@ export default async function handler(req, res) {
     });
   }
 
-  if (requestedResultsPath !== serverResultsPath) {
+  const resultsPath = resolveResultsPath(serverResultsPath, requestedResultsPath);
+  if (!resultsPath) {
     return res.status(403).json({
       error: 'githubResultsPath does not match this API deployment',
-      expectedGithubResultsPath: serverResultsPath,
+      expectedGithubResultsPath: canonicalResultsPathForDeployment() || serverResultsPath,
+      serverGithubResultsPath: serverResultsPath,
       receivedGithubResultsPath: requestedResultsPath,
       spotlightApp: process.env.SPOTLIGHT_APP || '',
     });
   }
 
-  const resultsPath = serverResultsPath;
   const timestamp = new Date().toISOString().replace(/[:.]/g, '-').slice(0, 19);
   const isTest = body.isTest === true || body.isTest === 'true';
   const resultsScope = body.resultsScope === 'partial' ? 'partial' : 'complete';
   const resultsSubdir = isTest ? `${resultsPath}/test` : resultsPath;
   const result = { ok: true };
+  let decodedFilesForEmail = [];
 
   const fileBase64 = body.fileBase64;
   const zipBase64 = body.zipBase64;
+  const batchFiles = Array.isArray(body.files) ? body.files : [];
+  const isBatchUpload =
+    batchFiles.length > 0
+    && body.folderName
+    && batchFiles.every(
+      (file) => file
+        && typeof file.fileName === 'string'
+        && typeof file.fileBase64 === 'string'
+        && file.fileBase64.length > 0
+    );
   const isSingleFile =
-    fileBase64 && typeof fileBase64 === 'string' && body.fileName && body.folderName;
+    !isBatchUpload
+    && fileBase64
+    && typeof fileBase64 === 'string'
+    && body.fileName
+    && body.folderName;
 
-  if (!isSingleFile && (!zipBase64 || typeof zipBase64 !== 'string')) {
-    return res.status(400).json({ error: 'Missing fileBase64 or zipBase64' });
+  if (!isBatchUpload && !isSingleFile && (!zipBase64 || typeof zipBase64 !== 'string')) {
+    return res.status(400).json({ error: 'Missing files batch, fileBase64, or zipBase64' });
   }
 
   if (useGitHub) {
@@ -201,14 +499,42 @@ export default async function handler(req, res) {
     }
 
     try {
-      if (isSingleFile) {
+      if (isBatchUpload) {
+        const folderName = safeFolderName(body.folderName);
+        const decodedFiles = batchFiles.map((file) => {
+          const fileName = safeFileName(file.fileName);
+          const encoding = file.contentEncoding === 'gzip' ? 'gzip' : 'none';
+          const fileBuffer = decodeUploadedFile(file.fileBase64, encoding);
+          const repoPath = buildRepoPath(resultsSubdir, resultsScope, folderName, fileName);
+          return { fileName, repoPath, fileBuffer };
+        });
+        decodedFilesForEmail = decodedFiles.map((file) => ({
+          fileName: file.fileName,
+          fileBuffer: file.fileBuffer,
+        }));
+        const commitMessage = buildBatchCommitMessage({
+          resultsScope,
+          folderName,
+          checkpointLabel: body.checkpointLabel,
+          fileNames: decodedFiles.map((file) => file.fileName),
+        });
+        const batchResult = await pushFilesBatchToGitHub({
+          githubToken,
+          owner,
+          repoName,
+          githubBranch,
+          files: decodedFiles,
+          commitMessage,
+        });
+        result.paths = batchResult.paths;
+        result.path = batchResult.paths[0] || '';
+        result.commitSha = batchResult.commitSha;
+      } else if (isSingleFile) {
         const folderName = safeFolderName(body.folderName);
         const fileName = safeFileName(body.fileName);
         const encoding = body.contentEncoding === 'gzip' ? 'gzip' : 'none';
         const fileBuffer = decodeUploadedFile(fileBase64, encoding);
-        const repoPath = resultsScope === 'partial'
-          ? `${resultsSubdir}/partial/${folderName}/${fileName}`
-          : `${resultsSubdir}/${folderName}/${fileName}`;
+        const repoPath = buildRepoPath(resultsSubdir, resultsScope, folderName, fileName);
         await pushFileToGitHub({
           githubToken,
           owner,
@@ -239,14 +565,31 @@ export default async function handler(req, res) {
     }
   }
 
-  if (useEmail) {
+  if (useEmail && resultsScope === 'complete') {
     try {
-      const emailBase64 = isSingleFile ? fileBase64 : zipBase64;
-      await sendEmailWithZip(resendKey, emailTo, participantId, timestamp, emailBase64);
-      result.email = emailTo;
+      let emailZip = typeof zipBase64 === 'string' && zipBase64.length > 0 ? zipBase64 : '';
+      if (!emailZip && decodedFilesForEmail.length > 0) {
+        emailZip = await buildZipBase64FromDecodedFiles(body.folderName, decodedFilesForEmail);
+      }
+      if (!emailZip && isSingleFile && fileBase64) {
+        emailZip = fileBase64;
+      }
+      if (emailZip) {
+        await sendEmailWithZip(
+          resendKey,
+          emailTo,
+          participantId,
+          timestamp,
+          emailZip,
+          body.folderName || participantId
+        );
+        result.email = emailTo;
+      } else {
+        result.emailSkipped = 'No ZIP available for email backup';
+      }
     } catch (err) {
       console.error('Email failed', err);
-      return res.status(500).json({ error: 'Email failed', details: String(err.message) });
+      result.emailError = String(err.message);
     }
   }
 

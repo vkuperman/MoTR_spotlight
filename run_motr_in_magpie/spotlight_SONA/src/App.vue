@@ -71,11 +71,12 @@
       <p v-if="readingPreview" style="width: 40em; margin: 0 auto 1.25em; text-align: center; color: #666; font-size: 0.9em;">
         Preview mode — reading trials only. Nothing is saved or uploaded.
       </p>
-      <p>In this study, you will read short texts and answer questions about them. However, unlike in normal reading, the texts will be blurred. <strong>Move your mouse over the text to reveal it with the spotlight;</strong> the revealed area follows your mouse. Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question at the bottom and click "next" to move on.</p>
+      <p>In this study, you will read short texts and answer questions about them. However, unlike in normal reading, the texts will be blurred. <strong>Move your mouse over the text to reveal it with the spotlight;</strong> the revealed area follows your mouse. Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question on the next page and click "next" to move on. Between each text, you will need to move your mouse back into the rectangle outline to start the next paragraph.</p>
     </InstructionScreen>
 
     <template v-for="(trial, i) of trials">
-      <Screen :key="i" class="main_screen" :progress="i / trials.length">
+      <ReadingStartGateScreen :key="'gate-' + i" :trial-index="i + 1" />
+      <Screen :key="'trial-' + i" class="main_screen" :progress="i / trials.length">
         <Slide>
           <form>
             <input type="hidden" class="item_id" :value="trial.item_id">
@@ -181,8 +182,10 @@ import {
   isCambridgeAnswerCorrect,
 } from '@motr-shared/cambridgeGeneralEnglish';
 import ExportReportsScreen from '@motr-shared/components/ExportReportsScreen.vue';
+import ReadingStartGateScreen from '@motr-shared/components/ReadingStartGateScreen.vue';
 import {
   deferReadingTrialSafeguards,
+  ensureExperimentStartRecorded,
   initResultsSession,
 } from '@motr-shared/resultsSafeguard';
 import {
@@ -207,7 +210,13 @@ const cambridgeScoringCsv = require('../../OneStop/Cambridge/Cambridge scoring(S
 
 export default {
   name: 'App',
-  components: { ExportReportsScreen, CustomSubmitResultsScreen, ConsentSONA, DemographicsOneStopQuestionnaire },
+  components: {
+    ExportReportsScreen,
+    ReadingStartGateScreen,
+    CustomSubmitResultsScreen,
+    ConsentSONA,
+    DemographicsOneStopQuestionnaire,
+  },
   props: {
     /** Reading-phase preview: skip consent/demographics/Cambridge/upload; no results persisted. */
     readingPreview: { type: Boolean, default: false },
@@ -300,6 +309,7 @@ export default {
     },
   },
   mounted() {
+    ensureExperimentStartRecorded(this);
     installRawPositionSampling(this);
   },
   beforeDestroy() {
@@ -422,35 +432,20 @@ export default {
           let left;
           let right;
 
-          const isFirstLine = (lineIdx === 0);
-          const isLastLine = (lineIdx === lines.length - 1);
-
           if (n === 1) {
             // Single word on this line
-            left = curr.left;
-            right = curr.right;
-            if (isFirstLine) {
-              left -= charWidth / 2;
-            }
-            if (isLastLine) {
-              right += charWidth / 2;
-            }
+            left = curr.left - charWidth / 2;
+            right = curr.right + charWidth / 2;
           } else if (i === 0) {
             const next = lineItems[i + 1].rect;
             const midNext = (curr.right + next.left) / 2;
-            left = curr.left;
+            left = curr.left - charWidth / 2;
             right = midNext;
-            if (isFirstLine) {
-              left -= charWidth / 2;
-            }
           } else if (i === n - 1) {
             const prev = lineItems[i - 1].rect;
             const midPrev = (prev.right + curr.left) / 2;
             left = midPrev;
-            right = curr.right;
-            if (isLastLine) {
-              right += charWidth / 2;
-            }
+            right = curr.right + charWidth / 2;
           } else {
             const prev = lineItems[i - 1].rect;
             const next = lineItems[i + 1].rect;
@@ -699,7 +694,6 @@ export default {
         SonaId: id,
         SONAId: id,
         study_key: studyConfig.studyKey,
-        experiment_start_time: new Date().toISOString()
       });
       this.$magpie.addTrialData({
         SONAId: id,

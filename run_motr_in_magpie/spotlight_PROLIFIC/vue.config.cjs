@@ -1,6 +1,8 @@
+const webpack = require('webpack');
 const { motrSharedAlias } = require('../shared/vueConfigAlias.cjs');
 
 const sharedAlias = motrSharedAlias(__dirname);
+const prolificMaxUploadBodyChars = Math.floor(2.5 * 1024 * 1024);
 
 module.exports = {
   chainWebpack(config) {
@@ -16,8 +18,15 @@ module.exports = {
     config.resolve.alias.set('@magpie-config', sharedAlias['@magpie-config']);
   },
   configureWebpack: {
+    plugins: [
+      new webpack.DefinePlugin({
+        'process.env.MOTR_MAX_UPLOAD_BODY_CHARS': JSON.stringify(prolificMaxUploadBodyChars),
+      }),
+    ],
     resolve: {
-      alias: sharedAlias,
+      alias: {
+        ...sharedAlias,
+      },
     },
     module: {
       rules: [

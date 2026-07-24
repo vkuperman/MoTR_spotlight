@@ -1,0 +1,164 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,31,628903,313,115,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,75,628947,310,107,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,125,628997,307,99,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,177,629048,306,98,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,226,629098,306,98,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,276,629148,306,98,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,326,629198,306,98,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,376,629248,306,98,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,426,629298,315,100,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,475,629347,345,110,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,527,629399,372,118,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,1, “The ,577,629449,389,120,108.375,385.375,128.875,427.390625,1,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,1, “The ,626,629498,400,119,108.375,385.375,128.875,427.390625,1,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,1, “The ,676,629548,411,117,108.375,385.375,128.875,427.390625,1,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,2, government ,726,629598,428,116,108.375,427.390625,128.875,527.4453125,1,2,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,2, government ,776,629648,456,116,108.375,427.390625,128.875,527.4453125,1,2,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,2, government ,826,629698,512,116,108.375,427.390625,128.875,527.4453125,1,2,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,4, making ,875,629747,586,116,108.375,545.4453125,128.875,608.4765625,1,4,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,5, conservation ,926,629798,665,116,108.375,608.4765625,128.875,715.5390625,1,5,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,6, plans ,976,629848,737,119,108.375,715.5390625,128.875,763.578125,1,6,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,8, tigers. ,1026,629898,794,124,108.375,789.5859375,128.875,843.609375,1,8,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,9, But ,1076,629947,844,126,108.375,843.609375,128.875,875.6328125,1,9,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,10, it ,1126,629998,888,129,108.375,875.6328125,128.875,889.640625,1,10,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,11, should ,1176,630048,919,130,108.375,889.640625,128.875,947.6875,1,11,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,11, should ,1226,630098,943,130,108.375,889.640625,128.875,947.6875,1,11,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,12, also ,1276,630148,961,129,108.375,947.6875,128.875,985.7109375,1,12,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,12, also ,1326,630198,974,129,108.375,947.6875,128.875,985.7109375,1,12,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,12, also ,1376,630248,981,132,108.375,947.6875,128.875,985.7109375,1,12,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,27, Nepali ,1426,630298,987,140,148.375,985.7578125,168.875,1036.7890625,2,14,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,27, Nepali ,1476,630348,990,149,148.375,985.7578125,168.875,1036.7890625,2,14,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,27, Nepali ,1526,630398,990,155,148.375,985.7578125,168.875,1036.7890625,2,14,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,26, a ,1575,630447,984,159,148.375,970.7421875,168.875,985.7578125,2,13,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,25, told ,1625,630497,963,162,148.375,936.71875,168.875,970.7421875,2,12,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,24," leader, ",1676,630548,920,164,148.375,877.6640625,168.875,936.71875,2,11,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,23, village ,1727,630599,852,163,148.375,821.6328125,168.875,877.6640625,2,10,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,21," Bhurtel, ",1776,630648,760,158,148.375,739.578125,168.875,806.6171875,2,8,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,20, Krishna ,1826,630698,690,155,148.375,673.5390625,168.875,739.578125,2,7,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,19," tigers,” ",1876,630748,658,154,148.375,613.5234375,168.875,673.5390625,2,6,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,19," tigers,” ",1926,630798,637,156,148.375,613.5234375,168.875,673.5390625,2,6,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,18, from ,1976,630848,608,158,148.375,572.515625,168.875,613.5234375,2,5,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,18, from ,2026,630898,576,158,148.375,572.515625,168.875,613.5234375,2,5,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,17, people ,2077,630949,515,154,148.375,513.4609375,168.875,572.515625,2,4,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,16, protect ,2126,630998,459,148,148.375,453.4296875,168.875,513.4609375,2,3,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,14, plans ,2175,631047,430,145,148.375,385.375,168.875,433.4140625,2,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,14, plans ,2226,631098,418,145,148.375,385.375,168.875,433.4140625,2,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,14, plans ,2276,631148,409,147,148.375,385.375,168.875,433.4140625,2,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,14, plans ,2326,631198,401,149,148.375,385.375,168.875,433.4140625,2,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,14, plans ,2375,631247,398,151,148.375,385.375,168.875,433.4140625,2,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,14, plans ,2427,631299,395,155,148.375,385.375,168.875,433.4140625,2,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,14, plans ,2477,631349,395,155,148.375,385.375,168.875,433.4140625,2,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,14, plans ,2527,631399,395,155,148.375,385.375,168.875,433.4140625,2,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,14, plans ,2578,631450,395,155,148.375,385.375,168.875,433.4140625,2,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,14, plans ,2627,631499,395,160,148.375,385.375,168.875,433.4140625,2,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,14, plans ,2676,631548,392,175,148.375,385.375,168.875,433.4140625,2,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,28, newspaper. ,2725,631597,392,188,188.375,385.375,208.875,482.453125,3,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,28, newspaper. ,2777,631649,394,192,188.375,385.375,208.875,482.453125,3,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,28, newspaper. ,2827,631698,406,191,188.375,385.375,208.875,482.453125,3,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,28, newspaper. ,2876,631748,438,184,188.375,385.375,208.875,482.453125,3,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,29," Recently, ",2926,631798,501,179,188.375,482.453125,208.875,561.1640625,3,2,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,30, a ,2976,631848,572,182,188.375,561.1640625,208.875,576.1796875,3,3,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,33, captured ,3027,631899,667,202,188.375,653.21875,208.875,728.2734375,3,6,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,50, Thousands ,3076,631948,775,224,228.375,741.09375,248.875,835,4,10,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,51, of ,3125,631997,847,234,228.375,835,248.875,855.015625,4,11,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,52, tigers ,3176,632048,901,239,228.375,855.015625,248.875,904.0390625,4,12,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,53, used ,3226,632098,941,241,228.375,904.0390625,248.875,948.078125,4,13,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,55, live ,3276,632148,981,240,228.375,968.09375,248.875,1000.109375,4,15,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,56, in ,3326,632198,1001,240,228.375,1000.109375,248.875,1019.125,4,16,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,56, in ,3376,632248,1006,238,228.375,1000.109375,248.875,1019.125,4,16,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,56, in ,3427,632299,1008,238,228.375,1000.109375,248.875,1019.125,4,16,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,56, in ,3476,632348,1008,238,228.375,1000.109375,248.875,1019.125,4,16,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,55, live ,3526,632397,999,238,228.375,968.09375,248.875,1000.109375,4,15,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,53, used ,3576,632448,927,222,228.375,904.0390625,248.875,948.078125,4,13,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,34, after ,3626,632497,751,194,188.375,728.2734375,208.875,769.296875,3,7,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,31, tiger ,3676,632547,605,189,188.375,576.1796875,208.875,616.203125,3,4,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,29," Recently, ",3725,632597,511,186,188.375,482.453125,208.875,561.1640625,3,2,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,16, protect ,3776,632647,454,178,148.375,453.4296875,168.875,513.4609375,2,3,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,15, to ,3825,632697,440,177,148.375,433.4140625,168.875,453.4296875,2,2,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,28, newspaper. ,3877,632749,429,179,188.375,385.375,208.875,482.453125,3,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,28, newspaper. ,3926,632798,417,204,188.375,385.375,208.875,482.453125,3,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,58, forests ,3976,632848,414,282,268.375,385.375,288.875,444.3984375,5,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,71," 3,000, ",4026,632898,428,324,308.375,385.375,328.875,440.421875,6,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,85, has ,4076,632948,471,344,348.375,437.40625,368.875,471.4296875,7,2,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,89," tigers, ",4125,632997,614,342,348.375,589.5,368.875,643.5234375,7,6,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,79, Chitwan ,4175,633047,788,327,308.375,754.6640625,328.875,824.6953125,6,9,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,81, Park ,4225,633097,910,329,308.375,895.7421875,328.875,937.7578125,6,11,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,82, in ,4276,633148,956,338,308.375,937.7578125,328.875,956.7734375,6,12,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,96, Park ,4326,633198,964,340,348.375,952.7265625,368.875,994.7421875,7,13,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,82, in ,4376,633248,941,319,308.375,937.7578125,328.875,956.7734375,6,12,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,51, of ,4426,633298,850,221,228.375,835,248.875,855.015625,4,11,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,21," Bhurtel, ",4475,633347,765,146,148.375,739.578125,168.875,806.6171875,2,8,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,6, plans ,4525,633397,731,133,108.375,715.5390625,128.875,763.578125,1,6,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,33, captured ,4575,633447,708,214,188.375,653.21875,208.875,728.2734375,3,6,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,77, hundred ,4626,633498,675,318,308.375,629.578125,328.875,700.640625,6,7,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,90, with ,4676,633548,649,356,348.375,643.5234375,368.875,680.5390625,7,7,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,89," tigers, ",4727,633599,634,363,348.375,589.5,368.875,643.5234375,7,6,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,89," tigers, ",4776,633648,609,354,348.375,589.5,368.875,643.5234375,7,6,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,74, decrease ,4825,633697,555,305,308.375,496.46875,328.875,575.5234375,6,4,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,60," Bangladesh, ",4875,633747,494,275,268.375,463.4140625,288.875,568.5,5,3,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,72, a ,4926,633798,454,301,308.375,440.421875,328.875,455.4375,6,2,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,85, has ,4977,633848,442,356,348.375,437.40625,368.875,471.4296875,7,2,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,99, Shukla ,5026,633898,455,407,388.375,420.4140625,408.875,480.453125,8,2,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,5076,633948,510,426,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,101, Wildlife ,5126,633998,575,397,388.375,542.5078125,408.875,605.5234375,8,4,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,89," tigers, ",5176,634048,640,368,348.375,589.5,368.875,643.5234375,7,6,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,90, with ,5225,634097,669,363,348.375,643.5234375,368.875,680.5390625,7,7,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,90, with ,5276,634148,679,370,348.375,643.5234375,368.875,680.5390625,7,7,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,103, (17). ,5327,634199,678,379,388.375,677.5546875,408.875,714.5703125,8,6,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,101, Wildlife ,5375,634247,596,390,388.375,542.5078125,408.875,605.5234375,8,4,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,99, Shukla ,5426,634298,424,381,388.375,420.4140625,408.875,480.453125,8,2,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,5476,634347,326,341,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,5526,634398,325,285,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,14, plans ,5577,634448,431,139,148.375,385.375,168.875,433.4140625,2,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,5626,634497,477,93,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,5675,634547,477,93,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,47, bed ,5726,634598,667,219,228.375,644.515625,248.875,679.5546875,4,7,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,90, with ,5777,634648,679,368,348.375,643.5234375,368.875,680.5390625,7,7,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,5826,634698,679,426,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,5876,634748,685,427,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,65, their ,5926,634798,741,295,268.375,736.640625,288.875,776.6640625,5,8,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,50, Thousands ,5977,634849,786,235,228.375,741.09375,248.875,835,4,10,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,50, Thousands ,6026,634898,801,225,228.375,741.09375,248.875,835,4,10,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,50, Thousands ,6076,634948,803,225,228.375,741.09375,248.875,835,4,10,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,50, Thousands ,6125,634997,811,243,228.375,741.09375,248.875,835,4,10,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,53, used ,6177,635048,923,257,228.375,904.0390625,248.875,948.078125,4,13,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,56, in ,6226,635098,1018,238,228.375,1000.109375,248.875,1019.125,4,16,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,6276,635148,1047,190,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,27, Nepali ,6326,635198,1016,141,148.375,985.7578125,168.875,1036.7890625,2,14,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,12, also ,6376,635248,984,132,108.375,947.6875,128.875,985.7109375,1,12,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,25, told ,6427,635298,958,173,148.375,936.71875,168.875,970.7421875,2,12,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,81, Park ,6476,635348,927,305,308.375,895.7421875,328.875,937.7578125,6,11,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,6526,635398,903,400,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,6575,635447,880,432,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,6625,635497,779,397,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,45, from ,6676,635547,612,248,228.375,575.4921875,248.875,616.5,4,5,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,16, protect ,6725,635597,500,139,148.375,453.4296875,168.875,513.4609375,2,3,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,2, government ,6776,635648,460,121,108.375,427.390625,128.875,527.4453125,1,2,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,15, to ,6827,635699,449,156,148.375,433.4140625,168.875,453.4296875,2,2,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,58, forests ,6876,635748,443,290,268.375,385.375,288.875,444.3984375,5,1,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,99, Shukla ,6925,635797,449,388,388.375,420.4140625,408.875,480.453125,8,2,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,99, Shukla ,6976,635848,477,415,388.375,420.4140625,408.875,480.453125,8,2,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,100, Phanta ,7026,635898,531,394,388.375,480.453125,408.875,542.5078125,8,3,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,88, adult ,7077,635949,570,356,348.375,545.4609375,368.875,589.5,7,5,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,88, adult ,7126,635998,580,345,348.375,545.4609375,368.875,589.5,7,5,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,88, adult ,7177,636049,580,345,348.375,545.4609375,368.875,589.5,7,5,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,88, adult ,7227,636098,580,359,348.375,545.4609375,368.875,589.5,7,5,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,101, Wildlife ,7277,636149,584,389,388.375,542.5078125,408.875,605.5234375,8,4,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,102, Reserve ,7326,636198,609,404,388.375,605.5234375,408.875,677.5546875,8,5,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,102, Reserve ,7376,636248,645,392,388.375,605.5234375,408.875,677.5546875,8,5,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,90, with ,7426,636298,658,375,348.375,643.5234375,368.875,680.5390625,7,7,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,89," tigers, ",7475,636347,635,353,348.375,589.5,368.875,643.5234375,7,6,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,88, adult ,7526,636398,572,343,348.375,545.4609375,368.875,589.5,7,5,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,101, Wildlife ,7576,636448,549,384,388.375,542.5078125,408.875,605.5234375,8,4,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,7626,636498,576,434,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,7676,636547,576,434,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,7726,636598,576,434,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,7775,636647,576,434,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,7826,636698,576,434,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,7876,636748,576,434,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,7926,636798,576,434,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,7976,636848,576,434,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,8026,636898,576,434,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,8077,636948,576,434,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,4,30,31,-1,999,8126,636997,576,434,,,,,,,It decreased to 10 tigers,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific

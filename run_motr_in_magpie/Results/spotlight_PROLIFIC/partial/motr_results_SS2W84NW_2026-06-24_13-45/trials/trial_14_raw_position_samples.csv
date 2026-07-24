@@ -1,0 +1,193 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SS2W84NW,test,2,int,25,5,13,14,-1,999,27,442402,329,101,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,72,442447,312,87,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,122,442497,308,81,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,172,442548,308,81,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,222,442597,308,81,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,272,442647,333,95,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,15," UK, ",324,442699,436,151,148.375,434.4140625,168.875,469.421875,2,3,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,33, dramatic ,372,442747,522,188,188.375,449.4296875,208.875,523.453125,3,4,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,34, reduction ,422,442798,547,193,188.375,523.453125,208.875,602.5078125,3,5,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,34, reduction ,473,442848,547,189,188.375,523.453125,208.875,602.5078125,3,5,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,17, just ,523,442898,513,153,148.375,499.4453125,168.875,532.4609375,2,5,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,2, estimated ,573,442949,482,126,108.375,413.0625,128.875,496.1015625,1,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,2, estimated ,622,442998,466,120,108.375,413.0625,128.875,496.1015625,1,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,2, estimated ,673,443048,453,122,108.375,413.0625,128.875,496.1015625,1,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,2, estimated ,722,443097,430,125,108.375,413.0625,128.875,496.1015625,1,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,1, It’s ,773,443148,412,123,108.375,385.375,128.875,413.0625,1,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,1, It’s ,822,443198,401,118,108.375,385.375,128.875,413.0625,1,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,1, It’s ,873,443248,397,115,108.375,385.375,128.875,413.0625,1,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,1, It’s ,924,443299,397,114,108.375,385.375,128.875,413.0625,1,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,1, It’s ,972,443348,403,114,108.375,385.375,128.875,413.0625,1,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,2, estimated ,1023,443398,439,120,108.375,413.0625,128.875,496.1015625,1,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,3, that ,1072,443448,507,127,108.375,496.1015625,128.875,531.1328125,1,3,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,5, than ,1123,443498,602,135,108.375,577.1484375,128.875,617.1875,1,5,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,21, manage ,1172,443548,663,140,148.375,631.515625,168.875,701.5703125,2,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,22, to ,1222,443598,708,143,148.375,701.5703125,168.875,721.5859375,2,10,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,23, get ,1272,443648,739,145,148.375,721.5859375,168.875,751.609375,2,11,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,24, regular ,1322,443698,767,146,148.375,751.609375,168.875,812.640625,2,12,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,24, regular ,1372,443748,803,148,148.375,751.609375,168.875,812.640625,2,12,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,25, work ,1422,443798,845,149,148.375,812.640625,168.875,855.6484375,2,13,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,26, each ,1472,443847,878,146,148.375,855.6484375,168.875,899.6875,2,14,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,11, mystery ,1522,443898,909,135,108.375,899.4140625,128.875,967.421875,1,11,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,11, mystery ,1572,443948,928,128,108.375,899.4140625,128.875,967.421875,1,11,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,11, mystery ,1622,443997,944,126,108.375,899.4140625,128.875,967.421875,1,11,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,11, mystery ,1672,444048,954,126,108.375,899.4140625,128.875,967.421875,1,11,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,11, mystery ,1722,444098,962,129,108.375,899.4140625,128.875,967.421875,1,11,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,11, mystery ,1772,444147,967,131,108.375,899.4140625,128.875,967.421875,1,11,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,12, shoppers ,1823,444198,968,135,108.375,967.421875,128.875,1041.4765625,1,12,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,28, This ,1872,444248,963,149,148.375,959.5625,168.875,998.4140625,2,16,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,27, month. ,1923,444298,930,173,148.375,899.6875,168.875,959.5625,2,15,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,42, reimbursement ,1972,444347,876,181,188.375,827.34375,208.875,952.390625,3,13,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,25, work ,2022,444398,835,177,148.375,812.640625,168.875,855.6484375,2,13,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,24, regular ,2072,444448,779,166,148.375,751.609375,168.875,812.640625,2,12,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,21, manage ,2122,444497,694,149,148.375,631.515625,168.875,701.5703125,2,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,5, than ,2172,444547,584,137,108.375,577.1484375,128.875,617.1875,1,5,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,2, estimated ,2223,444598,493,137,108.375,413.0625,128.875,496.1015625,1,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,15," UK, ",2273,444648,437,142,148.375,434.4140625,168.875,469.421875,2,3,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,14, the ,2322,444698,415,147,148.375,404.390625,168.875,434.4140625,2,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,13, in ,2372,444747,402,151,148.375,385.375,168.875,404.390625,2,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,13, in ,2422,444797,395,158,148.375,385.375,168.875,404.390625,2,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,13, in ,2472,444847,390,175,148.375,385.375,168.875,404.390625,2,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,30, led ,2523,444898,388,195,188.375,385.375,208.875,414.3984375,3,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,30, led ,2572,444947,388,205,188.375,385.375,208.875,414.3984375,3,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,30, led ,2623,444998,402,217,188.375,385.375,208.875,414.3984375,3,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,45, purchase ,2673,445048,430,229,228.375,385.375,248.875,464.4296875,4,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,47," mileage, ",2723,445098,502,235,228.375,499.46875,248.875,572.5078125,4,3,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,48, but ,2773,445148,591,227,228.375,572.5078125,248.875,602.53125,4,4,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,37, “Once ,2822,445198,681,214,188.375,659.2265625,208.875,713.25,3,8,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,39, got ,2872,445247,763,204,188.375,747.2734375,208.875,777.296875,3,10,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,42, reimbursement ,2922,445298,828,204,188.375,827.34375,208.875,952.390625,3,13,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,42, reimbursement ,2973,445348,853,205,188.375,827.34375,208.875,952.390625,3,13,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,42, reimbursement ,3022,445397,853,205,188.375,827.34375,208.875,952.390625,3,13,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,42, reimbursement ,3073,445448,853,205,188.375,827.34375,208.875,952.390625,3,13,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,42, reimbursement ,3122,445498,853,205,188.375,827.34375,208.875,952.390625,3,13,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,42, reimbursement ,3172,445548,853,205,188.375,827.34375,208.875,952.390625,3,13,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,42, reimbursement ,3223,445598,869,206,188.375,827.34375,208.875,952.390625,3,13,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,55, contribution ,3273,445649,913,220,228.375,830.6796875,248.875,928.7421875,4,11,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,56, towards ,3323,445698,947,238,228.375,928.7421875,248.875,996.7734375,4,12,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,56, towards ,3373,445748,956,250,228.375,928.7421875,248.875,996.7734375,4,12,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,66," Nowadays, ",3423,445798,954,263,268.375,862.28125,288.875,956.328125,5,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,66," Nowadays, ",3472,445848,926,273,268.375,862.28125,288.875,956.328125,5,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,66," Nowadays, ",3522,445898,864,274,268.375,862.28125,288.875,956.328125,5,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,65, shopper. ,3572,445948,801,261,268.375,788.2109375,288.875,862.28125,5,8,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,51, often ,3623,445998,715,246,228.375,674.578125,248.875,719.6171875,4,7,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,49, you ,3672,446047,635,241,228.375,602.53125,248.875,636.5546875,4,5,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,47," mileage, ",3723,446098,569,243,228.375,499.46875,248.875,572.5078125,4,3,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,47," mileage, ",3772,446148,531,249,228.375,499.46875,248.875,572.5078125,4,3,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,47," mileage, ",3822,446198,512,253,228.375,499.46875,248.875,572.5078125,4,3,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,46, and ,3872,446247,495,255,228.375,464.4296875,248.875,499.46875,4,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,46, and ,3922,446297,489,252,228.375,464.4296875,248.875,499.46875,4,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,46, and ,3973,446349,489,252,228.375,464.4296875,248.875,499.46875,4,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,46, and ,4022,446397,489,252,228.375,464.4296875,248.875,499.46875,4,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,46, and ,4073,446448,489,252,228.375,464.4296875,248.875,499.46875,4,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,46, and ,4123,446498,466,251,228.375,464.4296875,248.875,499.46875,4,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,45, purchase ,4172,446548,411,251,228.375,385.375,248.875,464.4296875,4,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,4222,446598,384,252,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,4272,446648,379,255,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,4322,446698,377,277,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,4372,446747,377,313,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,4421,446797,385,329,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,68, shopping ,4472,446847,432,319,308.375,385.375,328.875,463.4453125,6,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,59, says ,4522,446898,505,274,268.375,475.421875,288.875,517.4375,5,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,47," mileage, ",4572,446947,562,248,228.375,499.46875,248.875,572.5078125,4,3,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,49, you ,4622,446998,629,242,228.375,602.53125,248.875,636.5546875,4,5,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,51, often ,4673,447048,710,252,228.375,674.578125,248.875,719.6171875,4,7,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,65, shopper. ,4722,447098,799,285,268.375,788.2109375,288.875,862.28125,5,8,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,75, their ,4773,447148,863,306,308.375,828.6328125,328.875,868.65625,6,8,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,76, workers. ,4823,447199,894,315,308.375,868.65625,328.875,941.671875,6,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,76, workers. ,4873,447248,894,315,308.375,868.65625,328.875,941.671875,6,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,76, workers. ,4923,447298,894,315,308.375,868.65625,328.875,941.671875,6,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,76, workers. ,4973,447349,894,315,308.375,868.65625,328.875,941.671875,6,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,76, workers. ,5023,447398,894,315,308.375,868.65625,328.875,941.671875,6,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,76, workers. ,5073,447449,890,311,308.375,868.65625,328.875,941.671875,6,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,65, shopper. ,5123,447498,855,282,268.375,788.2109375,288.875,862.28125,5,8,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,65, shopper. ,5172,447548,824,261,268.375,788.2109375,288.875,862.28125,5,8,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,53, receive ,5224,447599,812,255,228.375,752.6328125,248.875,815.6640625,4,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,53, receive ,5274,447649,808,255,228.375,752.6328125,248.875,815.6640625,4,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,64, mystery ,5323,447698,780,259,268.375,720.203125,288.875,788.2109375,5,7,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,62, 51-year-old ,5372,447747,654,274,268.375,567.1484375,288.875,663.1953125,5,5,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,60," Val, ",5422,447798,544,285,268.375,517.4375,288.875,552.1328125,5,3,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,59, says ,5473,447848,490,290,268.375,475.421875,288.875,517.4375,5,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,58," purchase,” ",5523,447898,464,297,268.375,385.375,288.875,475.421875,5,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,68, shopping ,5572,447948,451,305,308.375,385.375,328.875,463.4453125,6,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,68, shopping ,5623,447999,441,318,308.375,385.375,328.875,463.4453125,6,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,78, shoppers ,5673,448048,431,339,348.375,385.375,368.875,464.4296875,7,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,78, shoppers ,5723,448098,425,354,348.375,385.375,368.875,464.4296875,7,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,78, shoppers ,5773,448148,423,357,348.375,385.375,368.875,464.4296875,7,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,78, shoppers ,5822,448197,424,357,348.375,385.375,368.875,464.4296875,7,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,78, shoppers ,5873,448248,447,353,348.375,385.375,368.875,464.4296875,7,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,79, typically ,5922,448297,499,344,348.375,464.4296875,368.875,533.453125,7,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,81, a ,5973,448348,571,343,348.375,563.4765625,368.875,578.4921875,7,4,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,82, couple ,6023,448398,636,358,348.375,578.4921875,368.875,636.5390625,7,5,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,84, pounds ,6073,448448,697,368,348.375,656.5546875,368.875,720.609375,7,7,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,87, visit ,6122,448498,774,374,348.375,761.6328125,368.875,797.6328125,7,10,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,90, token ,6172,448548,848,368,348.375,836.6640625,368.875,885.703125,7,13,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,91, gesture ,6222,448598,902,359,348.375,885.703125,368.875,950.7421875,7,14,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,91, gesture ,6272,448647,931,354,348.375,885.703125,368.875,950.7421875,7,14,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,92, for ,6323,448698,959,353,348.375,950.7421875,368.875,976.75,7,15,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,92, for ,6372,448748,973,353,348.375,950.7421875,368.875,976.75,7,15,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,93, their ,6423,448799,977,353,348.375,976.75,368.875,1016.7734375,7,16,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,93, their ,6473,448848,977,349,348.375,976.75,368.875,1016.7734375,7,16,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,77, “Marketforce ,6522,448897,962,329,308.375,941.671875,328.875,1042.6953125,6,10,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,66," Nowadays, ",6572,448947,922,296,268.375,862.28125,288.875,956.328125,5,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,66," Nowadays, ",6622,448997,897,283,268.375,862.28125,288.875,956.328125,5,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,66," Nowadays, ",6672,449047,886,286,268.375,862.28125,288.875,956.328125,5,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,75, their ,6722,449098,851,319,308.375,828.6328125,328.875,868.65625,6,8,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,88, as ,6773,449148,808,369,348.375,797.6328125,368.875,821.6484375,7,11,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,103, pay ,6823,449198,747,410,388.375,735.21875,408.875,769.2421875,8,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,118, a ,6874,449249,680,436,428.375,678.5390625,448.875,693.5546875,9,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,116, two ,6923,449298,634,454,428.375,624.515625,448.875,657.53125,9,7,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,131, to ,6972,449348,609,472,468.375,604.5390625,488.875,624.5546875,10,6,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,130, have ,7023,449398,580,491,468.375,560.5,488.875,604.5390625,10,5,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,7072,449448,541,505,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,7122,449498,518,507,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,128, we ,7173,449548,504,491,468.375,488.4453125,488.875,516.4609375,10,3,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,111, such ,7222,449598,496,452,428.375,472.4375,448.875,515.4609375,9,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,97, says ,7273,449648,495,411,388.375,477.1171875,408.875,519.1328125,8,3,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,97, says ,7323,449698,495,392,388.375,477.1171875,408.875,519.1328125,8,3,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,97, says ,7372,449747,495,388,388.375,477.1171875,408.875,519.1328125,8,3,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,97, says ,7422,449798,493,391,388.375,477.1171875,408.875,519.1328125,8,3,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,97, says ,7473,449848,482,410,388.375,477.1171875,408.875,519.1328125,8,3,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,110," expenses, ",7523,449898,466,437,428.375,385.375,448.875,472.4375,9,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,110," expenses, ",7573,449948,456,454,428.375,385.375,448.875,472.4375,9,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,110," expenses, ",7622,449998,451,458,428.375,385.375,448.875,472.4375,9,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,110," expenses, ",7672,450047,448,454,428.375,385.375,448.875,472.4375,9,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,96," effort,” ",7722,450097,448,407,388.375,420.4140625,408.875,477.1171875,8,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,78, shoppers ,7773,450148,459,358,348.375,385.375,368.875,464.4296875,7,1,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,69, companies ,7822,450198,467,336,308.375,463.4453125,328.875,555.5,6,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,69, companies ,7873,450248,469,333,308.375,463.4453125,328.875,555.5,6,2,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,97, says ,7922,450297,479,379,388.375,477.1171875,408.875,519.1328125,8,3,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,128, we ,7973,450348,515,462,468.375,488.4453125,488.875,516.4609375,10,3,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,8022,450397,576,507,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,132, pay ,8073,450449,648,494,468.375,624.5546875,488.875,658.578125,10,7,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,119, hotel ,8124,450499,710,440,428.375,693.5546875,448.875,737.59375,9,10,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,103, pay ,8173,450548,745,408,388.375,735.21875,408.875,769.2421875,8,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,103, pay ,8222,450598,759,400,388.375,735.21875,408.875,769.2421875,8,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,104, £15 ,8273,450648,771,411,388.375,769.2421875,408.875,804.28125,8,10,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,135, minimum ,8323,450698,796,470,468.375,733.625,488.875,811.6328125,10,10,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,8373,450748,818,501,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,8422,450797,834,506,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,136, wage.” ,8472,450848,863,471,468.375,811.6328125,488.875,865.6640625,10,11,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,108, reimbursement ,8523,450898,902,380,388.375,897.359375,408.875,1022.40625,8,14,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,91, gesture ,8573,450948,921,342,348.375,885.703125,368.875,950.7421875,7,14,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,76, workers. ,8623,450998,929,335,308.375,868.65625,328.875,941.671875,6,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,91, gesture ,8673,451048,941,352,348.375,885.703125,368.875,950.7421875,7,14,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,108, reimbursement ,8722,451098,970,409,388.375,897.359375,408.875,1022.40625,8,14,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,125, any ,8772,451148,992,436,428.375,980.0546875,448.875,1009.078125,9,16,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,125, any ,8822,451197,999,441,428.375,980.0546875,448.875,1009.078125,9,16,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,125, any ,8872,451248,998,434,428.375,980.0546875,448.875,1009.078125,9,16,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,108, reimbursement ,8923,451298,953,382,388.375,897.359375,408.875,1022.40625,8,14,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,90, token ,8973,451349,860,347,348.375,836.6640625,368.875,885.703125,7,13,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,87, visit ,9023,451398,775,360,348.375,761.6328125,368.875,797.6328125,7,10,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,118, a ,9072,451447,692,458,428.375,678.5390625,448.875,693.5546875,9,9,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,9122,451498,674,496,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,9172,451548,674,496,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,9222,451597,674,496,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,9272,451647,674,496,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,9322,451697,674,496,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,9372,451748,674,496,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,9422,451797,674,496,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,9471,451847,674,496,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,9523,451898,674,496,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,2,int,25,5,13,14,-1,999,9572,451948,674,496,,,,,,,A mystery shopper,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific

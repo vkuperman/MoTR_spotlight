@@ -50,7 +50,7 @@ Create **two** Vercel projects from this repo:
 | `mo-tr-spotlight-sona` | `cd run_motr_in_magpie/spotlight_SONA && npm install && npm run build` | `run_motr_in_magpie/spotlight_SONA/dist` | `run_motr_in_magpie/Results/spotlight_SONA` |
 | `mo-tr-spotlight-prolific` | `cd run_motr_in_magpie/spotlight_PROLIFIC && npm install && npm run build` | `run_motr_in_magpie/spotlight_PROLIFIC/dist` | `run_motr_in_magpie/Results/spotlight_PROLIFIC` |
 
-Both need: `GITHUB_TOKEN`, `GITHUB_REPO=vkuperman/MoTR_spotlight`, `GITHUB_BRANCH=main`.
+Both need: `GITHUB_TOKEN`, `GITHUB_REPO=vkuperman/MoTR_spotlight`, `GITHUB_BRANCH=results` (uploads; code deploys from `main`).
 
 Set each app’s `resultsUploadUrl` in `studyConfig.js` to match its Vercel URL.
 

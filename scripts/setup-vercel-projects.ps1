@@ -132,7 +132,7 @@ function Ensure-Project {
     @{ key = "SPOTLIGHT_APP"; value = $SpotlightApp; target = @("production", "preview", "development") }
     @{ key = "GITHUB_REPO"; value = $GitHubRepo; target = @("production", "preview", "development") }
     @{ key = "GITHUB_RESULTS_PATH"; value = $ResultsPath; target = @("production", "preview", "development") }
-    @{ key = "GITHUB_BRANCH"; value = "main"; target = @("production", "preview", "development") }
+    @{ key = "GITHUB_BRANCH"; value = "results"; target = @("production", "preview", "development") }
   )
 
   foreach ($ev in $envKeys) {
@@ -195,6 +195,16 @@ if ($legacy) {
     } | Out-Null
   } catch {
     Write-Warning "  Could not set SPOTLIGHT_APP on legacy project (may already exist)"
+  }
+  try {
+    Invoke-Vercel -Method POST -Path "/v10/projects/$($legacy.id)/env" -Body @{
+      key    = "GITHUB_RESULTS_PATH"
+      value  = "run_motr_in_magpie/Results/spotlight_SONA"
+      type   = "encrypted"
+      target = @("production", "preview", "development")
+    } | Out-Null
+  } catch {
+    Write-Warning "  Could not set GITHUB_RESULTS_PATH on legacy project (may already exist)"
   }
 }
 

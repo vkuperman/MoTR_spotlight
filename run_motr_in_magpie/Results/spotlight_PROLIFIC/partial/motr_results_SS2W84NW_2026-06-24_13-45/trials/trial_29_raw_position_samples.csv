@@ -1,0 +1,139 @@
+participant_id,SONAId,Condition,onestop_level,onestop_article_number,onestop_paragraph_number,ItemId,text_presentation_order,WordIndex,Word,responseTime,sampleTimeMs,mousePositionX,mousePositionY,wordPositionTop,wordPositionLeft,wordPositionBottom,wordPositionRight,line_number,position_in_line,response,response_correct,device,hand,experiment_date,experiment_start_date,experiment_start_time,experiment_start_clock_time,experiment_start_time_local,experiment_end_date,experiment_end_time,experiment_end_clock_time,experiment_end_time_local,experiment_duration,experiment_duration_ms,experiment
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,41,606797,313,104,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,91,606848,309,98,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,141,606898,309,97,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,192,606949,309,97,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,241,606998,309,97,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,291,607047,325,104,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,341,607097,372,136,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,15, medicine. ,392,607148,411,149,148.375,385.375,168.875,467.4140625,2,1,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,15, medicine. ,442,607198,431,147,148.375,385.375,168.875,467.4140625,2,1,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,15, medicine. ,492,607248,449,140,148.375,385.375,168.875,467.4140625,2,1,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,3, people ,541,607297,505,136,108.375,471.40625,128.875,530.4609375,1,3,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,5, tiger ,592,607348,585,137,108.375,573.484375,128.875,613.5078125,1,5,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,19, poor ,642,607398,679,142,148.375,659.5625,168.875,700.59375,2,5,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,21, Nepali ,691,607447,774,147,148.375,742.6171875,168.875,798.6484375,2,7,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,22, people ,741,607497,837,155,148.375,798.6484375,168.875,857.703125,2,8,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,23, large ,791,607547,880,158,148.375,857.703125,168.875,902.734375,2,9,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,24, amounts ,841,607597,922,159,148.375,902.734375,168.875,976.7734375,2,10,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,24, amounts ,892,607649,963,159,148.375,902.734375,168.875,976.7734375,2,10,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,25, of ,942,607698,988,158,148.375,976.7734375,168.875,996.7890625,2,11,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,25, of ,992,607748,996,154,148.375,976.7734375,168.875,996.7890625,2,11,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,26, money ,1043,607799,998,152,148.375,996.7890625,168.875,1050.8203125,2,12,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,26, money ,1092,607848,998,146,148.375,996.7890625,168.875,1050.8203125,2,12,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,14, Chinese ,1141,607897,995,135,108.375,975.7578125,128.875,1041.8046875,1,14,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,14, Chinese ,1191,607948,991,124,108.375,975.7578125,128.875,1041.8046875,1,14,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,14, Chinese ,1242,607998,989,120,108.375,975.7578125,128.875,1041.8046875,1,14,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,14, Chinese ,1291,608047,983,119,108.375,975.7578125,128.875,1041.8046875,1,14,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,13, traditional ,1342,608098,964,119,108.375,892.703125,128.875,975.7578125,1,13,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,13, traditional ,1391,608148,901,124,108.375,892.703125,128.875,975.7578125,1,13,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,10, are ,1442,608198,824,126,108.375,798.625,128.875,829.6484375,1,10,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,9, parts ,1492,608248,754,112,108.375,753.6015625,128.875,798.625,1,9,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,1541,608297,659,95,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,1591,608347,561,84,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,1641,608398,508,84,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,1691,608447,471,84,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,1742,608498,442,89,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,1792,608548,421,92,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,1841,608598,403,96,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,1, Some ,1892,608649,394,99,108.375,385.375,128.875,437.3984375,1,1,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,1, Some ,1942,608699,392,107,108.375,385.375,128.875,437.3984375,1,1,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,1, Some ,1992,608748,390,117,108.375,385.375,128.875,437.3984375,1,1,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,1, Some ,2041,608797,388,129,108.375,385.375,128.875,437.3984375,1,1,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,15, medicine. ,2091,608847,387,140,148.375,385.375,168.875,467.4140625,2,1,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,15, medicine. ,2142,608898,387,150,148.375,385.375,168.875,467.4140625,2,1,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,15, medicine. ,2191,608947,392,159,148.375,385.375,168.875,467.4140625,2,1,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,15, medicine. ,2242,608998,401,162,148.375,385.375,168.875,467.4140625,2,1,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,15, medicine. ,2291,609047,429,162,148.375,385.375,168.875,467.4140625,2,1,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,16, International ,2341,609097,476,159,148.375,467.4140625,168.875,571.4921875,2,2,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,16, International ,2391,609148,522,157,148.375,467.4140625,168.875,571.4921875,2,2,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,16, International ,2441,609198,560,157,148.375,467.4140625,168.875,571.4921875,2,2,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,17, gangs ,2492,609248,604,156,148.375,571.4921875,168.875,625.5390625,2,3,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,18, pay ,2542,609298,654,156,148.375,625.5390625,168.875,659.5625,2,4,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,20, local ,2591,609347,703,155,148.375,700.59375,168.875,742.6171875,2,6,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,21, Nepali ,2641,609397,749,153,148.375,742.6171875,168.875,798.6484375,2,7,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,21, Nepali ,2691,609447,792,151,148.375,742.6171875,168.875,798.6484375,2,7,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,22, people ,2742,609499,845,150,148.375,798.6484375,168.875,857.703125,2,8,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,23, large ,2792,609548,895,150,148.375,857.703125,168.875,902.734375,2,9,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,24, amounts ,2841,609597,933,148,148.375,902.734375,168.875,976.7734375,2,10,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,24, amounts ,2892,609648,962,145,148.375,902.734375,168.875,976.7734375,2,10,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,25, of ,2941,609698,981,145,148.375,976.7734375,168.875,996.7890625,2,11,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,25, of ,2992,609748,993,147,148.375,976.7734375,168.875,996.7890625,2,11,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,26, money ,3041,609797,1000,149,148.375,996.7890625,168.875,1050.8203125,2,12,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,26, money ,3092,609848,1006,151,148.375,996.7890625,168.875,1050.8203125,2,12,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,26, money ,3141,609897,1013,154,148.375,996.7890625,168.875,1050.8203125,2,12,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,26, money ,3192,609948,1017,161,148.375,996.7890625,168.875,1050.8203125,2,12,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,26, money ,3242,609998,1018,173,148.375,996.7890625,168.875,1050.8203125,2,12,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,42, where ,3292,610048,1017,183,188.375,968.46875,208.875,1022.5,3,16,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,42, where ,3342,610098,1015,186,188.375,968.46875,208.875,1022.5,3,16,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,42, where ,3391,610147,1013,188,188.375,968.46875,208.875,1022.5,3,16,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,42, where ,3441,610198,1013,188,188.375,968.46875,208.875,1022.5,3,16,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,42, where ,3491,610248,1008,190,188.375,968.46875,208.875,1022.5,3,16,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,42, where ,3542,610298,992,193,188.375,968.46875,208.875,1022.5,3,16,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,41," India, ",3591,610347,951,195,188.375,919.4296875,208.875,968.46875,3,15,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,39, border ,3642,610398,893,195,188.375,842.375,208.875,899.4140625,3,13,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,39, border ,3692,610449,843,195,188.375,842.375,208.875,899.4140625,3,13,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,37, through ,3742,610498,811,195,188.375,746.296875,208.875,812.3515625,3,11,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,37, through ,3791,610548,768,198,188.375,746.296875,208.875,812.3515625,3,11,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,36, taken ,3842,610598,722,198,188.375,697.2578125,208.875,746.296875,3,10,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,34, bones ,3892,610648,655,205,188.375,612.1875,208.875,666.234375,3,8,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,31, The ,3941,610697,536,215,188.375,504.2734375,208.875,540.1328125,3,5,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,29, the ,3992,610748,444,216,188.375,431.390625,208.875,461.4140625,3,3,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,27, to ,4042,610798,393,218,188.375,385.375,208.875,405.390625,3,1,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,4091,610847,375,218,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,4141,610897,366,216,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,4191,610947,365,215,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,4242,610998,365,215,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,4292,611048,365,215,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,4342,611098,365,215,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,4392,611148,365,215,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,4442,611198,365,215,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,4491,611248,365,215,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,4542,611298,382,220,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,44, big ,4592,611348,403,223,228.375,385.375,248.875,414.3984375,4,1,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,45, dealers ,4642,611398,426,224,228.375,414.3984375,248.875,478.4375,4,2,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,45, dealers ,4692,611448,455,225,228.375,414.3984375,248.875,478.4375,4,2,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,46, are. ,4741,611498,484,225,228.375,478.4375,248.875,514.4609375,4,3,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,47, One ,4792,611548,523,225,228.375,514.4609375,248.875,553.484375,4,4,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,49, problem ,4842,611598,591,225,228.375,582.5078125,248.875,652.5390625,4,6,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,51, that ,4891,611648,686,225,228.375,670.5390625,248.875,705.5703125,4,8,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,53, senior ,4941,611698,784,226,228.375,754.59375,248.875,808.625,4,10,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,54, officials ,4991,611747,856,231,228.375,808.625,248.875,873.6484375,4,11,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,55, help ,5041,611798,906,239,228.375,873.6484375,248.875,912.6875,4,12,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,57, mafia ,5091,611847,965,244,228.375,942.7109375,248.875,991.734375,4,14,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,58, who ,5142,611898,997,246,228.375,991.734375,248.875,1024.7578125,4,15,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,58, who ,5192,611948,1012,249,228.375,991.734375,248.875,1024.7578125,4,15,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,58, who ,5244,612000,1015,250,228.375,991.734375,248.875,1024.7578125,4,15,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,58, who ,5293,612049,1015,250,228.375,991.734375,248.875,1024.7578125,4,15,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,58, who ,5342,612098,1010,251,228.375,991.734375,248.875,1024.7578125,4,15,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,57, mafia ,5392,612148,985,251,228.375,942.7109375,248.875,991.734375,4,14,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,56, the ,5442,612198,941,250,228.375,912.6875,248.875,942.7109375,4,13,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,55, help ,5492,612248,874,252,228.375,873.6484375,248.875,912.6875,4,12,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,5541,612298,807,264,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,5590,612347,761,270,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,66, selling. ,5641,612397,739,272,268.375,680.6015625,288.875,736.6328125,5,8,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,66, selling. ,5691,612447,716,277,268.375,680.6015625,288.875,736.6328125,5,8,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,66, selling. ,5742,612498,686,284,268.375,680.6015625,288.875,736.6328125,5,8,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,64, buying ,5792,612548,637,293,268.375,587.515625,288.875,645.5625,5,6,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,5841,612597,567,304,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,5892,612648,501,314,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,5941,612697,501,314,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,5991,612747,501,314,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,6041,612797,501,314,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,6091,612847,354,315,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,6142,612898,353,315,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,6191,612947,360,315,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,6241,612997,374,315,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,6292,613048,374,315,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,6341,613098,374,315,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,6392,613148,374,315,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,6441,613197,374,315,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,6491,613248,374,315,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,6541,613297,374,315,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,6592,613348,374,315,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,6642,613398,374,315,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,6691,613447,374,315,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,6742,613498,374,315,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,6792,613549,374,315,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,6842,613598,374,315,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
+SS2W84NW,test,1,ele,18,2,28,29,-1,999,6892,613649,374,315,,,,,,,They buy tiger skins,0,,,,,1970-01-01T00:00:00.026Z,,,,,,,,,spotlight-prolific
