@@ -235,6 +235,8 @@ export default {
       cambridgeQuestions: [],
       cambridgeScoring: [],
       cambridgeSelected: [],
+      touchRevealYOffsetPx: 32,
+      activePointerType: null,
     };
   },
   async created() {
@@ -461,8 +463,7 @@ export default {
     if (e && e.changedTouches && e.changedTouches.length) return e.changedTouches[0];
     return e;
   },
-
-  startReveal(e) {
+    startReveal(e) {
     const target = e && e.currentTarget;
     if (target && typeof target.setPointerCapture === 'function' && e.pointerId != null) {
       try {
@@ -471,16 +472,18 @@ export default {
     }
 
     this.isCursorMoving = true;
+    this.activePointerType = (e && e.pointerType) ? e.pointerType : 'mouse';
     const point = this.getPointFromEvent(e);
     if (!point) return;
-    this.updateRevealAt(point.clientX, point.clientY);
+    this.updateRevealAt(point.clientX, point.clientY, this.activePointerType);
   },
 
   moveReveal(e) {
     if (!this.isCursorMoving) return;
     const point = this.getPointFromEvent(e);
     if (!point) return;
-    this.updateRevealAt(point.clientX, point.clientY);
+    const pointerType = (e && e.pointerType) || this.activePointerType || 'mouse';
+    this.updateRevealAt(point.clientX, point.clientY, pointerType);
   },
 
   endReveal(e) {
@@ -490,6 +493,7 @@ export default {
         target.releasePointerCapture(e.pointerId);
       } catch (err) {}
     }
+    this.activePointerType = null;
     this.changeBack();
   },
     onRevealHover(e) {
@@ -497,9 +501,13 @@ export default {
     if (!point) return;
     this.updateRevealAt(point.clientX, point.clientY);
     },
-    updateRevealAt(x, y) {
-    this.mousePosition.x = x;
-    this.mousePosition.y = y;
+    updateRevealAt(x, y, pointerType = 'mouse') {
+    const isTouch = pointerType === 'touch';
+    const revealX = x;
+    const revealY = isTouch ? Math.max(0, y - this.touchRevealYOffsetPx) : y;
+
+    this.mousePosition.x = revealX;
+    this.mousePosition.y = revealY;
     const now = performance.now();
     
      const oval = this.$el.querySelector(".oval-cursor");
@@ -507,16 +515,16 @@ export default {
         oval.classList.add('grow');
       }
       const { width: charWidth } = this.getCharSizePx();
-      const line = this.getLineClosestTo(y);
+      const line = this.getLineClosestTo(revealY);
       const charsLeft = 4;
       const charsRight = 14;
       const totalChars = charsLeft + charsRight;
       const ovalWidthPx = totalChars * charWidth;
       const ovalHeightPx = line ? line.lineHeight : 20;
-      const ovalCenterY = line ? (line.lineTop + line.lineBottom) / 2 : y;
+      const ovalCenterY = line ? (line.lineTop + line.lineBottom) / 2 : revealY;
       oval.style.width = `${ovalWidthPx}px`;
       oval.style.height = `${ovalHeightPx}px`;
-      oval.style.left = `${x + (charsRight - charsLeft) / 2 * charWidth}px`;
+      oval.style.left = `${revealX + (charsRight - charsLeft) / 2 * charWidth}px`;
       oval.style.top = `${ovalCenterY}px`;
 
       // Detect new text (ItemId change) and reset interest areas.
@@ -538,7 +546,7 @@ export default {
       let iaIndex = null;
       for (const key of Object.keys(this.interestAreasByIndex)) {
         const a = this.interestAreasByIndex[key];
-        if (x >= a.left && x <= a.right && y >= a.top && y <= a.bottom) {
+        if (revealX >= a.left && revealX <= a.right && revealY >= a.top && revealY <= a.bottom) {
           ia = a;
           iaIndex = Number(key);
           break;
@@ -557,8 +565,8 @@ export default {
           }
           this.isClickHeld = true;
           this.clickStartTime = now;
-          this.clickStartX = x;
-          this.clickStartY = y;
+          this.clickStartX = revealX;
+          this.clickStartY = revealY;
         }
 
         this.clickWordIndex = index;
@@ -567,8 +575,8 @@ export default {
 
         const width = ia.right - ia.left;
         const height = ia.bottom - ia.top;
-        this.relativeXInWord = width > 0 ? (x - ia.left) / width : null;
-        this.relativeYInWord = height > 0 ? (y - ia.top) / height : null;
+        this.relativeXInWord = width > 0 ? (revealX - ia.left) / width : null;
+        this.relativeYInWord = height > 0 ? (revealY - ia.top) / height : null;
 
         const { lineNumber, positionInLine } = this.getWordLineAndPositionInLine(index);
         this.clickLineNumber = lineNumber;
