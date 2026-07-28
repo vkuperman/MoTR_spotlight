@@ -93,7 +93,7 @@
           </form>
           <div class="oval-cursor"></div>
           <template v-if="showFirstDiv">
-            <div class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
+            <div class="readingText" @pointerdown="startReveal" @pointermove="moveReveal" @pointerup="endReveal" @pointerleave="endReveal" @pointercancel="endReveal">
               <template v-for="(word, index) of trial.text.split(' ')">
                 <span :key="index" :data-index="index + 1">
                   {{ word }}
@@ -456,15 +456,53 @@ export default {
       this.currentIndex = null;
       this.isClickHeld = false;
     },
-    onRevealHover(e) {
-      this.isCursorMoving = true;
-      const x = e.clientX;
-      const y = e.clientY;
-      this.mousePosition.x = x;
-      this.mousePosition.y = y;
-      const now = performance.now();
+    getPointFromEvent(e) {
+    if (e && e.touches && e.touches.length) return e.touches[0];
+    if (e && e.changedTouches && e.changedTouches.length) return e.changedTouches[0];
+    return e;
+  },
 
-      const oval = this.$el.querySelector(".oval-cursor");
+  startReveal(e) {
+    const target = e && e.currentTarget;
+    if (target && typeof target.setPointerCapture === 'function' && e.pointerId != null) {
+      try {
+        target.setPointerCapture(e.pointerId);
+      } catch (err) {}
+    }
+
+    this.isCursorMoving = true;
+    const point = this.getPointFromEvent(e);
+    if (!point) return;
+    this.updateRevealAt(point.clientX, point.clientY);
+  },
+
+  moveReveal(e) {
+    if (!this.isCursorMoving) return;
+    const point = this.getPointFromEvent(e);
+    if (!point) return;
+    this.updateRevealAt(point.clientX, point.clientY);
+  },
+
+  endReveal(e) {
+    const target = e && e.currentTarget;
+    if (target && typeof target.releasePointerCapture === 'function' && e.pointerId != null) {
+      try {
+        target.releasePointerCapture(e.pointerId);
+      } catch (err) {}
+    }
+    this.changeBack();
+  },
+    onRevealHover(e) {
+    const point = this.getPointFromEvent(e);
+    if (!point) return;
+    this.updateRevealAt(point.clientX, point.clientY);
+    },
+    updateRevealAt(x, y) {
+    this.mousePosition.x = x;
+    this.mousePosition.y = y;
+    const now = performance.now();
+    
+     const oval = this.$el.querySelector(".oval-cursor");
       if (oval) {
         oval.classList.add('grow');
       }
@@ -551,7 +589,8 @@ export default {
         this.clickPositionInLine = null;
         this.currentIndex = -1;
       }
-    },
+    
+  },
     getWordLineAndPositionInLine(wordIndex) {
       const spans = this.$el.querySelectorAll('.readingText span[data-index]');
       if (!spans.length) return { lineNumber: null, positionInLine: null };
@@ -800,6 +839,9 @@ export default {
     padding-left: 11%;
     padding-right: 11%;
     pointer-events: auto;
+    touch-action: none;
+    -webkit-user-select: none;
+    user-select: none;
   }
   button {
     position: absolute;

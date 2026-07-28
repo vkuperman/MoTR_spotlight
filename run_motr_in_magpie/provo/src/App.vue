@@ -118,7 +118,7 @@
           </form>
           <div class="oval-cursor"></div>
           <template>
-            <div v-if="showFirstDiv" class="readingText" @mousemove="moveCursor" @mousedown="onRevealDown" @mouseup="onRevealUp" @mouseleave="changeBack" @touchstart.prevent="onTouchStart" @touchmove.prevent="onTouchMove" @touchend="onTouchEnd">
+            <div v-if="showFirstDiv" class="readingText" @pointerdown="startReveal"  @pointermove="moveReveal"  @pointerup="endReveal"  @pointercancel="endReveal"  @pointerleave="endReveal" >
               <template v-for="(word, index) of trial.text.split(' ')">
                 <span :key="index" :data-index="index + 1" >
                   {{ word }}
