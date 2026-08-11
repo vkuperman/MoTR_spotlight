@@ -93,7 +93,7 @@
           </form>
           <div class="oval-cursor"></div>
           <template v-if="showFirstDiv">
-            <div class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
+            <div class="readingText" @pointerdown="startReveal" @pointermove="moveReveal" @pointerup="endReveal" @pointerleave="endReveal" @pointercancel="endReveal">
               <template v-for="(word, index) of trial.text.split(' ')">
                 <span :key="index" :data-index="index + 1">
                   {{ word }}
@@ -235,6 +235,8 @@ export default {
       cambridgeQuestions: [],
       cambridgeScoring: [],
       cambridgeSelected: [],
+      touchRevealYOffsetPx: 32,
+      activePointerType: null,
     };
   },
   async created() {
@@ -456,29 +458,73 @@ export default {
       this.currentIndex = null;
       this.isClickHeld = false;
     },
-    onRevealHover(e) {
-      this.isCursorMoving = true;
-      const x = e.clientX;
-      const y = e.clientY;
-      this.mousePosition.x = x;
-      this.mousePosition.y = y;
-      const now = performance.now();
+    getPointFromEvent(e) {
+    if (e && e.touches && e.touches.length) return e.touches[0];
+    if (e && e.changedTouches && e.changedTouches.length) return e.changedTouches[0];
+    return e;
+  },
+    startReveal(e) {
+    const target = e && e.currentTarget;
+    if (target && typeof target.setPointerCapture === 'function' && e.pointerId != null) {
+      try {
+        target.setPointerCapture(e.pointerId);
+      } catch (err) {}
+    }
 
-      const oval = this.$el.querySelector(".oval-cursor");
+    this.isCursorMoving = true;
+    this.activePointerType = (e && e.pointerType) ? e.pointerType : 'mouse';
+    const point = this.getPointFromEvent(e);
+    if (!point) return;
+    this.updateRevealAt(point.clientX, point.clientY, this.activePointerType);
+  },
+
+  moveReveal(e) {
+    if (!this.isCursorMoving) return;
+    const point = this.getPointFromEvent(e);
+    if (!point) return;
+    const pointerType = (e && e.pointerType) || this.activePointerType || 'mouse';
+    this.updateRevealAt(point.clientX, point.clientY, pointerType);
+  },
+
+  endReveal(e) {
+    const target = e && e.currentTarget;
+    if (target && typeof target.releasePointerCapture === 'function' && e.pointerId != null) {
+      try {
+        target.releasePointerCapture(e.pointerId);
+      } catch (err) {}
+    }
+    this.activePointerType = null;
+    this.changeBack();
+  },
+    onRevealHover(e) {
+    const point = this.getPointFromEvent(e);
+    if (!point) return;
+    this.updateRevealAt(point.clientX, point.clientY);
+    },
+    updateRevealAt(x, y, pointerType = 'mouse') {
+    const isTouch = pointerType === 'touch';
+    const revealX = x;
+    const revealY = isTouch ? Math.max(0, y - this.touchRevealYOffsetPx) : y;
+
+    this.mousePosition.x = revealX;
+    this.mousePosition.y = revealY;
+    const now = performance.now();
+    
+     const oval = this.$el.querySelector(".oval-cursor");
       if (oval) {
         oval.classList.add('grow');
       }
       const { width: charWidth } = this.getCharSizePx();
-      const line = this.getLineClosestTo(y);
+      const line = this.getLineClosestTo(revealY);
       const charsLeft = 4;
       const charsRight = 14;
       const totalChars = charsLeft + charsRight;
       const ovalWidthPx = totalChars * charWidth;
       const ovalHeightPx = line ? line.lineHeight : 20;
-      const ovalCenterY = line ? (line.lineTop + line.lineBottom) / 2 : y;
+      const ovalCenterY = line ? (line.lineTop + line.lineBottom) / 2 : revealY;
       oval.style.width = `${ovalWidthPx}px`;
       oval.style.height = `${ovalHeightPx}px`;
-      oval.style.left = `${x + (charsRight - charsLeft) / 2 * charWidth}px`;
+      oval.style.left = `${revealX + (charsRight - charsLeft) / 2 * charWidth}px`;
       oval.style.top = `${ovalCenterY}px`;
 
       // Detect new text (ItemId change) and reset interest areas.
@@ -500,7 +546,7 @@ export default {
       let iaIndex = null;
       for (const key of Object.keys(this.interestAreasByIndex)) {
         const a = this.interestAreasByIndex[key];
-        if (x >= a.left && x <= a.right && y >= a.top && y <= a.bottom) {
+        if (revealX >= a.left && revealX <= a.right && revealY >= a.top && revealY <= a.bottom) {
           ia = a;
           iaIndex = Number(key);
           break;
@@ -519,8 +565,8 @@ export default {
           }
           this.isClickHeld = true;
           this.clickStartTime = now;
-          this.clickStartX = x;
-          this.clickStartY = y;
+          this.clickStartX = revealX;
+          this.clickStartY = revealY;
         }
 
         this.clickWordIndex = index;
@@ -529,8 +575,8 @@ export default {
 
         const width = ia.right - ia.left;
         const height = ia.bottom - ia.top;
-        this.relativeXInWord = width > 0 ? (x - ia.left) / width : null;
-        this.relativeYInWord = height > 0 ? (y - ia.top) / height : null;
+        this.relativeXInWord = width > 0 ? (revealX - ia.left) / width : null;
+        this.relativeYInWord = height > 0 ? (revealY - ia.top) / height : null;
 
         const { lineNumber, positionInLine } = this.getWordLineAndPositionInLine(index);
         this.clickLineNumber = lineNumber;
@@ -551,7 +597,8 @@ export default {
         this.clickPositionInLine = null;
         this.currentIndex = -1;
       }
-    },
+    
+  },
     getWordLineAndPositionInLine(wordIndex) {
       const spans = this.$el.querySelectorAll('.readingText span[data-index]');
       if (!spans.length) return { lineNumber: null, positionInLine: null };
@@ -769,7 +816,7 @@ export default {
     width: 100%;
     height: auto;
     font-size: 18px;
-    line-height: 40px;
+    line-height: 50px;
   }
   .reading-text-spacer {
     visibility: hidden;
@@ -800,6 +847,9 @@ export default {
     padding-left: 11%;
     padding-right: 11%;
     pointer-events: auto;
+    touch-action: none;
+    -webkit-user-select: none;
+    user-select: none;
   }
   button {
     position: absolute;

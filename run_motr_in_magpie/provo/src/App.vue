@@ -3,7 +3,7 @@
 <!-- Click-to-reveal: unblur only while mouse button is held; record position, duration, and position relative to word. -->
 
 <template>
-  <Experiment title="Mouse tracking for Reading" translate="no">
+  <Experiment title="Finger tracking for Reading" translate="no">
 
     <Screen :title="'Welcome'" class="instructions" :validations="{
         SubjectID: {
@@ -15,7 +15,7 @@
 
         <div style="background-color: lightgrey; padding: 10px;">
             <b>Letter of Information and Consent</b><br>
-            Mouse- and eye-tracking
+            Finger- and eye-tracking
         </div>
         <p>
           <b>Principal Investigator:</b><br>
@@ -26,9 +26,9 @@
           Dr. Emalie Hendel, Dept. of Linguistics and Languages<br>
           McMaster University, Email: hendele@mcmaster.ca
         <br><br>
-          <b>Purpose of the Study:</b> The purpose of this study is to explore whether a new mouse-tracking paradigm can accurately measure text reading behaviours. You are invited to participate in this study, which investigates a new mouse-tracking paradigm during text reading. We hope to learn if mouse-tracking can be used as a quick and accurate substitute for other measures of reading behaviours.
+          <b>Purpose of the Study:</b> The purpose of this study is to explore whether a new finger-tracking paradigm can accurately measure text reading behaviours. You are invited to participate in this study, which investigates a new finger-tracking paradigm during text reading. We hope to learn if finger-tracking can be used as a quick and accurate substitute for other measures of reading behaviours.
         <br><br>
-          <b>What is mouse-tracking?</b><br>
+          <b>What is finger-tracking?</b><br>
           Mouse-tracking uses an online platform to register the position on the screen where you click the mouse, and the duration for which you hold that position. In a mouse-tracking paradigm, all text is blurred until you click on a word. Upon clicking, a small, clear window appears, allowing you to read that portion of the text. You must continue clicking around the screen to read the entirety of the text. Mouse-click information can inform researchers about which words are being viewed and for how long. This allows researchers to investigate the cognitive processes used to read and understand written texts.
         <br><br>
           <b>What will happen during the study?</b><br>
@@ -118,7 +118,7 @@
           </form>
           <div class="oval-cursor"></div>
           <template>
-            <div v-if="showFirstDiv" class="readingText" @mousemove="moveCursor" @mousedown="onRevealDown" @mouseup="onRevealUp" @mouseleave="changeBack">
+            <div v-if="showFirstDiv" class="readingText" @pointerdown="startReveal"  @pointermove="moveReveal"  @pointerup="endReveal"  @pointercancel="endReveal"  @pointerleave="endReveal" >
               <template v-for="(word, index) of trial.text.split(' ')">
                 <span :key="index" :data-index="index + 1" >
                   {{ word }}
@@ -654,6 +654,51 @@ export default {
         response: selectedResponse,
         response_correct: responseCorrect
       });
+    },
+    onTouchStart(e) {
+    const touch = e.touches[0];
+    const touchOffsetY = 20;
+    this.onRevealDown({
+      clientX: touch.clientX,
+      clientY: touch.clientY - touchOffsetY
+    });
+  },
+
+  onTouchMove(e) {
+    const touch = e.touches[0];
+    const touchOffsetY = 20;
+    this.updateTouchReveal({
+      clientX: touch.clientX,
+      clientY: touch.clientY - touchOffsetY
+    });
+  },
+
+  updateTouchReveal(e) {
+    const x = e.clientX;
+    const y = e.clientY;
+
+    this.fakeCursorX = x;
+    this.fakeCursorY = y;
+
+    const oval = this.$el.querySelector(".oval-cursor");
+    if (!oval) return;
+
+    const { width: charWidth } = this.getCharSizePx();
+    const line = this.getLineClosestTo(y);
+    const charsLeft = 4;
+    const charsRight = 14;
+    const totalChars = charsLeft + charsRight;
+    const ovalWidthPx = totalChars * charWidth;
+    const ovalHeightPx = line ? line.lineHeight : 20;
+    const ovalCenterY = line ? (line.lineTop + line.lineBottom) / 2 : y;
+
+    oval.style.left = `${x + (charsRight - charsLeft) / 2 * charWidth}px`;
+    oval.style.top = `${ovalCenterY}px`;
+    oval.style.width = `${ovalWidthPx}px`;
+    oval.style.height = `${ovalHeightPx}px`;
+  },
+    onTouchEnd() {
+      this.changeBack();
     }
   },
 };
@@ -744,4 +789,17 @@ export default {
     -moz-user-select: none; /* Firefox */
     -ms-user-select: none; /* Internet Explorer/Edge */
     }
+</style>
+
+<style scoped>
+/* Styles for tablets */
+@media (max-width: 900px) {
+  .instructions div[style*="width: 40em"] {
+    width: 90% !important;
+  }
+
+  .main_screen {
+    font-size: 1.1em; /* Make text a bit bigger on smaller screens */
+  }
+}
 </style>
