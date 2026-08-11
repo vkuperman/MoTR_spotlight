@@ -816,7 +816,7 @@ export default {
     width: 100%;
     height: auto;
     font-size: 18px;
-    line-height: 40px;
+    line-height: 50px;
   }
   .reading-text-spacer {
     visibility: hidden;
