@@ -32,16 +32,14 @@ if [ -z "$NON_RESULTS" ]; then
   exit 0
 fi
 
-if [ "$SPOTLIGHT_APP" = "SONA" ]; then
-  APP_PREFIX="run_motr_in_magpie/spotlight_SONA"
-elif [ "$SPOTLIGHT_APP" = "PROLIFIC" ]; then
+if [ "$SPOTLIGHT_APP" = "PROLIFIC" ]; then
   APP_PREFIX="run_motr_in_magpie/spotlight_PROLIFIC"
 else
   echo "[vercel-ignore] Unknown SPOTLIGHT_APP=$SPOTLIGHT_APP; proceeding with build"
   exit 1
 fi
 
-SHARED_TOUCHED=$(printf '%s\n' "$CHANGED" | grep -E '^run_motr_in_magpie/shared/|^run_motr_in_magpie/OneStop/|^run_motr_in_magpie/build_onestop_texts_from_master\.py|^api/|^scripts/vercel-build|^scripts/vercel-ignore-build|^vercel\.json|^vercel\.spotlight-PROLIFIC\.json' || true)
+SHARED_TOUCHED=$(printf '%s\n' "$CHANGED" | grep -E '^run_motr_in_magpie/shared/|^run_motr_in_magpie/OneStop/|^api/|^scripts/vercel-build|^scripts/vercel-ignore-build|^vercel\.json' || true)
 APP_TOUCHED=$(printf '%s\n' "$CHANGED" | grep "^${APP_PREFIX}/" || true)
 
 if [ -z "$SHARED_TOUCHED" ] && [ -z "$APP_TOUCHED" ]; then

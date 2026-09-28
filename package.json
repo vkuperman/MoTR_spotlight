@@ -2,7 +2,7 @@
   "name": "motr-spotlight-repo",
   "private": true,
   "type": "module",
-  "description": "MoTR Spotlight monorepo: api/ + spotlight_SONA + spotlight_PROLIFIC",
+  "description": "MoTR Spotlight Prolific experiment: api/ + spotlight_PROLIFIC",
   "dependencies": {
     "jszip": "^3.10.1"
   }

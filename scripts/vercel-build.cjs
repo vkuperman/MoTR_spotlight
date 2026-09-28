@@ -1,23 +1,12 @@
 /**
- * Vercel build router for two Spotlight apps from one repo.
- * Set SPOTLIGHT_APP=SONA or SPOTLIGHT_APP=PROLIFIC on each Vercel project.
+ * Vercel build for the Spotlight Prolific app.
  */
 const { execSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
-const APP_DIRS = {
-  SONA: 'run_motr_in_magpie/spotlight_SONA',
-  PROLIFIC: 'run_motr_in_magpie/spotlight_PROLIFIC',
-};
-
-const app = String(process.env.SPOTLIGHT_APP || 'SONA').toUpperCase();
-const appDir = APP_DIRS[app];
-
-if (!appDir) {
-  console.error(`Unknown SPOTLIGHT_APP="${process.env.SPOTLIGHT_APP}". Use SONA or PROLIFIC.`);
-  process.exit(1);
-}
+const app = 'PROLIFIC';
+const appDir = 'run_motr_in_magpie/spotlight_PROLIFIC';
 
 console.log(`[vercel-build] SPOTLIGHT_APP=${app} → ${appDir}`);
 
