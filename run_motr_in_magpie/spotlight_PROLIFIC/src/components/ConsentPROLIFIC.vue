@@ -20,7 +20,7 @@
         Mouse-tracking uses an online platform to register the position on the screen where you hover the mouse, and the duration for which you hold that position. In a mouse-tracking paradigm, all text is blurred until you hover over a word. Upon hovering, a small, clear window appears, allowing you to read that portion of the text. You must continue moving the mouse around the screen to read the entirety of the text. Spotlight information can inform researchers about which words are being viewed and for how long. This allows researchers to investigate the cognitive processes used to read and understand written texts.
         <br><br>
         <b>What will happen during the study?</b><br>
-        This experiment will take place online. You will be asked to provide some demographic information as well as information about your reading and language background. You will then read a series of texts which are presented with the blurred mouse-tracking method. Your mouse hovers will be recorded while you read the texts. After reading each text, you will be asked to answer a comprehension question. The session will take approximately 30 minutes.
+        This experiment will take place online. You will be asked to provide some demographic information as well as information about your reading and language background. You will then read a series of texts which are presented with the blurred mouse-tracking method. Your mouse hovers will be recorded while you read the texts. After reading each text, you will be asked to answer a comprehension question. The session will take approximately 60 minutes.
         <br><br>
         We will start by asking you to fill out a questionnaire consisting of personal information, such as age, gender, level of education, and such. Then you will proceed to a series of questions regarding languages spoken and their proficiencies. These tests will be administered as questionnaires that you will need to fill in.
         <br><br>
@@ -29,13 +29,13 @@
         For the experiment, you will use your computer mouse to hover over and read the texts on the screen. You will then answer the comprehension questions.
         <br><br>
         <b>Potential Harms, Risks or Discomforts:</b><br>
-        There are no known harms or risks associated with the usage of the mouse-tracking technology that we are employing. The present study does require you to sit still and remain focused for a considerable period of time. This study might require you to sit and look at a screen to read texts for up to 30 minutes, which may cause you to become fatigued. You may take a break at any time during the experiment. Also, you may feel upset or worried about your level of performance. We assure you that your best effort is always sufficient. Please note that in rare cases researchers who conduct the experiment may additionally have other academic or professional relationships with you. This may be a source of discomfort for you. It is your informed choice whether to volunteer for an experiment with a potential conflict of interest. If you choose to participate in this experiment and to sign the informed consent form below, you will have the right to withdraw without explanation or penalty, and with the full credit for the experiment (see explanation below).
+        There are no known harms or risks associated with the usage of the mouse-tracking technology that we are employing. The present study does require you to sit still and remain focused for a considerable period of time. This study might require you to sit and look at a screen to read texts for up to 60 minutes, which may cause you to become fatigued. You may take a break at any time during the experiment. Also, you may feel upset or worried about your level of performance. We assure you that your best effort is always sufficient. Please note that in rare cases researchers who conduct the experiment may additionally have other academic or professional relationships with you. This may be a source of discomfort for you. It is your informed choice whether to volunteer for an experiment with a potential conflict of interest. If you choose to participate in this experiment and to sign the informed consent form below, you will have the right to withdraw without explanation or penalty, and with the full credit for the experiment (see explanation below).
         <br><br>
         <b>Potential Benefits:</b><br>
         The results of this research will not directly benefit you in any way. We hope to learn more about how words in English are processed.
         <br><br>
         <b>Incentive/Payment or Reimbursement:</b><br>
-        Participants will earn the pro-rated minimum hourly wage for their country of data collection, as mandated by Prolific or Besample. For example, Canadian participants will receive approximately $20/hour, divided by the total duration of their participation in minutes.
+        Participants will receive 1 SONA credit per 60 minutes spent.
         <br><br>
         <b>Confidentiality:</b><br>
         All personal information we attain will remain highly confidential. Within this study, you will be identified as a participant number. Any personal information you provide will only be accessible to the principal investigators and co-investigators at McMaster, as well as research assistants. All information will be strictly secured in a locked cabinet or on a password-protected computer. No publication or discussion regarding this study will contain any personal and/or identifying information. As requested by the federal Tri-Council funding agencies and policies, we will retain your data for at least 5 years. Once out of active use, the electronic data will be archived on a secure server in the McMaster research lab.
@@ -81,14 +81,14 @@
       <br>
       <p>Thank you for your help!</p>
       <br>
-      <p>Please enter your Prolific ID</p>
+      <p>Please enter your SONA ID</p>
       <p>
         <input
-          name="ProlificID"
+          name="SonaID"
           type="text"
           class="obligatory"
           v-model="$magpie.measurements.SubjectID"
-          placeholder="Prolific ID"
+          placeholder="SONA ID"
         />
       </p>
       <div

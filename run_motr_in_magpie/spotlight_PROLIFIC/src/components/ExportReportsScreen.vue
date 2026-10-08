@@ -19,19 +19,9 @@
           Download results
         </button>
       </div>
-      <p v-if="prolificCompletionUrl" style="margin-top: 1.5em;">
-        If your results were saved, you may still return to Prolific:
-        <a :href="prolificCompletionUrl" target="_blank" rel="noopener">{{ prolificCompletionUrl }}</a>
-      </p>
     </Slide>
-    <Slide v-else-if="prolificCompletionUrl && !uploadComplete && !uploadError">
+    <Slide v-else-if="!uploadComplete && !uploadError">
       <p>Saving your results…</p>
-    </Slide>
-    <Slide v-else-if="prolificCompletionUrl && uploadComplete">
-      <p>Thank you for participating! Please click the link below to return to Prolific</p>
-      <p style="margin-top: 1em;">
-        <a :href="prolificCompletionUrl" target="_blank" rel="noopener">{{ prolificCompletionUrl }}</a>
-      </p>
     </Slide>
     <Slide v-else>
       <p>

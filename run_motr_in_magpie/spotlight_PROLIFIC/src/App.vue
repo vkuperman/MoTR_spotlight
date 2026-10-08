@@ -661,11 +661,15 @@ export default {
         ParticipantId: id,
         SubjectId: id,
         SubjectID: id,
+        SonaId: id,
+        SONAId: id,
         ProlificId: id,
         ProlificID: id,
         study_key: studyConfig.studyKey,
       });
       this.$magpie.addTrialData({
+        SONAId: id,
+        SonaId: id,
         ProlificId: id,
         ProlificID: id,
         SubjectId: id,
