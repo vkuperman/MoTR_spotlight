@@ -267,6 +267,17 @@ export function pickArticleLevelOneStopTrials(listsTuple, options = {}) {
   let articles = groupTrialsByArticle(listsTuple.all || []);
   let selectionMode = 'random';
   let manualArticleList = '';
+  const allowedArticleNumbers = options.allowedArticleNumbers;
+
+  if (Array.isArray(allowedArticleNumbers) && allowedArticleNumbers.length) {
+    articles = filterArticlesByManualNumbers(articles, allowedArticleNumbers);
+    if (articles.length < articlesNeeded) {
+      // eslint-disable-next-line no-console
+      console.warn(
+        `Article allow-list: matched ${articles.length} article(s) but ${articlesNeeded} are required.`
+      );
+    }
+  }
 
   if (manualEnabled && Array.isArray(manualNumbers) && manualNumbers.length) {
     selectionMode = 'manual';

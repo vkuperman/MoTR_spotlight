@@ -28,6 +28,7 @@ export function prepareParticipantReadingTrials({
     articlesPerLevel: studyConfig.articlesPerLevel,
     manualArticleSelection: manualEnabled,
     manualArticleNumbers: manualNumbers,
+    allowedArticleNumbers: studyConfig.allowedArticleNumbers,
   }).map((trial) => ({
     ...trial,
     onestop_cambridge_score: score,

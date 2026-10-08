@@ -1,28 +1,23 @@
 /**
- * Cambridge score → reading level pair (adjacent levels only).
+ * Reading level pair is chosen at random. The Cambridge score is recorded
+ * separately and does not choose the pair.
+ *
+ * Three pairs, then the existing block shuffle, give six presentation orders:
+ * elementary|intermediate, intermediate|elementary,
+ * intermediate|advanced, advanced|intermediate,
+ * elementary|advanced, advanced|elementary.
  */
+const LEVEL_PAIRS = [
+  ['elementary', 'intermediate'],
+  ['intermediate', 'advanced'],
+  ['elementary', 'advanced'],
+];
+
 export function levelPairForCambridgeScore(score) {
-  if (score <= 14) {
-    return {
-      levelPair: ['elementary', 'intermediate'],
-      assignmentRule: 'cambridge_0_14_elementary_intermediate',
-    };
-  }
-  if (score >= 22) {
-    return {
-      levelPair: ['intermediate', 'advanced'],
-      assignmentRule: 'cambridge_22_25_intermediate_advanced',
-    };
-  }
-  const middlePairs = [
-    {
-      levelPair: ['elementary', 'intermediate'],
-      assignmentRule: 'cambridge_15_21_random_elementary_intermediate',
-    },
-    {
-      levelPair: ['intermediate', 'advanced'],
-      assignmentRule: 'cambridge_15_21_random_intermediate_advanced',
-    },
-  ];
-  return middlePairs[Math.floor(Math.random() * middlePairs.length)];
+  void score;
+  const levelPair = LEVEL_PAIRS[Math.floor(Math.random() * LEVEL_PAIRS.length)].slice();
+  return {
+    levelPair,
+    assignmentRule: 'random_level_pair',
+  };
 }
