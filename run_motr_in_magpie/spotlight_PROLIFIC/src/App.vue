@@ -3,7 +3,11 @@
 <!-- Hover-to-reveal: unblur around the mouse and record hover duration and position relative to word. -->
 
 <template>
-  <div class="motr-root">
+  <div
+    class="motr-root"
+    :class="{ 'reading-window-locked': readingWindowLocked }"
+    :style="readingWindowVars"
+  >
     <div v-if="!stimuliReady" class="instructions" style="padding: 2rem; text-align: center;">
       <p>Loading experiment…</p>
     </div>
@@ -232,6 +236,9 @@ export default {
       lastItemId: null,
       oneStopRowMap: new Map(),
       oneStopLists: null,
+      readingSpacerMinHeight: 0,
+      readingWindowHeight: 0,
+      readingWindowLocked: false,
       cambridgeQuestions: [],
       cambridgeScoring: [],
       cambridgeSelected: [],
@@ -247,6 +254,7 @@ export default {
     }
     this.oneStopRowMap = rowMap;
     this.oneStopLists = buildOneStopTrialLists();
+    this.$nextTick(() => this.measureReadingWindow());
     const camQ = prepareCambridgeQuestions(cambridgeTestCsv);
     this.cambridgeQuestions = camQ;
     this.cambridgeScoring = prepareCambridgeScoring(cambridgeScoringCsv);
@@ -270,20 +278,107 @@ export default {
     cambridgePages() {
       return chunkCambridgeQuestions(this.cambridgeQuestions);
     },
+    readingWindowVars() {
+      if (!this.readingWindowHeight) return null;
+      return {
+        '--reading-window-height': `${this.readingWindowHeight}px`,
+        '--reading-spacer-min-height': `${this.readingSpacerMinHeight}px`,
+      };
+    },
   },
   watch: {
     '$magpie.currentScreenIndex'() {
       this.resetTrialView();
+      this.$nextTick(() => this.applyReadingWindowLock());
     },
   },
   mounted() {
     ensureExperimentStartRecorded(this);
     installRawPositionSampling(this);
+    this.$nextTick(() => this.measureReadingWindow());
   },
   beforeDestroy() {
     uninstallRawPositionSampling(this);
   },
   methods: {
+    collectReadingTexts() {
+      const texts = [];
+      const passages = this.oneStopLists && Array.isArray(this.oneStopLists.all)
+        ? this.oneStopLists.all
+        : [];
+      passages.forEach((trial) => {
+        if (trial && trial.text) texts.push(String(trial.text));
+      });
+      const practiceRows = Array.isArray(spotlight_practice) ? spotlight_practice : [];
+      practiceRows.forEach((trial) => {
+        if (trial && trial.text) texts.push(String(trial.text));
+      });
+      return texts;
+    },
+    measureReadingWindow() {
+      const experiment = this.$el && this.$el.querySelector('.experiment');
+      const texts = this.collectReadingTexts();
+      if (!experiment || !texts.length) return;
+
+      const expStyle = window.getComputedStyle(experiment);
+      const contentWidth = experiment.clientWidth
+        - parseFloat(expStyle.paddingLeft)
+        - parseFloat(expStyle.paddingRight);
+      if (!(contentWidth > 0)) return;
+
+      const probe = document.createElement('div');
+      probe.className = 'reading-text-spacer';
+      probe.style.position = 'absolute';
+      probe.style.visibility = 'hidden';
+      probe.style.pointerEvents = 'none';
+      probe.style.left = '0';
+      probe.style.top = '0';
+      probe.style.width = `${contentWidth}px`;
+      probe.style.boxSizing = 'border-box';
+      probe.style.fontFamily = expStyle.fontFamily;
+      probe.style.fontSize = '18px';
+      probe.style.lineHeight = '40px';
+      probe.style.fontWeight = '450';
+      probe.style.textAlign = 'left';
+      experiment.appendChild(probe);
+
+      let maxSpacer = 0;
+      texts.forEach((text) => {
+        probe.textContent = text;
+        if (probe.offsetHeight > maxSpacer) maxSpacer = probe.offsetHeight;
+      });
+      probe.remove();
+
+      const header = experiment.querySelector('.header');
+      let headerHeight = header ? header.offsetHeight : 0;
+      if (!header || !header.querySelector('.k-progress-outer')) {
+        headerHeight = Math.max(headerHeight, 10);
+      }
+
+      const actions = document.createElement('div');
+      actions.className = 'trial-actions';
+      actions.style.position = 'absolute';
+      actions.style.visibility = 'hidden';
+      actions.style.pointerEvents = 'none';
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'trial-done-btn';
+      button.textContent = 'Done';
+      actions.appendChild(button);
+      experiment.appendChild(actions);
+      const actionsHeight = actions.offsetHeight;
+      actions.remove();
+
+      const padY = parseFloat(expStyle.paddingTop) + parseFloat(expStyle.paddingBottom);
+      const borderY = parseFloat(expStyle.borderTopWidth) + parseFloat(expStyle.borderBottomWidth);
+      this.readingSpacerMinHeight = maxSpacer;
+      this.readingWindowHeight = Math.ceil(headerHeight + padY + borderY + maxSpacer + actionsHeight);
+      this.applyReadingWindowLock();
+    },
+    applyReadingWindowLock() {
+      const onReadingTrial = !!(this.$el && this.$el.querySelector('.experiment .main_screen'));
+      this.readingWindowLocked = onReadingTrial && this.readingWindowHeight > 0;
+    },
     getCharSizePx() {
       const span = this.$el.querySelector('.readingText span[data-index]');
       if (span) {
@@ -785,6 +880,11 @@ export default {
     padding-bottom: 2%;
     padding-left: 11%;
     padding-right: 11%;
+    min-height: var(--reading-spacer-min-height, auto);
+  }
+  .motr-root.reading-window-locked .experiment {
+    height: var(--reading-window-height);
+    min-height: var(--reading-window-height);
   }
   .trial-actions {
     padding: 1.25rem 0 0.5rem;
