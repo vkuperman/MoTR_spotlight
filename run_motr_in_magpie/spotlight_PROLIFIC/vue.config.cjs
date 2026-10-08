@@ -21,6 +21,11 @@ module.exports = {
     plugins: [
       new webpack.DefinePlugin({
         'process.env.MOTR_MAX_UPLOAD_BODY_CHARS': JSON.stringify(prolificMaxUploadBodyChars),
+        'process.env.SPOTLIGHT_APP': JSON.stringify(process.env.SPOTLIGHT_APP || ''),
+        'process.env.GITHUB_RESULTS_PATH': JSON.stringify(process.env.GITHUB_RESULTS_PATH || ''),
+        'process.env.RESULTS_UPLOAD_URL': JSON.stringify(process.env.RESULTS_UPLOAD_URL || ''),
+        'process.env.VERCEL_PROJECT_PRODUCTION_URL': JSON.stringify(process.env.VERCEL_PROJECT_PRODUCTION_URL || ''),
+        'process.env.VERCEL_URL': JSON.stringify(process.env.VERCEL_URL || ''),
       }),
     ],
     resolve: {
