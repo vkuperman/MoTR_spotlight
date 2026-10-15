@@ -151,7 +151,6 @@
       :skip-sona-input="true"
       :github-results-path="githubResultsPath"
     />
-    <CustomSubmitResultsScreen v-if="!readingPreview" />
 
     <Screen v-if="readingPreview" title="Preview complete" class="instructions" key="reading-preview-done">
       <div style="width: 40em; margin: auto; text-align: center;">
@@ -181,7 +180,7 @@ import {
   cefrBandForScore,
   isCambridgeAnswerCorrect,
 } from '@motr-shared/cambridgeGeneralEnglish';
-import ExportReportsScreen from '@motr-shared/components/ExportReportsScreen.vue';
+import ExportReportsScreen from './components/ExportReportsScreen.vue';
 import ReadingStartGateScreen from '@motr-shared/components/ReadingStartGateScreen.vue';
 import {
   deferReadingTrialSafeguards,
@@ -199,7 +198,6 @@ import {
 } from '@motr-shared/oneStopExportFields';
 import DemographicsOneStopQuestionnaire from '@motr-shared/components/DemographicsOneStopQuestionnaire.vue';
 import ConsentSONA from './components/ConsentSONA.vue';
-import CustomSubmitResultsScreen from './components/CustomSubmitResultsScreen.vue';
 
 // eslint-disable-next-line import/no-webpack-loader-syntax
 const oneStopStimuliXlsx = require('../../OneStop/OneStop Stimuli .xlsx');
@@ -213,7 +211,6 @@ export default {
   components: {
     ExportReportsScreen,
     ReadingStartGateScreen,
-    CustomSubmitResultsScreen,
     ConsentSONA,
     DemographicsOneStopQuestionnaire,
   },
