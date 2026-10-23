@@ -162,9 +162,6 @@ export default {
 
         this.uploadError = '';
         this.uploadComplete = true;
-        if (!this.prolificCompletionUrl) {
-          this.$magpie.nextSlide();
-        }
       } catch (e) {
         const message = e && e.message ? e.message : String(e);
         console.error('Results upload failed:', message);
