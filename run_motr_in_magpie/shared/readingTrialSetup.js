@@ -19,13 +19,16 @@ export function prepareParticipantReadingTrials({
   practiceTrials,
   studyConfig,
 }) {
-  const { levelPair, assignmentRule } = levelPairForCambridgeScore(score);
+  const { levelPair, assignmentRule } = levelPairForCambridgeScore(score, {
+    levelPairs: studyConfig.levelPairs,
+  });
   const manualEnabled = studyConfig.manualArticleSelectionEnabled === true;
   const manualNumbers = studyConfig.manualArticleNumbers || [];
 
   const readingItems = pickArticleLevelOneStopTrials(oneStopLists, {
     levelPair,
     articlesPerLevel: studyConfig.articlesPerLevel,
+    allowedArticleNumbers: studyConfig.allowedArticleNumbers,
     manualArticleSelection: manualEnabled,
     manualArticleNumbers: manualNumbers,
   }).map((trial) => ({
