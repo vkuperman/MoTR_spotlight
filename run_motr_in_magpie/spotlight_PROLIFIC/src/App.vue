@@ -613,6 +613,7 @@ export default {
         SubjectID: subjectId,
         ProlificId: subjectId,
         ProlificID: subjectId,
+        ...this.getScreenDimensions(),
       };
       if (this.clickWordRect) {
         payload.wordPositionTop = this.clickWordRect.top;
@@ -651,12 +652,19 @@ export default {
     getScreenDimensions() {
       return {
         window_inner_width: window.innerWidth,
-        window_inner_height: window.innerHeight
+        window_inner_height: window.innerHeight,
+        viewport_width: window.innerWidth,
+        viewport_height: window.innerHeight,
+        screen_width: window.screen.width,
+        screen_height: window.screen.height,
+        device_pixel_ratio: window.devicePixelRatio,
+        browser_fullscreen: Boolean(document.fullscreenElement),
       };
     },
     recordProlificAndProceed() {
       this.cambridgeSelected = this.cambridgeQuestions.map(() => null);
       const id = (this.$magpie && this.$magpie.measurements && this.$magpie.measurements.SubjectID) ? String(this.$magpie.measurements.SubjectID).trim() : '';
+      const screenDimensions = this.getScreenDimensions();
       this.$magpie.addExpData({
         ParticipantId: id,
         SubjectId: id,
@@ -664,6 +672,7 @@ export default {
         ProlificId: id,
         ProlificID: id,
         study_key: studyConfig.studyKey,
+        ...screenDimensions,
       });
       this.$magpie.addTrialData({
         ProlificId: id,
@@ -671,7 +680,8 @@ export default {
         SubjectId: id,
         SubjectID: id,
         study_key: studyConfig.studyKey,
-        source: 'welcome'
+        source: 'welcome',
+        ...screenDimensions,
       });
       initResultsSession(this, studyConfig);
       this.$magpie.nextScreen();
@@ -686,7 +696,8 @@ export default {
       this.$magpie.addTrialData({
         ItemId: itemId,
         response: selectedResponse,
-        response_correct: responseCorrect
+        response_correct: responseCorrect,
+        ...this.getScreenDimensions(),
       });
     },
     submitTrialResponse(trial, trialIndex) {
