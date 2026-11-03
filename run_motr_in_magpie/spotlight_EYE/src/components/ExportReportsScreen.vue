@@ -1,41 +1,29 @@
 <template>
   <Screen title="Thank you">
-    <Slide v-if="saving && !uploadError && !downloadComplete">
-      <p>Saving your results…</p>
-    </Slide>
-    <Slide v-else-if="uploadError && !downloadComplete">
-      <p>Could not save your results automatically. Please download them below.</p>
-      <p style="font-size: 0.9em; color: #666;">{{ uploadError }}</p>
-      <div style="margin-top: 1.5em;">
-        <button type="button" @click="downloadResults">Download results</button>
-        <button type="button" style="margin-left: 0.75em;" @click="retrySave">Retry</button>
-      </div>
-    </Slide>
-    <Slide v-else-if="downloadComplete || uploadComplete">
-      <p v-if="downloadComplete">Your results ZIP was downloaded to this computer.</p>
-      <p v-else>Your results were saved.</p>
-      <p v-if="uploadComplete && downloadComplete" style="margin-top: 0.75em;">
-        Server upload also succeeded.
-      </p>
-      <p v-else-if="uploadError" style="margin-top: 0.75em; font-size: 0.9em; color: #666;">
-        {{ uploadError }}
-      </p>
-      <div style="margin-top: 1.5em;">
-        <button
-          v-if="downloadFiles && downloadFiles.length"
-          type="button"
-          @click="downloadResults"
-        >
-          Download results again
-        </button>
-      </div>
-      <p v-if="prolificCompletionUrl" style="margin-top: 1.5em;">
-        Return to Prolific:
-        <a :href="prolificCompletionUrl" target="_blank" rel="noopener">{{ prolificCompletionUrl }}</a>
-      </p>
-    </Slide>
-    <Slide v-else>
-      <p>Thank you for participating! You may now close this window.</p>
+    <Slide>
+      <p v-if="saving">Preparing your results…</p>
+      <template v-else>
+        <p>Thank you for participating.</p>
+        <p v-if="downloadComplete" style="margin-top: 0.75em;">
+          A results ZIP should have downloaded. If you do not see it, use the button below
+          (check your browser’s Downloads folder / download permissions).
+        </p>
+        <p v-else-if="statusMessage" style="margin-top: 0.75em; color: #666;">
+          {{ statusMessage }}
+        </p>
+        <div style="margin-top: 1.5em;">
+          <button
+            type="button"
+            :disabled="!downloadFiles || !downloadFiles.length || downloading"
+            @click="downloadResults"
+          >
+            {{ downloading ? 'Downloading…' : 'Download results ZIP' }}
+          </button>
+        </div>
+        <p v-if="lastDownloadName" style="margin-top: 1em; font-size: 0.9em; color: #666;">
+          File name: {{ lastDownloadName }}
+        </p>
+      </template>
     </Slide>
   </Screen>
 </template>
@@ -45,39 +33,26 @@ import { Screen, Slide } from 'magpie-base';
 import {
   buildCompleteResultsFiles,
   buildCompleteSessionTimes,
-  downloadResultsFiles,
-  getResultsSession,
+  createResultsDownloadBlob,
   resolveExportContext,
-  retryPendingSnapshotUpload,
 } from '@motr-shared/resultsSafeguard';
-import { deleteResultsSnapshot } from '@motr-shared/resultsIndexedDb';
-import { uploadResultsFiles } from '@motr-shared/resultsUpload';
+import {
+  buildComprehensionQuestionsCsv,
+  rowsForBlurMouseReports,
+  stripEyeInternalFields,
+} from '../eyeExportReports';
 
-function buildCompleteUploadFiles(context, sessionTimes) {
-  const files = buildCompleteResultsFiles(
-    context.allRows,
-    context.participantId,
-    context.expData,
-    sessionTimes
-  );
-  const trialsCompleted = context.session && Array.isArray(context.session.trialsCompleted)
-    ? context.session.trialsCompleted
-    : [];
-  const uploadFiles = trialsCompleted.length > 0
-    ? files.filter((file) => file.name !== 'raw_position_samples.csv')
-    : files.slice();
-  uploadFiles.push({
-    name: 'session_complete.json',
-    content: JSON.stringify({
-      sessionId: context.sessionId,
-      participantId: context.participantId,
-      folderName: context.folderName,
-      completedAt: new Date().toISOString(),
-      trialsCompleted: trialsCompleted.slice().sort((a, b) => a - b),
-      rawPositionInPartialCheckpoints: trialsCompleted.length > 0,
-    }, null, 2),
-  });
-  return uploadFiles;
+/** Firefox-safe download (anchor must be in the document). */
+function triggerDownload(blob, filename) {
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement('a');
+  link.href = url;
+  link.download = filename;
+  link.rel = 'noopener';
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+  setTimeout(() => URL.revokeObjectURL(url), 2000);
 }
 
 export default {
@@ -90,99 +65,78 @@ export default {
   },
   data() {
     return {
-      uploadComplete: false,
+      saving: true,
+      downloading: false,
       downloadComplete: false,
-      uploadError: '',
-      saving: false,
+      statusMessage: '',
       downloadFiles: null,
       downloadFolderName: '',
+      lastDownloadName: '',
     };
   },
   async mounted() {
-    try {
-      await retryPendingSnapshotUpload(this, null);
-    } catch (err) {
-      console.warn('Pending snapshot retry on mount failed:', err);
+    await this.prepareFiles();
+    if (this.downloadFiles && this.downloadFiles.length) {
+      await this.downloadResults();
     }
-    await this.exportAndNext();
   },
   methods: {
-    async downloadResults() {
-      if (!this.downloadFiles || !this.downloadFiles.length) return;
-      await downloadResultsFiles(this.downloadFiles, this.downloadFolderName);
-      this.downloadComplete = true;
-    },
-    async retrySave() {
-      this.uploadError = '';
-      this.uploadComplete = false;
-      this.downloadComplete = false;
-      await this.exportAndNext();
-    },
-    async exportAndNext() {
-      const context = resolveExportContext(this, null);
-      const sessionTimes = buildCompleteSessionTimes(this);
-      const files = buildCompleteResultsFiles(
-        context.allRows,
-        context.participantId,
-        context.expData,
-        sessionTimes
-      );
-      this.downloadFiles = files;
-      this.downloadFolderName = context.folderName;
-
-      const hasData = files.some((file) => file.content);
-      if (!hasData) {
-        this.uploadError = 'No experiment data to save.';
-        return;
-      }
-
+    async prepareFiles() {
       this.saving = true;
-      this.uploadError = '';
+      this.statusMessage = '';
       try {
-        // Always download so local testing gets a ZIP without a dedicated Eye upload API.
-        await downloadResultsFiles(files, context.folderName);
-        this.downloadComplete = true;
+        const context = resolveExportContext(this, null);
+        const sessionTimes = buildCompleteSessionTimes(this);
+        const mouseRows = stripEyeInternalFields(rowsForBlurMouseReports(context.allRows));
+        const files = buildCompleteResultsFiles(
+          mouseRows,
+          context.participantId,
+          context.expData,
+          sessionTimes
+        );
 
-        if (context.uploadUrl) {
-          let recoveredFromSnapshot = false;
-          try {
-            recoveredFromSnapshot = await retryPendingSnapshotUpload(this, null);
-          } catch (retryErr) {
-            console.warn('IndexedDB retry before complete upload failed:', retryErr);
-          }
+        const comprehensionCsv = buildComprehensionQuestionsCsv(
+          context.allRows,
+          context.participantId
+        );
+        if (comprehensionCsv) {
+          files.push({
+            name: 'comprehension_questions.csv',
+            content: comprehensionCsv,
+          });
+        }
 
-          if (!recoveredFromSnapshot) {
-            await uploadResultsFiles(
-              context.uploadUrl,
-              context.participantId,
-              context.folderName,
-              buildCompleteUploadFiles(context, sessionTimes),
-              context.isTest,
-              context.githubResultsPath || this.githubResultsPath,
-              'complete'
-            );
-          }
-
-          const session = getResultsSession(this);
-          if (session && session.sessionId) {
-            try {
-              await deleteResultsSnapshot(session.sessionId);
-            } catch (deleteErr) {
-              console.warn('Could not clear results snapshot after upload:', deleteErr);
-            }
-          }
-          this.uploadComplete = true;
+        this.downloadFiles = files;
+        this.downloadFolderName = context.folderName || 'spotlight_EYE_results';
+        const hasData = files.some((file) => file && file.content);
+        if (!hasData) {
+          this.statusMessage = 'No experiment data was recorded to save.';
         }
       } catch (e) {
         const message = e && e.message ? e.message : String(e);
-        console.error('Results save failed:', message);
-        if (!this.downloadComplete) {
-          this.uploadError = message;
-        } else {
-          this.uploadError = `Download succeeded, but upload failed: ${message}`;
-        }
+        console.error('Could not prepare results:', message);
+        this.statusMessage = message;
       } finally {
         this.saving = false;
+      }
+    },
+    async downloadResults() {
+      if (!this.downloadFiles || !this.downloadFiles.length || this.downloading) return;
+      this.downloading = true;
+      this.statusMessage = '';
+      try {
+        const folder = this.downloadFolderName || 'spotlight_EYE_results';
+        const blob = await createResultsDownloadBlob(this.downloadFiles, folder);
+        const filename = `${folder}.zip`;
+        triggerDownload(blob, filename);
+        this.lastDownloadName = filename;
+        this.downloadComplete = true;
+      } catch (e) {
+        const message = e && e.message ? e.message : String(e);
+        console.error('Results download failed:', message);
+        this.statusMessage = `Download failed: ${message}`;
+      } finally {
+        this.downloading = false;
       }
     },
   },

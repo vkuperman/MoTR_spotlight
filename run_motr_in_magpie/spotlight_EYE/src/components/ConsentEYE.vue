@@ -14,15 +14,19 @@
         Dr. Emalie Hendel, Dept. of Linguistics and Languages<br>
         McMaster University, Email: hendele@mcmaster.ca
         <br><br>
-        <b>Purpose of the Study:</b> The purpose of this study is to explore whether a new mouse-tracking paradigm can accurately measure text reading behaviours. You are invited to participate in this study, which investigates a new mouse-tracking paradigm during text reading. We hope to learn if mouse-tracking can be used as a quick and accurate substitute for other measures of reading behaviours.
+        <b>Purpose of the Study:</b> The purpose of this study is to explore whether a new mouse-tracking paradigm can accurately measure text reading behaviours. You are invited to participate in this study, which investigates a new mouse-tracking paradigm during text reading and compares it to eye-tracking. We hope to learn if mouse-tracking can be used as a quick and accurate substitute for other measures of reading behaviours.
         <br><br>
         <b>What is mouse-tracking?</b><br>
         Mouse-tracking uses an online platform to register the position on the screen where you hover the mouse, and the duration for which you hold that position. In a mouse-tracking paradigm, all text is blurred until you hover over a word. Upon hovering, a small, clear window appears, allowing you to read that portion of the text. You must continue moving the mouse around the screen to read the entirety of the text. Spotlight information can inform researchers about which words are being viewed and for how long. This allows researchers to investigate the cognitive processes used to read and understand written texts.
         <br><br>
         <b>What will happen during the study?</b><br>
-        This experiment will take place online. Prior to beginning, you will be asked to give consent by reading this form and pressing a button. You will then read a series of short texts and answer a comprehension question after each text. In one part of the session, texts are presented with the blurred mouse-tracking (spotlight) method and your mouse hovers are recorded; in another part, texts are shown clearly without blur. The session will take approximately 30 minutes.
+        This experiment will take place online. You will be asked to provide some demographic information as well as information about your reading and language background. You will then read a series of texts which are presented with the blurred mouse-tracking method or normally. In the mouse-tracking block, your mouse hovers will be recorded while you read the texts. After reading each text, you will be asked to answer a comprehension question. Your eye movements will be recorded throughout the study. The session will take approximately 30 minutes.
         <br><br>
-        For the experiment, you will use your computer mouse as instructed on screen. You will then answer the comprehension questions.
+        We will start by asking you to fill out a questionnaire consisting of personal information, such as age, gender, level of education, and such. Then you will proceed to a series of questions regarding languages spoken and their proficiencies. These tests will be administered as questionnaires that you will need to fill in.
+        <br><br>
+        Prior to beginning the experiment, you will be asked to give consent by reading this form and pressing a button.
+        <br><br>
+        For the experiment, you will use your computer mouse to hover over and read the texts on the screen. You will then answer the comprehension questions. In a second block, you will read texts normally. Your eyes will be tracked throughout the experiment.
         <br><br>
         <b>Potential Harms, Risks or Discomforts:</b><br>
         There are no known harms or risks associated with the usage of the mouse-tracking technology that we are employing. The present study does require you to sit still and remain focused for a considerable period of time. This study might require you to sit and look at a screen to read texts for up to 30 minutes, which may cause you to become fatigued. You may take a break at any time during the experiment. Also, you may feel upset or worried about your level of performance. We assure you that your best effort is always sufficient. Please note that in rare cases researchers who conduct the experiment may additionally have other academic or professional relationships with you. This may be a source of discomfort for you. It is your informed choice whether to volunteer for an experiment with a potential conflict of interest. If you choose to participate in this experiment and to sign the informed consent form below, you will have the right to withdraw without explanation or penalty, and with the full credit for the experiment (see explanation below).
@@ -31,7 +35,7 @@
         The results of this research will not directly benefit you in any way. We hope to learn more about how words in English are processed.
         <br><br>
         <b>Incentive/Payment or Reimbursement:</b><br>
-        Participants will earn the pro-rated minimum hourly wage for their country of data collection, as mandated by Prolific or Besample. For example, Canadian participants will receive approximately $20/hour, divided by the total duration of their participation in minutes.
+        Participants will earn 0.5 SONA credits per half hour of participation.
         <br><br>
         <b>Confidentiality:</b><br>
         All personal information we attain will remain highly confidential. Within this study, you will be identified as a participant number. Any personal information you provide will only be accessible to the principal investigators and co-investigators at McMaster, as well as research assistants. All information will be strictly secured in a locked cabinet or on a password-protected computer. No publication or discussion regarding this study will contain any personal and/or identifying information. As requested by the federal Tri-Council funding agencies and policies, we will retain your data for at least 5 years. Once out of active use, the electronic data will be archived on a secure server in the McMaster research lab.
@@ -77,14 +81,14 @@
       <br>
       <p>Thank you for your help!</p>
       <br>
-      <p>Please enter your Prolific ID</p>
+      <p>Please enter your SONA ID</p>
       <p>
         <input
-          name="ProlificID"
+          name="SonaID"
           type="text"
           class="obligatory"
           v-model="$magpie.measurements.SubjectID"
-          placeholder="Prolific ID"
+          placeholder="SONA ID"
         />
       </p>
       <div

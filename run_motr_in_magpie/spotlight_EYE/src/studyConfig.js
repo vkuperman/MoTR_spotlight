@@ -7,7 +7,8 @@ export default {
   studyLabel: 'Spotlight Eye',
   experimentId: 'spotlight-eye',
   githubResultsPath: 'run_motr_in_magpie/Results/spotlight_EYE',
-  resultsUploadUrl: 'https://mo-tr-spotlight-prolific.vercel.app/api/upload-results',
+  /** Local / lab Eye: ZIP download only (no Prolific upload API). */
+  resultsUploadUrl: '',
   /** Per blur/clear block: 4 articles (2 elementary + 2 advanced). */
   articlesPerBlock: 4,
   elementaryPerBlock: 2,

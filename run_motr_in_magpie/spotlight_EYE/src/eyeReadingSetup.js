@@ -6,7 +6,7 @@ const BLUR_INSTRUCTIONS =
   'In this study, you will read short texts and answer questions about them. However, unlike in normal reading, the texts will be blurred. Move your mouse over the text to reveal it with the spotlight; the revealed area follows your mouse. Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question on the next page and click "next" to move on. Between each text, you will need to move your mouse back into the rectangle outline to start the next paragraph.';
 
 const CLEAR_INSTRUCTIONS =
-  'In this study, you will read short texts and answer questions about them. Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question on the next page and click "next" to move on. Between each text, you will need to move your mouse back into the rectangle outline to start the next paragraph.';
+  'In this study, you will read short texts and answer questions about them. Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question on the next page and click "next" to move on.';
 
 function normalizeArticleId(value) {
   const n = parseInt(String(value == null ? '' : value).trim(), 10);
@@ -141,10 +141,10 @@ export function prepareEyeReadingSession({
     return {
       ...trial,
       item_id: itemCounter,
-      eye_block_mode: 'blur',
-      eye_tracking_enabled: true,
+      eye_block_mode: 'practice',
+      eye_tracking_enabled: false,
       eye_is_practice: true,
-      onestop_block_mode: 'blur',
+      onestop_block_mode: 'practice',
       onestop_study_key: studyConfig.studyKey,
       response_options: _.shuffle(
         `${trial.response_true}|${trial.response_distractors}`.replace(/ ?["]+/g, '').split('|')

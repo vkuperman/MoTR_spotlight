@@ -36,8 +36,9 @@
               <input type="hidden" class="experiment_id" :value="trial.experiment_id || 'spotlight-eye'">
               <input type="hidden" class="condition_id" :value="trial.condition_id || 1">
               <input type="hidden" class="trial_index" :value="'P' + (i + 1)">
-              <input type="hidden" class="eye_block_mode" value="blur">
-              <input type="hidden" class="eye_tracking_enabled" value="1">
+              <input type="hidden" class="eye_block_mode" value="practice">
+              <input type="hidden" class="eye_tracking_enabled" value="0">
+              <input type="hidden" class="eye_is_practice" value="1">
             </form>
             <div class="oval-cursor"></div>
             <template v-if="showFirstDiv">
@@ -66,7 +67,7 @@
             </div>
             <div class="trial-actions">
               <button v-if="showFirstDiv" type="button" class="trial-done-btn" @click="toggleDivs" :disabled="!isCursorMoving">Done</button>
-              <button v-if="!showFirstDiv && $magpie.measurements.response" type="button" class="trial-next-btn" @click="submitTrialResponse(trial, i)">Next</button>
+              <button v-if="!showFirstDiv && $magpie.measurements.response" type="button" class="trial-next-btn" @click="submitPracticeResponse">Next</button>
             </div>
           </Slide>
         </Screen>
@@ -74,7 +75,11 @@
     </template>
 
     <template v-for="(trial, i) of blocks[0].trials">
-      <ReadingStartGateScreen :key="'b1-gate-' + i" :trial-index="trial.item_id" />
+      <ReadingStartGateScreen
+        v-if="isTrackingTrial(trial)"
+        :key="'b1-gate-' + i"
+        :trial-index="trial.item_id"
+      />
       <Screen :key="'b1-trial-' + i" class="main_screen" :progress="i / Math.max(blocks[0].trials.length, 1)">
         <Slide>
           <form>
@@ -98,8 +103,10 @@
           </form>
           <div v-if="isTrackingTrial(trial)" class="oval-cursor"></div>
           <template v-if="showFirstDiv">
+            <!-- Same markup/CSS as Prolific; clear only flips text color and hides blur (no gates). -->
             <div
               class="readingText"
+              :style="isTrackingTrial(trial) ? null : { color: 'rgba(0, 0, 0, 0.87)' }"
               @mousemove="isTrackingTrial(trial) ? onRevealHover($event) : onClearHover($event)"
               @mouseleave="isTrackingTrial(trial) ? changeBack() : onClearLeave()"
             >
@@ -113,7 +120,7 @@
               class="blurry-layer"
               :style="isTrackingTrial(trial)
                 ? 'opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;'
-                : 'opacity: 1; filter: none;'"
+                : 'opacity: 0; filter: blur(3.5px); transition: all 0.3s linear 0s;'"
             >
               {{ trial.text }}
             </div>
@@ -131,7 +138,13 @@
             </form>
           </div>
           <div class="trial-actions">
-            <button v-if="showFirstDiv" type="button" class="trial-done-btn" @click="toggleDivs" :disabled="!isCursorMoving">Done</button>
+            <button
+              v-if="showFirstDiv"
+              type="button"
+              class="trial-done-btn"
+              @click="toggleDivs"
+              :disabled="isTrackingTrial(trial) && !isCursorMoving"
+            >Done</button>
             <button v-if="!showFirstDiv && $magpie.measurements.response" type="button" class="trial-next-btn" @click="submitTrialResponse(trial, i)">Next</button>
           </div>
         </Slide>
@@ -153,8 +166,9 @@
               <input type="hidden" class="experiment_id" :value="trial.experiment_id || 'spotlight-eye'">
               <input type="hidden" class="condition_id" :value="trial.condition_id || 1">
               <input type="hidden" class="trial_index" :value="'P' + (i + 1)">
-              <input type="hidden" class="eye_block_mode" value="blur">
-              <input type="hidden" class="eye_tracking_enabled" value="1">
+              <input type="hidden" class="eye_block_mode" value="practice">
+              <input type="hidden" class="eye_tracking_enabled" value="0">
+              <input type="hidden" class="eye_is_practice" value="1">
             </form>
             <div class="oval-cursor"></div>
             <template v-if="showFirstDiv">
@@ -183,7 +197,7 @@
             </div>
             <div class="trial-actions">
               <button v-if="showFirstDiv" type="button" class="trial-done-btn" @click="toggleDivs" :disabled="!isCursorMoving">Done</button>
-              <button v-if="!showFirstDiv && $magpie.measurements.response" type="button" class="trial-next-btn" @click="submitTrialResponse(trial, i)">Next</button>
+              <button v-if="!showFirstDiv && $magpie.measurements.response" type="button" class="trial-next-btn" @click="submitPracticeResponse">Next</button>
             </div>
           </Slide>
         </Screen>
@@ -191,7 +205,11 @@
     </template>
 
     <template v-for="(trial, i) of blocks[1].trials">
-      <ReadingStartGateScreen :key="'b2-gate-' + i" :trial-index="trial.item_id" />
+      <ReadingStartGateScreen
+        v-if="isTrackingTrial(trial)"
+        :key="'b2-gate-' + i"
+        :trial-index="trial.item_id"
+      />
       <Screen :key="'b2-trial-' + i" class="main_screen" :progress="i / Math.max(blocks[1].trials.length, 1)">
         <Slide>
           <form>
@@ -217,6 +235,7 @@
           <template v-if="showFirstDiv">
             <div
               class="readingText"
+              :style="isTrackingTrial(trial) ? null : { color: 'rgba(0, 0, 0, 0.87)' }"
               @mousemove="isTrackingTrial(trial) ? onRevealHover($event) : onClearHover($event)"
               @mouseleave="isTrackingTrial(trial) ? changeBack() : onClearLeave()"
             >
@@ -230,11 +249,7 @@
               class="blurry-layer"
               :style="isTrackingTrial(trial)
                 ? 'opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;'
-                : 'opacity: 1; filter: none;'"
-            >
-              {{ trial.text }}
-            </div>
-            <div class="reading-text-spacer" aria-hidden="true">{{ trial.text }}</div>
+                : 'opacity: 0; filter: blur(3.5px); transition: all 0.3s linear 0s;'"
           </template>
           <div v-if="!showFirstDiv" class="trial-comprehension-panel">
             <form>
@@ -252,7 +267,13 @@
             <button v-if="!showFirstDiv && $magpie.measurements.response" type="button" class="trial-next-btn" @click="submitTrialResponse(trial, i)">Next</button>
           </div>
         </Slide>
-      </Screen>
+            <button
+              v-if="showFirstDiv"
+              type="button"
+              class="trial-done-btn"
+              @click="toggleDivs"
+              :disabled="isTrackingTrial(trial) && !isCursorMoving"
+            >Done</button>
     </template>
 
     <ExportReportsScreen
@@ -271,6 +292,10 @@ import _ from 'lodash';
 import studyConfig from './studyConfig';
 import { buildOneStopTrialLists } from '@motr-shared/buildOneStopTrialLists';
 import { loadStimuliRowMap } from '@motr-shared/parseOneStopStimuli';
+import { prepareEyeReadingSession } from '@motr-shared/eyeReadingSetup';
+import ExportReportsScreen from './components/ExportReportsScreen.vue';
+import ReadingStartGateScreen from '@motr-shared/components/ReadingStartGateScreen.vue';
+import {
 import { prepareEyeReadingSession } from './eyeReadingSetup';
 import ExportReportsScreen from './components/ExportReportsScreen.vue';
 import ReadingStartGateScreen from '@motr-shared/components/ReadingStartGateScreen.vue';
@@ -283,10 +308,6 @@ import {
   RAW_SAMPLE_INTERVAL_MS,
   outOfBoundsWordForIndex,
   saveRawPositionSample,
-} from '@motr-shared/motrRawSampling';
-import {
-  appendOneStopTrialMeta,
-  readOneStopTrialMetaFromEl,
 } from '@motr-shared/oneStopExportFields';
 import ConsentEYE from './components/ConsentEYE.vue';
 
@@ -375,10 +396,14 @@ export default {
   },
   mounted() {
     ensureExperimentStartRecorded(this);
-    // Eye-local sampler: skip clear-block trials without patching shared motrRawSampling.
+    installRawPositionSampling(this);
+    this.$nextTick(() => this.measureReadingWindow());
+  },
+  beforeDestroy() {
+    // Eye-local sampler: blur block only (skip clear + practice).
     if (!this._motrRawSampleIntervalId) {
       this._motrRawSampleIntervalId = setInterval(() => {
-        if (this.trackingEnabled === false) return;
+        if (this.trackingEnabled === false || this.isPracticeFromDom()) return;
         saveRawPositionSample(this);
       }, RAW_SAMPLE_INTERVAL_MS);
     }
@@ -389,10 +414,6 @@ export default {
       clearInterval(this._motrRawSampleIntervalId);
       this._motrRawSampleIntervalId = null;
     }
-  },
-  methods: {
-    collectReadingTexts() {
-      const texts = [];
       const passages = this.oneStopLists && Array.isArray(this.oneStopLists.all)
         ? this.oneStopLists.all
         : [];
@@ -768,8 +789,15 @@ export default {
       if (this.trackingEnabled === false) return;
       const expEl = this.$el.querySelector(".experiment_id");
       if (!expEl) return;
-      const durationMs = this.clickStartTime != null ? endTime - this.clickStartTime : null;
-      const subjectId =
+    isPracticeFromDom() {
+      const practiceEl = this.$el && this.$el.querySelector('.eye_is_practice');
+      if (practiceEl && String(practiceEl.value) === '1') return true;
+      const modeEl = this.$el && this.$el.querySelector('.eye_block_mode');
+      return !!(modeEl && String(modeEl.value).toLowerCase() === 'practice');
+    },
+    finishClick(endTime) {
+      // Mouse associations only for main blur-block trials (not clear, not practice).
+      if (this.trackingEnabled === false || this.isPracticeFromDom()) return;
         this.$magpie && this.$magpie.measurements && this.$magpie.measurements.SubjectID
           ? this.$magpie.measurements.SubjectID
           : '';
@@ -858,8 +886,34 @@ export default {
         ItemId: itemId,
         response: selectedResponse,
         response_correct: responseCorrect,
+      const eyeMode = trial && trial.eye_block_mode != null
+        ? trial.eye_block_mode
+        : (this.$el && this.$el.querySelector('.eye_block_mode')
+          ? this.$el.querySelector('.eye_block_mode').value
+          : '');
+      const eyeTracking = trial && trial.eye_tracking_enabled != null
+        ? (trial.eye_tracking_enabled ? 1 : 0)
+        : (this.$el && this.$el.querySelector('.eye_tracking_enabled')
+          ? this.$el.querySelector('.eye_tracking_enabled').value
+          : '');
+      this.$magpie.addTrialData({
+        ItemId: itemId,
+        Condition: trial && trial.condition_id != null ? trial.condition_id : '',
+        response: selectedResponse,
+        response_correct: responseCorrect,
+        // Internal only (stripped from mouse CSVs; used to build comprehension_questions.csv).
+        eye_block_mode: eyeMode,
+        eye_tracking_enabled: eyeTracking,
+        onestop_level: trial && trial.onestop_level,
+        onestop_article_number: trial && trial.onestop_article_number,
+        onestop_paragraph_index: trial && trial.onestop_paragraph_index,
+        onestop_paragraph_number: trial && trial.onestop_paragraph_index,
         ...this.getScreenDimensions(),
       });
+    },
+    submitPracticeResponse() {
+      // Practice is for familiarization only — do not write to results.
+      this.$magpie.saveAndNextScreen();
     },
     submitTrialResponse(trial, trialIndex) {
       try {
@@ -872,13 +926,13 @@ export default {
       }
     },
     isTrackingTrial(trial) {
-      return !trial || trial.eye_tracking_enabled !== false;
+      return !!(trial && trial.eye_tracking_enabled === true && trial.eye_is_practice !== true);
     },
     syncTrackingFromDom() {
-      const el = this.$el && this.$el.querySelector('.eye_tracking_enabled');
-      if (!el) {
-        this.trackingEnabled = true;
+      if (this.isPracticeFromDom()) {
+        this.trackingEnabled = false;
         return;
+      }
       }
       this.trackingEnabled = String(el.value) !== '0';
     },
@@ -912,6 +966,8 @@ export default {
         ParticipantId: id,
         SubjectId: id,
         SubjectID: id,
+        SonaId: id,
+        SONAId: id,
         study_key: studyConfig.studyKey,
         eye_block_order: meta.blockOrder,
         onestop_level_assignment_rule: meta.assignmentRule,
@@ -922,6 +978,8 @@ export default {
       this.$magpie.addTrialData({
         SubjectId: id,
         SubjectID: id,
+        SonaId: id,
+        SONAId: id,
         study_key: studyConfig.studyKey,
         source: 'welcome',
         eye_block_order: meta.blockOrder,
@@ -984,10 +1042,10 @@ export default {
     padding-right: 11%;
     pointer-events: auto;
   }
-  button {
-    position: absolute;
-    bottom: 0;
-    left: 50%;
+  .readingText.readingText--clear {
+    color: rgba(0, 0, 0, 0.87);
+    position: relative;
+  }
   }
   .trial-actions .trial-done-btn,
   .trial-actions .trial-next-btn {
