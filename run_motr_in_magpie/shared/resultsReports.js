@@ -23,7 +23,7 @@ function generateUniqueAlphanumericId() {
   return s;
 }
 
-const PARTICIPANT_ID_FIELDS = ['SONAId', 'SubjectId', 'SubjectID', 'SonaId'];
+const PARTICIPANT_ID_FIELDS = ['SubjectID', 'SubjectId', 'SONAId', 'SonaId'];
 
 function pickNonEmptyString(...values) {
   for (const value of values) {
@@ -53,7 +53,7 @@ function resolveSonaId(vm, expData, allRows) {
   if (Array.isArray(allRows)) {
     for (const row of allRows) {
       if (!row) continue;
-      const fromRow = pickNonEmptyString(row.SONAId, row.SonaId, row.SubjectID, row.SubjectId);
+      const fromRow = pickNonEmptyString(row.SubjectID, row.SubjectId, row.SONAId, row.SonaId);
       if (fromRow) return fromRow;
     }
   }
@@ -209,16 +209,16 @@ function getExpDataFields(expData, allRows, sessionTimes) {
   if (Array.isArray(allRows)) {
     for (const r of allRows) {
       if (!r) continue;
-      if (r.SONAId != null && r.SONAId !== '') {
-        subjectFromRows = r.SONAId;
+      if (r.SubjectID != null && r.SubjectID !== '') {
+        subjectFromRows = r.SubjectID;
         break;
       }
       if (r.SubjectId != null && r.SubjectId !== '') {
         subjectFromRows = r.SubjectId;
         break;
       }
-      if (r.SubjectID != null && r.SubjectID !== '') {
-        subjectFromRows = r.SubjectID;
+      if (r.SONAId != null && r.SONAId !== '') {
+        subjectFromRows = r.SONAId;
         break;
       }
       if (r.SonaId != null && r.SonaId !== '') {
@@ -244,23 +244,20 @@ function getExpDataFields(expData, allRows, sessionTimes) {
   const endTime = sessionTimes && sessionTimes.experiment_end_time != null ? sessionTimes.experiment_end_time : '';
   const duration = sessionTimes && sessionTimes.experiment_duration != null ? sessionTimes.experiment_duration : '';
   const durationMs = exp.experiment_duration_ms != null ? exp.experiment_duration_ms : duration;
-  const sonaIdValue =
-    (exp.SONAId != null && exp.SONAId !== '')
-      ? exp.SONAId
-      : (exp.ProlificID != null && exp.ProlificID !== ''
-        ? exp.ProlificID
-        : (exp.ProlificId != null && exp.ProlificId !== ''
-          ? exp.ProlificId
-          : (exp.SubjectId != null && exp.SubjectId !== ''
-            ? exp.SubjectId
-            : (exp.SubjectID != null && exp.SubjectID !== ''
-              ? exp.SubjectID
-              : subjectFromRows))));
+  const subjectIdValue = pickNonEmptyString(
+    exp.SubjectID,
+    exp.SubjectId,
+    exp.SONAId,
+    exp.SonaId,
+    exp.ProlificID,
+    exp.ProlificId,
+    subjectFromRows
+  );
 
   return {
     device: exp.device != null && exp.device !== '' ? exp.device : fromRows.device,
     hand: exp.hand != null && exp.hand !== '' ? exp.hand : fromRows.hand,
-    SONAId: sonaIdValue,
+    SubjectID: subjectIdValue,
     experiment: exp.experiment != null ? exp.experiment : (exp.Experiment != null ? exp.Experiment : ''),
     experiment_date: pickNonEmptyString(exp.experiment_date, derivedStart && derivedStart.experiment_date),
     experiment_start_date: pickNonEmptyString(exp.experiment_start_date, exp.experiment_date, derivedStart && derivedStart.experiment_start_date),
@@ -277,7 +274,7 @@ function getExpDataFields(expData, allRows, sessionTimes) {
 }
 
 const FIXATION_CSV_COLUMNS = columnsWithOneStopAfterCondition([
-  'participant_id', 'SONAId', 'Condition', 'ItemId', 'text_presentation_order', 'WordIndex', 'Word',
+  'participant_id', 'SubjectID', 'Condition', 'ItemId', 'text_presentation_order', 'WordIndex', 'Word',
   'responseTime', 'mousePositionX', 'mousePositionY', 'Regression', 'clickDurationMs',
   'relativeXInWord', 'relativeYInWord',
   'wordPositionTop', 'wordPositionLeft', 'wordPositionBottom', 'wordPositionRight',
@@ -293,7 +290,7 @@ const FIXATION_CSV_COLUMNS = columnsWithOneStopAfterCondition([
 ]);
 
 const RAW_POSITION_CSV_COLUMNS = columnsWithOneStopAfterCondition([
-  'participant_id', 'SONAId', 'Condition', 'ItemId', 'text_presentation_order', 'WordIndex', 'Word',
+  'participant_id', 'SubjectID', 'Condition', 'ItemId', 'text_presentation_order', 'WordIndex', 'Word',
   'responseTime', 'sampleTimeMs', 'mousePositionX', 'mousePositionY',
   'wordPositionTop', 'wordPositionLeft', 'wordPositionBottom', 'wordPositionRight',
   'line_number', 'position_in_line', 'response', 'response_correct',
@@ -305,7 +302,7 @@ const RAW_POSITION_CSV_COLUMNS = columnsWithOneStopAfterCondition([
 ]);
 
 const INTEREST_AREA_CSV_COLUMNS = columnsWithOneStopAfterCondition([
-  'participant_id', 'SONAId', 'Condition', 'ItemId', 'text_presentation_order',
+  'participant_id', 'SubjectID', 'Condition', 'ItemId', 'text_presentation_order',
   'word_index', 'WordIndex', 'word', 'response', 'response_correct', 'line_number', 'position_in_line',
   'click_count', 'skipped',
   'IA_FIRST_RUN_DWELL_TIME', 'IA_DWELL_TIME', 'IA_FIRST_FIXATION_DURATION',
@@ -337,7 +334,7 @@ function buildRawPositionReport(allRows, participantId, expData, sessionTimes) {
     const val = (key) => (row[key] != null && row[key] !== '' ? row[key] : '');
     const out = {
       participant_id: pid,
-      SONAId: expFields.SONAId,
+      SubjectID: expFields.SubjectID,
       Condition: val('Condition'),
       ItemId: val('ItemId'),
       text_presentation_order: row.presentation_order != null && row.presentation_order !== '' ? Number(row.presentation_order) : '',
@@ -465,7 +462,7 @@ function buildFixationReport(allRows, participantId, expData, sessionTimes) {
     const out = {};
     const val = (key) => (row[key] != null && row[key] !== '' ? row[key] : '');
     out.participant_id = pid;
-    out.SONAId = val('SONAId');
+    out.SubjectID = val('SubjectID');
     out.Condition = val('Condition');
     applyOneStopExportFields(out, row, oneStopByItem);
     out.ItemId = val('ItemId');
@@ -785,7 +782,7 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
         experiment_start_time: expFields.experiment_start_time,
         experiment_start_clock_time: expFields.experiment_start_clock_time,
         experiment_start_time_local: expFields.experiment_start_time_local,
-        SONAId: expFields.SONAId,
+        SubjectID: expFields.SubjectID,
         experiment_end_date: expFields.experiment_end_date,
         experiment_end_time: expFields.experiment_end_time,
         experiment_end_clock_time: expFields.experiment_end_clock_time,
@@ -835,7 +832,7 @@ function buildInterestAreaReport(allRows, participantId, expData, sessionTimes) 
     const val = (key) => (row[key] != null && row[key] !== '' ? row[key] : '');
     return {
       participant_id: val('participant_id'),
-      SONAId: val('SONAId'),
+      SubjectID: val('SubjectID'),
       Condition: val('Condition'),
       onestop_level: val('onestop_level'),
       onestop_article_number: val('onestop_article_number'),
@@ -918,8 +915,6 @@ const SESSION_RAW_METADATA_KEYS = new Set([
   'ParticipantId',
   'SubjectId',
   'SubjectID',
-  'SONAId',
-  'SonaId',
   'study_key',
   'experiment_start_time',
   'experiment_end_time',

@@ -1,4 +1,4 @@
-/** Insert after Condition in fixation, interest-area, and raw exports (order: level, article, paragraph). */
+﻿/** Insert after Condition in fixation, interest-area, and raw exports (order: level, article, paragraph). */
 export const ONESTOP_EXPORT_COLUMNS = [
   'onestop_level',
   'onestop_article_number',
@@ -46,6 +46,10 @@ export function readOneStopTrialMetaFromEl(rootEl) {
     onestop_article_number: q('.onestop_article_number'),
     onestop_paragraph_number: paragraph,
     onestop_paragraph_index: paragraph,
+    // Eye-internal tags for blur/clear filtering (stripped from CSV columns).
+    eye_block_mode: q('.eye_block_mode'),
+    eye_tracking_enabled: q('.eye_tracking_enabled'),
+    eye_is_practice: q('.eye_is_practice'),
   };
 }
 
@@ -56,6 +60,11 @@ export function appendOneStopTrialMeta(payload, meta) {
   if (meta.onestop_article_number) payload.onestop_article_number = meta.onestop_article_number;
   if (meta.onestop_paragraph_number) payload.onestop_paragraph_number = meta.onestop_paragraph_number;
   if (meta.onestop_paragraph_index) payload.onestop_paragraph_index = meta.onestop_paragraph_index;
+  if (meta.eye_block_mode) payload.eye_block_mode = meta.eye_block_mode;
+  if (meta.eye_tracking_enabled !== undefined && meta.eye_tracking_enabled !== '') {
+    payload.eye_tracking_enabled = meta.eye_tracking_enabled;
+  }
+  if (meta.eye_is_practice) payload.eye_is_practice = meta.eye_is_practice;
   return payload;
 }
 

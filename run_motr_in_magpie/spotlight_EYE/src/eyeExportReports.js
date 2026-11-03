@@ -77,8 +77,10 @@ export function rowsForBlurMouseReports(allRows) {
 /**
  * One row per comprehension answer for blur and clear main texts.
  */
-export function buildComprehensionQuestionsCsv(allRows, participantId) {
+export function buildComprehensionQuestionsCsv(allRows, participantId, expData) {
   if (!Array.isArray(allRows)) return '';
+  const subjectId = pick(expData, 'SubjectID', 'SubjectId')
+    || (participantId != null ? String(participantId) : '');
   const byItem = new Map();
   for (const row of allRows) {
     if (!row || isPracticeRow(row) || !isResponseRow(row)) continue;
@@ -92,6 +94,7 @@ export function buildComprehensionQuestionsCsv(allRows, participantId) {
     // Keep the last non-empty response for this item.
     byItem.set(key, {
       participant_id: participantId != null ? String(participantId) : '',
+      SubjectID: pick(row, 'SubjectID', 'SubjectId') || subjectId,
       ItemId: itemId,
       Condition: pick(row, 'Condition', 'condition_id'),
       block: mode === 'clear' ? 'clear' : 'blur',
@@ -117,6 +120,7 @@ export function buildComprehensionQuestionsCsv(allRows, participantId) {
   return toCsv(
     [
       'participant_id',
+      'SubjectID',
       'ItemId',
       'Condition',
       'block',

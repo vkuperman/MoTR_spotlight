@@ -17,11 +17,24 @@ function pickNonEmptyString(...values) {
   return '';
 }
 
+function readMagpieExpData(vm) {
+  if (!vm || !vm.$magpie) return {};
+  if (typeof vm.$magpie.getExpData === 'function') {
+    const viaMethod = vm.$magpie.getExpData();
+    if (viaMethod && typeof viaMethod === 'object') return viaMethod;
+  }
+  if (vm.$magpie.expData && typeof vm.$magpie.expData === 'object') return vm.$magpie.expData;
+  if (typeof window !== 'undefined' && window.magpie_exp_data && typeof window.magpie_exp_data === 'object') {
+    return window.magpie_exp_data;
+  }
+  return {};
+}
+
 /** Record wall-clock experiment start when the participant opens the study link. */
 export function ensureExperimentStartRecorded(vm) {
   if (isNoUploadMode()) return;
   if (!vm || !vm.$magpie || !vm.$magpie.addExpData) return;
-  const expData = (vm.$magpie.getExpData && vm.$magpie.getExpData()) || {};
+  const expData = readMagpieExpData(vm);
   if (pickNonEmptyString(expData.experiment_start_time, expData.experimentStartTime)) return;
   vm.$magpie.addExpData(buildExperimentStartExpFields(new Date()));
 }
@@ -37,7 +50,7 @@ function buildSessionFolderName(participantId, startTime) {
 }
 
 function resolveParticipantId(vm) {
-  const expData = (vm.$magpie.getExpData && vm.$magpie.getExpData()) || {};
+  const expData = readMagpieExpData(vm);
   let participantId =
     expData.ParticipantId
     || expData.ProlificID
@@ -46,6 +59,7 @@ function resolveParticipantId(vm) {
     || expData.SubjectId
     || expData.SONAId
     || expData.SonaId
+    || (vm.$root && vm.$root._eyeSubjectId)
     || (vm.$root && vm.$root.participantId)
     || '';
   if (!participantId || String(participantId).trim() === '') {
@@ -62,7 +76,7 @@ export function initResultsSession(vm, studyConfig) {
 
   ensureExperimentStartRecorded(vm);
   const participantId = resolveParticipantId(vm);
-  const expData = (vm.$magpie.getExpData && vm.$magpie.getExpData()) || {};
+  const expData = readMagpieExpData(vm);
   const sonaId = resolveSonaId(vm, expData, null);
   const startTime = parseExperimentStartInstant(expData.experiment_start_time) || new Date();
   const sessionId = `${participantId}_${startTime.getTime()}_${generateUniqueAlphanumericId()}`;

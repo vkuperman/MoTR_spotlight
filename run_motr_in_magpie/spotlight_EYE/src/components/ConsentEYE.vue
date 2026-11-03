@@ -81,23 +81,24 @@
       <br>
       <p>Thank you for your help!</p>
       <br>
-      <p>Please enter your SONA ID</p>
+      <p>Please enter your participant number to consent to participation in this study</p>
       <p>
         <input
-          name="SONAId"
+          name="SubjectID"
           type="text"
           class="obligatory"
-          v-model="$magpie.measurements.SONAId"
-          placeholder="SONA ID"
+          v-model="participantNumber"
+          placeholder="Participant number"
+          @input="syncSubjectId"
         />
       </p>
       <div
-        v-if="$magpie.measurements.SONAId && !$magpie.validateMeasurements.SONAId.$invalid"
+        v-if="canProceed"
         class="consent-proceed"
       >
         <p>I consent to participate in this study.</p>
         <p>By clicking on the button below you consent to participating in this study:</p>
-        <button type="button" class="consent-proceed-button" @click="$emit('proceed')">Proceed</button>
+        <button type="button" class="consent-proceed-button" @click="onProceed">Proceed</button>
       </div>
     </div>
   </div>
@@ -106,6 +107,29 @@
 <script>
 export default {
   name: 'ConsentEYE',
+  data() {
+    return {
+      participantNumber: '',
+    };
+  },
+  computed: {
+    canProceed() {
+      return String(this.participantNumber || '').trim().length >= 2;
+    },
+  },
+  methods: {
+    syncSubjectId() {
+      const id = String(this.participantNumber || '').trim();
+      if (this.$magpie && this.$magpie.measurements) {
+        this.$magpie.measurements.SubjectID = id;
+      }
+    },
+    onProceed() {
+      const id = String(this.participantNumber || '').trim();
+      this.syncSubjectId();
+      this.$emit('proceed', id);
+    },
+  },
 };
 </script>
 

@@ -956,26 +956,23 @@ export default {
       this.sessionMetadata = session.metadata;
       this.trials = session.blocks.flatMap((b) => b.trials);
     },
-    recordConsentAndProceed() {
-      const sonaId = (this.$magpie && this.$magpie.measurements && this.$magpie.measurements.SONAId)
-        ? String(this.$magpie.measurements.SONAId).trim()
+    recordConsentAndProceed(consentValue) {
+      const fromArg = consentValue != null ? String(consentValue).trim() : '';
+      const fromMeasurements = (this.$magpie && this.$magpie.measurements && this.$magpie.measurements.SubjectID)
+        ? String(this.$magpie.measurements.SubjectID).trim()
         : '';
-      // Use SONA ID as the session participant id (also stored as SONAId).
-      const id = sonaId
-        || ((this.$magpie && this.$magpie.measurements && this.$magpie.measurements.SubjectID)
-          ? String(this.$magpie.measurements.SubjectID).trim()
-          : '');
+      const subjectId = fromArg || fromMeasurements;
       if (this.$magpie && this.$magpie.measurements) {
-        this.$magpie.measurements.SubjectID = id;
-        this.$magpie.measurements.SONAId = sonaId || id;
+        this.$magpie.measurements.SubjectID = subjectId;
       }
+      // Persist outside Magpie measurements (cleared on nextScreen).
+      if (this.$root) this.$root._eyeSubjectId = subjectId;
       const screenDimensions = this.getScreenDimensions();
       const meta = this.sessionMetadata || {};
       this.$magpie.addExpData({
-        ParticipantId: id,
-        SubjectId: id,
-        SubjectID: id,
-        SONAId: sonaId || id,
+        ParticipantId: subjectId,
+        SubjectId: subjectId,
+        SubjectID: subjectId,
         study_key: studyConfig.studyKey,
         eye_block_order: meta.blockOrder,
         onestop_level_assignment_rule: meta.assignmentRule,
@@ -984,9 +981,8 @@ export default {
         ...screenDimensions,
       });
       this.$magpie.addTrialData({
-        SubjectId: id,
-        SubjectID: id,
-        SONAId: sonaId || id,
+        SubjectId: subjectId,
+        SubjectID: subjectId,
         study_key: studyConfig.studyKey,
         source: 'welcome',
         eye_block_order: meta.blockOrder,

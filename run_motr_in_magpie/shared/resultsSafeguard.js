@@ -23,6 +23,20 @@ import {
 import { isNoUploadMode } from './previewMode';
 import { getResultsUploadUrl, uploadResultsFiles } from './resultsUpload';
 
+/** Magpie stores globals on `.expData`; there is no `.getExpData()` method. */
+export function readMagpieExpData(vm) {
+  if (!vm || !vm.$magpie) return {};
+  if (typeof vm.$magpie.getExpData === 'function') {
+    const viaMethod = vm.$magpie.getExpData();
+    if (viaMethod && typeof viaMethod === 'object') return viaMethod;
+  }
+  if (vm.$magpie.expData && typeof vm.$magpie.expData === 'object') return vm.$magpie.expData;
+  if (typeof window !== 'undefined' && window.magpie_exp_data && typeof window.magpie_exp_data === 'object') {
+    return window.magpie_exp_data;
+  }
+  return {};
+}
+
 function resolveParticipantId(vm, expData) {
   const exp = expData && typeof expData === 'object' ? expData : {};
   let participantId =
@@ -34,6 +48,7 @@ function resolveParticipantId(vm, expData) {
     || exp.SONAId
     || exp.SonaId
     || (vm.$root && vm.$root.participantId)
+    || (vm.$root && vm.$root._eyeSubjectId)
     || null;
   if (!participantId || String(participantId).trim() === '') {
     participantId = generateUniqueAlphanumericId();
@@ -52,7 +67,7 @@ function resolveGithubResultsPath(vm, studyConfig) {
 
 export function resolveExportContext(vm, studyConfig) {
   const allRows = vm.$magpie.getAllData();
-  const expData = (vm.$magpie.getExpData && vm.$magpie.getExpData()) || {};
+  const expData = readMagpieExpData(vm);
   const session = getResultsSession(vm);
   const participantId = session && session.participantId
     ? session.participantId
@@ -77,7 +92,7 @@ export function resolveExportContext(vm, studyConfig) {
 }
 
 export function buildCheckpointSessionTimes(vm) {
-  const expData = (vm.$magpie.getExpData && vm.$magpie.getExpData()) || {};
+  const expData = readMagpieExpData(vm);
   const session = getResultsSession(vm);
   const startInstant = resolveExperimentStartInstant(
     expData,
@@ -91,7 +106,7 @@ export function buildCheckpointSessionTimes(vm) {
 
 export function buildCompleteSessionTimes(vm) {
   const checkpointTimes = buildCheckpointSessionTimes(vm);
-  const expData = (vm.$magpie.getExpData && vm.$magpie.getExpData()) || {};
+  const expData = readMagpieExpData(vm);
   const session = getResultsSession(vm);
   const endTime = new Date();
   const startInstant = resolveExperimentStartInstant(
