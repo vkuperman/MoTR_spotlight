@@ -84,15 +84,15 @@
       <p>Please enter your SONA ID</p>
       <p>
         <input
-          name="SonaID"
+          name="SONAId"
           type="text"
           class="obligatory"
-          v-model="$magpie.measurements.SubjectID"
+          v-model="$magpie.measurements.SONAId"
           placeholder="SONA ID"
         />
       </p>
       <div
-        v-if="$magpie.measurements.SubjectID && !$magpie.validateMeasurements.SubjectID.$invalid"
+        v-if="$magpie.measurements.SONAId && !$magpie.validateMeasurements.SONAId.$invalid"
         class="consent-proceed"
       >
         <p>I consent to participate in this study.</p>
