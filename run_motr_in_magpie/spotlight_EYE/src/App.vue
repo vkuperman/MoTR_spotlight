@@ -1042,10 +1042,10 @@ export default {
     padding-right: 11%;
     pointer-events: auto;
   }
-  .readingText.readingText--clear {
-    color: rgba(0, 0, 0, 0.87);
-    position: relative;
-  }
+  button {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
   }
   .trial-actions .trial-done-btn,
   .trial-actions .trial-next-btn {
