@@ -1,6 +1,6 @@
-# Parallel Spotlight experiments (SONA, Prolific, Eye)
+# Two parallel Spotlight experiments (SONA and Prolific)
 
-One repository, **shared stimuli and core logic**, **independent front-end apps**.
+One repository, **shared stimuli and core logic**, **two independent front-end apps**.
 
 ## Layout
 
@@ -10,27 +10,24 @@ run_motr_in_magpie/
   shared/                  ← trial builders, parsers (edit once for both)
   spotlight_SONA/          ← SONA recruitment app
   spotlight_PROLIFIC/      ← Prolific recruitment app
-  spotlight_EYE/           ← dual-block blur + clear (no Cambridge/demographics)
   Results/
     spotlight_SONA/        ← ZIP uploads for SONA
     spotlight_PROLIFIC/    ← ZIP uploads for Prolific
-    spotlight_EYE/         ← ZIP uploads for Eye
 ```
 
 ## What to edit per version
 
-| Change | SONA | Prolific | Eye |
-|--------|------|----------|-----|
-| Consent text | `spotlight_SONA/src/components/ConsentSONA.vue` | `spotlight_PROLIFIC/src/components/ConsentPROLIFIC.vue` | `spotlight_EYE/src/components/ConsentEYE.vue` |
-| Article selection, IDs, upload URL | `spotlight_SONA/src/studyConfig.js` | `spotlight_PROLIFIC/src/studyConfig.js` | `spotlight_EYE/src/studyConfig.js` |
-| Shared trial logic | `shared/*.js` | same files | `eyeReadingSetup.js` + shared |
+| Change | SONA | Prolific |
+|--------|------|----------|
+| Consent text | `spotlight_SONA/src/components/ConsentSONA.vue` | `spotlight_PROLIFIC/src/components/ConsentPROLIFIC.vue` |
+| Article selection, IDs, upload URL | `spotlight_SONA/src/studyConfig.js` | `spotlight_PROLIFIC/src/studyConfig.js` |
+| Shared trial logic | `shared/*.js` | same files |
 
 ## Local run
 
 ```bash
 cd run_motr_in_magpie/spotlight_SONA && npm install && npm run serve
 cd run_motr_in_magpie/spotlight_PROLIFIC && npm install && npm run serve
-cd run_motr_in_magpie/spotlight_EYE && npm install && npm run serve
 ```
 
 Final screen: `shared/components/ExportReportsScreen.vue` (no `demo/` dependency).

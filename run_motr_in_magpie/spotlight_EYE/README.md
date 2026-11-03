@@ -1,12 +1,12 @@
 # MoTR Spotlight — Eye (blur + clear)
 
-Dual-block MoTR study: counterbalanced **spotlight (blur)** and **clear** reading. No Cambridge, demographics, or device/hand screens. Article pool matches Prolific (15 allow-listed articles); each block has 4 articles (2 elementary + 2 advanced), no reuse across blocks. Practice appears only after blur instructions.
+Branch: **`MoTR_Eye`**. Dual-block counterbalanced **spotlight (blur)** and **clear** reading. No Cambridge, demographics, or device/hand screens.
 
-Shared code: `../shared/` (including `eyeReadingSetup.js`).
+All Eye-specific code is under `spotlight_EYE/` (including `src/eyeReadingSetup.js`). This branch does not change shared libraries or the SONA/Prolific apps.
 
 ```bash
 npm install
 npm run serve
 ```
 
-See [../TWO_VERSIONS.md](../TWO_VERSIONS.md).
+At the end of a session the browser downloads a results ZIP.

@@ -43,7 +43,9 @@
             <template v-if="showFirstDiv">
               <div class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
                 <template v-for="(word, index) of trial.text.split(' ')">
-                  <span :key="index" :data-index="index + 1">{{ word }}</span>
+                  <span :key="index" :data-index="index + 1">
+                    {{ word }}
+                  </span>
                 </template>
               </div>
               <div class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;">
@@ -53,7 +55,7 @@
             </template>
             <div v-if="!showFirstDiv" class="trial-comprehension-panel">
               <form>
-                <div class="trial-comprehension-question">{{ (trial.question || '').replace(/ ?[\"]+/g, '') }}</div>
+                <div class="trial-comprehension-question">{{ (trial.question || '').replace(/ ?["]+/g, '') }}</div>
                 <template v-for="(word, index) of trial.response_options">
                   <label :key="'popt_'+index" class="trial-response-option">
                     <input :id="'popt_'+index" type="radio" :value="word" name="opt" v-model="$magpie.measurements.response" />
@@ -98,19 +100,23 @@
           <template v-if="showFirstDiv">
             <div
               class="readingText"
-              :class="{ 'readingText--clear': !isTrackingTrial(trial) }"
               @mousemove="isTrackingTrial(trial) ? onRevealHover($event) : onClearHover($event)"
               @mouseleave="isTrackingTrial(trial) ? changeBack() : onClearLeave()"
             >
               <template v-for="(word, index) of trial.text.split(' ')">
-                <span :key="index" :data-index="index + 1">{{ word }}</span>
+                <span :key="index" :data-index="index + 1">
+                  {{ word }}
+                </span>
               </template>
             </div>
             <div
-              v-if="isTrackingTrial(trial)"
               class="blurry-layer"
-              style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;"
-            >{{ trial.text }}</div>
+              :style="isTrackingTrial(trial)
+                ? 'opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;'
+                : 'opacity: 1; filter: none;'"
+            >
+              {{ trial.text }}
+            </div>
             <div class="reading-text-spacer" aria-hidden="true">{{ trial.text }}</div>
           </template>
           <div v-if="!showFirstDiv" class="trial-comprehension-panel">
@@ -154,7 +160,9 @@
             <template v-if="showFirstDiv">
               <div class="readingText" @mousemove="onRevealHover" @mouseleave="changeBack">
                 <template v-for="(word, index) of trial.text.split(' ')">
-                  <span :key="index" :data-index="index + 1">{{ word }}</span>
+                  <span :key="index" :data-index="index + 1">
+                    {{ word }}
+                  </span>
                 </template>
               </div>
               <div class="blurry-layer" style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;">
@@ -164,7 +172,7 @@
             </template>
             <div v-if="!showFirstDiv" class="trial-comprehension-panel">
               <form>
-                <div class="trial-comprehension-question">{{ (trial.question || '').replace(/ ?[\"]+/g, '') }}</div>
+                <div class="trial-comprehension-question">{{ (trial.question || '').replace(/ ?["]+/g, '') }}</div>
                 <template v-for="(word, index) of trial.response_options">
                   <label :key="'p2opt_'+index" class="trial-response-option">
                     <input :id="'p2opt_'+index" type="radio" :value="word" name="opt" v-model="$magpie.measurements.response" />
@@ -209,19 +217,23 @@
           <template v-if="showFirstDiv">
             <div
               class="readingText"
-              :class="{ 'readingText--clear': !isTrackingTrial(trial) }"
               @mousemove="isTrackingTrial(trial) ? onRevealHover($event) : onClearHover($event)"
               @mouseleave="isTrackingTrial(trial) ? changeBack() : onClearLeave()"
             >
               <template v-for="(word, index) of trial.text.split(' ')">
-                <span :key="index" :data-index="index + 1">{{ word }}</span>
+                <span :key="index" :data-index="index + 1">
+                  {{ word }}
+                </span>
               </template>
             </div>
             <div
-              v-if="isTrackingTrial(trial)"
               class="blurry-layer"
-              style="opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;"
-            >{{ trial.text }}</div>
+              :style="isTrackingTrial(trial)
+                ? 'opacity: 0.3; filter: blur(3.5px); transition: all 0.3s linear 0s;'
+                : 'opacity: 1; filter: none;'"
+            >
+              {{ trial.text }}
+            </div>
             <div class="reading-text-spacer" aria-hidden="true">{{ trial.text }}</div>
           </template>
           <div v-if="!showFirstDiv" class="trial-comprehension-panel">
@@ -259,7 +271,7 @@ import _ from 'lodash';
 import studyConfig from './studyConfig';
 import { buildOneStopTrialLists } from '@motr-shared/buildOneStopTrialLists';
 import { loadStimuliRowMap } from '@motr-shared/parseOneStopStimuli';
-import { prepareEyeReadingSession } from '@motr-shared/eyeReadingSetup';
+import { prepareEyeReadingSession } from './eyeReadingSetup';
 import ExportReportsScreen from './components/ExportReportsScreen.vue';
 import ReadingStartGateScreen from '@motr-shared/components/ReadingStartGateScreen.vue';
 import {
@@ -268,9 +280,9 @@ import {
   initResultsSession,
 } from '@motr-shared/resultsSafeguard';
 import {
-  installRawPositionSampling,
+  RAW_SAMPLE_INTERVAL_MS,
   outOfBoundsWordForIndex,
-  uninstallRawPositionSampling,
+  saveRawPositionSample,
 } from '@motr-shared/motrRawSampling';
 import {
   appendOneStopTrialMeta,
@@ -363,11 +375,20 @@ export default {
   },
   mounted() {
     ensureExperimentStartRecorded(this);
-    installRawPositionSampling(this);
+    // Eye-local sampler: skip clear-block trials without patching shared motrRawSampling.
+    if (!this._motrRawSampleIntervalId) {
+      this._motrRawSampleIntervalId = setInterval(() => {
+        if (this.trackingEnabled === false) return;
+        saveRawPositionSample(this);
+      }, RAW_SAMPLE_INTERVAL_MS);
+    }
     this.$nextTick(() => this.measureReadingWindow());
   },
   beforeDestroy() {
-    uninstallRawPositionSampling(this);
+    if (this._motrRawSampleIntervalId) {
+      clearInterval(this._motrRawSampleIntervalId);
+      this._motrRawSampleIntervalId = null;
+    }
   },
   methods: {
     collectReadingTexts() {
@@ -962,10 +983,6 @@ export default {
     padding-left: 11%;
     padding-right: 11%;
     pointer-events: auto;
-  }
-  .readingText.readingText--clear {
-    color: rgba(0, 0, 0, 0.87);
-    position: relative;
   }
   button {
     position: absolute;

@@ -1,6 +1,6 @@
 import _ from 'lodash';
-import { pickArticleLevelOneStopTrials } from './buildOneStopTrialLists';
-import { mergeStimuliQuestionsIntoTrials } from './parseOneStopStimuli';
+import { pickArticleLevelOneStopTrials } from '@motr-shared/buildOneStopTrialLists';
+import { mergeStimuliQuestionsIntoTrials } from '@motr-shared/parseOneStopStimuli';
 
 const BLUR_INSTRUCTIONS =
   'In this study, you will read short texts and answer questions about them. However, unlike in normal reading, the texts will be blurred. Move your mouse over the text to reveal it with the spotlight; the revealed area follows your mouse. Take as much time to read the text as you need in order to understand it. When you are done reading, answer the question on the next page and click "next" to move on. Between each text, you will need to move your mouse back into the rectangle outline to start the next paragraph.';
