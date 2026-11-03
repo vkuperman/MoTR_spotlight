@@ -33,6 +33,8 @@ export function uninstallRawPositionSampling(vm) {
 
 export function saveRawPositionSample(vm) {
   if (!vm || !vm.showFirstDiv || !vm.$el || !vm.isCursorMoving) return;
+  // MoTR_Eye clear block (and any trial with tracking disabled)
+  if (vm.trackingEnabled === false) return;
   const readingText = vm.$el.querySelector('.readingText');
   if (!readingText) return;
 
