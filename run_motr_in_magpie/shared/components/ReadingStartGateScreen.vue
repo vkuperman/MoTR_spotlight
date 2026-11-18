@@ -6,7 +6,9 @@
         class="reading-start-gate-target"
         :style="targetStyle"
         aria-hidden="true"
-        @mouseenter="advance"
+        @pointerdown="advance"
+        @touchstart.prevent="advance"
+        @mousedown="advance"
       />
     </Slide>
   </Screen>
@@ -80,5 +82,7 @@ export default {
   border: 1px solid #333;
   background: transparent;
   cursor: default;
+  touch-action: none;
+  -webkit-tap-highlight-color: transparent;
 }
 </style>
